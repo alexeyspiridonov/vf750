@@ -1,0 +1,3276 @@
+SabMag/VFR List
+Microfiche & Manuals
+Electronic Reader
+Project
+
+The microfiche and manuals contained herein are provided as a service to the Internet mailing-list community for
+non-commercial use only.
+
+No warranties, express or implied, are given for the accuracy of this material.
+
+materials contained on this CD are in Adobe Portable Document Format (PDF).
+information provided it is used in its entirety and includes this message.
+
+Alll
+
+You may freely copy this
+
+The free Adobe Acrobat Reader® for
+
+each of the supported com puter platforms is included to allow reading.
+provided for this software by Adobe and included in the installation package.
+
+Separate license agreements are
+
+Back to
+
+Continue
+
+Index
+
+To next page
+
+Table of Contents
+Grid
+How To Use This Catalog ................cccccscesessceessereenseeeeees
+
+A
+
+2
+
+Serial NUMDEPS
+.......0.........
+cc
+ecessscesessensnseesesssseesecessenensnseees
+
+A
+
+3
+
+Construction Of Vehicle Identification Number (V.I.N.)..
+
+A
+
+3
+
+Color Tables. .................cccccscsccecsssscccsssecestecsseccececesssseseseneesenes
+
+A
+
+4
+
+Manuals... ceceeceesesesncseceeeesesesensessteeesensnsceesecsesseneteeaees
+
+A
+
+6
+
+Model ID Photos..00....... oc e ec eeeccssseseseesteceseesssnneeesnsneeersers
+
+A
+
+7
+
+Specifications .................cccccssesseeeccessensseseceececssenccesecesseeeeeees
+
+A
+
+7
+
+Bulk HOSE ...0........ceccccessscscceccesessssssessseeeesseccaeeueeceessssenenseess
+
+A
+
+9
+
+Commonly Required Replacement Parts .......................-.
+
+A 10
+
+VF700S’84e’85
+
+Contents By Page No. Sequence .......................ssssesceeseeees
+
+A 11
+
+Sabre
+
+Contents In Alphabetical Order ....................c
+cc cesseeeees
+
+A 11
+
+FIONT DA.
+PARTS CATALOG
+
+Page
+
+Part Groups
+
+EngGin€ Group ............cccssecsceceeessesesteeeesssesesececeseeaees .
+
+Bd
+
+FrAMe Group ..........cccccccccccececensserecenssseccereceesesensessseeees
+
+E
+
+1
+
+Part Number Index ...................:cssseeseeeesseecceaseeseceeeeenees
+
+1
+
+1
+
+DeESCTIPTION INGEX ...........cecccssssseseeeceeeeesecceesteeseeeteeeres
+
+J
+
+1
+
+Index
+
+AMERICAN HONDA MOTOR CO., INC.
+
+July, 1993
+Second Edition
+
+© AMERICAN HONDA MOTOR CO., INC. 1993
+
+PRINTED IN USA
+
+14MBOEM
+14MBOEM
+
+© American Honda Motor Co., Inc. 1993
+
+I
+
+GRID
+
+Al
+
+How To Use This Catalog
+
+How To Use This Catalog
+6. QTY REQ — Quantity required per unit as specified.
+
+This parts catalog is to ba used when ordering replacement parts for tha model (s) specified on the microfiche strip.
+
+A.
+
+“(_
+
+CATALOG PAGE BREAKDOWN
+MODEL(S)
+
+MODEL
+
+APPLICATION
+TSE
+
+ence numbers and application. Several part numbers may be
+listed under one (1) reference number. For your convenience
+
+jc
+
+Q
+
+RCICUCECECHres\
+
+the current supersede chain, as of print data, has been listed for
+
+T
+
+you.
+
+gisioisisiolsis
+
+6i7
+
+4) 5/6/714/516 /71E
+
+HONDA
+
+Q| PART NUMBER
+
+CODE
+
+’
+
+* Allilustrations
+are representative
+only
+anddo not
+
+rly
+
+3. MODEL
+APPLICATION
+— Model application for the various
+models listed
+within the catalog,
+notrequirethis section,
+
+correspond exactly to the actual part. “NI° signifies the part is
+
+not illustrated.
+
+2. DESCRIPTION
+— Describes the part forthe related part number.
+Abbreviations:
+
+ASSY.
+
+COMP.
+R.
+
+L.
+
+—- Assembly"
+
+ah
+
+- Complete
+
+.
+
+AC,
+
+- Aerating
+
+D.C.
+
+- Direct Current
+
+- Right
+
+- Left
+
+.
+
+©: Mig: - Link (100 Links)
+Curreri
+
+be
+
+: iveniaaian
+
+x
+
+: Enaust
+
+G
+
+- Gram
+
+FR.
+
+- Front
+
+HEX.
+
+- Hexagonal
+
+T (227)
+
+- Tooth
+
+RA.
+
+A
+
+- Ampere
+
+AM.
+
+(22 Teeth)
+
+Vv
+Ww
+
+- Voit
+- Watt
+
+KPH
+
+- Kilometer
+
+MPH
+
+Per Hour
+- Miles Per
+
+T.M.
+C.D.
+WL
+WOL
+
+Hour
+
+- Rear
+
+- Attaching Mark
+
+- Transcript Mark
+- Capacitive
+Discharge Ignitien
+- With Labeling
+- Without Labeling
+
+- HONDA CODE — The Honda Codeis listed to the right of each
+Part Number.
+
+A. ADDITIONAL INFORMA
+— The
+TION
+table of contents located
+at the right of each microfiche grid lists sectioned tities in
+
+alphabetical order. Some microfiche will require separate tables
+
+of contents for the Engine and Frame sections which will be
+
+noted in a sub-heading;
+
+the introducion section (Row °A") of
+
+these microfiche will have the contents of the Engine Section on
+even number grids and the contents of the Frame Section
+on
+
+A
+
+1. REF
+— on
+Reference
+number corresponding
+with the reterence NO.
+numbers
+the illustrations.
+*
+
+Supersede chains are subject to change without notice.
+
+Y
+
+BLOCK NO. E-t {4/5/8)7/4/5)6/7 18 ow — E
+
+DESCRIPTION
+
+)’ or °C’ by the quantity required indicates “optional”.
+
+7. PART NUMBER — Part number corresponding to the reter-
+
+|MODEL |,
+R
+
+REF.
+
+“N" in place of the quantity indicates AS REQUIRED.
+
+Single model applications will
+
+PARTS and “STANDARD PARTS" All parisne nunberes in NOTE:
+parts
+
+are
+
+class
+
+3a. ieee guide rtorence ae a Oe
+
+fe)
+
+accordance with system described betow:
+
+1. The Block No. listed in the upper right hand comer of the
+
+General Parts
+Example: Fork comp. Part No. ........00.... §1105-GR1-700ZA
+Function No.
+51
+Component No.
+we
+veo 105
+
+page and it’s text, and should not be confused with the
+GRID NO. when using microfiche.
+2. Rear view mirrors are standard equipment on ail street
+laga! models.
+
+Description heading refers to a complete illustration
+
+ete sencation NO. sosssseeessnsntsnenttns
+nese oR
+caassiticatio
+le saanencedenasaaecsaessaeennsuteueseaeseerctees
+cones A
+
+COMO CON
+
+;
+
+into two groups consi
+
+ace cesssesecaeectecetetttnteneetttesnntecnssennenet
+
+Standard Parts
+
+ae
+
+For 1976 and above the quide reference is the last digit of the mode!
+
+year ie., 1976=6; 1977=7; 19855 etc...)
+
+4. AREA CODE — Area codes for parts that are unique to a
+particular area. Area codes are defined inthe Serial Number
+
+application chart when applicable. This column will not be used
+
+in catalogs which do not include unique area codes.
+
+5. SERIAL NUMBER — Applies to Engine or Frame serial numbers depending on the section.
+
+The serial number of the vehicle (frame, engine, carburetor)
+should be checked prior to ordering parts for a specific unit.
+
+in cases where a part has been modified, the serial number of
+the vehicle bearing the modification is listed in the "SERIAL
+
+Example: 8x8 Hex., Bolt rt No. .........92000-08018-1A
+Punetion NO. vvesseceneetactere, senerneennson 92 000
+ype
+
+No
+
+”
+
+Dimensions
+
+ISO Standard Designation .
+
+Chemical Surface Treatment
+
+fo [007
+
+-08018-
+
+_
+
+'
+
+PRE PEMGINNISINIL saetecateasrcesaeseeseceecentnnarences
+es
+
+A
+
+* The color code at the end c! a General Part’s part number
+
+indicate the color. However, color codes such as ZA, ZB, ZC
+
+the
+
+tee et ite Deeneicate
+the colordirectly but refer to
+
+Mic vot es
+
+tt the
+
+reter to
+
+the color
+
+tert heli
+
+lord cnption
+
+: notin t s arts Catalog
+
+table scnption Is not indicated in the text,
+table.
+
+NUMBER’ column.
+The modification parts are controiied by each pertinent serial
+number below:
+
+Engine serial number — Engine group parts (Block numbers
+
+Decision for ‘R’ or ‘L’.
+‘R’ or‘L’ in the description of a part stands for the Right hand
+Side or the Left hand side which is decided by the forward
+direction of travel of the vehicle.
+
+beginning with 'E’).
+Carburetor identification number — Carburetor component
+parts.
+Frame seriat numbers — Frame group parts (Block numbers
+beginning with ‘F’). Serial number application chart and Serial
+number locations are provided.
+
+Note: Some models may be controlled by one serial number
+only.
+
+jt
+
+© American Honda #otor Co., Inc. 1993
+
+J4MBOEM
+
+14MBOEM
+
+© American Honda Motor Co., inc. 1993
+
+‘Il
+
+GRID
+
+A2
+
+Construction of Vehicle Identification Number (V.I.N.)
+
+Serial Numbers
+Models and applicable serial numbers
+Models and applicable serial Nos. given in this parts catalog can be identified as follows.
+
+Area
+Code | Unique Area
+
+VF700S "64
+‘
+
+‘
+
+EXCEPT
+
+CALIFORNIA
+
+VF700S'84
+‘
+
+AC | CAUFORNIA
+
+VF7CO0S ‘BS
+
+A
+
+VF700S ‘ ‘85
+
+AC | CAUFORNIA
+
+EXCEPT
+
+Applicable
+Frame
+Serial No.
+
+| RC22E- 2000008 To
+
+RC220* EM000007 To
+
+RC22E- 2002575 To
+
+RC221* EM000006 To
+
+| RC22E- 2100001 To
+
+RC220* FM10000! To
+
+2005978
+
+9006097
+
+CALIFORNIA
+
+2103668
+RC22E- 2100001 To
+2103985
+
+EM005012
+
+5001081
+
+FM 102800
+RC221* FM100001 To
+FM 100863
+
+W.M.I.
+
+—_V.D.S.
+
+JH2
+
+RC040
+
+V.LS.
+*
+
+er
+
+BM
+
+Sequential Production number
+
+Applicable
+
+Carburetor
+identification No.
+VD50E
+
+W.M.L. ...Worid manufacturer identifier
+Vv -D.S .... Vehicle descriptor section
+V.LS. .... Vehicle indicator section
+
+200001
+
+a
+
+Plant representation
+
+... OHIO factory in U.S.A
+..- AALST factory in BELGIUM
+... SAITAMA factory in JAPAN
+... GUADALAJARA factory in MEXICO
+... MONTESA factory in SPAIN
+.... ATESSA factory in ITALY
+... KUMAMOTO factory in JAPAN
+... HAMAMATSU factory in JAPAN
+... MANAUS factory in BRAZIL
+... SUZUKA factory in JAPAN
+... TOCHIGI factory in JAPAN
+
+a
+
+VD02A @
+
+YD50E
+
+VD50E =
+>
+VDO2A aA [Al
+
+4nnpzxATMIND>
+
+Model
+
+Applicable
+Engine
+Serial No.
+
+(Example)
+
+Model year
+
+(Example)
+B..1981 C ..1982 D..1983-------- X..1999
+
+<Except 1.0.0.U>
+
+Check digit
+This code is used to detect erors in the V.I.N. and consists
+of a single-digit number (0-9) or a letter “X”. It has no direct
+bearing upon the V.D.S. and V.i.S.
+Vehicle description code
+
+(Example) RC040 ...CB750F
+Refer to: SERIAL NUMBERS
+
+NCO030...CB400T
+
+Make and Type of vehicle
+
+Jr2 ... HONDA, Motorcycle (Manufactured in JAPAN)
+THF ... HONDA, Motorcycle (Manutactured in U.S.A.)
+
+COLOR LABEL
+
+YC1 ..HONDA, Motorcycle (Manufactured in BELGIUM)
+8C2 ... HONDA, Motorcycle (Manufactured in BRAZIL)
+3H1 ... HONDA, Motorcycle (Manufactured in MEXICO)
+VTM ..HONDA, Motorcycle (Manufactured in SPAIN)
+ZDC ..HONDA, Motorcycle (Manufactured in ITALY)
+JH3 ... HONDA, Ali terrain vehicle (Manufactured in JAPAN)
+478 ... HONDA, All terrain vehicle (Manufactured in U.S.A.)
+Any change oy modification of parts is directly related to the V.D.S. and V.1.S.
+A V.1.S. number will appear in the "Serial No." column of the Parts Catalog if a part is changed or modified.
+CARBURETOR IDENTIFICATION NUMBER
+
+IV
+
+© American Honda Motor Co., inc. 1993
+
+14MBOEM
+
+COMMENT:
+This example is generic and applies to 1981 and newer vehicles. 1980 models and prior are refered to as "FRAME
+NUMBERS’ and the construction is designed by using the model designation or code followed by a sequential number.
+
+14MBOEM
+
+© American Honda Motor Co., Inc. 1993
+
+Vv
+
+GRID
+
+A3
+
+Color Tables
+
+Color Tables
+
+Color Chart
+
+* (WU)
+= Stripes and labels other than caution labels are included in parts whose part narne end in (WL).
+* (WOL) = Stripes and labels are not inctuded in parts whose part name end in (WOL).
+
+COLOR CODE TABLE (Color Descriptions omitted from the main text of the catalog)
+
+TYPE OF PARTS
+
+COLOR CODE
+
+PAINTED PARTS
+
+Color Application Chart
+* When ordering a part of a particular color or type, refer to the chart below for the model
+color and color label application.
+* (WL) = Stripes and labels other than caution iabels are included in parts whose part name end in (WL).
+* (WOL) = Stripes and labels are not included in parts whose part name end in (WOL).
+
+COLOR DESCRIPTION
+
+MODEL
+
+WHITE
+BLACK
+
+SCARLET
+ROYAL BLUE
+DARK BLUE
+
+MARUEM BLUE
+IVORY YELLOW
+
+DARK SILVER
+METALLIC SILVER
+
+CHROME
+
+VINYL PARTS
+
+VF700S, °84
+
+COLOR
+
+Black
+
+Black
+
+COLOR CODE
+
+NH-1!
+
+NH-}
+
+NH-}
+
+NH-1
+
+BODY COMP., FRAME
+A/G: A
+
+'
+
+BODY COMP., FRAME
+
+NH-}
+
+NH-1
+
+COVER SET, R. SIDE
+
+NH-T/TYPE |
+
+NH-1/TYPE 2
+
+NH-I/TYPE
+
+|
+
+NH-1/TYPE 2
+
+A/C: AC
+
+PRIMER
+
+COVER SET, L. SIDE
+
+PRIMER
+
+COWL SET, RR.
+
+NH-1/TYPE }
+
+NH-1/TYPE 2
+
+BLACK
+
+FENDER COMP., FR.
+
+N#H-}
+
+N#H-1
+
+FORK ASSY., RR.
+
+NH-1}
+
+NH-1
+
+BLUE
+
+LIGHT BLUE
+
+SCARLET
+
+.
+
+MARK, DRIVE CAUTION
+
+A-03
+
+A-O3
+
+ELEPHANT GRAY & IVORY
+
+STRIPE, R. FUEL TANK
+
+TYPE }
+
+TYPE 2
+
+WHITE
+
+STRIPE, t. FUEL TANK
+
+TYPE |
+
+TYPE 2
+
+STRiPr. R. RR. COWL
+
+TYPE }
+
+TYPE 2
+
+STRIPE, 1. RR. COWL
+
+TYPE }
+
+TYPE 2
+
+STRIPE, R. SIDE COVER
+
+TYPE }
+
+TYPE =
+
+STRIPE, L. SIDE COVER
+
+TYPE }
+
+TYPE 2
+
+SUB FRAME COMP.
+
+Nb-1
+
+N#-1
+
+NH-!
+
+NH-1
+
+DARK ROSE
+
+ORY
+
+A/C: A
+
+SUB FRAME COMP.
+A/C: AC
+
+TANK SET, FUEL
+
+NH-1/TYPE
+
+}
+
+NH-1/TYPE 2
+
+NH-L/TYPE
+
+1
+
+NH-1/TYPE 2
+
+A/C: A
+
+TANK SET, FUEL
+A/C: AC
+Note:
+
+When appplicable, ‘From:' and ‘To.’ followed by a Sena! Number in the Description column,
+indicates the application
+
+VI
+
+© American Honda Motor Co., Inc. 1993
+
+14MBOEM
+
+range when present; ‘A’C:' followed by a code indicates
+
+14MBOEM
+
+the Areo
+
+Code.
+
+© American Honda Motor Co., inc. 1993
+
+Vir
+
+| GRID |
+
+A4
+
+Color Tabies
+
+Color Tables
+
+Color Appiication Chart
+* When ordering a part of a particular color or type, refer to the chart below tor tne modal color and color label application.
+
+¢ (WL) = Stripes
+and labels otnsr than caution labels ate included in parts whose part name end in (WL).
+* (WOL) = Stripes and labels
+are not included in parts whose part name end in (WOL).
+
+MODEL
+
+VF7005S, ‘85
+
+MODEL
+
+COLOR LAGEL
+
+NHIK
+
+NH1H
+
+COLOR
+
+Black
+
+Block
+
+COLOR CODE
+
+NH-1]
+
+NH-1
+
+NH-1
+
+NH-}
+
+BODY COMP., FRAME
+
+BODY COMP., FRAME
+
+NH-]
+
+NH-1
+
+Note:
+
+NH-1/TYPE
+
+1
+
+NH-1/TYPE 2
+
+COVER SET, L. SIDE
+
+NH-1/TYPE 1
+
+NH-1/TYPE 2
+
+COWL SET, RR
+
+NH-1/TYPE
+
+NH-L‘TYPE 2
+
+}
+
+EMBLEM, R. FUEL TANK
+
+TYPE
+
+1
+
+TYPE 2
+
+EMBLEM, L. FUEL TANK
+
+TYPE 1
+
+TYPE 2
+
+EMBLEM, R&R. COWL
+
+TYPE
+
+1
+
+TYPE 2
+
+EMBLEM, SIDE COVER
+
+TYPE
+
+1
+
+TYPE 2
+
+FENDER COMP.. FR.
+
+NH-1
+
+NH-1
+
+FORK ASSY.. RR.
+
+NH-1
+
+NH-1
+
+MARK, DRIVE CAUTION
+
+A-03
+
+A-03
+
+STRIPE, R. FUEL TANK
+
+TYPE 1
+
+TYPE 2
+
+STRIPE,
+
+1. FUEL TANK
+
+TYPE
+
+1
+
+TYPE 2
+
+STRIPE,
+
+&. RR. COWL
+
+TYPE
+
+1
+
+TYPE 2
+
+STRIPE, L. RR. COWL
+
+TYPE
+
+1
+
+TYPE 2
+
+STRIPE, &. SIDE COVER
+
+TYPE 1
+
+TYPE 2
+
+STRIPE, i. SIDE COVER
+
+TYPE
+
+TYPE 2
+
+SUB FRAME COMP.
+
+Black
+
+COLOR CODE
+
+NH-1
+
+NH-1
+
+NH-I/TYPE 1
+
+NH-1/TYPE 2
+
+When appplicable, ‘From:’ and ‘To:' followed by a Seriol Number in the Description column,
+
+NH-1
+
+NH-|
+
+NH-1
+
+NH-]
+
+1
+
+application range when present; ‘A/C: followed by o code indicates the Area Code.
+
+A
+
+SUB FRAME COMP.
+AC
+
+TANK COMP., FUEL
+
+vm
+
+NHIH
+
+Black
+
+indicates the
+
+COVER SET, R. SIDE
+
+A/C:
+
+NHIK
+
+COLOR
+
+A/C: AC
+
+A/C: AC
+
+A/G:
+
+VF700S, '85
+
+COLOR LABEL
+
+TANK COMP., FUEL
+
+A/G: A
+
+A/C:
+
+Color Application Chart
+* When ordering a part of a particular color or type, refer to the chart below for the model color and color label application.
+* (WL) = Stripes and tabels other than caution labels are included in parts whose part name end in (WL).
+* (WOL) = Stripes and labels are not included in parts whose part name end in (WOL).
+
+NH-1/TYPE
+
+1
+
+NH-1/TYPE
+
+2
+
+A
+
+© Amencan Honda Motor Co., Inc. 1993
+
+14MBOEM
+
+14MB0EM
+
+© American Honda Motor Co., inc. 1993
+
+IX
+
+GRID |
+
+A5
+
+Memo
+
+fManuals
+NUMBER
+
+MANUAL
+
+DESCRIPTION
+
+&1MB004
+3 1MB0610
+3 1MB0620
+
+VE700S '84-"85 SERVICE MANUAL
+VE700S ‘84 OWNER'S MANUAL
+VF700S '8S OWNER'S MANUAL
+
+xX
+
+© American Honda Motor Co., inc. 1993
+
+14MBOEM
+
+H/C
+
+1844505
+1783976
+1844513
+
+TaMBOEM © American Honda Motor Co., inc. 1993 XI
+GRID
+
+Model ID Photo
+
+a
+
+Ld
+
+a
+
+Specifications
+SECTION/SUBJECT
+
+ii
+
+VE700S'84
+
+|
+
+VF700S'85
+
+ENGINE
+Cylinder...
+—
+
+°
+
+a
+
+soe
+
+*
+
+ote
+
+‘
+
+.
+-~
+
+.
+
+eens
+
+Strokes...
+
+BC
+
+Cooling...
+
+2,
+
+Camsholt.
+
+Four
+
+.
+
+6
+
+Liquid
+
+co.
+
+Valves per cylinder. 0.
+
+Displacement ................
+
+r
+
+0.0...
+
+Lubrication system 0.00.00...
+Carburetor...
+
+ow,
+
+Moin jet..... 0... ....
+Slow jet
+
+Cytinder
+
+4-Strote
+Cooled
+
+4-Stroke
+liquid
+
+Cooled
+
+DOHC
+
+DOHC
+
+4-Valve
+
+4-Valve
+
+699 cc
+
+899cec
+
+Wet Sums
+
+Wet Sump
+
+C V..A-ACVDSOE/VO02A
+
+C V._A-ACVDS50E/VDO2A
+
+#122" & 130
+
+2...
+
+Four Cylinder
+
+# 40
+
+#122
+
+#130
+
+#40
+
+TRANSMISSION
+Transmission type.. ......
+
+Manual
+
+Transmission speeds
+
+Manual
+
+6-Speed
+
+6-Speed
+
+Clutch ......
+
+......
+
+.
+
+Manuya!
+
+Manual!
+
+1-N-2-3-4-5-OD
+
+1-N-2-3-4-§-OB
+
+Fuel tank capacity (Std).............
+
+4.8gal
+
+Fuel tank capacity (Res)...
+
+4 8gai
+
+l.Igal
+
+L.Tgal
+
+Air filter type.
+
+Foorn
+
+Shift pattern .....
+
+a
+
+CHASSIS
+
+00.0,
+
+Foam filter oil - Pro Honda ......
+
+Drive chain..........
+
+P-N.
+
+08207-0001
+
+Shalt Drive
+
+Front Brake...
+
+Foam
+
+PN. 08207-0001
+
+Shalt Drive
+
+Doubie Disc
+
+Double Disc
+
+internal expand shoe
+
+Internal expand shoe
+
+110.°90X 18-61H
+
+110. 90% 18-61H
+
+32PS!
+
+32PSi
+
+Rear tire...
+
+130 “90x 17-68H
+
+Tie pressure .....000000.. 0...
+
+130- 90x 17-68H
+
+40PS!
+
+40PS!
+
+ees
+
+0.12mm 0.905’)
+
+0.12mm (0.005')
+
+ee
+
+0.12mm '0.005':
+
+0.12mm (0.0054
+
+Fully Transitionized
+
+Fully Trans:tionized
+
+0.8-0.9mm (0.031-0.0351
+
+0.8-0.9mm (0.031-0.035)
+
+86+Octane
+
+86+Octane
+
+Kear Brake...
+
+ssi
+
+front tire...
+
+a
+
+Tire pressure...
+
+SERVICE/TUNING
+Valve clearance:
+Intoke
+Ewheust..0000000
+
+cee
+ee
+
+Ignition type .......
+
+Spurl
+
+plug gap......... bocce.
+
+LUBRICATION
+
+Recon mended fuel 00.0000...
+
+(Continued)
+
+VF700S’85 SABRE
+© American Honda Motor Co., Inc. 1993
+
+14MBOEM
+
+14MBOEM
+
+® American Honda Motor Co., Inc. 1993
+
+GRID
+
+A7
+
+Model ID Photo
+
+Specifications
+SECTION/SUBJECT
+
+VF700S'84
+
+1
+
+VF700S'85
+
+LUBRICATION (continued)
+Engine oil - Pro Honda:
+
+GN4
+
+10W40. .
+
+GN4 20W50
+
+P/N: OF7 6-000)
+
+PN: 08206-0001
+
+P/N:
+
+P/N. 08206-0002
+
+—. 16-0002
+
+Engine of capacity:
+
+After draming
+|.
+
+3.2aqts
+
+3.2aqts
+
+Coolant type
+Cyolant ratio
+
+P/N: CUG8730
+50°50
+
+P/N. CU08730
+50. SG
+
+Drive shaft and final
+
+gear
+
+Pro Hondo shalt drive
+
+case
+
+of
+
+P“N:
+
+08208-0080
+
+P-N. 08208-0080
+
+P’N.
+
+98208-0010
+
+PN
+
+Fork oul:
+Pro Honda
+Viscosity
+
+Capacity after draining.
+Brake fludd - ro Honda
+
+DOT 4...
+
+08208-0010
+
+10VW
+
+low
+
+Rt 340./360CC
+
+RL 340/360CC
+
+P-N:
+
+08203-0004
+
+PN:
+
+08263-0004
+
+PeN
+
+98203-0004
+
+P-N
+
+08203-0004
+
+Hydraulic clutch fluid
+
+Pro Honda DOT 4 Broke fluid
+
+VF700S’85 SABRE
+xIV
+
+© American Honda Motor Co., inc. 1993
+
+14MBOEM
+
+14MBOEM
+
+© American Honda Motor Co., Inc.
+
+1993
+
+XV
+
+GRID
+
+A&
+
+Bulk Hose
+
+Bulk Hose
+
+BULK HOSE CROSS REFERENCE CHART
+To convert a cut hose part number to the equivalent of roll hose simply match the two part numbers using the following chart,
+
+cutting the required length indicated by the cut hose part number.
+Port Number
+FUEL HOSE
+
+CURRENT
+CATALOG LISTING
+
+(Example)
+
+VACUUM HOSE
+
+}-
+
+7?
+
+§
+
+00
+
+~
+
+40M
+poem
+
+BULK HOSE
+
+CURRENT BULK HOSE
+CATALOG USTING PART NUMBER
+
+PART NUMBER
+
+95001-38~ — — -2————
+95001-35~ — — -4———
+
+95001-35003-20M
+
+95005-35 —
+
+95001-45
+— — — -2———>
+
+95001~35003-40M
+95001~45003-20M
+
+9500145
+—~ — — -4
+
+95005-35 ~
+95005-35 —
+
+9500 1~45008-40M
+
+95001-55
+~ — — -2————
+
+9500 1~55008-20M
+
+95001-5§— — —~ -4———
+
+9500}~55008-40M
+
+95001-7§—~ — — -4———
+
+9500 1-7 5008-40M
+
+~~
+
+== 3=|
+
+95005-50 ~
+
+eine eel
+
+95005-50003-30M
+
+95005-55 ~~
+
+catenin aamnael
+
+95005-55003-20M
+
+—
+
+95005-75 ~
+
+95005-8C ~
+
+Appearance Code Key
+For Type
+
+oo
+
+95005-12 ~
+
+exterior
+
+95005-7 5003- 15M
+
+For Type 5 ONLY Vacuum:
+95005-80008-10M
+
+1:
+
+9500 1-35003-20M
+
+2380533
+
+9500 i-35003-40M
+
+3.4
+
+|
+238054
+
+3.4
+
+Dark gray, smooth exterior
+
+2: Dark gray, smooth exterior
+
+99695-12003-10M
+
+3: Black, smooth exterior
+Length
+
+FUEL HOSE
+H/C
+
+ONLY Fuel:
+
+4: Gray with red stripe, smooth
+
+ORDERING INFORMATION
+
+PART NUMBER
+
+1
+
+2: Rad, braided exterior
+
+95005-70003-30M
+
+93005-75 ~—
+
+95005-80 —
+
+have an "'M’”’ in this position
+
+pe 95005-4500B-10M
+
+95005-45 —
+
+95005-80 —
+
+All Roll hose Part Numbers
+
+95005-35008
+
+a
+
+95005-45 —
+
+Roll Hose
+
+2—
+
+9005-70 —
+
+INSIDE DIAMETER
+mm
+
+ROLL LENGTH
+3M 1F Sin
+3M (9.94)
+
+inside
+
+Cut
+
+Hose = length is in millimeters {mm}
+
+Bulk
+
+Hose
+= length is in meters (Mj
+
+Diameter Code
+
+9500 1-4 5003-20M
+
+2380558
+
+4.5
+
+fmm
+
+55=
+
+5.3mm or §.5mm
+
+2324986
+
+3M (9.941)
+
+12 = 12.0mm
+
+9500 1-4 5008-30M
+
+45
+
+mm
+
+35=
+
+3.5mm
+
+70
+=
+
+7.0mm
+
+9500 i-55008-20M
+
+2386 134
+
+mm
+
+45=
+
+4.5mm
+
+9500 1~55008-30M
+
+5.3
+
+75=
+
+7.3mm or 7.5mm
+
+2385896
+
+3M (26. 4!)
+8M (26. 4ft}
+
+mm
+
+9500 1~/5003-20M
+
+$3
+
+2385094
+
+BM (26 4ff}
+
+50 =
+
+5.0mm
+
+7.5
+
+80
+=
+
+8.0mm
+
+mm
+
+9500 1~75003-30M
+
+2385904
+
+3M (9.941
+
+7.4
+
+mm
+
+aM (9.944)
+
+VACUUM HOSE
+
+PART NUMBER
+a!
+wet
+
+95005-4 5008-10M
+
+95005-50003-30M
+
+?5005-55008- 10M
+9§005-65003-20M
+
+95005-75003-10M
+95005-80008 -10M
+95005-12003-10M
+
+95005-14003-20M
+
+H/C
+2325082
+2380608
+
+2386886
+2380624
+
+2380640
+2325108
+
+€ Amencan H -nda Motor Co., Inc.
+
+fam
+
+mm
+
+mm
+mm
+
+ROLL LENGTH
+
+BM (26.411)
+3M (9.94)
+8M (26 411)
+
+mim
+
+3M (9.941)
+
+mm
+
+3M (9.941)
+8M (26 441)
+
+mm
+
+2380657
+
+mm
+
+3M (9.941)
+
+mm
+
+3M (9 94s)
+
+14MBOEM
+
+Fuel
+
+Hose
+
+§ = Vacuum Hose
+
+BM (26.41
+
+2380665
+
+1993
+
+Type Code Key
+1
+
+INSIDE DIAMETER
+
+2325058
+
+CAUTION: Damage to vacuum hose will result from contact with fuel
+XVI
+
+8
+
+CAUTION: Damage to vacuum hose will result from contact with fue!. Do not use vacuum hose in place of fuel hose.
+
+Do not use vacuum hose in place of fuel nose.
+14MBOEM
+
+© American Honda Motor Co., inc. 1993
+
+GRID
+
+AQ
+
+COMMONLY REQUIRED REPLACEMENT PARTS
+4 = VE700S'B4
+
+nel
+
+5 = VF700S'85
+
+4 = VF700S'84
+
+VE700S] A
+
+5 = VF700S'85
+
+A
+
+: : c
+
+Ret.
+No.
+
+DESCRIPTION
+
+BATTERY (12V16)
+
+SERIAL NUMBER
+
+.t
+
+HONDA
+
+Ret
+
+4;
+
+FROM
+
+Q | PART NUMBER
+
+CODE
+
+No.
+
+JE;
+
+..cssecceeessene | 4 | 5 |
+
+[ecenen=
+
+TO
+
+seneee=]
+
+1
+
+131500-461-771
+
+1
+
+131500-415-601
+
+menese- | 4
+
+wee~--|
+
+[erecene
+
+meses]
+
+BATTERY ASSY. (YUASA) ...seseseee | 4 | 5]
+
+[enenem—
+
+=m]
+
+BATTERY ASSY. (YUASA) ..e.eeeeeee | 4 | 5]
+
+ferenen=
+
+BULB, TAILLIGHT (12V27/7m 2057HD) | 415]
+
+BULB, TAILLIGHT (12V 27/80) 2.00.14 | 5
+BULB, TURN SIGNAL (12V23/8W)
+(STANLEY) ..ccucccessees peeeee
+
+415
+
+FUSE, BLADE (0A) ss seeeessseeee |
+
+|PART NUMBER
+
+HEADLIGHT UNIT ....seceescesereel
+
+& | 5
+
+1
+
+|33120-ME5-670
+
+KEY, BLANK (TYPE 1) ..saseseeseee] @ 5
+
+KEY, BLANK (TYPE 2)
+
+1
+
+|31500-425-677
+
+& | 5
+
+1550631
+
+LENS, TURN SIGNAL .eseseesseeesee |G | 5
+
+(1)
+
+|35122-MA6-811
+
+1266768
+
+4
+
+|33402-mB1-003
+
+1260397
+
+[-----me
+
+weeem= | 1
+
+134901-NC7-601
+
+1288612
+
+MIRROR, L. cesssseseeseesceeseee
+
+[-------
+
+1
+
+---—~--
+
+[88120-mB0-003
+
+2
+
+|34906-MG9-771
+
+1250729
+
+1700301
+
+2
+
+|34906-341-671
+
+0273540
+
+MIRROR, Re sesscssesseseseereee | 4 | 5
+
+1
+
+|88110-"B0-003
+
+1250703
+
+|-------
+
+.essceseeesee]
+
+|G | 5
+
+(2) |98069-57916
+
+1103076
+
+(2)
+>
+
+|98069-57916
+logogo-sa9%4
+
+1102076
+1103084
+
+2 |98069-58916
+(2) 198069-59916
+(2) |98069-59916
+
+1103084
+1103092
+1103092
+
+PLUG, SPARK (X22EPR-U9 ND)... 45
+PLUG, SPARK (X2EPR-U9 ND) ...... 45
+
+(2) |98069-57926
+2 198069-58926
+>
+
+98069-58926
+
+9096817
+1096825
+
+«2)
+
+logoee-s0926
+
+1096833
+
+(2) 198069-59926
+
+1096833
+
+|34905-425-671
+
+0824326
+
+PLUG, SPARK (DPR7EA-9 NGK)
+PLUG, SPARK (OPRBEA~9 NGK)
+
+emer] 2
+[34905
+268-671
+semen] 6 | 22201-HB0-003
+om) 6 1222015 -000
+
+0745518
+ehess1
+3143401
+
+PLUG, SPARK (DPRBEA~9 NGK) ...... 45
+PLUG, SPARK (DPROEA-9 NGK) ....0. 45
+PLUG, SPARK (OPRIEA-9NGK) ....0. 6's
+
+1
+
+|15610-MJ0-07~
+
+men] 1 | 154 10-10-006
+nn) 2 19820021000
+
+= —-~--1
+
+1689611
+
+3481359
+0562793
+
+......
+.....
+
+PLUG, SPARK CXZ2EPRCUO ND)...
+
+4
+5
+4s
+
+ais
+
+5
+
+{98200-21500
+
+PLUG, SPARK (KO4EPR-U9 ND)...
+
+4
+
+2
+
+|98200-53000
+
+0412676
+
+PLUG, SPARK (K27EPR-U9 ND)...
+
+45
+
+memenmn | 7 | 98200-31000
+~---~--|
+
+2.
+
+Vold228
+
+PLUG, SPARK (X27EPR-U9 ND) ...0s. 4 5
+
+19820-31500
+
+0252387
+
+1644264
+
+415
+
+|Al-m-n-m-
+
+ween
+
+& | 16010-MB0-671
+
+1241736
+
+|
+
+GASKET SET
+
+oo... .sceeceeececeace
+
+4)
+
+5
+
+[Al-nem--=
+
+===]
+
+4
+
+| 16010-NB0-871
+
+3516416
+
+|
+
+GASKET SET
+
+....csseesssececeeees
+
+415
+
+tlen-----
+
+~~~
+
+4
+
+| 16010-MB4~621
+
+1426014
+
+GASKET SET
+
+«2.0.20. seesesseneeee | 4 | 5
+
+PAlfemenene
+
+wemnene | 4
+
+| 16070-MB4-622
+
+2249340
+
+GASKET SET
+
+oe eceseeesess eveeees
+
+ee
+
+GASKET SET
+
+oo... ceceseseseeeeeee
+
+4}
+
+oe
+
+65 |
+
+[anne
+
+weeeem=]
+
+4
+
+| 16010-MB6~305
+
+3911518
+
+4 | 16010-MB6~681
+
+2076362
+
+1
+
+153166-390-780
+
+0483438
+0483420
+
+GRIP, R. HANDLEBAR ...escseeeeee [4S]
+
+[enenene
+
+-ne---]
+
+4
+
+|53465-390-780
+
+HANDLEBAR ...eseceseseeecesnenes | 4 | 5 |
+
+[ecenene
+
+0 weeeene
+
+1
+
+|53100-nB0-950
+
+1782218
+
+HANDLEBAR, COMP., Re seseseseseee | 415 |
+
+[eseees-weneen= | 4
+
+153175-HN6-008
+
+1776590
+
+XVOI
+
+© American Honda Motor Co., inc. 1993
+
+14MBOEM
+
+«2
+
+|
+
+....cceseesesenasees
+
+Wtl----0 --------
+
+1246750
+
+PLUG, SPARK (DPR7EA=9 NGK? ...... 415
+
+GASKET SET
+
+GRIP, L. HANDLEBAR ....scse.es000
+
+1390517
+
+3029840
+
+0742981
+
+fromm
+
+5
+
+(1) [35121-KW3-771
+
+CODE
+
+131500-425-671
+
+fa——-—~-
+
+|
+
+Q
+
+TO
+
+3029857
+
+2
+
+FUSE, BLADE (15A) ..eseseseeecees --|5 |
+
+FROM
+
+1E|
+
+135124-ma6-811
+
+FILTER, OLL ..--ssesererereenees 43 | pom
+FUSEB (TOA) w+ ses sserreeerereees 41] poo
+bine]
+
+4,5
+
+(1)
+
+415
+
+FUSEF (30K) ve ccceceseeesececees
+
+DESCRIPTION
+
+HONDA
+
+(1) [35122-KW3-771
+
+[415
+
+FUSE
+B
+CISA) ve cecececesssnceeees
+
+:a
+
+|G | 5
+
+1 |31500-415-671
+
+0905455
+
+SERIAL NUMBER
+
+KEY, BLANK (TYPE
+1) seseeuceeeeee
+
+BULB, TURN SIGNAL (12V 23H) ...... 4S]
+poo
+DISK, CLUTCH FRICTION ...++++.+05 4) 2 | poo
+DISK, CLUTCH FRICTION ....+.++404 4) 3]
+[om
+ve scceseseeesecvones
+
+1053990
+
+1288521
+
+4/5 S
+
+KEY, BLANK (TYPE 2) .esscaseessee] & | 5
+
+BATTERY ASSY. CYUASA) ...seseeeee | 4 | 5 | [eceeene
+14/5 |
+
+1 131500-461-772
+
+: c
+
+T
+
+0668244
+
+BATTERY ASSY. (YUASA) ..eeecseeee | 4 | 5 | [orenene 0 weneeee
+
+BULB, HEADLIGHT (H4 JA12V60/55u)
+
+A
+
+4/15 °
+5
+
+vF700s}4
+
+¢
+
+BATTERY (12V14) ceseceeeeeenesee | 4 | 5
+
+FILTER, OIL
+
+COMMONLY REQUIRED REPLACEMENT PARTS
+
+14MBOEM
+
+{98069-57926
+
+4096817
+
+1096825
+
+© American Honda Motor Co.. inc. 1993
+
+XIX
+
+GRID
+
+A10
+
+CONTENTS BY PAGE NO. SEQUENCE
+PAGE TITLE
+
+PAGE
+
+PAGE
+
+GAID
+
+CYLINDER HEAD COVER ..............-.
+FRONT CYLINDER HEAD ...............
+
+Bi
+Bi
+
+FRAME 2.00.0.
+c eet e ee aes 123
+TOOLS 2c
+ccc cee ence ene eeee 126
+
+G11
+H1
+
+AIR CLEANER .............
+002 cece cease
+ALTERNATOR ..........
+cece eee eeeee
+
+REAR CYLINDER HEAD ................
+CAMSHAFT # VALVE 2.0.0.6... cece eee
+CAM CHAIN © TENSIONER ..............
+RIGHT CRANKCASE COVER ...........-.
+CLUTCH 0.
+ec
+cc
+cere eee eee
+PULSE ALTERNATOR ¢ STARTER CLUTCH
+
+B3
+B4
+BS
+B6
+B7
+BS
+
+STRIPE 20... eect
+reer eens 128
+CANISTER (AC) .......-...0.ccneeeeeeee 132
+
+H2
+H4
+
+16
+
+GRID
+
+PAGE TITLE
+
+CONTENTS IN ALPHABETICAL ORDER
+PAGE TITLE
+
+PAGE
+
+GRID
+
+PAGE
+
+GRID
+
+97
+18
+
+F10
+B9
+
+STARTER CLUTCH ...............2.000,
+STARTER MOTOR ..........-0.0ceceeee
+
+16
+22
+
+BS
+B11
+
+BATTERY
+........
+0 ccc cece
+ee tee weet nes 95
+BAAKE CALIPER, FR. ...... 2...
+eae 76
+BRAKE MASTER, FR. ...... 0.0.00. 0. 61
+BRAKE PANEL, RAL
+o.oo...
+eee
+eee ees 80
+BRAKE PEDAL..........
+0.00 ceca eeu 102
+CABLES .. 0. cece ccc e ee eet en eeees 59
+
+F9
+E12
+E4
+F2
+G1
+E3
+
+STEERING STEM ............0c0n
+eee eee
+9
+STRIPE ....... 00... eee eee cence ee eaee
+SWINGARM ... 0.00...
+c cee cere ane
+SWITCHES
+.....0..
+002
+cece cece ena
+TAILLIGHT 2.00.0. cee cece eee cee ee eee
+
+68
+104
+128
+108
+59
+116
+
+E8
+Ge
+H2
+G4
+E3
+G8
+
+GAM CHAIN ..0.... 0... eee cee eee
+CAMSHAFT
+......0...
+00.
+cc cece eas
+
+BS
+BA
+
+TENSIONER .... 0... e cece
+ee eae eee
+THERMOSTAT ... 00... cee eee cece eens
+
+10
+
+B5
+
+40
+
+ce
+
+ALTERNATOR
+2.0000...
+.c
+ccc cence eee
+LEFT CRANKCASE COVER e WATER
+
+BS
+
+gO
+|
+STARTER MOTOR . 2.0.0...
+cece cee eee
+
+CANISTER (AC)
+.........
+000.
+eee eee ees 132
+CARBURETOR ASSY.........0 000000 c cues 44
+CARBURETOR COMPONENT ............ 48
+
+H4
+c10
+C12
+
+TOOLS oo... ccc cece nce een eeeneaas 126
+TOP BRIDGE ...........
+0...
+cece ees 66
+
+OIL FILTER ¢ OIL PAN © OIL PUMP .......
+
+B10
+B11
+Bi1
+
+36
+
+H1
+E7
+C6
+
+CYLINDER BLOCK ....0 00... ccc ccc e eee
+CRANKSHAFT ¢ PISTON ............-...
+TRANSMISSION . 2.0.0.0...
+ee cc eee eee
+
+C1
+o<}
+C5
+
+CARBURETOR UUNK
+.....00
+22
+oe eee
+CLUTCH ... ooo
+ccc cect
+eaes
+CLUTCH MASTER CYLINDER ...........
+
+44
+14
+64
+
+C10
+B7
+E6
+
+TURN SIGNAL .................-005
+00s 114
+VALVE 200. ccc
+cece ener eeteee
+8
+WATER PIPE
+000.00.
+ce
+ee cee eee 40
+
+G7
+B4
+ca
+
+GEARSHIFT DRUM ..................08,
+WATER PIPE e THERMOSTAT ...........
+
+C7
+cs
+
+CONTROL LEVER ............0.-0.00006.
+CRANKCASE COVER, L ................
+
+59
+20
+
+E3
+B10
+
+WATER PUMP
+1.00.00
+202...
+c ce eee en aee
+WHEEL, FR. wo. ee
+ce eee
+
+20
+78
+
+B10
+Fi
+
+GROSS SHAFT
+.......0.
+00...
+0c cece cence
+CARBURETOR ASSY. ¢ CARBURETOR
+
+cg
+
+CRANKCASE COVER, AL .....0...0.0....
+CRANKSHAFT ....... cnn
+ee eee tee nenes
+
+13
+30
+
+Bé
+C3
+
+WHEEL, RAR. 0...
+cee ee eee 82
+WIRE HARNESS ...........-.-00220r
+eee 117
+
+F3
+G8
+
+42
+
+cg
+
+cc ccc eee enw neee
+
+C10
+
+CROSS SHAFT ...
+
+CARBURETOR COMPONENT ............
+
+LINK oo...
+
+C12
+
+GASKET KITA...
+
+en eee
+
+Di
+
+CYLINDER ...000 0.
+
+.................0-.
+
+..............0.......0..
+
+HEADLIGHT ...........0.0.........008.
+
+10
+8
+
+PAGE TITLE
+
+cee ee eae
+
+61
+
+E4
+
+D1
+E1
+
+CYLINDER BLOCK .....................
+
+26
+
+C1
+
+CYLINDER HEAD COVER ...............
+CYLINDER HEAD FR ww...
+eee.
+
+2
+3
+
+B1
+B1
+
+INSTRUMENTS ......00..........000005-
+
+E2
+
+CONTROL LEVER « SWITCHES * CABLES
+FRONT BRAKE MASTER ® CYLINDER ....
+
+E3
+
+CYUNDER HEAL, on... 8. settee anaes
+
+6
+ELECTRIC PARTS ............-...0...0- 117
+FENDER, FR... 2.20.
+ee eee eee
+70
+FENDER, AR. ..............0 0.00... 112
+
+B3
+
+FINAL DRIVEN GEAR ...................
+
+84
+
+F4
+
+|
+
+123
+
+G11
+
+FUEL TANK ..............0.....0-.0005
+FUEL VALVE ............0... 00.0.0. e ee
+
+87
+
+F5
+
+87
+
+F5
+
+GASKET KITA............0.0...........
+
+50
+
+D1
+
+GASKET KITB
+
+GASKET KITB
+
+0.0.
+
+ec
+
+E4
+
+CLUTCH MASTER CYLINDER ...........
+HANDLEBAR e TOP BRIDGE ............
+
+E?
+
+STEERING STEM e HORN ...............
+
+E8
+
+FRONT FENDER .....................-.
+
+ES
+
+FRONT SHOCK ABSORBER .............
+
+ES
+
+FRONT BRAKE CALIPER .......... weeeee
+
+E12
+
+FRONT WHEEL .........0.0..2....0....
+
+F1
+
+REAR BRAKE PANEL ...................
+
+F2
+
+E6
+
+REAR WHEEL ..................0.
+0000.
+
+F3
+
+FINAL DRIVEN GEAR ...................
+
+F4
+
+FUEL TANK © FUEL VALVE ..............
+
+F5
+
+SEAT .... 2. cece
+cece eeeeeee
+SIDE COVER .......0...00. 0.0.00. c nee
+
+F7
+
+BATTERY .......0 00000000... 0 ccc ee aee
+
+F9
+
+F8
+
+AIR CLEANER ...........0.........202.
+MUFFLER ...........00.. 0a
+...00.
+eeu
+
+F10
+100
+
+F12
+
+BRAKE PEDAL « SHIFT PEDAL .......... 102
+
+Gi
+
+STEP .. 0...
+ccc cee n ee aee
+STAND ......0
+0. 00000. cece ce
+..0
+eeeee 106
+SWINGARM .....0..00.00 0.
+00.0....
+.2000ee 108
+SHOCK ABSORBER ..0...00..00....0..... 11¢
+REAR FENDER © SPARK UNIT ........... 112
+
+G4
+
+114
+
+G7
+
+TURN SIGNAL... 020.
+
+TAILLIGHT «2.0.00 cece
+ee eee 116
+
+WIRE HARNESS ¢ ELECTRIC PARTS ..... 117
+
+RADIATOR ...... 000 ccc
+eee eee 120
+
+XX
+
+© American Honaa Motor Co., Inc. 1993
+
+G2
+G3
+G5
+
+G6
+GB
+
+G8
+G10
+
+14MBOEM
+
+G8
+E9
+G6
+
+.................0...4..
+
+51
+
+D1
+
+GEARSHIFT DRUM .....................
+
+38
+
+C7
+
+HANDLEBAR .........
+0.0. ce cee
+..
+ee
+HEADLIGHT .............0
+0.02 ce cee eee
+.
+
+66
+
+E7
+
+54
+
+E1
+
+HORAN ...0.0 2
+
+68
+
+Es
+
+INSTRUMENTS ........................
+56
+MUFFLER ..........
+0.000. ccc ee
+....
+een 100
+OIL FILTER .....0. 00. eee
+eee
+23
+CHIL PAN ..... 0.
+ee cee aes
+23
+
+E2
+Fi2
+
+cee eee
+
+Bit
+B11
+
+OIL PUMP ......0000 0000000000000.
+
+23
+
+B11
+
+PISTON 20.0
+cee eee
+0.
+eae
+
+30
+
+C3
+
+PULSE ALTERNATOR ...............
+.. 16
+RADIATOR ...00
+00... e cee ee eee ees 120
+SEAT ............ Lesan
+en ee ener eneeens
+90
+SHIFT PEDAL .........
+0.00 .000
+.0.
+000, 102
+SHOCK ABSORBER ..........0.......... 110
+SHOCK ABSORBER, FR.
+2...
+6.
+ee.
+SIDE COVER ..........
+0. ccc eee
+...
+cecee
+
+Bs
+G10
+F7
+G1
+
+G5
+
+71
+92
+
+ES
+FB
+
+SPARK UNIT 2.0000
+ee ee
+00...
+eee 112
+
+G6
+
+STAND ...0000.0..00-5 ccccececececeeee
+
+106
+
+TRANSMISSION
+........
+002.0
+ce ec eeevee
+
+G3
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+1
+
+GRID
+
+A11
+
+

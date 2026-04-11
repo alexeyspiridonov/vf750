@@ -1,116 +1,107 @@
+Main forums
+- V4 Honda BBS - https://www.v4hondabbs.com
+- V4 Muscle Bike - https://v4musclebike.com/forums/  (includes the 82-86 Magna/Sabre section)
+- VFRworld VF750 tag - https://vfrworld.com/tags/vf750/
+- VF1000 forum - https://forum.vf1000.com
+- VF750 section - https://forum.vf1000.com/c/vf750/12
+- MotorcycleForum - https://www.motorcycleforum.com
+- HondaShadow / Magna - https://www.hondashadow.net
 
-Форумы (главные)
-	•	V4 Honda BBS — https://www.v4hondabbs.com
-	•	V4 Muscle Bike — https://v4musclebike.com/forums/ (есть раздел Magna/Sabre 82-86)  ￼
-	•	VFRworld VF750 — https://vfrworld.com/tags/vf750/  ￼
-	•	VF1000 forum (есть раздел VF750) — https://forum.vf1000.com
-	•	VF750 раздел — https://forum.vf1000.com/c/vf750/12  ￼
-	•	MotorcycleForum — https://www.motorcycleforum.com
-	•	HondaShadow / Magna — https://www.hondashadow.net
+Wiki / data sources
+- BikesWiki VF750 - https://bikeswiki.com/Honda_VF750_Magna
+- Bikez VF750 - https://bikez.com
+- CMSNL diagrams - https://www.cmsnl.com
+- Partzilla - https://www.partzilla.com
 
-⸻
+Manuals / documentation
+- ManualsLib VF750 - https://www.manualslib.com
+- Carlsalter manuals - https://www.carlsalter.com
+- Archive manuals - https://archive.org
+- Honda microfiche - https://www.cmsnl.com
 
-Wiki / базы
-	•	BikesWiki VF750 — https://bikeswiki.com/Honda_VF750_Magna
-	•	Bikez VF750 — https://bikez.com
-	•	CMSNL схемы — https://www.cmsnl.com
-	•	Partzilla — https://www.partzilla.com
+The VF750 service manual is already in this repository.
 
-⸻
-
-Мануалы / документация
-	•	Manualslib VF750 — https://www.manualslib.com
-	•	Carlsalter manuals — https://www.carlsalter.com
-	•	Archive manuals — https://archive.org
-	•	Honda microfiche — https://www.cmsnl.com
-
-у тебя уже есть сервис мануал VF750  ￼
-
-⸻
-
-Facebook группы
-	•	https://www.facebook.com/groups/v45sabre
-	•	https://www.facebook.com/groups/hondavf750
-	•	https://www.facebook.com/groups/v4musclebike
-	•	https://www.facebook.com/groups/hondamagna
-
-⸻
+Facebook groups
+- https://www.facebook.com/groups/v45sabre
+- https://www.facebook.com/groups/hondavf750
+- https://www.facebook.com/groups/v4musclebike
+- https://www.facebook.com/groups/hondamagna
 
 Reddit
-	•	https://reddit.com/r/motorcycles
-	•	https://reddit.com/r/HondaMotorcycles
-	•	https://reddit.com/r/VFR
-	•	https://reddit.com/r/Fixxit
+- https://reddit.com/r/motorcycles
+- https://reddit.com/r/HondaMotorcycles
+- https://reddit.com/r/VFR
+- https://reddit.com/r/Fixxit
 
-(часто советуют использовать V4MuscleBike как главный ресурс)  ￼
-
-⸻
+V4MuscleBike is often recommended as the main resource.
 
 YouTube
 
-Проверено: 2026-04-11
+Checked: 2026-04-11
 
-Полезные ролики по теме VF750 / V45 Sabre / Magna
-	•	Honda VF750 Magna Carb Clean — TheMotorcycleMD
-		https://www.youtube.com/watch?v=52k8LaD3q4Y
-		Подробная разборка и чистка карбов. Самый практичный ролик по карбам из найденных.
-	•	Syncing The Carburetors On The Honda VF750 — Revive 2 Ride
-		https://www.youtube.com/watch?v=EXc9i7zoA9g
-		Живой пример синхронизации карбов на VF750 project bike.
-	•	HONDA V45 MAGNA / VF750C / RC09 1982 Carb sync/ reglage — ichikonti
-		https://www.youtube.com/watch?v=3buvmQb6Ogs
-		Короткий, но полезный ролик именно по раннему VF750C / V45 Magna.
-	•	Honda V45 Magna Carb Sync Tool — HighTechLab
-		https://www.youtube.com/watch?v=D0zCyCsNFt4
-		Самодельный инструмент для синхронизации карбов.
-	•	1982 Magna V45 Final work: Carbs install, valve clearance and Synch! — Moto-Resto Machine and Repair
-		https://www.youtube.com/watch?v=BsNvGBBtUAc
-		Хороший комбинированный ролик: установка карбов, проверка клапанов и финальная синхронизация.
-	•	Honda VFR750 vs VF750 valve adjustment wisdom and a visit from the DUMB VIDEO POLICE! Watch and see! — Moto-Resto Machine and Repair
-		https://www.youtube.com/watch?v=dRjBuBrFGhM
-		Полезен не столько как how-to, сколько как разбор темы клапанов, распредвалов и проблем с маслоподачей на VF.
-	•	Honda Magna V45 Cafe Racer Style — ICCustomsUSA
-		https://www.youtube.com/watch?v=UlwVQwkROtU
-		Нормальный референс по стилю cafe racer на базе Magna/Sabre.
-	•	NEW 1983 HONDA MAGNA V45 CAFE RACER PROJECT — AvidTV
-		https://www.youtube.com/watch?v=9gkjgG-AY7E
-		Короткий обзор проекта, полезен как визуальный ориентир.
-	•	Honda VF750 Café Racer by Lucky Customs — NakedBikesNation
-		https://www.youtube.com/watch?v=qPZOBHhdTv8
-		Скорее inspiration-видео, чем техничка, но хороший визуальный референс для проекта.
+Useful VF750 / V45 Sabre / Magna videos
+- Honda VF750 Magna Carb Clean - TheMotorcycleMD
+  https://www.youtube.com/watch?v=52k8LaD3q4Y
+  Detailed carb teardown and cleaning. The most practical carb service video found in this pass.
 
-Вывод по YouTube
-	•	Сильнее всего покрыты темы: карбы, синхронизация, базовое обслуживание, визуальные кастомы.
-	•	Слабо покрыты темы: полноценный EFI / ECU swap именно для VF750.
-	•	По EFI swap форумы и текстовые проектные треды сейчас полезнее YouTube.
+- Syncing The Carburetors On The Honda VF750 - Revive 2 Ride
+  https://www.youtube.com/watch?v=EXc9i7zoA9g
+  Good real-world carb synchronization example on a VF750 project bike.
 
-YouTube (поиск)
-	•	https://www.youtube.com/results?search_query=vf750+rebuild
-	•	https://www.youtube.com/results?search_query=vf750+oil+mod
-	•	https://www.youtube.com/results?search_query=vf750+carb+sync
-	•	https://www.youtube.com/results?search_query=vf750+cdi
+- HONDA V45 MAGNA / VF750C / RC09 1982 Carb sync / reglage - ichikonti
+  https://www.youtube.com/watch?v=3buvmQb6Ogs
+  Short but useful video specifically for the early VF750C / V45 Magna.
 
-⸻
+- Honda V45 Magna Carb Sync Tool - HighTechLab
+  https://www.youtube.com/watch?v=D0zCyCsNFt4
+  DIY carb sync tool reference.
 
-Запчасти
-	•	https://www.ebay.com
-	•	https://www.cmsnl.com/honda-vf750
-	•	https://www.partzilla.com/catalog/honda/vf750
-	•	https://www.davidsilverspares.com
-	•	https://www.dk-motorcycles.co.uk
+- 1982 Magna V45 Final work: Carbs install, valve clearance and Synch! - Moto-Resto Machine and Repair
+  https://www.youtube.com/watch?v=BsNvGBBtUAc
+  Useful combined reference for carb install, valve check, and final carb sync.
 
-⸻
+- Honda VFR750 vs VF750 valve adjustment wisdom and a visit from the DUMB VIDEO POLICE! Watch and see! - Moto-Resto Machine and Repair
+  https://www.youtube.com/watch?v=dRjBuBrFGhM
+  More useful as a discussion of valve train, cam, and oiling concerns than as a step-by-step how-to.
 
-Архивы проектов VF750
-	•	https://www.v4musclebike.com/forums/projects-and-customizing.12/
-	•	https://vfrworld.com/forums/1st-2nd-generation-1983-1989.13/
-	•	https://forum.vf1000.com/c/vf750/12
+- Honda Magna V45 Cafe Racer Style - ICCustomsUSA
+  https://www.youtube.com/watch?v=UlwVQwkROtU
+  Good visual cafe racer reference using the Magna/Sabre family.
 
-⸻
+- NEW 1983 HONDA MAGNA V45 CAFE RACER PROJECT - AvidTV
+  https://www.youtube.com/watch?v=9gkjgG-AY7E
+  Short project overview, useful mostly as a visual direction reference.
 
-Самые полезные (начни с них)
-	1.	https://v4hondabbs.com
-	2.	https://v4musclebike.com/forums/
-	3.	https://forum.vf1000.com
-	4.	https://vfrworld.com
-	5.	https://cmsnl.com
+- Honda VF750 Cafe Racer by Lucky Customs - NakedBikesNation
+  https://www.youtube.com/watch?v=qPZOBHhdTv8
+  More inspiration than technical documentation, but still useful as a visual reference.
+
+YouTube summary
+- Best-covered topics: carbs, synchronization, basic maintenance, and visual customs.
+- Weakly covered topics: complete EFI / ECU swap specifically for the VF750.
+- For EFI swap research, forum threads are currently more useful than YouTube.
+
+YouTube searches
+- https://www.youtube.com/results?search_query=vf750+rebuild
+- https://www.youtube.com/results?search_query=vf750+oil+mod
+- https://www.youtube.com/results?search_query=vf750+carb+sync
+- https://www.youtube.com/results?search_query=vf750+cdi
+
+Parts
+- https://www.ebay.com
+- https://www.cmsnl.com/honda-vf750
+- https://www.partzilla.com/catalog/honda/vf750
+- https://www.davidsilverspares.com
+- https://www.dk-motorcycles.co.uk
+
+VF750 project archives
+- https://www.v4musclebike.com/forums/projects-and-customizing.12/
+- https://vfrworld.com/forums/1st-2nd-generation-1983-1989.13/
+- https://forum.vf1000.com/c/vf750/12
+
+Most useful starting points
+1. https://v4hondabbs.com
+2. https://v4musclebike.com/forums/
+3. https://forum.vf1000.com
+4. https://vfrworld.com
+5. https://cmsnl.com

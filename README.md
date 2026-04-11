@@ -1,38 +1,38 @@
 # Honda Sabre 1982 Cafe Racer Project
 
-Этот репозиторий посвящен проекту переделки `Honda Sabre 1982` в `cafe racer`.
+This repository is dedicated to a `Honda Sabre 1982` to `cafe racer` conversion project.
 
-Здесь собираются исходные материалы, справочники и рабочие файлы по мотоциклу:
+It collects the source materials, references, and working files for the motorcycle:
 
-- сервисные мануалы по линейке Honda V4 Sabre/Magna;
-- каталоги деталей и схемы;
-- референсы и изображения;
-- подготовленные материалы для дальнейшей разборки по узлам, OCR и структурирования документации.
+- service manuals for the Honda V4 Sabre/Magna platform;
+- parts catalogs and diagrams;
+- visual references and images;
+- processed documentation prepared for OCR, section splitting, and structured storage.
 
-## Цель проекта
+## Project Goal
 
-Собрать в одном месте техническую базу и рабочие материалы для переделки мотоцикла:
+Build a single technical base for the motorcycle conversion project:
 
-- понять исходную конструкцию;
-- подготовить список узлов для ревизии и замены;
-- спланировать визуальную и техническую переделку в стиль `cafe racer`;
-- разложить документацию по понятной файловой структуре.
+- understand the stock platform in detail;
+- prepare a list of assemblies for inspection, service, and replacement;
+- plan the visual and technical conversion into a `cafe racer`;
+- organize all documentation into a clean and usable file structure.
 
-## Что уже есть
+## Current Materials
 
-Сейчас в репозитории лежат:
+The repository currently includes:
 
 - [Honda VF700/750/1100 Haynes service manual](pdf/Honda%20VF700,750,1100%20v45,65%20Sabre%20And%20Magna%20V-Fours%2082-88%20Haynes%20Service%20Manual%20Eng%20By%20Mosue.pdf)
 - [VF700S Sabre parts list](pdf/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf)
 
-## Дальше по проекту
+## Documentation Work
 
-План работ по документации:
+Planned documentation tasks:
 
-1. Преобразовать исходные PDF в нормальные searchable PDF с распознанным текстом.
-2. Разбить материалы по структуре оглавления и по узлам мотоцикла.
-3. Подготовить удобную файловую и проектную структуру для дальнейшей работы по переделке.
+1. Convert the source PDFs into proper searchable PDFs with OCR text layers.
+2. Split the materials according to their table of contents and motorcycle subsystems.
+3. Build a clean project structure for continued work on the bike conversion.
 
-## Статус
+## Status
 
-Репозиторий используется как рабочая база по проекту `Honda Sabre 1982 Cafe Racer`.
+This repository is being used as the working base for the `Honda Sabre 1982 Cafe Racer` project.
