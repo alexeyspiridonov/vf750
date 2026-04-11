@@ -3,6 +3,43 @@
 Common and frequently asked maintenance, service, and modification tasks
 for the VF750S Sabre / VF750C Magna / VF750F Interceptor (1982–1986).
 
+## Quick Index
+
+### Routine service
+- [Valve adjustment](#valve-adjustment)
+- [Oil and filter change](#oil-and-filter-change)
+- [Spark plug service](#spark-plug-service)
+- [Coolant flush and fill](#coolant-flush-and-fill)
+- [Brake fluid flush](#brake-fluid-flush)
+
+### Diagnostics and common faults
+- [Cam inspection](#cam-inspection)
+- [Compression test](#compression-test)
+- [Charging system test](#charging-system-test)
+- [CDI unit testing and replacement](#cdi-unit-testing-and-replacement)
+- [Intake boot replacement](#intake-boot-replacement)
+
+### Fuel and carburetors
+- [Carburetor removal](#carburetor-removal)
+- [Carburetor cleaning](#carburetor-cleaning)
+- [Carburetor synchronization](#carburetor-synchronization)
+- [Vacuum diaphragm replacement](#vacuum-diaphragm-replacement)
+
+### Chassis and drivetrain
+- [Fork seal replacement](#fork-seal-replacement)
+- [Pro-Link rear suspension rebuild](#pro-link-rear-suspension-rebuild)
+- [Steering head bearing adjustment](#steering-head-bearing-adjustment)
+- [Spline lubrication](#spline-lubrication)
+- [Final drive oil change](#final-drive-oil-change)
+
+### Cafe racer conversion
+- [Clip-on bars](#clip-on-bars)
+- [Rear subframe modification](#rear-subframe-modification)
+- [Seat and tail](#seat-and-tail)
+- [Front end swap (modern USD forks)](#front-end-swap-modern-usd-forks)
+- [EFI conversion](#efi-conversion)
+- [Wiring harness simplification](#wiring-harness-simplification)
+
 ---
 
 ## Engine
@@ -232,12 +269,12 @@ Addresses the #1 VF750 problem — poor oil delivery to the heads.
 - Integrate tail light, turn signals, and wiring into the tail section.
 
 ### Front end swap (modern USD forks)
-- See `fork swap.txt` for full details and confirmed builds.
+- See `fork swap.md` for full details and confirmed builds.
 - Requires: donor front end + custom steering stem + triples + wheel + brakes.
 - Perry build (GSX-R750 front end + CognitoMoto parts) is the primary reference.
 
 ### EFI conversion
-- See `ecu swap.txt` for full details.
+- See `ecu swap.md` for full details.
 - Common path: individual throttle bodies (GSXR / CBR donor) + Speeduino ECU.
 - Requires: TPS, MAP sensor, fuel pump, injectors, wiring harness.
 
@@ -254,5 +291,5 @@ Addresses the #1 VF750 problem — poor oil delivery to the heads.
 - Haynes manual sections: `output/haynes-manual/sections/`
 - Parts catalog: `output/partslist-vf700s-sabre/sections/`
 - Electrical package: `output/electrical-reference/`
-- Problems list: `problems.txt`
+- Problems list: `problems.md`
 - Community: [V4MuscleBike](https://v4musclebike.com/forums/), [VF1000 Forum / VF750](https://forum.vf1000.com/c/vf750/12)

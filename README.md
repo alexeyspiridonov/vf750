@@ -11,6 +11,19 @@ It collects service documentation, parts catalogs, research notes, and reference
 - Research key conversion areas: front end, EFI, electrical, and overall cafe racer design.
 - Plan the visual and technical conversion into a cafe racer.
 
+## Quick Start
+
+If you are starting work in this repository, use this order:
+
+1. Read `README.md` to understand the repo structure and available materials.
+2. Open `howto.md` for the most common maintenance, diagnostics, and modification tasks.
+3. Review `problems.md` for the known weak points of the VF750 / V45 platform.
+4. Use `output/electrical-reference/` first for wiring and charging diagnostics.
+5. Use `fork swap.md` if working on chassis and front-end conversion planning.
+6. Use `ecu swap.md` if researching EFI conversion paths.
+7. Use `sabre-cafe-racer-projects.md` and `images/` for design and build references.
+8. Use `resources.md` when you need forums, OEM parts sources, or external documentation.
+
 ## Repository Structure
 
 ```
@@ -22,7 +35,7 @@ output/
 scripts/                      Python scripts for PDF processing
 images/                       reference images: stock, cafe-racer, Pinterest board downloads
 howto.md                      common maintenance / repair / modification tasks
-problems.txt                  common VF750 problems and fixes (English)
+problems.md                   common VF750 problems and fixes (English)
 ```
 
 ## Documentation
@@ -52,17 +65,17 @@ Each output folder contains a `manifest.json` with source mappings and page rang
 
 | File | Topic |
 |------|-------|
-| `fork swap.txt` | Modern front-end conversion options for the VF750S / VF700S Sabre. Confirmed builds, donor parts, and warnings. |
-| `ecu swap.txt` | EFI conversion research: throttle body options, ECU choices (Speeduino, Megasquirt, etc.), sensor requirements. |
-| `sabre-cafe-racer-projects.txt` | Curated list of real Sabre cafe racer builds with links and analysis (Perry, HackAWeek, Balkan Moto, K-Speed, etc.). |
-| `resources.txt` | Forums, wikis, parts sources, Facebook groups, Reddit, and YouTube channels for the VF750 platform. |
-| `problems.txt` | Common VF750 / V45 platform problems with symptoms, causes, and practical fixes. |
+| `fork swap.md` | Modern front-end conversion options for the VF750S / VF700S Sabre. Confirmed builds, donor parts, and warnings. |
+| `ecu swap.md` | EFI conversion research: throttle body options, ECU choices (Speeduino, Megasquirt, etc.), sensor requirements. |
+| `sabre-cafe-racer-projects.md` | Curated list of real Sabre cafe racer builds with links and analysis (Perry, HackAWeek, Balkan Moto, K-Speed, etc.). |
+| `resources.md` | Forums, wikis, parts sources, Facebook groups, Reddit, and YouTube channels for the VF750 platform. |
+| `problems.md` | Common VF750 / V45 platform problems with symptoms, causes, and practical fixes. |
 | `howto.md` | Workshop-oriented how-to guide for common maintenance, diagnostics, repairs, and cafe racer conversion tasks. |
 
 ## Practical Guides
 
 - `howto.md` consolidates the most typical jobs for the platform: valve adjustment, cam inspection, top-end oil mod, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, and common cafe racer fabrication tasks.
-- `problems.txt` summarizes the recurring failure points of the VF750 family: cam wear, top-end oiling, cam chain tensioners, charging system, carburetors, CDI failures, Pro-Link wear, and related troubleshooting.
+- `problems.md` summarizes the recurring failure points of the VF750 family: cam wear, top-end oiling, cam chain tensioners, charging system, carburetors, CDI failures, Pro-Link wear, and related troubleshooting.
 
 ## Image References
 
@@ -93,5 +106,5 @@ Current state:
 - source manuals have been processed into searchable, sectioned outputs;
 - research notes cover EFI, front-end swaps, project references, and community resources;
 - a practical service and modification guide has been added in `howto.md`;
-- common VF750 issues have been consolidated in English in `problems.txt`;
+- common VF750 issues have been consolidated in English in `problems.md`;
 - image references are now organized into stock, custom, and Pinterest-derived sets.
