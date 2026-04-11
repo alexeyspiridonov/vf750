@@ -58,10 +58,14 @@ Each output folder contains a `manifest.json` with source mappings and page rang
 
 ## Key References
 
-- **V4MuscleBike** — main community forum for the V45/V65 Sabre and Magna platform.
-- **VF1000 Forum / VF750 section** — technical discussions including EFI and swap threads.
-- **Perry / 1984 VF700S Sabre Cafe** — the most thoroughly documented modern front-end conversion on a Sabre.
-- **HackAWeek / 1985 VF700S** — the best long-form video build series for a Sabre cafe racer.
+- **[V4MuscleBike](https://v4musclebike.com/forums/)** — main community forum for the V45/V65 Sabre and Magna platform.
+- **[VF1000 Forum / VF750 section](https://forum.vf1000.com/c/vf750/12)** — technical discussions including EFI and swap threads.
+- **[V4 Honda BBS](https://www.v4hondabbs.com)** — general V4 Honda forum.
+- **[CMSNL](https://www.cmsnl.com)** — parts diagrams and Honda microfiche.
+- **[Partzilla](https://www.partzilla.com)** — OEM parts lookup.
+- **Perry / 1984 VF700S Sabre Cafe** ([Inazuma Cafe](https://www.inazumacafe.com/2016/10/vf750-sabre-cafe.html), [CafeRacer.net](https://www.caferacer.net/threads/1984-honda-honda-vf700s-sabre-cafe.28714/)) — the most thoroughly documented modern front-end conversion on a Sabre.
+- **HackAWeek / 1985 VF700S** ([site](https://hackaweek.com/hacks/the-1985-honda-vf700s-sabre-cafe-racer-conversion-begins/), [YouTube](https://www.youtube.com/watch?v=-bHv8hUwE5k)) — the best long-form video build series for a Sabre cafe racer.
+- **[Balkan Moto / V45 Sabre](https://balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)** — honest DIY build with lessons learned on the 1982–83 Sabre.
 
 ## Status
 
