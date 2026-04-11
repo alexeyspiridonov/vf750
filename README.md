@@ -20,7 +20,9 @@ output/
   partslist-vf700s-sabre/     VF700S parts catalog — OCR, searchable, split by section
   electrical-reference/       electrical materials collected into one package
 scripts/                      Python scripts for PDF processing
-images/                       reference images
+images/                       reference images: stock, cafe-racer, Pinterest board downloads
+howto.md                      common maintenance / repair / modification tasks
+problems.txt                  common VF750 problems and fixes (English)
 ```
 
 ## Documentation
@@ -54,7 +56,22 @@ Each output folder contains a `manifest.json` with source mappings and page rang
 | `ecu swap.txt` | EFI conversion research: throttle body options, ECU choices (Speeduino, Megasquirt, etc.), sensor requirements. |
 | `sabre-cafe-racer-projects.txt` | Curated list of real Sabre cafe racer builds with links and analysis (Perry, HackAWeek, Balkan Moto, K-Speed, etc.). |
 | `resources.txt` | Forums, wikis, parts sources, Facebook groups, Reddit, and YouTube channels for the VF750 platform. |
-| `problems.txt` | Known issues tracker (empty, to be filled during the build). |
+| `problems.txt` | Common VF750 / V45 platform problems with symptoms, causes, and practical fixes. |
+| `howto.md` | Workshop-oriented how-to guide for common maintenance, diagnostics, repairs, and cafe racer conversion tasks. |
+
+## Practical Guides
+
+- `howto.md` consolidates the most typical jobs for the platform: valve adjustment, cam inspection, top-end oil mod, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, and common cafe racer fabrication tasks.
+- `problems.txt` summarizes the recurring failure points of the VF750 family: cam wear, top-end oiling, cam chain tensioners, charging system, carburetors, CDI failures, Pro-Link wear, and related troubleshooting.
+
+## Image References
+
+The `images/` folder now includes several reference groups:
+
+- `images/stock/` — stock Sabre reference photos.
+- `images/cafe-racer/` — collected Sabre cafe racer build photos.
+- `images/pinterest/` — downloaded images from the `saber` Pinterest board for visual comparison and inspiration.
+- root-level image files in `images/` — previously collected standalone references.
 
 ## Key References
 
@@ -69,4 +86,12 @@ Each output folder contains a `manifest.json` with source mappings and page rang
 
 ## Status
 
-Active working repository for the `1982 Honda Sabre cafe racer` project. Documentation processing is complete. Research phase is in progress.
+Active working repository for the `1982 Honda Sabre cafe racer` project.
+
+Current state:
+
+- source manuals have been processed into searchable, sectioned outputs;
+- research notes cover EFI, front-end swaps, project references, and community resources;
+- a practical service and modification guide has been added in `howto.md`;
+- common VF750 issues have been consolidated in English in `problems.txt`;
+- image references are now organized into stock, custom, and Pinterest-derived sets.
