@@ -2,274 +2,274 @@ HONDA VF750 (V45) COMMON PROBLEMS + SOLUTIONS
 Models: VF750S Sabre / VF750C Magna / VF750F Interceptor (1982-1986)
 
 ==================================================
-1. Износ распредвалов ("Chocolate cams")
+1. Camshaft wear ("Chocolate cams")
 ==================================================
-Симптомы:
-- цокот сверху
-- потеря мощности
-- шероховатые кулачки
-- стружка в масле
+Symptoms:
+- ticking noise from the top end
+- loss of power
+- rough cam lobes
+- metal shavings in oil
 
-Причина:
-- плохая закалка распредвалов
-- недостаток масла на головы
-- низкие обороты
-- редкая регулировка клапанов
+Cause:
+- poor factory cam hardening
+- insufficient oil delivery to heads
+- low idle RPM
+- infrequent valve adjustment
 
-Это самая известная проблема VF750.
+This is the most well-known VF750 problem.
 
-Решения:
-- установить external oil mod (top end oil kit)
-- увеличить холостой ход до ~1100-1200 rpm
-- использовать синтетику 10W40 / 15W50
-- частая регулировка клапанов
-- восстановление распредвалов (hard weld / regrind)
-- замена рокеров вместе с валами
-- сверление дополнительных маслоканалов (частый мод)
+Solutions:
+- install external oil mod (top end oil kit)
+- raise idle to ~1100-1200 RPM
+- use synthetic 10W40 / 15W50
+- frequent valve adjustments
+- camshaft restoration (hard weld / regrind)
+- replace rocker arms together with shafts
+- drill additional oil passages (common mod)
 
 ==================================================
-2. Натяжители цепей распредвалов
+2. Cam chain tensioners
 ==================================================
-Симптомы:
-- треск на холодную
-- шум на 2-4k rpm
-- нестабильная фаза
+Symptoms:
+- rattle on cold start
+- noise at 2-4k RPM
+- unstable valve timing
 
-Причина:
-- слабая пружина
-- износ направляющих
-- провисание цепи
+Cause:
+- weak spring
+- worn guides
+- chain slack
 
-Решения:
-- замена на новую версию tensioner
+Solutions:
+- replace with updated tensioner version
 - manual tensioner conversion
-- замена цепей ГРМ
-- проверка башмаков
+- replace cam chains
+- inspect slipper guides
 
 ==================================================
-3. Плохая подача масла к верхам двигателя
+3. Poor oil delivery to cylinder heads
 ==================================================
-Симптомы:
-- быстрый износ распредвалов
-- шум после прогрева
-- задние цилиндры хуже
+Symptoms:
+- accelerated camshaft wear
+- noise after warm-up
+- rear cylinders worse than front
 
-Причина:
-- длинные каналы
-- маленькое давление
-- падение давления на холостых
+Cause:
+- long oil passages
+- low oil pressure
+- pressure drop at idle
 
-Решения:
+Solutions:
 - external oil line kit
-- вывод масла от фильтра к головам
-- установка более мощного маслонасоса
+- route oil from filter housing to heads
+- install a higher-output oil pump
 - thicker oil (15W50)
 
 ==================================================
-4. Слабая система зарядки
+4. Weak charging system
 ==================================================
-Симптомы:
-- разряжается аккумулятор
-- тусклый свет
-- нестабильная искра
+Symptoms:
+- battery drains
+- dim lights
+- unstable spark
 
-Причина:
-- перегрев регулятора
-- слабый stator
-- плохие разъемы
+Cause:
+- regulator/rectifier overheating
+- weak stator
+- corroded connectors
 
-Решения:
-- MOSFET regulator (Shindengen)
-- перепайка разъемов stator
-- толстые провода напрямую на аккумулятор
-- проверить массу двигателя
-
-==================================================
-5. Перегрев двигателя
-==================================================
-Симптомы:
-- высокая температура
-- кипение
-- нестабильный холостой
-
-Причина:
-- забитый радиатор
-- слабый вентилятор
-- воздушные пробки
-- старый термостат
-
-Решения:
-- промывка радиатора
-- замена термостата
-- ручное включение вентилятора
-- установка второго вентилятора
-- удаление воздуха из системы
+Solutions:
+- MOSFET regulator/rectifier (Shindengen)
+- re-solder stator connectors
+- heavy-gauge wires direct to battery
+- check engine ground
 
 ==================================================
-6. Карбюраторы (4 штуки V4)
+5. Engine overheating
 ==================================================
-Симптомы:
-- плохо заводится
-- работает на подсосе
-- не держит холостой
-- провалы газа
+Symptoms:
+- high temperature
+- boiling coolant
+- unstable idle
 
-Причина:
-- грязные жиклеры
-- рассинхрон
-- подсос воздуха
-- дубовые мембраны
+Cause:
+- clogged radiator
+- weak fan
+- air pockets in cooling system
+- old thermostat
 
-Решения:
-- ультразвуковая чистка
-- синхронизация карбов
-- замена vacuum мембран
-- новые intake boots
-- регулировка смеси
-
-==================================================
-7. Подсос воздуха впуск
-==================================================
-Симптомы:
-- высокий холостой
-- нестабильная работа
-- бедная смесь
-
-Причина:
-- треснутые резинки впуска
-- подсос через вакуум линии
-
-Решения:
-- замена rubber boots
-- герметизация вакуум портов
-- новые хомуты
+Solutions:
+- flush radiator
+- replace thermostat
+- manual fan switch
+- add a second fan
+- bleed cooling system
 
 ==================================================
-8. Слабый стартер / муфта стартера
+6. Carburetors (4x V4)
 ==================================================
-Симптомы:
-- стартер крутит но не цепляет
-- проскальзывает
+Symptoms:
+- hard starting
+- only runs on choke
+- will not hold idle
+- throttle hesitation / flat spots
 
-Причина:
-- износ starter clutch
-- слабая пружина
-- износ роликов
+Cause:
+- clogged jets
+- out of sync
+- intake air leaks
+- hardened diaphragms
 
-Решения:
+Solutions:
+- ultrasonic cleaning
+- carb synchronization
+- replace vacuum diaphragms
+- new intake boots
+- mixture adjustment
+
+==================================================
+7. Intake air leaks
+==================================================
+Symptoms:
+- high idle
+- rough running
+- lean condition
+
+Cause:
+- cracked intake rubber boots
+- leaking vacuum lines
+
+Solutions:
+- replace rubber boots
+- seal vacuum ports
+- new clamps
+
+==================================================
+8. Weak starter / starter clutch
+==================================================
+Symptoms:
+- starter spins but does not engage
+- slipping
+
+Cause:
+- worn starter clutch
+- weak spring
+- worn rollers
+
+Solutions:
 - rebuild starter clutch
-- замена роликов
-- усиленные пружины
+- replace rollers
+- heavy-duty springs
 
 ==================================================
-9. Проблемы сцепления
+9. Clutch problems
 ==================================================
-Симптомы:
-- пробуксовка
-- тяжело включаются передачи
+Symptoms:
+- slipping
+- hard shifting
 
-Причина:
-- износ дисков
-- слабые пружины
+Cause:
+- worn friction plates
+- weak springs
 
-Решения:
-- новые friction plates
-- усиленные пружины
-- замена масла (без friction modifiers)
-
-==================================================
-10. Люфт Pro-Link подвески
-==================================================
-Симптомы:
-- вобблинг
-- люфт задницы
-- нестабильность в поворотах
-
-Причина:
-- износ втулок
-- мягкие bushings
-
-Решения:
-- замена всех втулок
-- игольчатые подшипники upgrade
-- переборка линков
+Solutions:
+- new friction plates
+- heavy-duty springs
+- oil change (no friction modifiers)
 
 ==================================================
-11. Течи масла
+10. Pro-Link suspension play
 ==================================================
-Типовые места:
-- крышки голов
-- прокладка генератора
-- масляный фильтр
-- водяная помпа
+Symptoms:
+- wobble
+- rear end looseness
+- instability in corners
 
-Решения:
-- новые прокладки
-- герметик ThreeBond
-- проверка вентиляции картера
+Cause:
+- worn bushings
+- soft bushings
+
+Solutions:
+- replace all bushings
+- needle bearing upgrade
+- rebuild linkage
 
 ==================================================
-12. Плохая искра / CDI
+11. Oil leaks
 ==================================================
-Симптомы:
-- пропуски
-- не заводится
-- работает на 2 цилиндрах
+Common locations:
+- valve cover gaskets
+- alternator cover gasket
+- oil filter area
+- water pump
 
-Причина:
-- умер CDI
-- плохие pickup coil
-- плохая масса
+Solutions:
+- new gaskets
+- ThreeBond sealant
+- check crankcase ventilation
 
-Решения:
-- замена CDI
+==================================================
+12. Weak spark / CDI failure
+==================================================
+Symptoms:
+- misfires
+- no start
+- running on 2 cylinders
+
+Cause:
+- dead CDI unit
+- bad pickup coil
+- poor ground
+
+Solutions:
+- replace CDI
 - Ignitech / programmable CDI
-- проверка pulse generator
+- check pulse generator
 
 ==================================================
-13. Вал кардана (Saber/Magna)
+13. Shaft drive (Sabre / Magna)
 ==================================================
-Симптомы:
-- вибрация
-- люфт
+Symptoms:
+- vibration
+- play / clunking
 
-Причина:
-- сухой шлиц
-- износ крестовины
+Cause:
+- dry splines
+- worn U-joint
 
-Решения:
-- смазка шлицев
-- проверка редуктора
-
-==================================================
-14. Тяжелый запуск холодного двигателя
-==================================================
-Причины:
-- карбы
-- клапана
-- слабая искра
-- компрессия
-
-Решения:
-- регулировка клапанов
-- синхронизация карбов
-- проверка компрессии
+Solutions:
+- grease splines
+- inspect final drive
 
 ==================================================
-15. Плохая масса проводки
+14. Hard cold starting
 ==================================================
-Симптомы:
-- плавающие проблемы
-- пропадает искра
-- глохнет
+Causes:
+- carburetors
+- valve clearance
+- weak spark
+- low compression
 
-Решения:
-- новые массы двигатель-рама
-- очистка контактов
-- толстые провода
+Solutions:
+- valve adjustment
+- carb sync
+- compression test
 
 ==================================================
-КРИТИЧЕСКИЕ ПРОБЛЕМЫ VF750 (TOP)
+15. Poor wiring grounds
+==================================================
+Symptoms:
+- intermittent problems
+- spark drops out
+- stalling
+
+Solutions:
+- new engine-to-frame grounds
+- clean contact surfaces
+- heavy-gauge ground wires
+
+==================================================
+CRITICAL VF750 PROBLEMS (TOP)
 ==================================================
 
 1. Camshaft wear
