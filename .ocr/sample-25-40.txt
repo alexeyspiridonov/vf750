@@ -1,0 +1,1512 @@
+Troubleshooting
+
+0-25
+
+Poor handling or stability
+46 Handlebar hard to turn
+
+1 __ Steering stem nut too tight (Chapter 6).
+2 Bearings damaged. Roughness can be felt as the bars are tuned
+from side-to-side. Replace bearings and races (Chapter 6)
+
+3 Races dented or worn. Denting results from wear in only one
+postion (e.g. straight-ahead), from a colision or hitting a pothole or
+from dropping the machine. Replace races and bearings (Chepter 6).
+
+4 Steering stem lubrication inadequate. Causes are grease getting
+hard from age or being washed out by high pressure car washes.
+Disassemble steering head and repack bearings (Chapter 6)
+
+5 Steering stem bent. Caused by a calision, hitting a pothole or by
+‘dropping the machine. Replace damaged part. Don’ try to straighten
+the steering stem (Chapter 6)
+
+6 Front te air pressure too low (Chapter 1)
+
+47 Handlebar shakes or vibrates excessively
+
+1 _ Tires worn or out of balance (Chapter 7).
+
+2 Swingarm bearings worn. Replace wom bearings by referring to
+Chapter 6.
+
+3 Rim(s) warped or damaged. Inspect wheels for runout (Chapter
+7)
+
+4 Wheel bearings wom. Worn front or rear wheel bearings can cause
+oor tracking. Worn front bearings will cause wobble (Chapter 7).
+
+5 _ Handlebar clamp batts loose (Chapter 6).
+
+6 Steering stem or fork triple clamps loose. Tighten them to the
+specified torque (Chapter 6).
+
+7 Engine mounting bolts loose. Will cause excessive vibration with
+Increased engine rpm (Chapter 2),
+
+8 Loose axle (Chapter 7),
+
+48 Handlebar pulls to one side
+
+1 Frame bent, Definitely suspect this ifthe machine has been dropped.
+
+‘May or may not be accompanied by cracking near the bend. Replace
+the frame (Chapter 6),
+
+2Wheel out of alignment. Caused by improper location of axie spacers
+‘or from bent steering stem or frame (Chapter 6).
+
+‘3. Swingarm bent or twisted. Caused by age (metal fatigue) or impact
+damage. Replace the arm (Chapter 6).
+
+4 Steering stem bent. Caused by impact damage or by dropping the
+motorcycle. Replace the steering stem (Chapter 6),
+
+5 Fork leg bent. Disassemble the forks and replace the demaged parts
+(Chapter 6)
+
+6 Fork oil level uneven. Check and add or drain as necessary (Chapter
+8)
+
+7 Defective shock absorber on one side (Magna models)
+
+49 Poor shock absorbing qualities
+
+2 Toosoft
+.2) Fork or shock oil insufficient andier leaking (Chapter 6).
+1) Fark ol level too low (Chapter 6).
+
+©) Fork oil viscosity too light (Chapter 6).
+
+©) Fark springs weak or broken (Chapter 6).
+
+©) Shock internal damage or leakage (Chapter 6).
+
+Braking problems
+50 Disc brakes are spongy, don't hold
+
+1 Air in brake line. Caused by inattention to master cylinder fluid level
+or by leakage. Locate problem and bleed brakes (Chapter 7).
+
+2 Pad or disc wom (Chapters 1 and 7),
+
+3 Brake fluid leak. See paragraph 1.
+
+4 Contaminated pads. Caused by contamination with oll, grease, brake
+fluid, etc. Clean or replace pads. Clean disc thoroughly with brake
+cleaner (Chapter 7).
+
+5 Brake fluid deteriorated. Fluid is old or contamin
+replenish with new fluid and bleed the system (Chi
+6 Master cylinder internal parts worn or damaged causing fluid to
+bypass (Chapter 7)
+
+7 Master cylinder bore scratched by foreign material or broken spring.
+Repair or replace master cylinder (Chapter 7).
+
+8 Disc warped. Replace disc (Chapter 7)
+
+1d. Drain system,
+7)
+
+51 Brake lever or pedal pulsates
+
+1 Disc warped or drum out-of-round (Chapter 7).
+2 Axle bent. Replace axle (Chapter 7)
+
+3 Brake caliper or bracket bots loose (Chapter 7)
+
+4 Brake caliper sticking on its mounting bolt shafts, causing caliper to
+bind. Lube the shafts or replace them if they are corroded or bent
+(Chapter 7)
+
+5 Wheel warped or otherwise damaged (Chapter 7).
+
+6 Wheel bearings damaged or worn (Chapter 7).
+
+52 Brakes drag
+
+1 Master cylinder piston seized. Caused by wear or damage to piston
+«or cylinder bore (Chapter 7)
+
+2 Lever balky or stuck. Check pivot and lubricate (Chapter 7).
+
+3 Brake caliper binds. Caused by inadequate lubrication or damage to
+‘caliper sliders (Chapter 7)
+
+4 Brake caliper pistons seized in bore. Caused by wear or ingestion of
+it past deteriorated seal (Chapter 7).
+
+'5 Brake pad damaged. Pad material separated from backing plate
+
+Usually caused by faulty manufacturing process or from contact with
+chemicals. Replace pads (Chapter 7).
+
+6 __Pads improperly installed (Chapter 7).
+
+7 Drum brake operating cam sticking or broken/sagged shoe retum
+strings (Chapter 7)
+
+8 _ Rear brake pedal treeplay insufficient
+
+1 Toohard
+@) Fork oil level excessive (Chapter 6).
+
+1b) Fork ol viscosity too high.
+
+©) Fork tube bent. Causes a harsh, sticking feeling (Chapter 6).
+@) Anti-ive passages clogged (Chapter 6).
+
+©) Shock shaft or body bent or damaged (Chapter 6).
+
+1) Fork internal damage (Chapter 6).
+
+9) Shock internal damage.
+
+1) Tre pressure too high (Chapter 1).
+
+Electrical problems 53
+
+Battery dead or weak
+
+1 Battery faulty. Caused by sulfated plates which are shorted through
+sedimentation or low electrolyte level. Also, broken battery terminal
+‘making only occasional contact (Chapter 8).
+
+2 Battery cables making poor contact (Chapter 8).
+
+0-26
+
+Troubleshooting
+
+3 Load excessive, Caused by addition of high wattage lights or other
+electrical accessories
+
+4 Ignition main (key) switch defective. Switch either grounds (earths)
+intemally oF falls to shut off system. Replace the switch (Chapter 8)
+
+5. Regulatorireciier defective (Chapter 8).
+
+6 _Atemator stator coll open or shorted (Chapter 8)
+
+7 Wiring fauity. Wring grounded (earthed) or connections loose in
+ignition, charging or lighting circuits (Chapter 8).
+
+54 Battery overcharged
+
+1 Regulatoritectiier defective. Overcharging is noticed when battery
+gets excessively warm or bois over (Chapter 8)
+
+2 Battery defective. Replace battery with a new one (Chapter 8)
+
+3 Battery amperage too low, wrong type or size. Install manufacturer's,
+specified amp-hour battery to handle charging load (Chapter 8)
+Chapter 1
+
+Tune-up and routine maintenance
+
+Contents.
+Section Section
+‘Ar ter element - cleaning and replacement 12 Final drive unt - oil change. 1"
+ry - che 4 Fluid levels - check, 3
+Broke seins ‘wear check 5 Fuel system- checks and fiter replacement, 26
+Brake system - checks. 6 —_ Ide speed- check and adjustment 7
+ic y += check and 18 totune-up and routine 2
+Clutch - checks and bleeding 9 Lubrication - general 15
+Cooling system - check 19 Routine maintenance intervals. it
+Cooling system - draining, flushing and refiling 20 Spark plugs - check and replacement “
+Crankcase breather - check. 21 Stands- check. 28
+‘Cylinder compression - check 13 Steering head bearings - check and adjustment 24
+Engine oitfiter - change 10 Suspension - check. 27
+Evaporative emission control system and Secondary air Tireshwheels - general check 7
+‘supply system (Califomia models only) - check. 22 Throttle and choke operation/grip treeplay - check
+Exhaust system - check. 23 and adjustment. 8
+Fasteners - check, 25 Valve clearances - check and adjustment. 16
+
+Specifications,
+
+Engine
+Spark plug type
+Standard.
+Below 41°F (5°)
+Extended high speeds.
+Spark plug electrode gap
+Valve clearances (COLD engine)
+1982 through 1984 700/750 Magnas and all
+700/750 Sabre models.
+1985 700 Magna models.
+1986-on 700/750 and all 1100 models
+Engine idle speed
+750 Sabre and 1982 through 1984 700/750 Magna models
+700 Sabre and 1985-on 700/750 Magna models
+1400 Sabre models.
+4100 Magna models,
+‘Cylinder compression pressures.
+
+NGK DPR8EA-9 or ND X24EPR-US
+NGK DPR7EA-9 or ND X22EPR-U9
+NGK DPR9EA.9 of ND X27EPR-US
+0.8 to.0.9 mm (0.031 0 0.035 in)
+
+0.12 mm (0.0047 in)
+0.13 mm (0.0051 in)
+0.15 mm (0.0059 in)
+
+1000 ¢ 100 rpm
+1200 ¢ 100 rpm
+1000 to 1100 rpm
+4000 + 100 rpm
+184 £28 psi (psi)
+
+Carburetor synchronization (maximum vacuum difference between any two cylinders
+
+1985 through 1988 700/750 Magna models.
+
+40 mm (1.6 in) Ho
+
+All other models 60 mm (24 in) Ho
+cylinder See 4.1 in Chapter 2
+Miscellaneous
+
+Battery specific gravity. 1.280 at 68°F (20°C)
+
+Brake pad minimum thickness See text
+
+Brake pedal freeplay (700/750 models). 20to 30 mm (0.8 to 1.2 in)
+Throttle grip treeplay. 210.6 mm (0.08 to.0.24 in)
+1-
+
+Chapter 1 Tune-up and routine maintenance
+
+Tire sizes
+700/750 Sabre models.
+1982 through 1984 700/750 Magna models.
+1985 and 1986 700 Magna models.
+1987 and 1988 700/750 Magna models
+1100 Sabre models.
+1100 Magna models.
+Minimum tire tread depth”
+Tire pressures (cold)
+1100 Sabres
+Up to 90 kg (200 Ib) load
+Over 90 kg (200 Ib) load.
+
+700/750 Sabres, 1982 through 1984 700/750 Magnas, all 1100 Magnas
+
+Up to 90 kg (200 Ib) load
+‘Over 90 kg (200 Ib) load.
+
+1985 through 1988 700/750 Magnas
+Up to 90 kg (200 Ib) load
+Over 90 kg (200 Ib) load.
+
+‘In the UK, tead depth must be at east 1 mm over 3/4 of the tread breactth all the way around the tre, with no bald patches.
+
+Torque setting
+Engine oil pan drain plug.
+Front cylinder oil drain plug.
+Oil filter (using Honda tool).
+Spark plugs.
+
+Recommended lubricants and fluids:
+Enginefransmission oil
+Type.
+
+Viscosity
+Capacity (700/750 models)
+‘After draining
+‘After engine rebuild
+Copacity (1100 models)
+‘After draining
+‘After engine rebuild
+Final drive unit
+
+1982 and 1983 750 models (above 41°F/5°C).
+1982 and 1983 750 models (below 41°F/5°C).
+All ther models,
+Capacty*
+1982 and 1983 750 models.
+1984-on 700/750 models and all 1100 models.
+“Refill quantty is greater f the final drive has been dismantled
+Coolant
+Mixture type
+Radiator capacity
+700/750 models.
+1100 Sabre mode!
+4100 Magna model
+Reservoir tank capacity (approx.)
+1100 Sabre model,
+Al other models.
+Brake and clutch fluid
+
+Miscellaneous
+Wheel bearings.
+
+Final drive flange grease
+‘Swingarm pivot bearings.
+‘Suspension linkage bearings (Sabre),
+Cables and lever pivots,
+Stand pivots.
+
+Front Rear
+11090-18 61H 13090-17 68H
+1080-18 61H 130/90-16 67H
+11090-18614 140/90-15 70H
+10090-19 57H 150/80-15 70H
+M11090-18 1M130/00-17
+M110/90-18 M140/90-16
+4.5mm (0.06 in) 2.0 mm (0.08 in)
+S2psi 36 psi
+32psi 40psi
+32psi 32psi
+32psi 40psi
+32 psi 32psi
+32psi 42psi
+Nm ftibs
+3510.40 25029
+10to14 71010
+15t020 111014
+1210 16 9t0 12
+API grade SE or SF
+
+‘SAE1OW/40
+
+2.91lt (3.1 US qt, 5.1 Imp pts)
+3.0 it G2 US gt, 5.3 Imp pts)
+
+3.0 lt (3.2 US qt, 53 Imp pts)
+3.5 lit (3.7 US qt, 6.2 imp pts)
+
+Hypaid gear oll SAESO
+Hypoid gear ol SAE6O
+Hypoid gear ail SAEBO
+
+110 cc (3.7 US Moz, 3.9 Imp oz)
+130 cc (4.4 Usfl oz, 4.6 Imp floz)
+
+50% distilled water, 50% corrosion inhibited ethylene glycol antifreeze
+
+2.4 lit (2.5 US at, 4.2 Imp pt)
+2.8 lit (29 US qt, 49 Imp pt)
+3.0 lit (32 US qt, 5:3 Imp pt)
+
+0.6 lit (0.6 US at, 1.0 Imp pt)
+0.4 lit (0.4 US qt, 0.7 imp pt)
+DOT 3 or 4 (see reservoir cap)
+
+‘Medium weight, lthium-based multi-purpose grease
+‘See Chapter 6
+
+Chain and cable lubricant or 10W40 motor of!
+ease
+
+Broke pedal/shift lever pivots.
+
+§ or
+Chain and cable lubricant or 10W40 motor of
+
+Throttle grip.
+
+‘grease or dry film lubricant
+Chapter 1_Tune-up and routine maintenance 13
+
+Honda 700, 750 & 1100 V-Four
+Routine maintenance intervals
+
+Routine mai Z
+Note: The inspection outlined in the owner's manual covers
+the checks and maintenance that shoukd be carried out on @ daily
+basis. If condensed and included here to remind you of its
+‘importance. Aways perform the previde inspection at every
+‘maintenance interval (in acklton tb the procedures isted). The intervals
+Uisted below are the shortest intervals recommended by the
+‘manufacturer for each particular operation during the mode! years
+covered in this manual. Your owner's manual may have diferent
+intervals for your made!
+
+Daily or before riding
+
+Check the engine oil level
+Check the fuel level and inspect for leaks
+Check the engine coolant level and look for leaks
+Check the operation of both brakes - also check the fluid
+levels and look for leakage Check the tires for
+damage, the presence of foreign objects
+and correct air pressure Check the throttle for smooth
+operation Check the operation of the clutch - make sure
+the freeplay
+is correct Make sure the steering operates
+‘smoothly, without
+looseness or binding Check for proper operation
+of the headlight, taillight,
+brake light, turn signals, indicator lights, speedometer
+and horn Make sure the sidestand and main stand
+return to their fully
+Up positions and stay there under spring pressure
+Make sure the engine stop switch works properly
+
+After the initial 600 miles (1000 km)
+
+Replace the engine oil and oil filter
+Check and adjust the valve
+clearances Check and adjust the idle
+speed Check the throttle operation
+Check the carburetor synchronization
+Check the cooling system Check the
+brake hydraulic system Check the
+clutch hydraulic system Check the
+tightness of all fasteners Check the
+steering head bearings
+
+Every 4000 miles (6000 km)
+
+Clean the air filter element(s) (Sabre models) Drain
+the crankcase breather separator tank (where
+applicable)
+
+Replace the spark plugs
+Check the idle speed
+
+Check the battery electrolyte level and condition
+Check the brake fluid level and pad wear
+Check the drum brake lining wear
+
+Check the clutch fluid level
+
+Every 8000 miles (12,000 km)
+
+Replace the engine oil and filter
+Check the fuel system hoses.
+Check the battery
+Check and adjust the throttle and choke cables
+Check/adjust the vaive clearances
+Replace the air cleaner element (1982 through 1985
+Magna models)
+Check/adjust the carburetor synchronization Check
+the Evaporative emission control system (1982
+through 1985 models) Check the Secondary air
+supply system (1986 through
+1988 models)
+Check the coolant level and check the cooling system
+Check the final drive oil level Lubricate the final driven
+flange with fresh grease - 700/750
+‘Sabres and 1982 through 1984 700/750 Magnas (see
+Chapter 6)
+Check the brake hydraulic system Check the
+operation of the brake light switches Check the
+headlight aim (see Chapter 8) Check the clutch
+hydraulic system Check the stand pivots Check the
+operation of the suspension Check the steering
+head bearings for play Check the condition of the
+wheels and tires Check the tightness of all nuts,
+bolts and fasteners
+
+Every 12,000 miles (19,200 km)
+
+Replace the air filter element (1986 through 1988
+Magnas) Check the Evaporative emission control system
+(1986
+
+through 1988 models) Replace the clutch and
+brake fluid (or every two years,
+
+whichever comes sooner)
+
+Every 24.000 miles (36,000 km)
+
+Replace the coolant
+
+Replace the fuel filter (1982 through 1986 Magnas and
+1100 Sabres) Replace
+
+the final drive oil
+1-4 Chapter 1 Tune-up and routine maintenance
+
+3.2 Rotate the wiper to clear the oil level inspection window
+(1982 750 models)
+
+3.3 Add engine oil via the plug in the front of the right
+engine case
+
+2 Introduction to tune-up and routine maintenance
+
+This Chapter covers in detail the checks and procedures
+necessary for the tune-up and routine maintenance of your
+motorcycle. Section 1 includes the routine maintenance schedule,
+which is designed to keep the machine in proper running condition
+and prevent possible problems. The remaining Sections contain
+detailed procedures for carrying out the items listed on the
+maintenance schedule, as well as additional maintenance
+information designed to increase reliability.
+
+Since routine maintenance plays such an important role in the
+safe and efficient operation of your motorcycle, it is presented here
+as a comprehensive check list. For the rider who does all his/her
+‘own maintenance, these lists outline the procedures and checks
+that should be done on a routine basis.
+
+Maintenance information is printed on decals attached to the
+motorcycle. If the information on the decals differs from that
+included here, use the information on the decal
+
+Deciding where to start or plug into the routine maintenance
+schedule depends on several factors. If you have a motorcycle
+whose warranty has recently expired, and if it has been maintained
+according to the warranty standards, you may want to pick up
+routine maintenance as it coincides with the next mileage or
+calendar interval. If you have owned the machine for some time
+but have never performed any maintenance on it, then you may
+‘want to start at the nearest interval and include some additional
+procedures to ensure that nothing important is overlooked. If you
+have just had a major engine overhaul, then you may want to start
+the maintenance routine from the beginning. If you have a used
+machine and have no knowedge of its history or maintenance
+record, you may desire to combine all the checks into one large
+service initially and then settle into the maintenance schedule
+prescribed.
+
+The Sections which outline the inspection and maintenance
+procedures are written as step-by-step comprehensive guides to
+the performance of the work. They explain in detail each of the
+routine inspections and maintenance procedures on the check list.
+References to additional information in applicable Chapters is also
+included and should not be overlooked.
+
+Before beginning any maintenance or repair, the machine
+should be cleaned thoroughly, especially around the oil iter, spark
+plugs, cylinder head covers, side covers, carburetors, etc.
+Cleaning will help ensure that dirt does not contaminate the engine
+and will allow you to detect wear and damage that could otherwise
+easily go unnoticed.
+
+3 Fluid levels - check
+
+Engine oil
+
+Referto illustrations 2.2, 3.3 and 3.7
+
+1982 750 models
+
+1 Check the oil level with the engine cold. Place the motorcycle on.
+its main stand on level ground.
+
+2 Locate the engine oil inspection window on the lower right side of
+the engine. If necessary, use a screwdriver to rotate the wiper in
+order to clean the inspection window (see illustration).
+
+3 Note where the oil level is in relation to the upper and lower level
+marks located on either side of the inspection window. The level
+should be between these two marks. If the oil level is below the
+lower mark, remove the filler cap and add enough oil of the
+recommended grade and type to bring the level up to the upper
+mark (see illustration). Do not overfill. Re-install the filler cap.
+
+4 Run the engine and check that the oil pressure waming light
+goes out after a few seconds
+
+All other models
+
+5 Run the engine for 2 to 3 minutes, then stop it. Caution: Do not
+rrun the engine in an enclosed space such as @ garage or shop. Place
+the motorcycle on its main stand (have an assistant hold it vertical
+on 1987 and 1988 700/750 Magna models) on level ground.
+
+6 Remove the oil level dipstick from the rear of the engine right
+cover and wipe its end clean. Re-insert the dipstick, but don't screw
+it in, then remove it and check the oil level
+
+7 Note where the oil level is in relation to the upper and lower level
+marks on the dipstick. The level should be between these two
+marks. If the oil level is below the lower mark, remove the filler cap
+and add enough oil of the recommended grade and type to bring
+the level up to the upper mark (see illustration). Do not overfill
+Re-install the filer cap.
+
+8 Some later 700/750 models retain the cil level inspection window
+(see Step 2), although the dipstick method is recommended
+
+§ Run the engine and check that the oil pressure warning light
+goes out after a few seconds.
+
+Brake fluid
+
+Refer fo lustraton 3.12
+
+10 _Inorder to ensure proper operation of the hydraulic dise
+brakes,
+Chapter 1
+
+Tune-up and routine maintenance 15
+
+3.7 Olllevel should le between dipstick marks
+{all except 1882 750 models)
+
+the fui level in the master cylinder reservoirs) must be property
+
+maintained.
+
+Front brake
+11 With the motorcycle on the main stand (or held upright), turn
+the handlebars until the top of the master cyinder Is as level as
+possibile. necessary tt he motorcycle to make it level
+
+42 Look closely at the inspection window in the master cylinder
+reservoir. Make sure thal the Mud level, sible in the sightglass, Is
+above the LOWER mark on the reservoir (see llustration).
+
+13 If the level is low, the fluid must be replenished. Before
+removing the master cinder cover. cover the fuel tank to protect it
+‘fom brake fluid spils (which wil damage the pat) and remove all
+dust and di from the area around the cap.
+
+‘4 Unscrew the retaining screws and lif off the cover, daphragm
+plate (where fitted, diaphragm and float (1988 750 Magna mode).
+Using a good quality brake fluid of the recommended type. from
+freshly opened container, top up the reservor to the upper level
+mark; this mark Is in the form of a line, cast on the inside of the
+front face of he reservoir
+
+45 When the fuid level is correct, clean and cty the diaphragm.
+fold it into ts compressed stale and instal it in the reservoir
+followed by the diaphragm plate. Install the reservoir cover and
+‘securely tighten ts retaining screws,
+
+Rear brake (1100 models)
+
+16 With the motorcycle on the main stand, remove the right side
+cover and check the fu level in the rear brake reservar. Make
+sure that the fluid level, visible through the translucent material of
+the reservoir, is above the LOWER mark on the reservor.
+
+17 Ifthe level is low, the fuid must be replenished. Remove any
+dust and din from the area around the cap. Unscrew the reservolt
+‘cap and remove the diaphragm plate and diaphragm. Using a good
+ual brake fuid ofthe recommended type, from a freshiy opened
+Container, top up the reservor to the UPPER level mark
+
+48 When the fluid level Is correct, clean and dry the diaphragm
+fold it into its compressed stale and install t in the reservoir
+followed by the diaphragm plate. install the reservor cap,
+tightening it securely, and install the right side cover.
+
+Both brakes
+19 Check the operation of both brakes before riding the
+motorcycle; f there is evidence of air in the system. i must be bled
+as described in Chapter 7
+
+20 Ifthe brake fuid level was low. inspect the brake system for
+leaks.
+
+2.12 Brakelclutch uld level rust be above LOWER mark on
+‘master eyinder
+
+Clutch fluid
+
+21 The procedure for checking the clutch fluid is identical to the
+front brake fluid checking procedure above.
+
+Coolant level
+
+Referto istration 3.23.
+
+22 Remove the left side cover on 700/750 Sabres, or the ight side
+‘over on all other models
+
+23 Start the engine and allow it to idle until reaches normal
+‘operating temperature. With the engine thoroughly warmed up, the
+coolant level in the reservoir should be between the Upper and
+Lower marks onthe side of the reservoir (see illustration).
+
+24 I the coolant is below the Lower mark, remove the cap trom the
+reservoir tank and add coolant of the specified type (see Specif-
+callons) to bring the level to the Upper mark. Note: Be careful not
+to spill coolant on any painted surfaces, as damage fo the paint
+could occur
+
+28 _ Re-install he reservoir cap and the side cover.
+
+26 If the coolant is significantly above the upper level mark at any
+‘ime, the surplus coolant should be siphoned off to prevent i fom
+being expelled out of the breather hose when the engne Is
+running
+
+27 Ifthe coolant level falls steadily, check the system for leaks as
+
+‘323 Coolant level should lie between UPPER and LOWER lines
+‘on reservoir tank
+
+Chapter 4
+
+Tune-up and routine maintenance
+
+3.29 Final drive uni ol filler cap (A) and drain bolt (8)
+
+described in Section 19. If no leaks are found and the level still
+
+continues to fall, it is recommended that the machine be taken to @
+Honda
+
+service agent who will pressure test the system
+
+Final drive unit oif
+
+Referto ilustration 3.29
+
+28 If the motorcycle has just been ridde
+
+oil to settle before checking the level. Pla
+
+main stand. Be sure it is on level ground.
+
+29 On 1982 and 1983 750 models, remove the oil filler cap (see
+llustration). Look into the aperture, using @ hand-held flashlight if
+
+sp in the casting. Align the top edge of
+
+teeth with the top of the step (rotate
+
+it ten minutes for the
+the motorcycle on its
+
+with the top of the next tooth down on the ring gear. If the oil level
+is lower than this, add more oil of the correct type and grade, using
+a funnel, syringe or pump, to bring it to its proper level
+
+r models, remove the oil filler cap (see illustration
+of the oil should be just at the lower edge of the oil
+
+hole. If the oil level is lower than this, add more oil of the correct
+type
+
+and grade, using a funnel, syringe or pump, to bring it to its proper
+level.
+
+31 Onall models, re-install the oil filler cap, tightening it securely.
+
+4 Battery - check
+
+Battery electrolyte
+
+Caution: Take care when working with the battery that you do not
+18 electrolyte to contect your eyes, skin or clothing, es it
+
+contains sulphuric ect. Flush any contacted aree immediately with
+
+plenty of water. Any contact with eyes requires prompt medical
+
+attention
+
+Refer llustration 4.4
+
+1 To check the level of the electrolyte in the battery, remove the
+
+right side cover (1982 through 1984 700/750 Magnas, all 700/750
+
+Sabres and all 1100 Magnas) or left side cover (1100 Sabres). On
+
+1985 through 1988 700/750 Magnas, the battery must be lifted out
+
+of its holder to check the level (see Chapter 8). The level should be
+
+between the Upper and Lower level marks printed on the outside
+
+of the battery case (see illustration).
+
+2 If the electrolyte level is at or below the Lower mark, the battery
+
+must be removed in order to add more water (see Chapter 8)
+
+3 With the battery removed from the motorcycle, remove each cell
+
+cap and add enough distilled water to each cell to bring the level to.
+
+the
+
+4,1 Battery electrolyte level should lie between level marks
+‘on casing
+
+4.6 Measuring electrolyte specific gravity with a hydrometer
+
+Upper mark. Do not overfill. Also, do not use tap water, except in
+as this will shorten the service life of the battery.
+
+The cell holes are quite small so it may help to use a plastic
+
+‘squeeze bottle with a small spout to add the water.
+
+4 After filling install the battery and ensure its vent hose is routed
+
+correctly (see Chapter 8).
+
+Specific gravity check
+
+Refer to ilustration 4.6
+
+5 Remove the battery (see Chapter 8). Check the specific gravity of
+the electrolyte in each cell using a small hydrometer_ made
+especially for motorcycle batteries. These are available from most
+dealer parts departments.
+
+6 Remove the caps, dravs some electrolyte from the first cell into the
+hydrometer and note the specific gravty (see illustration). Compare
+the reading to the Specifications listed in this Chapter. Note: Add 0,004
+points to the reading for every 10°F above 68°F (20°C) -subtract 0,004
+oints trom the reading for every 10°F below 63°F (20°F). Return the
+electrolyte to the cell and repeat the check for the remaining cells. When
+the check is complete, rinse the hydrometer thoroughly with clean water.
+7 If the specific gravity of the electrolyte in each cell is as specified,
+the battery is in good condition and is apparently being charged by
+the motorcycle's charging system.
+
+Chapter 1 Tune-up and routine maintenance
+
+1-7
+
+6:1 Brake pad wear can be checked through inspection window in
+
+caliper body (arrow)
+
+64 Drum brake linings are wom when indicator pointer and index
+mark align
+
+8 If the specific gravity is low, the battery is not fully charged. This
+may be due to corroded battery terminals, a dirty battery case, 2
+maifunctioning charging system, or loose or corroded wiring
+connections. On the other hand, it may be that the battery is worn
+ut, especiaily if the motorcycle is old, or that infrequent use of the
+motorcycle prevents normal charging from taking place.
+
+9 Be sure to correct any problems and charge the battery if
+necessary. Refer to Chapter 8 for additional battery maintenance
+and charging procedures.
+
+10 Install the battery (see Chapter 8)
+
+5 Brake pads/linings - wear check
+
+Disc brake pads
+Refer to lustrations 5 1 and 52
+
+1/A quick check of the brake pads can be made without removing
+them from the caliper. Pad wear can be judged by viewing the pad
+‘material through the inspection slot indicated by the cast arrow on
+the caliper body: the use of a hand-held flashiight will aid visibility
+The original equipment pads have a cutout between the pad metal
+backing and the friction material which denotes the wear limit - if
+the friction material of either pad has wom down to expose the
+cutout, the pads
+
+52 Brake pad wear cutout (upper arrow) and wear grooves
+(lower arrow)
+
+(see illustration).
+
+2 As a futher check. view the pads from the caliper mouth, I the
+
+friction material has wor down level with the base of the grooves
+
+or siots in the pad, the need for replacement is indicated (see
+
+illustration). Refer to Chapter 7 for the pad replacement
+
+procedure. However. & is recommended that the pads be removed
+
+Sl 8 more deiied Iepection be canted out es esctbed in
+
+ns 2 and 15 of Chapter 7.
+
+Sirtis impossbie fo eheck ne amount of pad material remaining
+
+due to a buld-up of road dirt, remove the pads for thorough
+
+inspection and cleaning (see Chapter 7).
+
+Drum brake mage: (700/750 models)
+
+4 The drum broke shoes are checked by applying the brake fully
+and checking to see whether the wear indicator pointer on the
+brake lever aligns with the index mark on the brake panel (see
+illustration).
+
+5 If aligns with the index mark or exceeds it, the brake shoes are
+wor and must be replaced with new ones (see Chapter 7). If in
+any doubt about the amount of lining material remaining on the
+shoes, or if brake action is poor, remove the wheel for
+measurement of the lining thickness (see Chapter 7).
+
+6 Brake system -
+
+checks Brake checks
+
+1 A routine general check of the brakes will ensure that any
+problems are discovered and remedied before the rider's safety is
+jeopardized.
+
+2 Check the brake lever and pedal for loose connections,
+excessive play, bends, and other damage. Replace any damaged
+parts with new ones (see Chapter 7).
+
+3 Make sure all brake fasteners are tight. Check the brake
+Padsfinings for wear (see Section 5) and on disc brake models,
+make sure the fluid level in the reservoirs is correct (see Section
+
+3).
+4 On disc brakes, look for leaks at the hose connections and check
+for cracks in the hoses. If the lever or pedal is spongy, bleed the
+brakes as described in Chapter 7. Drain and replace the brake fluid
+at the specified interval.
+
+Brake lever freeplay (1985 1100 Sabre and
+
+1985/86 1100 Magna)
+5 Measure the freeplay at the ball end of the front brake lever.
+‘Assuming that there sno air in the hydrauile system, resulting in a
+1-8 Chapter 1 Tune-up and routine maintenance
+
+6.8 Brake pedal height adjustment bott on 700/750
+‘models (arrow,
+
+spongy feel to the lever (see below).
+nm before the front brake comes on.
+6 If outside of this measurement, adj
+
+ould move 20 to 30
+
+3 si
+lever pivot. noting that one of the index mar
+
+the knurted ring at the
+on the ring must align
+
+with the arrow stamped in
+front brake and check that t
+
+Brake pedal height
+Refer fo ilustration 68
+ake pedal height is important to ensure maximum braking
+efficiency. Incorrect height can cause brake drag or prevent full
+tion of the rear brake
+1075
+
+op of
+
+lever
+ake dra
+
+els the top of the brake pedal should be 15 mm.
+(0.6 in) below the top of the footpeg. On 1100 Magna models the top of
+the brake pedal should be 30 mm (1.2 in) above the top of the riders
+footpeg. Make adjustment at the master cyinder pushrod by loo:
+
+the locknut on the clevis and rotating the pushrod to alter the p
+height, tighten the smpletion
+
+Mes “
+6.12 Rear brake stop light switch adjuster nut (arrow)
+
+6:10 Adjust brake pedal freeplay using nut at end of brake
+rod (arrow)
+Brake pedal freeplay
+
+Refer fo ilustration 6 10
+10 On 700/750 models, depr measure how far it
+travels before the shoes contac are the
+Specifications. Adjustment is made by turning the adjusting nut on the
+brake rod end (see illustration).
+
+Brake stop lights
+11 Make sure the brake light operates when the front brake lev
+depress ke ight switch is not adjustable. If t fails t
+
+(see Chapter 8)
+just before th
+
+when required (5
+
+1 Routine tire and wheel checks should be made with tr
+
+7.2 Measuring tire tread depth
+Chapter 1 Tune-up and routine maintenance 1-9
+
+8.3a With the throttle at rest, mark the relationship of the grip to
+the right switch assembly...
+
+8 Throttle and choke operation/grip freeplay - check and
+
+‘od (see illustration).
+pair or replace pul
+
+8.3b, 84 and 8
+
+wheel balance
+
+tle grip rotates easily from fully closed
+tumed at
+
+retur ‘automatically trom fuly open
+
+2 Ifthe throttle sticks
+
+ure will increase
+ort. Keep in min i ut they take the sm:
+nthe nim or come improve th tion of the thrott
+wil cause abnormal tread wear and unsafe = that in very rare cases the fault could
+
+9 infited (eon i illustration). Proper
+fe and provide
+pressures
+while high tire pres
+
+ally maintenance free
+ally for cracks and 3 wth the throttie operating smoothly, c @ small am
+wheels; they — freeplay at the grip. The amount of freeplay in the throttle cable:
+measured in ud be as given in
+
+tionandhave Chapters Spec
+fem cap is in place adjust idle sp
+
+metal or herd sen the ster and rota
+ntl the correct amount of freeplayis obtained, then ti
+
+be repiai
+eck the valve rubb
+
+terior
+
+8.3b... then measure the distance the throttle grip can be 8.4 Throttle cable upper adjuster (arrow).
+rotated before a slight resistance is felt
+1-10 Chapter 1 Tune-up and routine maintenance
+
+8.5 ... and lower adjuster on carburetors (arrow)
+
+the locknut (see Illustration). if it is not possible to obtain the correct,
+freeplay with the upper adjuster, it will also be necessary to make
+adjustment at the lower adjuster, situated on the carbureto
+5 To gain access to the lower adjuster remove the fuel tank or tng it up
+on early Magnas (see Chapter 4) (ee illustration). Screw the upper
+able adjuster in to obtain the maximum possible freeplay, then loosen
+the lower adjuster locknut and set the cable freeplay using first the
+ower adjuster and then, if necessary, the upper adjuster. Once the
+freeplay is correct tigh
+
+n the locknuts securely,
+6 Check that the throttle twistgnp operates smoothly and snaps shut
+quickly when released. Warning: Turn the handlebars all the way
+through their travel with the engine idling Idle speed shoul not
+change. Mt it does, the cables may be routed incorrectly. Correct this
+condition before riding the bike (see Chapter
+
+Choke cable
+
+7 Proper choke operation will ensure fast starts and quick engine warm
+Up. Initally, move the choke lever up and down making sus
+
+smoothly,
+
+8 If there is any binding or drag in the lever's operation, the cable
+should be checked for kinks or damage to the cable casing and then
+removed (see Chapter 4) and lubricated as descnbed in Section 1
+
+9 If cable lubncation fails to improve the operation of the choke, the
+Cable must be replaced, Note that in very rare cases the fault could lie
+in the carburetors rather than the cable, necessitating the removal of
+the carburetors and inspection of the choke plungers as described in
+Chapter 4
+
+10 Wth the choke mechanism operating smoothly, check the ¢
+cable treeplay as descnbed in Chapter 4
+
+11 Once the choke mechanism is comectly adjusted, install the air fte
+housing and fuel tank as described in Chapter 4
+
+yoke
+
+9 Clutch - checks and bleeding
+
+Refer to illustration 9.4
+1 Check the clutch lever for loose connections, excessive play, bends,
+and other damage. Replace any damaged parts with new ones (see
+Chapter 2).
+
+2 On 1985 1100 Sabres end 1985/86 1100 Magna models, measure
+the freeplay at the ball end of the clutch lever. Assuming that there is
+no air in the hydraulic system, resulting in a spongy feel to the lever
+(see below), the lever should move 20 to 30 mm before the clutch
+disengages. If outside of this measurement, adjust using the knurled
+ring at the lever pivot, noting that the index mark on the ring must align
+with the arrow stamped in the top of the lever. Start the engine and
+check that the dutch disengages and engages smoothly, without slip or
+drag
+
+9.4 When bi d valve
+
+ding the clutch connect tube to bi
+‘as shown,
+
+3 Check that the fluid level in the reservoir is correct (see Section 3)
+
+Look for leaks at the hose connections and check for cracks in the
+
+hoses
+
+4 If the lever is spongy, bleed the clutch line of air. The bleeding
+exactly the same as descnbed for bleeding the brakes in
+
+ection 11. Remove the slave cylinder bleed valve cap, and
+
+the bleed tube to the valve (see illustration),
+
+40. Engine oifiter - change
+
+Refer to iltustrations 10.4a and 10.46
+1 Consistent routine oil and fiter chat le most important
+maintenance procedure you can perform on a motorcycle, The oll not
+nly lubricates the internal parts of the engine, transmission and clutch,
+but it also acts as @ coolant, @ cleaner, a sealant, and a protectant.
+Because of these demands, the oil takes a territc amount of and
+should be replaced often with new oil of the recommended grade and
+type, Saving a little money on the difference in cost between @ goc
+and a cheap oll won't pay off ifthe engine is damaged,
+
+2 Before changing the oil and fiter, warm up the engine so the oil will
+drain easily. Be careful when draining the oll, as the exhaust pipes. the
+gine, and the oll itself can cause severe bums.
+
+3 Put the motorcycle on the main stand (where fitted) and position @
+ean drain pan below the i filer cap to vert the
+crankcase and act as @ reminder that there is no oil in the engine,
+
+4 Next, remove the drain plug from the oll pan, as well as the drain plug
+from the front cyinder head and allow the ofl to drain into the pan (on
+1987 and 1988 700/750 Magnas hold the motorcycle upright to ensure:
+that the oil drains fuily) (see illustrations). Discard the sealing washers
+on the drain plugs; they should be replaced whenever the plugs are
+removed
+
+5 On certain
+
+ngine. Unscrew the
+
+california models, the emission control system canister will
+the oil fiter. Disconnect its hoses and remove it from
+hapter 4), On 1987 and 1988 700/750 Magna models,
+access to the filter is improved is the belly fainng is removed (see
+Chapter 6). Make sure the drain pan is under the filter, then loosen the
+oll ter using @ strap wrench or the Honda service tool. Waming: Take
+great care not to burn your hands on the exhaust system Unscrew the
+filter from the engine unit and empty its contents into the drain pan. If
+additional maintenance is planned for this time period, check or service
+another component while the oll is allowed to drain completely
+6 Clean the fiter thread and housing on the crankcase with solvent or
+an shop towels. Wipe any remaining oil off the filter sealing area of
+the crankcase
+7 Slip anew sealing washer over the drain plugs. Fit
+
+the frame (see
+
+em to the 0
+
+Chapter 1 Tune-up and routine maintenance
+
+ne new fiter on
+
+nl or tly by hand it
+
+to the spec! Honda oll iter tool can b= gained, the fiter
+Shaul be tigre fed torque
+
+a Before rein check the old
+sranod ios keen pan smal ees fm
+very metal
+
+the oll va
+
+wear end shouldbe che
+
+ims up nothing urusus
+the proper lave recommended type
+ait the filer ne engine. and Ist
+
+the crankease
+unt of ol end
+two oF the
+
+4121 Pry out caps to reveal arfiter cover screws on 1962 Sabre
+
+410.46 Engine oll drain plug in front cylinder bank
+11. Final drive unit oll change
+
+ipin the base
+
+nd positon a
+a env unt. Rem
+or $0 for te
+cutly (see Mustraion 329)
+rom te rear ofthe a at
+l. Wait @
+
+the large
+xifed type an
+level to sata then check & af described
+level accordingly, Install the ol filer cag
+
+12. Airfiter element - cleaning and replacement
+
+1982 750 Sabre
+
+earners (a
+it of the covers. Recover ther
+
+123 Separate element from frame for cleaning on 1982 Sabre
+
+1-12
+
+Chapter1 Tune-up and routine maintenance
+
+5 Soak the clean elements in SAE 80-90 gear oll, then squeeze
+‘out as much of the oil as possible (do not wring the element). Hang
+the elements up and allow any excess oll to drip out - they must
+not be saturated with oll.
+
+6 Install the fiers by reversing the removal steps. Ensure the
+cover sealing rings are in place and apply a light smear of grease
+to them.
+
+1983-0n 700/750 and all 1100 Sabre models
+
+7 __ Remove the fuel tank (see Chapter 4),
+
+& Remove the two air fiter cover screws, lit off the cover with its
+sealing ring and lit out the element together with its support
+frames. Separate the support frames from the element.
+
+‘9 Wash the element thoroughly in clean solvent, then cry it with
+clean rags. Wipe out the housing with a clean rag.
+
+10 Soak the clean element in SAE 80-90 gear oll, then squeeze
+‘out as much of the oll as possible (do not wring the element). Hang
+the element up and allow any excess al to drip out - it must not be
+saturated with oil
+
+11 Install the fier by reversing the removal steps. Ensure the
+cover sealing ring Is In place and apply a light smear of grease to
+it
+
+Magna models
+eter to lustraton 12 14
+
+12 Remove the fuel tank (see Chapter 4); on 1100 models and
+early 700/750 models, it can be raised on its support rod if less
+than half full.
+
+13 On 1985 through 1988 700/750 models, release their retaining
+‘screws and remove the plastic covers from each side of the frame
+deadstock. On 1985/86 700 models remove the fresh air intake
+cover from the front of the air filter.
+
+44 Remove the air cleaner cover screws, lift off the cover and its
+‘sealing ring (see illustration). Lift out the paper filter and tap it on
+a solid surface to dislodge any dirt and dust.
+
+from the element by blowing from the inside outwards. Wipe out
+the housing with a clean rag,
+
+16 Replace the paper element with a new one at the required
+intervals, regardiess ofits apparent condition.
+
+17 Install the new fiter by reversing the removal steps. Ensure the
+‘cover sealing ring Is in place and apply a smear of grease to it. If
+femoved. install the fuel tank as described in Chapter 4.
+
+12.14 Remove air cleaner cover (1) screws (2) to acce:
+(3) on Magna models
+
+13 Cylinder compression - check
+
+‘1 Among other things, poor engine performance may be caused by
+leaking valves, incorrect valve clearances, a leaking head gasket,
+‘or worn pistons, rings and/or cylinder walls. A cylinder
+‘compression check will help pinpoint these conditions and can also
+indicate the presence of excessive carbon deposits in the cylinder
+heads.
+
+2 The only tools required are a compression gauge and a spark
+plug wrench. Depending on the outcome of the initial test, a squirt-
+type all can may also be needed.
+
+3 Start the engine and allow it to reach normal operating
+temperature, then stop it.
+
+4 Place the motorcycle on its stand.
+
+5 Remove the spark plugs #5 described in Section 14. Caution: Work
+carefully - don't stip the spark plug hole threads and don't burn your
+hands on the hot cylinder head.
+
+6 _ Disable the ignition by switching the kill switch to OFF.
+
+7 Install the compression gauge in one of the spark plug holes and
+place a rag over the other three plug holes as a precaution against
+fire risk.
+
+8 Hold the throttle wide open and crank the engine over a
+‘minimum of four or five revolutions (or until the gauge reading
+stops increasing) and observe the initial movement of the
+‘compression gauge needle as well as the final total gauge reading.
+Repeat the procedure for the other cylinders and compare the
+results to the value listed in this Chapters S.
+
+9 Ifthe compression in all four cylinders built up quickly and
+evenly
+
+to the specified amount, you can assume the engine upper end is
+in reasonably good mechanical condition. Worn or sticking piston
+rings and worn cylinders will produce very little intial movement of
+the gauge needie, but compression will tend to build up gradually
+as the engine spins over. Valve and valve seat leakage, or head
+gasket leakage. is indicated by low initial compression which does
+Not tend to build up.
+
+10 To further confirm your findings, add a small amount of engine
+ail to each cylinder by inserting the nozzle of a squirt-type oll can
+through the spark plug holes. The oll will tend to seal the piston
+rings if they are leaking. Repeat the test for the other cylinders.
+
+11 if the compression increases significantly after the addition of
+the ail, the piston rings and/or cylinders are definitely worn. If the
+compression does not increase, the pressure is leaking past the
+valves or the head gasket. Leakage past the valves may be due to
+insufficient valve clearances, burned, warped or cracked valves or
+valve seats, or valves that are hanging up in the guides.
+
+12 If the compression readings are considerably higher than
+specified, the combustion chambers are probably coated with
+excessive carbon deposits. It is possible (but not very likely) for
+carbon deposits to raise the compression enough to compensate
+for the effects of leakage past rings or valves. Use of a fuel addttive
+that will dissolve the achesive bonding the carbon particles to the
+crown and chamber is the easiest way to remove the build-up.
+Otherwise, the cylinder heads) will have to be removed and
+ecarbonized (Chapter 2)
+
+Chapter 1 Tune-up and routine maintenance 143
+
+142 Use the correct size tool when removing spark plugs
+
+14 Spark plugs -check and replacement
+
+Val wth spark p
+impressed at to blow any accu
+
+the trovlesore cynder (wee istration).
+
+thickness. Look f : 4 oF
+or spark plug reading chart
+are nok excessively worn, and if th
+with @ wire brush, the plugs can be
+ash port solvert aterwards
+rect type and
+an 9 fat (hs
+the
+ack the ineuator
+
+plugto use es
+oss-thread in the hale
+
+the resuten
+
+ne plugs are fngertght the job can be fi et
+ted this featons. If you do net have @
+wrench tight (ent the washers bottom
+
+yinder tighten them an
+
+14a Using awire type gauge to measure the spark plug gap
+
+14.60 Bend the side electrode only to adjust spark plug gap
+
+is tum, Regard d used, do not overtighten
+
+15 Lubrication - general
+
+b Mustaton 15
+1 Since the controls, cables and verious other components of @
+‘to the elements, the be lubricated
+
+trouble-free operation
+rake lever, treke pedal, shit lever and
+
+enoacally
+The footpegs. clutch and
+ain stand pwets should be lubricate
+
+the lubncart tobe applied where it
+should be. disassem
+the aroas where fiction oct
+
+accelerated ra
+
+SobEed orioer shat
+
+1-14 Chapter 1 Tune-up and routine maintenance
+
+15.3 Lubricating a cable with a pressure lube adapter (make sure 16.6 Align TDC mark with crankcase rear joint when checking
+the tool seats around the inner cable) valve clearances (mark for cylinders 1 and 3 shown)
+
+frame, disconnect the radiator side mountings and wiring
+
+nnect the ti ttom hoses and pivot the radiator forwards
+
+tie to the forks out of the way of the front
+
+ubricate the cables, disconnect the relevant cable at its upper
+4, then lubricate the cable with lube adapter (see
+
+Mlustration). See Chapter 4 for the choke and throttle cable removal ountin
+procedure Chapter 2 for clutch cable removal detail section 2
+4 The speed should be removed from its housing and 4 all four spark plug
+lubricated able lubricant. Do not lubricate the u 5 Remove the valve cover bolts and lit off both valve covers, plus the
+few inche: fable @s the lubricant may travel up into the rear cylinder valve cover base (see Chapter 2
+
+6 Remove the alternator cover from the left side of the engine. N
+
+that oll will un from the co have a drain tray p: to cat
+
+, Wipe any oil Rotate the crankshaft end
+
+Until the rotor aligns exactly with the
+
+46 Valve clearances -check and adjustment
+
+4, the rear cylinders are at
+
+must be completely cool for this maintenance proc TOC. Check whether eylind ion (all four
+thine sit ovemight before beginnin. Josed) and if not, rotate the cranksh align the T1.3
+motorcycle on its stand e the fuel tank mark Carry out the valve clearance ¢ yinder's valves
+Chapter 4). Remove the side covers (see Chapter & Using two fe ethan eerrct ecserece (en
+
+aive stem end and its
+that they are a firm slid
+tant that two feek
+
+insert them between ¢
+
+All models except 1986 through 1988 700/750
+Magnas
+
+Ker arm and
+ler blades are not a frm skdin:
+n the adjusting
+ne adjuster screw sti
+
+arance to ensure that tt has
+
+t to obtain the
+while the locknut
+
+wapter 3). On
+the tap at the
+by mome
+
+16.8 Measuring the valve clearances (both valves should be 16.9 Adjusting the valve clearances
+checked at the same time}

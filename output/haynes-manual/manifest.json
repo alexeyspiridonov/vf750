@@ -1,0 +1,102 @@
+{
+  "source_pdf": "pdf/Honda VF700,750,1100 v45,65 Sabre And Magna V-Fours 82-88 Haynes Service Manual Eng By Mosue.pdf",
+  "searchable_pdf": "output/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+  "searchable_text": "output/haynes-manual/honda-vf700-750-1100-haynes-searchable.txt",
+  "sections": [
+    {
+      "order": 0,
+      "title": "Front Matter and Introductory Pages",
+      "slug": "00-front-matter-and-introductory-pages",
+      "start_page": 1,
+      "end_page": 26,
+      "pdf_path": "output/haynes-manual/sections/00-front-matter-and-introductory-pages.pdf",
+      "text_path": "output/haynes-manual/sections/00-front-matter-and-introductory-pages.txt"
+    },
+    {
+      "order": 1,
+      "title": "Tune-up and Routine Maintenance",
+      "slug": "01-tune-up-and-routine-maintenance",
+      "start_page": 27,
+      "end_page": 47,
+      "pdf_path": "output/haynes-manual/sections/01-tune-up-and-routine-maintenance.pdf",
+      "text_path": "output/haynes-manual/sections/01-tune-up-and-routine-maintenance.txt"
+    },
+    {
+      "order": 2,
+      "title": "Engine, Clutch and Transmission",
+      "slug": "02-engine-clutch-and-transmission",
+      "start_page": 48,
+      "end_page": 99,
+      "pdf_path": "output/haynes-manual/sections/02-engine-clutch-and-transmission.pdf",
+      "text_path": "output/haynes-manual/sections/02-engine-clutch-and-transmission.txt"
+    },
+    {
+      "order": 3,
+      "title": "Cooling System",
+      "slug": "03-cooling-system",
+      "start_page": 100,
+      "end_page": 107,
+      "pdf_path": "output/haynes-manual/sections/03-cooling-system.pdf",
+      "text_path": "output/haynes-manual/sections/03-cooling-system.txt"
+    },
+    {
+      "order": 4,
+      "title": "Fuel and Exhaust Systems",
+      "slug": "04-fuel-and-exhaust-systems",
+      "start_page": 108,
+      "end_page": 131,
+      "pdf_path": "output/haynes-manual/sections/04-fuel-and-exhaust-systems.pdf",
+      "text_path": "output/haynes-manual/sections/04-fuel-and-exhaust-systems.txt"
+    },
+    {
+      "order": 5,
+      "title": "Ignition System",
+      "slug": "05-ignition-system",
+      "start_page": 132,
+      "end_page": 139,
+      "pdf_path": "output/haynes-manual/sections/05-ignition-system.pdf",
+      "text_path": "output/haynes-manual/sections/05-ignition-system.txt"
+    },
+    {
+      "order": 6,
+      "title": "Frame, Suspension and Final Drive",
+      "slug": "06-frame-suspension-and-final-drive",
+      "start_page": 140,
+      "end_page": 164,
+      "pdf_path": "output/haynes-manual/sections/06-frame-suspension-and-final-drive.pdf",
+      "text_path": "output/haynes-manual/sections/06-frame-suspension-and-final-drive.txt"
+    },
+    {
+      "order": 7,
+      "title": "Brakes, Wheels and Tires",
+      "slug": "07-brakes-wheels-and-tires",
+      "start_page": 165,
+      "end_page": 188,
+      "pdf_path": "output/haynes-manual/sections/07-brakes-wheels-and-tires.pdf",
+      "text_path": "output/haynes-manual/sections/07-brakes-wheels-and-tires.txt"
+    },
+    {
+      "order": 8,
+      "title": "Electrical System",
+      "slug": "08-electrical-system",
+      "start_page": 189,
+      "end_page": 247,
+      "pdf_path": "output/haynes-manual/sections/08-electrical-system.pdf",
+      "text_path": "output/haynes-manual/sections/08-electrical-system.txt"
+    },
+    {
+      "order": 9,
+      "title": "Conversion Factors",
+      "slug": "09-conversion-factors",
+      "start_page": 248,
+      "end_page": 248,
+      "pdf_path": "output/haynes-manual/sections/09-conversion-factors.pdf",
+      "text_path": "output/haynes-manual/sections/09-conversion-factors.txt"
+    }
+  ],
+  "notes": [
+    "Page ranges are 1-based PDF page numbers.",
+    "The manual was OCR-processed with ocrmypdf after decrypting the original PDF wrapper with qpdf.",
+    "Section boundaries were aligned to chapter title/content pages in the searchable PDF."
+  ]
+}

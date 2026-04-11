@@ -1,0 +1,212 @@
+Вот все реальные темы про EFI swap для VF750 + ниже обзор решений.
+
+Ссылки EFI swap VF750
+
+1. EFI swapping VF750 (GSXR throttle bodies)
+	•	https://forum.vf1000.com/t/efi-swapping-my-interceptor/5487
+План: использовать throttle bodies GSXR750, разделить на 2+2 для V4.  ￼
+
+⸻
+
+2. Converting carbs to fuel injection (VF750 Sabre)
+	•	https://v4musclebike.com/threads/converting-carbs-to-fuel-injection.44405/
+Обсуждение полной переделки карбов в EFI, подтверждено что делали, но мало завершённых проектов.  ￼
+
+⸻
+
+3. EFI conversion обсуждение V4 Honda (Megasquirt)
+	•	https://forum.vf1000.com/t/efi-conversion/1856
+Идея:
+	•	individual throttle bodies
+	•	GSXR injectors
+	•	Megasquirt ECU
+	•	+5-15hp ожидание  ￼
+
+⸻
+
+4. VF750 EFI обсуждения (общий список)
+	•	https://forum.vf1000.com/c/vf750/12
+Категория с EFI / swaps  ￼
+
+⸻
+
+Найденные реальные варианты EFI для VF750
+
+Вариант 1 — Individual throttle bodies (самый популярный)
+
+Концепция:
+
+4 throttle bodies
+4 injectors
+ECU standalone
+fuel rail custom
+
+Берут:
+	•	GSXR600/750 TB
+	•	CBR600 TB
+	•	R6 TB
+	•	VFR800 TB
+
+Плюсы:
+	•	максимально правильно для V4
+	•	лучший отклик газа
+	•	легко настроить
+
+Минусы:
+	•	сложно разместить
+	•	нужен кастом впуск
+
+⸻
+
+Вариант 2 — 2 throttle bodies (2+2 цилиндра)
+
+Схема:
+
+front bank -> 1 TB
+rear bank  -> 1 TB
+
+Плюсы:
+	•	проще
+	•	меньше проводки
+	•	проще синхронизация
+
+Минусы:
+	•	хуже отклик
+	•	uneven fueling
+
+⸻
+
+Вариант 3 — 1 throttle body + plenum
+
+Схема:
+
+1 large TB
+plenum
+4 runners
+
+Плюсы:
+	•	самый простой
+	•	дешевый
+
+Минусы:
+	•	хуже отклик
+	•	плохой low RPM
+	•	длинный впуск
+
+⸻
+
+Вариант 4 — scooter throttle bodies (очень популярный DIY)
+
+Берут:
+	•	28mm scooter TB
+	•	30mm scooter TB
+	•	32mm scooter TB
+
+Схема:
+
+4 small TB
+external injectors
+shared fuel pump
+
+Плюсы:
+	•	компактно
+	•	дешево
+	•	легко разместить
+
+Минусы:
+	•	слабый поток
+	•	нужно тестировать
+
+⸻
+
+ECU которые используют
+
+Megasquirt
+Microsquirt
+Speeduino
+Ecotrons
+Ignitech EFI
+
+Самый популярный:
+Speeduino
+
+⸻
+
+Датчики
+
+TPS — обязательно
+MAP — 1 или 4
+CLT — температура мотора
+IAT — воздух
+O2 — желательно
+
+⸻
+
+Топливо
+
+нужно добавить:
+	•	бензонасос 3 bar
+	•	обратка
+	•	регулятор давления
+	•	форсунки 180-240cc
+
+⸻
+
+Форсунки которые используют
+
+GSXR600
+CBR600
+R6
+SV650
+VFR800
+
+обычно:
+200cc достаточно
+
+⸻
+
+Основные проблемы EFI на VF750
+	1.	мало места под баком
+	2.	сложный впуск V4
+	3.	синхронизация банков
+	4.	низкий vacuum на V4
+	5.	старый генератор слабый
+
+⸻
+
+Самый удачный вариант для VF750
+
+лучший сетап:
+
+4 x 32mm throttle bodies
+Speeduino
+MAP shared
+TPS single
+4 injectors 220cc
+fuel rail custom
+
+
+⸻
+
+Минимальный EFI swap
+
+самый простой:
+
+2 throttle bodies
+2 injectors
+batch fire
+Speeduino
+
+
+⸻
+
+Очень интересный вариант (лучший для VF750)
+
+4 scooter throttle bodies
+external injectors
+small airbox
+speeduino
+
+очень компактно
+лезет под бак
+

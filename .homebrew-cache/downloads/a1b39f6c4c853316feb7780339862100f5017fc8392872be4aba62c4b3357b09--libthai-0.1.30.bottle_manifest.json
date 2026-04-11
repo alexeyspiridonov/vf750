@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:43c0d062bfff3eb922322763729a9dd97ad3f39b7f2c387e350d1b6cdf4d2a87",
+      "size": 2278,
+      "platform": {
+        "architecture": "arm64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.1.30.arm64_linux",
+        "sh.brew.bottle.cpu.variant": "armv8",
+        "sh.brew.bottle.digest": "424e3a5b178a1eaf5cd0c9d56bfd3671c316cd88096e9297d407836c826d5296",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "285217",
+        "sh.brew.bottle.installed_size": "1008176",
+        "sh.brew.license": "LGPL-2.1-or-later",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.10-35-gf7d42ae\",\"changed_files\":[\"lib/pkgconfig/libthai.pc\"],\"source_modified_time\":1767350738,\"compiler\":\"gcc-12\",\"runtime_dependencies\":[{\"full_name\":\"libdatrie\",\"version\":\"0.2.14\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"0.2.14\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.5\",\"cpu_family\":\"arm\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"armv8\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:14d51fe069a006add14a8cd1b2efeb96ce57a877025bba39e6f8a895150bbbf5",
+      "size": 2219,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 15.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.1.30.arm64_sequoia",
+        "sh.brew.bottle.digest": "428726b804e7bb80faef7381ba27b0be1a0087e54746d0f355c0af7575220ac6",
+        "sh.brew.bottle.size": "277435",
+        "sh.brew.bottle.installed_size": "972892",
+        "sh.brew.license": "LGPL-2.1-or-later",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.10-35-gf7d42ae\",\"changed_files\":[\"lib/pkgconfig/libthai.pc\"],\"source_modified_time\":1767350738,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libdatrie\",\"version\":\"0.2.14\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"0.2.14\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 15.7\",\"cpu_family\":\"dunno\",\"xcode\":\"26.2\",\"clt\":\"26.2.0.0.1.1764812424\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:ff4a872a92648330b4212cd40782e12d949d6a868b8b0b86904efcfbfd9b95e5",
+      "size": 2216,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14.8"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.1.30.arm64_sonoma",
+        "sh.brew.bottle.digest": "e969faf14de2c64bcd89e1e1abea14d12d8695eba54647782e2e841042b3209d",
+        "sh.brew.bottle.size": "277310",
+        "sh.brew.bottle.installed_size": "972631",
+        "sh.brew.license": "LGPL-2.1-or-later",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.10-35-gf7d42ae\",\"changed_files\":[\"lib/pkgconfig/libthai.pc\"],\"source_modified_time\":1767350738,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libdatrie\",\"version\":\"0.2.14\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"0.2.14\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14.8\",\"cpu_family\":\"dunno\",\"xcode\":\"16.2\",\"clt\":\"16.2.0.0.1.1733547573\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:1cd0b8fddfc50778a779303acbf8f8506b292c19f1825b8a106396d86ca266c0",
+      "size": 2211,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 26"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.1.30.arm64_tahoe",
+        "sh.brew.bottle.digest": "683257ceaae0ebf522c07e2fd39b82863ff54d35ac8a985d9d62597bda8a05b3",
+        "sh.brew.bottle.size": "277384",
+        "sh.brew.bottle.installed_size": "972474",
+        "sh.brew.license": "LGPL-2.1-or-later",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.10-35-gf7d42ae\",\"changed_files\":[\"lib/pkgconfig/libthai.pc\"],\"source_modified_time\":1767350738,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libdatrie\",\"version\":\"0.2.14\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"0.2.14\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 26\",\"cpu_family\":\"dunno\",\"xcode\":\"26.2\",\"clt\":\"26.2.0.0.1.1764812424\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:c8987d4a08922504e5dec5042e64f12e2272a1f2e1ae28378fa351fcaf39a578",
+      "size": 2200,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14.8"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.1.30.sonoma",
+        "sh.brew.bottle.digest": "151b8c0772dce394bc4c1112d90b45999d18be1b0406abf322be74f5976cf63a",
+        "sh.brew.bottle.size": "277230",
+        "sh.brew.bottle.installed_size": "923729",
+        "sh.brew.license": "LGPL-2.1-or-later",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.10-35-gf7d42ae\",\"changed_files\":[\"lib/pkgconfig/libthai.pc\"],\"source_modified_time\":1767350738,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"libdatrie\",\"version\":\"0.2.14\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"0.2.14\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14.8\",\"cpu_family\":\"penryn\",\"xcode\":\"16.2\",\"clt\":\"16.2.0.0.1.1733547573\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:0a1e901b8239309c64ab01b7cf97095130a186c590a6a137d6c41bc5811fb566",
+      "size": 2282,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "0.1.30.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "54551ab441971407573f2f97d085cd26ec3b61eda8fbf6d599ce2a41bfdb5f02",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "285405",
+        "sh.brew.bottle.installed_size": "991106",
+        "sh.brew.license": "LGPL-2.1-or-later",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.10-35-gf7d42ae\",\"changed_files\":[\"lib/pkgconfig/libthai.pc\"],\"source_modified_time\":1767350738,\"compiler\":\"gcc-12\",\"runtime_dependencies\":[{\"full_name\":\"libdatrie\",\"version\":\"0.2.14\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"0.2.14\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.5\",\"cpu_family\":\"zen3\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2026-01-15T11:11:26Z",
+    "org.opencontainers.image.description": "Thai language support library",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/libthai",
+    "org.opencontainers.image.licenses": "LGPL-2.1-or-later",
+    "org.opencontainers.image.ref.name": "0.1.30",
+    "org.opencontainers.image.revision": "6c76a204351bdc3ac2f825fe994eb947b36ba56e",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/6c76a204351bdc3ac2f825fe994eb947b36ba56e/Formula/lib/libthai.rb",
+    "org.opencontainers.image.title": "libthai",
+    "org.opencontainers.image.url": "https://linux.thai.net/projects/libthai",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "0.1.30"
+  }
+}

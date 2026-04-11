@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:1b62e9d41fcab90b3047173f0282f901e4adcf2543835a57b3b57d6504637b8e",
+      "size": 2454,
+      "platform": {
+        "architecture": "arm64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.6.57.arm64_linux",
+        "sh.brew.bottle.cpu.variant": "armv8",
+        "sh.brew.bottle.digest": "b6e8883756e0fcaf3a9b7527bf6729f24529726ea1d458ffadbc3a357275fd7b",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "520982",
+        "sh.brew.bottle.installed_size": "1733270",
+        "sh.brew.license": "libpng-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.1.5-34-g688bd81\",\"changed_files\":[\"bin/libpng16-config\",\"lib/pkgconfig/libpng.pc\",\"lib/pkgconfig/libpng16.pc\"],\"source_modified_time\":1775681364,\"compiler\":\"gcc-12\",\"runtime_dependencies\":[{\"full_name\":\"zlib-ng-compat\",\"version\":\"2.3.3\",\"revision\":1,\"bottle_rebuild\":0,\"pkg_version\":\"2.3.3_1\",\"declared_directly\":true,\"compatibility_version\":1}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.5\",\"cpu_family\":\"arm\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"armv8\"}}",
+        "sh.brew.path_exec_files": "bin/pngfix,bin/libpng16-config,bin/png-fix-itxt,bin/libpng-config"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:236c83132157175a9be4ad7e344d7e1ffe6d9f9fa8a9d7f911865e1648daa37d",
+      "size": 2221,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 15.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.6.57.arm64_sequoia",
+        "sh.brew.bottle.digest": "2424b2cbfdd0cd84a7c80782f142d7926e8b1803e0db5494d5135a68208f8123",
+        "sh.brew.bottle.size": "461493",
+        "sh.brew.bottle.installed_size": "1395461",
+        "sh.brew.license": "libpng-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.1.5-34-g688bd81\",\"changed_files\":[\"bin/libpng16-config\",\"lib/pkgconfig/libpng.pc\",\"lib/pkgconfig/libpng16.pc\"],\"source_modified_time\":1775681364,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 15.7\",\"cpu_family\":\"dunno\",\"xcode\":\"26.3\",\"clt\":\"26.3.0.0.1.1771626560\",\"preferred_perl\":\"5.34\"}}",
+        "sh.brew.path_exec_files": "bin/png-fix-itxt,bin/libpng16-config,bin/pngfix,bin/libpng-config"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:214fde360780c41003686f4aceab7136a88e0f5a60a4727e711c947dbd73c74c",
+      "size": 2218,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14.8"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.6.57.arm64_sonoma",
+        "sh.brew.bottle.digest": "327c67c9aec74ab6b7069e9769bd448f1f476210044cd068ab701aa26959bc58",
+        "sh.brew.bottle.size": "461459",
+        "sh.brew.bottle.installed_size": "1396213",
+        "sh.brew.license": "libpng-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.1.5-34-g688bd81\",\"changed_files\":[\"bin/libpng16-config\",\"lib/pkgconfig/libpng.pc\",\"lib/pkgconfig/libpng16.pc\"],\"source_modified_time\":1775681364,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14.8\",\"cpu_family\":\"dunno\",\"xcode\":\"16.2\",\"clt\":\"16.2.0.0.1.1733547573\",\"preferred_perl\":\"5.34\"}}",
+        "sh.brew.path_exec_files": "bin/png-fix-itxt,bin/libpng16-config,bin/pngfix,bin/libpng-config"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:d4470c59ece10ea1e06a5bea26cbe3eb4afffb2525ff62d54e095e596fd5559a",
+      "size": 2211,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 26"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.6.57.arm64_tahoe",
+        "sh.brew.bottle.digest": "840474525d72c6c7dca27d86adc00858dac9842eafb96b7c1d4be3441752cc97",
+        "sh.brew.bottle.size": "459654",
+        "sh.brew.bottle.installed_size": "1392537",
+        "sh.brew.license": "libpng-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.1.5-34-g688bd81\",\"changed_files\":[\"bin/libpng16-config\",\"lib/pkgconfig/libpng.pc\",\"lib/pkgconfig/libpng16.pc\"],\"source_modified_time\":1775681364,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 26\",\"cpu_family\":\"dunno\",\"xcode\":\"26.4\",\"clt\":\"26.4.0.0.1774242506\",\"preferred_perl\":\"5.34\"}}",
+        "sh.brew.path_exec_files": "bin/png-fix-itxt,bin/libpng16-config,bin/pngfix,bin/libpng-config"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:190859661ade9eedf079f4a9e2696914cfc04d1f4f22ddd2cb88bb94b4e2c42d",
+      "size": 2202,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14.8"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.6.57.sonoma",
+        "sh.brew.bottle.digest": "603d755758265cf25faadf872c60d28ce84347af9ea8f74cadbd88ab192a5c9e",
+        "sh.brew.bottle.size": "455893",
+        "sh.brew.bottle.installed_size": "1273891",
+        "sh.brew.license": "libpng-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.1.5-34-g688bd81\",\"changed_files\":[\"bin/libpng16-config\",\"lib/pkgconfig/libpng.pc\",\"lib/pkgconfig/libpng16.pc\"],\"source_modified_time\":1775681364,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14.8\",\"cpu_family\":\"penryn\",\"xcode\":\"16.2\",\"clt\":\"16.2.0.0.1.1733547573\",\"preferred_perl\":\"5.34\"}}",
+        "sh.brew.path_exec_files": "bin/png-fix-itxt,bin/libpng16-config,bin/pngfix,bin/libpng-config"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:d07addda49cf5bd7cf88c49d4e2d15e09b516e9e778913cd6740618b312c3074",
+      "size": 2459,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "1.6.57.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "99165597f6dc3a96533aeb3bbb959b977b8c2cbafef68d869edb4de65f0a2b38",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "517999",
+        "sh.brew.bottle.installed_size": "1535976",
+        "sh.brew.license": "libpng-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.1.5-34-g688bd81\",\"changed_files\":[\"bin/libpng16-config\",\"lib/pkgconfig/libpng.pc\",\"lib/pkgconfig/libpng16.pc\"],\"source_modified_time\":1775681364,\"compiler\":\"gcc-12\",\"runtime_dependencies\":[{\"full_name\":\"zlib-ng-compat\",\"version\":\"2.3.3\",\"revision\":1,\"bottle_rebuild\":0,\"pkg_version\":\"2.3.3_1\",\"declared_directly\":true,\"compatibility_version\":1}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.5\",\"cpu_family\":\"zen3\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}",
+        "sh.brew.path_exec_files": "bin/png-fix-itxt,bin/libpng-config,bin/libpng16-config,bin/pngfix"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2026-04-09T07:44:01Z",
+    "org.opencontainers.image.description": "Library for manipulating PNG images",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/libpng",
+    "org.opencontainers.image.licenses": "libpng-2.0",
+    "org.opencontainers.image.ref.name": "1.6.57",
+    "org.opencontainers.image.revision": "8fd5fd477c1baa203be8697c8f837677202a694e",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/8fd5fd477c1baa203be8697c8f837677202a694e/Formula/lib/libpng.rb",
+    "org.opencontainers.image.title": "libpng",
+    "org.opencontainers.image.url": "https://www.libpng.org/pub/png/libpng.html",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "1.6.57"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:951885f4643a2e7fcb2c78d2cfac21864714cbae98f42e9c18d6c4dc25aa9678",
+      "size": 2186,
+      "platform": {
+        "architecture": "arm64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "4.4.1.arm64_linux",
+        "sh.brew.bottle.cpu.variant": "armv8",
+        "sh.brew.bottle.digest": "0884471a064070eb8209c726fbb5e2068c6dcc4a3f2f74b6fb0e69b4117e51e7",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "3765020",
+        "sh.brew.bottle.installed_size": "11944815",
+        "sh.brew.license": "GPL-3.0-or-later AND HPND",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.1-46-ga0a8fd4\",\"changed_files\":[\"lib/pkgconfig/imagequant.pc\"],\"source_modified_time\":1752407318,\"compiler\":\"gcc-12\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.5\",\"cpu_family\":\"arm\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"armv8\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:7ffc6df27c9cf96539d9b4dfa1f318b8bcbb1baa0abe4e58fca71c61bf5cd022",
+      "size": 2127,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 15.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "4.4.1.arm64_sequoia",
+        "sh.brew.bottle.digest": "35636b9bf13cd99e77dec879e87736122925c790fec18da07dbcbea76083bdc6",
+        "sh.brew.bottle.size": "3485251",
+        "sh.brew.bottle.installed_size": "9904327",
+        "sh.brew.license": "GPL-3.0-or-later AND HPND",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.1-46-ga0a8fd4\",\"changed_files\":[\"lib/pkgconfig/imagequant.pc\"],\"source_modified_time\":1752407318,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 15.7\",\"cpu_family\":\"dunno\",\"xcode\":\"26.1\",\"clt\":\"26.1.0.0.1.1761104275\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:aed30156ca60c6b152eb91a324229453dd9054d0d968b63fa5a9d93433de9e89",
+      "size": 2124,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14.8"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "4.4.1.arm64_sonoma",
+        "sh.brew.bottle.digest": "f1cfb5f5fb3e31907edf925d0df58be68d53fd4241fb819e946aba322cda4375",
+        "sh.brew.bottle.size": "3484421",
+        "sh.brew.bottle.installed_size": "9903791",
+        "sh.brew.license": "GPL-3.0-or-later AND HPND",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.1-46-ga0a8fd4\",\"changed_files\":[\"lib/pkgconfig/imagequant.pc\"],\"source_modified_time\":1752407318,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14.8\",\"cpu_family\":\"dunno\",\"xcode\":\"16.2\",\"clt\":\"16.2.0.0.1.1733547573\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:3ae537fc6b3f59f7496f4ef98e96a77b8afcb120cdc7a1514b7f23ae3666d562",
+      "size": 2119,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 26"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "4.4.1.arm64_tahoe",
+        "sh.brew.bottle.digest": "9fe68c59c0500f834deced30fcd58c965148988f238d51791d39c6c284d71684",
+        "sh.brew.bottle.size": "3485124",
+        "sh.brew.bottle.installed_size": "9900853",
+        "sh.brew.license": "GPL-3.0-or-later AND HPND",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.1-46-ga0a8fd4\",\"changed_files\":[\"lib/pkgconfig/imagequant.pc\"],\"source_modified_time\":1752407318,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 26\",\"cpu_family\":\"dunno\",\"xcode\":\"26.1\",\"clt\":\"26.1.0.0.1.1761104275\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:452b6f028ce8558aa15e00bd0ad5655838ebbd841479fa51b9d04d3340deabf4",
+      "size": 2108,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14.8"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "4.4.1.sonoma",
+        "sh.brew.bottle.digest": "8a25e968794937adcb94e84e2421a0b8fd48503205451fcc24ddd41ed84ad8be",
+        "sh.brew.bottle.size": "3446563",
+        "sh.brew.bottle.installed_size": "9780664",
+        "sh.brew.license": "GPL-3.0-or-later AND HPND",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.1-46-ga0a8fd4\",\"changed_files\":[\"lib/pkgconfig/imagequant.pc\"],\"source_modified_time\":1752407318,\"compiler\":\"clang\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14.8\",\"cpu_family\":\"penryn\",\"xcode\":\"16.2\",\"clt\":\"16.2.0.0.1.1733547573\",\"preferred_perl\":\"5.34\"}}"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:d6c47220c92234dbdf870910f7bede8b2db23c511d601f6703d5548b9b805cc0",
+      "size": 2191,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "4.4.1.x86_64_linux",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "f9943e809de898982fbd65821564d201a4f88d0d902d504d2b8f4a059ab9c94c",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "3748290",
+        "sh.brew.bottle.installed_size": "11442937",
+        "sh.brew.license": "GPL-3.0-or-later AND HPND",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.1-46-ga0a8fd4\",\"changed_files\":[\"lib/pkgconfig/imagequant.pc\"],\"source_modified_time\":1752407318,\"compiler\":\"gcc-12\",\"runtime_dependencies\":[],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.5\",\"cpu_family\":\"zen3\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2025-11-14T17:23:56Z",
+    "org.opencontainers.image.description": "Palette quantization library extracted from pnquant2",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/libimagequant",
+    "org.opencontainers.image.licenses": "GPL-3.0-or-later AND HPND",
+    "org.opencontainers.image.ref.name": "4.4.1",
+    "org.opencontainers.image.revision": "bb0a346c99d6b70eb3f18a9d4f4df0de3cba19cb",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/bb0a346c99d6b70eb3f18a9d4f4df0de3cba19cb/Formula/lib/libimagequant.rb",
+    "org.opencontainers.image.title": "libimagequant",
+    "org.opencontainers.image.url": "https://pngquant.org/lib/",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "4.4.1"
+  }
+}

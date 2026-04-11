@@ -1,0 +1,4135 @@
+1V45/65 Sabre « Magna
+(VF700, 750 & 1100 V-Fours)
+
+|
+
+1982 to 1988 0 699cc 45 748cc 0 1098cc
+
+Honda
+V45/65 Sabre &
+Magna (VF700, 750
+
+& 1100 V-Fours)
+
+Owners
+Workshop
+Manual
+by Penny Cox
+and John H. Haynes
+‘Member of the Guild of Motoring Writers
+
+Models covered:
+Honda V45 700/750 Sabre. US 1982 through 1985
+Honda VF750S-C Sport. UK 1982 through 1984
+Honda V45 700/750 Magna. US 1982 through 1988.
+Honda VF750C-H and C-J Custom. UK 1987 through 1988
+
+Honda V65 1100 Sabre. US 1984 through 1985
+
+‘saat
+>
+
+(101 - 820)
+
+©
+
+Honda V65 1100 Magna. US 1983 through 1986
+
+Haynes Publishing
+
+Sparkford Nr Yeovil
+Somerset BA22 7JJ England
+
+Haynes North America, Inc
+861 Lawrence Drive
+Newbury Park
+
+California 91320 USA
+
+Contents
+
+.
+
+Introductory pages
+‘About this manual
+
+08
+
+Introduction to the Honda V45/65 Sabre
+& Magna (VF700, 750 & 1100 V-Fours)
+
+06
+
+Identification numbers
+
+07
+
+0-8
+
+Buying parts
+
+General specifications
+
+“09
+
+Maintenance techniques, tools and working facilities
+
+da0
+
+Safety first!
+
+016
+
+Motoreycle chemicals and lubricants
+
+047
+
+Troubleshooting
+
+0-18
+
+Chapter 1
+
+Tune-up
+and routine maintenance
+
+14
+
+Chapter 2
+Engine, clutch and transmission
+
+24
+
+3k
+
+Cooling system
+
+34
+
+Chapter 4
+
+ie
+
+Fuel and exhaust systoms
+Chapter 5
+
+Chapter 6
+
+;
+
+2
+
+Chapter 3
+
+Ignition systern
+
+4
+
+a1 oo
+a
+
+a
+
+genet
+
+4
+
+cB
+
+a
+
+Frame, suspension and final drive
+
+o1 Cag
+
+Chapter 7
+Brakes, wheels and tres
+
+TM
+
+Chapter 8
+Electrical system
+
+1
+
+Conversion factors
+
+3
+Bo
+
+0-4
+
+Honda V45/65 Sabre & Magna (VF700, 750 & 1100 V-Fours)
+
+Honda V45/65 Sabre & Magna (VF700, 750 & 1100 V-Fours)
+
+‘The 1984 V65 Magna (VF1100C)
+
+0-5
+
+0-6
+
+About this manual
+Its purpose
+
+‘At the beginning of each numbered Section you will be referred to
+
+‘The purpose of this manual is to help you get the best value from
+your motorcycle. It can do so in several ways.
+
+It can help you decide
+
+what work must be done, even if you choose to have it done by
+@
+dealer service department or a repair shop; it provides information and
+procedures for routine maintenance and servicing; and it offers,
+diagnostic and repair procedures to follow when trouble occurs.
+We hope you use the manual to tackle the work yourself. For
+‘many simpler jobs, doing it yourself may be quicker than arranging an
+
+‘appointment to get the vehicle into a shop and making the trps to
+leave it and pick it up. More importantly, a lot of money can be saved
+by avoiding the expense the shop must pass on to you to cover its
+labor and overhead
+costs. An added benefits the sense of satisfaction
+nd accomplishment that you feel after doing the job yourself.
+
+Using the manual
+The manual is divided into Chapters. Each Chapter is divided into
+numbered Sections, which are
+
+headed in bold type between horizontal
+
+lines. Each Section consists of consecutively numbered paragraphs or
+
+steps
+
+any illustrations which apply to the procedures in that Section.
+
+The
+
+reference numbers used in illstration captions pinpoint the pertinent
+Section and the Step within that Section. That is, ilustration 32 means
+the ilustration refers to Section 3 and Step (or paragraph) 2 within that
+Section.
+
+Procedures, once described in the text, are not normaly repeated
+When it's necessary to refer to another Chapter, the reference will be
+‘ven as Chapter and Section number. Cross references given without
+Use of the word ‘Chapter’ apply to Sections and/or paragraphs in the
+‘same Chapter. For exemple, 'see Section 8 means in the same
+Chapter
+
+References to the eft or right side of the vehicle assume you are
+sitting on the seat, facing forward.
+Motorcycle manufacturers continuslly make changes to specifi-
+
+cotions ond recommendations, and these, when nolifed, are
+incorporated into our manuals at the earliest opportunity
+Even though we have prepared this manual with extreme care,
+neither the publisher nor the author can accept responsibilty for any
+€ert0rs
+in, or omissions from, the information given.
+
+NOTE
+‘A Note provides information necessary
+to property complete a procedure or information which will make the procedure
+understand,
+
+CAUTION
+‘A Caution provides o
+
+1ecial procedure or special steps which must be taken
+
+while completing the procedure where the
+
+Caution is found. Not heeding a Caution can result in damage to the assembly being worked on,
+
+WARNING
+‘A Warning provides a special procedure or special steps which must be taken while completing the procedure where the
+Warning is found. Not heeding @ Waming can result in personal injury.
+
+Introduction to the Honda V45/65 Sabre &
+Magna (VF700, 750 & 1100 V-Fours)
+‘The first Honda V-Four engine, introduced in 1982 in a 750 ce (45
+cu in) capacity. was widely regarded as a milestone of motorcycle
+engineering. Its 90° V configuration allowed for a lighter engine which
+was more compact, yet more powerful than any previous Honda 750 co
+engine.
+
+Because of the inherent
+
+‘An 1100
+ce (65
+cu in)engine wasintroduced
+in 1963
+for the US market.
+There are two distinctly different models, the Sabre (known as the
+
+in the UK). The
+in the UK) and the Magna (known as the Custom
+‘Sport
+Sabre
+
+differs
+
+ofa
+
+from
+
+and
+
+the
+
+Magna
+
+in
+
+having
+
+Honda's
+
+Pro-Link
+
+Cc
+
+rear
+
+1
+
+engine, as well asthe rubber mountings, it is also an unusually smooth
+‘and quiet
+engine compared with the more conventional in-line, air‘cooled counterparts in production at the time.
+The 750 cc engine was superceded in 1984 by a shorter-stroke
+700 ce model, designed to fall below the heavyweight motorcycle
+import tariff imposed on machines imported into the US. The 700 ce
+
+‘Magna models are custom-styled, with high handlebars, teardrop tank
+and a stepped seat. The Magnas have conventional twin-shock rear
+
+engine continued for the remaining years of the Sabre, but a retum
+
+to the table under identification numbers’ to establish the exact model
+year of their machine before carrying out any of the procedures given in
+
+‘was made to the 750 cc unit in 1988 for the last year of the Magna’s
+production. All models imported into the UK were of 750 cc capacty.
+
+suspension.
+
+Both Sabre and Magna have appeared in 700, 750 and 1100 ce
+engine sizes during the model run, and have received a number of
+improvements and modifications. Owners are therefore advised to refer
+
+the main text of the manual
+
+Identification numbers
+The frame serial number is stamped into the right side of the
+steering head and the VIN (Vehicle Identification Number) appears
+on the left side of the steering head: on 1987 and 1988 700/750
+Magna models, it is attached to the right frame top tube under the
+fuel tank. The engine number is stamped into the right upper side
+of the crankcase, directly above the clutch unit.
+A label attached to the right or left frame tube under the side
+cover, or altached to the rear fender top surface under the seat,
+
+gives the color code of the machine. The carburetor identification
+
+Number appears on the carburetor body casting, just above the
+float chamber joint. Emission control information (US models ony)
+is given on a label attached to the right lower frame tube on models
+through 1986, or to the right upper frame tube on later models.
+Al serial numbers should be recorded and kept in a safe place
+
+s0 they can be furnished to law enforcement officials in the event of
+athe.
+‘The frame serial number, engine serial number, carburetor
+Identification number and color code should also be kept in a
+handy place (such as with your driver's license) so they are always
+
+available when purchasing or ordering parts for your machine.
+
+The procedures in this manual identify the bikes by production
+year. Ifthis is not known, it can be determined from the engine and
+frame serial numbers as shown in the chart on the next page.
+
+Engine number location on crankcase top surface
+
+Emission Control label location (models through 1986)
+
+0-8
+
+Identification numbers
+Engine number Frame number
+
+US models (except California)
+
+\VF750S (1982)
+\VF750S (1983)
+\VF7O0S (1984)
+
+RCO7E-2000086 to 2015096
+RCO7E-2100018 to 2115544
+RC22E-2000008 to 2005978
+
+\VF7O0S (1985)...
+
+RC22E-2100001 to 2103668,
+
+\VF7S0C (1982)
+
+RCO7E-4000046 to 4029232
+
+\VF7S0C (1983)
+\VF700C (1984)
+\VF700¢ (1985)
+\VF700¢ (1986)
+\VF700¢ (1987)
+
+RCOTE-4100013 to 4124548,
+RC21E-2000021 to 2016382
+RC21E-2100016 to 2110238
+RC21E-2200005 to 2209873,
+RC21E-2300015 to 2304909
+
+\VF750C (1988)
+
+RCOTE-4600001 on
+
+\VF1100S (1984)
+
+‘SC17E-2000001 to 2008727
+
+RCO7O-CM000036
+to 012083
+RCO7O-DM100006
+to 108632
+RC220-£M000007
+to 005012
+RCZ20-FM100001 to 102800
+
+RCO71-CM000033
+to 027062
+
+RCO71-DM100011
+to 122819
+RC210-£!000002
+to 014552
+C210-F¥4100008
+to 108900
+RC210-GM200003
+to 208028
+RC210-HM300007
+to 303508,
+‘or HA305001 to 310415
+RC2B0-4A100001 on
+
+'SC170-EM000001 to 010029
+
+\VF1100S (1985)
+
+‘SC17E-2100001 on
+
+‘V1 1000 (1984)
+
+'SC12E-2100001 to 2116075
+
+'SC120-EA 100001 to 117084
+
+\VF750S (1982).
+
+Asabove
+
+\VF750S (1983).
+
+As above
+
+\VE700S (1984)
+
+RC22E-2002575 to 2008097
+
+Asabove
+
+As above
+
+\VF700S (1985)...
+
+RC22E-2100001 to 2103285
+
+\VF1100¢ (1983)
+
+'SC12E-2000038 to 2018597
+
+‘v1 100C (1985)
+\VF1100c (1986)
+
+‘$C170-FA100001
+on
+
+'SC120-DM000029
+to 017877
+
+'SC12E-2200001 to 2208055
+'$C12-2300020 to 2304336
+
+‘SC120-FA200006
+to 208465,
+SC120-GM300101
+to 304425
+
+US California models:
+
+‘As above
+
+\VF700¢ (1984)
+\vF7000(1985)
+
+RC21E-2000019 to 2018662
+RC21E-2100022to 2108674
+
+\VF7S0C (1983)
+
+Asabove
+
+\VF700C (1986)
+
+RC221-£M000006
+to 001081
+
+RC221-FM100001
+to 100863
+
+\VF750¢ (1982)
+
+RC21E-2200011 to 2210193,
+
+‘As above
+‘As above
+C21 1-EM000003
+to 002300
+RC211-FM100007 to 101325
+
+RC211-GM200001 to 201250
+
+\vF700¢(1987)
+
+RC21E-2300020
+to 2303889
+
+C21 1-HM300006 to 300514
+
+\VF7S0C (1988)
+\VF 1100S (1984)
+\VF1 1008 (1985)
+\VF1100¢ (1983)
+
+RCO7E-4600001 on
+'SC17E-2000001 to 2009087
+‘SC17E-2100001 on
+Asabove
+
+‘or HA305003t0311015
+
+‘$C12E-2200001 to 2206580
+‘SC12E-2300001 to 2302532
+
+'$C120-FA200001
+to 206845
+'$C120-GM301308
+to 202825
+
+RCOTE-200741
+1 to 2020350
+
+CO7-2000034 to 2008149
+
+VF 1 100¢ (1984)
+
+‘SC12E-2102298 to 2114635,
+
+\VF1100C (1985)
+\VF1100¢ (1988)
+
+RC281-JA100001
+on
+‘$C170-EA100004
+to 117087
+'$C170-FA100001
+on
+As above
+
+'$C120-EA100006
+to 117087
+
+UK models
+\VF750S-C (1982-84)
+VE7S0C-+H (1987)
+
+RCOTE-4501116
+to 4501315,
+
+\VF750C-) (1988)
+
+RCOTE-4604228 on
+
+Note: Unless
+
+in this manual, the
+
+\given
+
+1988 700/750 Magnes applies to the UK VF75OC-H and C-J)
+
+RC28-2000607 to 2000808
+
+RC28-2100005 on,
+
+for the 1962 750 Sabre apples to the UK VF75OS-C, and that for the 1987 and
+
+Buying parts
+‘Once
+
+you have found all the
+identification
+numbers,
+record them for
+
+reference
+
+when
+
+buying
+
+parts.
+
+5. parts and vendors
+
+‘components
+on
+the machine),
+
+Since
+
+the
+
+manufacturers
+
+that
+
+change
+
+various
+
+providing the ID numbers is the only way to
+
+bbe reasonably
+sure that you are buying the correct parts.
+
+Whenever possible, take the wom part to the dealer so
+‘comparison with the new component can be made.
+
+direct
+
+Along the trail from
+
+the manufacturer to the parts shelf, there are numerous places that the
+part can end up with the wrong number or be listed incorrectly.
+
+The two places to purchase new parts for your motorcycle - the
+‘accessory store and the franchised dealer - differ in the type of parts they
+
+‘carry. While dealers can obtain virtually every part for your
+
+metoreyele, the accessory dealer is usually imited to normal high wear
+
+items such as shock absorbers, tune-up parts, various engine gaskets,
+
+cables,
+chains,
+brake
+parts, etc. Rarely wil an accessory outlet have major
+‘suspension components, cylinders, transmission gears, or cases.
+
+Used parts can be obtained for roughly half the price of new ones, but
+you cant always be sure of what you're getting.
+
+Once again, take your
+
+‘wom part to the wrecking yard (breaker)
+for direct comparison.
+
+‘Whether buying new, used or rebuilt parts, the best course is to deal
+
+directly with someone who specializes in parts for your particular make,
+
+0-9
+
+General specifications
+Wheelbase
+
+1982 750 Sabre model.
+
+1562
+mm
+(61.5 in)
+
+4983 through 1985 700/750
+Sabre models
+
+1570 mm (61.8
+in)
+
+1982 through 1964 700/750 Magna models.
+
+1540 mm (60.8
+in)
+
+1985 and 1986 700 Magna models.
+4987 and 1988 700/750 Magna models
+
+1565
+mm
+(61.6 in)
+
+41100 Sabre modes.
+
+1590 mm (62.
+in)
+
+1100 Magna models.
+
+1595
+mm
+(62.8 in)
+
+1660 mm (65.4 in)
+
+Overall
+
+77007750 Sabre models
+1982 through 1984 700/750 Magna models.
+
+1985 and 1986 700 Magna models...
+
+41987 and 1988 700/750 Magna models
+model
+
+1100
+
+‘Overall wath,
+
+Z
+
+2245
+mm
+(88.4 in)
+2190
+mm
+(862 in)
+2220
+mm
+(67.4 in)
+2360
+mm
+(829 in)
+2280
+mm
+(69.8 in)
+
+11982 through 1984 700/750 Sabre models
+
+830 mm (32.7 in)
+
+1985 700 Sabre mode...
+
+800 mm (31.5in)
+
+41982 through 1984 700/750 Magna models.
+1985 and 1986 700 Magna models.
+
+815mm (32.1 in)
+
+850mm (33.5in)
+
+1987 and 1988 7007750 Magna models.
+
+£800 mm (31.5 in)
+
+1100 Sabre models.
+
+790 mm (31.1 in)
+
+1983 and 1988 1100 Magna models.
+
+810mm (31.9in)
+825mm (32.5in)
+
+1984 and 1985 1100 Magna modets.
+Overall
+
+1982 and 1983 750 Sabre models.
+1984 and 1985 700 Sabre models.
+1982 through 1984 700/750 Magna models.
+
+1165 mm (45.9
+in)
+1160
+mm
+(45.7 in)
+1195 mm (47.0
+in)
+
+1985 and 1986 700 Magna models.
+
+41200
+mm
+(47.2 in)
+
+1987 and 1988 700/750 Magna models
+
+1485 mm (43.9 in)
+
+1100 Sabre models.
+
+1485 mm (48.7
+in)
+
+1983 and 1986 1100 Magna models,
+
+1210
+mm
+(47.8 in)
+
+1984 and 1985 1100 Magna models
+
+1230 mm (48.4 in)
+
+‘Seat hoight
+
+1982 and 1983 750 Sabre models..
+41984 and 1985 700 Sabre models.
+11982 through 1984 700/750 Magna models
+41985
+
+and 1986 700 Magna models.
+
+780 mm (30.7 in)
+
+790 mm (31.1 in)
+760 mm (29.9in)
+740
+mm (29.1 in)
+
+1100 Sabre models
+
+705 mm (27.8in)
+in)
+820 mm (323
+
+11100 Magna models
+
+(31.5in)
+mm
+£800
+
+1987 and 1988 700/750 Magna models
+
+Ground clearance
+1982 and 1983 750 Sabre models
+
+135mm (53 in)
+
+1984 and 1985 700 Sabre modes,
+
+145mm (8.7 in)
+165mm (6.5in)
+
+11982 through 1984 700/750 Magna models.
+
+1985 and 1986 700 Magna models.
+1987 and 1988 700/750 Magna models
+
+150mm (5:9in)
+
+41100 Sabre models.
+
+145mm
+(57 in)
+
+1100 Magna models...
+
+185mm (6.1 in)
+
+152mm (6.0in)
+
+Weight (with oll and fll fut tank)
+7700750 models
+
+‘Approx
+243
+kg (535 lb)
+
+1100 Sabre models
+
+2688
+kg
+(591 )
+
+1100 Magna models,
+
+285g (584 B)
+
+0-10
+
+Maintenance techniques,
+tools and working facilities
+Basic maintenance techniques
+
+helpful to make sketches or take instant photos of components before
+
+‘There are a number of techniques involved in maintenance and
+repair that will be referred to throughout this manual. Application of
+
+removal
+‘When removing fasteners from a component, keep track of their
+
+locations. Sometimes threading @ bolt back in a part, or putting the
+
+these techniques will enable the amateur mechanic to be more
+efficient, better organized and capable of performing the various tasks
+
+‘washers and nut back on a stud, can prevent mixups later. if nuts and
+
+properly, which will ensure that the repair job is thorough and complete.
+
+bolts cant be retumed
+to their original locations, they should be kept in
+‘8 compartmented box or a series of small boxes. A cupcake or muffin
+
+Fastening systems
+
+tin is ideal for this purpose,
+since each cavity can hold the bolts and
+nuts from a particular area (ie. engine case bots, valve cover bolts,
+
+Fasteners, basically, are nuts, bolts and screws used to hold two
+‘
+
+mote parts together. There are a few things to keep in mind when
+
+‘working with fasteners. Almost all of them use a locking device of some
+
+type (either a lock washer. locknut, locking tab or thread adhesive). All
+
+threaded fasteners should be clean, straight, have undamaged threads
+‘and undamaged comers on the hex head where the wrench fits.
+Develop the habit of replacing all damaged nuts and batts with new
+ones.
+
+usted nus and bas shoud be tested wih « penetrating of to
+ease removal and prevent
+
+‘Some
+
+ina spout type ol can, which works quite wel. Aer appying the rust
+
+Penetrant, lt it -work for a few minutes before trying to loosen the nut
+
+© batt. Badly rusted fasteners may
+have to be chiseled off
+or removed
+with a special nut breaker,
+Ifa bolt or stud breaks
+off in en assembly, it can be drilled out and
+removed with a special tool called an E-Z out (or screw extractor).
+Most dealer service departments and motorcycle repair shops can
+
+Perform this task,
+
+as well as others (such as the repair of threaded
+
+holes that have
+been stripped out).
+Flat washers and lock washers, when removed from an assembly,
+should always be replaced exactly as removed. Replace any damaged
+washers with new ones.
+
+Always use @ flat washer between a lock
+
+washer and any soft metal surface (such as aluminum), thin sheet
+‘metal or plastic.
+
+Special locknuts can only
+
+be used once or twice
+
+before they lose their locking abilty and must be replaced
+
+Tightening sequences and procedures
+When threaded fasteners are tightened, they are often tightened
+
+toa specific torque value (torque is basically a twisting force). Overtightening the fastener can weaken it and cause it to break, while
+under-tightening can cause it to eventually come loose. Each bat,
+depending on the material i's made of, the diameter of its shank and
+the material it is threaded into, has a specific torque value, which is
+noted in the Specifications. Be sure to follow the torque recommen-
+
+dations closely.
+Fasteners laid out in a pattem (ie. cylinder head bolts,
+engine
+case bolts, etc.) must be loosened or tightened in a sequence to avoid
+warping the component. Initially, the bolts/nuts should go on finger tight
+only. Next, they should be tightened one full turn each, in a crisscross
+‘or diagonal pattern. After each one has been tightened one full turn,
+retum to the first one tightened and tighten them all one half turn,
+following the same pattern.
+
+Finally, tighten each of them one quarter
+
+engine mount bots, etc:). A pan of this type is especially helpful when
+‘working on assemblies with very small parts (such as the carburetors
+and the valve train). The cavities can be marked with paint or tape to
+tify the contents.
+
+wiring looms,
+
+are
+
+its a. good idea to Kéenty the two halves wih numbered pieces of
+‘masking tape so they can be
+
+Cuakat seaheysurfaces
+
+easily reconnected,
+
+ycle,
+
+gaskets are used to seal the mating
+
+surfaces betwoon components ane Keep hixicans, ful, vacuum &
+pressure
+contained
+in
+an assembly,
+Many times these gaskets are coated with a liquid or paste type
+
+‘gasket sealing compound before assembly. Age, heat and pressure
+
+‘can sometimes cause the two parts to stick together so tightly that they
+are very dificult to separate. In most cases, the part can be loosened
+by striking it with a sof-faced
+
+hammer near the mating surfaces.
+
+A
+
+regular hammer can be used if @ block of wood is placed between the
+hammer and the pert. Do nat hammer on cast parts or parts that could
+
+be
+
+easily damaged. Wth any particularly stubborn part, always recheck
+
+to make sure that every fastener has been removed.
+‘Avoid using a screwdriver or bar to pry apart components, as they
+cen easily mar the gasket sealing surfaces of the parts (which must
+remain smooth). If prying is absolutely necessary, use a piece of wood,
+but keep in mind that extra clean-up wil be necessary if the wood
+
+splinters
+
+‘ter the parts are separated, the old gasket must be carefully
+
+scraped off and the gasket surfaces cleaned. Stubbom gasket material
+can be soaked with a gasket remover (available
+
+in aerosol cans) to
+
+soften it so it can be easily scraped off. A scraper can be fashioned
+from a piece of copper tubing by flattening and sharpening one end.
+‘Copper is recommended because tis usuelly softer than the surfaces
+
+to be scraped, which reduces the
+
+chance of gouging the
+
+part. Some
+
+‘gaskets can be removed with a wire brush, but regardless of the
+‘method used, the mating surfaces must be left clean and smooth.
+
+If for
+
+some reason the gasket surface is gouged, then a gasket sealer thick
+‘enough to fill scratches will have to be used during reassembly of the
+
+‘components.
+
+For most
+
+applications,
+
+a non-drying
+
+(or
+
+semi-drying)
+
+‘gasket sealer is best.
+
+Hose removal tips
+Hose
+
+removal
+
+precautions
+
+closely
+
+parallel
+
+gasket
+
+removal
+
+turn at a time until each fastener has been tightened to the proper
+torque. To loosen and remove the fasteners the procedure would be
+
+precautions.
+
+reversed.
+
+chemical reactions, the rubber in hoses can bond itself to the metal
+
+Disassembly sequence
+Component
+disassembly
+should
+be done with care and purpose
+to
+help ensure that the parts go back together property during
+reassembly. Always keep track of the sequence in which parts are
+
+removed. Take note of special characteristics or marks on parts that
+can be installed more than one way (such as @ grooved thrust washer
+
+(on a shaft. i's @ good idea to lay the disassembled parts out on 2
+clean surface in the order that they were removed. It may also be
+
+Avoid scratching or gouging the surface that the hose
+
+mates against
+
+or
+
+the
+
+connection
+
+may leak.
+
+Because
+
+of various
+
+‘Spiga that the hose fits over. To remove a hose, frst loosen the hose
+clamps that secure it to the spigot. Then, with slip joint pliers, grab the
+hose at the clamp and rotate it eround the spigct.
+
+Work it back and
+
+forth unti itis completely free, then pull it off slicone or other lubricants
+will ease removal if they can be applied between the hose and the
+‘utside of the spigot). Apply the same lubricant to the inside of the hose
+{and the outside of the spigct
+to simply installation.
+If@ hose clamp is broken or damaged, do not reuse it. Also, do
+not reuse hoses that are cracked, spt
+
+tor.
+
+Maintenance techniques, tools and working facilities
+
+‘Spark plug gap adjusting tool
+
+Feeler gauge set
+
+Control cable pressure luber
+
+Hand impact screwdriver and bits
+
+Tools
+A selection of good tools is @ basic requirement for anyone who
+plans to maintain and repair @ motorcycle. For the owner who has few
+tools. if any, the initial investment
+might seem high, but when compared
+to the spiraling costs ofroutine maintenance and repair. itis a wise one.
+To help the owner decide which tools are needed to perform the
+
+tasks detailed in this manual, the following tool lists are offered
+Maintenance and minor repair, Repair and overhaul and Special. The
+newcomer
+to practical mechanics should start off with the Maintenance
+‘and minor repair tool kit, which is adequate for the simpler jobs. Then.
+as confidence and experience grow, the owner can tackle more diffcut
+tasks, buying additional tools as they are needed. Eventually the basic
+kit will be built into the Repair and overhaul tool set.
+
+Over 2 period of
+
+time, the experienced do-it-yourselfer
+will assemble a tool set complete
+‘enough for most repair and overhaul procedures and will add tools from
+
+the Special category when tt is felt that the expense is justified by the
+frequency of use.
+
+Maintenance and minor repair tool kit
+‘The tools in this list should be considered the minimum required
+for performance of routine maintenance,
+
+servicing end minor repair
+
+work. We recommend the purchase of combination wrenches (box end
+
+‘Torque wrenches (left -click type; right - beam type)
+
+0-11
+
+0-12
+
+Maintenance techniques, tools and working facilities
+
+‘Snap-ing pliers (top - extemal; bottom - internal)
+
+Valve spring compressor
+
+Piston ring removalfinstallation too!
+
+Piston pin puller
+
+Telescoping gauges
+
+Maintenance techniques, tools and working facilities
+
+Cylinder surfacing hone
+
+Cylinder compression gauge
+
+Dial indicator
+set
+
+‘Multimeter (volt/ohm/ammeter)
+
+Adjustable spanner
+
+0-13
+
+Maintenance techniques, tools and working facilities
+
+0-14
+
+‘and open end combined in one wrench); while more expensive than
+
+‘oper
+
+‘ones, they offer the
+
+of both types.
+
+‘Combinat
+wrench set (6 mm to 22
+ion
+mm)
+Adjustable wrench - 8 in
+
+to the public, as well as some special tools produced by the vehicle
+
+for
+tothe
+
+to desler service
+special tools are
+
+Asa result,
+included
+
+in the text ofthis manual. Generally, an alternative method of doing the
+
+‘Spark plug socket (with rubber insert)
+
+job without the special tool is offered. However, sometimes there is no
+
+Feekr gauge set
+‘Standard screwdriver
+(5/16 in x 6 in)
+
+purchased or borrowed, the work should be turned over to the dealer
+
+toot
+‘Spark plug gap adjusting
+
+altemative to their use. Where this is the case, and the tool cant be
+
+‘service department or a motorcycle repair shop.
+Valve spring compressor
+
+Piston ring removal
+and installation too!
+Piston pin puller
+Telescoping gauges
+
+Tre pressure gauge
+Control
+cable
+pressure luber
+
+Micrometers) and/or dial/Vernier calipers
+
+Grease gun
+
+Gyinder compression gauge
+
+Cylinder surfacing hone
+
+Ollcan
+Fine emery cloth
+
+Dial indicator set
+Multimeter
+
+Wre trush
+
+‘spanner
+
+Hand impactscrewdriver
+and bits
+
+‘Manometer
+or vacuum gauge set
+‘Small ar compressor with blow gun and tre chuck
+
+size)
+
+Buying tools
+Work light with extension
+cord
+
+For the dovt-yourselfer who is just starting to get involved in
+motorcycle maintenance and repair, there are a number of options
+
+Repair and overhaul tool set
+‘These
+
+tools are essential for anyone who plans to perform major
+
+repairs and
+
+are intended to
+
+those in the
+
+‘and
+
+‘minor repair toolkit. Included is a comprehensive set of sockets which,
+
+though expensive, ee laveuale because of the vase (especialy
+when various.
+‘and drives are
+
+3/8 inch drive over the 1/2 inch drive for peels fabecles)
+‘maintenance
+
+and repair (ideally, the mechanic would have a 3/8 inch
+
+drive set and a 1/2 inch drive set)
+
+‘Alternator
+rotor
+removal tool
+
+‘available when purchasing tools. If maintenance and minor repair is the
+extent of the work to be done, the purchase of individual tools is
+
+y. If, on the other hand, extensive work is planned, it would
+
+be a good idea to purchase a modest too! set from one of the large
+retail chain stores.
+
+A set can usually be bought at a substantial savings
+
+over the
+
+tool prices (and they often come with a tool box). AS
+
+‘addtional tools are needed, add-on sets, individual tools and a larger
+tool bax can be purchased to expand the tool selection. Building a toot
+Set gradually allows the cost of the tools to be spread over a longer
+
+Period of time and gives the mechanic the freedom to choose only
+those tools that will actually be used,
+
+Toa sores enc mctercyci desire wit cen be the only source of
+some of the special tools that are needed,
+Torque wrench (same size drive as sockets)
+
+Ball pein hammer
+- 802
+
+of tools around at reasonable prices, but always aim to purchase
+plenty
+
+‘Soft-fac
+hammer (plastictubber)
+ed
+
+items which meet the relevant national safety standards. The
+
+‘Standard screwdriver
+(stubby - 5/16 in)
+
+initia! cost of quality tools,
+
+Pller
+= locking
+s
+re loerers
+
+For those who wish to leam more about tools and their use, there is a
+‘book entitled Motorcycle Workshop Practice Manual (Book no. 1454)
+available from the publishers of this manual. It also provides an
+introduction to basic workshop practice which will be of interest to a
+
+‘Standard screwdriver (1/4 in x 6 in)
+Philips screwckiver (No. 3x8 in)
+Phillips screwdriver
+(stubby - No. 2)
+
+Pare. mepar (internal and externa)
+Cold chisel - 1/2 in
+Seriber
+
+‘Scraper (made from flattened copper tubing)
+Center punch
+
+Pin punches (1/16, 1, 3/16 in)
+Stee! ruledtraightedge- 12
+in
+
+Note:
+
+but
+
+tools are bought, try to avoid cheap ones
+screwdrivers and sockets) because they wont last very long. There are
+
+expense
+
+involved in replacing cheap tocis will eventually be greater than the
+It Is obviously not possible to cover the subject of tools fully here.
+
+home mechanic working on any type of motorcycle,
+
+Care and maintenance of tools
+Good tools are expensive, so it makes sense to treat them with
+respect. Keep them clean and in usable condtion and store them
+when not in use. Aways wipe off any dit, grease or metal
+chips before putting them away. Never leave tools lying around in the
+
+Pin-type spanner wrench
+
+work area
+
+A selection
+of files
+Were brush (large)
+
+can be hung on @ panel mounted on the garage or workshop wal, while
+
+Another tool which is offen useful is an electric orl with a chuck
+
+‘capacity of 3/8 inch (and a set of good quality dri bits).
+
+Special tools
+The tools in this ist include those which are not used regulary,
+are expensive to buy, of which need to be used in accordance with
+
+their menufacturer's instructions. Unless these tools wil be used
+frequently, it is not very economical to purchase many of them. A
+consideration would be to split the cost and use between yourself and
+@
+friend
+or
+friends (i.e.
+members
+of a
+motorcycle club).
+This list primarily contains tools andinstruments
+widely available
+
+Some tools, such as screwdrivers, pliers, wrenches and sockets,
+
+thers should be kept in @ tool box or tray. Measuring instruments,
+
+gauges, meters, etc. must be carefully stored where they cant be
+damaged by weather or impact from other tools
+
+‘When tools are used with care and stored property, they will last a
+very
+long
+time.
+
+Even with the best of care, tools will wear out if used
+
+‘When a tool is
+
+‘or wom out, replace it;
+
+jobs wil be safer and more enjoyable if you do.
+
+forking
+
+faciliti
+
+Not to be overlooked when discussing tools is the workshop. If
+‘anything more than routine maintenance is to be carried out, some sot
+
+Maintenance techniques, tools and working facil
+abe weak ren
+
+vont
+
+fies
+
+0-15
+
+disposal problem. To avoid pouring them on the ground or into a
+
+, that many home
+do
+naiaee ‘001 wotahop Gorege svalae ti ond Up removing
+
+‘sewage system, simply pour the used fluids into large containers, seal
+
+however, that the overhaul or repair be completed under the cover of
+
+this purpose.
+
+‘an engine
+
+or doing
+
+major repairs outside (it is recommended,
+
+a ro0f).
+
+‘tation.
+
+Plastic jugs (such as old antifreeze containers) are
+
+‘Always Keep
+
+‘Aclean, Sat wartonch ot table ofconfab wertng hecho
+
+an absolute
+
+them with caps and take them to an authorized disposal site or service
+
+The
+
+with a vise
+
+that has a jaw opening
+of at least four ijchoes
+‘As mentioned previously, some clean, dry storage space is also
+required for tools, as well as the lubricants, fluids, cleaning solvents,
+‘etc, which soon become necessary.
+
+‘Sometimes waste oil and fluids, drained from the engine or
+‘cooling system during normal maintenance or repairs, present a
+
+available.
+
+ideal for
+
+a
+
+supply of old newspapers and clean rags
+Old towels are excellent for mopping up spills. Many
+
+use rails of paper
+towels
+for
+most work because they are
+readily available and disposable. To help keep the area under the
+motorcycle clean, a large cardboard
+box can be cut open and flattened
+to protect
+the garage or shop floor.
+
+Whenever working over a painted surface (such as the fuel tank)
+ccover it with an old blanket or bedspread to protect the finish.
+
+0-16
+
+Safety first
+Professional mechanics are trained in safe working procedures,
+However enthusiastic you may be about getting on with the job at
+hhand,
+
+take the time to ensure that your safety is not put at risk. A
+
+Hf, in spite of following these precautions, you are unfortunate enough
+toiinjure yourself, seek medical attention as soon as possible.
+
+‘moment's lack of attention can result in an accident, as can failure to
+
+Asbestos
+
+‘observe simple precautions.
+There will always be new ways of having accidents, and the
+{following
+is not a comprehensive list of all dangers; i is intended rather
+
+care must be taken fo avoid inhalation of dust from such products since itis
+
+to make you aware of the risks and to encourage a safe approach toall
+
+‘hazardous to health. ifin doubt, assume that they
+do contain asbestos.
+
+‘work you carry out on your bike.
+
+Remember at all times that gasoline (petrol) is highly flammable.
+
+DON'T start the engine without first ascertaining that the transmission
+is in neutral
+
+DON'T suddenly remove the pressure cap from a hot cooing system ‘cover it with a cloth and release the pressure gradually first, or you
+‘may get scalded by escaping coola
+DON'T attempt to drain oil until you are sure i has cooled sufficiently to
+avoid scalding you.
+
+DON'T grasp any part of the engine or exhaust system without first
+ascertaining that itis cool enough not to burn you.
+
+DON'T allow brake
+
+‘luid or antifreeze to contact the machine's
+paint work or plastic
+components.
+
+DON'T siphon toxic liquids such as fuel, hydraulic fuid or antifreeze by
+‘mouth, or allow them to remain on your skin
+dust - it may be injurious to health
+
+(see Asbestos
+
+heading).
+
+DON'T allow any spiled oil or grease to remain on the floor - wipe it up
+
+right away, before someone slips on it
+
+DON'T use ill ting wrenches or other tools which may slip end cause
+
+inj
+
+DON'T attempt to lit a heavy component which may be beyond your
+capability - get assistance.
+DON'T rush to finish a job or take unverified short cuts. DON'T allow
+children or animals in oF around an unattended vehicle. DON'T inflate @
+tire to1a pressure
+
+above the recommended maximum. Apart from over
+
+stressing the carcase and wheel rim, in extreme cases the tire may
+blow off forcibly
+DO ensure that the machine is supported securely at al times. This is
+especially important when the machine is blocked up to aid wheel or
+
+fork removal
+DO take care when attempting to loosen a stubborn nut or bot. It is
+
+‘generally better to pull on a wrench, rather than push, so that if you
+
+slip, you fall away from the machine rather than onto it. DO wear eye
+protection when using power tools such as dill, sander, bench grinder
+etc
+DO use a barrier cream on your hands prior to undertaking dirty jobs it will protect your skin from infection as well as making the dit easier
+
+to remove afterwards; but make sure your hands arent left slippery
+Note that long-term contact with used engine oll can be a health
+hazard, DO keep loose clathing (cuffs, ties etc. and long hair) well cut
+ofthe way of moving mechanical parts.
+DO remove rings, wristwatch etc.,
+
+- contain asbestos. Exreme
+
+Fire
+
+Essential DOs and DON'Ts
+
+DON'T inhale
+
+Certain friction, insulating, sealing and other products - such as
+brake pads, clutch linings, gaskets, etc.
+
+before working on the vehicle -
+
+especially he electrical system,
+
+DO keep your work area tidy- i is only too easy to fell over articies
+left
+
+lying around
+
+DO exercise caution when compressing springs for removal or installation. Ensure that the tension is applied and released in a controlled
+manner, using suitable tools which preclude the possibilty of the spring
+escaping violently.
+DO ensure that any lifting tackle used has @ safe working load rating
+
+‘adequate for the job.
+DO get someone to check periodically that all is well, when working
+alone on the vehicle.
+
+DO carry
+out work
+in a logical sequence and check that everything is
+correctly assembled and tightened afterwards. DO remember that your
+vehicle's safety affects
+
+that of yourself and others. Ifin doubt on any
+
+Point, get professional
+
+advice,
+
+Never smoke or have any kind of naked flame around, when working
+
+fon the vehicle. But the risk does not end there - a sperk caused by an
+electrical short-circuit, by two metal surfaces contacting each other, by
+
+careless use of tools, or even by static electricity built up in your body
+Under certain conditions, can ignite gasoline (petral) vapor, which in @
+
+confined space is highly explosive.
+
+Never use gasdline (petral) as a
+
+cleaning solvent. Use an approved safety solvent.
+‘Always disconnect the battery ground (earth) terminal before
+
+‘working on any part of the fuel or electrical system, and never risk
+spilling fuel on to a hot engine or exhaust
+
+It is recommended that a fre extinguisher of a type suitable for
+fuel and electrical fires is kept handy in the garage or workplace at all
+times. Never try
+to extinguish @ fuel or electrical fire with water
+
+Fumes
+Certain
+
+fumes
+
+are
+
+highly
+
+toxic
+
+and
+
+‘unconsciousness and even death if inhaled to
+
+can
+
+quickly
+
+any extent.
+
+cause
+
+Gasoline
+
+(petrol) vapor comes into this category, as do the vapors from certain
+Solvents such as trichloroethylene.
+
+Any draining or pouring of such
+
+‘volatile fuids should be done in a well ventilated area
+‘When using cleaning fluids and solvents, read the instructions
+
+carefully. Never use materials from unmarked containers - they may
+‘Give off poisonous vapors.
+
+Never run the engine of a motor vehicle in an enclosed space
+‘such as a garage. Exhaust fumes contain carbon monoxide which is,
+‘extremely poisonous; if you need to run the engine,
+always do so in the
+
+‘open air or at least have the rear of the vehicle outside the workplace,
+The battery
+Never cause 2 spark,
+
+or allow 8 naked light near the vehicle's
+
+battery. It will normally be giving off a certain amount of hydrogen gas,
+‘which is highly explosive.
+
+Always disconnect the battery ground (earth) terminal before
+working
+on the fuel or electrical systems (except where noted),
+If possible, loosen the filer plugs or cover when charging the
+battery from an external source. Do not charge at an excessive rate or
+
+the battery may burst.
+
+‘Take care when topping up, cleaning or carrying the battery. The
+‘acid electroise, even when diluted, is very corrosive and should not be
+allowed to contact the eyes or skin.
+
+Always wear rubber gloves and
+
+you ever need to prepare electrolyte
+goggles o a face shi
+yourself, always add the acid slowly to the water; never add the water
+tothe acid
+
+Electricity
+‘When using an electric power tool, inspection light etc.,
+
+al
+
+ensure that the appliance is correctly connected to its plug and that,
+‘where necessary, it is properly grounded (earthed).
+
+Do not use such
+
+appliances in damp conditions and, again, beware of creating a spark
+
+‘or applying excessive heat in the vicinity of fuel or fuel vapor. Also
+ensure that the appliances meet national safety standards.
+
+A severe electric shock can result from touching certain parts of
+the electrical system, such as the spark plug wires (HT leads), when
+the engine is running or being cranked, particularty if components are
+damp or the insulation is defective, Where an electronic igntion system
+is used, the secondary (HT) voltage is much higher and could prove
+fatal
+
+0-17
+
+Motorcycle chemicals and lubricants
+‘A number of chemicals and lubricants are available for use in
+‘motorcycle maintenance and repair. They include a wide variety of
+products ranging from cleaning solvents and
+to
+‘and protective sprays for rubber, plastic and vinyl.
+Contact
+point/spark
+plug
+cleaners a
+solvent
+used
+to clean cily
+flim and dirt from points, grime from electrical connectors and oil
+deposits from spark plugs.
+
+‘cylinder lubricants
+for valves and piston rings.
+Brake fluid is a specially formulated hydraulic fluid that can
+the heat end pressure
+in brake systems. Care
+must be taken that this fuid does not come in contact with painted
+
+surfaces or plastics. An opened container should always be resealed
+
+to prevent contamination by water or dit
+
+Chain
+
+It is oil free and leaves no residue. it can
+
+‘also be used to remove gum and vamish from carburetor jets and ther
+orifices,
+Carburetor cleaner is similar to contact point/spark plug cleaner
+but it usually has a stronger solvent and may leave a slight oily reside.
+
+It isnot recommended for cleaning electrical components or
+‘connections.
+Brake system cleaner is used to remove grease or brake fluid
+from brake system components (where clean surfaces are absolutely
+Necessary
+and petroleum-based solvents cannot be used); it also
+leaves noresidue,
+
+Silicone-based lubricants are used to protect rubber parts such
+‘as hoses and grommets, and
+are used as lubricants for hinges and
+locks,
+‘Multi-purpose grease is an ail purpose lubricant used wherever
+Is more practical than a liquid lubricant such as oll. Some mult
+gre
+
+Purpose grease is colored white and specially
+
+to be more
+
+resistant to water than ordinary grease.
+
+Gear olf (sometimes called gear lube) is @ specially designed cil
+used in transmissions and final drive units, as well as other areas
+‘where high friction, high temperature lubrication is required. It Is
+available in a
+number
+of
+viscosities (weights) for various applications.
+Motor oit,of course, is the lubricant specially formulated for use in
+the engine. It normally contains a wide variety of addtives to prevent
+
+final ve chains.
+
+for
+
+on the side plates pins and rales, Most chan bes re ether the
+foaming
+type or quick drying
+type and
+et
+Degreasers are heavy Gly solvents used to remove grease
+and
+
+rime that may accumulate on engine and frame components. They
+can be sprayed or brushed on and, depending on the type,
+
+are rinsed
+
+with either water or solvent
+
+‘Solvents are used alone or in combination with degreasers to
+clean parts and assemblies during repair and overhaul.
+The home
+‘mechanic should use only solvents that are non-flammable and that do
+‘ot produce inating fumes.
+
+Gasket sealing compounds may be used in conjunction with
+‘gaskets, toimprove their sealing capabilties, o alone, to seal metal-to‘metal joints. Many gasket sealers can withstand extreme heat, some
+
+are
+
+to gasdiine and
+
+. while others are capable of
+
+filing and sealing large cavities. Depending on the intended use,
+‘gasket sealers either dry hard or stay relatively soft and pliable. They
+‘are usually epplied by hand, with a brush, or are sprayed on the gasket
+‘sealing surfaces.
+Thread cement is an adhesive locking compound that prevents
+threaded fasteners from loosening because of vibration. It is available
+in a variety of types for different applications.
+
+corrosion and reduce foaming and wear. Motor of comes in various
+
+‘weights
+(viscosity
+ratings)
+of from 5 to 80. The recommended weight of
+the oll depends on the seasonal temperature and the demands on the
+‘engine. Light oll is used in cold climates and under light load conditions;
+heavy ail is used in hot cimates and where high loads are encountered.
+Multiviscosity ails are designed to have characteristics of both light and
+heavy ails and are available in a number of weights from SW-20 to
+20W--50.
+Gas (petro!) additives perform several functions, depending on
+their chemical makeup. They usually contain scivents that help dissolve
+gum and varnish that buid up on carburetor and intake parts. They also
+serve
+to
+break down carbon deposits that form on the inside surfaces of
+the combustion chambers. Some additives contain upper
+
+are
+
+Agood chain ube should adhere well endhave good
+
+Penetrating qualities to be effective as a lubricant inside the chain and
+
+Moisture dispersants are usually sprays that can be used to dry
+‘out
+
+electrical
+
+components
+
+such
+
+as
+
+the
+
+fuse
+
+block
+
+and
+
+wiring
+
+connectors. Some types can also be used as treatment for rubber and
+28 a lubricant for hinges, cables and locks
+Waxes and polishes are used to help protect painted and plated
+surfaces from the weather. Different types of paint may require the use
+of ifferent types of wax polish. Some polishes utilize a chemical or
+
+‘abrasive cleaner tohelp remove the top layer of oxicized (dul) paint on
+
+‘ider vehicies. in recent years, many non-wax polishes (that contain a
+wide variety of chemicals such as polymers and silicones) have been
+introduced.
+
+These non-wax polishes are usually easier to apply and
+
+last longer than conventional waxes and polishes.
+
+0-18
+
+Troubleshooting
+Contents
+
+Symppm
+
+‘Section
+
+Engine doesn't start or is difficult to start
+
+Starter motor doesnt rotate.
+
+‘Symptom é
+
+_4umps out of gear.
+Overshits
+
+‘Section
+
+29
+30
+
+‘Starter motor rotates but engine does not tum over.
+
+2
+
+1
+
+Abnormal engine noise
+Knocking or pinging
+
+31
+
+Starter works but engine wont turn over (seized).
+No fuel flow
+
+3
+4
+
+Piston slap or rating
+Valve noise
+
+32
+3
+
+5
+
+Othernoise,
+
+34
+
+Engine flooded
+
+No spark or weak spark.
+
+6
+7
+
+Abnormal driveline noise
+
+‘Stalls after starting
+Rough ide.
+
+8
+9
+
+Clutch noise.
+Transmission noise.
+
+‘Compression low.
+
+ih
+Spark weak,
+‘Fuel/ir
+mixture incorrect.
+Poor running
+
+at low speed
+
+\ccricresslon 16
+
+Poor acceleration.
+
+49 Abnormal frame and suspension noise
+41
+
+Shock absorber noise.
+
+Frend endnotes:
+
+38
+
+Olec brake noise.
+
+40
+
+Knocking or pinging
+
+AB”
+
+18
+
+AY
+
+Overheating
+Engine
+
+overheats...
+
+Firing incorrect,
+
+Fuelfeir mibture Incorrect.
+
+19
+2
+
+Engine lubrication system
+ae
+
+Eoetedlees
+
+Excessive exhaust smoke
+
+arcu:
+
+a
+
+Brown smoke
+
+45
+
+bern
+
+hard to turn
+
+21
+
+Handlebar shakes or vibrates excessively.
+
+Engine load excessive.
+
+3
+
+Poor shock absorbing qualities
+
+U
+
+Py
+
+25
+
+Clutch problems
+
+Clutch sipping...
+Clutch not disengaging completely.
+
+Gear
+
+Doesn't go into gear, or lever doesnt return
+
+ra
+
+Poor handling
+or stability
+
+2
+
+Miscellaneous causes.
+
+a
+ry
+
+apeeerns
+
+too high
+
+c
+
+39
+
+Oil pressure indicator light comes on
+14
+
+jy
+
+Miscellaneous causes,
+
+37
+
+13
+
+Fueliair mixture incorrect
+
+‘Compression low.
+
+35
+36
+
+42
+
+BSH iUrRIRGUCTiG RNNr NR nIGH aeieall
+Firing incorrect.
+
+Final drive noise
+
+pulls to one side
+
+46
+
+47
+
+48
+
+49
+
+Braking problems
+Disc brakes are spongy, don't hold
+
+50
+
+28
+a
+
+Brakes drag
+3
+
+52
+
+28
+
+Battery overcharged.
+
+Brake lever or pedal pulsates.
+
+Electrical problems
+
+Battery dead or weak
+
+51
+
+53
+
+54
+
+0-19
+
+Troubleshooting
+Engine doesn't start or is difficult to start
+
+1.
+
+doesn't rotate
+motor
+Starter
+
+1
+2.
+
+Engine kill switch Off
+Fuse blown, Check fuse block (Chapter 8),
+
+3 _ Battery voltage low. Check and recharge battery (Chapter 8)
+4 Starter motor defective. Make sure the wiring to the starter is secure.
+sure the starter relay clicks when the start button is pushed. If
+y clicks, then the fault isin the wiring
+or moter.
+1relay faulty. Check it
+tothe
+in Chapter 8.
+6 Starter button not contacting. The contacts could be wet, corroded or
+dity, Disassemble and clean the switch (Chapter 8)
+7 Witing open or shorted. Check all wiring connections and hamesses
+to make sure that they are dry, tight and not corroded. Also check for
+
+2 Inlet needle valve wom or stuck open. A piece
+of dirt,
+rust
+or
+other
+debris can cause the inlet needle to seat improperly, causing excess
+fuel to be admitted to the float bowl. In this case, the float chamber
+should be cleaned and the needle and seat inspected. If the needle
+and seat are wom, then the leaking will persist and the parts should be
+replaced with new ones (Chapter 4).
+
+3 Starting technique incorrect. Under normal circumstances (i.e., if all
+the carburetor tncions are sound) the machine shou! eat with ie
+‘oF no throttle. When the engine is cold, the choke
+should
+land the engine started without opening thethrottle. When the
+at operating tepereire, ony 8 very sight amount of (hota should
+Fy. Ifthe engine is flooded, tum the fuel tap off and hold the
+thotie open we cramng the engine. This wil allow acon
+to
+reach the cylinders. Remember to tur the fuel tap back on after the
+
+engine starts,
+
+broken or frayed wires that can cause @ shott to ground (earth) (see
+
+8).
+wiring diagram, Chapter
+8 Ignition switch defective. Check the switch according to the
+procedure in Chapter 8. Replace the switch with a new one if it is
+efective.
+
+9 Engine kill switch defective. Check for wet, dirty or corroded
+contacts. Clean or replace the switch as necessary (Chapter
+8).
+410 Faulty neutral/gearchenge/sidestendietutch switch. Check the wiring
+to
+each switch and the switch itself according to the procedures in
+‘Chapter 8.
+
+2
+
+6
+
+Nosspark
+or
+weak spark
+
+4.
+
+Ignition switch Of.
+
+2 _ Engine kill switch tured to the Off position.
+3 Battery voltage low. Check and recharge battery as necessary
+
+8)
+(Chapter
+
+4 Spark plug dirty, defective or wom out. Locate reason for fouled
+
+plugis) using spark phig condition chart and follow the plug
+‘maintenance procedures in Chapter 4
+5 Spark plug cap or secondary (HT) wiring faulty. Check condition
+
+Starter motor rotates but engine does not tum over
+
+Replace either or both components if cracks or deterioration are
+‘evident (Chapter 5).
+
+Starter motor clutch defective. Inspect and repair or replace
+
+cap fits snugly over the plug end
+
+'6 Spark plug cap not making good contact. Make sure that the plug
+
+1
+
+(Chapter
+2
+
+8),
+
+Damaged idler or starter gears. Inspect and replace the damaged
+
+Parts (Chapter 8).
+3.
+
+7 Spark unit defective, Check the unit(s), referring to Chapter 5 for
+etails.
+
+& Pulse generator defective. Check the unit, referring to Chapter 5 for
+detail is.
+
+Starter works but engine won'tturn over (seized)
+Seized engine caused by one
+
+or
+
+more intemally damaged
+
+‘components. Failure due to wear, abuse or lack of lubrication. Damage
+‘can include seized valves, camshaft, pistons, crankshaft, connecting
+‘od bearings, or transmission gears or bearings. Refer to Chapter 2 for
+engine disassembly.
+
+9
+Ignition cols) defective. Check the coils, referring to Chapter 5.
+410 tgnition oF kill switch shorted. This is usually caused by water,
+corrosion, damage or excessive wear. The switches can be
+Gisassembled and cleaned with electrical contact cleaner. If cleaning
+
+does not help, replace the switches (Chapter 8),
+11.
+
+Wiring shorted or broken between:
+
+2) Ignition switch and engine kil switch (or blown fuse)
+plug
+
+4
+
+pulse generator
+and
+unit
+©) Spork
+
+No fuel flow
+
+Make sure that all wring connections are clean, dry and tight
+Look for chated and broken wires (Chapters 5 and 8)
+
+1
+No fuel in tank
+2 Fuel valveftap vacuum hose broken or disconnected or tuned OFF.
+
+3 Tank cap air vent obstructed (not later Califomia models). Usually
+‘caused by dirt or water. Remove it and clean the cap vent hole.
+4
+Fuel tap fier clogged. Clean or replace the fiter (Chapter 1),
+5 Fuel ie clogged. PAM the uel ine love end carfity How trough
+ee
+a very bad batch of fuel with an unusual additive has been used, or
+
+some other foreign material
+
+has entered the tank. Many times after @
+
+machine has been stored for many months without running, the fuel
+tums to a varnish-like liquid and forms deposits on the inlet needle
+valves and jets. The carburetors should be removed and overhauled if
+draining the float bowls doesn’ solve the problem.
+
+7
+
+Compression
+low
+
+1. Spark plug loose. Remove the plug and inspect the threads
+Reinstall and tighten to the specified torque (Chapter
+2 Cylinder heads not sufficiently tightened down. If either cylinder head
+
+is suspected of being loose, then there's a chance thet the gasket or
+head is damaged ifthe problem has persisted for any length of time.
+‘The head baits should be tightened to the proper torque in the correct
+sequence (Chapter 2)
+3 Improper valve clearance. This means that the valve is not closing
+completely and compression pressure is leaking past the valve. Check
+‘and adjust
+the valve clearances (Chapter 1)
+4 Cylinder endior piston wom. Excessive wear
+
+5
+1
+
+Engine flooded
+Float height too high. Check as described in Chapter 4.
+
+will cause compression
+
+pressure to leak past the rings. This is usually accompanied by worn
+Tings as well. Atop end overhaul is necessary (Chapter 2).
+5 Piston rings worn, weak, broken, oF sticking. Broken or sticking
+
+Piston rings usually indicate a lubrication or carburation problem that
+causes excess carbon deposits
+or seizures to form on the pistons and
+
+0-20
+
+Troubleshooting
+
+Tings. Top end overhaul is necessary (Chapter 2)
+6
+
+Piston
+
+excessive
+
+ringto-groove
+wear of
+
+‘without fouling
+
+clearance ex
+
+the piston
+
+ring
+
+necessary (Chapter 2).
+
+7 Oyfinder ead gasket damaged.
+
+This
+
+lands.
+
+Piston
+
+is caused
+
+by
+
+replacement is
+
+6
+
+Spark unit(s) defective. See Chapter
+5.
+
+7
+
+Pulse generator defective. See Chapter
+5.
+
+8
+
+Ignition coils) defective. See Chapter 5.
+
+If the head is allowed to become
+
+loose, or if excessive carbon build-up on the piston crown and
+
+‘chamber causes
+
+high
+
+. the head
+
+Retorquing the head is not always sufficient to
+
+gasket may leak.
+
+restore the seal, so gasket replacement is necessary (Chapter 2)
+8 Cylinder head warped. This is caused by overheating or improperty
+
+tightened head bolts. Machine shop resurfacing
+or head replacement is
+necessary (Chapter 2)
+{9 Valve spring broken or weak. Caused by component failure or wear;
+the spring(s) must
+be replaced (Chapter 2)
+
+10 Valve not seating property. This is caused by a bent valve (trom
+‘over-rewing or improper valve adjustment), burned valve or seat
+
+(improper carburation) or an accumulation of carbon deposits on the
+seat (from carburation or lubrication problems).
+
+The valves must be
+
+cleaned and/or replaced and the seats serviced if possible (Chapter 2).
+
+11
+
+FuelVair mixture incorrect
+
+1
+
+Pilot screw(s) out of adjustment (Chapter 4).
+
+2 __ Pilot
+jet or air passage clogged. Remove and overhaul the
+carburetors (Chapter 4).
+3
+
+7
+
+‘stroke
+
+2
+
+Make sure the choke rod is getting @ full
+
+and staying
+in the out position
+
+Ignition maifunction. See Chapter 5.
+
+3 _ Carburetor maifunction. See Chapter 4
+4 Fuel contaminated. The fuel can be contaminated with either dirt or
+water, or can change chemically if the machine is allowed to sit for
+‘Several months or more. Drain the tank and float bowis (Chapter 4).
+5 Intake air leak,
+Check for loose carburetor-tointake manifold
+connections, loose or missing vacuum gauge access port cap or hose,
+
+‘loose carburetor top (Chapter 4),
+6 Engine idle speed incorrect. Turn throttle stop screw until the engine
+Ides at the specified rpm (Chapters 1 and 4).
+
+9
+
+Fuel tank air vent obstructed
+(not later
+
+California models). Make
+
+sure that the air vent passage in the filer cap is open.
+Carburetor intake manifolds loose. Check for cracks, breaks, tears
+
+cr loose clamps or batts.
+Repair
+or
+replace the rubber boots.
+
+Stalls after starting
+
+1 Improper choke action.
+
+Aircleaner clogged, poorly sealed or missing (Chapter 1)
+
+5 _ Air cleaner housing poorly sealed. Look for cracks, holes
+or loose
+clamps and replace or repair defective parts,
+6
+Fuel level too high or too low. Check the float height (Chapter 4)
+
+8
+
+8
+
+Air bleed holes clogged. Remove carburetor and blow out all
+
+passages (Chapter 4),
+
+4
+
+12 Compression
+low
+4 Spark plug loose. Remove the plug
+
+and inspect the threads. Reinstall
+
+and tighten to the specified torque (Chapter 1).
+2 Cylinder heads not sufficiently tightened down. If either cyinder head
+{is suspected of being loose, then there's a chance that the gasket and
+hhead are damaged if the problem has
+
+persisted for any length of time.
+
+The head batts should be tightened to the proper torque in the correct
+
+sequence (Chapter 2).
+
+3 Improper valve clearance. This means that the valve Is not closing
+completely and compression pressure is leaking past the valve, Check
+
+‘and adjust the valve clearances (Chapter 1).
+4 Cylinder andior piston wom. Excessive wear will cause compression
+pressure to leak past the rings.
+
+Rough idle
+
+This is usually accompanied by worn
+
+rings as wel. Atop end overhaul is necessary (Chapter 2)
+
+5 Piston rings wom, weak, broken, of sticking. Broken or sticking piston
+1.
+
+‘ings usually indicate @ lubrication or carburation problem that causes
+
+Ignition malfunction. See Chapter 5,
+
+2 _ Idle speed incorrect. See Chapter 1
+3 Carburetors not synchronized. Adjust carburetors with vacuum
+
+set as described in Chapter 1
+(Qauge or manometer
+
+4
+
+Carburetor malfunction.
+
+5 Fuel contaminated.
+
+See Chapter 4.
+
+The fuel can be contaminated with either dit or
+
+water, or can change chemically if the machine is allowed to sit for
+
+see ci
+6
+
+Intake
+
+air
+
+cre Ora
+
+leak.
+
+Check
+
+for
+
+nk el Boa
+
+bee fp)
+
+loose
+
+connections, loose or misang vacuum gauge sccess port cap or hose,
+oF loose carburetor top (Chapter 4)
+7 Air cleaner clogged. Service or replace air fiter element (Chapter 1)
+
+‘excess carbon deposits or seizures to form on the pistons and rings.
+
+Top end overhaul is necessary (Chapter 2).
+
+6 Piston ringto-groove clearance excessive. This is caused by
+excessive wear of the piston ring lands. Piston replacement Is
+necessary (Chapter 2.
+7 Oyfinder head gasket damaged. If the head is allowed to become
+loose,
+
+oF if excessive carbon build-up
+
+chamber causes
+
+on
+
+high
+
+the piston
+
+crown.
+
+and
+
+. the head
+
+‘gasket may leak. Retorquing
+the head is not always sufficient to restore
+
+the seal, so gasket replacement is necessary (Chapter 2)
+
+8 Cylinder head warped.
+
+This is caused by overheating or improperly
+
+tightened head bolts. Machine shop resurfacing or head replacement is
+necessary (Chapter 2).
+
+9 Valve spring broken or weak. Caused by component failure or wear;
+
+Poor running at low speed
+
+the spring(s) must be replaced (Chapter 2)
+
+410 Valve not seating property. This is caused by a bent valve (trom
+
+over-rewing or improper valve adjustment),
+
+40 Spark weak
+1
+
+Battery voltage low. Check and recharge battery (Chapter 8).
+
+bumed valve or seat
+
+(improper carburetion) or an accumulation of carbon deposits on
+the
+seat (from carburation, lubrication problems). The valves must be
+Cleaned andlor replaced and the seats serviced if possible (Chapter 2)
+
+2 Spark plug fouled, defective or worn out.
+Refer
+to
+Chapter 1 for spark
+
+plug maintenance.
+
+3 Spark plug cap or high tension wiring defective. Refer
+to Chapters 1
+
+‘and 5 for details on the ignition system.
+4
+Spark plug cap not making contact
+5 Incorrect spark plug. Wrong type, heat range or cap
+Check and install correct plugs listed in Chapter 1. A cold plug or one
+with a recessed firing electrode will not operate at low speeds
+
+13.
+1
+
+2
+
+Poor acceleration
+Carburetors leaking or dirty. Overhaul the carburetors (Chapter 4),
+
+Timing not
+
+The pulse
+
+‘or the spark unit(s)
+
+may be defective. Ifso, they must be replaced with new ones, as they
+
+0-21
+
+Troubleshooting
+cantt be repaired.
+3 Carburetors not synchronized. Adjust them with a vacuum gauge set
+(or manometer (Chapter 1)
+4
+
+Engine oil
+
+viscosity too
+
+high.
+
+Using
+
+@
+
+heavier
+
+oil than
+
+that
+
+recommended in Chapter 1 can damage the ail pump or lubrication
+
+system and cause drag on the engine.
+5 Brakes dragging.
+
+Usually caused by debris which has entered the
+
+brake piston seals, or from a warped disc or bent axle.
+
+Repair as
+
+necessary (Chapter 7).
+
+‘accompanied by worn rings as well.
+(Chapter 2)
+
+5
+
+Piston rings wom, weak,
+
+A top end overhaul is necessary
+
+broken, oF sticking.
+
+Broken or sticking
+
+piston rings usually indicate a lubrication or carburation problem that
+
+‘causes excess carbon deposits or seizures to form on the pistons and
+
+rings. Top end overhaul is necessary (Chapter 2).
+&
+
+Piston
+
+ring-to-groove clearance excessive.
+
+‘excessive wear of the
+
+piston
+
+ring lands.
+
+This
+
+Piston
+
+is
+
+caused
+
+by
+
+replacement is
+
+necessary (Chapter 2)
+7 Cylinder head gasket damaged.
+
+If the head is allowed to become
+
+loose, or if excessive carbon build-up on the piston crown and
+chamber causes
+high
+compr
+the head
+
+Poor running or no power at high speed
+
+‘gasket may leak. Retorquing the head is not always sufficient to
+
+restore the seal, so gasket replacement is necessary (Chapter 2),
+8 Cylinder head warped. This is caused by overheating or improperly
+
+44 Firing incorrect
+
+tightened head bolts. Machine shop resurfacing or head replacement
+
+1
+
+_Airfiter restricted. Clean or replace fiter (Chapter 1)
+
+2 Spark plug fouled, defective or worn out.
+
+See Chapter 1 for spark
+
+plug maintenance.
+
+3 Spark plug cap or secondary (HT) wiring defective. See Chapters 1
+
+{and 5 for details of the ignition system.
+4
+Spark plug cap not in good contact. See Chapter 5.
+§ Incorrect spark plug. Wrong type, heat range or cap configuration,
+Check and install correct plugs listed in Chapter 1.
+
+A cold plug or one
+
+is necessary (Chapter 2)
+9 Valve spring broken or weak. Caused by component failure or wear;
+the spring(s) must be replaced (Chapter 2),
+10 Valve not seating property. This is caused by a bent valve (from
+‘over-revving or improper valve adjustment), burned
+
+(improper carburation) or an
+
+valve or seat
+
+accumulation of carbon deposits on
+
+the
+
+‘seat (from carburation or lubrication problems). The valves must be
+cleaned andlor replaced and the seats serviced if possible (Chapter 2)
+
+‘with @ recessed firing electrode will not operate at low speeds without
+fouling,
+
+6
+
+Spark unit(s) defective. See Chapter 5.
+
+17 Knocking
+or pinging
+
+15
+
+Fuel/air mixture incorrect
+
+will dissolve the adhesive bonding the carbon particles to the crown
+‘and chamber is the easiest way
+to remove the build-up. Otherwise, the
+
+7
+
+Ignition coils) defective. See Chapter 5
+
+1 Carbon build-up in combustion chamber. Use of a fuel additive that
+
+aa ft econ Dat water or cher contaminants can cog the main
+jel tap filter, the float bow! area,
+
+and the jets and
+
+Cocurotereden charters}
+
+2 Main jet wrong size. The standard jetting is for sea level atmospheric
+
+pressure and oxygen content
+
+‘oylinder head will have to be removed and decarbonized (Chapter 2)
+2 Incorrect or poor quality fuel. Old or improper grades of fuel can
+Cause detonation. This causes the piston torattle, thus the knocking
+or
+
+pinging sound. Drain old fuel and always use the recommended fuel
+grade.
+
+3 Spark plug heat range incorrect.
+
+Uncontrolled detonation indicates
+
+3 Jet needle or needle jet worn. These can be replaced individually, but
+‘should be replaced as a pair (Chapter 4)
+
+the plug heat range is too hot. The plug in effect becomes a glow plug,
+
+4)
+
+4 Improper airfuel mixture. This will cause the cylinder to run hot,
+‘which leads to detonation. Clogged jets or an air leak can cause this
+imbalance. See Chapter 4
+
+4 Air bleed holes clogged.
+
+Remove and overhaul carburetors (Chapter
+
+er clogged, poorly sealed, or missing (Chapter 1).
+housing poorly sealed. Look for cracks, holes or loose
+
+raising cylinder
+
+temperatures.
+
+Install
+
+the
+
+proper heat
+
+range plug
+
+(Chapter 1),
+
+clamps, and replace or repair detective parts.
+7 _ Fuel level too
+
+high or too low. Check the float height (Chapter 4)
+
+8 Fuel tank air vent obstructed (not later California models). Make sure
+the air vent passage in the filler cap is open.
+‘9 Carburetor intake manifolds loose. Check for cracks, breaks, tears or
+loose clamps or bolts. Repair or replace the rubbers (Chapter 4),
+10 Fuel fter clogged. Clean or replace the fier (Chapter 1).
+11 Fuel line clogged. Pull the fuel line loose and carefully blow through
+tt
+
+18 Miscellaneous causes
+1 Throttle valve doesn't open fully. Adjust the cable slack (Chapter 1)
+2 Clutch slipping. May be caused by loose or worn clutch components.
+Refer to Chapter 2 for clutch overhaul procedures.
+
+3-_
+
+Timing
+not
+advancing
+4 Engine of viscosity too high.
+
+Using a heavier oil than the one
+
+recommended in Chapter 1 can damage the oil pump or lubrication
+
+16 Compression
+low
+1 Spark plug loose. Remove the plug and inspect the threads. Reinstall
+
+‘and tighten to the specified torque (Chapter 1).
+
+2 Cylinder heads not sufficiently tichtened down. If either cylinder head
+is suspected of being loose, then there's a chance that the gasket and
+head are damaged if the problem has persisted for any length of time.
+The head bolts should be tightened to the proper torque in the correct
+
+sequence (Chapter 2)
+
+3 Improper valve clearance. This means that the valve is not closing
+
+system and cause drag on the engine.
+
+5 Brakes dragging. Usually caused by debris which has
+
+entered the
+
+brake piston seals, or from a warped disc or bent axle.
+
+Repair
+
+as
+
+necessary.
+
+Overheating
+49. Engine overheats
+
+completely and compression pressure is leaking past the valve. Check
+
+‘and adjust the valve clearances (Chapter 1).
+4 Cylinder andlor piston worn, Excessive wear will cause compression
+
+pressure to leak past the rings. This is usually
+
+1
+
+2
+
+Codlant level low. Check and add coolant (Chapter 1),
+
+Leak in cooling system. Check cooling system hoses and radiator
+
+0-22
+
+Troubleshooting
+
+for leaks and other damage.
+Repair
+or
+replace parts as necessary
+
+(Chapter 3).
+
+24
+
+3
+Thermostat sticking open or closed. Check and replace as
+described in Chapter 3.
+4
+Faulty radiator cap. Remove the cap and have it checked
+at
+
+{Engine all evel too how
+
+‘service station.
+
+proves e defile cooing hunch in ie engine. Check theo
+
+5
+
+Codiant passages clogged. Have the entire system drained and
+
+‘section and change to the correct ail (Chapter 1).
+
+25 Miscellaneous causes
+
+Firing incorrect
+
+Modification
+
+1 _ Spark plugs fouled, defective or worn out. See Chapter 1 for
+
+When
+
+Incorrect spark plugs.
+
+ogee
+
+system.
+
+exhaust system,
+
+Most
+
+aftermarket
+always
+
+exhaust
+
+rejet the
+
+26 Clutch slipping
+1._
+
+Piston in master cylinder or slave cylinder sticking (Chapter 2),
+
+2 Friction
+
+Air cleaner
+clogged, poorly sealed or missing (Chapter 1),
+4 ne donner housing poorly sealed. Look for cracks, holes or loose
+5
+
+exhaust
+
+accessory
+
+Clutch problems
+
+water and other contaminants can clog the
+
+‘main jets. Clean the fuel tap fer, the float bow! area and the jets and
+carburetor orifices (Chapter 4).
+2 Main jet wrong size. The standard jetting is for sea level atmospheric
+
+‘lamps and replace
+
+installing
+
+carburetors.
+
+FueVair mixture incorrect
+
+1 Main jet clogged. Dirt,
+
+to
+
+an
+
+‘systems cause the engine to run leaner, which make them run hotter.
+
+3 Faulty ignition. cal) (Chapter 5)
+
+gop mi
+
+oll
+
+evel
+
+‘not rated high enough for use in this engine. Check the Specifications
+
+speek pigmantenance
+
+21.
+
+‘can cause
+
+(Chapter 1).
+
+2 Poor quality engine of or incorrect viscosity or type. Oil is rated not
+‘only according to viscosity but also according to type. Some oils are
+
++ pump defective. Remove the pump and check the
+
+components (Chapter 3).
+7
+Clogged radiator fins. Clean them by blowing compressed air
+through the fins from the backside.
+
+20
+
+Fin couved by irkomint ack: of
+
+(from ail that is:
+
+flushed, then refil with fresh coolant.
+6
+
+Lubrication inadequate
+
+or repair.
+
+Fuel level too low. Check float height(s) (Chapter 4).
+
+6 Fuel tank air vent obstructed (nct later Califomia models).
+
+Make sure
+
+that the air vent passage in the filer cap is open,
+7 Carburetor intake
+manifolds loose. Check for cracks, breaks, tears
+or
+loose clamps or bolts. Repair
+or replace
+the rubbers (Chapter 4).
+
+plates wom
+
+or warped.
+
+Overhaul the clutch assembly
+
+(Chopter 2).
+
+3°
+
+Steel plates worn or warped (Chapter 2).
+
+4 Clutch spring(s) broken or weak. Old or heat-damaged (from slipping
+Clutch) springs
+should
+be
+replaced with new ones (Chapter 2)
+5
+
+Clutch
+
+center or housing unevenly wom.
+
+engagement
+
+of the plates.
+
+This causes improper
+
+Replace the damaged or wom
+
+parts
+
+(Chapter 2)
+27 Clutch not disengaging completely
+
+22 Compression too high
+
+1 Air bubbles or lack or fluid in hydraulic system.
+
+Check fluid level
+
+(Chapter 1) and bleed system (Chapter 7)
+1 Carbon build-up in combustion chamber. Use of a fuel additive that
+wil dissolve the adhesive bonding the carbon particles to the piston
+crown and chamber
+
+Otherwise,
+
+the
+
+is the easiest way to remove the build-up.
+
+cylinder
+
+head
+
+will
+
+have
+
+to
+
+be
+
+removed
+
+and
+
+decarbonized (Chapter 2),
+2 Improperly machined head surface or installation of incomect gasket
+during engine assembly,
+
+2 Clutch plates warped or damaged.
+
+in turn will cause the machine to creep, Overhaul the clutch assembly
+
+(Chapter 2)
+3 Clutch spring tension uneven. Usually caused by a sagged or broken
+
+‘spring. Check and replace the spring (Chapter 2)
+
+4 Engine oll deteriorated. Old, thin, worn out oil will not provide proper
+lubrication for the discs, causing the clutch to drag, Replace the ail and
+
+fiter (Chapter 1).
+
+5 Engine ail viscosity too high.
+
+23
+
+Engine load excessive
+
+1 Clutch slipping. Can be caused by damaged, loose or wom clutch
+‘components. Refer to
+Chapter
+2
+for overhaul procedures.
+2 Engine oil level too high. The addition of too much olf will cause
+pressurization of the crankcase and inefficient engine operation.Check
+
+‘Specifications and drain to proper level (Chapter 1).
+
+3 Engine oil viscosity too high. Using a heavier oil than the one
+recommended in Chapter 1 can damage the oil pump oF lubrication
+
+This will cause clutch drag, which
+
+Using # heavier ail than recommended
+
+in Chapter 1 can cause the plates to stick together, putting a drag on
+
+the engine, Change to the correct weight oil (Chapter 1),
+6 Clutch housing seized on shaft.
+
+Lack of lubrication,
+
+severe wear or
+
+‘damage can cause the housing to seize on the shaft.
+
+Overhaul of the
+
+clutch,
+
+and perhaps transmission,
+
+may be necessary to repair the
+
+(Chapter 2).
+
+7 Clutch release mechanism defective, Bent or damaged pushrod can
+stick and fail to apply force to the pressure plate.
+Overhaul the clutch
+‘cover components (Chapter 2).
+
+well as cause drag on the engine.
+‘system as
+
+8 Loose clutch center nut. Causes housing and center misalignment
+
+brake piston seals, from a warped disc or bent axle (disc brake), or
+
+‘varies. Overhaul the clutch assembly (Chapter 2),
+
+4 Brakes dragging. Usually caused by debris which has entered the
+sticking operating cam (drum brake). Repair as necessary.
+
+putting @ drag on the engine. Engagement adjustment continually
+9
+
+Hydraulic
+system leaking. Check all hoses and connections.
+
+10
+
+Piston in master cylinder or slave cylinder sticking (Chapter 2).
+
+Troubleshooting
+
+28 Doesn't
+go into gear or lever doesn't return
+1 _ Clutch not disengaging. See Section 27.
+2 Shif fork(s) bent or seized. Often caused by dropping the machine
+(from lack of lubrication. Overhaul the transmission (Chapter 2).
+3 Gears) stuck on shat. Most often caused
+by a lack of lubrication or
+excessive wear in transmission bearings and bushings. Overhaul the
+transmission (Chapter 2),
+
+4 Shift rum binding. Caused by
+
+failure or
+
+wear.
+
+Replace the drum and bearing (Chapter 2).
+5 _ Shiftlinkage retum spring weak or broken (Chapter 2).
+
+6 Shift lever broken. Splines stripped out of lever or shaft, caused by
+allowing the lever to get loose or from dropping the machine. Replace
+necessary parts (Chapter 2).
+7 Shift mechanism stopper arm broken or worn. Full engagement and
+‘otary movement of shift drum results. Replace the arm (Chapter 2)
+8 Paw! spring broken. Allows arm to ‘oat, causing sporadic shit
+‘operation. Replace springs (Chapter 2)
+
+29 Jumps
+out
+of
+gear
+1
+Shit fork(s) worn.
+Overhaul
+the
+transmission (Chapter
+2).
+2 _ Gear groove(s) worn. Overhaul the transmission (Chapter 2).
+3 Gear dogs or dog slots won or damaged. The gears should be
+inspected and replaced. No attempt should be made to service the
+wom parts.
+
+4.
+5
+
+0-23
+
+‘assembly. Inspect and overhaul top end parts (Chapter 2).
+2 Connecting rod bent. Caused by over-revving. trying to start a badly
+flooded engine or from ingesting a foreign object into the combustion
+chamber. Replace the damaged parts (Chapter 2).
+3 Piston pin or piston pin bore worn or seized from wear or lack of
+
+Gear shifting problems
+
+Shift drum stopper arm broken, Check and replace (Chapter
+2).
+Shift drum shaft bent. Check and replace (Chapter 2),
+
+30 Overshitts
+
+lubrication. Replace damaged parts (Chapter 2).
+
+4 Piston ring(s) worn,
+(Chapter 2).
+5
+
+Piston
+
+seizure
+
+awl springs weak or broken (Chapter 2),
+Shift drum stopper arm broken (Chapter 2),
+
+Abnormal engine noise
+31
+
+Knocking or pinging
+
+Usually
+
+from
+
+Overhaul the top end
+lack
+
+of
+
+lubrication
+
+or
+
+‘overheating. Replace the pistons and bore the cylinders,
+
+as necessary
+
+(Chepter 2)
+6 Cc
+
+Caused
+by
+
+rod upper or lower end
+
+excessive wear or lack of lubrication. Replace wom parts.
+
+33
+
+Valve noise
+
+1 Incorrect valve clearances. Adjust the clearances by referring to
+Chapter 1
+
+2 Valve spring broken or weak. Check and replace weak valve springs
+
+(Chapter 2)
+
+3 Camshaft or cylinder head wor or damaged. Lack of lubrication at
+high rpm is usually the cause of damage. Insufficient oil or failure to
+change the oll at the recommended intervals are the chief causes.
+‘Since there are no replaceable bearings in the head, the
+have to be replaced if there is excessive wear or damage
+
+34
+
+head itself will
+(Chapter 2),
+
+Other noise
+
+1 _ Cylinder head gasket leaking.
+2 Exhaust pipe leaking at cylinder head connection. Caused by
+improper fit of pipe(s) oF loose exhaust flange. All exhaust fasteners
+should be tightened evenly and carefully. Failure to do this will lead to
+a leak
+
+1
+2.
+
+broken or sticking.
+
+damage.
+
+30
+
+runout
+
+Caused by a bent
+
+over-rewing) or damage from an upper cylinder component
+
+Can also be attributed to dropping the machine on either of the
+crankshatt ends.
+4 Engine mounting bolts loose. Tighten all engine mount bolts (Chapter
+2 ).
+
+5 _
+Crankshaft
+bearings
+worn (Chapter 2).
+6 Camshaft chain tensioner defective. Replace according to the
+
+procedure in Chapter 2
+
+7__Camshatt chain,
+sprockets
+or
+guides wom (Chapter
+2)
+1 Carbon build-up in combustion chamber. Use of a fuel additive that
+will dissolve the adhesive bonding the carbon particles to the piston
+
+‘crown and chamber is the easiest way to remove the build-up.
+‘Otherwise, the cylinder head will have to be removed and decarbonized
+
+(Chapter 2).
+
+2
+Incorrect
+or
+poor quality fuel. Old or
+improper
+fuel
+can cause
+detonation. This causes the pistons to rattle, thus the knocking or
+
+Abnormal driveline
+noise 35 Clutch noise
+
+1
+
+Clutch
+
+plate
+
+(Chapter 2)
+
+pinging sound. Drain the old fuel and always use the
+‘grade fuel (Chapter 4).
+
+2
+
+Loose or damaged clutch pressure plate and/or bolts (Chapter 2).
+
+plug, raising cylinder temperatures. Install the proper heat range plug
+
+36.
+
+Transmission noise
+
+3 Spark plug heat range incorrect. Uncontrolled detonation indicates
+that the plug heat range is too hot. The plug in effect becomes a glow
+
+(Chapter 1).
+
+4 Improper airfuel mixture. This will cause the cylinders to run hot and
+rad to detonation. Clogged jets or an air leak can cause this
+4
+alance. See Chapter
+
+32. Piston slap or rattling
+1
+
+Oylinder-to-piston clearance excessive.
+Caused
+by
+improper
+
+1 Bearings wom. Also includes the possblty that the shafts are worn,
+‘Overhaul the transmission (Chapter 2).
+
+2
+Gears wom of chipped (Chapter 2).
+3 Metal chips jammed in gear teeth. Probably pieces from a broken
+Clutch, gear or shit mechanism that were picked up by the gears. This
+will cause earty bearing failure (Chapter 2).
+4 Engine oil level too low. Causes @ how! from transmission. Also
+affects engine power and clutch operation (Chapter 1).
+
+Troubleshooting
+
+0-24
+37
+
+2 Engine oil level low. Inspect for leak or other problem causing low oi
+
+Final drive noise
+
+level and add recommended ail (Chapters 1 and 2).
+
+3 Engine ail viscosity
+too low. Very old, thin oil or an improper
+weight of
+
+1
+illevel too low (Chapter 1).
+2 __ Excessive backlast between pinion and ring gear (Chapter 6).
+3 Scored driven flange or wheel hub. Inspect the components (Chapter
+
+6).
+4 Worn or damaged internal components in the driveshaft
+or final drive
+unit. Have a Honda dealer overhaul the assembly.
+
+‘caused by ail starvation at high rpm from low oil level or improper
+
+6
+
+Front
+end
+noise
+
+Same problems as paragraph 4.
+
+Clogger
+ail strainer. Clean in (Chapter 2)
+
+42 Electrical system
+
+1 Low fluid level or improper viscosity ol in forks. This can sound like
+spurting and is usually accompanied by iregular fork action (Chapter
+
+8).
+
+2 Spring weak x broken, Makes a ccking o scraping scund. Fok ol,
+‘when drained, willhave a lot of metal patices in it (Chapter 6).
+sleotng need bewngs loose er camoged.
+
+Chcts when braking.
+
+Check and adjust or replace as necessary (Chapters 1 and 6).
+4 Fork triple clamps loose.
+
+1
+
+_Ollpressure switch defective. Check the switch according tothe
+
+procedure in Chapter 8. Replace itif
+2
+
+itis defective,
+
+Oil pressure indicator light circuit defective. Check for pinched,
+
+shorted, disconnected or damaged wiring (Chapter 8)
+
+Excessive exhaust smoke 43
+
+Make sure all fork clamp pinch bolts are
+
+tight (Chapter 6)
+5 Fork tube bent. Good possibilty if machine has been dropped
+Replace
+tube with a new one (Chapter 6).
+6 Front axle or axle
+
+pressure. Replace cam and/or/cylinder head. Abnormal wear could be
+weight of type of ail (Chapter 1).
+‘5 Crankshaft and/or bearings worn.
+
+‘Check and replace crankshaft and/or bearings (Chapter 2).
+
+Abnormal frame and suspension noise 38
+
+3
+
+cil used in the engine. Change to correct oil (Chapter 1)
+4 Camshaft or joumals wom. Excessive wear causing drop in oll
+
+clamp bollnut loose. Tighten them to the specified
+
+White smoke
+1 Piston oil ring wor. The ring may be broken or damaged, causing oil
+
+from the crankcase
+
+torque (Chapter 6).
+
+to be pulled past the piston into the combustion
+
+chamber. Replace
+the rings with new ones
+2 Cylinders wom, cracked, or scored.
+
+39. Shock absorber noise
+
+Starvation.
+
+(Chapter 2)
+
+Caused by overheating or ail
+
+The cylinders will have to be rebored and new pistons
+
+installed
+1
+
+Fluid level incorrect.
+
+Indicates a leak caused by defective seal
+
+‘Shock will be covered with oil. Replace
+shock (Chapter 6),
+2 Defective shock absorber with intemal damage. This is in the body
+of
+the shock and can't be remedied. The shock must be replaced with @
+new one (Chapter 6),
+3 Bent or damaged shock body. Replace the shock with a new one
+
+(Chapter 6),
+4 Loose shork or shock linkage fasteners on Sabre models (Chapter
+
+6)
+
+40 Disc brake noise
+1
+
+Brake
+
+disc-to-caliper
+
+3 Valve of seal damaged or worn,
+
+(Chapter 2),
+4
+
+Valve guide worn.
+
+Replace oll seals with new ones
+
+Perform a complete valve job (Chapter 2)
+
+5 Engine al level too high, which causes the oil to be forced past the
+fings. Drain ail to the proper level (Chapter 1).
+‘6 Head gasket broken between ail return and cylinder. Causes oil to be
+pulled into the combustion chamber. Replace
+
+the head gasket and
+
+‘check the head for warpage (Chapter
+2),
+
+7 Abnormal crankcase pressurization, which forces oil past the rings
+Clogged breather/separator or hoses usually the cause (Chapter 4).
+
+44 Black smoke
+bracket
+
+clearance incorrect (front
+
+brake)
+
+(Chapter 7)
+2 Squeal caused by dust on brake pads. Usually found in combination
+‘with glazed pads. Clean using brake cleaning solvent (Chapter 7).
+3.Contamination of brake pads. Oil, brake fluid or dirt causing brake to
+chatter or squeal. Clean or replace pads (Chapter 7).
+
+i Sa paces Cael by eseesetes hea Foprac i or ar
+Do not use
+. emery
+ch
+Gr ony ober abrasive fo roughen the pad suraose as dashes oll
+stay in the pad material and damage the disc. A very fine flat fle can
+
+1
+2
+
+Air cleaner clogged. Clean or replace the element (Chapter 1),
+Main jet too large or loose. Compare the jet size to the Specifl-
+
+‘cations (Chapter 4),
+
+3.
+
+Choke stuck,
+
+causing fuel to be pulled through choke circult
+
+(Chapter 4)
+4
+
+Fuel level too high. Check and adjust the float height(s) as
+
+necessary (Chapter 4)
+5
+
+Inlet needee held off needle seat. Clean
+the float bowls and fuel
+
+line and replace the needles and seats if necessary (Chapter 4),
+
+be used, but pad replacement is suggested as
+a cure (Chapter 7)
+
+5 Disc warped. Can cause a chattering, clicking or intermittent squeal,
+Usually accompanied by a pulsating lever and uneven braking
+Replace the disc (Chapter 7).
+6 Loose or worn wheel bearings. Check and replace as needed
+
+(Chepter 7).
+
+45
+
+Brown smoke
+
+1 Main jet too small or clogged. Lean condition caused by wrong size
+main jet or by a
+
+restricted orice.
+
+Clean float bow! and jets and
+
+compare jet size to Specifications (Chapter 4).
+
+Oil pressure indicator light comes on 41
+
+Engine lubrication system
+
+2 Fuel flow insufficient.
+
+‘chemical reaction with old fuel. Float height incorrect, Restricted fuel
+
+line. Clean line and float bow! and adjust floats if necessary.
+3.
+4
+
+1
+
+Engine oil pump defective (Chapter 2).
+
+Fuel inlet needle valve stuck closed due to
+
+Carburetor intake manifolds loose (Chapter
+4)
+Aircleaner
+poorly
+sealed or not installed (Chapter 1)
+
+Troubleshooting
+2
+
+or stability
+Poor handling
+
+0-25
+
+Too soft
+
+2) Fork or shock oil insufficient aetAr leaking (Chapter 6).
+) Farkol level to low (Chapter
+6).
+©) Fark ol viscosity too ight (Chapter 6).
+9) Fark springs weak or broken (Chapter 6).
+©) Shock internal damage or leakage (Chapter 6,
+
+hard to turn
+46 Handlebar
+1
+Steering stem nut too tight (Chapter 6).
+2 Bearings damaged. Roughness can be felt as the bars are tured
+{rom side-to-side. Replace bearings and races (Chapter 6),
+
+3 Races dented or worn.
+
+Denting resus from wear in only one
+
+position (e.9., straight-ahead), from a colision or hitting a pothole or
+
+from dropping the machine. Replace races and bearings (Chapter 6).
+4 Steering stem lubrication inadequate. Causes are grease getting
+hard from age or being washed out by high pressure car washes,
+Disassemble steering head and repack bearings (Chapter 6)
+5 Steering stem bent. Caused by a callision, hitting @ pothole or by
+‘ropping the machine. Replace damaged part. Don’ try to straighten
+the steering stem (Chapter 6)
+6
+Front tire air pressure too low (Chapter 1).
+
+47 Handlebar shakes or vibrates excessively
+1 _ Tires worn or out of balance (Chapter 7).
+2 Swingarm bearings worn. Replace wom bearings by referring to
+Chapter 6.
+3.
+Rim(s) warped or damaged. Inspect wheels
+for runout (Chapter
+7)
+
+4 Wheel bearings worn. Worn front or rear wheel bearings can cause
+poor tracking. Worn front bearings will cause wobble (Chapter 7),
+5 _ Handlebar clamp botts loose (Chapter 6).
+6 Steering stem or fork triple clamps loose. Tighten them to the
+specified torque (Chapter 6).
+7 Engine mounting bolts loose.
+
+Increased engine rpm (Chapter 2),
+8
+Loose axle (Chapter 7),
+
+Will cause excessive vibration with
+
+Braking problems
+50
+
+Disc
+brakes
+are
+spongy, don't hold
+
+1 Air in brake line. Caused by inattention to master cylinder fluid level
+‘or by leakage. Locate problem and bleed brakes (Chapter 7)
+2
+Pad or disc wom (Chapters 1 and 7),
+3
+Brake fluid leak. See paragraph 1
+4 Contaminated pads.
+Caused
+by
+contamination with oil, grease, brake
+
+fluid, etc. Clean or replace pads. Clean disc thoroughly with brake
+cleaner (Chapter 7)
+5 Brake fluid deteriorated. Fluid is old or contaminated. Drain system,
+replenish with new fluid and bleed the system (Chapter 7)
+6 Master cylinder internal parts worn or damaged causing fluid to
+
+‘bypass (Chapter 7).
+
+7 Master cylinder bore scratched by foreign material or broken spring,
+
+Repair or replace master cylinder (Chapter 7),
+8 Disc warped.
+Replace
+disc
+(Chapter 7).
+
+51
+
+Brake lever or pedal pulsates
+
+Disc warped or drum out-ot-round (Chapter 7)
+‘Axle bent. Replace axle (Chapter 7).
+Brake caliper or bracket bolts loose (Chapter 7).
+4 Brake caliper sticking on its mounting bolt shafts, causing caliper to
+bind. Lube the shatts or replace them if they
+are corroded or bent
+
+(Chapter 7)
+
+48 Handlebar pulls to one side
+
+5
+Wheel warped or otherwise damaged (Chapter 7).
+6 — Wheel bearings damaged or worn (Chapter 7).
+
+4 Frame bent, Definitely suspect this ifthe machine has been dropped.
+‘May or may not be accompanied by cracking near the bend. Replace
+
+52 Brakes drag
+
+the frame (Chapter 6),
+
+2 Wheel out of alignment. Caused by improper location of axle spacers
+‘or from bent steering stem or frame (Chapter 6).
+3 Swingarm bent or twisted.
+
+Caused by age (metal fatigue) or impact
+
+‘damage. Replace the arm (Chapter 6).
+4 Steering stem bent. Caused by impact damage or by cropping the
+matorcycle. Replace the steering stem (Chapter 6)
+5 Fork leg bent. Disassemble the forks and replace the damaged parts
+
+(Chapter 6).
+
+6 Fork ol level uneven. Check and add or drain as necessary (Chapter
+
+8)
+7
+
+Defective shock absorber on one side (Magna models),
+
+1 Master cylinder piston seized. Caused by wear or damage to piston
+‘cylinder bore (Chapter 7).
+2 __ Lever balky
+or stuck. Check pivot and lubricate (Chapter 7).
+3 Brake caliper binds. Caused by inadequate lubrication or damage to
+Caliper sliders (Chapter 7).
+
+4 Brake caliper pistons seized in bore. Caused by wear or ingestion of
+it past deteriorated seal (Chapter 7).
+5 Brake pad damaged. Pad material separated from backing plate.
+Usually caused by faulty manufacturing process or from contact with
+chemicals. Replace pads (Chapter 7).
+& __ Pads improperty installed (Chapter
+7).
+7 Drum brake operating cam sticking or broken/sagged shoe retumn
+
+49_ Poor shock
+1
+
+qualities
+
+strings (Chapter 7)
+
+8 Rearbrake pedal freeplay insuficient
+
+Toohard:
+2) Fork ol evel excessive
+(Chapter 6.
+
+too.
+b) Fork oil viscosity
+©) Fork tube bent. Causes @ harsh, sticking feeling (Chapter 6).
+
+) Anti<ive passages clogged (Chapter 6)
+
+Electrical problems
+53
+
+or weak
+dead
+Battery
+1 Battery faulty. Caused by sulfated plates which are shorted through
+
+1) Tre
+pressure
+too
+high (Chapter 1).
+
+sedimentation or low electrolyte level.
+
+Also, broken battery terminal
+
+‘making only occasional contact (Chapter 8).
+2
+
+Battery cables making poor contact (Chapter
+8).
+
+0-26
+
+Troubleshooting
+
+3 Load excessive. Caused by addition of high wattage lights or other
+
+electrical accessories.
+
+54 Battery overcharged
+
+4 Ignition main (key) switch defective. Switch either grounds (earths)
+intemally or fails to shut off system. Replace the switch (Chapter 8).
+5
+Regulatorirectitier defective (Chapter 8).
+
+1 Regulatoritectifier defective. Overcharging is noticed when battery
+gets excessively
+warm or boils over (Chapter 8).
+
+6
+
+_Attemator stator coil open or shorted (Chapter 8).
+
+7 Wiring fauity. Wiring grounded (earthed) or connections loose in
+‘ignition, charging or lighting circuits (Chapter 8).
+
+2
+
+Battery defective. Replace battery with a new one (Chapter
+8).
+3 Battery amperage too low, wrong type or size. Install manufacturer's
+
+‘specified amp-hour battery
+to handle charging load (Chapter 8).
+
+

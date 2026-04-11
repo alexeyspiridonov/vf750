@@ -1,0 +1,4114 @@
+441
+
+Chapter 4
+
+Fuel and exhaust systems
+
+Note: Unless
+
+in this Chapter,
+
+‘or the 1982 750 Satre apples to the UK VFT5OS-C, and that for the 1987 and
+
+1988 700/750 Magnas applies to the UK VF750C-H and C-J respectively.
+
+Contents
+
+components check.
+
+‘Section
+
+eyChapter
+Sas 1petete eer
+
+me
+
+Air filter housing- removal and Installation,
+14
+Carburetor overhau- general formation
+
+general information.
+7
+
+ete
+
+Chapter1
+
+wyandl
+Carburetors .isassemby,
+clearing
+and inepecton
+
+ee
+19
+
+‘Carburetors - reassembly and float height check.
+9
+Carburetors - removal and installation.
+7
+
+Carburetors - separation and joining
+10
+Carburetors - synchronization.
+Chapter 1
+
+Choke cable - removal, installation and treeplay check.
+12
+Crankcase breather - general information and
+system
+
+16
+
+Evaporative
+vd emission control system (1984-0n Califomia
+
+See
+
+aes:
+aes aie Gar Sail
+
+5
+
+Fuel pump
+- check, removal and installation...
+13
+
+Fuel pump
+relay
+check and reptacement.
+
+See
+
+Chapter 8
+Fuel sender
+- removal and installation
+5
+
+Fuel sender test.
+
+ee
+
+Chapter 8
+
+Fuel system -fiter cleaning or replacement.
+
+‘See
+See
+
+Chapter 1
+Fuel tank - cleaning and repair...
+Fuel tank - removal and installation...
+2
+
+Fuel valve- removal and installation.
+General information and precautions.
+1
+Idle fueVair mixture adjustment- general information . .
+5
+
+Idle speed - check and adjustment.
+
+See
+
+‘Chapter 1
+
+‘Secondary air supply system (1986-on 700/750
+California models)- general information.
+18
+
+‘Throttle cables - removal and installation.
+ca
+
+‘Throttle operationytreeplay - check and adjustment...
+Chapter 1
+
+See
+
+42
+
+Chapter
+4 Fuel and exhaust systems.
+
+‘Specifications
+Fuel grade.
+
+Unleaded or leaded (according to local regulations),
+
+‘minimum $1 octane (research method)
+
+Fuel tank capacity
+1982 through 1985 700/750 Sabre models
+
+Toa
+Rese
+
+18Iit (4.8 US gal, 4.0 Imp gal)
+4:18
+(1.1 US gal, 09 imp gal)
+
+1982 tough 1964 700/780 Magna models
+Total (including auxiliary tank).
+
+Reserve.
+
+1985 and 1986 700 Magna models.
+Total...
+°
+RESEVE soe
+n es
+1987 and 1988 700/750 Magna models
+
+14 Ik (3.7 US gal, 3.1 Imp gal)
+
+418 (1.1 US gal, 0.9 Imp gal)
+1.5 it (3.6 US gal, 3.0 imp gal)
+
+3.5 lit (0.9 US gal, 0.8 Imp gal)
+13 lit (3.4 US gal, 2.9 Imp gal)
+
+Total
+
+2.8 lit (0.7 US gal, 0.6 Imp gal)
+
+Reserve
+
+1100 Sabre models
+Total
+
+Reserve
+1100 Magna models
+Total (including auxiliary tank).
+
+Reserve ..
+
+22.it (58 US gal, 4.8 Imp gal
+4it(4.4
+US gal, 08 Imp gal)
+
+17 It (4.5 US gal, 3.7 Imp gal)
+
+3 t (0.8 US gal, 0.7 imp gal)
+
+Carburetor jet sizes
+
+‘Main jet
+1982 750 Sabre model.
+
+1983 750 Sabre model
+1964 and 1985 700 Sabre models
+UK VF750S model
+4982 750 Magne model
+
+Front cylinders
+132
+
+135
+12
+132
+128
+
+Rear cylinders
+132
+
+138
+130
+132
+128
+
+1983 750 Magna model.
+1984 through 1986 700 Magna models.
+
+128
+95
+
+132
+98
+
+1987 700 Magna
+
+108
+
+105
+
+1987 700 Magna California model.
+
+model except California.
+
+105
+
+105
+
+1988 750 Magna model.
+
+110
+
+108
+
+UK VF750C-H model,
+UK VF750C-J model.
+
+110
+112
+
+108
+110
+
+1983 1100 Magna models.
+
+140
+
+1100 Sabre models.
+
+120
+
+128
+
+140
+
+41984end
+1985
+1100 Magna models.
+
+118
+
+120
+
+1986 1100 Magna models.
+
+115
+
+118
+
+Pilot jet (slow jet)
+1982 750 Sabre model.
+1983 through 1985 700/750 Sabre models.
+
+38
+40
+
+UK VE750S mode!
+
+Not available
+
+1982, and 1984 through 1986 700/750 Magna models.
+1987 and 1988 700/750 Magna models.
+UK VE750 C-H model.
+
+3
+35
+35
+
+1983 750 Magna model.
+
+40
+
+UK VF750 C-J model.
+
+3B
+
+1100 model
+
+38
+
+Pot sco
+
+— intel etng fs ut)
+
+1982 750 models.
+1983 750 Sabre models...
+1984 and 1985 700 Sabre models
+UK VF750S-C model.
+
+234
+212
+3
+212
+
+41983 through 1986 700/750 Magna models
+
+212
+
+1987 700 Magna models,
+
+UK VE750C-H model
+UK VE750C-J model
+1100 Sabre models.
+1100 Magna
+
+1 718 (2 1/8 Califomia
+
+1983 model
+
+3
+
+1986 models.
+
+212
+
+1984 and 1985 models.
+
+models)
+
+1 44 (2 1/8 California models)
+212
+214
+3.4/8 (2 California modets)
+
+2.3/4 (3 Califomia models)
+
+43
+
+Chapter
+4 Fuel and exhaust systems
+Carburetor adjustments:
+Float height (all models)
+1982 750 Sabre model.
+1983 750 Sabre model
+1984 and 1985 700 Sabre models.
+UK VF750S model...
+
+1982 through 1984 700/750 Magna models.
+1985 700 Magna model...
+1986 700 Magna model.
+1987 and 1988 700/750 Magna models
+
+UK VF750C-H model.
+UK VF750C-J model.
+1983 1100 Magna model...
+
+1984 and 1985 1100 models.
+1986 1100 Magna model.
+Ide speed.
+
+Torque settings
+
+Exhaust system — 1982 through 1986 700/750 and all 1100 models
+‘Muller mounting nuts.
+Front pipe-to-cyinder head nuts
+Exhaust chamber mounting bots.
+
+Rear headpipe-to-exhaust chamber clamp bot.
+Exhaust system — 1987 and 1988 700/750 Magna models
+‘Muller mounting nuts.
+Front pipe-to-cylinder head nuts
+
+Rear headpipe-to-exhaust chamber clamp bolts.
+
+1
+
+General information and precautions
+
+General information
+‘On 700/750 Sabre models fuel is fed to the carburetors in a
+conventional gravity-feed system from the fuel tank. The 1100 Sabre
+model has a pump-fed fuel supply.
+Early 700/750 ond all 1100 Magnas are fitted with en auxiliary fuel
+
+tank under the seat in addition to the main fuel tank, which is of
+felatively small capacity. Fuel is pumped from the auxiliary tank to the
+carburetors, The auxiliary tank was discontinued on the 1985-on
+700/750 Magnas, although the fuel system remained pump-fed through
+1986,
+
+Keinn CV carburetors are fied tol! modes in the range, The
+while the rear
+are
+front two ca
+Sua The carburetors etould hol be nlerchanged fem Got
+original positions. The butterflytype choke valves are cable-operated
+bya
+
+lever on the left side of the handlebars,
+
+Air is draw to the carburetors from a moulded plastic air fiter
+housing containing an oiled foam element on Sabre models and @
+
+pleated paper type element on Magna models.
+
+The exhaust system is a four-into-two design on all models except
+
+the 1987 and 1988 700/750 Magnas, where itis a four-into-four design.
+Many of the fuel system service procedures are considered
+routine maintenance items and for that reason are included in Chapter
+1
+
+Precautions
+
+8:3 mm (0.327
+in)
+in)
+7.0 mm (0.276
+in)
+7.5 mm (0.300
+6.8 mm (0.268
+in)
+7.2 mm (0.283
+in)
+7.0. mm (0.276
+in)
+
+7.5 mm (0.300
+in)
+9.8 mm (0.386
+in)
+7.5 mm (0.300
+in)
+
+8.5 mm (0.335
+in)
+6.0 mm (0.236
+in)
+in)
+7.5 mm (0.300
+8.0 mm (0.315
+in)
+‘See Chapter 1
+
+Nm
+
+ft-ibs
+
+181028
+8t0 14
+8to 12
+
+13020
+6to 10
+6to9
+13020
+
+181028
+
+241030
+
+1710.22
+
+Bto
+12
+181028
+
+6t09
+130.20
+
+Always perform service procedures in a well-ventilated area to
+
+Prevent a build-up of fumes.
+
+Never work in a building containing @ gas appli ce with a pilot
+light, or any other form of naked flame. Ensure
+that the re are no naked
+
+light bulbs or any sources of flame or sparks nearby.
+
+(or allow anyone else to smoke) while in the vicinity
+Donet smoke
+
+of gasoline (petrol) or of components containing it. Remember
+possible presence of vapor from these sources and move well clear
+before smoking.
+
+Check all electrical equipment belonging to the house, garage or
+‘workshop where work is being undertaken (see the Safety frst! section
+of this manual). Remember that certain electrical appliances such as
+
+iil, cutters etc create sparks in the normal course of operation and
+must not be used near gasoline (petrol) or any component containing
+it. Again, remember the possible presence of fumes before using
+electrical
+
+‘Always mop up any spilt fuel and safely dispose of the shop towel
+
+or rag used.
+
+‘Any stored fuel that is drained off during servicing work, must be
+
+kept in sealed containers that are suitable for holding gasoline (petrol)
+
+‘and clearly marked as such; the containers themselves should be kept
+ln a safe place. Note that this last point epplies equally to the fuel tank,
+if it Is removed from the machine; also remember to keep its cap
+‘closed at all times.
+
+‘Note that the fuel system consists of the fuel tank, with its cap
+‘and related vent hoses, the fuel pump and fiers. On US California
+
+models, this includes the Evaporative Emission Control (EVAP)
+‘System components.
+Read the Safety first! section of this manual carefully before
+
+‘Warning: Gasoline (petro/) is extremely flammable, so take extra
+
+starting work.
+
+‘on the fuel system, wear safety glasses and have a fre extinguisher
+
+can be emitted by those machines. All vehicies offered for sale must
+in force at the date of manufacture and must not
+comply with legislation
+‘subsequently be altered in any way which will affect their emission of
+
+‘precautions when you work on any part of the fuel system. Dont smoke or
+allow open flames or bare light bulbs near the work area, and don't work
+in a garage where a natural gas-type appliance (such as a water heater
+is present. if you spill any fuelon your skin, nse off
+dryer)
+clothes
+or
+soap and water. When you perform any kind of work
+with
+immediately
+
+suftable fora class B type fre flammable iquids) on hand.
+
+‘Owners of machines used in the US, particularly California,
+should note that their machines must comply at all times with Federal
+© State legislation governing the permissible levels of noise and of
+
+such as unbumt
+
+noise or of pollutants.
+
+carbon
+
+etc that
+
+44
+
+Chapter4 Fuel and exhaust systems
+
+2.2 Fuel valve connections on 700/70 Sabre models
+
+1
+
+Vent hose
+
+2
+
+Vacuum hose
+
+3
+
+2.3 Disconnect the fuel sender wiring at the connector
+
+Fuethose
+
+1982 through 1984 700/750 Magna models and all 1100
+Magna models
+
+In practice, this means that adjustments may not be made to
+any part of the fuel, ignition or exhaust systems by anyone who Is
+not authorized or mechanically qualified to do so, or who does not
+have the tools, equipment and data necessary to properly carry out
+the
+
+task. Also if any part of
+
+these systems is to be replaced it must
+
+be replaced with only genuine Honda components or by
+components which are approved under the relevant legislation.
+The machine must never be used with any part of these
+systems
+removed, modified or damaged,
+
+Referto ikustration 2.8
+
+& _ Remove the seat (se
+Chapter 6)
+7 Prior to removing the fuel tank, it must be drained. Remove the
+right (700/750 models) or left (1100 model) side
+cover and switch
+the fuel vaive to the OFF position. Have
+
+main fuel tank.
+
+2
+
+Fuel tank -removal and installation
+
+Warning:
+
+a rag ready to catch any
+
+spilt fuel and disconnect the fuel pump supply hose from the vaive
+of tank stub, Attach a
+length of hose of the proper diameter
+to th
+valve and piace the other end of the hose in a clean container.
+such as a multi-gallon gas (petrol) can. Tum the valve to the ON
+Position and drain enough fuel from the auxiliary tank to empty the
+Note:
+
+Raise the tank up on ts support rod as
+
+described below
+to drah as much fuel as possibie. Tur the valve OFF
+and
+reconnect the fuel pump supply hose when draining is
+
+efer
+to the precautions given in Section 1 before starting
+
+wok,
+
+complet
+8 Remove the two front mounting bolts, then hinge the tank up on
+
+its support rod. With a rag handy to absorb any remaining fuel
+disconnect the fuel and breather hoses from the rear underside of
+
+Main fuel tank
+Sabre models
+
+the fuel tank. On 1984-on California models, disconnect the
+evaporative emission control system hose from the tank (see
+
+Referto lustrations 2.2 and 2.3
+
+illustration).
+
+1_
+
+Remove the side covers and seat(see Chapter
+6).
+
+2 Tum the fuel vaive fo the OFF position.
+
+Have
+
+a rag handy to
+
+‘catch any spilled fuel and disconnect the fuel hose from
+the valve
+‘On 700/750 models also disconnect the vacuum and vent hoses
+from the vaive (see iltustration).
+3 On 700/750 models,
+
+remove the fuel tank mounting bolt and
+
+collar located at the rear of the
+
+tank, followed on 1983-on models
+
+by the mounting bolt and collar on each side
+
+at the tank front
+
+mounting. Locate the fuel sender wiring connector and disconnect
+it (see illustration). Lift the rear of the tank and pull it rearwards
+off the motorcycle (on 1982 models this is necessary to disengage
+
+its front_mounting rubbers). On 1984-on California models
+disconnect the evaporative emission control system hose from the
+tank.
+
+4 On 1100 models, remove the two front mounting bolts and the
+single rear mounting bolt, noting their collars. Locate the fuel
+‘sender wiring connector and disconnect it, then lif the tank off the
+
+motorcycle. On California models disconnect
+‘emission control system hose from the tank.
+
+the
+
+evaporative
+
+5 Installation is a reverse of the removal procedure. Ensure that all
+
+mounting rubbers and collars are correctly positioned, and that the
+tank does not trap any cables, wiring or hoses. Check that there
+are no fuel leaks when the fuel valve is turned ON.
+
+9 Disconnect the support rod hinge at the frame or tank end, and
+lower the tank onto the frame. Remove the throughbol, collar and
+nut at
+
+the rear mounting and lif the
+
+main tank off the motorcy
+
+10 Installation is a reverse of the removal procedure. Ensure that
+all mounting rubbers and collars are correctly positioned, and that
+the tank does not trap any cables, wiring or hoses.
+
+Check that
+
+there are no fuel leaks when the fuel valve is turned ON.
+
+1985 through 1988 700/750 Magna models
+11.
+_Remove
+the seat (see
+Chapter
+6).
+12 Switch the fuel valve to OFF and have a rag handy to catch
+any drops of fuel as the hose is disconnected from i.
+13 On 1985 and 1986 700 models, remove the two mounting bolts
+at the front of the tank and the single bolt at the rear, noting their
+collars.
+
+Raise the tank sufficiently to disconnect the sender unit
+
+wiring at the two-pin connector, then lif it off the motorcycle. On
+California models, disconnect the evaporative emission control
+
+system hose from the tank.
+14
+
+On
+
+1987
+
+and
+
+1988
+
+700/750
+
+models
+
+remove the
+
+single
+
+mounting bolt at the front and rear of the tank, noting their collars.
+
+Lif the tank off the motorcycle. On California models, disconnect
+the evaporative emission control system hose from the tank.
+15__
+
+Installation
+is a reverse of the removal procedure. Ensure
+
+that all
+
+Chapter4 Fuel and exhaust systems
+
+45
+
+2.8 Main and auxiliary fuel tanks - 1962 through 1984 700/750 Magnas shown (1100 Magnas sit
+
+‘mounting rubbers and collars are correctly positioned, and that the
+tank does not trap any cables, wiring or hoses. Check that there are
+
+natural gas-type appliance is located, because the pilot ight could
+cause an explosion,
+
+no fuel leaks when the fuel valve is tumed ON.
+
+Auxiliary fuel tank- 1982 through 1984 700/750
+Magna models and all 1100 Magna models
+16 Remove the seat and both side covers (see Chapter 6)
+17_Disconnect
+the battery (negative lead frst) and remove it
+
+48 Fully drain the main and auxiliary fuel tanks, then remove the main
+‘uel tank as described above,
+
+4
+
+Fuel valve -removal and installation
+
+‘Waring: Refer to the precautions given in Section 1 before starting
+work,
+
+700/750 Sabre models
+
+19 Disconnect the fuel level sender wiring from the sender in the tank
+
+Fuel valve
+
+top surface
+
+Referto istration 4.10
+
+20 Remove the regulatorirectifier unit end its wiring tie from the side of
+
+the tank
+on 700/750 models (see Chapter 8)
+21
+Remove the rear wheel (see Chapter 7)
+22 Remove the rear fender sections.
+23 Have a rag ready to catch any drops of fuel and disconnect the
+‘auxiliary fuel tank hose from the fuel pump
+24 Remove the auxiliary fuel tank mounting bot and withdraw the tank:
+reenwards trom the motoroycle
+
+25 The 1100 Magna has a drain bot fitted in the base of the tank
+which provides @ useful means of draining any sludge or dit which has
+settled in the bottom of the tank. Ifit is ever removed, always fit anew
+sealing washer on installation.
+26 Installation is @ reverse of the removal procedure. Ensure that the
+tank mounting bolt rubber grommet and collar are correctly positioned,
+
+and that the tank front edge engages the lower rubber mounting
+Check that the tank does not trap any cables, wiring or hoses and that
+there are no fuel leaks when the fuel vaive is tumed ON,
+
+3.
+
+1 Before the valve can be removed, all fuel must be drained from the
+tank.
+
+2 Switch the fuel valve to the OFF position. Have a rag ready
+to catch
+any spilt fuel and disconnect the fuel, vent and vacuum hoses from the
+diaphragm valve stubs
+3 Attach @ length of hose of the proper diameter to the fuel outlet stub
+
+(larger diameter of the three) and place the other end of the hose in @
+
+clean container, such as @ muti-galion gas (petrol) can. Tum the valve
+to the RES position end drain all fuel. Tum the valve OFF when
+draining is complete and disconnect the drain hose.
+4
+Remove the fuel tank (see Section 2)
+5 Unscrew the fuel valve's gland nut and remove the valve and internal
+gauze fiter from the tank Recover the O-ning
+
+6 Taking suitable precautions against fire, rinse the fiter gauze in fresh
+fuel to clean it
+
+7 Installation is @ reverse of the removal procedure, noting that 2 new
+‘O-ring should be Sted at the valve-to-tank joint.
+
+Diaphragm unit
+
+Fuel tank - cleaning and repair
+
+8 The diaphragm valve housing forms part of the fuel valve body. The
+diaphragm
+
+1 All repairs to the fuel tank should be camed out by a professional
+who has experience in this critical and potentially dangerous work
+
+can
+
+be
+
+inspected
+
+by removing the
+
+four screws
+
+end
+
+withdrawing the cover. if operating correctly i should only ellow fuel to
+flow when the engine is running
+
+‘can remain and ignite during repair of the tank.
+
+9 To check its operation, disconnect the vacuum hose from the no. 1
+cylinder intake manifold and the fuel outlet pipe (to the carburetors)
+from the lower stub on the valve. Install a substitute length of hose on
+the outlet stub union and place its other end in a jer
+
+Coming out of the tank. Be especially careful inside garages where a
+
+10.
+
+Even after cleaning and flushing of the fuel system,
+
+explosive fumes
+
+2 If the fuel tank is removed from the motorcycle, it should not be
+placed in an area where sparks or open flames could ignite the fumes
+
+With the fuel valve in the ON positon there should be no fuel flow
+
+46
+
+Chapter4 Fuel and exhaust systems
+
+4:10 Checking the fet valve diaphragm unt on 70780 Sabres
+
+Fuel valve
+
+hose to simulat
+fuel
+
+aive can be removed, al fuel must be drained from the
+
+should flow fromt
+
+and stop
+
+Sorrectiy
+
+1987
+and
+1988 700/750 Magnas
+
+1987 and 1988 700/750 Magna models
+
+through the
+be
+
+thumb
+-
+
+4.33 Fuel valve diaphragm unt location on air chamber -
+
+when
+
+the
+
+e
+
+1 IF fuel
+
+v:
+is not flowing from the
+
+sure that
+
+the vacuum line is not
+
+meter to
+
+If the
+
+valve
+
+fails to
+
+s
+
+to
+
+de
+
+check with your dealer if the diaph
+
+although
+
+the valve and
+
+tains
+
+from the tank and make sure that the
+
+2
+
+a rag ready to
+
+from the valve stub
+
+asa mult
+
+the RES position and drain
+complete and disconnect
+
+can be purchased separately.
+
+1982 through 1984 700/750 Magna models
+can be removed
+
+13 Before the valve
+main and atwdliary
+
+44 Remove
+
+position.
+
+| must
+be drained from the
+
+tart
+
+the right
+
+Have a rag re:
+
+fuel outlet
+
+hose
+
+of
+
+the
+
+d at the
+
+ff
+
+removal
+
+ent parts are avai
+must
+be
+replaced
+18
+
+procedk
+
+valve-to-tank jot
+
+from the no, 2
+carburetore]
+
+as
+
+Anirvline fuel fiters fittedt
+
+1985 and 1986700 Magna models
+
+10 fuel flow
+er
+
+19 Before the valve can be removed,
+
+vacuum,
+
+tank.
+
+m the ote stub if the v
+
+20 Switch the fuel valve to the OFFp
+
+uum is releasec
+
+any spit fuel and dis
+
+hos
+21 Attach a length of
+place the other end of the
+
+end of the
+
+then quickly cover the end
+
+lve with vacuum applied,
+@is not clogged,
+
+hose
+
+frst make
+
+then remove the fuel valve
+
+gallon gas (petr
+uel,
+
+Tum the valve
+
+drain hose
+
+22
+
+fuel tank (see
+theve
+Rema
+
+23 Unscrew
+
+at
+
+nineline
+
+the fuel
+
+from t
+valve
+the
+
+vaive's
+
+the valve-to-tank
+
+joint
+
+fuel fiter is fited t
+
+rage
+
+Chapter
+4 Fuel and exhaust systems
+
+47
+
+‘equipped with an exhaust gas analyzer. They will be able to property
+
+adjust the idie fuel/air mixture to achieve a smooth idle and restore low
+speed perfomance
+4 If the motorcycle is operated continuously at high altitudes (above
+
+2000 meters, 6,500 feet) alteration of the pilot screw setting will be
+required - refer to @ Honda dealer for details.
+
+6
+
+Carburetor
+overhaul
+- general information
+
+1 Poor engine performance, hesitation, hard starting,
+
+stalling,
+
+flooding
+
+‘and backfinng are all signs that major carburetor maintenance may be
+required.
+
+2 Keep in mind that many so-called carburetor problems are really not
+Carburetor problems at all, but mechanical problems within the engine
+OF ignition system malfunctions.
+
+Try to establish for certain that the
+
+carburetors are in need of maintenance before beginning
+
+a major
+
+overhaul
+
+3 Check the fuel filter, the fuel lines,
+5.1 Metal limiter caps (arrow)
+
+Califomia
+
+seal the pilot screws in
+
+hoses,
+
+certain markets
+
+models),
+
+the’ intake
+
+the air fiter element,
+
+the tank cap vent (except
+
+manifold hose
+
+clamps,
+
+the
+
+vacuum
+
+the cyinder compression, the spark plugs
+
+‘and carburetor synchronization before assuming
+
+that
+
+a
+
+carburetor
+
+overhaul is required,
+
+4 Most carburetor problems are caused by ditt particles,
+
+the rear of the tank Recover the valve gasket
+41
+
+Installation
+
+is @
+
+reverse of
+
+removal,
+
+noting that a
+
+new gasket
+
+should be fitted at the valve-to-tank
+joint
+42.
+
+Animline fuel fiteris ftted to this model (see Chapter 1),
+
+1100 Magna models
+
+vamish and
+
+other deposits which build up in and block the fuel and air passages
+Also, in time, gaskets and O-rings shrink or deteriorate and cause fuel
+and air leaks which lead to poor performance
+5 When the carburetor is
+
+overhauled,
+
+completely and the parts
+
+are cleaned thoroughly with
+
+it is generally disassembled
+a carburetor
+
+43 Before the valve can be removed, all fuel must be drained from the
+
+leaning solvent and dried with fitered, uniubricated compressed air
+The fuel and air passages are also blown through with compressed air
+
+tank
+
+to force out any dit that may have been loosened but not removed by
+
+‘44 Remove the left side cover and switch the fuel valve to the OFF
+
+the solvent.
+
+position
+
+Once the cleaning process is complete,
+
+45 Have a rag ready to catch any spit fuel and disconnect the fuel
+
+reassembled using new gaskets and O-rings
+8 Before disassembling the carburetors, make
+
+outlet hose from its tank
+
+carburetor rebuild Kit (which will
+
+stub.
+
+Altach a length hose of the proper
+
+diameter to the stub and place the other end of the hose in a dean,
+
+Container, such as a mutti-gallon gas (petrol) can, Turn the valve to the
+RES position and drain all tue! rom the auxiliary tank.
+OFF
+
+and
+
+reconnect
+
+the
+
+outlet
+
+hose
+
+when
+
+Tum the valve
+
+draining is
+
+complete
+
+the carburetor 1s
+
+sure
+
+you
+
+have
+
+@
+
+include all necessary O-rings and
+
+other parts), some carburetor cleaner, a supply
+of rags, some means
+of
+
+blowing out the carburetor passages and @ clean place to work It is
+Fecommended that only one carburetor be overhauled at a time to
+‘avoid mixing up parts.
+
+Complete draining can be achieved by removing the drain bot from
+the base of the tank
+46 Remove the two screws to free the fusl valve and its gasket from
+
+7
+
+Carburetors
+- removal
+and installation
+
+the fuel tank
+
+47 Installation is a reverse of removal, noting that a new gasket should
+be fitted at the valve-to-tank joint and a new sealing washer fitted to
+the tank drain bolt ifremoved
+43.
+
+Animine fuel fiteris ftted to this model (see Chapter 1),
+
+5.
+
+Idle fueV/air mixture adjustment - general information
+
+‘Warning: Refer fo the precautions given in Section 1 before starting
+Work Disconnect the battery negative lead
+
+Removal
+‘Sabre models
+
+1 Due to the increased emphasis on controlling motorcycle exhaust
+certain
+
+governmental regulations have
+
+been formulated
+
+which directly affect the carburetion of this machine.
+
+In order to comply
+
+with the regulations,
+
+the carburetors on many models have @ metal
+
+limiter cap stuck onto the end of the pilot screw (which controls the idle
+fueVair mixture) on each carburetor.
+
+so they cant be tampered with
+
+{see illustration). These should only be removed in the event of a
+‘complete carburetor ovethaul,
+
+and even then the screws should be
+
+returned to their original settings.
+
+If
+
+a new pilot screw is fitted,
+
+set it to
+
+the basic setting given in the Specifications section ofthis chapter and
+
+have its setting checked with the use of an exhaust gas analyzer; this,
+Is the only accurate way to adjust the idle fuel/air mixture and be sure
+the machine doesn't exceed the emissions regulations
+
+2.
+
+Remove the fuel tank (see Section 2)
+
+Remove the air fter housing (see Section 14),
+
+3 Disconnect the crankcase breather hose from its stub on the air
+
+Reterto dlustraton 5 1
+
+‘emissions,
+
+1
+
+2
+
+Reterto Sections 8 and 3 for pilot screw removal and installation.
+
+3 Ifthe engine runs extremely rough at idle or continually stalls, and if
+acarburetor overhaul does nat cure the problem, take the motorcycle
+toa Honda dealer service department or otherrepair
+shop
+
+chamber
+
+4 On the 1982 750 model, remove the right ignition coil mounting bolts
+50 that the coll can be maneuvered to one side for access to the air
+chamber screws. Also remove the bolt which attaches the water pipe to
+the air chamber.
+5 On
+
+1983 through 1985
+
+700/750 models,
+
+covers and remove the ignition coil
+
+remove both
+
+front side
+
+mounting bracket, complete with
+
+coils from the left side (right side on California models)
+6 Remove the bolt that attaches the thermostat to the air chamber (it
+
+also secures the ground/earth cable)
+7 Remove the air chamber cover screws and slide the chamber out of
+
+Position.
+
+8 On 1982 750 Sabre models remove the radiator side mounting bots.
+9 Disengage the choke cable outer from its retainer clamp and then
+disengage the end of the cable from the lever.
+10
+
+Loosen the throttle cable locknuts then free each outer cable from
+
+48
+
+Chapter 4 Fuel and exhaust systems
+
+its mounting bracket. Detach the inner cables from the throttle pulley.
+‘f Unbend the retainers that secure the front two spark plug wires and
+
+33 Remove the air chamber side covers from both sides of the
+
+any wiring tothe air chamber heat shield,
+
+thermostat housing to the
+
+12 Label and then disconnect the fuel and emission hoses from the
+
+On
+
+‘carburetors. On 1984-on California models,
+it may be necessary to
+disconnect the purge control valve from the frame to permit carburetor
+‘emoval. On 1100 models, disconnect the air vent control valve hoses
+from the valve. If the valve hoses are disconnected, label them
+
+connectors and disconnect them,
+
+motorcycle.
+
+On the right side remove the bolt which retains the
+
+the left
+
+side,
+
+air chamber, noting the ground (earth) wire
+
+remove the cover over the electrical multipin
+
+34 _ Remove the radiator (see Chapter 3).
+
+35 Disconnect the crankcase breather hose from the rear of the air
+
+‘chamber.
+
+carefully as a guide to reinstallation
+
+36 Remove its retaining screws and withdraw the air chamber top
+
+413 Loosen all hose clamps that secure the carburetor-to-cyinder head
+
+cover.
+
+boots.
+
+14 Using
+a long
+
+carefully pry the
+
+out
+of
+their
+
+37 Disengage the choke cable outer from its retainer clamp and then
+the end of the cable from the lever.
+
+connecting boots, then carefully remove the carburetor and air
+chamber assembly through the left side of the motorcycle. Note:
+
+‘boots from
+
+'38 Loosen the throttle cable locknuts then free each outer cable from
+its mounting bracket. Detach the inner cables trom the thrattle pulley
+39 On all Califomia models, label and disconnect the purge control
+
+the cylinder
+
+15 With the carburetors removed, place a suitable container below the
+
+<sconnect the ar injection control valve and airvent contro valve, On
+
+carburetor float chambers then loosen the drain screws and drain all
+
+valve from the let side of the motorcycle,
+all models,
+
+the fuel from the carburetors.
+
+from the carburetors.
+
+is gained
+
+Once all the fuel has been drained,
+
+then on
+
+disconnect the fuel supply hose end all
+
+1986 models
+
+emission hoses
+
+tighten all the drain screws securely.
+
+40 Loosen all hose clamps that secure the carburetor-to-cylinder head
+
+1982 through 1984 700/750 Magna models
+
+441 Using a long screwdriver, carefully pry the carburetors out of their
+
+16 Remove the main
+
+connecting
+
+fuel tank (see Section 2). Note: if the tank is only
+
+half full it can be trigged up on its support rod after the tank front
+
+boots,
+
+chamber
+
+boots, then
+
+assembly from
+
+carefully
+the
+
+let
+
+remove
+
+the
+
+side
+
+the motorcycle.
+
+of
+
+carburetor
+
+and
+
+air
+
+Note:
+
+‘mounting bots have been removed - this will save having to drain the
+tank of fel
+17 _ Remove bath the right and left side air chamber covers,
+18 Disconnect the crankcase breather hose from its stub on the air
+
+the cylinder ports.
+42 With the carburetors removed, place @ suitable container below the
+carburetor float chambers then loosen the drain screws and drain all
+
+chamber.
+
+the fuel from the carburetors.
+
+19
+
+tighten all the drain screws securely
+
+Remove the air fiter housing (see Section 14)
+
+20 Remove its retaining screws and withdraw the air chamber top
+cover,
+
+21
+Remove the radiator
+(see Chapter
+3),
+22 Remove the bolt that attaches the thermostat housing to the air
+‘chamber; this bott also secures
+the ground (earth) wire. Disconnect the
+‘coolant temperature sender unt wire. Remove the thermostat housing
+
+‘and detach its hose from the crossover pipes.
+
+23 Disengage the choke cable outer from its retainer clamp and then
+disengage the end of the cable
+from the lever
+24 Loosen the throttle cable locknuts then free each outer cable trom
+its mounting bracket. Detach the inner cables from the throttle pulley.
+25 Unbend the retainers that secure the front two spark plug wires to
+the oir chamber heat shield
+
+26 On eerly 1982 models, prior to serial number CM015298 (identified
+by all-metal air chamber covers), the carburetor assembly is removed
+
+‘rom the right side. On models later than this serial number (identified
+by partly rubber air chamber covers) the carburetors are removed from
+the left side. On the earlier models, remove the coolant crossover
+
+‘is gained by
+
+9 the
+
+boots trom
+
+Once all the fuel has been drained,
+
+1987 and 1988 700/750 Magna models
+43 _
+Remove
+the
+fuel tank (see Section
+2)
+‘44 Remove the air fiter housing (see Section 14). On the right side,
+remove the bolt which retains the thermostat
+
+housing to the air
+
+chamber, noting the ground (earth) wire and remove the screws which
+‘secure the side air chamber to the main chamber. On the left side
+label and disconnect the hoses from the air injection control valve,
+then remove the valve and its air chamber and detach the side air
+
+chamber from the main chamber.
+45
+Remove
+the
+air chamber top cover screws and withdraw the cover
+46 Disengage the choke cable outer trom its retainer clamp end then
+disengage the end ofthe cable from the lever.
+
+47 Loosen the throttle cable locknuts then free each outer cable from
+Its mounting bracket. Detach the inner cables from the throttle pulley.
+48 Disconnect the vacuum hose and fuel tank hose from the
+‘automatic fuel vaive on the lett side of the air chamber. Label and
+
+blpes (see Charter 3)
+
+disconnect all emission system hoses from the carburetors. Label ts
+
+carturcers. On 1b8t-en Caen model,
+may be necessary to
+disconnect the purge contrat valve from the frame to permit carburetor
+removal from the left side of the motorcycle. If the valve hoses are
+
+boots.
+50 Using a long screwdriver, carefully pry the carburetors out of their
+
+Label
+
+and then disconnect the fuel and emission hoses from the
+
+disconnected, label them carefully as a guide to reinstallation
+28 Loosen
+
+the carburetor boot clamps and withdraw the carburetors
+
+from
+the
+boots.
+
+A long screwdriver
+can be used to pry them out.
+
+Remove the boots from the cylinder ports.
+
+This is made easier by
+
+removing
+the clamps from the boots first.
+29 Lift out the
+necessary,
+
+Note: if
+
+sen te engine mount bots and move the engine On Rs
+
+‘mounts.
+
+30 With the carburetors removed, place a suitable container below the
+Carburetor float chambers then loosen the drain screws and drain all
+the fuel from the carburetors, Once all the fuel has been drained,
+tighten all the drain screws securely.
+
+1985 and 1986 700 Magna models
+31
+
+Remove the fuel tank (see Section 2),
+
+32.
+
+Remove the air fier housing (see Section 14).
+
+hoses, then disconnect and remove the air vent contral valve.
+49 Loosen all hose clamps that secure the carburetor-to-cylinder head
+
+connecting boots, then
+chamber
+
+carefully
+
+assembly ffom the lef
+
+remove the
+
+carburetor and
+
+side
+
+motorcycle.
+
+of
+
+the
+
+air
+
+Note:
+
+‘Additional clearance is
+gained
+by
+removing the carburetor
+boots fom
+the cylinder ports.
+51 With the carburetors removed, place a suitable container below the
+
+float
+
+then loosen the drain screws and drain all
+
+the fuel from the carburetors.
+
+Once all the fuel has been drained,
+
+tighten all the drain screws securely.
+
+4100 Magna model
+52 Remove the main fuel tank (see Section 2). Note: Ifthe tank is
+only half full it can be trigged up on its support rod after the tank front
+‘mounting bots have been removed - this wil save having to drain the
+tank
+of rel
+53
+
+Remove the air filter (see Chapter 1).
+
+Chapter4
+
+Fuel and exhaust systems
+
+4-9
+
+8.2b Remove
+the chokelthro
+cable bracketttie
+(arrow)
+first
+on no.1 carburetor
+
+8.2a The vacuum chamber cover is under light pressure
+fromthe spring
+
+54 Disconnect the crankcase breather hose from its stub on the
+air chamber.
+
+8
+
+Carburetors
+disassembly, cleaning and inspection
+
+‘55 Remove the screws retaining the air chamber side covers,
+followed by those retaining the ar chamber top cover. Withdraw
+the covers from the motorcycle.
+noting the ground (earth) wire.
+57 Label and disconnect the emission system hoses from the
+carburetors and on 1986 models disconnect the hoses from the air
+
+vent control valve on the left side; detach the valve from its
+mounting
+58 Dis
+the choke cable outer from Its retainer clamp and
+then disengage the end of the cable from the lever.
+59 Loosen the throttle cable locknuts then free each outer cable
+from its mounting bracket. Detach the inner cables from the
+throttle pulley.
+60 Loosen all hose clamps that secure the carburetor-to-cylinder
+head boots.
+61 Using a long screwdriver, carefully pry the carburetors out of
+their connecting boots, then carefully remove the carburetor and
+air chamber assembly from the left side of the motorcycle. Note:
+
+‘Adkitional clearance Is gained by removing
+the carburetor boots from
+
+the cylinder ports and also by lbasening the engine mount bors and
+‘mowing
+the
+engine on ts mounts.
+62 With the carburetors removed, place a sutable container below
+
+the carburetor float chambers then loosen the drain screws and
+
+Refer
+
+Waming:
+
+to
+
+the
+
+precautons gwen
+
+Section
+
+in
+
+1
+
+before
+
+proceeding,
+
+Disassembly
+jons
+8 28, 8.2b, 8.38, 8 3b, 853, 8b, 868, 86, 87, 88,
+1
+
+Remove the
+
+previous
+
+Sec
+
+carburetors
+1.
+
+ftom
+
+the machine
+
+Remove the heat
+
+of the carburetor assembly, Note:
+
+@s
+
+described
+
+(where fitted)
+
+shield
+
+There
+
+trom the
+
+carburetors
+
+from each other or tromthe
+
+necessary,
+
+each carburetor can be dismantled suftcienty for all
+
+cleaning
+
+Dismantle
+
+and adjustments whi in
+
+the carburetors separately to
+
+in the
+or
+
+no need 10 separate
+
+air chamber unless
+
+place on the
+
+normal
+
+mounting bracke!
+
+avou interchanging parts. Note
+
+that it is necessary
+to separate the carburetors to remove th
+
+choke
+
+valves
+
+2 Remove the four screws that retain the vacuum chamber cover
+‘and lift t off (see illustration). If working on the no. 1 carburetor,
+remove the choke and throttle cable bracket prior to removing the
+vacuum chamber cover (see illustration).
+3 Withdraw the spring and lift out the throttle pistorvdiaphragm
+‘assembly (see illustration). Note that the no. 1 and 3 carburetors
+(rear cylinders) use shorter springs and thinner jet needies than
+
+all the fuel from the
+carburetors. Once all the fuel has been
+drehed, tighten all the drain screws securely.
+
+Installation - all models
+63 Installation Is basically the reverse of the removal procedure,
+with the following note:
+@)
+
+Clearance is tght when instaling
+
+the carburetors,
+
+so
+
+it may
+
+be
+
+ease 10 install the boots on the cylinder ports with the clamps
+removed.
+
+The clamps can then be sipped over
+
+connecting the carburetors to them
+tightened securely to prevent
+
+the boots prior to
+
+Be sure the clamps are
+
+possible ar leaks
+
+) On Calfornia mode's, ensure that the purge contro! valve, air
+injection contro! valve and ar vent control valve hoses are af instalied
+
+on their onginal unions
+- refer to the hose routing label
+
+under ether
+
+‘se cover
+or on the rear fender for information. c) Don't
+
+omrt
+fo
+ret the
+
+ground (earth) wire when reconnecting the thermostat fo the ar
+
+chamber
+@) Reconnect the battery, negatve kad frst
+@)
+
+Following instalation, adjust the choke cable treep
+throttle treeplay, wle Speed and carburetor synchron
+
+ry (Section 12),
+
+ton (Chapter
+
+the
+
+absolute
+
+‘3a Lifting the throttle piston/diaphragm
+out of the carburetor
+the no. 2
+
+Chapter4 Fuel and exhaust systems
+
+410
+
+8.3b The front cylinder carburetors have longer springs
+
+8.82 Pull the fuel hoses
+
+than the rear
+and 4 carburetors (tront cylinders) (see ilustration).
+4
+
+Insert an
+8 mm socket,
+attached
+to
+a ratchet wrench, into the
+
+throttle piston, depress
+
+the needle
+holder and tum it 60° to release it
+
+off their unions on the bi
+
+of the carburetors
+‘The needle holder. spring end jet needie can now be removed from the
+
+valve
+
+throttle
+
+5 Tum the
+the float
+body
+
+carburetor over and remove first the fuel hoses and then
+chamber (see
+
+wth four
+
+illustrations). It is attachedto the carburetor
+
+screws
+
+at pin, then lift out the
+
+e @ neede-nose pliers to withdraw the
+float and foat valve
+(see illustrations).
+
+7 Unscrew the starter jet (press fit on later models), main jet, needle jet
+Aor and pilot jot
+(See
+
+illustration).
+
+8 Remove the float valve seat and washer (see illustration). Certain
+models also
+have
+a
+gauze fiter attached
+few
+
+to the valve seat
+
+removal is required the metal limiter caps must be
+17 5).
+
+Center-punch the pilot screw cap to provide.
+
+a starting point for the drill bit. Next,
+
+use a 4 mm drill it to drill through
+
+the pilot screw plug (see illustrations). Note:
+Be very carefu! not fo
+a seltapping screw into the
+Gail nto the pilot screw undemeath. Force
+dailed plug a
+
+a screwdriver to turn it until the
+
+with the screw.
+
+Grasp the head of the
+
+cap begins rotating
+
+screw with pliers and pull it out
+
+10 Screw the pilot screw in until it seats lightly, counting the number of
+tums necessary to achieve this,
+
+spring, flat washer and O-ring.
+way, all
+11
+
+the
+
+pilot
+
+then remove the screw
+
+screws must be replaced
+as
+a
+set
+
+If the carburetors have been
+
+removed
+
+fom
+
+groove in the
+
+along with its
+
+It the screw is bent or damaged in any
+
+the
+
+valve
+
+bodies.
+end.
+
+separated,
+
+Disconnect
+unscrew
+
+the
+
+the choke valves can be
+
+the
+
+valve
+
+linkage
+
+nut
+
+and
+
+hook
+
+8.6a Use needle-nose pliers to extract the float pin
+
+86b
+
+trom
+
+ramove the
+
+valve and spring from the carburetor(see illustration).
+
+.. and lift oft the float and float valve
+
+the
+
+choke
+
+Chapter4 Fuel and exhaust systems
+
+{8.8 Float and valve components - valve seat, washer and filter
+
+jets:
+8.7 Location of carburetor
+
+jet
+Starterft3 Main
+
+1
+
+Plotjet
+
+2
+
+4
+
+411
+
+(arrows) can be unscrewed from carburetor body
+
+jet hokser
+Needle
+
+12 On 1987 and 1988 700/750
+
+Magna models,
+
+each carburetor body has an air cut-off valve on the side of ts throt
+spring,
+
+O-ring and valve.
+
+Inspect al
+
+deterioration and replace the cut-off valve assembly if ne
+
+Cleaning
+Caution: Use only a petroleum based sovent for carburetor caning
+
+Donttuse caustic carers.
+
+43 Submerge the metal components in the solvent for approximately
+thity minutes (orlonger, ifthe drections recommend t
+
+14 Ater the carburetor has soaked long enough for the
+osits,
+loosen and dissolve most of the varnish and other
+
+use @
+
+to remove the stubborn deposits. Rinse it again, then dry it with
+brush
+compressed air Blow out al of the fuel end ar passages in the main
+
+‘and upper body. Caution: Never clean the jets or passages with ¢
+
+‘piece of mire ora dil ft as they wal be enlarged, causing the fuel and air
+
+89a Pilot screw metal limiter caps can be drilled ...
+
+‘metering ratesto be upset
+
+Inspection
+
+16
+
+Check the tapered portion ofthe pilot screw for wear or damage,
+
+the pilot screw ifnecessary.
+Replace
+
+on the end of the choke plunger and replace the plungeri
+
+17
+
+Check
+
+body, fi
+the carburetor
+
+t chamber and vacuum chamber
+
+bent
+
+to extract them
+ing
+screw used
+2.9b ... and a seff-tapp
+
+‘8:11 With the choke valve nut completely unscrewed, the choke
+
+‘valve can be pulled up and disengaged from its operating hook
+
+412
+
+94 Install the choke valve and its spring in the carburetor bore
+and secure withthe nut
+
+9.7 Assemble the float valve seat, washer and filter and install
+themin
+the
+carburetor body
+
+cover for cracks, distorted sealing surfaces and other damage. If any
+defects are found. replace the faulty component, although replacement
+
+7 Install the fost valve seat, washer and fiter (gee
+
+of the entire carburetor will probably be necessary (check with your
+
+the pivot pin
+
+parts supplier for the availabilty of separate components)
+
+8 To check the float height, hold the carburetor so the float hangs
+
+illustration}. Hook
+
+the needee vaive over the float, then install the float and secure t with
+
+48 Check the diaphragm for splits, holes and general deterioration
+
+<dovmn, then tit t back until the valve needle is just seated, but not so
+
+Holding it up to a light wall help to reveal problems of this nature
+
+far that the needie's spring-loaded tip is compressed. Measure the
+
+19 Insert the throttle piston in the carburetor body and check that it
+
+stance between the gasket face and the bottom of the float with
+
+moves up-and-down smoothly
+
+Check the surface of the piston for
+
+wear. If i's wom excessively or doesnt move smoothly in the bore,
+
+gauge or an accurate ruler (see illustration). The correct setting
+
+should be as given in the Speafications Section. On early models with
+
+brass floats,
+
+replace the carburetor
+(such as a piece of glass). Replace itfit's bent or ifthe tip is wom.
+
+adjustment of the float height can be made by very
+carefully bending the tang which bears on the needle valve tip. On
+later models with plastic floats, the float height is not adjustable, if tis
+
+21 Check the tip of the fuel inlet valve needle.
+
+incorrect the float must be replaced.
+
+20 Check the jet needle for straightness by rolling it on @ flat surface
+If it has grooves or
+
+scratches in it, it must be replaced. Push in on the rod in the other end
+of the needle,
+
+then release it - if it doesn't spring back,
+
+valve needle.
+
+If the needle valve seat is damaged the carburettor
+
+assembly must be replaced,
+
+replace the
+
+it is not possible to replace the seat
+
+Repeat the procedure for all
+
+cerburetors.
+With the float height checked, install a new seal in the float chamber
+
+‘groove and install the chamber on the carburetor (see llustration)
+
+10 Fét the washer to the jet needle and insert the needle into the
+
+individually
+
+throttle valve piston.
+
+22 Check the float chamber gasket and replace it it's damaged
+23 Operate the throttle shaft to make sure the throttle butterfly valve
+
+center of the piston and tum & 60° in the opposite direction of removal
+
+Insert the spring and the needle holder into the
+
+an & mm bax wrench
+using
+
+‘opens and closes smoothly. Ifit doesn’, replace the carburetor.
+
+11 Insert the throttle piston/diaphragm assembly into the carburetor
+
+24 Check the floats for damage. This will usually be apparent by the
+
+ody ang lightly push & down, ensuring the needle is correctly aligned
+
+presence of fuel inside one ofthe floats.
+
+with the needie
+jet. Press the diaphragm outer edge into ts groove,
+
+Ifthe foats are damaged, they
+
+must be replaced.
+
+ensuring the diaphragm tongue is correctly seated in the cutout on the
+
+9
+
+‘he daphragm fom being displaced when the cover is fited,
+
+cerburstor (see illustration). Check the diaphragm is not creased,
+
+Carburetors - reassembly and float height check
+
+{nd thatthe piston moves smoothly up and down the bore. To prevent
+
+Up the bore wih a fnger passed through the vertun
+Note: Vien resssembing the carturetors be sure 1 use the new Ciings
+
+12
+
+Insert
+
+the
+
+spring and ft the vacuum chamber
+
+push it
+
+cover to the
+
+gaskets and other parts supplied in the rebuild kit Do not overtgtten
+
+cerburetor, noting that the longer springs are fitted to the front cvinder
+
+the carburetor jets and screws as they are easily denajed. Refer
+1
+
+carburetors (see illustration 8.35).
+
+sustratons9 1,97,
+
+98, 99and.9 11
+
+13 On 1987 and 1988 700/750 models, it it was removed, install the
+
+1 Install the choke valve in its bore, followed by its spring and nut (see
+
+air cut-off vave, spring end O-ring. Refit the cover and secure with the
+
+illustration}. Tighten the nut securely
+and reconnect the operating ink
+
+two screws.
+
+hook in the valve groove
+2 Install the pilot screw (if removed) along with its spring, washer and
+
+14 If the carburetors were separated,
+
+refer to Section 10 and join
+
+them, then refithe assembly
+to the motorcycle (see Section 7)
+
+O-ring, turning it in_unti it seats lightly. Now, tum the screw out the
+number of tums
+
+previously recorded.
+
+Where applicable,
+
+metal limter caps into the pilot screw bores. If
+
+drive new
+
+new pilot screw has
+
+been fited, Honda advise that the screws in he other three carburetors
+be replaced also, and that having been set to the standard number of
+tums out (see Specifications).
+
+out by @ dealer
+
+adjustment of ther settings be cared
+
+service department
+
+before new limiter caps are
+
+installed
+3°
+
+Screw the needle jet into position inthe carburetor
+
+4
+
+Screw the main jet into the end
+of the needle jet
+
+5 _ Screw the pilot et ito postion
+6 If the starter
+jet was removed, screw or press it into the body (as
+
+applicable).
+
+10
+
+Carburetors
+separation and joining
+
+Waring:
+
+Refer
+
+to
+
+the
+
+precautions given
+
+in
+
+Section
+
+1
+
+before
+
+proceeding
+
+n
+Refer
+to
+tustrations 101, 10.63, 1066, 107, 108, 109.end 10.111
+The carburetors do not need to be separated fornormal overhaul. If
+
+‘you need to separate them (to replace a carburetor body, for
+
+Chapter
+
+Bs
+
+nein
+
+tence raat
+
+4_Fuel and exhaust systems
+
+9.9 Use anew seal when installing the
+float
+clhambers
+
+seblelid
+
+10.1 Carburetor installation details -typical
+
+4-13
+
+9.11 Ensure diaphragm tab, vacuum tube
+‘and coverprotrusion align
+
+4-14
+
+Chapter
+4 Fuel and exhaust systems
+
+10a The breather ba fe plate is secured by a single screw
+example), refer to the following procedure (see illustration).
+
+2 Remove the carburetors from the machine as described in
+‘Section 7. Mark the body of each carburetor with its cylinder
+‘umber to ensure that itis positioned correctly on reassembly.
+3 Remove all fuel lines from the carburetor assembly, having taken
+Tote of their
+
+original positions.
+
+4 Remove the heat shield (where fitted) from the front of the
+carburetor assembly.
+5 On 1987 and 1988 700/750 Magna models it is advisable to
+
+Temove the fuel valve diaphragm unt from the air chamber side to
+prevent damage tot.
+6 Remove the breather ba le plate (where fitted) from the center of
+the air chamber, then remove the screws that attach the ai
+chamber
+
+(see
+
+illustrations).
+
+Lit
+
+the
+
+air
+
+chamber
+
+from
+
+the
+
+assembly.
+
+7 Remove the choke rods from the carburetors by removing the
+choke rod lever nuts and lifting offthe rods with the levers attached
+{see ilustratc
+8 Horizontally separate first the number 3 carburetor and then the
+number 4 carburetor from their corresponding pair, taking care not
+
+to damage the air and fuel joint pipes. As they are separated, the
+col
+
+springs
+
+between
+
+the
+
+throttle
+
+shafts
+
+will
+
+fall
+
+out.
+
+‘The
+
+10.7 Choke rod lever nut locations (arrows)
+
+synchronization adjusting screw springs may also drop out (see
+
+illustration). If they dont find them and instal them as shown
+the illustration so they
+
+10.8 When separating the carburetors be careful not to loose the
+
+10.9 Make note of the fuel and air joint positions as a
+
+throttle shaft spring (1) and synchronizing screw springs (2)
+
+guide to reassembly
+
+Chapter4
+
+Fuel and exhaust systems
+
+10.15a Installed position of the throttle shaft coil springs (arrow)
+arertt lost (see illustration
+10.15a}.
+9 Withdraw the air and fuel joint pipes. They are simply a press ft in
+the
+
+catburetors (ee ilustraion).
+
+10 On 1985 through 1988 700/750 Magna models, remove the screw
+wich
+
+rtane
+
+noting
+
+caterelors
+no, 3 end no togebor and separate em
+
+the fuel joint pipe
+
+between them,
+
+On all
+
+other models,
+
+separate the carburetors and retrieve the fuel joint between them
+
+simply
+
+11 Disconnect the throttle link from the number1 and 2 carburetors by
+
+removing
+the cotter pins (see illustration).
+
+12 On 1985 through 198 700/750 Magna models, remove the screw
+which retains carburetors no.
+
+eparate
+
+1 and no. 2 together and separate them
+
+the fuel jont
+pipe between them. On all other models, simply
+the carburetors and
+retrieve the fuel joint between
+them
+
+13 With the carburetor separated,
+
+the choke valves can be removed
+
+and inspected. Disconnect the linkage hook from the groove in the
+valve end, unscrew the valve nut and remove the choke valve and
+spring from the carburetor
+
+Joining
+10:90 Ensure all veloc stacks (1), dowels (2) and Ovings (9 are
+installed in the carburetors before installing the
+
+tefer to Muistrations
+
+10.169, 10 156, 10.178, 10.17band 10.18
+
+14 Prior to reconnection of the carburetors, inspect the air and fuel joint
+
+pipes for cracks, blockage or damage and clean them thoroughly with
+solvent. Install new O-rings on the air and fuel joint pipes and apply oil
+
+to the O-rings prior to installing the pipes in the carburetors.
+15 Joining
+
+is the reverse of
+
+‘all
+nization
+
+the disassembly procedure,
+
+noting the
+
+the fuel and vent ine fitings
+150
+four carburetors are connected, foosen the synchroadjusting screws and re-install the synchronization
+
+1985 through
+
+1968
+
+700/750 Magna models,
+
+tghten
+
+the
+
+at hs stage.
+for joning Screws only lightly
+
+@)
+
+The coll gorings between the throttle shafts can be installed after
+the carburetors have been bosely altached fo the air chamber
+{see illustration).
+
+@)
+
+Pror fo comecting the carburetors fo the air chamber, be sure the
+
+rubber veloaty stacks, grommets and dowel
+pins are afl securely in
+
+piace {see illustration).
+
+Tighten the air chamber screws in 2
+
+(onsS-crOSs Sequence,
+
+16 After reconnection is complete, @ bench synchronization procedure
+
+follows.
+be camied out as
+should
+17 Tum the throttle stop screw (used to adjust the idle speed) so the
+
+10.17a Onno. 1 carburetor, use the throttle stop screw
+..
+
+throttle vatve in the no. 1 carburetor is aligned with the rear edge of the
+pass hole,
+loceted in the carburetor bore (see
+illustrations).
+
+Chapter
+4 Fuel and exhaust systems
+
+4-16
+
+1017b ... to set the throttle valve level with the rear edge of
+
+10.18 Set up the other throttle valves using the
+
+the front bypass hole (arrow)
+18 Align the throttle valves in each of the other carburetors in the
+‘same manner by turning the synchronization adjusting screws (see
+
+10 Make sure the cables are correctly connected and locate the
+outer cable adjusters
+in the mounting bracket
+
+illustration).
+
+synchronizing
+screws (arrows)
+
+11 Where necessary. fit the carburetors to the cylinder head and
+
+19 Open the throttle slightly by pressing on the throttle linkage,
+
+securely tighten the intake
+
+rubber clips.
+
+then release it and make sure it returns smoothly with no drag or
+
+12
+
+binding. Also check the choke vaive linkage for smooth operation.
+
+handlebars back and forth to make sure the cables don't cause
+
+Adjust the
+
+cables
+
+as
+
+described
+
+Ifthe choke linkage arms were disconnected from each other, new
+
+the steering to bind.
+
+cotter pins should be used on reassembly.
+20 Install the carburetors on the motorcycle (see Section 7).
+21 On 1987 and 1988 700/750 Magna models, tighten the
+
+fitting the fuel tank, start the
+
+Carburetor joining screws securely.
+
+tured.
+
+22.
+
+Camry out carburetor synchronization (see Chapter 1).
+
+problem before riding the motorcycle.
+
+11
+
+Throttle cables - removal and installation
+
+13 Install the air filter housing
+
+Refer
+
+to
+
+the
+
+precautions
+
+given
+
+in
+
+Secton
+
+1.
+
+Tum the
+
+as described in Section 14. Prior to
+engine
+
+and tum the handlebars back
+
+If it does, the cables are incorrectly routed.
+
+Sort out the
+
+Install the fuel tank (see Section 2)
+
+12 Choke cable - removal, installation and freeplay check
+1
+
+before
+
+proceeding
+
+Removal
+1 Remove the fuel tank (Sabre) or trig it up if less than half full
+
+Removal
+1
+
+Chapter
+
+and forth to make sure the idle speed doesnt rise as the bars are
+
+14
+
+Warning:
+
+in
+
+Remove the air filer housing as described in Section 14.
+
+2 Loosen the throttle cable
+
+locknuts then free each outer cable
+
+(@agna).
+
+2.
+Loosen the choke cable retainer screw, near the no. 1
+carburetor.
+
+from its mounting bracket. Detach the inner cables from the throttle
+
+3 Disengage the cable outer from its ret
+
+four retaining clips securing the carburetor intake rubbers to the
+
+4
+
+cylinder head and dsengage the carburetors from the cylinder
+
+5 On early models, remove the two bolts that hold the clutch
+master cylinder to the handlebars and lift the master cylinder off
+
+pulley. If necessary to improve access to throttle cam. loosen the
+head. Keep the carburetors upright to prevent fuel spillage.
+
+3 Unscrew the three (early models) or two (later models) right
+handlebar switch screws and free the switch from the handlebar.
+
+4 Disconnect the throttle cables from the throttle grip and unscrew
+each cable from the lower half of the handiebar switch.
+
+Mark each
+
+disengage the end of the cable from the lever
+
+jer clamp and then
+
+_ Remove the rear view mirror from the left side.
+
+(keep it level to prevent fluid leakage).
+
+Disengage the cable
+
+trunnion from the choke lever.
+6 On later models (where the cable goes into the base of the
+handlebar
+
+switch),
+
+remove
+
+the
+
+two
+
+screws
+
+from
+
+the
+
+switch
+
+able to ensure itis connected correctly on installation.
+
+Underside and separate the switch halves. Disengage the cable
+
+5
+
+trunnion from the choke lever.
+
+Remove the cables from the machine noting their exact
+
+routing.
+
+7 Unscrew the cable casing from the clutch
+
+master cylinder clamp
+
+(early models) or handlebar switch lower half (later models) and
+
+Installation
+
+then withdraw it from the motorcycle.
+
+6 Install the cables making sure they are correctly routed. The
+cables must not interfere with any other component and should not
+be kinked or bent sharply
+7 Screw the cables into the lower half of the handlebar switch,
+making sure they are correctly connected. Lubricate the end of
+
+each cable with muit-purpose grease and aitach the cables to the
+
+Installation and freeplay check
+2 Installation is the reverse of the removal procedure. Lubricate
+the cable inner and ensure that itis routed in its original path and
+secured with any relevant ties.
+
+9 Set the cable freeplay by pulling the
+
+choke operating lever on
+
+throttle grip pulley.
+
+the handlebar fully back (choke on) and check for any further
+
+8 Fit the switch lower haif to the handlebar. locating its peg in the
+
+movement at the choke lever on the carburetors. There should be
+
+handlebar hole.
+
+no freeplay, if there is, loosen the outer cable clamp screw and
+
+Fit the top half of the switch and securely tighten
+
+the screws (forward screws must be tightened firs).
+
+reposition the outer cable
+
+9 Lubricate the end of each cable with multi-purpose grease and
+
+lever fully forward (choke off) and check for a small amount of
+
+attach them to the carburetor throttle cam
+
+accordingly. Push the choke operating
+
+slack in the carburetor linkage, indicating that the choke is fully
+of.
+
+Chapter4 Fuel and exhaust systems
+
+417
+
+11 Measure the amount of fuel in the jar and multiply it by 12 to
+arrive at the output per minute. If the pump is operating correctly
+it
+‘should produce approximately 800 cc (27 US fl oz, 28 Imp f cz).
+12 Remove the testing equipment and reconnect the wiring and
+
+4100 Magna models
+13. Remove the seat and side covers (see Chapter 6).
+14 Make sure the ignition switch is OFF. then disconnect the fuel
+pump relay connector. Using a jumper
+wire, short the black and
+‘white wire terminals on the hamess side of the connector together.
+1 Disconnect the fuel supply hose from the carburetors and pla
+is open end in a glass jar. Turn the igntion ON for 5 seconds, then
+tum it OFF
+
+3
+
+16 Measure the amount of fuel in the jar and multiply it by 12 to
+arrive at the output per minute. If the pump is operating correctly It
+should produce
+approximately
+614 cc (21 US
+fl oz, 22 Imp
+fl oz).
+17 Remove the
+testing equipment and reconnect the wiring and
+
+fuel hose.
+
+13.3 When checking the fuel pump output, route the carburetor
+fuel supply hose into a glass jar or measuring vessel
+
+19
+20
+1 before
+
+proceeding
+
+Refer
+to ilustration 13.3.
+
+1 Make sure there is adequate fuel in the fuel tank and that the
+battery is fully charged.
+
+2.With the engine runing
+
+imine all fuel lines between the fuel
+
+tank
+and
+fuel pum
+loose connections, kinks or crimps.
+Inthe rubber Roses. Al leaks before ine fuel pup ean seriously
+affect the pump's output.
+3 Disconnect the fuel supply hose from the carburetors. Place a
+
+clean container such as a glass jar at the end of the detached fuel
+
+hhose and tum the ignition switch on for several seconds (see
+
+illustration). There should be strong, regular spurts of fuel from
+
+the line until the ignition switch is tumed off
+If litle or no fuel emerges from the line during the test. then
+either the line or fuel fiter
+Is clogged or the fuel pump is not
+
+working property. Disconnect
+
+all fuel lines and blow them out.
+
+Replace
+the fuel fiter (see Chapter
+1). If the lines and fiter are not
+clogged, then the pump is faulty and should be replaced.
+
+5A more accurate method of testing fuel pump flow capacity is to
+
+perform the previous test using a measuring container and a
+‘watch according to the following sub-Section.
+
+1982 through 1986 700/750 Magna models
+6 Turn the Ignition ON for § seconds, then turn it OFF. Measure
+
+the amount of fue! in the glass jar and multiply it by 12 to arrive at
+output per minute. On 1962 through 1984 models the pump
+
+approximately 614 cc (21 US fl.oz, 22 Imp fl.oz) of,
+
+fuel, and on 1985 and 1986 models it should
+approximately 600 cc (20 US fl oz, 21 Imp floz)
+of fuel.
+
+produce
+
+1100 Sabre models
+7
+Remove the seat and left side cover (see Chapter 6).
+8 With the fuel supply hose connected to the carburetors, start the
+‘engine and pinch the fuel valve vacuum hose, then tum the fuel
+valve OFF and ignition switch OFF.
+{9 Discomnect the fuel pump relay connector, and using a jumper
+wire, short the blacklight green and white wire terminals on the
+hamess side of the connector together.
+40 Disconnect the fuel supply hose from the carburetors and place
+its open end in a glass jar. Tum the fuel valve ON, then tum the
+ignition ON for5 seconds, then turn the ignition OFF.
+
+Remove the seat.
+
+Remove the main fuel tank as described in Section 2.
+Remove both side covers (see
+Chapter 6).
+
+21 Disconnect the batteryI
+
+first. Remove the
+
+sgative lead
+
+battery.
+
+22
+23
+
+Check
+
+should produce
+
+1982 through 1984 700/750 Magna models
+18
+
+13 Fuel pump - check, removal and installation
+Warning: Refer
+to the precautions given in Secton
+
+Removal and installation
+
+Remove the battery tray.
+
+_Remove the starter relay (st
+Chapter 8).
+24 Tum the fuel valve OFF and clamp the fuel hoses to prevent
+fuel flow. Have a rag handy to catch fuel spills, then detach the fuel
+inlet and outlet hoses from the fuel pump.
+
+25
+26
+
+Disconnect the wiring connectors leading to the fuel pump.
+Remove the fuel pump mounting bots and lif out the fuel
+
+pump.
+
+27
+
+Installation is the reverse of the removal procedure,
+
+1985 and
+28
+23
+
+1986 700 Magna models
+
+Remove both side covers (see Chapter 6).
+Disconnect the battery leads,
+negative lead first.
+
+30 Tum the fuel valve OFF and clamp the fuel hoses to prevent
+
+fuel flow. Have a rag handy
+to catch fuel spills, then detach the fuel
+‘and outlet hoses from the fuel pump.
+31 Disconnect the wiring connectors leading o the fuel pump.
+32 Maneuver the fuel pump out ofits mounting rubber.
+33 _ Installation is the reverse of the removal procedure.
+
+1100 Sabre models
+34
+
+Remove the seat
+and bothside covers
+
+Chapter 6).
+
+36 Disconnect the ros enmectors forthe fal pump, fel unit
+
+35.
+
+Disconnect
+
+ative|
+
+first
+
+and both spark units.
+
+37 To gain access
+to the fuel pump. remove the right side spark
+unit from its holder and the stopfail light sensor from its holder
+
+(use the wring diagram at the end of this manual for component
+
+identification).
+
+38 Tum the fuel valve OFF and clamp the fuel hoses to prevent
+fuel flow. Have a rag handy
+to catch fuel spills, then detach the fuel
+inet and outlet hoses from the fuel pump.
+39. Maneuver
+the fuel pump out of its rubber mounting.
+40 Installation is the reverse of the removal procedure. Refer to the
+
+wring
+
+at the end of this manual, and ensure that
+
+electrical connections have been made correctly.
+
+1100 Magna models
+41
+Remove
+the seat and both side covers (see Chapter 6).
+42 _Disconnect the battery leads, negative lead first.
+43 Tum the fuel valve OFF and ‘clamp the fuel hoses to prevent
+fuel flow. Have a rag handy to catch fuel spils, then detach the fuel
+indet and outlet hoses from the fuel pump.
+44 Disconnect the wiring connector leading to the fuel pump.
+
+Chapter
+4
+
+4-18
+
+Fuel and exhaust systems
+5 Check
+
+the sealing ring at the housing-to-air chamber joint; i broken
+
+to detenorated, replace
+it
+16
+
+Installabon
+
+is the reverse of removal
+
+1100 Sabre model
+17
+
+Remove the air
+
+18 Remove the
+
+fiter element as describedin Chapter 1
+
+two screws on the outside edges of the housing and
+
+detach it from the air chamber. Recover the sealing ring.
+19 Before instaling the housing, release its clip and pull the drain tube
+off the stub on the comer
+of the housing. Emply the tube and housing
+
+of any sludge and reff the tube and clip.
+20 Installation is the reverse of removal.
+
+Check the condition of the
+
+housing-to-air chamber sealing ring, if damaged replace it
+
+1100 Magna model
+21 There is no air fiter housing on this model because the element
+
+cover screws directly
+to the top of the air chamber
+
+16.2 Take care not to bend the float arm when removing the fuel,
+‘sender from the tank
+
+45.
+
+Fuel
+sender
+removal and installation
+
+Waring: Refer the precautions given in Section 1 before prooseding
+
+45 Remove the two mounting bolts and lit the pump upwards and out
+
+All Sabre models and 1985/86 700 Magna
+
+ofthe motorcycle. Note the location
+
+models
+
+of the washer. grommet. collar and
+
+nut.
+
+46
+
+Installation is the reverse of the
+
+Refer
+
+removal procedure.
+
+1
+
+to dustration
+
+15.2
+
+Remove the fuel tank
+
+(see
+
+Section 2) and drain all
+
+fuel into a
+
+container suitable for the storage of gasoline (petrol)
+2 The uel
+
+414. Airfilter housing -removal and installation
+
+sender is secured to the tank base by four nuts.
+
+the O-nng and be
+
+Recover
+
+especially careful not to bend the float arm as the
+
+withdrawn through the tank base (see illustration).
+
+1982 750 Sabre model
+
+3Installation
+
+1
+
+O-ring should be used
+
+Remove the air iter elements
+as
+described
+in Chapt
+detach the air fiter
+2 Remove the three screws on each side and
+
+is a reverse of the removal procedure, nating that a
+
+new
+
+between the tank and sender,
+
+housings trom the side of the air chamber. Recover the sealing rings.
+
+1982 through 1984 700/750 Magna models and
+
+3Installation
+is a reverse of removal, noting thet the sealing
+rings must
+
+all 1100 Magna models
+
+be replaced if damaged
+
+4
+5
+
+1983 through 1985 700/750 Sabre and 1982
+through 1986 700/750 Magna models
+4
+
+Remove the seat and left side cover (see Chapter
+6)
+Drain all fuel from the main fuel tank and half of the auxiliary tank
+
+into @ container
+
+sutable for the storage of gasoline (petrol)
+
+6 The senderis set in the top
+
+of the auxilary fuel tank. Disconnect its
+
+wires and unscrew the sender
+
+Remove the air fiter element as described in Chapter 1
+
+5 On Magna models, remove the single screw and collar from the top
+
+from the tank.
+
+Plug the tank opening
+
+while the sender is removed
+
+rear of the housing and loosen the screw clamp which secures the
+
+T Installation is 2
+
+housing to the carburetor air chamber. On Sabre models, remove the
+three screws which retain the housing to the air chamber.
+
+sealing ring should be installed between the tank and sender unit
+
+6 Pull the crankcase breather hose off the back of the housing and lit
+the housing up and off the motorcycle
+7 Before installing the housing,
+
+release its clip and pull
+
+off the stub on the base of the housing.
+
+Empty
+
+8 On Magna models, inspect the condition of the flexible hose
+
+between
+
+deteriorated,
+
+Ensure that the housing front
+
+General information
+to dustration 16.1
+Refer
+1 The crankcase
+
+from crankcase
+
+end engages the air duct correctly,
+
+tank,
+
+Remove the air fiter element as described in Chapter 1
+
+11 Remove the air chamber side covers (single screvr
+
+at lower edos)
+
+and the screws which secure the air chambers to the air fiter
+
+hi
+
+may need to move the thermostet (night side) and air it
+remove the
+
+ed into the carburetors for rebuming (see illustration)
+2 Over
+a period oftime, sludge may build up in the separator
+tank and
+hoses to the extent that they become clogged.
+
+six screws
+
+3 Certain models have
+Separator
+
+13 Pull the crankcase breather hose off the back of the housing and lif
+
+maintenance
+
+itup and of the motorcycle,
+14 Before installing the housing, release its clip and pull the drain tube
+housing. Empty
+the tube and housing of
+
+any sludge
+and reft
+the tube and clip
+
+through a hose to the separator
+
+and from there through another hose up to the air fiter housing
+rom there, the gases combine with fresh air and are
+
+which retain the housing
+to the air chamber on the carburetors
+
+off the stub on the base of the
+
+prevents the discharge of hydrocarbons
+
+Rough idling or @
+
+reduced engine speed at idle are indications of this condition
+
+Control valve assembly (left side)
+to gain access to the s.
+12 Working from the top ofthe air fiter housing,
+
+breather
+
+vapor into the atmosphere. Gases are sucked out of
+
+the crankcase via engine vacuum,
+
+1987 and 1988 700/750 Magna models
+
+you
+
+‘components check
+
+the tube and housing of
+
+the air chamber
+and fiter housing; replace itf spit or
+
+10
+
+46 Crankcase breather - general information and system
+
+the drain tube
+
+any sludge and refit the tube and cip.
+
+9 Installation is the reverse of removal,
+
+reverse of the removal procedure, noting that a new
+
+tank
+
+which
+
+a drain tube or catch tank linked
+
+has
+
+to
+
+be
+
+emptied
+
+to the
+
+in accordance with the
+
+schedule
+(see Chapter
+1), but on others, the system will
+
+have to be disassembled and cleaned out ifa blockage is suspected.
+
+‘System components check
+Refer
+
+o
+
+austraton 166
+check for proper
+
+cuum in the system,
+
+disconnect
+the rubber
+
+Chapter4
+
+Fuel and exhaust systems
+
+4-19
+
+AIR CLEANER
+
+<< :FresH ain
+—
+
+:dlowsy cas
+
+SREATHER
+
+SEPARATOR
+
+through with o
+racked h
+
+47
+
+Evaporative emission control system (1984-on
+California models) - general information
+
+RB) requirements
+
+16.6 Crankease
+separator
+tankedie
+(arrow)done
+will be found in the
+aia breather
+ea: reelrea
+tales
+
+as
+
+c
+
+a
+
+‘
+
+ba tried ened
+
+ors are routed
+
+oh etiog
+wile the engine is stopped,
+
+ina carbon canister (see
+
+Chapter4
+
+Fuel and exhaust systems
+
+| Fades tocreN ie
+iS)
+
+17.1b Evapora
+emissiontive
+control
+
+‘system
+-1100
+Sabres and
+
+‘atone
+
+@)
+
+oe
+
+3 Purge contol vake
+4
+
+C
+
+|
+
+Arvent contol valve
+
+EACH
+CARBURETOR’
+
+4.28201
+
+AR
+TO OPEN
+
+®
+
+=i
+=
+
+©
+
+428229
+
+‘17-1c Evaporative emission control and secondary air supply systems -1986 700
+Magna
+
+Fseitank
+Canister
+AOA
+
+Purge contol vate
+
+Air vent contol valve
+
+Ar
+
+injection control vave
+
+wr suction valve
+Ar
+
+fiter housing
+
+Reed valves (rear oylinders)
+
+4 Fuel and exhaust systems
+Chapter
+
+421
+
+‘17.1d Evaporative emission
+
+‘control and secondary air
+
+‘supply systems - 1987 and
+1988 700/760 Magnas
+
+Fil tank
+
+Canister
+Purge controlvaive
+
+Nooaona
+
+vai
+Airventcontol
+‘Air ingecton contol valve
+
+2 The air vent control valve (fitted to all 1100 Sabre models and al
+
+1986-0n Magna models) routes vapor from the carburetor float
+chambers to the canister. The stored fuel vapor is drawn from the
+canister when the engine is started and the purge valve opens to allow
+vapor to pass to the carburetors
+
+2 The system hoses and canister should be checked for cracks and
+
+damage in accordance wth the maintenance schedule (see Chapter
+1} Apart from the inspection and replacement of hoses, if the system
+
+is suspected of failure it must be tested by a Honda dealer. If the
+motorcycle is dificult to re-start when hot, t is lkely that the purge
+control vaive is at fault
+
+4 The canister is mounted on the lower frame tube brace at the front of
+the motorcycle (on 1987 and 1988 700/750 Magnas, remove the belly
+fainng for access). The purge control valve is mounted on a bracket on
+the left side of the cylinder head; removal of the front left side cover or
+ar chamber side cover wil be necessary on certain models for access
+to the valve. The air vert control valve is located above the carburetors
+and can be accessed atter removal of the main fuel tank,
+
+5 Details of the vacuum hose connections are aiven on a label stuck to
+
+the inside of either side cover or on the rear fender. All hoses should
+camry a label containing
+
+their number reference,
+
+but if not, tag them
+
+carefully when disconnecting
+
+6 Information relating to emission control is provided on a label stuck to
+
+the right side lower frame tube on models through 1986 or to the night
+‘side upper frame tube on models from 1987-on.
+
+48 Secondary air supply system (1986-on 700/750
+Californiamodels)- general information
+1 This system introduces fresh airinto the exhaust ports to promote the
+buming of any excess fuel present in the exhaust gases, resutting in
+reduction in the amount of harmful hydrocarbons released into the
+eimosphere (see illustrations 17.1¢ and 17.14).
+2 The system is not adjustable and can be tested only by a Honda
+Gealer. Routine checks which can be performed by the owner are given
+in Chapter 1
+
+System components -1986 mode!
+
+23 The air injection control valve is mounted on the left side ofthe front
+cxlinder bank, just below the fuel system purge control valve. The air
+suction valve 's mounted on the front of the oil pan, to the rear of the
+fuel system canister
+
+4 When the engine is running,
+
+the depression present in the intake
+
+duct acts on the vacuum dieptiragm in the air injection cortrol valve
+and opens up the vate.
+
+5 With the valve open, whenever there is @ negative pulse in the
+exhaust system (ie on the overrun), fitered air is drawn from the air
+fiter housing through the air injection control valve and into the exhaust
+ports of the reer cinders. The same system applies for the front
+cylinders, but the fitered air is drawn through the air injection control
+valve and the air suction valve before reacting the exhaust ports
+
+4-22
+
+Chapter
+4 Fuel and exhaust systems
+
+19.3 Exhaust system - early fournto-two design
+
+6 The air suction valve is fitted with a pair of one-way check vaNves
+to prevent the exhaust gases passing from the front cylinders
+through both valves and into the air filter housing. Reed valves
+mounted on the side of the rear cylinders prevent gases from the
+rear cylinders passing through the air injection control valve and
+into the air filter housing.
+
+‘System components - 1987 and 1988 modeis
+7 The air injection control valve is housed in the left side air
+chamber; remove the air chamber side cover for access. The air
+suction valve which supplies the front cylinders is mounted on the
+front of the oll pan, just behind the fuel system canister: the belly
+fairing will require removal for access. The air suction control valve
+for the rear cylinders is mounted below the coolant reservoir tank.
+8 When the engine is running, the depression present in the intake
+duct acts on the vacuum diaphragm in the air injection contro!
+valve and opens up the valve.
+
+9 With the valve open, whenever there is a negative pulse in the
+‘exhaust system (le on the overrun), fitered air is drawn from the air
+filter housing through the air injection control valve and air suction
+valves and into the exhaust ports.
+10 The air suction valves are fitted with a pair of reed valves to
+
+prevent the exhaust gases passing from the cylinders through both
+valves and into the air fier housing.
+
+419 Exhaust system -removal and installation
+
+1982 through 1986 700/750 models and all 1100
+models
+Refer fo iltustrations 19.3,
+
+19.98, 19.96 and 19.11
+
+Mufflers (silencers)
+1__
+
+Place the motorcycle on its main stand.
+
+2 Remove the trim panel (where fitted) from the muffler-to-exhaust
+system joint. Loosen fully the clamp which retains this joint.
+3 Remove the muffler mounting nut and bolt from the passenger
+footpeg bracket, making careful note of the position of all washers,
+spacers and damping rubbers.
+
+Pull
+
+the muffler rearwards, twisting
+
+it from side-to-side to help release it from its joint clamp. Due to
+the joint gaskets, the fits tight (see illustration).
+
+4 Installation is the reverse of the removal procedure, noting that
+new gaskets must
+
+be
+
+used at all joints.
+
+Tighten all fasteners
+
+loosely at first, and then when the system is in its correct position,
+secure them to the specified torque (see Specifications),
+
+Complete system
+5 __ Place the motorcycle on its main stand.
+6 Remove the muffier (silencer) mounting bot on each side and
+
+place @ wood block under
+
+the
+
+assembly to take its weight and
+
+prevent strain while the main exhaust fasteners are released.
+
+7 Remove the nuts that retain the exhaust pipes to the front
+
+cylinder head.
+
+8 Loosen fully the clamps that secure the exhaust chamber to the
+two rear exhaust headpipes.
+‘9 On 700/750 models remove the two exhaust chamber mounting
+bolts (one is located on the left side of the engine and one is
+located
+
+undemeath the engine)
+
+(see illustrations). On
+
+1100
+
+models the chamber is held by a single long bot! on the left side
+
+of the engine (remove the rear left engine cover for access).
+10 Carefully work the rear cylinder pipes out of the chamber stubs
+and lower the complete exhaust system clear of the motorcycle.
+Note that the rear cylinder pipe clamps may need to be rotated to
+
+clear the swingarm.
+11 On all models except the 1985 and 1986 700 Magnas, the rear
+cylinder headpipes can be removed after removing the
+
+exhaust
+
+system. First remove the screws that attach the heat shield to
+both headpipes, then remove the nuts that attach the pipes to the
+
+rear cylinder head bank. Carefully work each pipe up and out the
+side of the motorcycle (see illustration). Due to lack of
+19.9a Exhaust chamber bolts are located on left side of engine
+
+clearance,
+
+the
+
+heat
+
+shield
+
+cannot
+
+removing other components. On 1985
+
+be
+
+removed without
+
+first
+
+Chapter4
+
+Fuel and exhaust systems
+
+19.11 Rear cylinder header pipes can be maneuvered out of
+frame after exhaust system has been removed
+
+REAR HEADPIPES
+
+the rear cylinder neadoi
+412 Installation is the reverse of
+
+the
+
+Tighten all
+ts must be used atall joints.
+first, and then when the system is in its correct
+p
+(see
+ified
+torque
+the spec
+
+1987 and 1988 700/750 Magna models
+Refer to ilustration 19.
+
+sure that the moto
+he belly fairing
+
+re
+
+3k under the
+
+16 Loosen fully the
+
+clamps that se
+
+two rear cyinder exhaust headpip.
+
+stubs
+
+off the
+
+417 If required, the
+
+the connecting
+
+and
+
+pipes
+
+ilustration).
+
+lower
+
+right and left side mutfiers can be separated
+
+pipe clamp bot has been fully
+
+pulled apart
+18 Installation is the
+
+HEADPIPES
+
+ater
+
+428218
+
+;
+
+reverst
+
+19.16 Exhaust system -four-into-four
+design
+
+19.
+
+20.
+
+Ensure
+
+ater the
+the right and lett side muttlers can be separated
+
+bellyfainns
+Remove the
+
+21 Remove the muller (si
+'@ wood block
+
+prevent strain while the main exhaus
+22 Remove the nuts that retain the exhaust pi
+
+o
+
+20
+
+25
+A
+
+pipe clamp b
+
+Engine removal wil
+from the
+
+d by a heat
+
+are
+
+the pipes
+
+dure,
+
+clamp:
+
+d at all joints, Tighten
+
+to the mutters and car
+
+lower
+the
+complete exhaust system
+clear
+of
+the mot
+
+be necessary to remove the rear cylinder
+
+cinder head,
+the head by nu
+
+head
+
+23 Loosen fully the
+
+thas been fully loosened
+and
+the
+joint pulled
+
+rque
+
+all
+
+1 system
+
+is in &s correct position,
+
+(5%
+
+fications,
+
+nating
+
+that new
+
+fasteners loosé
+secure
+t!
+
+

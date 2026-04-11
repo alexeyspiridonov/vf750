@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 2,
+  "manifests": [
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:26266e68167c11fd6c6fc225dc664bfc3b4c1dfff3229e1f6c04b6b0716e33ca",
+      "size": 2851,
+      "platform": {
+        "architecture": "arm64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "12.3.2.arm64_linux.1",
+        "sh.brew.bottle.cpu.variant": "armv8",
+        "sh.brew.bottle.digest": "017679e381a1b0179fead06203c3fceb0123d239c5443840a2e62e6327d3f38a",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "3668332",
+        "sh.brew.bottle.installed_size": "15280018",
+        "sh.brew.license": "Apache-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.14-59-g45db1ce\",\"changed_files\":[\"lib/cmake/qpdf/libqpdfTargets.cmake\",\"lib/pkgconfig/libqpdf.pc\"],\"source_modified_time\":1769280894,\"stdlib\":\"libstdcxx\",\"compiler\":\"gcc-12\",\"runtime_dependencies\":[{\"full_name\":\"jpeg-turbo\",\"version\":\"3.1.3\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.1.3\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2025-12-02\",\"revision\":0,\"bottle_rebuild\":1,\"pkg_version\":\"2025-12-02\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.6.1\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.6.1\",\"declared_directly\":true},{\"full_name\":\"zlib-ng-compat\",\"version\":\"2.3.3\",\"revision\":1,\"bottle_rebuild\":0,\"pkg_version\":\"2.3.3_1\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.5\",\"cpu_family\":\"arm\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"armv8\"}}",
+        "sh.brew.path_exec_files": "bin/qpdf,bin/fix-qdf,bin/zlib-flate"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:5218d63b14440c474c8f2558cc61f4809f138561450a1ee56a8ef9f542a92c61",
+      "size": 2620,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 15.7"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "12.3.2.arm64_sequoia.1",
+        "sh.brew.bottle.digest": "ef43a7ee011cdc0f8401a11392270f07c6c1de49dfbcdc516c53a218fd576402",
+        "sh.brew.bottle.size": "2778783",
+        "sh.brew.bottle.installed_size": "11649301",
+        "sh.brew.license": "Apache-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.14-59-g45db1ce\",\"changed_files\":[\"lib/cmake/qpdf/libqpdfTargets.cmake\",\"lib/pkgconfig/libqpdf.pc\"],\"source_modified_time\":1769280894,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"jpeg-turbo\",\"version\":\"3.1.3\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.1.3\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2025-12-02\",\"revision\":0,\"bottle_rebuild\":1,\"pkg_version\":\"2025-12-02\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.6.1\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.6.1\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 15.7\",\"cpu_family\":\"dunno\",\"xcode\":\"26.2\",\"clt\":\"26.2.0.0.1.1764812424\",\"preferred_perl\":\"5.34\"}}",
+        "sh.brew.path_exec_files": "bin/zlib-flate,bin/fix-qdf,bin/qpdf"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:2387e91d89c9a987dd5f10a3090822348e422c2d97f535ef9856b55afdbb94f0",
+      "size": 2617,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 14.8"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "12.3.2.arm64_sonoma.1",
+        "sh.brew.bottle.digest": "18e956371a6fdc8607834ef6cb7424aac6e925ab72b5621a5517bb1926b66019",
+        "sh.brew.bottle.size": "2808481",
+        "sh.brew.bottle.installed_size": "11746917",
+        "sh.brew.license": "Apache-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.14-59-g45db1ce\",\"changed_files\":[\"lib/cmake/qpdf/libqpdfTargets.cmake\",\"lib/pkgconfig/libqpdf.pc\"],\"source_modified_time\":1769280894,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"jpeg-turbo\",\"version\":\"3.1.3\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.1.3\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2025-12-02\",\"revision\":0,\"bottle_rebuild\":1,\"pkg_version\":\"2025-12-02\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.6.1\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.6.1\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14.8\",\"cpu_family\":\"dunno\",\"xcode\":\"16.2\",\"clt\":\"16.2.0.0.1.1733547573\",\"preferred_perl\":\"5.34\"}}",
+        "sh.brew.path_exec_files": "bin/zlib-flate,bin/fix-qdf,bin/qpdf"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:ed2706b7dad7e4cdd9a9b195c090ef3a4c69fc8cafc922209d779f67629bc5ce",
+      "size": 2612,
+      "platform": {
+        "architecture": "arm64",
+        "os": "darwin",
+        "os.version": "macOS 26"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "12.3.2.arm64_tahoe.1",
+        "sh.brew.bottle.digest": "e1c5478e15efb7eccf35f0e1464ea0384d4afcd8c6d8347de2dd1ef3cdbd48da",
+        "sh.brew.bottle.size": "2786963",
+        "sh.brew.bottle.installed_size": "11680747",
+        "sh.brew.license": "Apache-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.14-59-g45db1ce\",\"changed_files\":[\"lib/cmake/qpdf/libqpdfTargets.cmake\",\"lib/pkgconfig/libqpdf.pc\"],\"source_modified_time\":1769280894,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"jpeg-turbo\",\"version\":\"3.1.3\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.1.3\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2025-12-02\",\"revision\":0,\"bottle_rebuild\":1,\"pkg_version\":\"2025-12-02\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.6.1\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.6.1\",\"declared_directly\":true}],\"arch\":\"arm64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 26\",\"cpu_family\":\"dunno\",\"xcode\":\"26.2\",\"clt\":\"26.2.0.0.1.1764812424\",\"preferred_perl\":\"5.34\"}}",
+        "sh.brew.path_exec_files": "bin/zlib-flate,bin/fix-qdf,bin/qpdf"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:567387d621a4400a49fa62d11e3160a4c86d3937363feecad21bd7caa1bbb810",
+      "size": 2561,
+      "platform": {
+        "architecture": "amd64",
+        "os": "darwin",
+        "os.version": "macOS 14.8"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "12.3.2.sonoma.1",
+        "sh.brew.bottle.digest": "ae97ea43f6d048aeb39bb4ef894305a6c5181bfc1436e415073add0c0ac93b3f",
+        "sh.brew.bottle.size": "2810746",
+        "sh.brew.bottle.installed_size": "11707406",
+        "sh.brew.license": "Apache-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.14-59-g45db1ce\",\"changed_files\":[\"lib/pkgconfig/libqpdf.pc\"],\"source_modified_time\":1769280894,\"compiler\":\"clang\",\"runtime_dependencies\":[{\"full_name\":\"jpeg-turbo\",\"version\":\"3.1.3\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.1.3\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2025-12-02\",\"revision\":0,\"bottle_rebuild\":1,\"pkg_version\":\"2025-12-02\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.6.1\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.6.1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Macintosh\",\"os_version\":\"macOS 14.8\",\"cpu_family\":\"penryn\",\"xcode\":\"16.2\",\"clt\":\"16.2.0.0.1.1733547573\",\"preferred_perl\":\"5.34\"}}",
+        "sh.brew.path_exec_files": "bin/zlib-flate,bin/fix-qdf,bin/qpdf"
+      }
+    },
+    {
+      "mediaType": "application/vnd.oci.image.manifest.v1+json",
+      "digest": "sha256:7f9ccfa7e64f083246f8f6514b145870d77e474ad04d5f53aa15dd40f2c17e34",
+      "size": 2856,
+      "platform": {
+        "architecture": "amd64",
+        "os": "linux",
+        "os.version": "Ubuntu 22.04.5"
+      },
+      "annotations": {
+        "org.opencontainers.image.ref.name": "12.3.2.x86_64_linux.1",
+        "sh.brew.bottle.cpu.variant": "core2",
+        "sh.brew.bottle.digest": "257890275f350e66b25c6cdd5769713d038c41890d4710c644cffc1eb5cc6d66",
+        "sh.brew.bottle.glibc.version": "2.35",
+        "sh.brew.bottle.size": "3820710",
+        "sh.brew.bottle.installed_size": "15202116",
+        "sh.brew.license": "Apache-2.0",
+        "sh.brew.tab": "{\"homebrew_version\":\"5.0.14-59-g45db1ce\",\"changed_files\":[\"lib/cmake/qpdf/libqpdfTargets.cmake\",\"lib/pkgconfig/libqpdf.pc\"],\"source_modified_time\":1769280894,\"stdlib\":\"libstdcxx\",\"compiler\":\"gcc-12\",\"runtime_dependencies\":[{\"full_name\":\"jpeg-turbo\",\"version\":\"3.1.3\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.1.3\",\"declared_directly\":true},{\"full_name\":\"ca-certificates\",\"version\":\"2025-12-02\",\"revision\":0,\"bottle_rebuild\":1,\"pkg_version\":\"2025-12-02\",\"declared_directly\":false},{\"full_name\":\"openssl@3\",\"version\":\"3.6.1\",\"revision\":0,\"bottle_rebuild\":0,\"pkg_version\":\"3.6.1\",\"declared_directly\":true},{\"full_name\":\"zlib-ng-compat\",\"version\":\"2.3.3\",\"revision\":1,\"bottle_rebuild\":0,\"pkg_version\":\"2.3.3_1\",\"declared_directly\":true}],\"arch\":\"x86_64\",\"built_on\":{\"os\":\"Linux\",\"os_version\":\"Ubuntu 22.04.5\",\"cpu_family\":\"zen2\",\"glibc_version\":\"2.35\",\"oldest_cpu_family\":\"core2\"}}",
+        "sh.brew.path_exec_files": "bin/zlib-flate,bin/fix-qdf,bin/qpdf"
+      }
+    }
+  ],
+  "annotations": {
+    "com.github.package.type": "homebrew_bottle",
+    "org.opencontainers.image.created": "2026-02-18T03:13:41Z",
+    "org.opencontainers.image.description": "Tools for and transforming and inspecting PDF files",
+    "org.opencontainers.image.documentation": "https://formulae.brew.sh/formula/qpdf",
+    "org.opencontainers.image.licenses": "Apache-2.0",
+    "org.opencontainers.image.ref.name": "12.3.2-1",
+    "org.opencontainers.image.revision": "a43660cacdb89a17c6a571921235aa9347880701",
+    "org.opencontainers.image.source": "https://github.com/homebrew/homebrew-core/blob/a43660cacdb89a17c6a571921235aa9347880701/Formula/q/qpdf.rb",
+    "org.opencontainers.image.title": "qpdf",
+    "org.opencontainers.image.url": "https://github.com/qpdf/qpdf",
+    "org.opencontainers.image.vendor": "homebrew",
+    "org.opencontainers.image.version": "12.3.2"
+  }
+}

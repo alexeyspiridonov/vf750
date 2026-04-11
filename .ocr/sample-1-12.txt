@@ -1,0 +1,652 @@
+1V45/65 Sabre « Magna
+
+(VF700, 750 & 1100 V-Fours)
+| 1982 to 1988 0 699cc 45 748cc 0 1098cc
+
+Honda
+
+V45/65 Sabre &
+Magna (VF700, 750
+& 1100 V-Fours)
+
+Owners
+Workshop
+Manual
+
+by Penny Cox
+and John H. Haynes
+
+‘Member of the Guild of Motoring Writers,
+
+Models covered:
+
+Honda V45 700/750 Sabre. US 1982 through 1985
+
+Honda VF750S-C Sport. UK 1982 through 1984
+
+Honda V45 700/750 Magna. US 1982 through 1988
+Honda VF750G-H and C-J Custom. UK 1987 through 1988,
+Honda V65 1100 Sabre. US 1984 through 1985
+
+Honda V65 1100 Magna. US 1983 through 1986
+
+(10B1 - 820) ioe
+
+coe
+
+Haynes Publishing
+Sparkford Nr Yeovil
+Somerset BA22 7JJ England
+Haynes North America, Inc
+861 Lawrence Drive
+Newbury Park
+
+California 91320 USA
+
+Contents :
+
+Introductory pages
+‘About this manual 06
+Introduction to the Honda V45/65 Sabre
+‘& Magna (VF7O0, 750 & 1100 V-Fours) 06
+Identification numbers or
+Buying parts 0-8
+General specifications “0.9
+Maintenance techniques, tools and working facilities b-10
+Safety first! 0-16
+Motorcycle chemicals and lubricants 0-17
+Troubleshooting 0-18
+Chapter 1
+Tune-up and routine maintenance 14
+Chapter 2
+Engin, clutch and transmission 24
+Chapter 3
+Cooling system 34
+Chapter 4
+Fuel and exhaust systems 44
+Chapter 5
+Jgnition system 1
+Chapter 6
+Frame, suspension and fina drive 64
+Chapter 7
+Brakes, wheels and tires ral
+Chapter 8
+Electrical system a4
+Conversion factors
+index IND-4
+
+0-4 Honda V45/65 Sabre & Magna (VF700, 750 & 1100 V-Fours)
+
+Honda V45/65 Sabre & Magna (VF700, 750 & 1100 V-Fours) 0-5
+
+‘The 1984 V65 Magna (VF1100C)
+0-6
+
+About this manual
+
+Its purpose
+
+The purpose of this manual is to help you get the best value from
+your metreyde tan do soln several ways. can help you decile
+work must be done, even if you choose to have it done by @
+tDoder eave aspeewast ir carat hz & prosties samaten od
+procedures for routine maintenance and servicing; and it offers
+Alagnostic and repair procedures to follow when trouble occurs
+
+We hope you use the manual to tackle the work yourself. For
+many simpler jobs, doing it yourself may be quicker than arranging an
+appointment to get the vehicle into a shop and making the trips to
+leave it and pick it up. More importantly, a lot of money can be saved
+by avoiding the expense the shop must pass on to you to cover its
+labor and overhead costs. An added benefits the sense of satisfaction
+and accomplishment that you feel ater doing the job yoursel.
+
+Using the manual
+
+‘The manual is divided into Chapters. Each Chapter is divided into
+numbered Sections, which are headed in bold type between horizontal
+lines. Each Section consists of consecutively numbered paragraphs or
+steps.
+
+At the beginning of each numbered Section you will be referred to
+‘any illustrations which apply to the procedures in that Section, The
+reference numbers used in illustration captions pinpoint the pertinent
+‘Section and the Step within that Section, That is, ilustration 3.2 means
+the ilustration refers to Section 3 and Step (or paragraph) 2 within that
+Section,
+
+Procedures, once described in the text, are not normally repeated,
+‘When i's necessary to refer to another Chapter, the reference will be
+given as Chapter and Section number. Cross references given without
+use of the word ‘Chapter’ apply to Sections and/or paragraphs in th
+same Chapter. For example, ‘see Section 8 means in the same
+Chapter
+
+References to the left or right side of the vehicle assume you are
+sitting on the seat, facing forward,
+
+Motorcycle manufacturers continually make changes to specii-
+cations and recommendations, these, when notified, are
+incorporated into our manuals at the
+
+Even though we have prepared this manual with extreme ci
+neither the publisher nor the author can accept responsibilty for any
+€erf0rs in, oF omissions from, the information given,
+
+NOTE
+
+‘A Note provides information necessary to property complete a procedure or information which will make the procedure easier to
+
+‘understand,
+CAUTION
+
+‘A Caution provides a special procedure or special steps which must be taken while completing the procedure where the
+Caution is found. Not heeding a Caution can result in damage to the assembly being worked on,
+
+WARNING
+
+‘A Warning provides a special procedure or special steps which must be taken while completing the procedure where the
+Waming is found. Not heeding @ Warming can result in personal injury.
+
+Introduction to the Honda V45/65 Sabre &
+Magna (VF700, 750 & 1100 V-Fours)
+
+‘The first Honda V-Four engine, introduced in 1982 in a 750 cc (45
+cu in) capacity, was widely regarded as a milestone of motorcycle
+engineering. its 90" V configuration allowed for @ lighter engine which
+‘was more compact, yet more powerful than any previous Honda 750 ce
+
+‘An 1100 cc (65 cu in) engine was introduced in 1983 for the US market
+
+There are two distinctly different models, the Sabre (known as the
+
+‘Spott in the UK) and the Magna (known as the Custom in the UK). The
+
+Sebre ire tom te Magna in heving Honda's Pro-Un rear
+ce
+
+engine. Because of the inherent fave
+engine, as well as the rubber mountings, itis also an unusually smooth
+‘and quiet engine compared with the more conventional in-line, air-
+cooled counterparts in production at the time.
+
+The 750 cc engine was superceded in 1984 by a shorter-stroke
+700 cc model, designed to fall below the heavyweight motorcycle
+impott tariff imposed on machines imported into the US. The 700 cc
+‘engine continued for the remaining years of the Sabre, but a retum
+‘was made to the 750 cc unit in 1988 for the last year of the Magna’s
+production. All models imported into the UK were of 750 cc capacty.
+
+and
+Magne models are custor-styied, with high hanclebers, teardrop tank
+‘and a stepped seat. The Magnas have conventional twin-shock rear
+‘suspension
+
+Both Sabre and Magna have appeared in 700, 750 and 1100 cc
+engine sizes during the model run, and have received a number of
+improvements and modfications. Owners are therefore advised to refer
+to the table under ‘identification numbers’ to establish the exact mode!
+year of their machine before carrying out any of the procedures given in
+the main text of the manual
+Identification numbers
+
+0-7
+
+The frame serial number is stamped into the right side of the
+steering head and the VIN (Vehicle Identification Number) appears
+on the left side of the steering head: on 1987 and 1988 700/750
+‘Magna models, itis attached to the right frame top tube under the
+fuel tank. The engine number is stamped into the right upper side
+of the crankcase, directly above the clutch unit.
+
+A label attached to the right or left frame tube under the side
+cover, or altached to the rear fender top surface under the seat,
+gives the color code of the machine. The carburetor identification
+number appears on the carburetor body casting, just above the
+float chamber joint. Emission control information (US models only)
+is given on a label attached to the right lower frame tube on models
+through 1986, or to the right upper frame tube on later models.
+
+All serial numbers should be recorded and kept in a safe place
+0 they can be furnished to law enforcement officials in the event of
+a then.
+
+‘The frame serial number, engine serial number, carburetor
+Identification number and color code should also be kept in a
+handy place (such as with your driver's license) so they are always
+available when purchasing or ordering parts for your machine.
+
+The procedures in this manual identify the bikes by production
+year. If this is not known, it can be determined from the engine and
+frame serial numbers as shown in the chart on the next page.
+
+Engine number location on crankcase top surface
+
+Emission Control label location (models
+
+through 1986)
+0-8 Identification numbers
+
+Engine number Frame number
+
+US models (except California)
+
+\VE750S (1982) . RCO7E-2000086 to 2015908 CO7O-CM000036 to 012083
+
+\VF750S (1983) . RCO7E-2100018 to 2115544 RCO7O-DM100006 to 108832
+
+\VF7O0S (1984) RC22E-2000008 to 2005978 RC220-EM000007 to 005012
+
+\VF7O0S (1985) RC22E-2100001 to 2103668 RC220-FM100001 to 102800
+
+\VF7S0C (1982) RCO7E-4000046 to 4028232 RCO7 1-CM000033 to 027062
+
+\VF750C (1983) RCO7E-4100013 to 4124548 RCO71-DM100011 to 122819
+
+\VF7O00C (1984) RC21E-2000021 to 2016382 RC210-EM000002 to 014552
+
+\VF700C (1985) RC21E-2100016 to 2110238. RC210-FM100008 to 108900
+
+\VF7O00C (1986) RC21E-2200005 to 2200873 RC210-GM200003 to 208628
+
+\VF7OOC (1987) RC21E-2300015 to 2304909 RC210-HM300007 to 303508
+cor HA305001 to 310415
+
+\VF7S0C (1988) RCO7E-4600001 on RC280-JA100001 on
+
+‘VF 11008 (1984) 'SC17E-2000001 to 2008727 ‘SC170-EM000001 to 010029
+
+‘V1 1008 (1985) ‘SC17E-2100001 on 'SC170-FA100001 on
+
+‘V1 100C (1983) 'SC12E-2000038 to 2018597 'SC120-DM000028 to 017677
+
+V1 100C (1984) '$C12E-2100001 to 2116075 'SC120-EA 100001 to 117084
+
+‘v1 100C (1985) 'SC12E-2200001 to 2208055 'SC120-FA200008 to 208465
+
+\VF1100¢ (1986) 'SC12E-2300020 to 2304336 'SC120-GM300101 to 304425
+
+US California models
+
+\V750S (1982). As above As above
+
+\VF750S (1983). As above ‘As above
+
+\VF7O0S (1984) RC22E-2002575 to 2008007 RC221-EM000006 to 001081
+
+\VF7O0S (1985) RC22E-2100001 to 2103285 RC221-FM100001 to 100863,
+
+\VF7S0¢ (1982) ‘Asabove
+
+\VF750C (1983) Asabove
+
+\VF7O0C (1984) RC21E-2000019 to 2018662 C21 1-EM000003 to 002300
+
+\vF7O00C(1985) RC21E-2100022 to 2108674 RC211-FM100007 to 101325
+
+\VF7O0C (1986) RC21E-220001 1 to 2210193, RC211-GM200001 to 201250
+
+\vF700C(1987) RC21E-2300020 to 2303889 C21 1-HM300006 to 300514
+‘or HA305003t031 1015
+
+\VF7SOC (1988) RCO7E-4600001 on RC281-JA100001 on
+
+\VF1 1005 (1984) '$C17-2000001 to 2009087 'SC170-EA100004 to 117087
+
+‘V1 1005 (1985) ‘SC17E-2100001 on '$C170-FA100001 on
+
+‘VF 1 100¢ (1983) As above As above
+
+\VF1100¢ (1984) ‘SC12E-2102298 to 2114635, 'SC120-EA100004 to 117087
+
+VF 1100¢ (1985) ‘$C12E-2200001 to 2206580 'SC120-FA200001 to 208845
+
+\VF1100¢ (1986) 'SC12E-2300001 to 2302532 'SC120-GM301306 to 302825
+
+UK models
+
+VF750S-C (1982-84) RCO7E-200741 1 to 2020350 RCO7-2000034 to 2008149
+
+\VF750C-H (1987) RCOTE-4501 116 to 4501315 RC28-2000807 to 2000808
+
+\VF750C-J (1988) RCOTE-4604226 on RC28-2100005 on
+
+Note: Unless in this manual, the \given for the 1982 750 Sabre apples to the UK VF7SOS-C, and that for the 1987 and
+
+1988 700/750 Magnas applies to the UK VF75OC-H and C-Jrespectvely.
+
+Buying parts
+
+‘Once you have found all the identification numbers, record them for
+reference when buying parts. Since the manufacturers change
+parts and vendors that various
+‘components on the machine), providing the ID numbers is the only way to
+bbe reasonably sure that you are buying the correct parts.
+‘Whenever possible, take the wom part to the dealer so direct
+‘comparison with the new component can be made. Along the trail from
+the manufacturer to the parts shelf, there are numerous places that the
+pat can end up with the wrong number or be listed
+
+motorcycle, the accessory dealer is usually imited to normal high wear
+items such as shock absorbers, tune-up parts, various engine gaskets,
+cables, chains, brake parts, etc. Rarely wil an accessory outlet have major
+‘suspension components, cylinders, transmission gears, or cases.
+
+Used parts can be obtained for roughly half the price of new ones, but
+you cant always be sure of what youre getting. Once again, take your
+‘wom part to the wrecking yard (breaker) for direct comparison.
+
+Whether buying new, used or rebuilt parts, the best course is to deal
+
+The two places to purchase new parts for your motorcycle - the
+accessory store and the franchised dealer - diffe in the type of parts they
+carry. While dealers can obtain vitually every part for your
+
+iy with someone who in parts for your particular make,
+General specifications
+
+‘Wheelbase.
+1982 750 Sabre model
+11983 through 1985 700/750 Sabre models.
+11982 through 1984 700/750 Magna models.
+11985 and 1986 700 Magna models,
+1987 and 1988 700/750 Magna models
+1100 Sabre models.
+1100 Magna models.
+Overall
+700/750 Sabre models.
+11982 through 1984 700/750 Magna models.
+11985 and 1986 700 Magna models.
+1987 and 1988 700/750 Magna models
+1100 models.
+Overall width
+1982 through 1984 700/750 Sabre models.
+41985 700 Sabre model.
+11982 through 1984 700/750 Magna models.
+1985 and 1986 700 Magna models.
+1987 and 1988 700/750 Magna models
+1100 Sabre models.
+1983 and 1986 1100 Magna models.
+1984 and 1985 1100 Magna models
+‘Overall height
+1982 and 1983 750 Sabre models.
+1984 and 1985 700 Sabre models.
+1982 through 1984 700/750 Magna models.
+11985 and 1986 700 Magna models,
+1987 and 1988 700/750 Magna models
+1100 Sabre models,
+1983 and 1988 1100 Magna models
+1984 and 1985 1100 Magna models
+‘Soat height
+1982 and 1983 750 Sabre models.
+1984 and 1985 700 Sabre models.
+11982 through 1984 700/750 Magna models.
+1985 and 1986 700 Magna models,
+1987 and 1988 700/750 Magna models
+1100 Sabre models.
+1100 Magna models,
+Ground clearance
+1982 and 1983 750 Sabre models.
+1984 and 1985 700 Sabre models.
+11982 through 1984 700/750 Magna models,
+1985 and 1986 700 Magna models.
+1987 and 1988 700/750 Magna models
+1100 Sabre models.
+1100 Magna models,
+Weight (with oil and full fuel tank)
+700/750 models
+1400 Sabre models.
+1100 Magna models,
+
+1562 mm (6155 in)
+1570 mm (61.8 in)
+1540 mm (606 in)
+1565 mm (61.6 in)
+11660 mm (65.4 in)
+1590 mm (628 in)
+1595 mm (62.8 in)
+
+2245 mm (88.4 in)
+2190 mm (86.2 in)
+2220 mm (87.4 in)
+‘2360 mm (92.9 in)
+2280 mm (89.8 in)
+
+830 mm (32.7 in)
+£200 mm (31.5in)
+815 mm (32.1 in)
+£850 mm (33.5 in)
+£800 mm (31.5in)
+790 mm (31.1 in)
+810mm (31.9in)
+£825 mm (32.5in)
+
+1165 mm (45.9 in)
+1460 mm (45.7 in)
+1195 mm (47.0 in)
+41200 mm (47.2 in)
+1185 mm (43.9 in)
+1185 mm (48.7 in)
+41210 mm (47.6 in)
+1230 mm (48.4 in)
+
+780 mm (30.7 in)
+790 mm (31.1 in)
+760 mm (29.9in)
+740 mm (29.1 in)
+705 mm (27.8in)
+£820 mm (323 in)
+200 mm (31.5in)
+
+135mm (6.3 in)
+145mm (57 in)
+165mm (6.5in)
+150mm (5:9in)
+152mm (6.0in)
+145mm (57 in)
+155mm (6.1 in)
+
+‘Approx 243 kg (535 lb)
+288 kg (591 b)
+1285 kg (584 fb)
+
+0-9
+0-10
+
+Maintenance techniques,
+tools and working facilities
+
+Basic maintenance techniques
+
+There are a number of techniques involved in maintenance and
+repair that will be referred to throughout this manual. Application of
+these techniques will enable the amateur mechanic to be more
+efficient, better organized and capable of performing the various tasks
+properly, which will ensure thatthe repair job is thorough end complete,
+
+Fastening systems
+
+Fasteners, basically, are nuts, bolts and screws used to hold two
+or more parts together. There are few things to keep in mind when
+‘working with fasteners. Almost all of them use a locking device of some
+type (either a lock washer, locknut, locking tab or thread adhesive). All
+threaded fasteners should be clean, straight, have threads
+
+helpful to make sketches or take instant photos of components before
+removal.
+
+When removing fasteners from a component, keep track of their
+locations. Sometimes threading @ bolt back in a part, or putting the
+washers and nut back on a stud, can prevent micups later. If nuts and,
+bolts cant be retumed to their original locations, they should be kept in
+‘2 compartmented box or a series of small boxes. A cupcake or muffin
+tin is ideal for this purpose, since each cavity can hold the bolts and
+ruts from a particular area (i.e. engine case bots, valve cover bolts,
+‘engine mount bois, etc.). A pan of this type is especially helpful when
+working on assemblies with very small parts (such as the carburetors
+land the valve train). The cavities can be marked with paint or tape to
+identity the contents,
+
+‘and undamaged corners on the hex head where the wrench fits.
+Develop the habit of replacing all damaged nuts and bolts with new
+ones,
+
+Rusted nuts and bts ehoild be tested wih « pencratag oto
+ease removal and prevent ‘Some
+
+wiring looms, ‘re separated,
+irs a good lisa fo Wentty the two halves win numbered ploces of
+‘masking tape so they can be easily reconnected,
+
+Gasket sealing surfaces
+
+ina spout ype ol can, which works que wel. Afer apphing bv rut
+enetrant, let it -work for a few minutes before trying to loosen the nut
+or bolt. Badly rusted fasteners may have to be chiseled off or removed
+with a special nut breaker, available at tool stores.
+
+Ia bolt or stud breaks off in an assembly, it can be drilled out and
+Temoved with a special tool called an E-Z out (or screw extractor),
+Most dealer service departments and motorcycle repair shops can
+Perform this task, as well as others (such as the repair of threaded
+holes that have been stripped out).
+
+Flat washers and lock washers, when removed from an
+
+Th any gaskets are used to seal the mating
+surfaces between components and keep lubricants, fluids, vacuum or
+pressure contained in an assembly.
+
+Many times these gaskets are coated with a liquid or paste type
+gasket sealing compound before assembly. Age, heat and pressure
+san semetines cause he two pata fo atk togeiey 00 Shy tet they
+‘are very difficult to separate. In most cases, the part can be loosened
+by striking it with a sof-faced hammer near the mating surfaces, A
+regular hammer can be used if a block of wood is placed between the
+hammer and the part. Do not hammer on cast parts or parts that could
+
+should always be replaced exactly as removed. Replace any damaged
+washers with new ones. Always use a flat washer between a lock
+washer and any soft metal surface (such as aluminum), thin sheet
+metal or plastic. Special locknuts can only be used once or twice
+before they lose their locking ability and must be replaced
+
+Tightening sequences and procedures
+
+When threaded fasteners are tightened, they are often tightened
+to a specific torque value (torque is basically a twisting force). Over-
+tightening the fastener can weaken it and cause it to break, while
+lunder-tightening can cause it to eventually come loose. Each batt
+depending on the material i's made of, the diameter ofits shank and
+the material itis threaded into, has a specific torque value, which is
+noted in the Specifications. Be sure to follow the torque recommen-
+dations closely,
+
+Fasteners laid out in a pattem (ie. cylinder head baits, engine
+ccase bolts, etc.) must be loosened or tightened in a sequence to avoid
+‘warping the component. intially, the bolts/nuts should go on finger tight
+only. Next, they should be tightened one full turn each, in a crisscross
+(or diagonal pattern. After each one has been tightened one full turn,
+return to the first one tightened and tighten them all one half turn,
+following the same pattern. Finally, tighten each of them one quarter
+turn at a time until each fastener has been tightened to the proper
+torque. To loosen and remove the fasteners the procedure would be
+reversed
+
+Disassembly sequence
+
+‘Component disassembly should be done with care and purpose to
+help ensure that the parts go back together properly during
+reassembly. Always keep track of the sequence in which parts are
+removed. Take note of special characteristics or marks on parts that
+can be installed more than one way (such as a grooved thrust washer
+on a shaft). I's @ good idea to lay the disassembled parts out on a
+clean surface in the order that they were removed. it may also be
+
+be easily With any) stubborn part, always recheck
+to make sure that every fastener has been removed.
+
+‘Avoid using a screwativer or bar to pry apart components, as they
+can easily mar the gasket sealing surfaces of the parts (which must
+remain smooth). If prying is absolutely necessary, use a piece of wood,
+but keep in mind that extra clean-up will be necessary if the wood
+splinters
+
+After the parts are separated, the old gasket must be carefully
+‘scraped off and the gasket surfaces cleaned. Stubborn gasket material
+con be soaked with a gasket remover (available in aerosol cans) to
+‘soften it so it can be easily scraped off. A scraper can be fashioned
+from a piece of copper tubing by flattening and sharpening one end.
+Copper is recommended because iis usually softer than the surfaces
+to be scraped, which reduces the chance of gouging the part. Some
+gaskets can be removed with a wire brush, but regardless of the
+method used, the mating surfaces must be left clean and smooth. If for
+‘some reason the gasket surface is gouged, then a gasket sealer thick
+enough to fil scratches will have to be used during reassembly of the
+components. For most applications, a non-drying (er semi-drying)
+gasket sealer is best
+
+Hose removal tips
+
+Hose removal precautions closely parallel gasket removal
+Precautions. Avoid scratching or gouging the surface that the hose
+mates against or the connection may leek. Beceuse of various
+chemical reactions, the rubber in hoses can bond itself to the metal
+spigat that the hose fits over. To remove @ hose, frst loosen the hose
+clamps that secure it to the spigct. Then, with slip joint pliers, grab the
+hose at the clamp and rotate it around the spigot. Work it back and
+forth until it is completely free, then pull it off (silicone or other lubricants
+will ease removal if they can be applied between the hose and the
+Cutside ofthe spigot). Apply the same lubricant tothe inside of the hose
+and the outside of the spigot to simplify installation.
+
+Ifa hose clamp is broken or damaged, do not reuse it. Also, do
+not reuse hoses that are cracked, split or torn
+
+Maintenance techniques, tools and working facilities
+
+0-11
+
+‘Spark plug gap adjusting tool
+
+Feeler gauge set
+
+Control cable pressure luber
+
+Tools
+
+A selection of good tools is @ basic requirement for anyone who
+plans to maintain and repair @ motorcycle. For the owner who has few
+tools. if any, the initial investment might seem high, but when compared
+to the spiraling costs of routine maintenance and repair. itis a wise one.
+
+To help the owner decide which tools are needed to perform the
+tasks detailed in this manual, the following tool lists are offered
+Maintenance and minor repair, Repair and overhaul and Special. The
+newcomer to practical mechanics should start off with the Maintenance
+‘and minor repair tool kit, which is adequate for the simpler jobs. Then.
+as confidence and experience grow, the owner can tackle more diffcut
+tasks, buying additional tools as they are needed. Eventually the basic
+kit will be built into the Repair and overhaul tool set. Over 2 period of
+time, the experienced do-it-yourselfer will assemble a tool set complete
+‘enough for most repair and overhaul procedures and will add tools from
+the Special category when tt is felt that the expense is justified by the
+frequency of use.
+
+Maintenance and minor repair tool kit
+‘The tools in this list should be considered the minimum required
+
+for performance of routine maintenance, servicing end minor repair
+work. We recommend the purchase of combination wrenches (box end
+
+Hand impact screwdriver and bits
+
+‘Torque wrenches (left -click type; right - beam type)
+
+0-12 Maintenance techniques, tools and working facilities
+
+‘Snap-ing pliers (top - extemal; bottom - internal)
+
+Valve spring compressor Piston ring removalfinstallation too!
+
+Piston pin puller Telescoping gauges

@@ -1,0 +1,254 @@
+Honda Sabre -> Cafe Racer
+Собранные и верифицированные проекты
+
+Проверено: 2026-04-11
+
+Что искал:
+- именно Honda Sabre, а не просто VF750 / Magna / Interceptor;
+- в первую очередь VF750S / VF700S;
+- отдельно в приложении: VF1100S V65 Sabre;
+- только реальные проекты, build threads, builder pages и видео, а не мусорные агрегаторы.
+
+Что сознательно отсеяно:
+- Magna builds, даже если это VF750;
+- AI/SEO-агрегаторы без первоисточника;
+- image-scrape страницы без реального описания проекта;
+- generic "VF750 custom" без подтверждения, что это Sabre.
+
+Итог по рынку проектов:
+- реально задокументированных Sabre -> cafe racer проектов немного;
+- самые полезные источники: Perry build, HackAWeek, Balkan Moto, K-Speed;
+- для Sabre важнее не количество картинок, а несколько нормальных build logs с понятными решениями по геометрии, баку, хвосту, передку и проводке.
+
+==================================================
+1. ЛУЧШИЕ И САМЫЕ ПОЛЕЗНЫЕ ПРОЕКТЫ
+==================================================
+
+1. Perry / 1984 VF700S Sabre Cafe
+Статус: finished build
+Модель: 1984 Honda VF700S Sabre
+Почему важен:
+- один из самых подробно описанных finished Sabre cafe builds;
+- сильная инженерная переработка, а не только внешний стайлинг;
+- хороший референс по front-end swap, колесам, проводке и посадке.
+
+Ключевые решения:
+- GSX-R750 USD front end;
+- CognitoMoto triples / stem / hub;
+- задний hub от Honda Shadow Aero для spoke rear wheel;
+- handmade steel subframe, side panels, rear cowl;
+- сглаженный tank-seat junction;
+- Acewell digital dash, lithium battery, full harness rework;
+- wider rear wheel / tire fitment.
+
+Основные ссылки:
+- Inazuma Cafe:
+  https://www.inazumacafe.com/2016/10/vf750-sabre-cafe.html
+- CafeRacer.net thread:
+  https://www.caferacer.net/threads/1984-honda-honda-vf700s-sabre-cafe.28714/
+- Bike-urious summary:
+  https://www.bike-urious.com/1984-honda-sabre-vf700s-custom/
+
+Оценка полезности:
+- очень высокий визуальный референс;
+- очень высокий технический референс;
+- особенно полезен, если ты думаешь про современный front end и wire wheels.
+
+--------------------------------------------------
+
+2. HackAWeek / Dino / 1985 VF700S Sabre Cafe Racer
+Статус: finished build, длинная видео-серия
+Модель: 1985 Honda VF700S Sabre
+Почему важен:
+- лучший long-form documentation из найденного;
+- не просто фотосет, а полноценный build process;
+- полезен как для понимания очередности работ, так и для оценки объема проекта.
+
+Что в нем ценного:
+- bike started as a cheap non-running donor;
+- серия шла через разборку, карбы, изготовление seat/tail, бак, электрику;
+- итоговый байк был закончен и позже выставлен на продажу;
+- хороший reference именно для "домашнего" проекта, а не шоу-байка.
+
+Основные ссылки:
+- старт build log:
+  https://hackaweek.com/hacks/the-1985-honda-vf700s-sabre-cafe-racer-conversion-begins/
+- пример одного из апдейтов:
+  https://hackaweek.com/hacks/the-1985-honda-vf700s-sabre-cafe-racer-she-runs/
+- обзор серии:
+  https://www.bike-urious.com/hackaweek-build-1985-honda-vf700s-sabre-cafe-racer/
+- YouTube Part 1:
+  https://www.youtube.com/watch?v=-bHv8hUwE5k
+- финальный sale video:
+  https://www.youtube.com/watch?v=3KKJiFzCObw
+
+Оценка полезности:
+- лучший процессный референс;
+- лучший материал, если хочешь понять "сколько это реально работы".
+
+--------------------------------------------------
+
+3. Balkan Moto / "The Cafe Sabre" / 1982-83 V45 Sabre
+Статус: finished build page + forum thread + video series
+Модель: 1982-83 Honda VF750S V45 Sabre
+Почему важен:
+- это один из немногих современных и нормально описанных DIY-проектов именно на V45 Sabre;
+- автор честно описывает ошибки первой итерации и то, как он потом исправлял геометрию и технические косяки;
+- очень полезен не только как референс дизайна, но и как антипример плохих решений.
+
+Что в нем особенно полезно:
+- первая база оказалась плохой и частично ушла в parts bike;
+- потом проект перезапустили на лучшем доноре;
+- подробно описаны electronics upgrades, structural upgrades и maintenance/performance upgrades;
+- есть важная мысль про опасность "сначала форма, потом функция".
+
+Основные ссылки:
+- builder page:
+  https://balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php
+- V4MuscleBike thread:
+  https://v4musclebike.com/threads/1982-83-v45-sabre-cafe-racer-build.34759/
+
+Оценка полезности:
+- очень высокий DIY-референс;
+- один из лучших источников для человека, который строит Sabre сам, без кастом-ателье.
+
+--------------------------------------------------
+
+4. K-Speed Customs / "Sabre Racer" / VF750S
+Статус: finished pro build
+Модель: Honda VF750S Sabre
+Почему важен:
+- один из самых сильных finished visual references;
+- это не домашний гаражный тред, а профессиональный finished custom;
+- важен как направление по stance, пропорциям, хвосту и общему языку формы.
+
+Что в нем характерно:
+- новый subframe;
+- lowered forks;
+- clip-ons, rearsets;
+- custom exhaust;
+- сильное облегчение и cleanup;
+- tank wrapped in leather, очень специфический стилистический ход;
+- больше про дизайн и подачу, меньше про повторяемость в гараже.
+
+Основная ссылка:
+- Pipeburn:
+  https://pipeburn.com/sabre-racer-honda-vf750s-k-speed-customs/
+
+Оценка полезности:
+- топовый визуальный референс;
+- средний технический референс;
+- полезен, если хочешь понять, как Sabre может выглядеть как действительно цельный cafe build.
+
+--------------------------------------------------
+
+5. Justin Lafuente / VF750S - V45 Sabre
+Статус: video build summary
+Модель: 1982 Honda VF750S
+Почему важен:
+- еще один реальный Sabre donor;
+- меньше документации, чем у HackAWeek или Balkan Moto, но это подтвержденный живой build.
+
+Основная ссылка:
+- YouTube:
+  https://www.youtube.com/watch?v=_IduX2CN3h4
+
+Оценка полезности:
+- хороший быстрый визуальный референс;
+- средняя практическая ценность из-за малого объема документации.
+
+==================================================
+2. ONGOING / НЕПОЛНОСТЬЮ ЗАДОКУМЕНТИРОВАННЫЕ ПРОЕКТЫ
+==================================================
+
+6. Brodyb / 1983 Honda VF750s Cafe Build
+Статус: ongoing forum build
+Модель: 1983 Honda V45 Sabre
+Почему стоит сохранить:
+- это современный build thread;
+- видно исходную постановку задачи;
+- в обсуждении есть здравые замечания про wheel sizes, stance и сложность работы с shaft-drive платформой.
+
+Основная ссылка:
+- CafeRacer.net:
+  https://www.caferacer.net/threads/1983-honda-vf750s-cafe-build.41727/
+
+Примечание:
+- это скорее проект в процессе, чем законченный эталон;
+- полезен для сравнения планов и типичных вопросов на старте.
+
+==================================================
+3. ПРИЛОЖЕНИЕ: V65 SABRE (VF1100S)
+==================================================
+
+7. Sugarkryptonite / Custom cafe racer Honda V65 Sabre
+Статус: finished build, later sold
+Модель: 1984 V65 Sabre VF1100S
+Почему добавлен:
+- это уже не твой прямой 750/700 Sabre, но это все еще Sabre platform;
+- хороший референс по тому, как более крупный Sabre переводят в cafe-racer look;
+- полезен для идей по stance, front-end swap и wiring simplification.
+
+Ключевые решения:
+- Yamaha R1 front end conversion;
+- rear shock from CBR1100XX Blackbird;
+- clip-ons;
+- simplified wiring;
+- custom tail light / custom brackets;
+- мотор и рама полностью пересобраны.
+
+Основная ссылка:
+- V4MuscleBike sale thread with build summary:
+  https://v4musclebike.com/forums/showthread.php?p=404196
+
+Примечание:
+- не прямой аналог VF750S/VF700S, но визуально и концептуально полезен.
+
+==================================================
+4. ПОИСК, КОТОРЫЙ ДАЛ МУСОР ИЛИ НИЗКУЮ ЦЕННОСТЬ
+==================================================
+
+Низкая ценность / не включал в список проектов:
+- AI/SEO blog pages, которые пересказывают чужие проекты без новой информации;
+- image scraping pages;
+- generic VF750 cafe racer pages, которые оказываются Magna, а не Sabre;
+- listings без истории постройки.
+
+Это важно, потому что по запросу "VF750 cafe racer" очень легко утонуть в Magna builds и мусорных агрегаторах.
+
+==================================================
+5. ВЫВОДЫ ПО SABRE КАК БАЗЕ ПОД CAFE RACER
+==================================================
+
+Что повторяется почти во всех удачных Sabre builds:
+- stock tank чаще сохраняют, но дорабатывают переход к seat cowl;
+- rear subframe почти всегда режут и переделывают;
+- fork/front-end swap очень частый путь;
+- штатные маги часто меняют на spoke wheels или хотя бы modern wheel setup;
+- clip-ons + rearsets радикально меняют восприятие Sabre;
+- проводку почти всегда упрощают;
+- цифровой приборный блок встречается очень часто;
+- главный вопрос не "как сделать красивый хвост", а "как не убить геометрию и ход подвески".
+
+Главные риски именно на Sabre:
+- длинная база и тяжелый силуэт;
+- awkward tank/seat transition;
+- shaft drive усложняет rear wheel choices;
+- легко сделать байк визуально низким, но технически плохим;
+- V4 + радиатор + plumbing требуют аккуратности, чтобы build не выглядел случайным набором деталей.
+
+==================================================
+6. САМЫЕ ЦЕННЫЕ ССЫЛКИ, ЕСЛИ СМОТРЕТЬ ТОЛЬКО 4
+==================================================
+
+1. Perry VF700S:
+https://www.inazumacafe.com/2016/10/vf750-sabre-cafe.html
+
+2. HackAWeek:
+https://hackaweek.com/hacks/the-1985-honda-vf700s-sabre-cafe-racer-conversion-begins/
+
+3. Balkan Moto:
+https://balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php
+
+4. K-Speed / Pipeburn:
+https://pipeburn.com/sabre-racer-honda-vf750s-k-speed-customs/

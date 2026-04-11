@@ -1,0 +1,346 @@
+8-60
+
+Chapter
+8. Electrical system
+
+Conversion factors
+Length (distance)
+
+x
+
+0.0394
+
+X
+
+3.281
+
+‘= Inches (in)
+= Feet (ft)
+
+X
+
+0621
+
+= Miles:
+
+x
+xX
+xX
+X
+
+0.061
+176
+088
+0833
+
+‘= Cubie inches (cu in; in?)
+
+X
+xX
+X
+x
+
+1.087
+022
+0833
+0264
+
+KKK
+
+Inches (in)
+
+Milos:
+
+Volume (capacity)
+
+Cubic inches (cu in; in’)
+
+Imperial pints (imp pt)
+Imperial
+quarts (Imp qt)
+Imperial quarts (Imp qt)
+US quarts (US qt)
+
+Imperial gallons (imp gal)
+XXKKKKXK
+
+Imperial gallons (imp gal)
+US gallons (US gal)
+
+Mass (weight)
+Ounces (oz)
+
+xx
+
+ind (lb)
+
+28.35
+
+=Grams
+(9)
+
+X
+
+0.035
+
+0.454
+
+= kilograms
+(ko)
+
+X
+
+2205
+
+= Newtons
+(N)
+
+x:
+
+a
+
+= Nowtons
+(N)
+
+X
+
+0.225
+
+0.070
+
+= Kilograms-torce
+per square.
+
+X_
+
+14.223,
+
+0.068
+
+= Atmospheres
+(atm)
+
+Xx
+
+14696
+
+0.089
+
+= Bors
+
+x
+
+148
+
+6.895
+
+= Kiloposcals (kPa)
+
+x
+
+0145
+
+0.01
+
+= Kilograms-force
+per
+
+x
+
+98.4
+
+1.162
+
+=
+
+0.278
+xxx
+
+4448.
+
+Ry
+
+Rilopascals (kPa)
+
+Torque (moment of force)
+x55
+
+ids-foree inchos
+
+(orn bo
+
+Pounds-force inches
+
+Velocity (speed)
+
+Miles per hour (miles/hr; mph)
+
+Fuel consumption*
+
+Degrees Fahrenheit
+
+.
+
+contimetre
+
+(kgf
+ern:
+kg
+em)
+
+=
+
+(Wen)
+
+= Pounds-force
+feet (Wf ft: ft)
+
+9.81
+
+(psi:
+
+= Kilopascals (kPa)
+
+«X_—«0.868
+
+= Pounds-force inches.
+
+x
+
+(bt in; 1b in)
+‘= Pounds-force inches.
+
+885
+
+to in)
+{oti
+
+X12
+
+= Pounds-forco
+
+xX
+
+7233
+
+= Pounds-force
+feet (Ibf ft; tb ft)
+
+= Newion motres (Nm)
+=
+6
+
+x
+X
+
+0738
+9.804
+
+= Newton metres (Nm)
+
+748.7
+
+= Watts (W)
+
+X
+
+0.0013
+
+= Horsepow
+(hp)
+er
+
+x
+
+1.609
+
+=
+Kilometres
+per hour
+(krvhr; kph) X
+
+0.621
+
+‘= Mile
+per hour
+s (miles/hr; mph)
+
+2.825
+2362
+
+‘= Miles per gation, Imperial (mpg)
+‘= Miles per gallon, US (mpg)
+
+Miles por,gallon, Imperial (mpg) x
+Miles per'gallon, US (mpg)
+x
+
+Temperature
+
+centimetre (kgt/em?; ko/em*)
+
+0113 =
+0.083
+
+Power
+
+‘Horsepower (hp)
+
+‘contimetre (kgt/om’: kg/em*)
+
+0.138 =
+ecumen
+
+Pounds-foree feot (ibf ft; Ib ft)
+Newton metres (Nm)
+
+= Kilograms-force
+(kof: ka)
+
+x
+
+Albt in; tb in)
+Pounds-force
+A ino in)
+Pounds-force feot (Ibf ft; ib ft)
+
+‘0.1
+
+1.356
+0102
+
+m)
+m; kg f
+{kg
+
+m)
+gf
+m; kg
+fk
+
+0.354 =
+Kilometres
+per
+litre (kr)
+0.425 = Kilometres
+per litre (kvl)
+
+= (Cx 1.8) + 32
+
+X
+X
+
+Wo in; fb in)
+
+= Pounds-force feet (ibf ft; tb ft)
+
+Degrees Celsius (Degrees Centigrade;
+°C)
+
+to convert from miles per gallon (mpg) to litres/100 kilometres {W100km),
+ace tog timporial «1100 kon = 282 and pp 10S) x 1100 bm = 296
+‘ei common
+
+= (°F - 32) x 0.56
+
+
