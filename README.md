@@ -1,38 +1,68 @@
 # Honda Sabre 1982 Cafe Racer Project
 
-This repository is dedicated to a `Honda Sabre 1982` to `cafe racer` conversion project.
+This repository is the technical base for a `1982 Honda VF750S Sabre` to `cafe racer` conversion.
 
-It collects the source materials, references, and working files for the motorcycle:
-
-- service manuals for the Honda V4 Sabre/Magna platform;
-- parts catalogs and diagrams;
-- visual references and images;
-- processed documentation prepared for OCR, section splitting, and structured storage.
+It collects service documentation, parts catalogs, research notes, and reference materials for the project.
 
 ## Project Goal
 
-Build a single technical base for the motorcycle conversion project:
+- Understand the stock V45 Sabre platform in detail.
+- Prepare and organize all service documentation into a searchable, structured format.
+- Research key conversion areas: front end, EFI, electrical, and overall cafe racer design.
+- Plan the visual and technical conversion into a cafe racer.
 
-- understand the stock platform in detail;
-- prepare a list of assemblies for inspection, service, and replacement;
-- plan the visual and technical conversion into a `cafe racer`;
-- organize all documentation into a clean and usable file structure.
+## Repository Structure
 
-## Current Materials
+```
+pdf/                          source PDFs (manuals, parts lists)
+output/
+  haynes-manual/              Haynes service manual — OCR, searchable, split by section
+  partslist-vf700s-sabre/     VF700S parts catalog — OCR, searchable, split by section
+  electrical-reference/       electrical materials collected into one package
+scripts/                      Python scripts for PDF processing
+images/                       reference images
+```
 
-The repository currently includes:
+## Documentation
+
+### Source PDFs
 
 - [Honda VF700/750/1100 Haynes service manual](pdf/Honda%20VF700,750,1100%20v45,65%20Sabre%20And%20Magna%20V-Fours%2082-88%20Haynes%20Service%20Manual%20Eng%20By%20Mosue.pdf)
-- [VF700S Sabre parts list](pdf/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf)
+- [VF700S Sabre parts list (1984–1985)](pdf/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf)
 
-## Documentation Work
+### Processed Output
 
-Planned documentation tasks:
+The source PDFs have been converted into searchable PDFs with OCR text layers and split into sections:
 
-1. Convert the source PDFs into proper searchable PDFs with OCR text layers.
-2. Split the materials according to their table of contents and motorcycle subsystems.
-3. Build a clean project structure for continued work on the bike conversion.
+- **Haynes manual** — 10 sections from front matter through electrical system and conversion factors.
+- **Parts catalog** — 5 sections: front matter, engine (B1), frame (E1), part number index, description index.
+- **Electrical reference** — a combined package with ignition system, electrical system, wiring diagrams (all models + 1982 750 Sabre specifically), electrical parts catalog, and troubleshooting notes.
+
+Each output folder contains a `manifest.json` with source mappings and page ranges.
+
+### Processing Scripts
+
+- `scripts/process_haynes_manual.py` — OCR and split the Haynes service manual.
+- `scripts/process_partslist.py` — OCR and split the parts catalog.
+- `scripts/build_electrical_reference.py` — assemble the electrical reference package.
+
+## Research Notes
+
+| File | Topic |
+|------|-------|
+| `fork swap.txt` | Modern front-end conversion options for the VF750S / VF700S Sabre. Confirmed builds, donor parts, and warnings. |
+| `ecu swap.txt` | EFI conversion research: throttle body options, ECU choices (Speeduino, Megasquirt, etc.), sensor requirements. |
+| `sabre-cafe-racer-projects.txt` | Curated list of real Sabre cafe racer builds with links and analysis (Perry, HackAWeek, Balkan Moto, K-Speed, etc.). |
+| `resources.txt` | Forums, wikis, parts sources, Facebook groups, Reddit, and YouTube channels for the VF750 platform. |
+| `problems.txt` | Known issues tracker (empty, to be filled during the build). |
+
+## Key References
+
+- **V4MuscleBike** — main community forum for the V45/V65 Sabre and Magna platform.
+- **VF1000 Forum / VF750 section** — technical discussions including EFI and swap threads.
+- **Perry / 1984 VF700S Sabre Cafe** — the most thoroughly documented modern front-end conversion on a Sabre.
+- **HackAWeek / 1985 VF700S** — the best long-form video build series for a Sabre cafe racer.
 
 ## Status
 
-This repository is being used as the working base for the `Honda Sabre 1982 Cafe Racer` project.
+Active working repository for the `1982 Honda Sabre cafe racer` project. Documentation processing is complete. Research phase is in progress.
