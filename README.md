@@ -87,6 +87,9 @@ The `images/` folder now includes several reference groups:
 - `images/stock/` — stock Sabre reference photos.
 - `images/cafe-racer/` — collected Sabre cafe racer build photos.
 - `images/pinterest/` — downloaded images from the `saber` Pinterest board for visual comparison and inspiration.
+- `images/build-process/` — internet-sourced build photos from Perry / Inazuma, Balkan Moto, and video references.
+- `images/repair-service/` — repair-oriented reference thumbnails for carb rebuild and tuning.
+- `images/README.md` — source index for the image folders.
 - root-level image files in `images/` — previously collected standalone references.
 
 ## Key References
