@@ -1,0 +1,1225 @@
+SPEEDOMETER e TACHOMETER
+
+CONTROL LEVER e SWITCHES e CABLES
+
+CONTENTS
+TITLE
+
+PAGE GRID
+
+TACHOMETER...
+
+AIR CLEANER ..............
+
+BATTERY .................
+BRAKE CALIPER. FR...
+
+BRAKE MASTER. FR...
+
+56 E2
+
+97 F10
+95 F9
+76 E12
+
+61 E4
+
+BRAKE PANEL.
+RR... 80
+BRAKE PEDAL .........._.. 102
+CABLES ..... .......
+59
+CANISTER (AC) . ........ 132
+CLUTCH MASTER CYLINDER 64
+
+CONTROL LEVER
+
+...
+
+_....
+
+Fe
+G1
+
+E3
+Ha
+£6
+
+59 £3
+
+CYLINDER .......... .... +61 EF4
+ELECTRIC PARTS ........ 117 GB
+
+ne
+
+FENDER. FR...
+
+36
+
+FENDER,AR
+
+70 E9
+
+112 G6
+
+FINAL DRIVEN GEAR .. .... B4 F4
+FRAME ........ 2... 123 Gt1
+FUEL TANK |.
+67 FS5
+FUEL VALVE .
+87 F5
+
+HANDLEBAR .
+HEADLIGHT ..
+HORN
+0 de,
+
+MUFFLER.
+
+RADIATOR
+F 14MBOE02
+4 = VF700S'84
+
+VV
+
+5 = VF700S'85
+
+F Fa
+0
+
+g
+
+Ole
+8
+
+4
+
+5]£1]
+
+28 SCREW, OVAL, 4X8 ......esesceacee
+
+4
+
+29 SCREW, OVAL, 5X20 ....cecaccccces
+
+No.
+
+DESCRIPTION
+
+C
+
+VeV
+
+5 = VF700S'85
+
+Q
+
+gia
+
+8
+
+F14MBOEGS
+4 = VF700S'84
+
+ae
+
+o
+
+T
+
+FRAME
+
+FROM
+
+a
+
+TO
+
+8
+
+8B
+
+DESCRIPTION
+
+4
+
+5]/&]
+
+Q
+
+|PART NUMBER
+
+CODE
+
+5
+
+4
+
+193700-04008-08
+
+0412338
+
+1 CABLE COMP. A, THROTTLE .........
+
+4
+
+4
+
+5
+
+1
+
+|93700-05020-06
+
+0768721
+
+2 CABLE COMP. B, THROTTLE .........
+
+4
+
+30 SCREW, TAPPING, 3X10 ............
+
+4
+
+5
+
+2
+
+193901-32220
+
+1018290
+
+3 CABLE COMP., CHOKE .........ec0e.
+
+31 NUT, HEX., 30M wcccccccccecesceee
+
+4
+
+5
+
+2
+
+194001-03000-05
+
+0166694
+
+4 LEVER, CHOKE
+
+....ccscececacncces
+
+32 NUT, HEX., OMM wc cccscscccecccce
+
+4
+
+5
+
+4
+
+|96001-06000-0s
+
+0156067
+
+c cece cncccence
+
+4
+
+5
+
+&
+
+194001-06200-05
+
+33 NUT, HEX., 3M oc cccccccscccceces
+
+4
+
+5
+
+1
+
+34 NUT CAP, 8M...
+
+NUT, HEX., OM...
+
+35
+
+sc eecceeeees wee
+
+Ole
+
+No.
+
+FROM
+
+TO
+
+FB
+
+STAND. 108 G3
+
+a
+
+STRIPE 0. 128 H2
+
+68 EB
+
+104 G2
+
+|PART NUMBER
+
+CODE
+
+TAILLIGHT... ssiwi«ti«i«wi«*s 116 GB
+
+5
+
+1
+
+117910-MB0-950
+
+1781384
+
+Lite-on
+
+65
+
+1
+
+|17920~mB0-950
+
+1781392
+
+WHEEL FR bee e cee eee ees 78 a
+
+4
+
+5
+
+1
+
+|17950-B0-950
+
+1781400
+
+WIRE HARNESS ......._.. 117 G8
+
+4
+
+§
+
+1
+
+|17962-KE8-700
+
+1669324
+
+LEVER, CHOKE .....cccuvccacccces
+
+4
+
+5
+
+1
+
+|17962-KE8-701
+
+1761313
+
+2043255
+
+5 BAND B1, WIRE ......cccccsuccccce
+
+4
+
+5
+
+2
+
+|32161-404-000
+
+0468819
+
+194002-03000-0s
+
+1458777
+
+6 SWITCH ASSY., STARTER/ENGINE STOP|
+
+4
+
+~-
+
+1
+
+|35130-"B3-670
+
+1743087
+
+TOOLS ..000 126 W1
+
+[45
+
+1
+
+194021-08020-0s
+
+0169524
+
+SWITCH ASSY., STARTER/ENGINE STOP | 4
+
+—-
+
+1
+
+|55130-MB3-770
+
+1852351
+
+45
+
+&
+
+194101-06000
+
+0059071
+
+SWITCH ASSY., STARTER/KILL
+
+......
+
+--
+
+5
+
+1
+
+135130-"B0-910
+
+1876713
+
+WASHER, PLAIN, OMM
+
+......0. voeeee
+
+45
+
+4
+
+{94101-06080
+
+3136074
+
+SWITCH ASSYH., STARTER/KILL
+
+.....
+
+-~
+
+5
+
+1
+
+|35130-"B0-911
+
+4025573
+
+veoaa nen os0
+
+etna
+
+scot s ne
+weo-3e'
+
+3797173
+
+5
+
+4
+
+19410106800
+
+36 WASHER, SPRING, 34M .......ceeees 4
+
+0345900
+
+5
+
+3
+
+[94111-03800
+
+; SWITCH ASSY., STARTER/ENGINE STOP a 5
+
+37 WASHER, SPRING, OMM .....ccesee0014
+
+0285668
+
+5
+
+4
+
+nitty ey im laut “seeere 4
+
+194111-06000
+
+0058974
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 FRAME NO. RC221-EM000006 TO EM001081
+
+92
+
+.............
+
+STEP...
+
+....-0.+-+0.
+
+VF700S'84 FRAME NO. ; RC220-EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
+
+71 €9
+
+SIDE COVER
+
+STEERING STEM
+
+WASHER, PLAIN, OMY
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+
+SHOCK ABSORBER, FR.
+
+T
+
+vy
+
+FRAME
+
+120 G10
+
+SEAT ..00000o lw,
+90 F7
+SHIFT PEDAL.............. 102 G1
+SHOCK ABSORBER ........ 110 G5
+
+Q
+
+WASHER, PLAIN, 6M ....00 buccens 4
+
+58
+
+c
+
+E7
+£1
+EB
+Fi2
+
+SPAR UNNB
+
+Q
+
+g SIA
+
+Y
+
+66
+54
+68
+=... ddd... 100
+
+I
+
+E3
+
+SSY.,
+
+SIGNAL
+
+«+++. .
+
+;
+
+;
+
+8 PIPE, THROTTLE GRIP ....cccececes
+
+4
+
+5
+
+1
+
+|53141-300-010
+
+0237586
+
+9 GRIP, R. HANDLEBAR ......-.eceece
+
+4
+
+5
+
+1
+
+|53165-390-780
+
+0483420
+
+10 GRIP, L. HANDLEBAR .....cecceuees
+
+4
+
+5
+
+1
+
+[53166-390-780
+
+0483438
+
+© AMERICAN HONDA MOTOR
+CO. LTD. 1993
+
+ie 7
+
+59
+
+VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103668
+
+VF700S'85 FRAME NO.; RC220-FM 100001 TO FM102800
+VF700S'8S ENGINE NO.; RC2Z2E-2100001 TO 2103285
+VF700S'8S FRAME NO.; RC221-FM100001 TO FM100863
+
+GRID
+
+E3
+
+CONTROL LEVER e SWITCHES e CABLES
+
+FRONT BRAKE MASTER e CYLINDER
+
+CONTENTS
+TITLE
+TACHOMETER
+
+PAGE GRID
+56 E2
+
+AIR CLEANER .
+
+oN
+
+~~
+
+BRAKE MASTER FR
+BRAKE PANEL RR
+BRAKE PEDAL.
+
+19
+?
+
+|
+
+FENDER FR
+
+Oo
+
+OA
+
+ss
+Re!
+
+BLOCK NO.
+
+No.
+
+8
+
+F-3/4
+
+DESCRIPTION
+
+8
+
+5
+
+5
+
+6
+
+4
+
+5|/E]/
+
+SERIAL NUMBER
+
+FROM
+
+To
+
+gs
+
+SIA
+
+&
+
+B/C
+
+|PART NUMBER
+
+HONDA
+
+Ret
+
+CODE
+
+No.
+
+BLOCK NO.
+
+DESCRIPTION
+
+4
+
+5
+
+_
+
+MUFFLER
+
+RADIATOR
+SEAT
+
+°
+
+iw 68 EB
+66 E7
+
+54 E1
+
+is
+
+100 F12
+
+120 G10
+90 F7
+
+—
+
+SHIFT PEDAL ..
+a
+SHOCK ABSORBER _.
+
+102 G1
+110 GS
+
+5|/E]
+
+71
+
+132 Ge
+106 G3
+
+STEP...
+
+104 G2
+
+HONDA
+
+SWINGARM oe
+
+108 Gs
+
+FROM
+
+CODE
+
+TALLIGHT |
+
+116 GB
+
+TOOLS
+
+126 H1
+
+T
+
+STEERING STEM
+
+R
+
+STRIPE.
+
+TO
+
+R
+
+Q
+
+|PART NUMBER
+
+E9
+
+92 FB
+
+STAND ._..
+
+Y
+
+SERIAL NUMBER
+
+Fa
+
+SPARK UNIT
+
+Q
+FRAME
+
+Ba
+
+68 EB
+
+128 H2
+
+..
+
+TT MIRROR, R.
+
+ccesscsncsscecssceees
+
+4
+
+5
+
+1
+
+|88110-mB0-003
+
+1250703
+
+1 SWITCH ASSY., FR. STOP ....c.000.
+
+4
+
+5
+
+1
+
+|35340-MAS-671
+
+T2 MIRROR, bo
+
+0952267
+
+ccc c cee ccnccnscccavcs
+
+TOPBRIDGE
+
+4
+
+5
+
+6 ©
+
+1
+
+[88120-MB0-003
+
+4250729
+
+SWITCH ASSY., FR. STOP ...ccceues
+
+4
+
+5
+
+1
+
+|35340-ML7-000
+
+2609803
+
+wee
+
+os ft
+
+SWITCH ASSY., FR. STOP
+
+.......00.
+
+4
+
+5
+
+1
+
+|35340-MM5-600
+
+2562421
+
+WIRE HARNESS
+
+......eccaeeee
+
+4
+
+--
+
+1
+
+|45124-MB0-950
+
+1782036
+
+».2+.+sseseee, 5
+
+1876895
+
+2... cccccscncee
+
+13 SCREW-WASHER, 5X20
+
+.....ccceeees
+
+4
+
+5
+
+1
+
+193892-05020-07
+
+1078351
+
+14 SCREW-WASHER, 5X28
+
+.....cecceece
+
+4
+
+5
+
+2
+
+|93892-05028-07
+
+0692673
+
+15 SCREW-WASHER, 5X45
+
+......eseeeee
+
+4
+
+5
+
+1
+
+|93892-05045-07
+
+0692699
+
+2 HOSE, L. FR. BRAKE
+HOSE, L. FR. BRAKE
+
+1
+
+445126-MB0-910
+
+4
+
+-
+
+1
+
+165125-MB0-950
+
+1782044
+
+2... cececnase -~
+
+5
+
+1
+
+|(45125-mB0-910
+
+1876903
+
+J...
+cc
+ccceceens
+
+4
+
+5
+
+1
+
+145126-MB0-950
+
+1782051
+
+4
+
+5
+
+1
+
+145127-MA1-003
+
+1054832
+
+6 CYLINDER ASSY., FR. BRAKE MASTER .] 4
+
+5
+
+1
+
+145500-mJ6-006
+
+1764950
+
+7 PROTECTOR winuccnnvawcncccee eoee
+
+[4
+
+5
+
+1
+
+[45512-MA6-006
+
+1235688
+
+8 CAP, MASTER CYLINDER ......sceeee14
+
+5
+
+1
+
+[45513-KE5~026
+
+1771112
+
+9 HOLDER, MASTER CYLINDER .......0.
+
+4
+
+5
+
+1
+
+|45517-MB0-006
+
+1235738
+
+10 PLATE, DIAPHRAGM .......ceees owe | 4&
+
+5
+
+1
+
+165518-MB4-671
+
+1666890
+
+11 DIAPHRAGM ....ccesecacccuces woee l 4&
+
+5
+
+1
+
+145520-MA5-672
+
+1547256
+
+12 BOOT, MASTER CYLINDER ....seceeee
+
+5
+
+1
+
+145522-422-000
+
+0692822
+
+3 HOSE, R. FR. BRAKE
+HOSE, R. FR. BRAKE
+
+4 HOSE B, FR. BRAKE
+
+5 JOINT, TWO WAY (NISSIN)
+
+60
+
+F-4|4
+
+70 E9
+
+SIDE COVER ..._..
+
+O|E
+
+a
+
+Q
+
+HORN
+
+HEADUGHT .
+
+1 v7
+
+117 GB
+_. 112 GB
+
+SHOCK ABSORBER. FR.
+
+T
+F
+
+a
+
+87 F5
+87 F5
+
+HANDLEBAR
+
+vat
+
+Fla
+
+O
+
+Y
+
+FRAME
+
+sts
+
+123 G11
+
+FUEL TANK FLEL VALVE
+
+Vv
+
+6 = VF700S'85
+
+Q
+
+FRAME
+
+FIAMBOEOS
+
+4 = VF700S'84
+
+O;E
+
+59 E3
+
+61 E4
+
+ELECTRIC PARTS...
+
+f
+
+?
+
+F14MBOEO3
+
+O
+
+CONTROL LEVER
+
+132 H4
+
+FINAL DRIVEN GEAR
+
+Pe
+
+; sin
+
+.
+
+«ES
+aBO F2
+102 G1
+
+(wssti‘(‘i‘“C;t«~SO EB
+
+FENDER. RR.
+
+\
+
+Vv
+
+sé.
+
+ss
+
+CLUTCH MASTER CYLINDER 64 E6
+
+14
+
+5 = VF700S'85
+
+_ 76 E12
+
+CARES.
+i
+CANISTER (AC)
+
+CYLINDER
+
+ed,
+
+97 F1I0
+
+95 F9
+
+BRAKE CALIPER, FR
+
+13
+
+6—
+
+4 = VF700S'B4
+
+.
+
+BATTERY. ssi‘
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+VF700S'84 ENGINE NO. 7 RC22E-2000008 TO 2005978
+VF7005'84 FRAME NG.; RC220-EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+E4
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 To 2103285
+VF700S"'85 FRAME NO. ; RC221-FM100001 TO FM100863
+
+..secaces
+
+14
+
+¢ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+117 G8
+
+61
+
+D
+Gr
+
+E4
+
+
