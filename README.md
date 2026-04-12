@@ -38,6 +38,7 @@ scripts/                      Python scripts for PDF processing
 images/                       reference images: stock, cafe-racer, Pinterest board downloads
 howto.md                      common maintenance / repair / modification tasks
 problems.md                   common VF750 problems and fixes (English)
+top-end-oiling.md             standalone note on improving cylinder-head oil delivery
 ```
 
 ## Documentation
@@ -74,11 +75,13 @@ Each generated manual package contains a `manifest.json` with source mappings an
 | `resources.md` | Forums, wikis, parts sources, Facebook groups, Reddit, and YouTube channels for the VF750 platform. |
 | `problems.md` | Common VF750 / V45 platform problems with symptoms, causes, and practical fixes. |
 | `howto.md` | Workshop-oriented how-to guide for common maintenance, diagnostics, repairs, and cafe racer conversion tasks. |
+| `top-end-oiling.md` | Focused guide to improving oil delivery to the cylinder heads and reducing VF top-end wear risk. |
 
 ## Practical Guides
 
 - `howto.md` consolidates the most typical jobs for the platform: valve adjustment, cam inspection, top-end oil mod, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, and common cafe racer fabrication tasks.
 - `problems.md` summarizes the recurring failure points of the VF750 family: cam wear, top-end oiling, cam chain tensioners, charging system, carburetors, CDI failures, Pro-Link wear, and related troubleshooting.
+- `top-end-oiling.md` expands the cylinder-head lubrication topic into a standalone practical note with baseline checks, external oil-feed guidance, and limits of the common oiling mod.
 
 ## Image References
 
@@ -113,6 +116,7 @@ Current state:
 - research notes cover EFI, front-end swaps, project references, and community resources;
 - a practical service and modification guide has been added in `howto.md`;
 - common VF750 issues have been consolidated in English in `problems.md`;
+- a standalone `top-end-oiling.md` note now covers practical cylinder-head oiling improvements;
 - image references are now organized into stock, custom, and Pinterest-derived sets;
 - project markdown links were audited on 2026-04-12 and outdated internal `pdf/` and `output/` paths were corrected to the current `manuals/` layout.
 
