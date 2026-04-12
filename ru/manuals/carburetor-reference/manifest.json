@@ -1,0 +1,91 @@
+{
+  "project_bike_context": "Проект Honda Sabre cafe racer. Этот пакет собирает карбюраторные материалы для работы по V45 Sabre, но репозиторий смешивает заводские материалы по 1982 VF750S, многолетнее покрытие Haynes и fiche по VF700S 84/85.",
+  "sources": {
+    "haynes_manual": "manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+    "shop_manual": "manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
+    "parts_catalog": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf"
+  },
+  "outputs": [
+    {
+      "type": "copy",
+      "source": "manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.pdf",
+      "output": "manuals/carburetor-reference/manuals/01-haynes-tune-up-and-routine-maintenance.pdf"
+    },
+    {
+      "type": "copy",
+      "source": "manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.txt",
+      "output": "manuals/carburetor-reference/manuals/01-haynes-tune-up-and-routine-maintenance.txt"
+    },
+    {
+      "type": "copy",
+      "source": "manuals/haynes-manual/sections/04-fuel-and-exhaust-systems.pdf",
+      "output": "manuals/carburetor-reference/manuals/02-haynes-fuel-and-exhaust-systems.pdf"
+    },
+    {
+      "type": "copy",
+      "source": "manuals/haynes-manual/sections/04-fuel-and-exhaust-systems.txt",
+      "output": "manuals/carburetor-reference/manuals/02-haynes-fuel-and-exhaust-systems.txt"
+    },
+    {
+      "type": "extract",
+      "source": "manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
+      "pages": "39-60",
+      "output_pdf": "manuals/carburetor-reference/manuals/03-shop-manual-maintenance.pdf",
+      "output_txt": "manuals/carburetor-reference/manuals/03-shop-manual-maintenance.txt",
+      "note": "Заводской раздел по обслуживанию со свечами, клапанными зазорами, синхронизацией карбюраторов, холостым ходом, подсосом и air cleaner."
+    },
+    {
+      "type": "extract",
+      "source": "manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
+      "pages": "61-82",
+      "output_pdf": "manuals/carburetor-reference/manuals/04-shop-manual-fuel-system.pdf",
+      "output_txt": "manuals/carburetor-reference/manuals/04-shop-manual-fuel-system.txt",
+      "note": "Заводской раздел по топливной системе: снятие и разборка карбюраторов, уровень поплавков, pilot screw, бак, automatic fuel valve и air cleaner."
+    },
+    {
+      "type": "extract",
+      "source": "manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
+      "pages": "365-371",
+      "output_pdf": "manuals/carburetor-reference/manuals/05-shop-manual-1983-addendum-carb-updates.pdf",
+      "output_txt": "manuals/carburetor-reference/manuals/05-shop-manual-1983-addendum-carb-updates.txt",
+      "note": "Страницы дополнения 1983 года, обновляющие данные по смазке, обслуживанию, air cleaner и топливной системе для семейства V45 Sabre/Magna."
+    },
+    {
+      "type": "extract",
+      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "pages": "34-36",
+      "output_pdf": "manuals/carburetor-reference/parts-catalog/01-carburetor-assy-and-components.pdf",
+      "output_txt": "manuals/carburetor-reference/parts-catalog/01-carburetor-assy-and-components.txt",
+      "note": "Страницы fiche VF700S 84/85 по сборке карбюраторов, тягам и разборке компонентов карбюратора."
+    },
+    {
+      "type": "extract",
+      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "pages": "41-42",
+      "output_pdf": "manuals/carburetor-reference/parts-catalog/02-throttle-and-choke-cables.pdf",
+      "output_txt": "manuals/carburetor-reference/parts-catalog/02-throttle-and-choke-cables.txt",
+      "note": "Страницы fiche VF700S 84/85 по рычагам управления и тросам газа/подсоса."
+    },
+    {
+      "type": "extract",
+      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "pages": "55-56",
+      "output_pdf": "manuals/carburetor-reference/parts-catalog/03-fuel-tank-and-fuel-valve.pdf",
+      "output_txt": "manuals/carburetor-reference/parts-catalog/03-fuel-tank-and-fuel-valve.txt",
+      "note": "Страницы fiche VF700S 84/85 по топливному баку, ручному топливному крану, шлангам и фильтрующим элементам, питающим карбюраторную рампу."
+    },
+    {
+      "type": "extract",
+      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "pages": "59-60",
+      "output_pdf": "manuals/carburetor-reference/parts-catalog/04-air-cleaner.pdf",
+      "output_txt": "manuals/carburetor-reference/parts-catalog/04-air-cleaner.txt",
+      "note": "Страницы fiche VF700S 84/85 по корпусу air cleaner, фильтру, воздуховодам, сапунам и связанному крепежу."
+    }
+  ],
+  "notes": [
+    "Haynes покрывает несколько годов Sabre и Magna, а не только 1982 VF750S.",
+    "Заводской shop manual покрывает 1982 V45 Sabre/VF750S и V45 Magna/VF750C, плюс содержит дополнение 1983 года ближе к концу.",
+    "Локальный parts catalog относится именно к 1984-1985 VF700S Sabre, поэтому номера деталей для 1982 VF750S нужно перепроверять перед заказом."
+  ]
+}

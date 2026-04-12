@@ -1,0 +1,3923 @@
+7-1
+
+Chapter 7
+Brakes, wheels and tires
+
+Note: Uniess specifically mentioned
+in this Chapter, the information
+given for the 1962 750 Sabre applies to the UK VF750S-C, and that for the 1987 and
+1988 700/750 Magnes applies to the
+UK VF750C-H and C-Jrespectively.
+
+Contents
+
+‘Section
+
+See
+
+Brake fluid level check.
+
+Chapter 1
+10
+
+See
+
+‘Chapter 1
+
+Brake system bleeding
+1
+
+Front brake caliper- removal, overhaul and installation.
+3
+
+Front brake disc(s)- inspection, removal and installation.
+4
+
+Front
+
+brake
+
+master
+
+cylinder
+
+-
+
+removal,
+
+overhaul
+and installation.
+
+Front brake pads - replacement.
+2
+Front wheel
+- removal and installation,
+
+1
+
+Rear brake caliper (1100 models) - removal,
+
+Brake hoses - inspection and replacement.
+
+Brake padilining wear check.
+
+15
+
+General information.
+overhaul
+
+and installation.
+
+t
+
+Rear brake disc (1100 models)- inspection, removal
+‘and installation,
+
+es
+
+8
+
+Rear brake master cylinder (1100 models) - removal,
+
+overhaul
+and installation,
+
+Rear brake pads (1100 models)- replacement.
+
+6
+
+Rear drum
+
+brake (700/750 models) - removal,
+
+inspection
+and installation,
+12
+
+Rear wheel- removal and installation.
+16
+
+Tires and wheels - general
+
+Chapter1
+
+check..
+
+‘Tubeless tires - general information.
+18
+
+Wheels- alignment check.
+14
+
+‘Wheels - inspection and repair.
+1
+
+Wheel bearings - removal, inspection and installation.
+7
+
+See
+
+7-2
+
+Chapter7
+
+Brakes, wheels and tires
+
+Specifications.
+
+Disc brakes
+
+Brake fluid type..
+
+Disc thickness (front brake)
+New
+
+1986 700 Magna model.
+
+All other models,
+
+‘Service mit.
+
+Disc thickness (rear brake)
+New
+
+1986 1100 Magna model
+
+‘See Chapter 1
+4.5
+t05.2mm
+(0.18
+to 0.20 in)
+
+4.8t05.2mm (0.1910 0.20 in)
+4.0mm (0.20in)
+
+7.1 to7.7 mm (0.280 to 0:303 in)
+
+Other 1100 models,
+
+6:9107.1
+mm
+(0.272 to 0.280 in)
+
+1986 1100 Magna model
+
+6.6mm (0.26in)
+
+‘Service limit
+
+Other 1100 models,
+
+Disc maximum runout
+
+6.0
+mm (0.24 in)
+
+0.3mm (0.012 in)
+
+Caliper bore 1D
+
+Front (700/750 models)
+
+New.
+
+Service limit
+
+Front (1100 models)
+
+New.
+
+Service limt
+
+Rear
+
+(1100 models)
+
+30.23 to 30.28 mm (1.1902 to 1.1921 in)
+30.29mm
+(1.1925 in)
+
+32.03 to 32.08 mm (1.2610 to 1.2630 in)
+32.09
+mm (1.263 in)
+
+New.
+
+30,23 to 30.28
+mm
+(1.1902
+to
+1.1921 in)
+
+Ne
+
+‘30.148
+to
+30.198 mm (1.1869 to 1.1889
+in)
+
+Service limit
+Caliper piston OD
+Front (700/750 models)
+Service limit
+
+Front (1100 models)
+
+New.
+
+Service limit
+Rear (1100 models)
+
+New.
+Service limit
+
+Front master cylinder bore 1D
+
+1982 through 1986 models
+New.
+Service limit
+1987
+and 1988 700/750 models
+New...
+
+Service limit.
+Front master cylinder piston OD
+1982 through 1986 models
+New.
+Service limit...
+41987 and 1988 700/750 models
+New.
+Service limit.
+
+Rear master cylinder bore ID (1100 models)
+
+30.29
+mm (1.193 in)
+
+30.14 mm (1.1866 in)
+
+‘31.948 to.31.998
+mm (1.2578
+to 1.2598 in)
+31.94 mm
+(1.258 in)
+
+30.148
+to 30.198
+mm (1.1869 to 1.1889 in)
+38.090
+mm (1.500 in)
+15.870
+to 15.913 mm (0.6248 to
+
+0.6268 in)
+
+15.93 mm (0.6272 in)
+
+12.700 to 12.743 mm (0.500 to 0.5016 in)
+12.755
+mm
+(0.502 in)
+
+15.827
+to
+15.854 mm (0.6231 to 0.6242
+in)
+15.82mm (0.6228 in)
+12.657 to 12.684 mm (0.498 to 0.499 in)
+12.64
+mm (0.4985
+in)
+
+‘New.
+
+14,000
+to 14.043 mm (0.5512 to 0.5529 in)
+
+Service limt.
+
+14.06 mm (0.553 in)
+
+Rear master piston OD (1100 models)
+New...
+Service limit
+
+13.957 to 13.984 mm (0.5495 to 0.5506 in)
+13.9
+mm
+(0.5495
+in)
+
+Drum brake
+Brake shoe lining thickness
+Service limit.
+
+Brake drum ID
+
+49 to 5.0 mm (0.19t00.20
+in)
+2.0 mm (0.08
+in)
+
+{06S
+on Mage cas
+Sens it
+
+180.0 to 180.3 mm (7.09 07.10 in)
+181 mm (7.13 in)
+
+160.0 to 160.3 mm (6:30t0 6.31 in)
+161 mm (6.34
+in)
+
+Chapter
+7 Brakes, wheels and tires
+
+73
+
+Wheels
+Maximum wheel runout (ront and rear) Axial (side-to-
+
+side).
+
+20mm (008in)
+
+Racal (outot-round),
+Maximum axle runout (front and rear).
+
+20 mm (008
+in)
+(02mm (001 in)
+
+Tires:
+
+Tire pressu
+Tue sizes
+Front.
+Rear.
+
+See Chapter 1
+12060VR170r1200602R17
+160060
+VR
+17 or 16060
+
+Torque settings
+
+Nm
+
+ft.
+
+25030
+
+180
+
+3040
+2025
+—25%030
+—Notavallable
+
+2
+140
+18t0
+
+301040
+045
+
+20
+2200
+
+1014
+30145
+
+710 10
+2»
+
+zRiT
+
+Ibs
+
+Brag caper to bracket bots Al Sabre models and 1962 hough
+11984 700/750 Magna
+
+‘Upper bot.
+2
+
+Lower bot.
+
+20025
+
+8
+
+1985 and 1986 700 Magna models
+
+Upper bot.
+Lower bot...
+8
+41987 and 1988 700/760 Magna mode's.
+2
+41100. Magna models.
+
+Front brake caliper bracket to-fork sider
+bolts Upper bok (to ser lug)
+
+Al Sabres and 1862 trough 1864 70/750 Magna maces
+1300 Magna and 198596700 Magna models
+
+Lower bot io arte
+unt)
+
+41100 Sabre models.
+1987 and 1988 700780 Magna models
+
+Brak
+ert
+100 Sate, 1585 nvough
+1955
+1100
+Magra, 1982 hough
+
+1988 700780 medes
+
+25030
+
+Fmd in camp ot 1100 moe)
+165 ane 186 700 Magna and 1986 1100 Magra models
+
+1010 18
+37143
+
+{$0 10 map 187 re 08 ToU0 nes
+
+14
+
+1810
+
+371043
+
+20
+
+re
+
+25040
+
+18%
+
+=
+
+15125
+201030
+181025
+2030
+181030
+
+11
+14%
+13%
+40
+13%
+
+41986-on 700/750 Magna modets.
+
+8510 105,
+
+6110
+
+58
+
+80 100
+8510 105,
+
+58 to
+6tto
+
+Brake hose
+3
+
+1100 Sabre models...
+
+29
+
+All other models
+25
+Rear drum brake lever pinch bok.
+Front whee! avease nt
+
+035
+241030
+506s
+
+Front veel ade pinch bots) outs
+
+‘700/750 Sabre models
+20
+
+‘1982 through 1984 700/750 Magna models.
+18
+1985 and 1986 700 Magna models.
+2
+41987 and 1988 700/750 Magna models
+8
+1100 Sabre models.
+2
+1100 Magra moses,
+
+181028
+
+Rear wheel
+axle nut
+76
+
+‘Allother 700/750 models.
+
+em 20
+
+1986 1100 Magna model.
+
+72
+All other 1100 models.
+76
+
+:
+
+710
+ato
+
+18
+170
+“ow
+13%
+
+Bt0
+
+Rear wheel axe pinch bot.
+
+2020
+
+14
+
+Brake panel stop bot.
+
+351045
+
+25%
+
+2
+
+33
+
+Brake
+8
+
+‘arm bot
+
+Fgal ven ange bots (182-0 T0780 Sabre mel)
+
+151025
+
+te
+
+so60
+
+2610
+
+Chapter7
+
+74
+
+Brakes, wheels and tires
+
+2.1 a Caliper body-to-bracket mounting bolts (arrows)
+on
+
+2:1...
+
+right side
+
+2.2a Remove the pad pin retainer plate bolt (arrow).
+
+disengage the plate from the pin grooves...
+
+2
+
+Genera information
+
+1988
+
+discs,
+
+and
+
+700/750 Magna models is of the
+front brake is a hydraulicallyoperated twin
+
+through 1986 models,
+
+and @ single disc
+
+which
+
+¥hen
+
+always
+
+replacing the
+
+front brake pads on models
+
+replace the pads in
+
+n
+
+di
+
+any of
+
+An approved filtering mask should be worn
+
+the brakes: Refer
+to
+
+on
+
+iistrations
+2 1a,
+
+Disc brake components rarely require disassembly. Do not
+
+disassemble components uniess a
+
+ket
+
+attached
+to the fork sider (see
+
+s placed on
+
+pad pin retainer to the ce
+pins and pull both
+
+)
+
+© pads (see illustration).
+
+Swell and distort Use only clean brake fluid
+care when working with brake fluid as it can injure
+
+2.26,
+
+while it is removed so
+that
+no
+strain
+iner from the
+
+the entice
+
+damage painted surfaces and plsstc parts
+
+2 1b, 2 22,
+
+mounting bolts and slide
+offthe
+
+brake fine is loosened,
+
+one
+
+ul 0 your health Never blow it out with compressed air
+
+illustrations).
+Caution:
+
+with twin
+
+BOTH calipers - never just on
+
+The dust created by the brake system may contain asbestos,
+
+nd don't inhale
+
+cover
+on the left side
+The
+
+Front brake pads -replacement
+
+Warning:
+
+The models covered in this manual are fitted with ca:
+wheels designed to accept tubeless tires. The re
+
+and on left side (arrows)
+
+your ey
+
+Inspect the surtace
+
+of each
+
+pad for
+
+the friction material has not worn be yo
+
+The pad spring
+
+can be
+
+tamination and check that
+its service limit groove, or
+
+Chapter7
+
+75
+
+Brakes, wheels and tires
+
+2.2c ... and
+pull
+the
+pins outwith pliers,
+
+2.11 Anti-attie spring position (lower arrow}. Upper mounting
+dust boot (upper arrow)
+
+24 Brake pad service limit groove (lower arrow) and cutout
+
+(upper:
+
+down to expose the cutout in the pads rear
+
+point or are
+Mlustration).
+
+approaching
+Similarty,
+
+it,
+
+the
+
+if either pad
+
+pads
+
+if worn
+
+must
+
+is fouled
+
+heavily scored or damaged by dift and
+
+replaced as a set.
+
+dge:
+
+be
+
+with of
+
+debris,
+
+down to this
+
+both pads fimly against the rear of
+
+replaced (see
+
+both pads
+
+the
+Tighten
+
+mu:
+
+are contaminated
+
+in
+
+retainer
+
+body to enable the
+
+plate screw securely.
+
+to the disc,
+
+Note that it is not possible to d
+
+material, if the pads
+
+the caliper
+
+32 installed
+retainer plate, pressing its slots into the pin grooves to
+
+or gf
+
+taking
+
+care not to disturb
+Don grease fo the
+
+any way
+wer mounting bots
+
+replaced.
+
+~caliper,
+
+5 If the pads are in good condition clean them
+
+is completely free of oil
+and grea
+pointed instumert, c
+@
+Using
+road dit and corrosion.
+of
+traces
+
+inside their dust
+
+torque.
+bghten to the specified
+
+i(see
+
+wire brush which
+
+and
+
+Chapter
+1) and ft the float
+
+(where fitted) and
+
+cover.
+
+ral times to bring the pads into contact
+
+the grooves in the friction matenal and dig out any embed.
+
+cylinder tuid level (see Chapter 1) and.
+
+of foreign matter. Any areas of glazing may be remov
+
+@ riding the motorcycle
+
+bth.
+
+6 _ Check the condition of the brake disc (see
+7 Remove all traces of corrosion from the pad pins.
+
+3.
+
+and pad spring for signs of damage and re
+check the antrrattie
+spring fitted to the top of the cal
+
+Front brake caliper- removal, overhaul and
+installation
+
+8 If installing new pads, pushthe pistons
+2:
+
+possible using hand pressure only.
+material thickness of new pads.
+master cylinder reservoir cap,
+
+syphon out some fluid.
+9 Insert the pads into
+
+Due
+
+it may be
+
+plate
+
+to t
+
+necessary to rem
+
+(where fitted) and diaphragm and
+
+the caliper, ensuring the pad
+
+comectly positioned, so that the fnction material
+
+of each pad
+
+the disc Insert
+one pad retaining pin making sure that t
+in both peds and into the caliper body. then
+through the holes
+
+f @ caliper indieates the need for an overhaul (usually due 10
+operaton), aif old brake fluid should be flushed
+fem.
+in asbestos,
+
+is
+
+facing
+
+passes
+hold
+
+A/so,
+
+the dust created by the brake system may
+
+which is harmful to your heath.
+
+with compressed air and don’t inhale any of &
+
+Never biow # cut
+
+An approved fitering
+
+mask should be wom when working on the brakes Do not, under any
+
+use petroleum-based solvents to clean brake parts. Use
+denatured alcohol ony
+
+76
+
+Chapter 7
+
+Brakes, wheels and tires
+
+Chapter 7 Brakes, wheels and tires
+
+7-7
+
+a
+3.14 Piston seal (upper arrow) and dust
+
+3.46 Ensure that the pistons are inserted
+
+‘eal (lower arrow) locations in
+caliper bore
+
+10
+
+Removal
+1
+
+Place the bike on its main stend,
+
+or make sure t
+
+Is securely
+
+supported where only @ side stand i ftted.
+2 Remove the brake hase banjo iting bok and seperate the hose trom
+the caliper. Plug the hose end or wrap a plastic bag tighty around it to
+minimize fuid 1088 and prevent dit entenng the system. Discard the
+sealing washers, new ones must be used on installation. Note: /f
+you're planning to overhaul the caper and dont have @ source of
+Compressed ai t0 blow out the pistons, just loosen the banp bol at
+
+this stage and retohien t ighty. The bike's hydraulic system can then be
+used fo force the pistons out of the body once the pads have been
+
+removed. Disconnect the hose once the pistons have been suftcsenty
+isolaced
+
+3 Remove the caliper body-to-bracket mounting bolts and side the
+caliper off the disc, leaving the bracket attached
+to the fork sider (aee
+
+iMustrations
+21
+
+3.17 Lower mounting bolt collar and dust
+
+bores
+rely
+into their
+‘squa
+
+aand2.1b).
+
+4 To remove the caliper bracket tom the fork slider on 1962 through
+1986 models, remove the two bots which retain it to the slider lugs
+
+(‘ight side) of the upper bolt which retains it to the slider lug and the
+
+boot arrangement
+
+Removeboth the piston seals in the same way,
+
+11 Clean the pistons and bores with denatured alcohol, clean brake
+fluid or brake system cleaner
+
+stances,
+
+Caution:
+
+Do
+
+not,
+
+under any circum.
+
+use @ pevokum-based solvent to clean brake parts.
+
+It
+
+compressed air is available, use it to dry the parts thoroughly (make
+sure it's filtered and untubricated)
+
+12 Inspect the caliper bores and pistons for signs of corrosion, nicks
+end burrs and loss of plating If surface defects are present, the caliper
+assembly must be replaced. If the caliper is in bad shape the master
+
+cylinder shoud also be checked
+
+13 If the necessary measuring equipment is available,
+
+compare the
+
+dimensions of the caliper bores
+
+given in the
+
+and
+
+pistons to those
+
+Specifications Section of this Chapter. replacing any component that is
+the service limit.
+worn beyond
+14 Lubricatethe new piston seals with clean brake fuid and install
+
+them in their grooves in the caliper bores (see
+illustration).
+15 Lubncate the new dust seals with clean brake fluid and install them
+in their grooves in the caliper bores.
+
+18 Lubricate the pistons with clean brake fluid and install them in the
+
+caliper bores(see illustration). Using your thumbs, push the pistons
+
+lower bolt which retains it to the anti-dive housing (let side). Note the
+
+al the way in, making sure they enter their bores squarely.
+
+the wire guide on the let caliper bracket
+
+Mlustration), Check the condition of the dust boots and replace them if
+
+‘exact order and postion of any collars, cable guides, washers and dust
+seals at each mounting, Slip the speedometer cable/sensor wire out of
+5 On 1987 and 1986 models, the caliper bracket Is reteined to the
+slider lugs by two chrome-headed bolts. Slip the speedometer cable
+out ofthe wire guide on the bracket
+
+17 Carefully remove the outside dust boots from the lower mounting
+
+bolt hole in the caliper, then slip the collar out of the caliper body (see
+
+split or cracked. Check the condition of the dust boot situated between
+
+the caliper body and bracket on the upper mounting bolt
+
+a very thin coat of
+18 Lay the pad spring in place in the caliper. Apply
+licon grease to the lower mounting bolt collar and slip it into the
+
+Overhaul
+iustrations 3.6, 3.14,3.16 and 3.17
+to
+Refer
+caliper with denatured alcohol or brake
+6 Clean the exterior of the
+
+per body, install the dust boots on each side of the collar, making
+sure they are properly seated in the collar grooves.
+19
+
+Install the brake pads (see Section 2)
+
+tom cleaner (See illustration).
+
+7 Remove the brake pads from the caliper body (see Section 2), then
+lift out the pad spring,
+
+8 If the pistons weren't forced out using the bike's hydraulc system,
+
+place a wad of rag between the piston and caliper frame to act as @
+
+cushion, then use compressed air directed into the fluid inlet to force
+the pistons out of the body. Use only low air pressure to ease the
+pistons out and make sure both pistons are displaced at the same time.
+If the air pressure is too high and the pistons are forced out, the caliper
+and/or pistons may be damaged. Waming: Never piace your fingers in
+front of the pistons in an attempt to catch or prokect them when
+applying compressed air, a5 senous injury could result
+
+Keep each
+
+piston with its bore t ensure that they are not interchanged on
+reassembly (label them # necessary).
+
+9 Using a wooden or plastic tool, remove the dust seals trom the
+caliper bores. If @ metal tool is being used, take great care not to
+damage the caliper bores.
+
+Installation
+20 If removed from the fork slider, install the caliper bracket.
+
+Tighten
+
+the caliper bracket bolts to the specified torque (where given). Make
+
+sure that the enti-rattle spring is property installed on the bracket (see
+
+illustration 2.11).
+
+21 Install the caliper on the bracket, apply silicon grease to the shafts
+of the caliper mounting bolts and install them in the caliper,
+
+tighten
+
+them to the specified torque.
+
+22 Connect the brake hose to the caliper, using new sealing washers
+
+on each side of the fitting. Tighten the banjo fitting bolt to the specified
+torque setting,
+
+23 Fill the master cylinder with the recommended brake fluid (see
+chapter 1) and bleed the hydraulic system as described in Section 11
+
+24 Check for leaks and thoroughly test the operation of the brake
+before nding the motorcycie.
+
+78
+
+Chapter7
+
+Brakes, wheels and tires
+
+4.3 Measuring disc runout
+
+4
+
+45 Measuring disc thickness
+
+Installation
+
+Front brake discs - inspection, removal and
+
+h 1986 models, positiona new gasket on each of the
+
+installation
+
+c mounting pillars.
+
+On early models the gaskets have a fat
+
+must face the cast fat on the wheel surface
+
+Inspection
+
+10
+
+1 Set the bike on is main stand. Where no main stand is ited,
+the bke securely under the crankcase £0 that the font whee!
+2 Visually inspect the surface of the discs for score
+
+ra
+
+grooves and heavy score
+
+marks
+
+wil
+
+grooved they must be machined orreplaced
+mount a dal indicator
+to a fork leg
+
+plunger on the indicator touching the surface
+
+with the
+
+the shims remain in position,
+torque.
+
+and tighten
+Clean off all
+
+have been installed,
+working surfaces
+
+remove any protective coating
+
+(see Section 15)
+
+13 Operate the broke lever severd times to bring the pads into contact
+wath
+
+the di
+
+he operation
+
+of the brakes carefully before riding
+
+the motoreycie
+
+of the dise about 10 mm
+
+(1/2 neh) from the outer edge
+(see ilustration). Rotate the vineel
+
+and
+
+walch the indicator needle, Comparing your reading withthe ime
+in this
+
+ensuring
+
+evenly and progressively to the specified
+
+bra
+
+marks and other
+
+braking efficiency and accelerate pad wear. If the discs are bady
+3 To check dise runout,
+
+m
+
+aligning the previously applied match
+
+onginal disc)
+
+‘grease from the brake disc{s) using acetone or brake system cleaner
+
+and wont affect brake
+
+damage, Light scratches are normal ater use
+deep
+
+the bolts,
+
+support
+is
+
+ofthe ground
+
+but
+
+on the wheel,
+
+marks (if youre instaling the
+
+Retort ilustratons
+43 and 45
+
+operation,
+
+Install the disc
+
+5
+
+Front brake master
+cylinder
+removal, overhaul and
+
+installation
+
+Chapters Specifications
+
+4'if the runout is greater than alloned, check the hub bearings fr play.
+ifthe bearings are wom,
+
+replace them and repeat this check.
+
+runout is sill exoassive,#
+
+wil have to bereplaced, athough machining
+
+by a competent engineering shop may be a soluton
+fndings
+by removing
+
+Ith
+
+Confim your
+
+the dise and checking it for warpage on a sucface
+
+plate using feeler blades
+5 The disc must not be machined or alowed to wear down to a
+thickness less than the service imi,
+cations (check also for wear
+
+imits stamped on the dise itself)
+
+The
+
+be
+
+(see
+
+llustration).
+
+the
+
+disc
+
+can
+
+checked
+
+with
+
+a
+
+micrometer
+
+Ifthe thickness of the disc is less than the minimum
+
+allowable, it must be replaced
+
+master
+
+wheel as descbed in Section
+
+18. Cautlon: Don
+
+ay the
+
+could become
+
+Nail Gat Os Wa on ca cts so Be dsc Seer
+
+het BO
+
+7 Mark the relationship
+of the disc to the wheel, so
+it can be
+the same position. Remove the bolts that retain the disc to
+
+instal
+the wheel
+
+Loosen the bots a
+
+litle at a time,
+
+in a criss-cross pattem,
+
+to avoid
+
+distorting
+the disc
+
+8 Remove the disc and on
+
+cylinder
+
+disassembling
+the
+
+master
+
+1982
+
+through 1986
+
+models recover thy
+
+‘gaskets which are positioned between the disc and wheel
+
+disc models, the discs should be marked L or R
+
+bolt holes to denote on which side of the wheel t
+marks are found, make some with
+a felt marker.
+
+p
+
+and bleeding the brakes does
+
+overhaul
+
+is
+
+recommended
+
+Before
+
+cylinder, read through the endre procedure
+
+and make sure that you have the correct rebuild kit.
+towels and intemal snap-ring pliers.
+
+Also,
+
+Note:
+
+you will
+
+To prevent
+
+damage to the paint from spilled brake flv, always cover the fuel tank
+when workng on the master cylinder
+
+2 Caution:
+
+Disassembly,
+
+contamination
+
+wheel down and allow it fo reston ether disc
+
+twin
+
+cinder is leaking fluid, or if the lever does not produce
+when the brake is applied,
+
+overhaul and reassembly of the brake
+
+finder must be done
+
+Removal
+6 Remove ne
+
+Ifthe master
+
+2 firm feel
+
+Isted in this Chapters Specif-
+
+thickness
+
+of
+
+1
+
+and possible
+
+in a spotiessly clean work a7ea to avoid
+
+failure of the brake hydraulic system
+
+Removal
+3 Loosen, but do net
+
+remove, the screws holding the reservoir cover in
+
+ct the electrical connectors from the brake light switch
+boot, loosen the banjo fitting bolt and separate
+the
+
+master
+
+cyinder. Wrap the
+end
+of
+the hose
+
+in.
+
+and suspend the hose in an upright position or bend it
+
+down carefully and place
+clive Is to prevent
+
+the open end in a
+
+clean container. The
+
+excessive loss of brake fluid,
+
+6 Remove
+the locknut from the underside
+
+fluid spils and
+
+of the brake lever pivot bolt,
+
+then unscrew the bolt and remove the brake lever.
+
+Chapter 7 Brakes, wheels and tires
+
+5.8 Location of port baffle in fluid
+reservoir base
+
+5.10 Master cylinder piston and dust
+boot location
+
+5.14 Measuring master cylinder piston OD
+7 Remove the master cylinder mounting bolts and clamp to free
+
+the master cylinder from the handlebar. Caution:
+
+master cylinder upside down or brake fluid wil run out
+
+Do not tip the
+
+Overhaul
+5.8 §.10, 8.148 and.
+Refer oiNustrations
+
+8 Detach the reservoir cover and remove the plate (where fitted),
+
+rubber diaphragm, and on 1988 750 Magnas lif out the float, then
+drain the brake fluid into a suitable container (see illustration 3.6).
+
+‘Wipe any remaining fluid out ofthe reservoir with
+a clean rag.
+Ift!
+of the reservoir was disturbed, ensure it is
+port baffle in the base
+installed correctly (see illustration).
+9
+
+7-9
+
+Undo the screw and remove the brake light switch.
+
+10 Carefully remove the rubber dust boot from the end of the
+piston (see illustration).
+
+11 Using snap-ring pliers, remove the snap-ring and slide out the
+piston assembly and the spring. Laythe parts out in the proper
+order to prevent confusion during
+reassembly.
+12 Clean all of the parts with brake system ci
+
+auto parts stores), isopropyl alcohol or clean bral
+Do not, under any circumstances, use a petroleum-based solvent
+to
+chan brake parts. If compressed air is available, use it to dry the
+parts thoroughly (make sure its fitered and unlubricated)
+13 Check the master cylinder bore for corrosion, scratches, nicks
+ind score marks. If damage is evident, t!
+fer cylinder must
+be replaced with a new one. Ifthe
+master cylinder is in poor
+condition, then the calipers should be checked as wel
+
+5.19 Master cylinder clamp UP marking (arrow)
+14 If the necessary measuring equipment is available, compare the
+dimensions of the master cylinder bore and piston to those given in
+the Specifications Section of this Chapter, replacing any
+component that it is worn beyond the service limit (see
+illustrations).
+included in the
+15 The dust boot, piston assembly and spring at
+of the apparent
+rebuild kit. Use all of the new parts, regardie
+condition of the old ones.
+16 Before reassembling the mé
+1 cylinder, soak the piston and
+the rubber cup seals in clean brake
+fluid for ten or fileen minute:
+Lubricate the master cylinder bore with clean brake fluid, then
+
+carefully insert the piston and related parts in the reverse order of
+disassembly. Make sure the lips on the cup seals do not turn inside
+‘out when they are slipped into the bore and ensure the spring is
+fitted the correct way around.
+install the snap-ring (make sure the
+17 Depress the piston, th
+
+«
+
+TB ‘nstal the brake
+
+iston groove).
+
+PI
+
+Nght switch and securely tighten Ws retelning
+
+screw.
+
+Installation
+Refer to llustration 5.19
+
+19 Attach the
+making sure the
+
+master
+cylinder fo the handlebar then ft the clamp
+'UP* mark is facing upviards (see illustration). On
+
+Magnas and 1984-on Sabres, the joint of the clamp should align with
+the punch mark on the handlebar to ensure that the reservoir is
+
+Positioned upright. On all models, fully tighten the upper bolt frst, then
+
+the lover, both to the specified torque (where
+
+given).
+
+7-10
+
+Chapter7 Brakes, wheels and tires
+
+CALIPER
+BRACKET.
+
+2820
+
+6.2 Rear brake components
+(1100 models)
+20
+
+Connect the brake hose to the master cylinder, using new
+
+sealing washers. Tighten the banjo fitting bolt to the specified
+
+torque setting
+21
+Install the lever and pivot bol. Install the pivot bolt locknut and
+tighten it securely. Connect the brake light swatch wiring
+
+22 Refer to Section 11 and bleed the air from the system. Check
+the operation of the front brake carefully before riding the
+motorcycle.
+
+4 Slide the caliper assembly onto the disc, taking care not to
+
+disturb the antirattle spring fitted to the top of the mounting
+bracket. Apply silicon grease to the shafts of the upper and lower
+
+‘mounting bolts and inside their dust boots and install them in the
+lighten to the specified torque.
+5 Top up the master cylinder reservoir (see Chapter 1) and fit the
+diaphragm, plate and cap.
+
+6 Operate the brake lever several times to bring the pads into
+contact with the disc. Check the reservoir fluid level (see Chapter
+1) and the operation of the brake before riding the motorcycle.
+
+6
+
+Rear brake pads (1100 models) - replacement
+
+‘Waming: The dust created by the brake system may conta asbestos,
+which
+s
+hemfulto your health. Never blow & out vith compressed
+air
+‘and don’ inhale any of
+
+Rear brake
+caliper
+(1100
+models) -removal, overhaul
+andinstallation
+
+An approved fering mask should be wom
+
+when working on the brakes. Refer ilustrtion 6.2
+1
+Set the bike on its main stand,
+2 Remove the caliper mounting bolts and slide the caliper off the
+disc, leaving its mounting bracket in place (see illustration).
+3 The caliper is identical to that fitted to the front brakes and pad
+renewal can be performed as described in Section 2, Steps 2
+through 10.
+
+7
+
+Warning: I the calper indicates the need for an overhaul! (usualy due to
+Jeaking fuid or sticky operation), af olf brake fd should be flushed
+
+from the system. Also, the dust created
+by the brake system may
+
+Contain asbestos, which is harmful to your heath. Never
+blow t out
+
+wath
+compressed
+ar and
+dont inhale any of &. An approved fitering
+
+mask should be wom vihen working on the brakes. Do not, under any
+
+Chapter7
+
+Brakes,
+wheels
+and tires
+
+‘crcumstances, use petroleum-based
+solvents to clean brake parts.
+‘Use clean brake
+fluid, brake cleaner or denatured akcoholony,
+
+Removal
+1.
+Place the bike on its main stand.
+2 Remove
+the brake hose banjo fiting bolt and separate the hose
+from
+the
+caliper. Plug the hose end or wrap a plastic bag tightly
+around it to minimize fluid loss and prevent dirt entering the
+‘system. Discard the sealing washers; new ones must be used on
+
+installation. Note: /f you're planning to overhaul the caliper and
+don't have a source of compressed ai to blow out the pistons, just
+Joosen the banjo bolt at this stage and retighten it ight. The bike's
+‘hydraulic system can then be used to force the piston out of the
+‘once the pads have been removed. Di
+the hose once
+the pistons have been sufficient dfsplaced.
+
+3 Remove the caliper mounting bolts and slide the caliper off the
+disc.
+
+4 It caliper bracket removal is required, ensure that the weight of
+‘the motorcycle is off the rear wheel.
+Disconnect
+the
+brake torque
+‘arm from the top of the bracket, and withdraw the wheel axle to
+{ree its bottom mounting.
+
+Overhaul
+5 The caliper is identical to that fitted to the front brakes; refer to
+Section 3, Steps 6 through 19, noting the Specifications for the
+tear brake caliper at the beginning
+of this Chapter.
+
+Installation
+6 If the mounting bracket was removed, slide the wheel axle back
+through its lower mounting point and through the wheel hub and
+final drive unit, tighten the wheel nut to the specified torque.
+Reconnect the ‘torque arm to the mounting bracket and install a
+new cotter pin (split pin) to secure the nut.
+7 Slide the caliper assembly onto the disc, taking care not to
+
+disturb the anti-rattie spring fitted to the top of the mounting
+bracket. Apply silicon grease to the shafts of the upper and lower
+mounting bolts and inside their dust boots and install them in the
+caliper, tighten to the specified torque.
+8 Connect the brake hose to the caliper,
+using
+new
+sealing
+‘washers on each side of the fitting. Tighten the banjo fitting bolt to
+
+the specified torque
+
+9 Fill the master cylinder with the recommended brake fluid (see
+
+Chapter 1) and bleed the hydraulic system as described in Section
+14.
+10 Check for leaks and thoroughly test the operation of the brake
+before riding the motorcycle on the road.
+
+8
+
+Rear brake disc (1100 models) - inspection, removal and
+installation
+
+1 Refer to Section 4 of this Chapter, noting that the dial indicator
+‘should be attached to the swingarm.
+
+Removal
+2 Remove the wheel as described in Section 16. Caution: Don’t
+lay the whee! down and alow & to rest on the disc - the disc coult
+‘become warped. Set the wheel on wood blocks so the disc doesnt
+‘Support the weight ofthe wheel.
+
+3 Mark the relationship of the disc to the wheel, so it can be
+installed in the same position. Remove the bolts that retain the disc
+to the wheel, Loosen the bolts a litte at a time, in a criss-cross
+pattern,
+to avoid
+distorting
+the
+disc then remove
+the disc.
+
+Installation
+4 Position the disc on the wheel, aligning the previously applied
+match marks (if you're reinstalling the original disc)
+
+'
+
+T-A1
+
+Install the bolts and tighten them evenly and progressively to the
+
+Specified torque setting. Clean off all grease from the brake disc
+using acetone or brake system cleaner. If a new brake disc has
+
+been installed, remove any protective coating from its working
+surfaces.
+
+6
+
+Install the wheel
+as described in Section 16.
+
+7 Operate the brake pedal several times to bring the pads into
+contact with the disc. Check the operation of the brake carefully
+before riding the motorcycle.
+
+9
+
+Rear brake master cylinder (1100 models) - removal,
+‘overhaul and installation
+
+1 If the master cylinder is leaking fluid, or if the pedal does not
+‘produce a firm feel when the brake is applied, and bleeding the
+brakes does not help, master cylinder overhaul is recommended,
+
+Before disassembling the master cylinder, read through the entire
+
+Procedure and make sure that you have the correct rebuild kit.
+
+Also,
+
+you will
+
+need
+
+some
+
+new,
+
+clean
+
+brake
+
+fluid
+
+of
+
+the
+
+recommended type, some clean shop towels and internal snapting pliers,
+
+2 Caution: Disassembly,
+overhaul
+and
+reassembly of the brake
+‘master cyinder must be done in @ spotlessly clean work area to avoid
+contamination and possible failure of the brake hydraulic system
+components.
+
+Removal
+‘Sabre models
+3 Set the bike on its main stand. Remove the right side cover (see
+
+‘Chapter
+6),
+4 Remove the right muffler (silencer) from the exhaust system (see
+‘Chapter 4). Remove the right passenger footpeg bracket (see
+Chapter
+6).
+5 Disconnect the reservoir-to-master cylinder hose at the master
+cylinder end and catch the escaping brake fluid.
+Remove the
+feservoir mounting screw and remove the reservoir from the
+le.
+
+6 Unscrew the banjo union bot from the top of the master cylinder
+Discard the sealing washers on each side of the fitting. Wrap the
+
+end of the hose in a clean shop towel and suspend the hose in an
+upright position or bend it down carefully and place the open end
+in a clean container. The objective is to prevent excessive loss of
+
+brake fluid, luid
+spills
+and
+system contamination.
+7 Remove the two master cylinder mounting bolts and tit it
+backwards to gain access
+to the pushrod-to-brake pedal clevis link
+If access if available to the cotter pin (split pin), washer and clevis,
+
+pin, remove them to allow separation of the pedal and link, but if
+
+‘ot, fully unscrew the master cylinder pushrod from the locknuts on
+the link. Remove the master cylinder from the motorcycle. Note: /f
+
+‘80 that the ink can be returned to its original postion on installation,
+
+models
+8 Set the bike on its main stand. Remove the right side cover (see
+Chapter
+6).
+
+9
+Remove the right passenger footpeg bracket (see Chapter 6).
+40 Unscrew the banjo union bolt from the top of the master
+
+cylinder. Discard the sealing washers on each side of the fitting
+Wrap the end of the hose in a clean shop towel and suspend the
+hose in an upright position or bend it down carefully and place the
+
+‘open end in a clean container. The objective is to prevent
+excessive loss of brake fluid, luid spills and system contamination.
+11 Extract the cotter pin (split pin), washer and clevis pin from the
+master cylinder pushrod link and detach the link from the brake
+pedal 7
+
+12 Remove the two master cylinder mounting botts, followed by the
+
+reservoir
+mounting
+screw,
+then
+withdraw
+the
+master
+cylinderfreservoir from the motorcycle. Remove the reservoir cap,
+plate and diaphragm, then drain all fluid from it and loosen the
+reservoir-to-master cylinder hose clamps at either end to separate
+the two components.
+
+Chapter7 Brakes, wheels and tires
+
+TAZ
+Overhaul
+
+13 Disengage the rubber dust boot from the bottom of the master
+cylinder. ifthe boot is spit or damaged it must be replaced,
+
+on Magna
+
+models,
+
+pushrod end
+
+this will necessitate removal ofthe clevis from the
+
+(see Step 7)
+14 Depress the pushrod and,
+fing.
+
+Slide out
+
+using snap-ring pliers,
+
+the piston assembly
+and spring.
+
+remove the
+
+snap:
+
+Lay the parts out in the
+
+proper order to prevent confusion during reassembly
+16 Clean all of the parts with brake system cleaner
+
+(available at a:
+
+parts stores), isopropy alcohol or clean brake fuid.
+
+Caution:
+
+under any circumstances,
+brake parts.
+
+It
+
+Do not,
+
+use 2 petroleum-based solvent
+
+compressed air
+
+is available,
+
+use
+
+cles
+
+it to dry
+
+the p:
+
+thoroughly (make sure it's fitered and unlubricated)
+
+46 Check the master cyinder bore for corrosion, scratches, nicks and
+score
+
+marks.
+
+If damage
+
+replaced with 2 new one.
+
+is
+
+evident,
+
+the
+
+master
+
+If the master cylinder
+
+cyinder must
+
+be
+
+is in poor condition
+
+then the caliper should be checked as well
+17
+
+If the necessary measunng equipment is available,
+
+compare the
+
+11.5
+Apparatus
+for
+bleeding the brakes
+
+dimensions of the master cylinder bore and piston to those aiven in the
+‘Specifications Section of this
+
+Chapter,
+
+replacing any
+
+component that it
+
+wom beyond the service limi
+18 A new piston and spring are included
+
+in the rebuild ki
+
+Use them
+
+regardless
+of
+the condition of the old ones,
+
+19 Before reassembling the master cylinder, soak the piston and the
+Tubber cup
+
+seals
+
+in
+
+clean
+
+brake fluid
+
+Lubricate the master cylinder bi
+insert the parts in the
+
+for
+
+ten
+
+or fifteen
+
+mi
+
+clean brake fluid, then c
+
+reverse order of disassembly,
+
+ensuring the
+
+If the
+
+fitings are rusted,
+
+scratched or cracked,
+
+replace them.
+
+4 Inspect
+
+the three-way hose joint fitted to the lower triple clamp of 1982 through
+
+1986 models.
+system and
+~ removal
+
+If it shows signs of leakage or corrosion,
+
+drain the
+
+remove
+@ for inspection. Refer
+to Chapter
+6 ‘Steering stem
+and installation’
+
+for details
+of
+
+removal of the three-way
+union
+
+Replacement
+
+tapered end of the spring is facing the piston. Make sure the lips on the
+
+5 The brake hoses have banjo union fitings on each end of the hose
+
+cup seals do not tum inside out when they are slipped into the bore.
+
+Cover the surrounding area wth plenty of shop towels and unscrew
+
+20 Depress the pushrod,
+
+the banjo
+
+then install the snap-ring
+
+snap-ring is properly seated in the groove).
+
+(make sure th
+
+Install the dust boot
+
+master cylinder. Ifthe clevis was removed on Magna models,
+top
+
+locknut
+
+(using the previously made
+
+marks),
+
+on the
+
+install the
+
+cevis and
+
+bottom
+
+Jocknult; tighten the locknuts to secure the clevis.
+
+8)
+
+remove the
+
+hose.
+
+Discard the
+
+6
+
+Postion
+t
+
+hose,
+
+making
+
+between the two
+
+sure
+
+components.
+
+of the banjo fitting butts
+
+it
+
+isrit twisted or
+
+otherwise
+
+Make sure the metal tube
+
+against or is located between the
+equipped.
+
+On Sabre models, then the top and bottom focknuts to
+
+secure
+
+marks 1
+
+{and tighten them to the specified torque setting
+7 Flush the old brake fluid from the system,
+
+ommended fluid (see
+
+return ito ts orginal positon)
+On Magna models, connect
+the clevis pin,
+
+Wis 10 the brake pedal,
+
+washer and @ new cotter pin (spit pin),
+
+Install the
+
+using new sealing washers on both sides of the fitings,
+
+Installation
+is a
+reverse of removal,
+noting
+the
+folowing:
+the previously made
+
+sealing
+
+washers.
+
+Portion
+
+the clevis on the pushrod (use
+b)
+
+bot on each end of the hose. Detach the hose from any clips
+
+may be present and
+
+strained,
+
+Installation
+21
+
+that
+
+Section 11).
+
+insert
+
+refll the system with the
+
+Chapter 1) and bleed the air from the system
+
+Check the operation of the brakes carefully before
+
+otoreycle
+
+bend the
+
+cotter pin fegs around the pin end to secure i
+©)
+
+Use new sealing washers on each side of the banjo union bot and
+
+ensure the union butts against the cast lug on the master cyinder
+
+11
+
+Brake system bleeding
+
+When tightened fo the specfied tomue
+0)
+
+If the reservoir hose adaptor
+
+on the master cylinder body was
+
+disturbed, install it using @ new O-ring. Ensure the reservoir hose
+securely Glamped fo its unions
+22 Fill the fluid reservoir with the specified fluid (see Chapter
+bleed the system following the procedure in Section 11.
+
+Install
+
+1) and
+
+the nght
+
+side cover
+
+23 Check the brake pedal height and adjust & if nec
+
+essary by altering
+
+the dlevis position on the master cylinder pushrod
+
+e Chapt
+
+Check the
+
+operation of the rear brake
+
+carefully bel
+
+niding
+
+the
+
+motorcycle
+
+Refer to Wustraton 11.5
+1
+
+Bleeding the brakes is simply the process of removing all the air
+
+bubbles from the
+alipers.
+
+connection
+
+the hoses and the
+
+is loosened,
+
+when
+
+brake system
+
+brake
+
+hydraulic
+
+@ component or hose is replaced.
+
+or
+
+when the master
+cylinder
+or
+caliper is overhauled. Leaks in the system
+
+may
+
+also allow air to enter, but leaking brake fluid will reveal their
+
+resence
+and wam you of the need for repair.
+
+2 To bleed the
+
+brakes,
+
+you will need some new, clean brake fluid of
+
+‘ommended type (see Chapter
+tic tubing,
+
+10.
+
+brake fuid reservoirs,
+
+Bleeding is necessary whenever a
+
+1),
+
+a length of clear vinyl or
+
+a small container partially filed with clean brake fuid
+
+‘some shop towels and a wrench to ft the brake caliper bleeder valves
+
+Brake hoses - inspection and replacement
+
+3
+
+Cover the fuel tank
+
+and
+
+other painted
+
+components to prevent
+
+damage in the event that brake fuid is spilled
+4 Remove
+the
+
+Inspection
+1 Once @ week.
+every nde,
+
+cap or cover.
+
+plate (where fitted),
+
+diaphragm
+
+and ficat (1988
+750 Magna) and slowly pump the brake
+lever
+or
+pedal
+oF if the motorcycle is used less frequently, before
+
+check the concliton of
+
+the Brake hos
+
+connect with the banjo fitings,
+fare
+
+as these are
+
+a
+
+few times,
+
+until no air bubbles can be seen floating up from the
+
+holes at the bottom of the reservoir. Doing this bleeds the air from the
+
+2 Twist and flex the rubber hoses while looking for cracks, bulges and
+seeping fluid. Check extra caretly around the areas where the hoses
+
+3
+
+reservoir
+
+common areas
+
+for hi
+
+Inspec the metal banjo union fitings connected to brake hoses.
+
+master
+
+cyinder
+
+end
+
+of
+
+the
+
+line.
+
+install
+
+the
+
+reservoir
+
+capfcover
+
+‘components loosely.
+5 Attach one end of the clear
+
+vinyl or
+
+plastic tubing to the bleeder
+
+valve and submerge the other end in the brake fluid in the container
+
+(see illustration).
+
+Chapter7
+
+Brakes, wheels and tires
+
+7-13
+
+9
+
+Brake ver
+
+40
+
+Torque ann connection components
+(eter models)
+
+8 Retighten the bleeder
+
+vaive, then release the brake
+
+lever or
+
+pedal gradually. Repeat the process until no air bubbles are visible
+in the brake fluid leaving the caliper and the lever or pedal is firm
+when applied.
+
+9 Install the reservoir cap or cover. wipe up any spilled brake fluid
+land check the entire system for leaks. Note: /f bleeding is difficut,
+{it may be necessary to kt the brake fluid in the system stabitte for a fers
+
+‘hours (Bt may be aerated).
+
+‘bleeding procedure when the tiny
+
+‘bubbles in the system have settled out
+
+12 Rear drum brake:garemodels) -removal,
+inspection andinstallation
+
+124 Remove the brake shoes and springs as a single unit
+
+Waring: The dust collected by the brake system may contain
+asbestos, which is harmful to your heath. Never biov Rout with
+Compressed
+ak and
+don't inhale any of &. An approved fering mask
+should
+be viom vihen working
+on the brakes.
+
+Removal
+Refer
+to Blstrations 12.3 and 124
+6 Remove the reservoir cap/cover components and check the fluid
+
+level. Do not allow the fluid level to drop below the lower mark
+during the bleeding process.
+
+7 Carefully pump the brake lever or pedal three or four times and
+hold it in (front) or down (rear) while opening the caliper bleeder
+
+valve. When the
+
+valve is opened, brake fluid will flow out of the
+
+iper into the
+clear tubing and the lever will move toward the
+handlebar or the pedal will move down.
+
+1 Before you start, inspect the rear brake wear indicator (see
+Chapter 1).
+2 Remove the rear wheel (see Section 16) and lif the brake panel
+‘ut of the hub,
+3 Remove the cotter pins (split pins) from the pivot posts and lif off
+the retaining plate (see illustration).
+4 Fold the shoes toward each other to release the spring tension.
+
+Remove the shoes and springs from the brake panel (see
+illustration).
+
+Chapter7
+
+Brakes, wheels and tires
+
+12.6 Measuring brake lining thickness
+
+128 Check for punch marks (arrow) on the cam end and lever
+fingemall,
+
+surface.
+
+have the drum turned (skimmed) by a dealer to correct the
+
+If the drum has to be tumed (skimmed) beyond the service
+
+limit
+to remove the defects, replace the wheel
+
+Installation
+10 If he cam was removed from the brake panel,
+
+apply high-metting
+
+point grease to tts shat, then insert it in the panel. install the felt seal
+and
+
+wear
+
+indicator
+
+pointer,
+
+aligning
+
+coresponding slot in the cam.
+marks,
+
+its
+
+wide
+
+spline
+
+with
+
+the
+
+Align the previouslymade match
+
+and install the brake lever on the cam splines,
+
+Install and
+
+tighten its pinch bolt to the specified torque.
+11
+
+Apply high-melting pont grease
+to the shoe pivots and the cam,
+
+12 Hook the springs into the shoe holes.
+the brake panel,
+
+Position the shoes in a V on
+
+then fold them down into position.
+
+Make sure the
+
+ends of the shoes fit correctly against the cam and over the pivot
+
+posts. instal the retaining plate over the pivot posts and fit new cotter
+pins (spit pins); bend their ends around the posts
+13 Operate the brake lever and check that the shoes move freely and
+
+retum under spring tension
+14 Install the brake panel in the rear wheel.
+
+Install the rear wheel (see
+
+Section 16)
+15 Check the brake pedal freeplay (see Chapter 1) and check the
+
+18.2a Use a dial indicator
+to measure wheel runout
+A
+
+Radiat runout
+
+B_
+
+operation of the brake and stop light before riding the motoreycle.
+
+Axsinmout
+
+43.
+
+Inspection
+
+Refer
+'o dustratios 1329,
+
+to dustrations 12.6 and 128
+Refer
+road dit or water: Ifthe linings are visibly defective, replace them
+
+6 Measure the thickness of the lining material (ust the lining material
+Chapter's Specifications (see
+
+13 2b and 13.2
+
+1 Place the motorcycle on the main stand, or support it securely in an
+
+5 Check the linings for wear, damage and signs of contamination from
+
+not the metal backing) and compare with the service
+
+Wheels - inspection
+and repair
+
+imit in this
+
+illustration). Replace the shoes if the
+
+lining is near to or worn beyond the service iit
+
+7 Check the ends of the shoes where they contact the brake cam end
+
+Upright position where only a side stand is fitted. Clean the wheels
+
+fhoroughly to remove mud and dit that may interfere with the
+inspection procedure or mask defects.
+
+Make
+
+wheels and tires as desenbed in Chapter 1.
+
+general check of the
+Note:
+
+To carry out @
+
+thorough check of the rear whee! casting on 1987 and 1988 700/750
+Magna models, remove the wheel (see Section 16) and remove the
+wheel cover from the eft sie; it iS retained by three screws to the
+
+these points
+at
+wear
+pivot posts. Replace the shoes if there's visible
+
+wheel hub
+
+'8 Check the brake cam and pivot posts for wear and damage. Look for
+punch alignment marks on the cam end and lever, and if none are
+
+2 With the wheel being checked raised off the ground, attach @ dial
+
+found make your own, then remove the pinch bolt, lever, wear indicator
+
+against the side of the rim (see
+
+pointer, tet seal and cam from the brake panel (see ilustration).
+
+indicator to the fork slider or the swingarm and position ts stem
+
+illustrations). Spin the wheel slondy
+‘and check the side-to-side (axial) runout of the m, then compare your
+
+‘9.Check the brake drum (inside the wheel hub) for wear and damage
+Measure the diameter at several points with a brake drum micrometer
+
+readings wih the value listed in this Chepter's Specifications. In order
+
+It the measurements are uneven (indicating that the drum is out-of
+
+would have to be removed from the machine. Wth the axle camped in
+
+round) orifthere ere scratches deep enough to snap 2
+
+to accurately check radial runout with the dial indicator, the wheel
+
+2 vise, the wheel can be rotated to check the nunout (see illustration).
+3 An easier, though slightly less accurate, method is to attach a stiff
+wire pointer
+to the fork slider
+or the swingarm and position the end a
+
+Chapter 7 Brakes, wheels and tires
+
+raise the front
+to
+jackstand
+154 Usea
+
+18.2¢ Measuring radial runout
+
+13.2 Measuring axial runout
+
+‘wheel
+off
+the ground
+
+fraction of an inch from the wheel (where the wheel and tire join). It
+
+9 Ifthe front-to-back alignment is correct, the wheels still may be out of
+
+4 The wheels should also be visually inspected for cracks, flat spots
+on the rim and other damage. Since tubeless tires are fitted, look very
+
+string, check the rear wheel to make sure itis vertical, To do this, hold
+the string against the tire upper sidevvall and allow the weight to settle
+just off the floor. When the string touches both the upper and lower tire
+
+the wheel is true, the distance from the pointer to the rim will be
+/f whee! runout is excessive,
+‘constant as the wheel is rotated, Note:
+check the whee! bearings very carefully before replacing the wheel
+
+closely for dents in the area where the tire bead contacts the rim.
+
+Dents in this area may prevent complete sealing of the tire against the
+
+Fim, which leads to detation of the tre over a period of time,
+5 If damage is evident, or if runout in either direction is excessive, the
+whee! will have to be replaced with a new one. Never attempt to repair
+‘a damaged cast aluminum whee!
+
+| Misalignment of the wheels, which may be due to a cocked rear
+wheel of a bent frame or triple clamps, can cause strange and possibly
+
+Serious handling problems. If the frame or triple clamps are at fault
+
+repair by a frame specialist or replacement with now parts are the only
+
+2 To check the alignment you will need an assistant,
+or a pertectly
+
+a length of string
+
+straight piace of wood and a ruler graduated in 1/64 inch
+
+increments. A plumb bob or other suitable weight will elso be required
+
+3 Place the motorcycle on the main stand. Where no main stand is
+
+fited, support the motoreyele securely under the crankcase so thet itis
+the width of both tres at their widest points. Subtract
+vertical. Measure
+
+the smaller measurement from the larger measurement, then divide
+the difference by two. The result is the amount of offset that should
+
+‘exist between the front and rear tires on both sides,
+4 Ifa string is used, have your assistant Nold one end of it about halt
+
+way between the floor and the rear axle, touching the rear sidewall of
+the tre,
+
+5 Run the other end of the string forward and pul it tight so that it is
+contact with the
+roughly parallel to the floor. Slowly bring the string into
+
+front sidewall of the rear tre, then turn the front wheel until iis parallel
+with the string, Measure the distance from the front tire sidewall to the
+string.
+
+6 Repeat the procedure on the other side of the motorcycle. The
+distance from the front tire sidewall to the string should be equal on
+both sides
+
+7 As was previously pointed out, a perfectly straight length of wood
+
+is the same.
+may be substituted for the string, The procedure
+& Ifthe distance between the string and tire is greater on one side, or it
+
+the rear wheel appears to be cocked, first
+‘swingarm bearings (see
+
+Chapter 6). If the
+
+swingarm or frame may be bent
+
+40 Using the plumb bob,
+
+check the condition of the
+
+bearings are not wom, the
+
+or other suitable weight, and a length of
+
+and is perfectly straight, the wheel is vertical. Ifitis not, place
+‘sidewalls
+thin spacers under one leg of the main stand.
+
+11 Ones the rear wheel is vertical, check the front wheel in the same.
+
+manner. If both wheels are not perfectly vertical,
+
+the frame and/or
+
+‘major suspension components are bent
+
+15
+
+14 Wheels - alignment check
+
+alternatives
+
+alignment vertically,
+
+Front wheel - removal and installation
+
+Removal
+Refer
+to ilustrations 15.1,
+
+159, 15.10.and 15.41
+
+1 Place the motorcycle on its main stand, then raise the front wheel off
+the ground by tying down the rear of the machine or using a jackstand
+Under the engine (see illustration). On models without @ main stend,
+
+remove the belly fainng (see Chapter 6) and place a floor jack, with&
+wood block on the jack head, under the crankcase, raise the jack to lit
+the whos! off the ground
+
+Sabre models
+
+2.0n 1100 models and 1982/83 750 Sabres, remove its set screw and
+
+Tolease the speedometer sensor unt from the loft side of the axle. On
+
+1984/85
+
+700
+
+Sabres,
+
+remove the set screw and withdraw the
+
+speedometer cable trom the drive unit. Release its wiring or cable (as,
+applicable) from the guide on the left caliper bracket
+2. Remove the two caliper bracket-to-fork slider bolts and withdraw the
+fight caliper complete with its bracket trom the slider. Support the
+
+caliper so thal it does not hang by its hose. Note: Place a wood or
+plastic wedge between the brake pads fo prevent their
+
+accidental
+
+expulsion # the brake lever is operated.
+4 Loosen the axle clamp bolts (700/750) or axle pinch bolt (1100) on
+
+the right side, then unscrew and withdraw the axle from the right side
+
+1982 through 1986 Magna models
+
+5 Remove its set screw and pull the speedometer cable out of the
+speedometer drive unit
+
+6 Remove the two caliperto-caliper bracket bolts from each caliper
+‘and slide the calipers off the disc, support their hoses to prevent strain
+
+‘on them. Note: Place @ wood or plastic wedge between the brake pads to
+vent thelr accuental expulsion f the brake kver is operated
+7 Loosen the axle pinch bolt on the night side, then unscrew and
+withdraw the axle from the night side,
+
+7-6
+
+Chapter7 Brakes, wheels and tires
+‘ler dive from the left side (See illustration). Caution:
+
+speed
+ley
+
+the wheel down and
+
+could
+
+become warped.
+
+allow
+
+doesn’ suppor the weight of
+Drake lever
+
+wih
+
+11 If the axle
+
+it
+
+fo
+
+Set the
+the
+
+res fon
+
+whee
+
+Don’t
+
+one of the discs - the disc
+
+on wood blocks so the disc
+
+Note:
+
+ff
+Do not operate the
+
+the whee! removed
+
+is corroded, remove the corrosion with fine emery
+
+cloth. Set the axle on V-blocks and measure the runout with a dial
+test indicator, if runout exceeds the service limit, replace the axle
+{see ilustration|
+12
+
+Check the condition of the wheel bearings (see
+
+Section 17).
+
+Installation
+tb
+Refer
+
+16.9 Axle clamp bolts on 1987 and 1988 700/760 Magnas
+
+15 14 and 15.16
+ilustratons
+
+13 Fit the speedometer drive unit to the lef side wheel aligning its,
+drive gear slots with the driveplate tabs. Install the spacer in the
+tight side
+of the wheel.
+14 Maneuver the wheel into position. Apply a thin coat of grease
+to the axle.
+
+If the axle clamp was removed on 700/750 S
+
+‘models, install it with its cast arrow facing forward, but leave &s
+
+1987 and 1988 700/750 Magna models
+8 Remove its set screw and pull the speedometer cable out of the
+speedometer drive unit
+
+nuts loose at this stage (see
+
+15 Lift the wheel into position, guiding the disc(s) between the
+brake pads on models where the calipers were not removed.
+‘Check that the right side spacer remains in place and position the
+
+speedometer drive unit so that its lug butts against the back of the
+‘cast lug on the left sider.
+
+All models,
+
+16 On 1982 through 1986 models, slide the
+
+10
+
+the right side
+tighten it to
+
+Remove the spacer from the right side of the wheel and the
+
+Right brake aise
+
+16.10 Front wheel components
+
+axle into position from
+
+and thread it into the threads of the
+
+left slider;
+
+Chapter7
+
+Brakes, wheels and tires
+
+TAT
+
+16.14 Arrow mark must face forward
+on
+
+16.16 Measuring disc-to-caliper
+
+700/750 Sabre axle clamp
+
+bracket clearance
+
+18.4 Brake torque arm Is retained to brake panel by split pin, nut
+and pivot bolt on 1986-0 model
+18
+
+Conne
+
+weedometer
+
+Securely
+tighten
+
+its
+
+retaining
+
+wire guide on the left
+
+caliper
+
+cable
+
+support from under
+
+Pump
+
+ground
+
+to the drive unit
+
+screw
+
+p
+
+th
+
+and
+
+jefwire through tt
+
+bracket
+
+the
+
+gine and rest
+
+t
+
+fr
+
+@
+
+few
+
+front whe
+
+tim
+
+sition
+
+16
+
+Rear wheel - removal and installation
+
+Removal
+700/750 models
+ilustrations 16.3,
+
+to
+Refer
+
+16.6 Fully unscrew the rear brake
+
+Brakeved
+
+1
+
+Set the bike
+
+torque.
+
+If they were removed,
+
+install the
+
+calipers
+
+on the
+
+brake discs
+Jsing
+
+@
+
+and tighten their mounting bolts to the specified torque,
+feeler bl jade, measure the
+07 mm (0.028 in)
+clearance
+
+between the right caliper bracket and the brake
+disc;
+jess than the gauge thickness, pull the
+and
+
+leave
+
+it
+
+in
+
+place
+
+while
+
+the
+
+clamp
+
+or
+
+ifthe
+
+clear
+
+right slider outwards
+
+at
+
+pinch
+
+bolts
+
+Wlustration). Tighten the pinch bolt or nuts to
+noting that
+
+ince
+
+are tightened
+
+clamp must
+
+1988 700/750 models,
+
+2
+
+securely
+
+Remove
+
+be
+
+the nut and tighten
+it to the specified torque.
+
+left
+
+side
+
+stand,
+
+of the wheel
+
+then remove the bolt (see illustration).
+
+4 On
+
+Note
+
+hand
+so the stopper
+bot will come out freely
+
+1985-on Magnas,
+
+remove the
+
+cotter
+
+pin
+
+(spit
+
+pin),
+
+pla
+
+rubber washers and pivot bolt from the brake torque arm end,
+lower the
+
+torque arm away from the brake panel (see illustration).
+
+5 While pushing
+insert the axe from the left
+
+main
+
+is off the ground; support
+
+using a jackstand
+
+the rear axle
+nut
+on
+the
+
+panel with your
+
+the specified torque,
+
+on 700/750 models the forward nut on the
+
+1987 and
+
+On models without a
+
+3 On Sabres
+and 1982 through 1984 Magnas, remove the
+in the right side of the swingarm to gain access to the br
+
+is__bolt,
+
+(se
+
+fully tightened, followed
+by the rear nut
+17 On
+
+4, 16.5 and
+16
+
+its main stand.
+
+the engine and raise
+it sothat the rear wheel
+the bike
+
+the specified
+
+on
+
+a wood block on the jack head, under the re
+flo r jack. with
+
+place@
+
+adjusting nut from the
+
+spring,
+
+remove
+
+forward on
+th
+
+the
+
+rear brake lever to compress the
+and disengage the b
+
+rod from the brake lever pivot trunnion (see illustration).
+Remove the
+
+TAB
+
+Chapter7
+
+Brakes, wheels and tires
+
+16.6 Use abar through the axle head to pull it from position
+pivot trunnion from the brake lever
+
+and thread the
+
+spring,
+
+pivet trunnio
+
+{and
+adjusting
+nut
+back on the brake rod for safel
+6 Loosen the axle pinch bot oi
+Insert a screwdriver
+
+through the
+
+axle out (see illustration).
+
+right
+
+Do
+
+offs (100 Sabre) to the specitied
+
+end
+of the rear axle and
+
+pul
+
+the
+
+the exe pinch bolt
+
+not lose the spacer as the axle is
+
+to the soeatfied torque.
+
+rear brake treepiay on 700/750 models (see Chapter 1),
+
+withdrawn
+
+to bring the pads back into contact with
+
+7 With the axle removed,
+
+pull the wheel
+
+(with
+
+the brake pa
+
+brake operation on all models before
+
+place) to the right, separating it rom the final dm
+toward the rear by passing
+tt on the right side
+
+of the rear fender
+
+1100 models
+
+17
+
+8
+
+Set the bike on its main
+
+9
+
+Remove the rear axle nut on the left side of the wheel
+
+10 On Sabre models,
+
+stand
+
+remove the two
+
+ration
+
+hose
+
+11
+
+bearings
+
+-
+
+removal,
+
+inspection
+
+and
+
+installation Front wheel bearings
+
+Support t
+
+the brake disc.
+
+the caliper off
+
+Wheel
+
+17.13
+
+Loosen the axle pinch bot on the right en
+
+withdraw the axle from
+
+the nght side
+
+12
+
+the right to
+
+Pull the wheel
+
+to
+
+tion 15),
+to allow the weight of the wheel
+
+3s nat
+
+Work it out toward the rear by passing it on
+fender, Caution:
+
+disc,
+
+Don't lay
+
+the whee! down and allow #to
+
+it could become warped.
+
+n the brake¢
+
+r
+
+Set the whe
+
+disc doesn't support the weght of the whee! Do not operate
+pedal with the whee! removed
+
+the brake
+
+3
+
+Remove the speedometer drive unit and spacer from the wheel hub
+
+{see
+
+illustration 15.10).
+
+4 Using
+2
+flat-bladed
+
+el,
+
+All models
+13 Ifthe axle is
+
+corroded, remove
+V-blocks
+
+Indicator,
+
+axle
+
+on
+
+and
+
+seal from the left
+
+the speedometer driveplate
+
+seal from
+
+Set
+
+the
+
+screwdriver, pry out the grease
+
+then withdraw
+
+the
+
+right side of the whee!
+
+ly @ brass diff punch) inserted through
+
+the corr
+
+measure the
+
+if runout exceeds the service limt,
+
+runout
+
+with
+
+replace the
+
+2
+
+tub bearing, tap evenly around the inner race of the
+
+di
+
+ffom the hub. The bearing spacer will also
+
+axle (see
+
+illustration 15.11).
+
+44
+
+Check the consition of the wi
+
+Installation
+15 Installation
+
+is the reverse of the
+
+following. Note:
+
+Honda advise that the three final
+
+nuts be loosened very sight
+
+8)
+
+Apply mult-purpose
+
+removal procedure,
+
+residue)
+
+drive unit-
+
+specty
+
+eating.
+
+type
+
+spines
+
+grease with MeS2 fo the
+thin coat of
+
+grease fo the axke before instaling
+
+tighten its nut to the specified torque
+
+swingarm
+
+nuts
+
+to
+
+the
+
+spectied
+
+Tighten
+
+them
+
+Note:
+
+dry
+
+with
+
+dry them).
+
+compressed air
+
+Apply @
+
+(dont
+
+nit tum sm
+
+ten
+
+torqu
+
+Tighten the
+pwot bolt nut (later 700
+Colter
+pin (Spit pin) in the torque anm pivot bolt and bend as
+
+let the
+
+few drops of oil to the
+
+/f the beanng is sealed on both sides don't attempt fo
+
+thly,
+
+race - ifthe
+
+has rough spots or is noisy,
+
+the fi
+
+Spectications) ones the axle has been installed
+
+secure the nut
+
+high flashpoint solvent (one which wont leave any
+
+blow
+
+iter race of the bearing and rotate the inn
+
+the left side of the hub
+
+) Apply @
+
+and
+
+gs spin as you
+
+b ease axe inst
+
+grease (Honda
+
+unsealed
+type or only sealed ononeside,
+
+oi
+
+notin
+
+replace it
+
+ay and was not damaged on removal
+m
+
+the hub,
+
+wash it
+
+in
+
+solv ent once again and dry It,
+
+bearing with high-quality wh
+
+| bearing
+
+wughly clean the hub erea of the wheel.
+cess in the hub.
+
+Install the bearing
+
+with the marked or sealed side facing out
+
+a bearing driver
+or a socket
+
+deve
+
+then pack the
+
+grease
+
+tin unti its
+
+large
+
+enough to contact the outer
+
+completely seated
+
+over and instal the bearing
+
+spacer.
+
+Unle:
+
+sthe
+
+Chapter
+7 Brakes, wheels and tires
+bearings are sealed on both side:
+
+the remaining space no more
+
+than 2/3 full of high-metting po
+grease
+
+is
+
+packed
+
+in,
+
+driving
+
+7-19
+
+wheel bearing
+th
+
+second
+
+grease
+
+bearing
+
+it
+
+described above.
+13
+
+Fit
+
+the
+
+speedor
+
+right side of the whi
+
+described in $
+
+‘all
+
+‘or
+
+brake system
+
+ction
+
+15
+
+grease from
+
+cleaner then install
+
+the
+
+wheel
+
+Rear wheel bearings
+Note:
+
+Always replace the
+w
+
+bearings in pairs
+
+Never replace the
+
+bbeamngs indveiualy.
+Refer
+fo
+ilustrations 17 18a, 17. 18b 17.19,
+17-224
+
+17.
+
+16 Rane: the rear wheel (see Section 16),
+
+outthe brake panel
+
+17.18a Protect wheel as shown when levering
+final drive flange
+‘out on 1100 Sabres, 700/750 Magnas and
+
+17 On 1100 models remove the b
+
+1982 760 Sabres
+
+seal on that si
+sti
+
+aa
+
+ess fit during manufacture
+00/750 Sabres.
+
+17.18 Rear wheel components (1100 Sabres, 700/750 Magnas and 1982 750 Sabres)
+
+loosen
+
+Chapter7 Brakes, wheels and tires
+7-20
+
+WHEEL
+BEARING
+
+SPACER
+
+FINAL DRIVE
+FLANGE
+
+417.20 Pass a diftthrough tho hub to tap out the bearing on the
+
+l
+driveflange
+\nstal
+a new O-ring on the final
+17.22a
+
+the five final drive flange bolts evenly, then it out the final drive
+
+seal driver, large socket of a fat piece of wood to
+a
+using
+models.
+
+side
+
+flange (see!
+20 "Remove, inspec! and install the bearings as described above
+
+rive trem nto place. Fit the spacer into the seal
+22 Install a new O-ring on the final ve flange and applya smear
+
+21 installa new grease seal fo the right side ofthe wheel on
+
+Sabres, install the drive flange to the wheel and tighten the bolts
+
+In Steps 6 trough 12 see
+1100
+
+‘of grease to the O-ring. On 1100 Magnas and 1983-on 700/750
+inacriss-
+
+TIRE CHANGING SEQUENCE - TUBELESS TIRES
+
+tire. After releasing beads, push tire bead into well of
+rimat point opposite valve. insert iever next to valve and work
+bead over edge of rim.
+
+‘When first bead is clear, remove tire as shown.
+
+Work first bead over the rim flange.
+
+ee
+
+|
+
+a
+
+2
+
+Use a tire lever to work the second bead over rim flange.
+
+Chapter7 Brakes, wheels and tires
+
+7-22
+
+417.22b Grease the flange posts and inner face on 1100 Sabres,
+700/750 Magnas and 1982 750 Sabres
+
+cross pattern to the specified torque (where given). On 1100
+Sabres, 700/750 Magnas and 1982 750 Sabres apply grease to
+the posts and install the drive flange (see illustrations).
+23 On 1100 models, reff the disc
+to the rear wheel (see Section
+8).
+
+24 Clean off all grease from the brake disc using acetone or brake
+
+system cleaner then install the wheel as describedin Section 16.
+
+17.22¢.... and insert the flange posts into the cush drive rubbers
+
+problems do occur they require special repair techniques.
+2 The force required to break the seal between the rim and the
+bead of the tire is substantial, and is usually beyond the
+capabilities of an individual working with normal te irons.
+tire and installation on the wheel
+3 Also, repair of the punctured
+rim requires special tools, skills and experience that the average
+do-it-yourselfer lacks.
+
+4 For these reasons, if a puncture or fiat occurs with a tubeless
+
+tire, the wheel should be removed from the motorcycle and taken
+18
+Tubeless
+tires
+- general information
+Tubeless tires are used as standard equipment on this
+1
+motorcycle. They are generally safer than tube-type tires but if
+
+to a dealer service department or a motorcycle repair shop for
+repair or replacement of the tie. The accompanying color
+ilustrations can be used to replace a tubeless tire in an
+emergency.
+
+

@@ -1,0 +1,1905 @@
+~ HONDA
+
+3. MAINTENANCE
+
+~ V45 ~~~::
+3- 1
+3- 3
+
+[ sERVICE INFORMATION
+
+MAINTENANCE SCHEDULES
+
+COOLING SYSTEM HOSES
+& CONNECTIONS
+
+CYLINDER COMPRESSION
+
+< ENGINE >
+-
+
+3-14
+3-14
+
+FUEL LINES
+FUEL STRAINER IV45 MAGNA)
+THROTTLE OPERATION
+
+3-5
+
+< CHASSIS >
+
+3-5
+3- 6
+
+BATTERY
+
+3- 15
+
+BRAKE FLUID
+
+CARBURETOR CHOKE
+
+3- 7
+3- 7
+3- 9
+3-9
+
+BRAKE SHOE/ PAD WEAR
+BRAKE SYSTEM
+
+3- 15
+3-16
+3- 16
+
+AIR CLEANER
+CRANKCASE BREATHER
+SPARK PLUGS
+
+IGNITION SYSTEM
+VALVE CLEARANCE
+CARBURETOR SYNCHRONIZATION
+CARBURETOR IDLE SPEED
+RADIATOR COOLANT
+RADIATOR CORE
+
+BRAKE LIGHT SWITCH
+
+3-17
+3- 17
+3-18
+
+HEADLIGHT AIM
+
+3 - 10
+3- 10
+
+CLUTCH
+
+3- 12
+3- 13
+3- 13
+3- 14
+
+SUSPENSION
+
+SIDE STAND
+
+3-18
+3- 19
+3-21
+
+WHEELS
+STEERING HEAD BEARINGS
+
+3-21
+3-21
+
+NUTS, BOLTS, FASTENERS
+
+SERVICE INFORMATION
+GEN ER A L
+•
+
+Engme oil
+
+•
+
+Engine oil filter
+
+•
+
+Final drive gear oil
+
+See page 2-3
+See page 2·3
+See page 2· 10
+
+SPECIF ICATI ONS
+
+< Engine>
+Spark plugs:
+Standard
+
+_ _+
+
+Forco Id climate (below SoC. 41 ° F)
+NGK
+NO
+
+Fo r extend ed h igh speed riding
+
+NGK
+
+NO
+
+OP R7EA-9
+
+QP R9EA-9
+
+X27EPA·U 9
+
+~
+
+NGK
+
+NO
+
+OPR8EA·9
+
+X24EPR·U9
+
+Spark plug gap:
+
+0.8-0.9 mm (O.03 1-0.035 in)
+
+Date of Issue: May. 1982
+
+"
+
+CI HONDA MOTOR CO., LTD.
+
+-
+
+X22EP R·U9
+
+-------------------- ------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-1
+
+~ HONDA
+~ , V45 ~~:::
+
+MAINTENANCE
+Ignition t im ing
+
+At idle:
+Advance starts:
+Full advance:
+
+loGaTDe
+IOoSTQe at 1,500 rpm
+37°STDC at 3,300 rpm
+
+Valve clearance
+Cold (Below 35°C, 9SoF):
+
+Intake/ Exhaust : 0.12 mm (0.005 in)
+
+Id le speed:
+Carburetor synchronization:
+
+1 ,000 1: 100 rpm
+All carburetors within 60 mm (2 .4 in) HI!
+
+Cylinder compression:
+Throttle gn p free plav :
+
+2- 6 mm (118-1 /4 in)
+
+13:1: 2 kg/em' (1841: 28 psi)
+
+<C HASSIS >
+Rear bra ke pedal free play :
+
+20-30mm (3/4-1·1/4 in)
+
+Tire :
+
+I
+
+I j ... V45 MAGNA
+
+Front
+
+Rear
+
+110J90.1861H
+
+130190-17 68H
+[130/90-1667Hj
+
+Up to 90 kg (200 lbsl
+lood
+
+32 (225 , 2.25)
+
+32 (225, 2 .25)
+
+90 kg (200 fbs) load
+to vehicle cllpacity load
+
+32 (225,2.25)
+
+40 (280, 2.80)
+
+Bridgestone
+
+L303
+
+G508
+
+Dunlop
+
+'"
+
+KI27e
+
+T ire size
+
+Cold t ire pressure, psi (kPa, kg/em')
+
+T ire brand
+
+Suspension air pressure: Front, 6-14 psi ( 40- 100 kPa, 0.4- 1.0 kg/cm 2 )
+Rear, 14- 57 psi (1oo- 4ookPa, 1.0--4.0 kg/ cm 2 )
+
+TOOLS
+Special
+Vacuum gauge 5et
+Carburetor pilot screw wrench
+Carburetor throttle adjusting bit
+Common Adjusting wrench
+
+07404-0020000 or M9378- 021-XXXXX (U.S.A. only)
+07908-4220201
+07908- MBOOOoo or KS-AH - 008-MBO (U.S.A. only)
+07708--0030200 or Snap-on Tool Wrench-X0810
+or equivalent availabe in U.S.A.
+
+Date of Issue: October, 1982
+
+3-2
+
+© HONDA MOTOR CO .• LTD .
+
+---,,--
+
+Downloaded from www.Manualslib.com manuals search engine
+
+-
+
+-
+
+CJ\ HONDA
+
+~ V45 ~~~:!
+
+MAINTENANCE
+
+MAINTENANCE SCHEDULES
+V45 SABRE-VF750S
+Perform the PRE·RIDE INSPECTION in the Owner's Manual at each scheduled maintenance period.
+I : INSPECT AND CLEAN , ADJUST, LUBRICATE , OR REPLACE IF NECESSARY .
+C: CLEAN, R: REPLACE , A : ADJUST, L . LUBRICATE
+
+FREQUENCY
+
+WHICHEVER
+COMES
+.FIRST
+
+ODOMETER READING (NOTE 3)
+
+ITEM
+FUEL LINES
+OPERATION
+
+•
+
+'"w"
+
+R CLEANERS
+CRANKCASE
+SPARK PLUGS
+
+eO
+
+w
+
+e-
+
+'"
+
+1
+
+~
+
+w
+
+OIL
+OIL FILTER
+
+'"z
+
+0
+
+.-
+
+'"'"
+w
+
+BUR
+
+"
+
+COOLANT
+
+~
+
+BRAKE FLUID (FRONT)
+
+e- f-I-
+
+:il l-+~ '-;-+-
+
+- I~
+
+f-;-+
+
+o
+
+3·1B
+
+CLUTCH FLUID
+
+"'~:c-==c---I. ;'" 1-+--,CLUTCH
+SYocST
+.cE
+" 'M
+" -_ _ _ _ _ __
+
+~ r--.--Miifsi;t,:i~iiii------­
+~ r.+-2
+
+HEAD
+
+-
+
+• SHOULD BE SERVICED BY AN AUTHORIZED HONDA DEALER, UNLESS THE OWNER HAS PROPER TOOLS AND
+SERVICE DATA AND IS MECHANICALLY QUALIFIED .
+··IN THE INTEREST OF SAFETY , WE RECOMMEND THESE ITEMS BE SERVICED ONLY BY AN AUTHORIZED
+HONDA DEALER.
+NOTES :
+
+1. SERVICE MORE FREOUENTL Y WHEN RIDING IN DUSTY AREAS.
+2. SERVICE MORE FREOUENTL Y WHEN RIDING IN RAIN OR AT FULL THROTTLE (U.S.A . ONLY).
+3 . FOR HIGHER ODOMETER READINGS, REPEAT AT THE FREQUENCY INTERVAL ESTABLISHED HERE .
+
+Date of Issue : October, 1982
+
+© HONDA MOTOR CO ., LTO
+
+-
+
+-
+
+-
+
+Downloaded from www.Manualslib.com manuals search engine
+
+29
+
+3-3
+
+---_.
+
+MAINTENANCE
+
+Y45 MAGNA-YF750C
+Perform the PRE·RIDE INSPECTION in the Owner's Manual at each scheduled maintenance period.
+I : INSPECT AND CLEAN , ADJUST, LUBRICATE, OR REPLACE IF NECESSARY.
+
+C:ClEAN,
+
+A: AEPLACE , A: A~JUST. L: lUBAICATE
+ODOMETER READING (NOTE 3)
+
+WHICHEVER
+
+FREQUENCY
+
+COMES
+
+•
+•
+•
+~
+
+~
+
+w
+
+eO
+
+w .
+
+e-
+
+«
+
+~
+
+w
+
+'"Z
+0
+
+i2 •
+~
+w
+
+3-14
+
+•
+
+17·7
+
+~ C-~~~~~----------------~
+::E
+BRAKE FLUID (F RONT)
+
+I
+
+~ HEiRAi<EilHOElPlWWeA,,-----t
+
+~
+
+3·15
+3-16
+
+I
+
+CLUTCH FlUID
+
+i2 r-~~C~L~U~TC~H~SY~S~T~E~M~-----------+
+
+I
+
+~ f-+--=~~;::':-:=------+~"""'"
+
+ih-+-
+
+~ ~~~
+••
+
+-
+
+STEERING HEAD BEARINGS
+
+• SHOULD BE SERVICED BY AN AUTHORIZED HONDA DEALER, UNLESS THE OWNER HAS PROPER TOOLS AND
+SERVICE DATA AND IS MECHANICAllY QUALIFIED .
+·-IN THE INTEREST OF SAFETY, WE RECOMMEND THESE ITEMS BE SERV ICED ONLY BY AN AUTHOR IZED
+HONDA DEALER .
+NOTES :
+
+1. SERVCIE MORE FREQUENTlY WHEN AIDING IN DUSTY AREAS.
+2. SERVICE MORE FREQUENTLY WHEN RIDING IN RAIN OR AT FULL THROTTLE (U.S.A. ONl YI.
+3. FOR HIGHER ODOMETER READINGS, REPEAT AT THE FREQUENCY INTERVAL ESTABLISHED HERE .
+
+3-4
+
+--- -------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+30
+
+Date of Issue: OC1ober, 1982
+
+© HONDA MOTOR CO .. lTD.
+
+--
+
+Q
+
+HONDA
+
+®
+
+V45 ~~~::
+
+MAINTENANCE
+
+FUEL LINES
+
+V45 SABRE
+
+V45 MAGNA
+
+Replace any parts which show deterioration ,damage
+
+or leakage.
+
+FUEL FllTER(V45 MAGNA)
+"t.WARNING
+
+Gasoline ;s flammable and is explosive under
+urtain conditions. Do not smoke or allow
+fla mes or sparks in your working area.
+Turn the fuell/aille OFF .
+Remove t he right side cover.
+Remove the f uel filter f rom the holder.
+
+Clip the fuel li ne (i n let side) closed .
+Disconnect t he fuel lines from t he fi lter.
+Replace the fuel filter wi t h a new one when indicated by the maintenance schedule (See page 3-4),
+Install the fue l filter lind reconnect the fuel lines.
+After install ing, tu rn the fue l valve ON and check
+
+LINE
+(OUT L ET)
+
+that there are no fue l leaks.
+
+•
+
+-
+
+Date of Issue: October, 1982
+© HONDA MOTOR CO., LTD .
+
+.-
+
+31
+
+--------- - - ' - - -
+
+Downloaded from www.Manualslib.com manuals search engine
+
+3-5
+
+MAINTENANCE
+
+THROTTLE OPERATION
+
+-
+
+Check for smooth throttle grip full opening Ind
+
+automatic full closmg in ,II steering positions.
+Check the throttle cables and replace them if they
+are deteriorated, kinked or damaged.
+Lubricatl the throttle cables (page 2·11). if Ihrotlle
+operation is not smooth.
+
+M••sur. throttle grip frN play at the throttle grip
+flange.
+FREE PLAY: 2-6 mm (1/8-1/4 ii'll
+
+2-6 mm (1/8-1/4 ii'll
+
+Adjustment can be made at either end of the
+throttle cable. Minor adjustments are made with th,
+upper adjuster and major adjustments are mad. with
+the lower adjuster after removing the fuel tank
+(V45 SABRE) or lifting the fuel tank up (V45
+MAGNA).
+Adjust by loosening the lock nut and turning the
+adjuster.
+
+-
+
+Tighten the lock. nut and recheck throttle operation.
+
+Install the fuel tank, if removed.
+
+-
+
+Date of Iswe: January, 1982
+Cl HONDA MOTOR CO., L TO.
+
+32
+
+3-6
+
+--
+
+Downloaded from www.Manualslib.com manuals search engine
+
+-
+
+-
+
+GiDHONDA
+. ~ V45 ~~:::
+
+MAINTENANCE
+
+CARBURETOR CHOKE
+The V45 choke system uses a fuel enrichening
+circuit controlled by • bystarter valve. The bystarter valve opens the enricheniog circuit via cable
+when the choke lever on the handlebar is pushed up.
+
+Check for smooth upper choke lever operation.
+Lubricate the choke cable, if the operat.on is not
+smooth.
+Push the choke lever on lhe handlebar all the way
+
+up to fully open. Make sure the choke valve i5
+open bv Irying to move Ihe choke lever on the
+carburetor, after removing the fuel tank (V45
+SABRE) or lifting the fuel tank up (V45 MAGNA).
+There should be no free play .
+
+Adjust if necessary, bv IOOUlning the choke cable
+clamp on the carburetor end moving the choke
+cable casing 50 the choke lever is fulty open.
+
+Tighten Ihe clamp.
+Pull the choke lever all the way to fully closed.
+Make sure tne cnoke vallie is fully closed by cnecking tor frell play in tne cable between tne lever on
+tne carburetor and cable casing.
+Reinstall tne removed parts in tne reverse order of
+d isassembly _
+
+,
+
+AIR CLEANER
+V'5 SABRE :
+Remove tne caps from the left and right air cleaner
+cover screws.
+Remove the air cleaner cover screws and the two
+covers.
+Remolle the nut and washers and the two air cleaner
+elemeots.
+Remove the elements from their holders.
+
+•
+
+Date of Issue: May, 1982
+© HONDA MOTOR CO ., L TD_
+
+---
+
+Downloaded from www.Manualslib.com manuals search engine
+
+33
+
+3-7
+
+~
+
+HONDA
+
+,,\Z" V45 MAGNA
+SABRE
+.-
+
+MAINTENANCE
+
+Wash the elements in non-flammable or h igh flash
+
+point toillent. SQueeze out and let them dry.
+SOlk the element5 in gear oil (SAE #80-#901 and
+squeeze out the excess.
+
+CLEANING
+SOLVENT
+\
+
+Install the removed parts 111 the reverse order of
+di$aS$embly.
+
+~
+...
+
+-~
+
+AllOW TO
+
+~ "' DRY
+
+•
+ELEMENT
+
+"
+
+GEAR OIL
+SQUEeZE
+(SAE #80-#90) TIGHTlY
+
+SQUeeZE
+TIGHTLY
+
+V45 MAGNA,
+Make sure the fuel tank is less than half-full. Drain
+it, if it is more than half-full.
+Remove the tank mounting bolts and tift the fuel
+tank up and hold it in place with the tank support
+
+,od.
+Remove the air cleaner cover screws.
+
+-
+
+Remoltl the air cleaner element and discard it in
+accordance with the maintenance schedule.
+
+3-8
+
+---
+
+34
+
+-
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Date of Issue: May. 1982
+() HONDA MOTOR CO ., LTD.
+
+- -
+
+•
+
+-
+
+-
+
+,
+Q
+
+HONDA
+
+~ V45 ~~:=:
+
+MAINTENANCE
+
+Also, replace tha element if it is excessively dirty.
+IOfn or damaged.
+
+BOLT
+
+Install 8 new element and install the cover,
+Disengage the tank suppon rod by lifting up slighty.
+let the fuel tank down into place and install the
+fuel tank mounting bolts. Be careful not to pinch or
+
+kink the vent and fuel lines.
+
+CRANKCASE BREATHER
+Remove the plug from the drain tube to empty any
+
+deposits.
+Install the drain plug.
+
+•
+
+NOTE:
+Service more freQuently when riding in rain
+or at full throttle, or if the deposit level can
+be seen in the transparent section of the drain
+lube.
+
+SPARK PLUGS
+RECOMMENDED SPARK PLUGS
+
+Standard
+For cold climiate
+
+(Below SoC, 41 " Fl
+For extended
+
+high speed riding
+
+NGK
+
+NO
+
+DPR8EA·9
+
+X24EPR·U9
+
+OPR7EA·9
+
+X22EPR·U9
+
+DPR9EA·9
+
+X27EPR·U9
+
+DRAIN'LL",
+CENTER
+ELECTRODE
+
+mm ill)
+:-==~==, ~D";~':
+(0.031-0.035
+
+Disconnect the spark plug caps.
+Clean any dirt from around the spark plug bases.
+Remove and discard the spark plugs.
+Measure the new spark plug gaps using a wire·type
+feeler gauge.
+
+SPARK PLUG GAP: 0.8-0.9 mm (0.03 1-0.035 in)
+
+•
+
+Adjust by bending the side electrode carefully.
+With the plug washer attached, thread each spark
+plugs in by hand to prevent crossthreadillg.
+Tighten the spark plugs allother 1/2 turn with a
+spark plug wrench to compress the plug washer.
+COllnect the spark plug caps.
+Date of Issue: October, 1982
+
+© HONDA MOTOR CO ., LTD.
+
+T
+35
+
+3-9
+-~.-------------------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+W
+
+HONDA
+
+~ V45 ~!:=!
+
+MAINTENANCE
+
+IGNITIDN SYSTEM
+NOTE:
+
+The ignition system is transistorized and Clnnot be adjusted. If tht ignition timing is incorrect, check the spark unit and pulse gent·
+rator and replace any faulty parts (Section
+20) .
+
+-
+
+Remove the alternator .nd left crankcase collers.
+Wipe off the oil from the flywheel.
+Connect the timmg light to the high tension wife
+
+of the No.1 cylinder.
+Start the engine and I.t it idle.
+
+IDLE SPEED: 1,000 t 100 rpm
+The timing is correct if the UFO, mark on the flywheel .ligns with the crankcase rear mating surfaces.
+
+VALVE CLEARANCE
+
+MATING SURFACES
+
+NOTE
+
+Inspect and adjust \/,1118 clearance while the
+engine is cold. (Below 3S"C,9S"FI
+Drain coolant from engine ,nd frame (page 6-3).
+
+NOTE
+Drain the coolant into a clean container for
+reuse. Scheduled coolant replacement is ellery
+2 years or 24,000 miles (38,600 kmJ.
+
+Remove the right and left frame side ccovers aod
+remove the seat.
+Turn the fuel valve "OFF" (V45 MAGNA) and
+remove the fuel tank (V45 SABRE).
+Lift up the fuel tank by removing the front mount·
+ing bOlts (V45 MAGNA) . Be sore the tank is less
+than half full.
+If not. drain the tank.
+Remove the spark plug caps.
+
+SIDE COVER
+
+3-10
+
+J6
+
+-
+
+- ------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Date of Issue: October, 1982
+
+© HONDA MOTOR CO .. LTD .
+
+-
+
+,
+
+MAINTENANCE
+
+Remove the radiator (See page 6·8).
+Remove the front and rear cylinder head cOlier bolts
+and both cylinder head covers.
+Remove the alternator and left crankcase covers.
+
+INSPECTION
+Measure and adjust the intake and exhaust valve
+clearances as described below.
+Rotate the crankshaft clockwise to align the Tl.3
+mark with the crankcase mating surfaces.
+Make sure the No.1 piston is at TDe (Top Dead
+Center) on the compression stroke.
+Check the '1allle clearances for the No. 1 cylinder
+using two feeler gauges for each pair of valves; one
+
+for each valve that shares a common rocker arm.
+VALVE CLEARANCE UN, EX):
+0.12 mm (O.OOS in)
+If adjustment is needed, loosen the lock nuts and
+turn the adjusting screws until there is a slight drag
+on both feeler gauges. Both feeler gauges should
+remain inserted during adjustment.
+Hold the adjusting screws and tighten the lock nuts.
+TORQUE: 21-25 N·m (2.1 -2.5 kll-m, 15-18 ft-Ib)
+
+The lock nuts will come loose if lIot tightened
+10 tile correct torque value.
+Recheck the valve clearance.
+0
+
+Rotate the crankshaft 270 clockwise to align the
+T2.4 mark with the crankcase mating surfaces and
+check the valve clearances for the No.2 cylinder.
+Adjust using the procedures for the No.1 cylinder.
+Rotate the crankshaft 90° clockwise to align the
+Tl.3 mark with the crankcase mating surfaces and
+check the valve clearances for the No.3 cylinder.
+Adjust using the procedures for the No.1 cylinder.
+0
+
+Rotate the crankshaft 270 clockwise to align the
+T2.4 mark with the crankcase mating surfaces and
+check the valve clearances for the No.4 cylinder.
+Adjust using the same procedures as for the No.1
+cylinder.
+
+Date of Issue: October, 1982
+
+© HONDA MOTOR CO .. LTD.
+
+-
+
+Downloaded from www.Manualslib.com manuals search engine
+
+VALVE ADJUSTING WRENCH
+10x12mm
+J7
+
+3-11
+
+{;J\ HONDA
+
+®
+
+MAINTENANCE
+GA"KE' TAB
+
+Install the removed parts in the reverse order of
+disassembly.
+Be sure the cast marks inside the cylinder head
+cover face the front.
+Also, the gasket tab of the rear cylinders head cover
+
+V45
+
+~~:::
+
+ARRO~ CAST
+
+spacer should face forward.
+
+NO.1 CY LI NDER
+HEAD
+
+CARBURETOR SYNCHRONIZATION
+NOTE
+
+Synchronize the carburetors with the engine
+at norme! operating temperature, transmission
+in neutral and motorcycle on the centerstand.
+Remove the plugs from the No.2, 3 and 4 cylinder
+
+head ports end install the vClC\lum gauge adapte".
+Connect the vacuum gauges.
+
+VACUUM GAUGE 07404- 0020000
+or M937B-02 1-XXXXX (USA only)
+
+ADJUSTMENT
+NOTE
+The No.1 carburetor cannot be adjusted; It is
+
+the base carburetor.
+
+-
+
+Start the engine and adjust the idle speed.
+ID LE SPEE D: 1.000 ± 100 rpm
+
+Clip the vacuum t ube tor the automatic fue l valve
+shut. as snown in the middle photo.
+Stop the engine and remove the automatic fuel
+valve vacuum tube from the No. 1 cylinder head.
+Install the vacuum gauge adapter and connect the
+
+vacuum gauge.
+Check that all carburetors are within 60 mm (2.4 in)
+Hg.
+
+3-12
+
+38
+
+---------- -----
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Date of Issue: October, 1982
+
+© HONDA MOTOR CO., LTD.
+
+W
+
+HONDA
+
+~ V45 ~~:::
+
+MAINTENANCE
+CARBURETOR ADJUSTING
+
+Synchronize
+
+to
+
+specification by
+
+loosening the
+
+adjusting screw lock nuts and turning the adjusting
+screws with the following tools:
+To adjust the No.2, 4 carburetor -
+
+Carburetor adjusting wrench (07908-4220201)
+To adjust the NO.3 carburetor Carburetor
+
+throttle
+
+adjusting
+
+bit
+
+(07908-
+
+MBOOOOOI or (KS-AH-008-MBO, USA onlyl
+
+and Adjusting wrench (07708-0030200) or
+Snap-On Tool Wrench
+
+X0810 or equivalent
+
+available in U.S.A.
+Recheck the idle speed and synchronization.
+Remove the gauge adapters and install the plugs.
+
+Remove Ihe clip from Ihe automatic fuel valve
+vacuum tube. Reconnect the tube to the No. 1
+cylinder.
+LOCK NUT
+
+CARBURETOR IDLE SPEED
+NOTE
+
+• Inspect and adjust idle speed after all other
+engine adjustments are within spe<:ifications .
+• The engine must be warm for accurate adjustment. Ten minutes of stop·and.go riding is
+sufficient.
+
+~------------~
+Warm up the engine, shift to NEUTRAL, end plaC1l
+the motorcycle on its center stand.
+Turn the throttle stop screw as required to obtain
+tne specified idle speed.
+IDLE SPEED: 1,000 ± 100 rpm
+
+RADIATOR COOLANT
+Remove the frame left side cover (V45 SABREl
+Remove the frame right side cover (V45 MAGNAI.
+Check tha coolant lavel of the reserve tank with the
+engine runing at normal operating temperature.
+The level should ba between the "FULL" and
+"LOW" ievellines.
+If necessary, remove the reserve tank cap and fill to
+the "FULL" level line with a 50/50 mixture of
+distilled water and anti·freeze.
+Reinstall the cap and frame side cover.
+
+Date of Issue : October, 1982
+
+© HONDA MOTOR CO" LTD .
+
+-
+
+--- -
+
+Downloaded from www.Manualslib.com manuals search engine
+
+n!
+
+39
+
+. i~.'i'
+
+3-13
+
+MAINTENANCE
+
+W
+
+HONDA
+
+®
+
+V45
+
+~~:::
+
+RADIATOR CORE
+Check the air passages for clogging or damage.
+Straighten bent fins, remove insects, mud or any
+obstruction with
+
+comprlHsed
+
+air or low water
+
+pressur•.
+Aeplace the r&diator if the Ilr flow is restricted over
+more than 20% of the radiating surface.
+
+COOLING SYSTEM HOSES
+Inspect the hoses for cracks or deterioration, and
+replace if necessary.
+Check the tightness of all hose clamps,
+
+CYLINDER COMPRESSION
+Warm up the engine.
+Stop the engine, then disconnect the spark plug
+caps and remove the spark plugs.
+Insert the compression gauge.
+Open the throttle all the way and crank the engine
+with the starter motor.
+
+Crank the eogine until the gauge reading
+stops rising. The maximum reading is usually
+reached Within 4·7 seconds,
+
+-
+
+COMPRESS ION PRESSURE:
+13 ± 2 kg/em l (184 ± 28 psi)
+
+If compression is low, check for the following :
+Leaky valves
+Improper valve dearance
+Leaking cylinder head gasket
+- Worn piston/ring/cylinder
+
+-
+
+If compression is high, it indicates that carbon
+
+deposits have accumulated on the combustion
+chamber and/or the piston crown.
+
+3-14
+
+-- ----
+
+Downloaded from www.Manualslib.com manuals search engine
+
+40
+
+Date of Issue : May, 1982
+
+© HONDA MOTOR CO .. L TO.
+
+MAINTENANCE
+
+<CHASSIS >
+BATTERY
+V45 SABRE'
+Remove the right frame side cover and inspect the
+battery fluid level.
+When the fluid level nears the lower level, remove
+the battery and add distilled water to the upper
+level line as follows:
+Disconnect the negative cabla at the battery terminal. Then remove the positive cable.
+Remove the battery holder plata bolt and plate.
+Pull out the battery and add distilled water to the
+upper level line. Reinstall tha battery.
+
+V45 MAGNA,
+Aemo~e the right frame side cover and inspect the
+battery fluid level.
+Remove the battery when the fluid level nears the
+lower level!ine as follows :
+Remove the seat.
+Disconnect the negative cable at the battery termi·
+nal. Then remove the positive cable.
+
+Remove the battery holder plate bolt and plate.
+Pull out the battery and add distilled water to the
+upper level line.
+Reinstall the battery.
+
+V45 MAGNA:
+NEGAT IVE TERMINAL
+
+POSITIVE
+
+INAL
+
+UPPE
+
+NOTE:
+Add only distilled water. Tap water will
+shorten the service life of the battery.
+
+The balll!ry electrolyte contains sulphUric
+ocid. PrQtect your eyes, skin, alld clothing.
+If electrolyte geu in your eyes, flush Ihem
+rhorollgllly with water and get prompt
+medicolottenlioll.
+
+LOWER LEVEL
+
+/'
+
+UPPER LEVEL MARK
+
+-
+
+BRAKE FLUID
+Check the front brake fluid reservoir level.
+If the level Ilears the lower le~el mark, fill the reo
+servolr with OOT·3 BRAKE FLUID to the upper
+level mark.
+Check the entire system for leaks, if the level is low.
+
+CAUTION:
+Do not remove the cover ullfil the IU1IIdlebar has been fUmed S() that the reservoir is
+
+1€I'el.
+Avoid operating the brake lever with the
+cop removed. Brake fluid will Sl/uirt OUi if
+the lever is pUlled.
+Do IIot mix dllferem typesoffluid. as they
+are not compatible.
+Refer to section 16 for brake bleeding procedures.
+Date of I$sue: October, 1982
+
+"
+
+© HONDA MOTOR CO., LTD.
+
+-
+
+- --
+
+LOWER LEliE L
+
+3-15
+
+------------------------------------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+W
+
+HONDA
+
+~ V45 ~~:=:
+
+MAINTENANCE
+
+BRAKE SHOE/ PAD WEAR
+BRAKE PAD WEAR
+Check the brake pads for wear by looking through
+the slot indiuted by the arrow cast on the caliper
+
+assembly.
+Replace the brake pads if the wear line on the pads
+reaches the edge of the brake disc (page 16·5).
+
+CAUTION:
+
+-
+
+A/WilYs replilce the brake ptlds In pain to
+
+assure even disc pressure.
+
+BRAKE SHOE INSPECTION
+(WEAR INDICATOR)
+Replace the brake shoes if the arrow on the brake
+arm aligns With Ihe reference mark " 6," on full
+application of the rear brake pedal.
+
+BRAKE SYSTEM
+Inspect the brake hoses and ' Ittings for delerioration, cracks and signs 01 leakage , Tighten any
+IOO§8 fittings .
+Replace hoses and fitt ings as reQuired.
+
+LOC:K NUT
+
+BRAKE PEDAL HEIGHT
+Adjust brake pedal heIght $0 Ihe pedal is 7 mm
+11 /4 in) below the top of the foot peg.
+
+CAUT ION:
+Incorrect brake pedal heiiht carl cause brake
+drog.
+
+To Adjust :
+Loosen the stopper bolt lock nut and turn the
+stopper bolt.
+Retighten the lock nut .
+NOTE:
+
+After adjusting the brake pedal height, check
+the rear brake light switch and brake pedal
+free play and adjust if necessary .
+
+STC)PP;ER BOLT
+
+3-16
+
+-
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Dlle of Issue : May, 1982
+
+42
+
+({) HONDA MOTOR CO., LTD .
+
+-
+
+----
+
+-
+
+- - ----
+
+_.
+
+-
+
+MAINTENANCE
+BRAKE PEDAL FREE PLAY
+NOTE
+
+Perform brake pedal free play ad justment
+after adjusting brake pedal height.
+Check the brake pedal free play.
+FREE PLAY; 20-30 mm 13/4-1-1/4 i nl
+
+If adjustment is necessary, turn the rear brake
+adjusting nut.
+
+20-30
+(3/4-1-1/4 in)
+
+NUT
+
+BRAKE LIGHT SWITCH
+NOTE :
+
+-
+
+Perform brake light switch adjustment after
+adjusting the brake pedal play and height.
+Adjust the brake light switch so that the brake
+light will come on when the brake pedal is depressed
+20 mm (3/ 4 in). and brake engagement begins.
+Adjust by holding the switch body and turning
+thelKljuSling nut. Do not turn the switch body_
+
+NOTE :
+The front brake light switch does not requ ire
+adiustmentc,_ _ _ __
+
+HEADLIGHT AIM
+V45 SABRE,
+Adjust vertically by turning the adjusting screw
+below the met'r assembly (tachometer) ,
+
+Adjust horizontally by turning the adjustfrl9 screw
+
+on the headlight case.
+Turn the adjusting screw clockwise to direct the
+beam toward the right side of the rider.
+
+,
+
+ADJUSTING SCREW
+
+Date of Issue: May, 1982
+
+© HONDA MOTOR CO" LTD .
+
+--
+
+Downloaded from www.Manualslib.com manuals search engine
+
+43
+
+ADJUSTING SCREW
+
+3-17
+.
+
+(i1),
+
+HONDA
+,~ V45 SMAGNA
+..... RE
+
+MAINTENANCE
+V45 MAGNA,
+Adjust vertically by loosening both headlight else
+mounting botts.
+
+Adjust horizontally by turning the adjust ing screw
+on the headlight rim.
+Turn the IIdjusting screw clockwise to direct the
+beam toward the right side of the rider.
+
+NOTE :
+
+Adjust the headlight beam as specified by
+,-"
+Ioc
+" allaws and regulatlon,,','--_ _ _ _ _ _ _-'
+
+"t. WARNING
+All improfWrly adjusted headlight may blind
+oncoming drillers, or it may [ail 10 light the
+
+roadjorQso!e dislanu .
+LOINER MARK
+
+CLUTCH
+Check the clutch fluid reservoir level.
+
+If the level nears the lower level mark, till the
+reservoir with DOT-3 BRAKE FLUID to the upper
+
+-
+
+level mark.
+
+Check the entire system for leaks, if the level is low.
+
+CAUTION,
+• Do not remove the cover until the handlebar M$ been turned JO lhilt the reunooir
+;slellei.
+
+• Avoid operating the dutch lever with the
+cap remo"ed. Fluft.l will squirt out If the
+feller is pulled.
+Do nOI mix different types of fluid, as
+they are not compatible.
+
+SIDE STAND
+
+",
+
+Check the rubber pad for deterioration or wear.
+Replace if any wear extends to wear line as shown.
+Check the side stand spring for damage and lou of
+tension, and the side stand aS5embly for freedom
+of movement. Make sure the side stand is not
+bent.
+
+GOOD
+
+NO GOOD
+
+NOTE ·
+When replacing, use a rubber pad with the
+mark "Over 260 Ibs ONLY".
+Spring tension is correct if the measure·
+ments fall within 2- 3 kg (4.4-6.6 Ib),
+when pulling the side stand lower end with
+a spring scale.
+
+3-18
+
+x
+
+.
+
+-- -------------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Date of Issue: May, 1982
+¢l HONDA MOTOR CO ., LTD.
+
+•
+
+MAINTENANCE
+
+•
+
+SUSPENSION
+"to WARNING
+Do not ride Q vehicle with faulty suspension.
+Loo~,
+
+worn or oomaged suspension parIS
+
+impair vehicle stability and control.
+
+FRONT
+Check the ,ction of the front forks by compressing
+them several times.
+Check the entire fork assembly for leaks or damage.
+Replace damaged components which cannot be
+repaired.
+
+Tighten all nuts and bolts.
+
+Check the front fork air pressure when the forks
+
+AIR VALVE
+
+are cold.
+Place the vehicle on its center stand.
+Remove each air valve cap end measure the air
+
+pressure.
+AIR PRESSURE:
+6-14 psi (40-100 kPe. 0.4-1.0 kg/cm2)
+
+ANTI-DIVE SYSTEM INSPECTION
+t-WARNING
+
+Select 0 safe place Qwoy from traffiC to
+perform this inspection.
+Check the operation of the anti·dive system by
+riding the motorcycle and firmly applying the
+
+brakes.
+Position
+
+Anti-dive damper force
+
+II
+III
+IV
+
+LIGHT ANTI-DIVE
+MEDIUM
+HARD
+MAXIMUM ANT1-0IVE
+
+Inspect and if necessary. repair the system (Refer
+to section 15).
+
+Date of Issue: January. 1982
+©- HONOA MOTOR CO .• LTD.
+
+3-19
+
+---- -- - -'-----------------------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Q
+
+HONDA
+
+~ V45
+
+MAINTENANCE
+
+:.!:::
+
+REAR
+Place tne motorcycle on ,ts center stand.
+Move tne rear wneel sideways witn force to see If
+the swingarm bearings .re worn.
+Replace tne bearings ,f tnere is any toosenen !page
+18-4).
+Cneck tne shock absorbers for leaks or damage.
+Tignten all rear suspension nuts and bolts.
+
+•
+
+AIR
+
+CAP
+
+V45 SABRE,
+Remove tne seat.
+Remove tne ... al ... e cap and measure tne reer snock
+absorber air pressure.
+REAR SHOCK ABSORBER AIR PRESSURE :
+14-57 psi (100--400 kP., 1-4 kg/c:m 1 )
+
+NOTE:
+
+Cneck tne air pressure wnen tne rear shock
+absorber is cold.
+
+Adjust tne rebound damping accordmg to the
+following chart.
+Recommended Rear Suspension Adjustment:
+
+-r
+
+•
+
+I
+
+~
+
+Rllr A"
+P"lSurt
+
+R,der l
+Lood
+
+REBOUND
+DAMPING
+ADJUSTER
+
+14 p,i
+(100 kP.,
+1.0kg/gn·)
+
+OM
+
+,
+
+I
+
+57 PSI
+
+1400 kP.,
+4.0 ktil/ cm" )
+
+! ,-
+
+Up,o
+vehiclt
+
+capKlIV
+
+lood
+
+,
+
+.
+RIDING
+CON·
+DITIONS
+
+Gent,.1 or
+.round ' o .... n
+"ding.
+
+RoUfjlh .<Nod
+ridinfjl
+
+3-20
+
+--
+
+-
+
+Highwa ... or
+winding .0Id
+.idlntil
+
+Downloaded from www.Manualslib.com manuals search engine
+
+"
+
+Date of Issue : May, 1982
+
+© HONDA MOTOR CO .. lTD .
+
+~ HONDA
+~ . V45 ~~:::
+
+MAINTENANCE
+
+WHEELS
+NOTE :
+
+Tire pressure should be checked when tires
+afe COLO.
+Check the t ires tor cuts, imbedded na ils, or other
+sharp objects.
+
+RECOMMENDED TIRES AND PRESSURES :
+I I .. V4S MAGNA
+
+T ire size
+
+Fron t
+
+Rear
+
+1101SO·1 8 61H
+
+130/90·1768H
+1130/90·1667H )
+
+Up "
+
+eo"
+
+lire
+
+p res-
+
+sUre
+p si
+(kPa .
+
+90 k.
+(200 Ibsf
+
+32
+1225 , 2 .25 )
+
+32
+122 5,2.25 )
+
+32
+
+"
+
+' ~d
+
+90 "
+1200 Ibd
+1000d to
+
+kg/em' I veh Icl e
+
+(225,2.25)
+
+1280,2.8)
+
+L303
+
+0508
+
+'"
+
+K12 1C
+
+,....,
+
+C&pDC· tv
+
+Tire
+bra nd
+
+8RIDGE·
+STONE
+DU NL O P
+
+Check the front and rear wheels for trueness (page
+
+15· 21 and 17·5).
+Measure the tread depth at the center of the tires.
+Replace the tires if the tread depth reaches the
+follow ing limit:
+
+Minimum t read depth :
+Fro nt:
+
+1.5 mm (1/1 6 in ]
+
+Rear:
+
+2.0 mm (3{32 in )
+
+STEERING HEAD BEARINGS
+NOTE :
+
+Check that the control cables do not inter·
+fere with handlebar rotation .
+Ra ise the front wheel off the ground and check
+that the handleba r rotates freely.
+If the handlebar moves uneven ly , b inds, or has
+vertica! movement, adjust the steering head bearing
+by turn ing the steering head adjusting nut (page
+16·38).
+
+NUTS, BOLTS, FASTENERS
+Check that all chassis nuts and bolts are t ightened
+to their correct torque values (Section 1) at the
+intervals shown in the Maintenance Schedule (Pages
+3·3 and 3·4).
+Cha<:\(, all cotter pins, safety clips, hose clamps
+and cable stays.
+Date of Issue: May, 1982
+
+© HONDA MOTOR CO., lTD .
+
+---
+
+Downloaded from www.Manualslib.com manuals search engine
+
+..
+
+"
+
+3-21
+
+Cij) HONDA
+~ . V45
+
+:.!:::
+
+FUEL SYSTEM
+
+- ....
+
+•
+
+-
+
+-
+
+'8
+
+4-0
+•
+
+------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+-
+
+Date of Issue : January, 1982
+© HONDA MOTOR CD"lTO .
+
+--
+
+-
+
+

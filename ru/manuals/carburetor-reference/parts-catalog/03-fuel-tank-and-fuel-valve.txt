@@ -1,0 +1,1419 @@
+FINAL DRIVEN GEAR
+
+FUEL TANK o FUEL VALVE
+
+CONTENTS
+TITLE
+
+Sy
+
+BATTERY
+
+97 F10
+
+a
+
+BRAKE CALIPER, FR.
+
+“yf
+
+BRAKE PEDAL
+
+59 E3
+
+59 £3
+
+CYLINDER
+
+61
+
+ELECTRIC PARTS
+
+117 GB
+
+FENDER. FR.
+
+112 G6
+
+FINAL DRIVEN GEAR
+
+Ba
+
+FRAME
+FUEL VALVE
+
+VV
+
+pola
+0
+
+§
+8
+No.
+
+4 = VF700S'84
+
+100 F12
+
+DESCRIPTION
+
+OE
+
+BIA
+8B
+
+F141 4 5
+
+c
+
+5 = VF700S'85
+
+Q
+
+FEA
+O
+
+T
+
+Y
+
+FRAME
+
+A
+
+15 | SERIAL NUMBER |
+
+HONDA
+
+Ret.
+
+CODE
+
+No.
+
+BLOCK NO.
+
+Oj€E
+
+Q
+
+gia
+
+8
+
+8
+
+F-15 |4
+
+S
+
+57€E
+
+30 BEARING, NEEDLE, 19/16 .......0,
+
+4
+
+5
+
+1
+
+191062-MB0-013
+
+1810696
+
+1 SPRING, FUEL TUBE COVER .......0.
+
+4
+
+31 OIL SEAL, 34X50%7 (ARAI)
+
+........
+
+4
+
+5
+
+2
+
+191261-MB0-003
+
+1266832
+
+2 VALVE ASSY., FUEL ...ccececeueees
+
+OIL SEAL, 34X50x7 (NOK)
+
+.........
+
+4
+
+5
+
+2
+
+191261-MB0-005
+
+1292150
+
+4 -~
+-~ 5|A|
+-- 5 lac]
+
+32 OIL SEAL, 60X80x8 (ARAI)
+
+........
+
+4
+
+5
+
+1
+
+|91265-MB0-003
+
+1292 168
+
+33 O-RING, 308MM
+oo...
+ccc
+eee cues
+
+4
+
+5
+
+1
+
+|91302~-001-020
+
+0001065
+
+34 O-RING, 224.9 (ARAL) ..eccceeces 45
+
+1
+
+191355-mB0-003
+
+1251578
+
+5
+
+1
+
+|91355-MB0-005
+
+1251586
+
+O-RING, 22X1.9 (NOK) .......0.00.
+
+4
+
+FROM
+
+TO
+
+Q |PART NUMBER
+
+35 O-RING, 35.2X2.4 (NOK) ......e00,
+
+4
+
+5
+
+1
+
+|91356-mB0-005
+
+1285410
+
+36 O-RING, 58.5X3.5
+
+oo. cece cece ees
+
+4
+
+5
+
+1
+
+|91353-MB0-003
+
+1263839
+
+O-RING, 58.5X3.5
+
+woe cece nee scene
+
+4
+
+5
+
+1
+
+|91359-MB0-000
+
+1251636
+
+3? BOLT, HEX., OX12 ...cceceeneeeeee
+
+4
+
+5
+
+1
+
+{92000-06012
+
+0054197
+
+BOLT, HEX., OX12 ..secsceseeerens
+
+4
+
+5
+
+1
+
+}92101-06012
+
+2738821
+
+BOLT, HEX., 6X12 Lo ee seseseeeeees 4
+
+5
+
+1
+
+|92101-06012-0a
+
+3B WASHER, PLAIN, OMM
+.....
+se
+ece sees 4
+
+5
+
+1
+
+|94101-06800
+
+Tetrmee
+
+seneenn
+
+IALVE ASSY..,
+ALVE
+
+ASSY.,
+
+VALVE ASSY.,
+
+FUE
+’
+
+,
+
+FUEL ..cccccecaceses
+
+FUEL ..ssseseseseess
+
+T
+
+51€E
+
+FRAME
+FROM
+
+TO
+
+68 EB
+
+CODE
+
+ie
+
+TAILLIGHT
+
+116 G8
+
+128 H2
+
+TOOLS
+
+5
+
+-------------
+
+116715-MB0-950
+
+1793173
+
+Tonetl
+
+ve a
+
+1
+FM102422 | 1
+Fm100183 | 1
+
+|16950-mB0-701
+|16950-MBO-701
+116950-MB0-701
+
+1515188
+1515188
+1515188
+
+WHEEL FR
+
+78
+
+WIRE HARNESS
+
+117 GB
+
++
+
+116950-mB0-023
+
+2087278
+
+1
+
+16950-#60-023
+
+2087278
+
+4S
+--
+
+5
+
+.
+
+; od
+
+FHT0018S
+
+voss0-wats 900
+
+0945
+
+~~
+
+5|a|
+
+-------
+
+Fw102422 | 1
+
+|16950-mB0-702
+
+2094514
+
+m-
+
+3
+
+omen
+
+FM100183 | 1 | 16950-MB0-702
+
+2094514
+
+4
+
+5
+
+“-
+
+5
+
+A | ---~---
+
+AC]
+
+~~ 5] 4 | ------1AC|
+
+-~-----
+
+Fmt02622
+
+1
+
+| 16950-MB0-703
+
+FM102422 | 1 | 16950-MB0-703
+
+2138949
+
+FM100183 | 1
+
+|16950-MB0-703
+
+2138949
+
+nee ee
+
+2138949
+1244284
+
+1 | 16952-461-771
+
+3591500
+
+0952549
+
+5 TUBE, AIR VENT, 3.5130 ....... /4
+
+5
+
+1 | 16953-MB0-000
+
+0345900
+
+1244292
+
+6 COVER SET, VALVE ......esceeeaeee
+
+4
+
+=~
+
+---
+
+5S|A|
+5 [AC]
+
+1 | 16953-449-7514
+
+0962415
+
+| en eneee
+
+---~-~-~-~---
+
+126 H1
+
+1
+
+1 | 16952-MB0-000
+
+VF7C0S'85 ENGINE NO.; RC22E-2 100001 TO 2103285
+
+106 G3
+
+swinowes
+
+S|
+
+VF700S ‘84 ENGINE NO.; RC22E-2002575 To 2006097
+
+"12 G6
+
+STRIPE
+
+Q | PART NUMBER
+
+FM102422 | 1 | 16953-449-751
+FM100183 | 1 | 16953-449-751
+
+0962415
+
+0962615
+
+& AMERICAN HONDA MOTOR CO. LTD. 1983
+
+87
+
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM 102800
+
+VF7005'85 FRAME NO.; RC221-FM 100001 TO FM100863
+
+€9
+
+HONDA
+
+5
+
+VF700S'85 ENGINE NO.; RCZ22E-2100001 TO 2103668
+
+71
+
+92 FB
+
+104 G2
+
+4
+
+FS
+
+110 G5
+
+STEF
+
+R
+
+|&
+
+|
+
+SHOCK ABSORBER
+
+STEERING STEM
+
+Y
+
+4 SCREEN SET, FUEL STRAINER .......
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+
+VF700S 'B4 FRAME NO.; RC221-EM000006 TO EM001081
+
+VALVE ASSY., FUEL ..esccseseceee
+
+4
+
+90 F7
+
+102 Gi
+
+STAND
+
+3 TUBE, VACUUM oo .ecccececs ceeeeee
+
+¢ AMERICAN HONDA MOTOR
+CO LTD 1993
+
+VF700S'84 FRAME NO.; RC2ZU-EM000007 TO EM00S012
+
+DESCRIPTION
+
+120 G10
+
+;
+
+SHIFT PEDAL
+
+SPARK UNT
+
+Q
+
+Fp | SERIAL NUMBER |
+
+4
+
+86
+
+68 £8
+
+SHOCK ABSORBER, FR
+SIDE COVER
+
+VV
+
+FS5
+
+MUFFLER
+
+SEAT
+
+F14MB0E15
+
+FS
+
+87
+
+66 E7
+54 £1
+
+HORN
+
+“CAUTION OR WARNING LABELS MUST BE ORDERED SEPARATELY WHEN APPLICABLE”
+
+B7
+
+HANDLEBAR
+HEADLIGHT
+
+RADIATOR
+F14MBOE14
+
+Fa
+
+123 Git
+
+FUEL TANK
+
+s
+
+E4
+
+70 €9
+
+FENDER. AR.
+
+BLOCK NO,
+
+Ea
+
+10% GI
+
+CONTROL LEVER
+
+2
+
+Ret
+
+61
+
+CANISTER (AC)
+132 Ha
+CLUTCH MASTER CYLINDER 64 E6
+
+ee
+
+5 = VF700S'85
+
+FO
+
+80 F2
+
+CABLES
+
+4 = VF700S'84
+
+95
+
+76 E12
+
+BRAKE MASTER. FR.
+BRAKE PANEL. AR
+
+Ts
+,
+
+56 E2
+
+AIR CLEANER
+
+18
+
+23
+
+PAGE GRID
+
+TACHOMETER
+
+J.
+
+RID
+orl
+
+F
+S
+
+FUEI. TANK e FUEL VALVE
+
+4 = VF700S'84
+
+VoeV
+
+5 = VF7008'85
+
+CONTENTS
+
+a
+0
+
+Ole
+
+0 sOl,
+s
+Ret
+
+No.
+
+BLOCK NO.
+
+?Y
+
+8
+F-15| 4
+
+alc
+5 | 4
+
+FRAME
+SERIAL NUMBER
+
+R
+A
+
+4
+
+5|/€]
+
+FROM
+
+Q
+
+DESCRIPTION
+
+TITLE
+
+To
+
+TACHOMETER
+
+S6 E2
+
+AIR CLEANER
+
+97
+
+BATTERY
+
+|PART NUMBER
+
+CODE
+
+76 E12
+
+61
+
+..cceveeeee|
+
+&
+
+5
+
+[4
+
+5
+
+2 |17611~4B 1-000
+—
+
+2
+
+|17612-MB0-700
+
+$9 E3
+
+CANISTER (AC)
+132 H4
+CLUTCH MASTER CYLINDER 64 £6
+CONTROL LEVER
+59 £3
+
+1245059
+
+CYLINDER
+
+6:
+
+ELECTRIC PARTS
+
+1316546
+
+FENDER, FA
+
+70 EQ
+
+112 G6
+84 Fa
+
+FINAL DRIVEN GEAR
+
+..ccceeuee]
+
+4
+
+CAP COMP., FUEL FILLER ......000.1/4
+
+“CAUTION OR WARNING LABELS MUST BE ORDERED SEPARATELY WHEN APPLICABLE”
+4 = VF700S'84
+
+5 = VF700S'85
+
+BLOCK NO,
+DESCRIPTION
+
+27954666
+
+-—
+
+CAP COMP., FUEL FILLER
+
+.....ceeee!
+
+4
+
+5
+
+1
+
+117620-MB0-961
+
+1781376
+
+14 GROMMET, SIDE COVER (B)
+
+..... saeel
+
+4
+
+5
+
+2
+
+|83602-MB0-000
+
+1250463
+
+15 EMBLEM, R. FUEL TANK ....cesaeee 4
+
+=
+
+1
+
+187121-MB0-000
+
+1250570
+
+87
+
+FS
+
+87
+
+FS
+
+HANDLEBAR
+HEADLIGHT
+HORN
+
+0
+
+EMBLEM, R. FUEL TANK
+®TYPE2*(SILVER) ..cccucucncs wfa
+
+5
+
+1
+
+|87121-MB0~-9107B
+
+4877281
+
+SPEEDOMETER
+STAND
+
+STEERING STEM
+
+8
+
+gic
+
+FRAME
+
+R
+
+HONDA
+CODE
+
+5
+
+1
+
+|16955-MB0-701
+
+1724558
+
+B BOLT, HOLDING
+
+4
+
+5
+
+1
+
+116975-MB0-003
+
+1781202
+
+4
+
+--]A
+
+1 | 16953-ME5-005
+FM102422 | 1 = 116953-ME5-005
+FM100183 | 1 | 16953-ME5-005
+
+1 | 175A1-MB0-950ZA
+
+4
+
+--iA
+
+1 | 175A1-4B0-9507B
+
+m= 1AC
+
+1
+
+| 175A1-MBO0-960ZA
+
+-~ TAC
+
+1
+
+| 175A1-4B0-9607B
+
+1669290
+1669290
+1669290
+
+1781277
+1784285
+
+1781293
+
+1 | 175A1-MB0-9
+102A
+
+1876507
+
+TANK COMP., FUEL #NH1* (TYPE2)
+
+(BLACK) .......20, toe evesecene
+
+~~
+
+SIA
+
+1 |175A1-MB0-9 1028
+
+1876515
+
+TANK COMP., FUEL *NH1® (TYPE1)
+(BLACK)...
+cee eeeeeeeenereee
+
+(>
+
+5
+
+1 | 175A1-MB0-92078
+
+1876523
+
+IAC
+
++ AMERICAN HONDA MOTOR CO. LTD 1963
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+
+VF?00S'84 FRAME NO.; RC220-EM000007 TO £M005012
+
+VF?00S'B4 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO £4001081
+
+187122-MB0-000
+
+1250588
+
+EMBLEM, L. FUEL TANK
+(TYPE1) (GOLD) wo. cece ee neenes ~-
+
+5
+
+1
+
+|87122~MB0-9102A
+
+1877299
+
+5
+
+1
+
+|87122-mB0-9107B
+
+1877307
+
+4
+
+5
+
+1
+
+|87517-mB0-770
+
+1316934
+
+LABEL, FR. FORK CAUTION .........
+
+4
+
+5
+
+1
+
+|87517-MBO0-7707¢
+
+1406503
+
+F6
+
+4
+
+5
+
+1
+
+|87560-181~-76070
+
+1223437
+
+19 COLLAR, FUEL TANK SETTING ......./4
+
+5
+
+1
+
+190324-MB0-700
+
+1310598
+
+20 BOLT, CAP, 6X20 ...cacccnceccrecs|
+
+4
+
+5
+
+2
+
+|92600-06020-06
+
+1316991
+
+21 SCREW, OVAL, 3X6 .....00. cererece|
+
+4
+
+5
+
+4
+
+|93700-03006-06
+
+0242099
+
+22 SCREW-WASHER, 4X8
+
+4&
+
+5
+
+2
+
+193892-04008-08
+
+0634618
+
+23 CLIP, TUBE, B7 we. cccecceceseccen | 4
+
+5
+
+3
+
+|95002-02070
+
+0250639
+
+24 CLIP, TUBE, B12 .. ee cuceecnceneee}
+
+&
+
+5
+
+2
+
+195002-02120
+
+0335034
+
+25 BOLT, FLANGE, 8X22 .....ccceneueel
+
+4
+
+5
+
+-
+
+1
+
+|95700-08022-00
+
+0637090
+
+BOLT, FLANGE, 8X22 .ecccceccceuee|
+
+&
+
+5
+
+-_
+
+1
+
+195701-08022-00
+
+2652626
+
+....... seweuse|
+
+‘¢ AMERICAN HONDA MOTOR CO. LTD 1993
+
+G1
+GS
+€9
+FB
+G6
+
+56 E2
+106 G3
+68 ES
+
+STEP
+STRIPE
+SWINGARM
+SWITCHES
+
+104
+128
+108
+59
+
+TOOLS
+
+126 1
+
+TOP BRIDGE
+
+66 £7
+114 G7
+78 FI
+
+G2
+H2
+Ga
+—3
+
+116 G8
+
+TURN SIGNAL
+WHEEL FR
+WHEEL RAR
+
+82 F3
+
+WIRE HARNESS
+
+117 GB
+
+89
+
+VF700S'85 ENGINE NO.; RCZ22E=2100001 TO 2103668
+VFFOOS'85 FRAME NO.; RC220-FM100001 TG FM102800
+VF700S'BS ENGINE NO.; RC22E-2100001 TO 2103285
+
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+102
+110
+71
+92
+412
+
+TAILLIGHT
+
+17 LABEL, FR. FORK CAUTION ......0..
+
+(BLACK) wevcccceccccvacccccecs
+
+1781269
+
+SIA
+
+1
+
+18 LABEL, DRIVE CAUTION *NH1*
+
+TANK COMP., FUEL *NH1# (TYPE1)
+
+(BLACK) .. cc cccceeeseersecee (>
+
+--
+
+(TYPE2) (SILVER) ..... epaeecere ~-
+
+TANK SET, FUEL *NH1® (TYPE2)
+
+(BLACK) won cscececeeseeeneeees | 4
+
+4
+
+EMBLEM, L. FUEL TANK
+
+TANK SET, FUEL *NH1# (TYPE)
+
+[4
+
+....cccucees
+
+120 G10
+90 F7
+
+SHIFT PEDAL
+SHOCK ABSORBER
+SHOCK ABSORBER, FR
+SIDE COVER
+SPARK UNIT
+
+0
+
+16 EMBLEM, L. FUEL TANK
+
+100 F12
+
+RADIATOR
+SEAT
+
+1877273
+
+rvi
+
+66 £7
+54 £1
+68 EB
+
+MUFFLER
+
+187121-MB0-910ZA
+
+TANK SET, FUEL *hH1# (TYPE2)
+
+88
+
+117620-MB0-952
+
+1
+
+4
+
+(BLACK) woe cececceenenecancs oe
+
+1
+
+FUEL VALVE
+
+5
+
+7 TUBE, FUEL, 7.3X170 .....cceeceee
+
+(BLACK) ..cccneceees beteteceas
+
+~~
+
+123. G11
+
+FUEL TANK
+
+Fla
+
+5
+5 | A | mmmm--5 |AC| -------
+
+9 TANK SET, FUEL *NH1® (TYPE1)
+(BLACK) 2. .cccccenneeeee weveeep
+
+SIA
+JAC
+
+FRAME
+
+1781368
+
+F
+
+4
+m~~
+
+..........eceneeee
+
+117620-MB0~-951
+
+vv
+
+F-15/ 4 (5 | 5 | SERIAL NUMBER | B
+4 5]E€| FROM
+TO | Q |PART NUMBER
+
+6 COVER SET, VALVE ........eeseceee
+
+1
+
+EMBLEM, R. FUEL TANK
+KTYPET®(GOLD) .. cece cecccccncs ~-
+
+0 §OA
+s
+Ret.
+No.
+
+F 14MBO15
+E
+
+STA
+
+Es
+
+117 GB
+
+FENDER. RR
+
+13 CAP COMP., FUEL FILLER
+
+£4
+
+80 Fe
+102 G1
+
+CABLES
+
+11 COLLAR, FUEL TANK FR. MOUNTING...
+
+F10
+
+95 FO
+
+BRAKE CALIPER. FR
+BRAKE MASTER, FR.
+BRAKE PANEL. RR
+BRAKE PEDAL
+
+HONDA
+
+9 TANK COMP,, FUEL *NH1« (TYPE2)
+10 RUBBER, FUEL TANK FR.
+
+PAGE GRID
+
+| GRID
+
+F6
+
+

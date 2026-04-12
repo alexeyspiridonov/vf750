@@ -1,0 +1,14283 @@
+CYLINDER HEAD COVER
+
+FRONT CYLINDER HEAD
+
+CONTENTS
+TITLE
+
+PAGE GRID
+
+ALTERNATOR .............
+CAM CHAIN ...............
+
+CAMSHAFT ...............
+CARBURETOR ASSY........
+CARBURETOR COMPONENT
+CARBURETOR LINK ........
+CLUTCH .. 0.0.0... cece.
+CRANKCASE COVER,
+L.
+CRANKCASE COVER, R.....
+CRANKSHAFT .............
+CROSS SHAFT ............
+CYLINDER BLOCK .........
+CYLINDER HEAD COVER
+CYLINDER HEAD, FR.......
+CYLINDER HEAD, AR ......
+GASKET KITA......00000..
+GASKET KITB.............
+GEARSHIFT DRUM .........
+OIL FILTER 2.0.00.
+OIL PAN . 2.20.00...
+OIL PUMP 2.000.000...
+PISTON .2 00000 eee
+ee
+PULSE ALTERNATOR ......
+STARTER CLUTCH .......
+STARTER MOTOR .........
+
+4 = VF700S'84
+
+v
+
+.
+
+E14MBO0E01
+
+v
+
+A
+
+0.
+
+0
+
+A
+
+4
+E-1/4
+
+8
+5
+
+Cc
+S
+
+5 = VF700S'85
+
+ss
+
+.
+
+4 = VF7009'84
+
+7.7(R
+O
+Of¢E
+
+v | V
+
+5 = VF700S'85
+
+Q
+
+E14MS0E02
+
+7171R
+
+O:'O0]fe
+
+T
+
+Y
+
+s's
+
+ENGINE
+SERIAL NUMBER
+
+R
+
+8/8 6
+&2/4
+5/90]
+
+FROM
+
+Q
+
+1 COVER A, CYLINDER HEAD ......000. 4 | 5
+2 COVER B, CYLINDER HEAD ..... eenee dl &
+
+5
+
+Ret.
+
+BLOCK NO.
+
+HONDA
+
+Ret
+
+|PART NUMBER
+
+CODE
+
+No.
+
+1
+
+112311-MB0-000
+
+1240985
+
+1
+
+|12321-MB0-000
+
+1240993
+
+4 | 5
+
+1
+
+|12341-MB0-000
+
+1241009
+
+4& GASKET, HEAD COVER ......cceceece 4 : 5
+
+HEAD COMP., FR. CYLINDER .....00.
+
+3
+
+|12391-MB0-000
+
+1241017
+
+HEAD COMP., FR. CYLINDER ..cccee 01455
+
+GASKET, HEAD COVER .....cesecese. | 4
+
+5
+
+3
+
+|12391-MB0-010
+
+2094035
+
+HEAD COMP., FR. CYLINDER ....cec.
+
+4
+
+5 BOLT, SPECIAL, 6X29 ....... neseas
+
+4 | 5
+
+8
+
+[90017-"B0-000
+
+1243427
+
+HEAD COMP... FR. CYLINDER ....0...1 4
+
+7 RUBBER, MOUNTING .....ccecnce wee
+
+[4
+
+8
+
+|90542-MB0-000
+
+1243708
+
+No.
+
+DESCRIPTION
+
+3 BASE, HEAD COVER .....cscecscscee
+
+4°5]/E]
+
+5
+
+TO
+
+BLOCK NO.
+
+DESCRIPTION
+
+4'5|€&]
+
+R
+a
+
+FROM
+
+Q
+
+8 | 12204-4B0-405
+
+1390087
+
+[==
+
+1
+
+112210-"B0-771
+
+1724277
+
+4:5
+
+1
+
+|12210-4B0-772
+
+1876291
+
+1
+
+|12210-B0-773
+
+2016814
+
+1
+
+112210-MB0-774
+
+2161370
+
+1
+
+|12210-MB0-775
+
+2246726
+
+HOLDER A, CAMSHAFT .ancccsecces 14/5
+
+2
+
+|12211-MB0-772
+
+1853480
+
+HOLDER A, CAMSHAFT .sesccceseeeee| 4:
+
+5
+
+2
+
+|12211-B0-773
+
+2001485
+
+—“—
+
+2
+
+122 12-MB0-771
+
+1455849
+
+4 is
+
+2
+
+|12212-MB0-772
+
+1853498
+
+2
+
+112212: mB0-773
+
+2016830
+
+2103513 | 1 | 12230-MB0-000
+2103513 | 1
+112230-¥B0-000
+
+1260951
+1240951
+
+HOLDER B, CAMSHAFT ..scsececeseee] 6:5
+5 PiPE A, SLL PATH .osccuvecesecsen|
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+VF700S'84 ENGINE NO.; RC22E~2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-£M000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
+VF700S'84 FRAME NO. 3 RC221-EM000006 TO EM001081
+
+Bt
+
+VF700S"85 ENGINE NO.3 RC22E-2100001 TO 2 103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF7O0S'85 ENGINE NO.3 RC22E-2100001 16 2103285
+VF700S'85 FRAME NO. RC221-FM100001 TU FM100863
+
+4 ime]
+i 5]
+
+:
+
+...........
+
+VIVE
+
+oe ces c eee eeeevaee
+
+GRID
+
+Bt
+
+HONDA
+
+2 HEAD COMP., FR. CYLINDER ....000.1
+
+HOLDER B, CAMSHAFT .anseccuvenaeal
+
+2
+
+TO
+
+1 GUIDE, EX. VALVE ..ccccces woceene 4/5
+
+4
+
+BS
+
+40 C8
+
+Y
+
+ENGINE
+SERIAL NUMBER
+
+CODE
+
+4 HOLDER B, CAMSHAFT eearer eevee nuave
+
+10
+
+THERMOSTAT .............
+
+T
+
+|PART NUMBER
+
+4
+
+TENSIONER ...............
+
+C3
+C9
+C1
+Bi
+BI
+BS
+D1
+D1
+C7
+B11
+B11
+Bli
+C3
+BB
+BS
+BI
+
+| memeen=
+| wcne---
+
+36 C6
+
+8 Bs
+
+WATE
+PUMP
+ID
+R 20 Bro
+
+Q
+
+0:O0la~
+
+8 B4
+44 C10
+48 C12
+44 C10
+14 B7
+20 B10
+13 B6
+
+30
+42
+26
+2
+3
+6
+50
+51
+38
+23
+23
+23
+30
+16
+16
+22
+
+TRANSMISSION
+
+A
+
+18
+10 B5
+
+@ AMERICAN HONDA MOTOR CoO, LTD. 1993
+
+3
+
+FRONT CYLINDER HEAD
+
+‘B84
+: = ve OoS'es
+
+F FIA
+
+Ret.
+No.
+
+CONTENTS
+
+Viv
+
+=
+
+BLOCK NO.
+
+7
+
+7IR
+
+0
+
+Ola
+
+0. O|JE
+
+Q
+
+S's
+
+Y
+
+gia {C|
+D
+4, 5|E|
+
+E-2,4:(5/O]
+
+DESCRIPTION
+
+___ENGINE
+
+SERIAL NUMBER
+
+FROM
+
+6 OlE
+
+BlOKNO.
+
+Ret.
+
+eal? 8 c
+
+OL
+DESCRIPTION
+
+No.
+
+Q
+
+1
+
+|90045-MB2-000
+
+1539014
+
+17 WASHER, THRUST, SMM ...sccceneeee|
+
+2
+
+190452-323-000
+
+0255224
+
+CROSS SHAFT ............ 42 C9
+
+1
+
+|90461-357-000
+
+0350215
+
+CYLINDER HEAD COVER |.
+
+6
+
+]90545-300-000
+
+4
+
+192700-06045
+
+4/5
+5
+
+4 me]
+
+4
+
+:
+
+51E
+
+SERIAL NUMBER
+FROM
+
+TO
+
+E
+Q
+
+|PART NUMBER
+
+> PIPE Ay OIL PATH w+eseesesereeees q ome | | DTeTe 2108S
+IS | 1 280-mB0-00
+2]
+
+2103533
+
+192900-06032-0E
+
+2532687
+
+OL POMP
+
+TE
+
+]90063-235-000
+
+0171454
+
+PISTON
+
+occa 90 G3
+
+BOLT, STUD, 6X45 ..s.seseeee weeee [om 5
+
+4
+
+|92700-06045~0E
+
+0167163
+
+STARTER CLUTCH ......... 16 BB
+
+2
+
+193500-05008-06
+
+0331363
+
+TENSIONER
+
+& |94301-08140
+
+0923821
+
+THERMOSTAT
+
+0069310
+
+WATER PIPE... 40 CB
+
+1 |95700-06012-00
+
+0487025
+
+1
+
+2105799
+
+21 SCREW, PAN, 5X8 ...ccc-secncnseee|
+
+4 | 5
+
+| 22 SCREW, PAN, SX2B ...eseeeeees ween [45
+
+23 PINA, DOWEL, 8X14 ....ccsececees 45
+
+BOLT, FLANGE, 6X12 ...cseceeees [455
+
+6 |94301-12200
+
+195701-06012-00
+
+(2) 198069-57916
+
+oo isnes
+
+PLUG, SPARK (DPRBEA-9NGK) «2... 45
+
+2 {98069-58916
+
+1103084
+
+2
+
+1096825
+
+PLUG, SPARK (X22EPR-U9 ND) ....0.
+
+45
+
++
+
+|42240-mB0-871
+
+3354654
+
+PLUG, SPARK (X27EPR-U9 ND) ....0. 415
+
+PIPEB, OIL PATH .sccesceees ween
+
+[455
+
+1
+
+| 12240-MNO-000
+
+2523843
+
+7 GASKET, CYLINDER HEAD ....... wee
+
+G15
+
+1
+
+|12251-MB0-003
+
+1240977
+
+8 INSULATOR, CARBURETOR ......... [455
+
+2 | 16211-B0-000
+
+1242106
+
+9 BAND, INSULATOR .s.ssseseeeeeeee|
+
+6/5
+
+4
+
+|16219-4B0-770
+
+1312701
+
+10 BOLT, FLANGE, 6X52 ...ecceeseceee
+
+4
+
+4
+
+190001-B0-000
+
+1243336
+
+11 BOLT, FLANGE, 6X54 ........ weeeee
+
+[45
+
+4
+
+|90003-mB0-770
+
+1292077
+
+12 BOLT, UBS, 8X151 .....seeeeeee wee
+
+|
+
+[455
+
+4
+
+|90006-MB0-010
+
+1762137
+
+13 BOLT, UBS, 9X91... sseseeeeenceee | 4 55
+
+|
+
+4
+
+|90011-mB0-770
+
+1292085
+
+14 BOLT, UBS, 9X177 ...eceeeeeeeeeee | 6 =
+
+|
+
+4
+
+|90012-mB0-003
+
+1243385
+
+BOLT, UBS, X17 .esesecseveessee [om 5
+
+|
+
+4
+
+|90012~mB0-013
+
+1854512
+
+!
+
+2
+
+|90025-MB0-771
+
+1316975
+
+|
+
+©
+AMERICA
+HONDA
+MOTOR CO,N
+LTD. 1993
+
+|98069-58926
+
+3 ie
+
+TRANSMISSION 0... 26 Os
+VALVE ...... cece
+
+eee eee
+eee
+
+WATER PUMP oo ores ones 20 B10
+
+1096817
+
+1103092
+
+(2) |98069-59926
+
+1096833
+
+©
+AMERICA
+HONDA
+MOTOR CO.N
+LTD. 1993
+
+22 B11
+
+.............
+
+1103076
+
+(2) 198069-59916
+
+3 ae
+
+beceeeeteeeee 10 Bs
+
+|
+
+B2
+
+VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TD FM102800
+VF700S"85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S"85 FRAME NO.; RC221-FM100001 TO FM100863
+
+(2) |98069-57926
+
+UM
+
+STARTER MOTOR .........
+
+0165324
+
+45
+26 PLUG, SPARK (DPR7EA-9 NGK) ......
+
+ji 5
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EN005012
+VF700S'84 ENGINE NG.; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+4 |93500-05028-06
+
+HONDA
+CODE
+
+PLUG, SPARK (DPR9EA-9 NGK) ...... 415
+
+5
+
+OL ELTER
+
+4
+
+4780881
+
+15 BOLT, OLL ..sceseccescceecveseee | &
+
+oe By
+
+CheKEr
+ire
+ou: £2 01
+
+5
+
+|42240-nB0-870
+
+5
+
+CYLINDER
+HEAR
+RA
+
+0156943
+
+2601912
+
++
+
+..ccccccesesenee
+
+0189902
+
+2 81
+
+[92900~G6032-08
+
+, ; 5
+
+PATH
+
+26 C1
+
+4
+
+PLUG, SPARK (X24EPR-U9 ND) «+... 4 | 5
+
+OIL
+
+CYLINDER BLOCK .........
+
+13 B6
+
+4
+
+sees
+
+PIPE 3 OILPATH
+
+3
+
+4 _
+
+losspee
+ot
+
+,
+
+4
+
+| Seas,
+
+CRANKSHAFT .............
+
+4 =m
+
+1
+
+6 PIPEB, OIL PATH
+
+20 B10
+
+CRANKCASE COVER, R......
+
+BOLT, STUD, 6X32 .caceccccnnncene|
+
+25 BOLT, FLANGE, 6X12 ...cseceseeees 4 5
+
+R
+
+| ==
+
+CRANKCASE COVER,L. ....
+
+BOLT 2, STUD, 6X32 .ecccseneereeel
+
+24 PINA, DOWEL, 12X20 ....csecceuee 415
+
+v
+
+HONDA
+
+16 BOLT, OLL CONTROL .......cccuccee | 4 ! 5
+
+BOLT, STUD, 6X50 ....seseseeeeees [—=.
+
+s 8|4
+
+E
+
+CARBURETOR ASSY..-1. 2) aa G10
+CARBURETOR
+LINK
+44 C10
+CLUTCH 0. 44 BF
+
+CARBURETOR COMPONENT 48 C12
+
+CODE
+
+20 BOLT, STUD, 6X45 .eseeseerseeeeee|
+
+cee)
+
+| R
+
+18 B9
+
+10 BS
+
+|PART NUMBER
+
+19 WASHER, OILBOLT .....seceneeeeee | 4, 5
+
+E Ela
+
+TO
+
+CAM CHAIN ...............
+
+Q
+
+18 WASHER, SEALING, 6.5X12 ......0./4
+
+= E7008 ' 94
+
+PAGE GRID
+
+THLE
+ALTERNATOR .............
+
+T
+
+5
+
+GRID
+
+B2
+
+REAR CYLINDER HEAD
+
+'
+a=\Mllbes
+
+FEA
+
+V:.V
+
+TITLE
+ALTERNATOR
+
+Ref
+
+BLOCK NO.
+
+No.
+
+E-2-1|
+
+CESCRIPTION
+
+panache
+7
+
+Ret
+
+ae
+
+lA
+LOCKNO.
+
+DESCRIPTION
+
+99 E
+
+9
+
+SS
+
+v
+
+Eaale 8 3
+
+ae lo
+
+SERIAL NOMBER
+
+erom
+
+To | & lpant NUMBER
+
+HONDA
+
+S ODE
+
+8 | 12204-MB0-405
+
+1312701
+
+[4
+
+5
+
+4
+
+190001-mB0-000
+
+1243336
+
+11 BOLT, FLANGE, 6X54 ...cscseeeeeee | 4 | 5
+
+4
+
+|90003-mB0-770
+
+1292077
+
+12 BOLT, UBS, 8X151 .ecseceeseeeeeee | 4
+
+5
+
+4
+
+13 BOLT, UBS, 9X91 ..ececscecescesee| &
+
+190006-MB0-010
+
+1762137
+
+5
+
+4
+
+|90011-mB0-770
+
+1292085
+
+4 ==
+
+4
+
+|90012-MB0-003
+
+BOLT, UBS, 9X17 eecscecsecseens (o>! 5
+
+1263385
+
+4
+
+|90012-mB0-013
+
+1854542
+
+[4 | 5
+
+2
+
+|90452-323-000
+
+0255224
+
+16 BOLT, STUD, 6X45 ...escsesecereee|
+
+4 imo
+
+&
+
+|92700-06045
+
+BOLT, STUD, 6X32 ..ecseceseeceees 4 n=
+BOLT 2, STUD, 6X32 ..seeeeeeeeees 4 je
+
+0156943
+
+4
+
+|92900-06032-0B
+
+2601912
+
+4
+
+|92900-05032-0E
+
+2532687
+
+BOLT, STUD, 6X45 .escssecseceeecs — 5
+
+& |92700-06045-0E
+
+0167163
+
+BOLT, STUD, 6X50 ..ssseceeeseeees 5
+
+1
+
+193500-05008-06
+
+0331363
+
+4
+
+|93500-05028-06
+
+0923821
+
+6
+
+|94301-12200
+
+0165324
+
+1096817
+
+PLUG, SPARK (K2EPR-U9 ND)...
+
+ots
+
+(2) |9g069-57926
+
+4s
+
+>
+
+98069-8016
+
+403086
+
+5
+
+|o5069-S8926
+
+4096825
+
+|12211-mB0-772
+
+1853480
+
+PLUG, SPARK COPRBEA-9 NEK)
+
+2
+
+112211-MB0-773
+
+2001485
+
+PLUG, SPARK. CKOUEPR-UOND)
+
+4i-
+
+2
+
+|12212~MB0-771
+
+KOLDER B, CAMSHAFT ......sesece0e 4m
+HOLDER B, CAMSHAFT ....sesececeee 45
+
+1455849
+
+2
+
+|12212-mB0-772
+
+1853498
+
+2
+
+|12212-MB0-773
+
+2016830
+
+4 HEAD COMP., RR. CYLINDER .....000[4 =-
+
+4
+
+|12220-mB0-770
+
+1289073
+
+& ==
+
+~- 5]
+~- 5}
+
+| ------| ------| 2403516
+
+1
+
+|12220-MB0-771
+
+1876309
+
+1
+
+|12230-mB0-000
+
+1240951
+
+2103513 | 1
+---=-~= | 1
+
+|12230-mB0-010
+[12230-"B0-010
+
+2103513 | 1 |12230-mB0-000
+1 | 12230-MB0-010
+
+0
+
+Lal
+
+§
+
+|
+:
+
+1
+
+|12251-MB0-003
+
+7 INSULATOR, CARBURETOR .......0../4
+
+1240977
+
+5
+
+|
+
+2
+
+|16211-MB0-000
+
+B JOINT, BOOST -oseeseessecssreeee | 4
+
+1242106
+
+5
+
+|
+
+1 | 16214-MB0-000
+
+1246193
+
+|
+B3
+
+VF700S"85 ENGINE NO.; RC22E~2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221~FM100001 TO FM100863
+
+1103092
+1096833
+
+:
+
+6 GASKET, CYLINDER HEAD ......200.214 ' 5
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220~EM000007 TO EM005012
+VF700S "84 ENGINE NO.; RC22E~2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+C2) 198069-599%6
+C2) 198069-59926
+
+|
+
+2016863
+2016863
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+1103076
+
+eens
+
+PLUG, SPARK CDPROEAT9 NGK) ......) 4 | 5
+PLUG, SPARK (X27EPR-UD ND) -+.+0021 4 | 5
+
+1240951
+z 116863
+
+(2) {98069-57916
+
+TENSIONER ...............
+THERMOSTAT .............
+TRANSMISSION .......-...
+VALVE...
+2.00. eee eee
+WATER PIPE ..............
+WATER PUMP .............
+
+0069310
+
+415
+
+21 PLUG, SPARK (DPR7EA-9 NGK) ....0. 45
+
+1455831
+
+4 194301-08140
+
+...sceceeeees
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+18 BS
+
+10
+8
+44
+48
+44
+
+BS
+B4
+710
+C12
+C10
+B7
+B10
+BE
+C3
+C9
+C1
+61
+
+10
+40
+36
+8
+40
+20
+
+BS
+C8
+C6
+B4
+C8
+B10
+
+CLUTCH...
+ee, 14
+CRANKCASE COVER, L. .... 20
+CRANKCASE COVER,R..... 13
+CRANKSHAFT ............. 30
+CROSS SHAFT ............ 42
+CYLINDER BLOCK ......... 26
+CYLINDER HEAD COVER ...
+2
+CYLINDER HEAD, FR........
+3 81
+CYLINDER HEAD, RAR ......
+6 BS
+GASKET KITA........... . §0 D1
+GASKET KITB............. 51 Di
+GEARSHIFT DRUM ......... 38 C7
+OIL FILTER 2... 02, 23 B11
+OIL PAN «200.2... eee 23 B11
+OIL PUMP |... ow. 23 Bti
+PISTON . 22.0...
+eee 30 3
+PULSE ALTERNATOR ...... 16 BB
+STARTER CLUTCH ......... 16 BB
+STARTER MOTOR ......... 22 B11
+
+0171454
+
+18 SCREW, PAN, SY2B ..scesseeeeeeons 45
+
+20 PINA, DOWEL, 12X20
+
+1390087
+
+4 |90063-235-000
+
+45
+
+2
+
+~- 5]
+PIPE
+A, OIL PATH ...essesaseseeee | & m=
+
+6
+
+15 WASHER, THRUST, SIM ...sesseseee
+
+HOLDER A, CAMSHAFT ......0.c0ce0e 45
+
+S PIPEA, OIL PATH .escssceseensren]
+
+CODE
+
+10 BOLT, FLANGE, 6X52 s.ssesssseeeee
+
+4.5
+
+HEAD COMP., RR. CYLINDER ...s.eee[—-| 5
+
+|PART NUMBER
+
+|16219-"B0-770
+
+HOLDER A, CAMSHAFT ......cceseee
+
+3 HOLDER B, CAMSHAFT .....ssecseaes
+
+Q
+
+TO
+
+4
+
+4m
+
+|12211-MB0-771
+
+FROM
+
+HONDA
+
+5
+
+2 HOLDER A, CAMSHAFT .....2..02c00
+
+2
+
+4:°5]E
+
+19 PINA, DOWEL, 8X14 ....... even 4 5
+
+!
+
+T GUIDE, EX. VALVE ...0.000. reeeeee #;5
+
+R
+
+4
+
+17 SCREW, PAN, 5X8 .escesscececceces
+
+F
+
+ENGINE
+SERIAL NUMBER
+
+9 BAND, INSULATOR .eeesesessresee(
+
+14 BOLT, UBS, 9X17 .acecscscecseeee{
+
+|
+
+a alc
+4 | 5 8
+
+“PAGE GRID
+
+.............
+CAM CHAIN ...............
+CAMSHAFT ...............
+CARBURETOR ASSY........
+CARBURETOR COMPONENT
+CARBURETOR LINK ........
+
+7
+
+GRID
+
+B3
+
+CAMSHAFT e VALVE
+
+4 = VF700S'84
+
+aaa
+
+CONTENTS
+
+6018
+0
+
+0
+
+OO],
+
+ie
+
+i
+
+19
+
+6
+
+7
+
+vl,
+
+7,
+
+&
+
+?
+
+6
+
+wih
+
+e~!?
+
+"85
+
+fT
+
+&
+
+8
+
+co
+
+A
+
++ ait et "
+
+”
+we
+
+"
+
+9
+
+d
+
+a
+
+or
+
+el
+
+12
+
+Vivi,
+:
+
+5 = VF700S'85
+
+Ret.
+
+No.
+
+7:7
+0
+
+BLOCK NO.
+
+Q
+
+TO
+
+|PART NUMBER
+
+16 SCREW, TAPPET ADJUSTING .....e.ee 45
+4
+
+|
+
+5}
+
+|
+
+|
+
+CAMSHAFT COMP., FR. IN. ...sseeee 45
+
+1
+
+|14111-mB0-872
+
+1876317
+
+1
+
+|14111-mB0-873
+
+|
+
+2017085
+
+CAMSHAFT COMP., FR. IN.
+
+:
+
+1
+
+| 14111-MB0-874
+
+2048577
+
+|
+
+1789247
+1876325
+
+CAMSHAFT COMP., RR. IN.
+
+[455
+
+1
+
+| 14121-MB0-873
+
+2017093
+
+1
+
+|14121-MB0-874
+
+2044246
+
+..... wee
+
+CAMSHAFT COMP., RR. IN. .....0046/4
+
+5
+
+—& CAMSHAFT COMP., FR. EX. weeseeeee | m=
+
+1 | 14131-MB0-870
+
+1789254
+
+weeeeeeee 1 4
+
+5
+
+1
+
+|14134-mB0-872
+
+1876333
+
+|
+
+CAMSHAFT COMP., FR. EX. ..e.s00.014
+
+5
+
+1
+
+|14131-B0-873
+
+2017101
+
+|
+
+5
+
+1
+
+| 14131-MB0-874
+
+2044253
+
+CAMSHAFT COMP., FR. EX.
+
+CAMSHAFT COMP., FR. EX.
+
+wseseeeee]
+
+&
+
+5 CAMSHAFT COMP., RR. EX.
+
+weeseseee]
+
+& --
+
+1 | 14141-B0-870
+
+1789262
+
+CAMSHAFT COMP., RR. EX.
+
+|
+
+seseeeee
+
+[4
+
+5
+
+1
+
+|16141-MB0-872
+
+1876341
+
+CAMSHAFT COMP., RR. EX.
+
+2
+
+seeseeeeey
+
+&
+
+5
+
+1
+
+11416 1-4B0-873
+
+2017119
+
+|
+
+@ AMERICAN HONG MOTOR CO, LTD. 1993
+
+VF7005'84 ENGINE NO.; RC2ZE-2000008 TO 2005978
+VF700S'84 FRAME NO. ; RC220-EM0C9007 TO EMO0S012
+VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO. ; RC227~EM000006 TO EM007081
+
+16 |90002-mB1-870
+
+5
+
+19 O-RING, 21.5X2 ..cecceeeeeeecees 4 5
+
+4
+
+|14121-mB0-872
+
+Ba
+
+VF700S'85 ENGINE NO. ; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC2ZE-2100001 TO 2103285
+VF700S'8S FRAME NO.; RC221-FM100001 TO FM100863
+
+8B
+
+OL ROME
+
+oa
+
+GEARSHIET DRUM!......... 38 C7
+
+1724301
+ESOS
+
+Te Pum
+
+32 |14781-MB4-000
+
+:
+
+|14121-mB0-870
+
+Gaseer kite
+
+| 15 COTTER, VALVE .....sseceeeese [45
+
+1789239
+
+1
+
+CYLINDER
+HEAp
+ag a
+
+TENSIONER 200.222 ooo,
+
+0688887
+
+1
+
+BLOCK...
+
+1289420
+
+|14111-"B0-870
+
+4 i--
+
+1724293
+
+CYLINDER
+
+16 | 14776-MB0-770
+
+1
+
+4'5
+
+1426949
+
+CYLINDER HEAD COVER |. BI
+
+5
+
+|
+
+CAMSHAFT COMP., RR. IN, ....cse0e
+
+1426915
+
+CROSS SHAFT 0) 42 Co
+
+6 |)
+
+16 SEAT, VALVE SPRING INNER ...... [4
+
+CODE
+
+3 CAMSHAFT COMP., RR. IN. ......005
+
+1289271
+
+STARTER CLUTCH ......... 16 BB
+
+16 |12209-422-005
+
+455
+
+16 |14761-MB1-871
+IIIS
+
+20 B10
+
+30
+
+1741347
+
+4 ine
+
+...ses0e.
+
+1241595
+
+nnnlamapmee
+
+16 | 14751-B1-871
+
+CRANKCASE COVER, FL bee 13 Bs
+
+CRANKSHAFT 2000.8...
+
+0689018
+
+2 CAMSHAFT COMP., FR. IN, «.eeecese
+
+5
+
+2044261
+
+CRANKCASE COVER,
+L
+
+|14775-422-009
+
+1 SEAL, VALVE STEM ....seseseeeeece 415
+..e.seeeee
+
+cee
+
+CLUTCH ................, 4414 C10
+B7
+
+CARBURETOR LINK ........
+
+16
+
+18 WASHER, WAVE, 12MM ....-.seeccees 4
+
+FROM
+
+fap eee
+
+CODE
+
+44 C10
+
+48 C12
+
+13 SEAT, VALVE SPRING OUTER ........|4 | 5
+
+17 NUT, TAPPET ADJUSTING ......2000.
+
+],E |
+
+|14611-MB0-000
+
+8 |14631-KE8-000
+
+gg
+
+CARBURETOR COMPONENT
+
+B9
+a
+
+PISTON ....... teeter
+PULSE ALTERNATOR
+
+y
+
+4.5
+
+8
+
+CARBURETOR ASSY........
+
+HONDA
+
+18
+°
+
+1477 1-MB6 -000
+
+Q
+
+HONDA
+
+1 | 14141-MB0-874
+
+...............
+
+16
+
+4
+
+Ole
+
+a
+
+Q |PART NUMBER
+
+CHAIN
+
+5
+
+aaneenenee
+
+sis|4
+
+ENGINE
+SERIAL NUMBER
+
+R
+
+| Fi
+
+8 | 14721-MB2-000
+
+'
+
+4R
+
+8816
+E-3| 4 5 °
+
+DESCRIPTION
+
+CAMCHAFT COMP., FR. IN.
+
+8
+
+Sey
+
+RETAINER, VALVE SPRING
+
+CAM
+
+8 |14711-mB2-000
+
+4/5
+
+11 SPRING, VALVE INNER ....ssecee00e/ 4 Pp 5
+
+Cael
+
+.
+
+Th
+
+10 SPRING, VALVE QUTER -.eeeeceeeeee [4 5
+
+Ln
+
+4 = VF7008'84
+
+scssssssscecceccenene|
+
+TO
+
+POP
+
+B VALVE, IN, .ssecscescenscceesene | 4 5
+
+9 VALVE, EX.
+
+°
+
+|
+
+ENGINE
+
+SERIAL NUMBER
+
+4 | 5 ]|E | FROM
+
+7 SHAFT, VALVE ROCKER ARM ...eeeeee] 45
+
+ff
+
+5
+
+PAGE GRID
+
+ALTERNATOR .............
+
+Y
+
+a|c
+
+6 ARM, VALVE ROCKER ...sesseseeeeee| 45
+
+2
+
+.;
+
+DESCRIPTION
+
+,
+
+a
+
+£-3/4:5
+
+Poe
+
+wy
+
+it
+
+BLOCK NO.
+
+5 CAMSHAFT COMP., RR. EX. secccccee| 4 | 5
+
+ims
+
+foo,
+3
+
+- te ‘ 10
+
+No.
+
+wy
+
+6
+
+ait
+
+‘
+
+Ret
+
+TME
+
+T
+
+Sis
+
+| -------
+
+1416932
+
+|90206-590-000
+
+0347815
+
+-~----- | B
+
+190602-428-000
+
+0684878
+
+8 |91310-Ke8-003
+
+30
+C3
+16 BB
+
+STARTER MOTOR .........
+
+22 B11
+
+THERMOSTAT .............
+
+40
+
+TRANSMISSION
+
+1726319
+
+16
+
+eee
+
+a
+
+WATER
+PRE
+ee
+
+tee
+
+em
+
+eter
+
+ences
+
+36 C8
+
+0 C8
+Ba
+
+WATER PUMP ............. 20 B10
+
+1425602
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+10 Bs
+
+9
+
+GRID
+
+BA
+
+CAM CHAIN e TENSIONER
+
+4 = VF700S'84
+
+5 = VF700S'85
+
+bs
+
+y
+
+>
+
+ola
+
+Oo
+
+CONTENTS
+
+Of;
+
+0 Ol,
+
+;Y
+
+ss
+
+gig|c
+
+Ret.
+No.
+
+BLOCK NO.
+
+E-4/4
+
+DESCRIPTION
+
+5
+
+4
+
+3 BRACKET ASSY., CAM CHAIN
+
+4 = VF700S'84
+
+Vv
+
+5 = VF700S'85
+
+, : ,
+0
+
+Of¢E
+
+8
+
+8
+
+Q
+
+s s|A
+Ret
+
+No.
+
+BLOCK NO.
+
+E-4| 4 : 5
+
+DESCRIPTION
+
+1 SPROCKET, CAM
+
+..cccecececeseecee
+
+2 CHAIN, CAM .ccacccnccccccessccce
+
+4
+
+BRACKET ASSY., CAM CKAIN
+TENSIONER ..nnenssasese enacese
+
+FROM
+
+5
+
+4.5
+4
+
+we
+BRACKET ASSY., CAM CHAIN
+TENSIONER .....esccesececscees
+
+y
+
+ENGINE
+
+Ss |SERIAL NUMBER
+
+4. 5]€/
+
+3 BRACKET ASSY., CAM CHAIN
+
+TENSIONER 2... .csaccccscccaces
+
+c
+
+:
+
+--
+
+5
+
+|
+4 -- 5
+
+4.5
+7! 5
+
+TO
+
+A
+
+HONDA
+
+4
+
+5
+
+aa be)
+
+a
+
+Teese
+
+4 SPRING, TENSIONER ....s.ssee.00014
+
+5
+
+5 TENSIONER, CAMCHAIN ..ccccceeece | 4
+
+5 | |
+eect
+en
+eee
+
+2
+
+|14515-MB0-000
+
+1261456
+
+4
+
+5
+
+2
+
+|14515-MB0-010
+
+2247005
+
+6 GUIDE COMP. A, CAM CHAIN .........14
+
+5
+
+1
+
+114520-mB0-000
+
+1241488
+
+7 BOLT, CAMCHAINGUIDEA ....e.000014
+
+5
+
+1
+
+114521-MB0-000
+
+1241496
+
+8 GUIDE A, CAMCHAIN ...cecececeeee | 4
+
+5
+
+1
+
+[16522-mb0-003
+
+1261504
+
+9 TUBE, TENSIONER SPRING ..........]4
+
+5
+
+2
+
+|14525-MB0-010
+
+1707785
+
+TUBE, TENSIONER SPRING ........- (4°55
+
+2
+
+|14525-MB0-020
+
+2524353
+
+5
+
+2
+
+[14526-mB0-000
+
+1261520
+
+TENSIONER ..... weesnscccsceees
+
+4.5
+
+1
+
+114530-mB0-000
+
+1261538
+
+12 PINA, ARM ..e.scssseescseaseeeee
+
+45
+
+2
+
+|14533-MB0-000
+
+1241546
+
+..cccccccacnccccccce
+
+4
+
+~--===-
+
+2103596 | 2 | 14510-MNO-000
+2
+
+|14514-MB0-000
+
+13 HOLDER ASSY. B, CAM CHAIN
+
+1
+
+|14540-"BU-870
+
+1724327
+
+4
+
+5
+
+2
+
+|14541-B0-000
+
+1241561
+
+4
+
+|14321-mB0-000
+
+1261405
+
+15 ARM COMP., CAM CHAIN TENSIONER ...|4
+
+5
+
+2
+
+|44550-MB0-870
+
+1708056
+
+2 | 16401-MB0-003
+
+1241413
+
+ARM COMP., CAM CHAIN TENSIONER ...|
+
+4
+
+5
+
+2
+
+|14550-B0-871
+
+2247021
+
+2
+
+1708049
+
+16 BRACKET COMP., CAM CHAIN
+TENSIONER HOLDER ...sceccceses
+
+4
+
+won-=-—
+
+2
+|14510-mK3-000
+82103596 | 2 | 14510-MK3-000
+2
+114510-M80-87'4
+2103596 | 2 | 14510-MB0-871
+
+2017184
+2017 184
+1961861
+1961861
+
+2
+
+2103596 | 2
+
+114510-mB0-872
+
+114510-MB0-372
+
+2746999
+
+2246999
+
+wonmmmm § 2103596 | 2 | 14510-MB0-873
+
+GASKET KITA............,
+GASKET KITB....2...00...
+GEARSHIFT DRUM .........
+OIL FILTER 000.2,
+OIL PAN 2.00.0,
+OI PUMP ...0 2.00...
+
+5
+
+2
+
+|14560-MB0-870
+
+1780956
+
+(45
+
+~ | 2
+
+|16560-mB0-871
+
+2011245
+
+BRACKET COMP., CAM CHAIN
+TENSIONER HOLDER ..cececccesss
+
+4.5
+
+2
+
+|14560-mB0-872
+
+2247039
+2585362
+
+.....00 ever l 4
+
+5
+
+2
+
+114560-MB0-873
+
+17 BOLT, UBS, 7X15 wesecsccnnccceees | 4:5
+
+8
+
+|90026-ME9-000
+
+1370915
+
+8
+
+|90026-1m8-000
+
+2566990
+
+BOLT, UBS, 7X15 .eeeseeeseeseeene
+
+& 5
+
+18 WASHER, BMH... sesseeeceeseeseee [4 5
+19 WASHER, 6MM Wee aennne een ween aue
+
+4 ! 5
+
+2737831
+
+=m Sema sn me
+
+mae en a
+
+2
+
+|90405-463-000
+
+0886168
+
+2
+
+90485-KE8-000
+
+1768571
+
+10
+
+S|
+
+| caeenn-
+
+2103596 | 2
+
+}14510-MB0-874
+
+2585347
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+VF700S ‘84 ENGINE NO.; RC2Z2E-2000008 To 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S '84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO. ; RC221-EM000006 TO £M001081
+
+22 PIN, LOCK, OMM .cccsseccccsevesee | 4
+
+5
+
+1
+
+94251-06000
+
+0058487
+
+AMERICA
+HONDA
+MOTOR CO.N
+LTD. 1993
+
+TENSIONER ........000....
+THERMOSTAT .............
+TRANSMISSION ...........
+VALVE ....0..........200..
+WATER PIPE ..............
+WATER PUMP .............
+
+1
+
+VF?00S'85 ENGINE NO.; RCZ2Z2E-2100001 TO 2103668
+
+VF?00S'B5 FRAME NO.; RC220-FH100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+30 C3
+42 C9
+26 C1
+
+2
+3
+6
+50
+51
+38
+23
+23
+23
+
+Bi
+BI
+BS
+Di
+Di
+C7
+B11
+Bt1
+B11
+
+22 Bt
+
+BRACKET ASSY., CAM CHAIN
+
+am
+
+310
+
+13 B6
+
+STARTER MOTOR .........
+
+BRACKET COMP., CAm CHAIN
+TZNSIONER HOLDER
+
+BS
+B4
+C10
+C12
+C10
+B7
+
+30 C3
+16 BB
+
+0 ee
+PULSE ALTERNATOR ......
+STARTER CLUTCH ..........
+
+.
+
+BRACKET COMP., CAM CHAIN
+TENSIONER HOLDER .......- eee
+
+BO
+
+PISTON...
+
+!
+5
+
+1708049
+
+CYLINDER HEAD, FR........
+CYLINDER HEAD, RR. ......
+
+|
+
+4
+
+|14510-MB0-870
+
+CYLINDER BLOCK .........
+CYLINDER HEAD COVER...
+
+1241447
+
+TENSIONER ...ccccccncccccceces
+
+|14510-MB0-870
+
+CRANKSHAFT .............
+CROSS SHAFT ............
+
+2524320
+
+14 GUIDE B, CAM CHAIN ....ccccecncse
+
+BRACKET ASSY., CAM CHAIN
+
+w- 5
+
+CODE
+
+CODE
+
+2103596 | 2
+
+wonnmmm=
+
+HONDA
+|PART NUMBER
+
+|PART NUMBER
+
+BRACKET ASSY., CAM CHAIN
+
+TENSIONER ..ccscccsnvcnccsevec?
+
+Q
+
+Q
+
+-------
+
+weme=--
+
+le
+
+TO
+
+|
+
+11 HOLDER ASSY. A, CAM CHAIN
+
+0
+
+0
+
+SERIAL NUMBER
+FROM
+
+18
+CAM CHAIN ............... 10
+CAMSHAFT ...............
+8
+CARBURETOR ASSY........ 44
+CARBURETOR COMPONENT 48
+CARBURETOR LINK ........ 44
+CLUTCH L000. 14
+CRANKCASE COVER, L.
+.....-20
+
+:
+
+5
+
+10 PIN, 8X43.2
+
+A
+
+ENGINE
+
+PAGE GRID
+
+ALTERNATOR .............
+
+“-
+
+TENSIONER, CAMCHAIN ..cceceseeee]
+
+E14MBOF‘04
+
+0
+
+5/E
+
+TITLE
+
+GRID
+
+B5
+
+16 BS
+
+10 BS
+40 C8
+36 Cé
+8 Ba
+40 Cé
+20 B10
+
+CAM CHAIN e TENSIONER
+
+RIGHT CRANKCASE COVER
+
+CONTENTS
+TITLE
+
+PAGE GRID
+
+ALTERNATOR .............
+CAM CHAIN ...............
+CAMSHAFT ...............
+CARBURETOR ASSY........
+CARBURETOR COMPONENT
+CARBURETOR LINK ........
+CLUTCH ..................
+CRANKCASE COVER. L ....
+CRANKCASE COVERLR.....
+
+18 By
+10 BS
+8 B4
+
+CRANKSHAFT .............
+CROSS SHAFT ...........
+CYLINDER BLOCK .........
+CYLINDER
+HEAD COVER ....
+CYLINDER HEAD, FR... |...
+
+44 C10
+48 C12
+44 C10
+14 B7
+20 B10
+13 B6
+30 C3
+42 C9
+26 C1
+2 BI!
+3 8B
+
+GEARSHIFT ORUM ...0.
+OW FILTER... od...
+OI PAN ...30.. 8...
+OW PUMP. 330d,
+PISTON 2000.
+PULSE ALTERNATOR __
+STARTER CLUTCH.........
+STARTER MOTOR .........
+TENSIONER ...............
+THERMOSTAT .............
+
+38 C7
+23 B11
+23 811
+23 811
+20 C3
+16 Ba
+16 BB
+22 B11
+10 BS
+40 Cé
+
+CYLINDER HEAD.RR ...... 6 B3
+GASKET KITA ............. 50 01
+GASKET KITB............. 51 01
+
+E14MBOE04
+
+4 = VF700S'84
+
+V
+
+5 = VF700S'85
+
+7
+
+0
+0
+
+Ret.
+No.
+
+BLOCKNO.
+
+7
+
+A
+
+O|[€E
+Oo
+A
+
+s
+
+a
+
+gic
+
+4
+
+5
+
+9
+
+51E
+
+E14MB0E05S
+
+4 = VF700S'84
+
+IR
+
+s
+
+E4/4
+
+DESCRIPTION
+
+v
+
+Vov
+
+5 = VF700S'85
+
+Q
+T
+
+0:0
+
+0:0
+Ss
+s
+
+SERIAL NUMBER
+
+R
+
+FROM
+
+Q
+
+TO
+
+HONDA
+
+Ret
+
+|PART NUMBER
+
+CODE
+
+No.
+
+BLOCKNO.
+DESCRIPTION
+
+8|Cc
+
+4
+
+5/€E
+
+5
+
+0
+
+Q
+T
+
+Y
+
+ENGINE
+
+SERIAL NUMBER
+FROM
+
+TO
+
+/
+
+R
+
+HONDA
+
+Q
+
+|PART NUMBER
+
+CODE
+
+4
+
+5
+
+2
+
+|94251-08000
+
+0115527
+
+1 COVER ASSY., R. CRANKCASE .......
+
+24 BOLT, FLANGE, 6X16 .e.cccccccccce
+
+4
+
+5
+
+4
+
+5
+
+1
+
+|11330-B0-770
+
+8
+
+1288828
+
+|95700-06016-00
+
+0496653
+
+2 GASKET, R. COVER ..ccecccccccuces
+
+45
+
+1
+
+111394-mB0-000
+
+1240860
+
+1
+
+115611-B0-000
+
+1241728
+
+BOLT, FLANGE, 6X16 ...ccscecesecs
+
+4
+
+5
+
+8
+
+195701-06016-00
+
+2410892
+
+3 CAP, OIL FILTER ...scsesceuccscee
+
+4
+
+5
+
+25 BOLT, FLANGE, 6X44 .eccccccccccee
+
+4
+
+5
+
+8
+
+196000~06014-00
+
+0782854
+
+4 GAUGE, OIL LEVEL ....ecccecesecss
+
+4
+
+5
+
+BOLT, FLANGE, 6X14 .ocecaccccccce
+
+1
+
+115650-MB0-770
+
+4
+
+5
+
+1289453
+
+8
+
+|96001-06014-00
+
+2154672
+
+5 CLAMP, PULSER CORD ....ecsceveee 14
+
+5
+
+1
+
+|30301-MB0-000
+
+1243070
+
+6 O-RING, 22X3.0 ..ceveccccccccecs 4
+
+5
+
+1
+
+|91301-250-000
+
+0035287
+
+O-RING, 22X3.0 ..cececcccencece 1455
+
+1
+
+191307-425-003
+
+1216126
+
+1
+
+191316-TMJ8-003
+
+1768746
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S "84 FRAME NO.; RC270-EM000007 TO EM00S012
+
+VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
+VF700S'84 FRAME NO. RC221-EM000006 TO EM001081
+
+66
+
+..ccccecsceeecs 145
+
+8 PINA, DOWEL, 8X14 ..... oteneaees
+
+4
+
+5
+
+2
+
+94301-08140
+
+0069310
+
+9 BOLT, FLANGE, X28 ...ccceceseceel
+
+4
+
+5
+
+6
+
+196000-06028-07
+
+0807339
+2106011
+
+BOLT, FLANGE, 6X28 ...... weceeeeel
+
+&
+
+5
+
+6
+
+|96001-06028-07
+
+10 BOLT, FLANGE, 6X32 wenae veonvpueay
+
+4
+
+5
+
+6
+
+96000-06032-07
+
+1292242
+
+BOLT, FLANGE, 6X32 ..eccceceeeess]
+
+4
+
+5
+
+6
+
+|96001-06032-07
+
+2458750
+
+11 BOLT, FLANGE, 6X35 ...ceeseecceee | 4
+
+5
+
+2
+
+|96000-06035-07
+
+0807362
+
+BOLT, FLANGE, 6X35 ..ecccecusasee
+
+5
+
+2
+
+|96001-06035-07
+
+2533891
+
+14
+
+@ AMERIC
+HONDA MOTOR
+AN CO. LTD. 1993
+
+13
+
+VF700S'85 ENGINE NO. RC22E-2100001 TO 2103668
+
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM 102800
+VF700S'8S ENGINE NO.; RC22E~-2100001 TO 2103285
+VF?00S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+36 Cé
+
+8 B4
+
+WATER inPreteens een po Bo
+
+23 PIN, LOCK, 8MM ..ccccecceccccccce
+
+7 O-RING, 8.4X2.4
+
+12
+
+£-5|4
+
+E
+A
+
+8
+
+...........
+
+VALVE .....0.0.00.00.00...
+
+771k
+
+v
+
+ENGINE
+
+TRANSMISSION
+
+A
+
+GRID
+
+B6
+
+CLUTCH
+
+4 = VF700S'84
+
+VV
+
+5 = VF700S'85
+
+fF EIA
+
+0
+
+Ret.
+No.
+
+a
+
+BLOCK NO.
+
+E-6])4
+
+DESCRIPTION
+
+4=V
+
+:
+
+Vv
+
+a §aik
+
+;Y
+
+s
+
+Ret.
+
+No.
+
+BLOCK NO.
+
+gs
+
+B6)4
+
+DESCRIPTION
+
+4
+
+aic
+
+5
+
+6
+
+5{/£]
+
+ENGINE
+
+a
+
+FROM
+
+HONDA
+
+Q |PART NUMBER
+
+CODE
+
+TO
+
+1 SPROCKET, OIL PUMP DRIVE (267) ...14
+
+5
+
+1
+
+|15131-MB0-000
+
+1241645
+
+2 OUTER COMP., CLUTCH .......sc0se.
+
+5
+
+1
+
+|22100-MB0-870
+
+1781558
+
+45
+
+1
+
+|22100-mB0-871
+
+2155687
+
+3 GUIDE, CLUTCH OUTER .....cseceeee
+
+4
+
+5
+
+1
+
+|22116-MB0-000
+
+1242536
+
+4 CENTER, CLUTCH
+
+.....cccceeeccees
+
+4
+
+5
+
+1
+
+|22120-mB1-770
+
+oh2 146
+
+CENTER, CLUTCH
+
+......seccceseces
+
+4
+
+5
+
+1
+
+|22120-¥NO-000
+
+2525442
+
+5 DISK, CLUTCH FRICTION .....00. 14
+
+|22201-MB0-003
+
+1242551
+
+OUTER COMP., CLUTCH ......secceee
+
+4
+
+5
+
+6
+
+4
+
+5
+
+6
+
+|22201-mM15-000
+
+3143401
+
+4
+
+5
+
+5
+
+|22321-MG8-000
+
+2045615
+
+PLATE B, CLUTCH ...ccceusessccees | &
+
+5
+
+5
+
+|22321-283-000
+
+0075705
+
+7 PLATE, CLUTCH PRESSURE ..........14
+
+5
+
+1
+
+|22350-mB0-003
+
+1242569
+
+8 PIECE, CLUTCH JOINT ....ccceeeeee
+
+14
+
+5
+
+1
+
+|22366-MB0-000
+
+1242577
+
+..cccccecusesseee | &
+
+5
+
+5
+
+|22401-MB0-000
+
+1242585
+
+DISK, CLUTCH FRICTION .....sseee,
+
+6 PLATE, CLUTCH
+
+9 SPRING, CLUTCH
+
+....ccccecnsceracs
+
+10 ROD, CLUTCH LIFTER ....ecesesees,
+
+4
+
+5
+
+1
+
+|22850-MB0-000
+
+1242593
+
+11 GEAR, PRIMARY DRIVE ..... wesones 14
+
+5
+
+1
+
+|23103-MB0-870
+
+1781574
+
+12 NUT, LOCK, 22MM .......ccesessees
+
+5
+
+1
+
+]90201-MB0-770
+
+1375450
+
+14
+
+4
+
+-
+
+€ AMERICAN HONDA MOTOR CO, LTD. 1993
+
+VF700S"84 ENGINE NO.; RC22E~2000008 70 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+
+VF?00S'84 ENGINE NO.; RC22E-2002575 10 2006097
+VF700S'84 FRAME NO. ; RC221-EM000006 TO £M001081
+
+87
+
+VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S‘85 ENGINE NO.; RC22E~2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+5
+
+S
+
+ENGINE
+
+SERIAL NUMBER
+
+A
+
+HONDA
+
+FROM
+
+Q |PART NUMBER
+
+CODE
+
+13 COLLAR, 25.2X7 vescecececeecceee|
+
+4
+
+5
+
+1
+
+|90203-mB0-000
+
+1243542
+
+14 WASHER, SPRING, 22MM ..-csceseee0/
+
+4
+
+5
+
+1
+
+190432~"B0-000
+
+1243583
+
+WASHER, SPRING, 22MM w.eseceseeee]
+
+4
+
+5
+
+1
+
+|90432-mB0-010
+
+2408615
+
+15 WASHER, THRUST, 25MM ..sessceseee
+
+4
+
+5
+
+1
+
+190459-mB0-000
+
+1243661
+
+16 WASHER, 6X19 ..sescecececceeeeee|
+
+4
+
+5
+
+5
+
+|90481-259-000
+
+17 BEARING, RADIAL BALL, 16003 .....)4
+
+0040220
+
+5
+
+1
+
+197008~-kK6-000
+
+2043123
+
+BEARING, RADIAL BALL, 16003 ...../4
+
+5
+
+1
+
+|91008-362-000
+
+0334854
+
+BEARING, RADIAL BALL, 16003
+
+5
+
+.....[4
+
+TO
+
+-
+
+1
+
+191010-Hc0-003
+
+2519544
+
+5
+
+1
+
+191024~"B0-003
+
+1243807
+
+BEARING, NEEDLE, 35x42x30
+(NIPPON) ...sececscececeescecs
+
+4S
+
+1
+
+|91024-"B0-004
+
+1263815
+
+19 CLIP, PISTON PIN, 15MM .......cee
+
+4.5
+
+1
+
+[94601-15000
+
+0156018
+
+20 BOLT, FLANGE, 6X20 ....scecesess 1405
+
+5
+
+195701-06020-08
+
+2376759
+
+5
+
+|95718-06020-08
+
+1243997
+
+14
+
+45
+
+PAGE GRID
+
+ALTERNATOR .............
+CAM CHAIN .
+
+STE
+
+BOLT, FLANGE, 6X20 .....cseeeeeee
+
+SERIAL NUMBER
+
+a|c
+
+TILE
+
+Q
+
+4
+
+18 BEARING, NEEDLE, 35X42x30 (TOYO)
+E14MB0E06
+
+Ole
+
+CAMSHAFT ...............
+CARBURETOF: ASSY........
+CARBURETOR COMPONENT
+CARBURETOR LINK ........
+CLUTCH...
+
+18 BS
+
+10 85
+
+8 B4
+44 C10
+48 C12
+44 C10
+14 B7
+
+CRANKCASE COVER, L.
+CRANKCASE COVER. R......
+CRANKSHAFT .............
+CROSS SHAFT
+.
+CYLINDER BLOCK
+........
+CYLINDER HEAD COVER
+CYLINDER HEAD. FR |...
+CYLINDER HEAD. RR... ...
+GASKET KIT A
+.
+GASKET KITB.. oo...
+GEARSHIFT ORUM ........
+OM FILTER 0.0...
+OIL PAN 200002...
+OM PUMP...
+PISTON...
+28. 2.
+PULSE ALTERNATOR ......
+STARTER CLUTCH .........
+STARTER MOTOR .........
+TENSIONER ...............
+THERMOSTAT .............
+
+20
+13
+30
+62
+
+B10
+
+6
+50
+51
+38
+23
+23
+23
+30
+16
+16
+22
+10
+40
+
+83
+D1
+Dt
+C7
+BI
+B11
+B11
+
+TRANSMISSION
+
+36 C6
+
+...
+
+.......
+
+VALVE ..... 6. eee.
+
+WATER PIPE
+WATER PUMP
+
+.....
+
+........
+.
+
+4 AMERICAN HONDA MOTOR CO, LTD. 1993
+
+GRID
+
+B7
+
+BB
+C3
+CO
+26 C1
+2 BI
+3 BI
+
+C3
+Ba
+BB
+B11
+BS
+C8
+
+8 Ba
+
+40 C8
+20 B10
+
+PULSE ALTERNATOR e STARTER CLUTCH
+
+a= Vey obe 'es
+
+roela
+
+6
+0
+
+s
+
+Ret.
+No.
+
+BLOCKNO.
+DESCRIPTION
+
+(4
+
+10 STAY A, PULSE ALTERNATOR (TOYO...)4
+
+~- §
+
+> = wr70s8s
+
+66 r
+
+F
+
+FIA
+
+:
+
+.
+
+Ret.
+
+Ne.
+
+BLOCK NO.
+
+DESCRIPTION
+
+a a|c
+E-7/4 | 5/5]
+
+4 SE]
+
+FROM
+
+3823937
+
+CRANKCASE COVER,
+
+3823937
+
+5
+
+1
+
+|30301-4B4~010
+
+1708312
+
+5
+
+1
+
+|30310-mB0~154
+
+1243088
+
+|30320-mB0~154
+
+CRANKCASE COVER, L.
+
+R.....
+
+CROSS SHAFT ............
+
+CYLINDER BLOCK .........
+
+CYLINDER HEAD COVER
+
+CYUNDER MEAD, FR.
+YLUINDER HEAD, RR
+
+1243096
+
+......
+
+GASKET KITB.............
+
+5
+
+1
+
+|90023-HA7-670
+
+2104685
+
+GEARSHIFT DRUM
+
+BOLT, FLANGE, 12x40 oeennntateonon
+
+4
+
+5
+
+4
+
+90023-428-000
+
+0684803
+
+OL FILTER 2000000.
+23 Bit
+OM.
+PAN Leen cece eecnnae 2a
+B11
+
+13 WASHER, THRUST .....ceceseeeeeee (4
+
+5
+
+1
+
+|90510-107-720
+
+1243682
+
+pote BBM
+
+14 PIN, DOWEL, BXB ....sseeeecseees
+
+4
+
+5
+
+4
+
+|90702-B0~000
+
+1263724
+
+PULSE ALTERNATOR ......
+
+STARTER GTO
+
+16 88
+
+15 BEARING, NEEDLE, 30X35X17 ....00.
+
+4
+
+22
+22 BI
+Bt
+
+4
+
+5
+
+4
+
+193491-06025-00
+
+2866879
+
+0843441
+
+WATER PUMP oo. 20 B10
+
+5
+
+4
+
+|93500-04010-0H
+
+0262964
+
+CODE
+
+18 SCREW, PAN, 4X10 ....ccccceenccee 4
+19 WASHER, SPRING, SMM... ...ceees 4
+
+20 BOLT, FLANGE, 8X14 .....scecceeee 4 5
+
+5
+
+4
+
+}96111-04800
+
+0346114
+
+BOLT, FLANGE, 8X14 ........0000. 14
+
+5
+
+3
+1
+
+]95701-08014-08
+[96220-60150
+
+2611015
+1244011
+
+HONDA
+
+5
+
+1 | 13171-6S7-000
+
+2754323
+
+PIN, PISTON, 10X33 ......seec. veel
+
+&
+
+5
+
+1
+
+|13111~122-000
+
+0360024
+
+2 GEAR, STARTER REDUCTION (211/827) | 4
+
+5
+
+1
+
+|28101-"B0-000
+
+1263013
+
+3 GEAR COMP., STARTER CLUTCH ......
+
+4
+
+5
+
+1
+
+|28110-MB0-000
+
+1243021
+
+GEAR COMP.
+, STARTING CLUTCH (48T) | 4
+
+5
+
+1
+
+|28110-MB0-010
+
+2019503
+
+1
+
+|28115-"B0-000
+
+1243039
+
+5 OUTER COMP., STARTER CLUTCH .....14
+
+5
+
+1
+
+|28120-"B1-870
+
+1724848
+
+6 SPRING, STARTING CLUTCH ROLLER ..|
+
+4
+
+5
+
+3
+
+[28125-516-030
+
+0192708
+
+&
+
+5
+
+3 |28126~4 15-000
+
+21 ROLLER, 6X15 ..cscucccccnccceces
+
+4
+
+5
+
+:
+
+3 |95700-08014-08
+
+WATER PPE ..............
+
+0417949
+
+7 CAP, STARTING CLUTCH ROLLER
+
+-~
+
+5§
+
+ALTERNATOR ASSY., PULSE (TOYO) ..14
+
+“~
+
+16
+
+5
+
+5
+
+wewnem-
+
+2102366 | 1
+
+1
+
+|30300-MB0-164
+
+~-
+
+aiaatmatenal
+
+1
+
+2102366 | 1
+
+1243054
+
+1243062
+1243062
+1853746
+
+|30300-MB0-164
+
+1853746
+
+|30300-"B0-174
+
+1974831
+
+|30300-MB0-174
+
+1974831
+
+@ AMERICAN HONDA MOTOR 00. LTD. 1993
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO £M005012
+VF700S'84 ENGINE NO.; RC22E-2002575 10 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO £001081
+
+16 88
+
+4 |93401-06025-00
+
+4
+
+Saeaaatana
+
+38 C7
+
+17 BOLT-WASHER, 6X25 .....eecereee 14 5
+
+PIN, PISTON ...csccesecccssarcce
+
+-~
+
+51 01
+
+THERMOSTATAT Wo... 40
+40 ce
+C8
+VALVE...
+B BS
+
+1709106
+
+ALTERNATOR ASSY., PULSE .........14
+
+6
+
+GASKET KITA... 50 D1
+
+ST
+MOTOR
+.........
+STARTER
+MOTOR
+«
+
+|13111-GK8-000
+
+|30300-MB0-154
+|30300-MBO-154
+
+2 B1
+
+38)
+
+12 BOLT, FLANGE, 12X45 .......00.000/4
+
+BOLT-WASHER, 6X25 2... .ceccecces
+
+1
+2102366 | 1
+
+42 C9
+
+26 C1
+
+1243781
+
+1
+
+8 ALTERNATOR ASSY., PULSE (TOYO) ..14 --- 5
+
+13 B6
+
+CRANKSHAFT 00... 30 63
+
+1243799
+0192732
+
+5
+
+SPRING wcccccesssccecccecceese|
+
+20 B10
+
+191022-B0-004
+|91101-516-000
+
+4
+
+4.5
+
+CARBURETOR
+LINK 4a
+44 C10
+CLUTCH
+Be
+
+|30300-Ms4-405
+
+1
+
+ASS) ae
+OR COMPONENT a Ge
+
+CODE A
+
+2102366 | 1
+
+5
+
+ro BS
+
+|91022-MB0-003
+
+1 PIN, PISTON, 10X33 ...ccceeceeaes
+
+4 FLANGE, STARTER CLUTCH ......00.
+
+------
+
+130300-MJ4~405
+
+CARBURETOR
+
+HOND
+
+18 BO
+
+1
+3
+
+Y
+
+TO | Q |PART NUMBER
+
+ENGINE
+SERIAL NUMBER |
+E |PART NUMBER
+FROM
+TO | Q
+1
+
+PAGE GRID
+
+2...
+
+1
+
+T
+
+ENGINE
+SERIAL NUMBER |
+
+ALTERNATOR...
+
+CAM CHAIN bbe cece eee
+
+5
+
+Q
+
+A
+
+.
+
+TIME
+
+T
+
+Y
+
+BEARING, NEEDLE, 30X35X17 ....... 45
+16 ROLLER, 15X13 .....sccccecetcees 4 5
+
+E14MB0E07
+
+viv
+
+Ol,
+
+5
+
+11 STAY B, PULSE ALTERNATOR (TOYO .../4
+
+oO
+
+S
+
+(4
+
+9 CLIP, PULSER WIRE ...cccncecccees
+
+,
+
+off
+
+8 s|Cc
+€7(4 5/O|
+4 5]E|0
+
+8 ALTERNATOR ASSY., PULSE ....ce0ee
+
+4 = VF700S'84
+
+CONTENTS
+
+VV
+
+BA
+
+VF7008'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FTM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+€
+AMERICAN
+HONDA
+MOTOR CO. LTD. 1993
+
+17
+
+GRID
+
+B8
+
+40 C8
+
+ALTERNATOR
+
+4 ox~ VF700S ‘ 8s
+
+y evEla
+
+6
+
+OQ
+
+Ret.
+
+No.
+
+4 = VF700S'84
+5 = VF700S'85
+
+7
+
+7IR
+
+0
+
+Ola
+
+0
+
+s
+
+Ret.
+No.
+
+BLOCK NO.
+DESCRIPTION
+
+8
+£8/4
+4
+
+s
+
+1
+
+|11631-B0-505
+
+3419470
+
+4
+
+5
+
+1
+
+111636-mB0~-000
+
+1240886
+
+3 COVER, INDICATOR SWITCH .........
+
+4
+
+5
+
+1
+
+111641-MB0-000
+
+1260894
+
+4 GASKET, INDICATOR SWITCH COVER ..|4
+
+5
+
+1
+
+|11642~"B0~000
+
+1260902
+
+S ALTERNATOR ASSY.
+
+5
+
+1
+
+131100-"B0-871
+
+1876622
+
+4-
+
+1
+
+|31110-mB0-870
+
+1781681
+
+1
+
+131110-MB0-871
+
+1876630
+
+------~
+
+2005653 | 1
+
+|31120-MB0-015
+
+1781699
+
+| -----—2005654
+
+2005653 | 1
+-----~- | 1
+
+|31120-mB0-025
+131120-mB0-025
+
+1
+
+131120-mB0-025
+
+1837525
+4837525
+
+1837525
+
+2005653 | 1
+|31120-MB0-405
+~----=- | 1 | 31120-"B0-405
+1
+131120-B0~405
+
+4059465
+4059465
+4059465
+
+2005653 | 1
+------- | 1
+1
+
+4186912
+4186912
+4186912
+
+m-----=
+2005654
+
+131120-MB0~415
+131120-MB0-415
+131120-MB0-415
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1963
+
+VF700S'84 ENGINE NO.; RC22E-2000008 To 2005978
+VF700S '84 FRAME NO.; RC220-EM000007 To £M005012
+VF700S'84 ENGINE NO.; RC22E~2002575 To 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 To EM001081
+
+42 C9
+26 C
+
+«OB
+
+5
+
+11 SCREW, PAN, 6X12 .ececsessceceeee( 4
+
+1 |90023-428-000
+
+5
+
+0684803
+
+CYLINDER Heapan
+
+2
+
+|93500-06012-0A
+
+0182360
+
+Gesner nite, go
+
+12 BOLT, FLANGE, 6X12 .eesseseeseueel
+
+&
+
+5
+
+1
+
+|96000-06012-00
+
+0823666
+
+OT CHUM
+
+38 C7
+
+BOLT, FLANGE, 6X12 .eccsesseeeee]
+
+&
+
+5
+
+1
+
+~~
+en
+196001-06012-00
+
+2105930
+
+OIL PAN
+00000000,
+Ot
+ON
+
+23
+23 B11
+BI
+
+13 BOLT, FLANGE, 6X20 ..ssccuceccece
+
+4
+
+5
+
+2
+
+|96000-06020-07
+
+1292226
+
+PISTONcron
+..000.000......0006
+PISTON
+
+30
+30 C3
+C3
+
+BOLT, FLANGE, 6X20 ...... woscnsnet
+
+4
+
+5
+
+2
+
+$96001-06020-07
+
+2679624
+
+STARTER CLUTCH .........
+
+16
+
+STARTER MOTOR .........
+
+22 Bil
+
+THERMOSTAT
+
+36 C6
+
+14 BOLT, FLANGE, 6X35 ...cuccseccees
+
+4
+
+5
+
+BOLT, FLANGE, 6X35 ......sseceees 4 5
+
+15 BOLT, FLANGE, 6X40 .....se.ceeeee 4 5
+4
+
+5
+
+6
+
+Be
+
+VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RCZ20~FM 100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM 100001 TO FM100863
+
+BB
+
+|96000-06035-00
+
+0799080
+
+TENSIONER aie 10 85
+
+6 |96001-06035-00
+
+2112209
+
+TRANSMISSION
+
+4 {96000-06040-00
+
+0782870
+
+4
+
+2106037
+
+|96001-06040-00
+
+.............
+
+WATER
+PRE IS 40 ¢8
+VE
+
+owe
+
+eee
+
+@AMERICA
+HONDA MOTOR CO.N
+LTD. 1993
+
+8
+
+B4
+
+WATER PUMP ............. 20 B10
+
+¥
+
+2 GASKET, ALTERNATOR COVER ........
+
+4 oo
+4 -- 5
+
+CROSS
+SHAFT
+............
+CYLINDER BLOCK .........
+
+BOLT, FLANGE, 12X40 ....0.e.00000]4
+
+BOLT, FLANGE, 6X40 ....eseseeeees
+
+1240878
+
+..ccecccccccs esceee?
+
+CLUTCH 44
+4a C10
+Be
+
+1312719
+
+111631-MB0-000
+
+STATOR COMP.
+
+CARBURETOR LINK
+
+135759-MB0-700
+
+---
+
+| ------2005654
+
+HONDA
+
+4
+
+T
+
+5
+
+CODE
+
+5
+
+1
+
+--
+
+Q |PART NUMBER
+
+TO
+
+9 SWITCH ASSY., CHANGE ...ccuceeeee | 4
+
+5
+
+..ccsccccnccaccces oL4 -]
+4-- 5
+
+FROM
+
+r
+
+5
+
+STATOR COMP.
+
+S|E|
+
+20 B10
+
+HONDA
+CODE
+
+4 --|
+4-
+
+4
+
+E
+
+CRANKCASE COVER,
+L.
+
+0
+A
+Q |PART NUMBER
+
+STATOR COMP. (HITACHI) .....cc005
+
+CARBURETOR ASSY........ 44 C10
+
+R
+
+CRANKCASE COVER, R...... 13 Bs
+
+ENGINE
+SERIAL NUMBER
+FROM
+TO
+
+4~
+
+CARBURETOR! COMPONENT 48 C12
+
+SERIAL NUMBER
+
+1434752
+
+Q
+
+5S
+
+ENGINE
+
+5{O]
+
+D
+
+‘0 BS
+
+|31130-MB4-000
+
+4
+
+ROTOR COMP. ....... weececcecces wlio
+
+alc
+
+18 BS
+
+CAM CHAIN ...............
+
+1
+
+8 c
+5|Q|
+5{/€|
+
+7 STATOR COMP. (HITACHI) ..........
+
+8
+
+PAGE GRID
+
+ALTERNATOR .............
+
+Y
+
+5
+
+4
+
+4
+
+T
+
+A
+
+s
+
+TITLE
+
+4
+
+COVER, ALTERNATOR ...cecccencecs
+
+...cccccecccuce
+
+O
+
+s
+
+E-8/4
+
+DESCRIPTION
+
+a
+
+8 CLAMP, ALTERNATOR CORD ...seeesee}
+
+1 COVER, ALTERNATOR ..cccceccscecs
+
+6 ROTOR COMP. ..ccccsccccccccccsce
+
+18
+
+Ole
+
+BLOCK NO.
+
+08
+
+3
+
+—a_
+
+V VI,
+
+'
+
+CONTENTS
+
+Vv
+
+19
+
+GRD
+
+B9
+
+LEFT CRANKCASE COVER e WATER PUMP
+
+‘
+or= vevoosen
+
+F FIA
+
+6
+
+Ret.
+
+No.
+
+BLOCK NO.
+
+DESCRIPTION
+
+Ole
+
+a
+
+0
+Ola,
+$'s
+
+T
+¥
+
+8. 8iCc
+
+E-9/ 4 3
+
+15 BOLT, FLANGE, 6X55 ...secceeeseee|
+
+45
+
+peaiheoel
+
+viva
+:
+
+B
+
+Ret
+
+BLOCK NO.
+
+No.
+
+DESCRIPTION
+
+T COVER, RR.
+
+gic
+
+E914 °5
+
+4
+
+e
+
+51€E
+
+Q
+y
+ENGINE
+
+a
+
+n
+
+HONDA
+
+FROM
+
+Q |PART NUMBER
+
+CODE
+
+TO
+
+essceesececsesceees
+
+45
+
+1
+
+|11361-mB0-770
+
+1288836
+
+2 COLLAR, RR. COVER .....ccceeceees
+
+4.5
+
+1
+
+111343-mB0-000
+
+1240837
+
+3 GROMMET A, RR. COVER 2.0.0.0...
+
+4
+
+5
+
+1
+
+|11344-mB0-000
+
+1240845
+
+4 PUMP COMP., WATER .......ccecesee
+
+4
+
+5
+
+1
+
+1|19200-mB0-770
+
+1290659
+
+PUMP COMP., WATER .cccceccesccnes
+
+45
+
+1
+
+|19200-MB0-771
+
+3835972
+
+5 COVER COMP., WATER PUMP .......0.
+
+4:5
+
+1
+
+|19220-MB0-770
+
+1316587
+
+6 GASKET, WATER PUMP COVER ....... 14
+
+5
+
+1
+
+119226-TMB0-000
+
+1262148
+
+7 CYLINDER ASSY., CLUTCH SLAVE ..../4
+
+5
+
+1
+
+|22860-MB0-770
+
+1291160
+
+8 INSULATOR, CLUTCH SLAVE CYLINDER
+
+(4
+
+5
+
+1
+
+|22862-mB0-770
+
+1291202
+
+9 PISTON, SLAVE CYLINDER ....2.000014
+
+5
+
+1
+
+122863~MB0-003
+
+1242627
+
+10 SPRING, SLAVE CYLINDER ........ i
+
+4
+
+5
+
+1
+
+|22864-MB0-003
+
+1242635
+
+11 CUP, PISTON ...ccccecccoesesecee]
+
+&
+
+5
+
+1
+
+122865-mB0-003
+
+1262643
+
+12 CLIP, WIREHARNESS ..........00..14
+
+5
+
+1
+
+|32170-443-850
+
+1323468
+
+CLAMP .cccasscsecsccccessvscssee]
+
+&
+
+5
+
+1
+
+191403-663-000
+
+1251669
+
+13 SCREW, BLEEDER ....cccccseceeeee
+
+(4
+
+5
+
+1
+
+143352-568-003
+
+0505735
+
+14 CAP, BLEEDER SCREW ......sec0000014
+
+5
+
+1
+
+|43353-461-771
+
+0954230
+
+20
+
+© AMERICAN HONDA MOTOR CO. LTD. 1903
+
+VF700S'84 ENGINE NO. ; RC22E~2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC2ZE-2002575 TO 2006097
+VF700S'84 FRAME NO.; RC227-EM000006 TO EM001081
+
+2
+
+CARBURETOR COMPONENT 48 C12
+
+CODE
+
+CLUTCH
+OR LINK ==. 44 G10
+
+.
+
+CRANKCASE COVER, L.
+
+|90051~B0-000
+
+1243492
+
+1 190425-300-000
+
+CRANKCASE COVER,
+
+20 B10
+
+F. 13 88
+
+Chose eer
+
+42 C9
+
+1243591
+
+CYLINDER HEAD COVER
+
+2 BI
+
+18 OIL SEAL, 8X18X5 (NISSIN) ......./4 .5
+
+1
+
+191209-mB0-003
+
+1243872
+
+CYUNDER
+HEAD
+AG
+
+19 O-RING, 32.95X2.62 (ARAI) ......./4
+
+5
+
+1
+
+191302-MB0-013
+
+4435114
+
+CASKET KIFR
+
+20 PINA, DOWEL, 8X16 ..ssseereereee[
+
+:
+
+5
+
+2
+
+|94301-08140
+
+0069310
+
+GEARSHIFT DRUM ......... 38 C7
+GEARSHIET
+ORUM «==. 38
+
+21 BOLT, FLANGE, 6X22 .seveeeseereee|
+
+5
+
+1
+
+oe
+196000-06022-00
+
+0811034
+
+~
+a
+1 196001~-06022~00
+
+2112191
+
+OIL PAN
+..0..
+0 ooo.
+l oe 23 B11
+OL
+PAN gocourirs
+23 Bi!
+PISTON .0000000000.0.....5
+PISTON
+ron 30 C3
+
+STARTER CLUTCH .........
+
+~
+
+22 BOLT, FLANGE, 6X28 ...cccecnseeeel
+
+4! 5
+
+2
+
+196000-06028-00
+
+0799072
+
+BOLT, FLANGE, 6X28 ...00. eeeseees
+
+4.5
+
+2
+
+|96001-06028-00
+
+:
+
+!
+
+| 23 BOLT, FLANGE, 6X60 ..seseesescees 4 5
+BOLT, FLANGE, 6X60 ...secescceees 4'5
+
+1 |96000-06060-07
+1
+
+|96001-06060-07
+
+2 |96000-06070-00
+2 |96001-06070-00
+
+CYLINDER BLOCK .........
+
+GASKET KITA .............
+
+26 C1
+
+eS
+50 D1
+
+ard
+
+16 B8
+
+2106003
+
+STAATER MOTOR .........
+
+22 Bi
+
+TENSIONER 2-20.00 10 BS
+
+1244003
+
+THERMOSTAT
+
+2831659
+
+36 CE
+
+WATER PRE 020 40 C8
+
+_............
+
+TRANSMISSION
+
+VE wee
+eee
+
+0807438
+2112233
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+8
+
+B4
+
+WATER PUMP «2-02.20, 20 B10
+
+|
+
+B10
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220~-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221~FM100004 TO FM100863
+
+| Q PART NUMBER
+
+CARBURETOR ASSY........ 44 C19
+
+HONDA
+
+0189795
+
+24 BOLT, FLANGE, 6X70 .essseseeveees 415
+BOLT, FLANGE, 6X70 ..seceeseceres 4.5
+
+SERIAL NUMBER
+
+TO
+
+A
+
+18 Bo
+‘0 es
+
+|90439-MB0-000
+
+;
+
+6 Ole
+0:
+s 8|4
+
+FROM
+
+PAGE GRID
+
+ALTERNATOR .............
+CAM CHAIN ...0..00000....
+
+1
+
+BOLT, FLANGE, 6X22 .ssscesccecece | & ‘: 5
+
+,
+
+ENGINE
+
+SERIAL NUMBER
+
+TITLE
+
+5
+
+1? WASHER, RR. COVER GROMMET .......14
+
+se]
+
+e
+
+4 51E]|
+
+16 WASHER, 11MM ..e.scesssecseseeee | 4 5
+
+we
+
+CONTENTS
+
+VV
+
+21
+
+GRID
+
+B10
+
+STARTER MOTOR
+
+OIL FILTER e OIL PAN e OIL PUMP
+
+CONTENTS
+TITLE
+
+12
+
+E14MB0E10
+
+4 = VF700S'84
+
+Vivi,
+
+$= VF700S'85
+
+7
+
+71h
+
+Ret
+
+BLOCK NO.
+
+No.
+
+8 a|c
+
+E-10/ 4 5
+
+DESCRIPTION
+
+°
+
+4. 5]E]|
+
+1 MOTOR ASSY., STARTER .....000. oe | 4 | 5
+MOTOR ASSY., STARTER ....ccceenes
+
+4 | 5
+
+0:
+
+Y
+
+ENGINE
+
+SERIAL NUMBER
+
+A
+
+HONDA
+
+FROM
+
+Ret.
+
+Q
+
+|PART NUMBER
+
+CODE
+
+No.
+
+1
+
+|31200-MB0-008
+
+1243146
+
+1
+
+|31200-MB0-405
+
+TO
+
+£E-11/4
+
+55
+
+A
+
+Q
+
+|PART NUMBER
+
+1 PAN, OIL ..ccccncsccncccccccccce 4/5
+
+1
+
+|11210-4B0-000
+
+1260787
+
+4237954
+
+PAN, OIL ...cceccnccees cevecece ~{4°5
+
+1
+
+|11210-MB0-010
+
+2088789
+
+PAN, OIL ....... te n
+
+1 | 11210-MK3-000
+
+2016657
+
+5
+
+1
+
+|31201-K6?7-000
+
+17 18576
+
+5
+
+1
+
+|31201-MA6-000
+
+1243153
+
+2 GASKET, OIL PAN ...scnsncececnece
+
+3 SPRING, CARBON BRUSH .....2c0c0021
+
+4 | 5
+
+4
+
+131206-MA6~000
+
+1263161
+
+3 PUMP ASSY., OIL ws eee eeseee one | 4/5
+
+4 SCREW, PAN, SX115 ...cccecncccecs
+
+4
+
+5
+
+3
+
+131205-mB0-000
+
+1260314
+
+PUMP ASSY., OIL .....e00. a oeene oe
+
+5 HOLDER SET, BRUSH ........2se0e0e
+
+4.5
+
+1
+
+|31206-K67-000
+
+1718592
+
+HOLDER SET, BRUSH ....... secuccce
+
+4 SPROCKET, OIL PUMP DRIVEN (25T) ..|
+
+4 | 5
+
+1
+
+131206-maé-000
+
+9243179
+
+4
+
+5
+
+2
+
+31207-179-711
+
+1063858
+
+6 PIPE, OIL STRAINER Sue ensnenverne
+
+1243922
+
+Sumit OTL STRAINER «+++ +00 ; ;
+
+a eeetecncacce eeseeses
+
+BORING .....cesececsessereeeseee {4
+
+5
+
+DORING ..ceeccsecsccserececerene | &
+
+1
+
+|91309-MAs-000
+
+5
+
+10 WASHER, SPRING, Sma Seven acenenna
+
+5
+
+1
+
+191320-"B0-000
+
+BOLT. FLANGE, B25
+,
+
+4
+
+Gs
+
+ns ie
+
+4/5
+
+TO
+
+1
+
+1641724
+
+1 | 15100-MB0-000
+
+1241637
+
+[45
+
+1
+
+[15100-TMB0-010
+
+2017317
+
+4 | 5
+
+1
+
+]15134-MB0-010
+
+1780964
+
+5 CHAIN, OIL PUMP .....esneee ooeene | 455
+
+1
+
+| 15136-MB0-003
+
+124 1660
+
+1
+
+1515 1-MB0-000
+
+1241678
+
+tooo men-o%9
+
+vateoea
+
+5
+
+0058966
+
+1292184
+
+10 vite on. ne cuetsessee 4 ;
+
+1
+
+|15410-mJ0-003
+
+1689611
+
+> sean 06025-00
+
+=105989
+
+11 PIPE, OIL sssssesseeesensseneeee | 4:5
+
+1 |15511-mB0-000
+
+1261710
+
+ae
+
+ures ehee wee enraneaue
+
+12 BOSS, OIL FILTER ....eseeeceeeeee]
+
+B11
+VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+5
+|
+
+30 C3
+16 BS
+
+STARTER CLUTCH .........
+STARTER MOTOR .........
+TENSIONER ...............
+
+THERMOSTAT .............
+2...
+
+HONDA
+
+| 11315-MB0-010
+
+4
+
+PISTON 00.0...
+PULSE ALTERNATOR |...
+
+CODE
+
+94111-05000
+
+3
+
+«© AMERICAN HONDA MOTOR CO. LTD. 1983
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220~EM000007 TO EM005012
+VF700S"84 ENGINE NO. ; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221~EM000006 TO EMO0 1081
+
+ce caeeennese 415
+
+20 B10
+13 B6
+30 C3
+42 C9
+26 Ct
+2 Bi
+3 BI
+6 B3
+50 D1
+51 D1
+38 C7
+23 Bit
+23 B11
+23 B11
+
+T
+
+SERIAL NUMBER
+
+TERMINAL SET, BRUSH .........000-
+
+4
+
+C
+
+4,5|E]
+
+CLUTCH o.oo,
+CRANKCASE COVER, L.
+CRANKCASE COVER, R......
+CRANKSHAFT 0.0.2.0...
+CROSS SHAFT ............
+CYLINDER BLOCK .........
+CYLINDER HEAD COVER
+CYLINDER HEAD, FR...
+CYLINDER HEAD, AR ......
+GASKET KITA .............
+GASKET KITB.............
+GEARSHIFT DRUM...
+OW FILTER...
+OW PAN 2... ooo...
+OIL PUMP 0.02006...
+
+v
+
+ENGINE
+
+FROM
+
+DESCRIPTION
+
+2 TERMINAL SET, BRUSH ......s.0.00. 4
+
+6 RING, SEAL
+
+22
+
+BLOCK NO.
+
+alg|c
+
+BS
+B4
+C10
+C12
+C10
+B7
+
+16 BB
+22 Bit
+10 BS
+
+40 C8
+36 CB
+
+B B4
+
+WATER PUMP 200.0202. 20 B10
+
+Ola
+
+sis
+
+B9
+
+10
+8
+44
+48
+44
+14
+
+VALVE
+00.0
+ce
+cece eee
+
+ara
+
+T
+
+18
+
+CAM CHAIN ...............
+CAMSHAFT ...............
+CARBURETOR ASSY........
+CARBURETOR COMPONENT
+CARBURETOR LINK ........
+
+TRANSMISSION...
+
+Viv].
+
+5 = VF700S'85
+
+9: Qla
+
+ss
+
+E14MBOE11
+
+4 = VF700S'84
+
+PAGE GRID
+
+ALTERNATOR .............
+
+1
+
+|90019-mB0-000
+
+1243435
+
+© AMERICAN HONDA MOTOR CO.,LTD. 1993
+
+23
+
+GRID
+
+B11
+
+OIL FILTER e OIL PAN e OIL PUMP
+
+4 = VF700S'84
+
+FE FIA
+
+5 = VF700S'85
+
+CONTENTS
+
+7 7 )R
+
+o.8 E
+
+2
+
+Ret.
+No.
+
+BLOCK NO.
+
+8
+
+8{c
+
+€-11/4/5[/0O]
+
+DESCRIPTION
+
+r—|D
+
+4'5]E]
+i
+
+23 PIN, DOWEL, 8X14 ...scseeeveneeee ("| 5
+
+TITLE
+
+a
+
+Ss | a]
+
+ENGINE
+
+SERIAL NUMBER
+
+| R
+
+FROM
+
+| Q |PART NUMBER
+
+TO
+
+E
+
+HONDA
+
+CARBURETOR
+
+LINK
+44
+C10
+CLUTCH...)
+4a. By
+
+CODE
+
+CRANKCASE COVER,
+L.
+
+0687830
+
+CROSS SHAFT ............ 42 C9
+
+CRANKSHAFT .............
+
+30 C3
+
+5
+
+1
+
+|95701-06045-00
+
+2529089
+
+CYLINDER BLOCK
+
+26 C
+
+BOLT, FLANGE, 6X45 -.esssseeeeeee]
+
+5
+
+1
+
+195701-06045-07
+
+2410967
+
+CYLINDER
+eAp
+eR
+oo
+
+8
+
+25 SOLT,
+FLANGE,
+6X70
+..-seseseeeeeel
+
+& 15
+
+2
+
+|95700-06070-00
+
+0698720
+
+Gaskerate
+
+Be
+
+2427284
+
+OIere DRUM «oss
+
+eo
+
+3
+30
+
+4
+
+i
+
+CRANKCASE COVER,
+
+No.
+
+DESCRIPTION
+
+5
+
+| 5
+
+2
+
+|95701-06070-00
+
+9
+
+|96000-06028-00
+
+0799072
+
+OILPAN
+B11
+OL PAN ....00.0..........
+Soci 23
+2 Br
+
+4 : 5
+
+9
+
+=
+|96001-06028-00
+
+2106003
+
+PISTON
+..00 oNATOR
+000020
+PISTON
+STARTER CLUTCH
+
+STARTER MOTOR
+
+THERMOSTAT .............
+VE MSSION eee eeeees
+
+ete eee eee er eee eee
+WATER PIPE ..............
+
+!
+
+gi Bg{c
+4 s 4
+
+ENGINE
+SERIAL NUMBER
+
+3
+R
+
+HONDA
+
+4°51€)]
+
+FROM
+
+© | PART NUMBER
+
+CODE
+
+1768290
+
+|
+
+1
+
+|90021-Ke8-000
+
+4
+
+5
+
+1
+
+|90488-MB0-000
+
+1243674
+
+|
+
+45
+
+1
+
+|90701-mB4-000
+
+1385509
+
+.
+
+5
+
+2
+
+191309-mB0-003
+
+1260843
+
+|
+
+1? O-RING, 18.5X2.4 (ARAI) ......2.6/4 55
+
+1
+
+|91311-MB0-003
+
+1260850
+
+|
+
+18 O-RING, 14.7X2.2 (ARAL) ....00000/4
+
+1
+
+|91313-MB0~003
+
+1260868
+
+|
+
+O-RING, 14.8X2.2
+
+wsssccesee nena
+
+5
+
+[45
+
+1
+
+191313-mG7-004
+
+3353620
+
+19 O-RING, 7.7X2.3 (ARAL) ...eeeee (455
+
+|
+
+1
+
+|91301-Pc9-003
+
+1352400
+
+|
+
+O-RING, 7.8K2.2
+
+weseeeseeeenenee | 4
+
+5
+
+1
+
+}91308-283-000
+
+0076497
+
+O-RING, 7.8X2.2 (ARAL) .eeeeeeree | 4
+
+|
+
+5
+
+1
+
+|91313-393-003
+
+0446922
+
+20 BOLT, DRAIN PLUG, 12MM .......4..)4
+
+!
+
+5
+
+1
+
+{92800-12000
+
+0053975
+
+21 WASHER, DRAIN PLUG, 12MM ........14
+
+|
+
+5
+
+1
+
+|94109~12000
+
+0171868
+
+22 PIN, SPLIT, 2.0X25 ..cseecesesese|
+
+|
+
+4
+
+5
+
+1
+
+|94201-20250
+
+0058370
+
+PIN, COTTER, 2.0X32 ..esesseneene
+
+|
+
+(4
+
+5
+
+1
+
+|94201-20320
+
+0145607
+
+PIN, SPLIT, 2.0X35 .esececsesseee]
+
+|
+
+4
+
+5
+
+1
+
+|94201-20350
+
+0058388
+
+23 PINA, DOWEL, 8X16 .....sseeeseee | 4 ==
+
+|
+
+1
+
+[94301-08140
+
+0069310
+
+|
+
+24
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+VF700S'84 ENGINE NO.; RC2ZE-2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM00S012
+VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO. ; RC221-EM000006 TO EM001081
+
+Bi2
+
+VF7005'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100G01 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+16 BS
+
+22 Bit
+10 BS
+
+40 C8
+6 a
+40 CB
+
+|
+
+45
+
+16 O-RING, 14.6X3.7 (ARAI) .........14
+
+C3
+
+WATER PUMP ............. 20 B10
+
+13 BOLT, HEX., 6X16 .escssceceescoes
+
+15 PIN, KNOCK, 8X14 .....eccnccusees
+
+.........
+
+.........
+
+TENSIONER ...............
+
+14 WASHER, 6X2.3
+
+....cecceesccecees
+
+oo
+
+> BI
+
+4
+
+|
+
+TO
+
+.........
+
+13 B6
+
+26 BOLT, FLANGE, 6X28 ...seeeeeeeee | 4
+
+E14MBOE11
+
+E-11|
+
+R......
+
+CYUNDER HEAD COVER 0.
+
+"s
+
+BLOCK NO.
+
+20 B10
+
+195700-06045-00
+
+BOLT, FLANGE, 6X28 ...sseeeeeeeee]
+
+Ret
+
+44 C10
+
+CARBURETOR COMPONENT 48 C12
+
+1
+
+BOLT, FLANGE, 6X70 ...seseeeseeee]
+
+rola
+
+CARBURETOR ASSY........
+
+1852391
+
+BOLT, FLANGE, 6X45 ....eseeseeeee]
+
+V | Vv
+‘FIA
+
+% Ey
+
+{90501-MB0-000
+
+:
+
+5S = VF700S'8S
+
+CAM CHAIN ...............
+
+1
+
+24 BOLT, FLANGE, 6X45 ..-.eseeeveeee | 4/5
+
+4 = VF700S'84
+.
+
+PAGE GRID
+
+ALTERNATOR ............. 18 BQ
+
+Y
+
+.
+
+© AMERIC
+HONDA MCTOR CO,
+AN
+LTD. 1993
+
+25
+
+GRID
+
+B12
+
+CYLINDER BLOCK
+
+4 = VF700S'84
+
+Vov
+
+5 = VF700S'85
+
+Fela
+
+an
+Ret.
+[No.
+
+BLOCK NO.
+
+gia|c
+
+E-12] 4 A 5
+
+DESCRIPTION
+
+10 BOLT, UBS, 9X98 ..cessssereeveeee|
+
+4
+
+o
+
+S51{€E
+
+4 m=
+
+ENGINE
+
+SERIAL NUMBER
+
+A
+
+FROM
+
+Q
+
+|PART NUMBER
+
+CODE
+
+4
+
+}|90015-mB0-000
+
+1243401
+
+an 5 1 |
+wnnnnne
+5
+2108919
+
+Ret.
+
+No.
+
+Viv
+
+0 olf
+
+BLOCK NO.
+
+s
+
+Ss
+
+B
+
+g|Cc
+
+E-12/4
+
+DESCRIPTION
+
+1 BLOCK SET, CYLINDER ....2eeeeseee
+
+BLOCK SET, CYLINDER .......0.0005
+BLOCK SET, CYLINDER ......ssseeee
+
+5
+
+}90016-MB0~000
+
+1263419
+
+5
+
+2
+
+|90461-357-000
+
+0350215
+
+13 WASHER, RR. BRAKE ARM ....escee00
+
+5
+
+1
+
+190525-001-000
+
+0094839
+
+1
+
+191204-425-003
+
+1067024
+
+[4
+
+1
+
+{94301-08140
+
+0069310
+
+45
+
+2
+
+|95760~-06012-00
+
+0487025
+
+BOLT, FLANGE, 6X12 ..seceseeess [455
+
+2
+
+|95701~06012-00
+
+2105799
+
+|95700-06028-00
+
+0483933
+
+2105849
+
+|95701-06028-00
+
+0484477
+
+4
+
+5
+
+2
+
+|95701-06032~00
+
+2105856
+
+21 BOLT, FLANGE, 6X40 ....... aeaeaes 45
+
+1
+
+[95700-06040-00
+
+0483966
+
+5
+
+1
+
+195701-06040-00
+
+2610942
+
+22 BOLT, FLANGE, 6X45 .....seceseees
+
+415
+
+2
+
+|95700-06045-00
+
+0687830
+
+BOLT, FLANGE, 6X45 ...csceesecare
+
+4:5
+
+2
+
+|95701-06045-00
+
+2529089
+
+HONDA
+
+4
+
+5
+
+1
+
+1724350
+
+|11000-MB1-870
+
+1 {11000-#B 1-871
+
+206 1604
+
+1
+
+2099174
+
+|11000-mB1-872
+
+4.5
+
+1
+
+111105-MB0-000
+
+1260753
+
+3 PLATE, OIL SEPARATE .....ssesees
+
+4
+
+1
+
+111140-MB0-000
+
+1240761
+
+5 CLIP, BREATHER TUBE ......-.e.000 45
+
+1
+
+111207-MB0-000
+
+1240779
+
+1
+
+|17554-MB0-000
+
+1260264
+
+6 CLIP, HIGH TENSION CORD .........
+
+1 [32906-06 1-000
+
+0185082
+
+5
+
+4 CAP, MAIN GALLERY ......0seseceee 45
+5
+
+7 SWITCH ASSY., OIL PRESSURE ....../4
+
+--
+
+1
+
+[35500-MB9-064
+
+1087204
+
+SWITCH ASSY., OIL PRESSURE ......
+
+=
+
+1
+
+|35500-MJ0-004
+
+1734599
+
+1
+
+|35500-MJ4-004
+
+1851955
+
+~-
+
+SWITCH ASSY., OIL PRESSURE (ND) 014
+
+5
+
+1
+
+135500-MJ4-014
+
+1876721
+
+SWITCH ASSY., OIL PRESSURE (ND) ..14
+
+5
+
+1
+
+|35500-4J4-024
+
+3544608
+
+5
+
+|90014-MB0-010
+
+1708536
+
+1
+
+|90014-MB6-680
+
+2248243
+
+5
+
+1260876
+
+2108919
+
+----~--
+
+45
+
+|95700-06032-00
+
+CODE
+
+9 BOLT, UBS, 9X88 ......eceseessese de>
+
+|91314-"B0-003
+
+....ceceseeees
+
+2
+
+a
+
+5
+
+1
+
+17 PINA, DOWEL, 8X16.
+
+2
+
+Q |PART NUMBER
+
+&
+
+16 O-RING, 18X2.8 ...scseceseeeseee | 4 : 5
+
+2248359
+
+[oS
+
+2 TUBE A, BREATHER ....scecesenceee
+
+8 BOLT, UBS, 9X88 ......eceseeeseeed
+
+1260793
+
+45
+
+FROM
+
+SWITCH ASSY., OIL PRESSURE ......|4
+
+|91210-MB0-003
+191210-mB0-013
+
+20 BOLT, FLANGE, 6X32 ....se00 weve
+
+51€E
+
+4
+
+1
+1
+
+2
+
+4
+
+4
+
+G5
+
+SEAL, OIL, 1GX24K6 .eseeesseeeeee | 5
+
+45
+
+ENGINE
+
+5
+
+--
+
+BOLT, FLANGE, 6X28 .....seueecees
+
+SERIAL NUMBER
+
+4
+
+1263401
+
+BOLT, FLANGE, 6X3? ...sseeeeesess
+
+BOLT, FLANGE, 6X40 ......04. seeee[
+
+4
+
+BOLT, FLANGE, 6X45 ....eseceeeeee|
+
+4, 5
+
+2
+
+|95701-06045-07
+
+2610967
+
+23 BOLT, FLANGE, 6X45 ....... aeeeeee
+
+45
+
+1
+
+|95700-06045-07
+
+0799023
+
+24 BOLT, FLANGE, 6X50 ......00 weeee[
+
+45
+
+1
+
+|95700-06050-00
+
+0483974
+
+BOLT, FLANGE, 6X50 ......00+ see
+
+[45
+
+1
+
+|95701-06050-00
+
+2410975
+
+25 BOLT, FLANGE, 6X60 ......... weve
+
+[45
+
+4
+
+195700-06060-00
+
+0687848
+
+BOLT, FLANGE, 6X60 ..essseseeeeee
+
+lo
+
+5
+
+4
+
+|95701-06060-00
+
+2791119
+
+26 BOLT, FLANGE, 6X90 ...cesesereeeel
+
+4
+
+5
+
+1
+
+|95700-06090-00
+
+0484014
+
+BOLT, FLANGE, 6X90 ..esecereseeee[
+
+&
+
+5
+
+1
+
+195701-06090-00
+
+2533842
+
+27 BOLT, FLANGE, 6X100 ....cesecenee
+
+[4
+
+5
+
+1
+
+|95700-06100-00
+
+0484022
+
+BOLT, FLANGE, 6X100 ....seceveeee] 4 5
+
+1
+
+|95701-06100-00
+
+2519742
+
+5
+
+1
+
+|95700-08045-00
+
+0496497
+
+BOLT, FLANGE, 8X45 ....cseseseeee | 4 | 5
+
+1
+
+|95701-08045-00
+
+2533859
+
+28 BOLT, FLANGE, 8X45 ......0ceeeeee]
+
+4
+
+CRANKCASE COVER, R......
+
+18
+10
+8
+44
+48
+44
+14
+20
+13
+
+CROSS SHAFT ............
+CYLINDER BLOCK .........
+CYLINDER HEAD COVER
+CYLINDER HEAD, FR .......
+CYLINDER HEAD, AR ......
+GASKET KITA .............
+GASKET KITB.............
+GEARSHIFT ORUM .........
+
+42
+26
+2
+3
+6
+50
+51
+38
+
+C9
+C1
+Bi
+
+30
+16
+16
+22
+
+C3
+BB
+BS
+B11
+
+CRANKSHAFT .............
+
+1263401
+
+19 BOLT, FLANGE, 6X28 ....sseeesseee
+
+5
+
+45
+
+|90015-mB0-000
+
+9
+Y
+
+TO
+
+|90015-MB0-000
+
+12 WASHER, SEALING, 6.5X12 ....00...14
+
+18 BOLT, FLANGE, 6X12 ....sccecceere
+
+FETA
+
+=
+
+2108918 | 4
+3
+
+---~---
+
+5
+
+15 SEAL, OIL ..sevecececererererece]
+
+5 = VF700S 8s
+
+TO
+
+PAGE GRID
+
+ALTERNATOR .............
+CAM CHAIN ...............
+CAMSHAFT ...............
+CARBURETOR ASSY........
+CARBURETOR COMPONENT
+CARBURETOR LINK ........
+CLUTCH .....
+eee.
+CRANKCASE COVER, L.
+
+HONDA
+
+11 BOLT, UBS, 9X108 .eseseeseesseeee | 4
+
+14 OIL SEAL, 12.5X25X8 CARAT) ..... [45
+
+E14MB0E12
+
+TITLE
+
+?
+
+OW FILTER ....0 2020.22...
+OIL PAN ....2 00.2.2,
+Of, PUMP . «6...
+PISTON ......00.....-2206,
+PULSE ALTERNATOR ......
+
+STARTER CLUTCH .........
+STARTER MOTOR .........
+vac ee tee
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 ENGINE NO.; RC22E-2900008 TO 2005978
+
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+C1
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+30 C3
+
+BI
+B3
+D1
+Dt
+
+C7
+23 B11
+23 B11
+23 B11
+
+nee
+
+10 BS
+
+40 C8
+36 C6
+
+A
+
+i
+
+a
+
+WATER PIPE ..............
+WATER PUMP .............
+
+27
+
+VF700S'85 ENGINE NO.; RC2Z2E~2100001 TO 2103668
+
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E~2 100001 TO 2103285
+
+B10
+B6
+
+THERMOSTAT .............
+TRANSMISSION ...........
+
+|
+
+26
+
+BS
+BS
+B4
+C10
+C12
+C10
+B7
+
+GRID
+
+C1
+
+8 B4
+
+40 C8
+20 B10
+
+CYLINDER BLOCK
+
+oe eroos ee
+
+F FIA
+
+6 88
+
+oof
+sis|4
+Ref.
+
+No.
+
+BLOCK NO.
+
+DESCRIPTION
+
+E-12]
+
+8
+
+4
+
+;
+
+8B 6
+5
+
+4
+
+4 5|E]
+
+TITLE
+
+e
+v
+
+ENGINE
+
+SERIAL NUMBER
+
+FROM
+
+TO
+
+R
+E
+
+| Q |PART NUMBER
+
+CONTENTS
+
+PAGE GRID
+
+ALTERNATOR ............. 18 BS
+CAMCHAIN ........ 0... 10 BS
+CAMSHAFT ............. .
+
+CARBURETOR
+ASSY........ 44 C10
+CARBURETOR COMPONENT 48 C12
+
+CODE
+
+CLUTCH
+
+I
+
+A IO
+
+CRANKCASE COVER, L.
+
+....
+
+13
+3
+42
+26
+2
+3
+
+BB
+C3
+9
+C1
+BI
+Bi
+
+6
+50
+51
+38
+23
+
+63
+D1
+D1
+C7
+Bit
+
+OIL PAN 200...
+
+23 Bil
+
+OW PUMP ooo.
+
+23 Bit
+
+PISTON...)
+
+30 C3
+
+STARTER CLUTCH...
+STARTER MOTOR .........
+TENSIONER ...0000000..0...
+THERMOSTAT .............
+
+E14MBOE 12
+
+4 = VF700S'84
+
+Viv
+
+TRANSMISSION
+
+5 = VF700S 85
+
+z
+
+WATER PIPE ............
+
+Ret.
+
+No.
+
+DESCRIPTION
+
+8. gic
+
+£E-12/4 5
+
+29 BOLT, FLANGE, 8X50 ......-.eees0.
+BOLT, FLANGE, 8X50 .....cecscenee
+
+30 BOLT, FLANGE, 8X80 ......cccececs
+BOLT, FLANGE, 8X80 ......cccceee
+
+31 BOLT, FLANGE, 6X12 ....ccccescece
+
+32 BEARING, RADIAL BALL, 6304 ......
+
+e
+
+4°5]€!
+4
+
+5
+
+ENGINE
+
+SERIAL NUMBER
+
+FROM
+
+R
+
+R
+
+To | Q [PART NUMBER
+1
+
+|95700-08050-00
+
+HONDA
+
+CODE
+0687871
+
+1
+
+195701-08050-00
+
+2935740
+
+4
+
+5
+
+1
+
+[95700-08080-00
+
+0484048
+
+4
+
+5
+
+1
+
+|95701-08080-00
+
+2533867
+
+4.5
+
+3
+
+[96000-06012-00
+
+0823666
+
+5
+
+3
+
+|96001-06012-00
+
+2105930
+
+5
+
+1
+
+|96100-63040-00
+
+0341644
+
+4
+
+© AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 ENGINE NO.z RC22E-2000008 TD 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+16 BB
+
+16 BB
+22 Bi1
+
+10 BS
+40 C8
+36 C6
+
+8 Bw
+
+40 Cé
+
+WATER PUMP |... 20 B10
+
+7y
+
+4.5
+
+BOLT, FLANGE, 6X12 .....seseeesee 4
+
+28
+
+7 IR
+
+QO Oln
+s.s
+BLOCK NO.
+
+...........
+
+VALVE 0000.0 c eee eee
+
+F:.FILA
+
+20 B10
+
+CRANKCASE COVER, A...
+CRANKSHAFT .............
+CROSS SHAFT |...
+CYLINDER BLOCK .........
+CYLINDER HEAD COVER ...
+CYLINDER HEAD, FR........
+CYLINDER HEAD, RR...
+GASKET KITA .............
+GASKET KITB.............
+GEARSHIFT DRUM .........
+OIL FILTER 2.00000.
+l
+
+PULSE ALTERNATOR .....
+
+’
+
+8 BB
+
+HONDA
+
+Ce
+
+VF700S'85 ENGINE NO.; RC2ZE~2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-F 100001 TO FM100863
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1903
+
+29
+
+GRID
+
+C2
+
+CRANKSHAFT e PISTON
+
+CRANKSHAFT e PISTON
+
+CCNTENTS
+TITLE
+
+aon Front 143206.
+
+[13207-
+
+|13208-
+
+[13208.
+
+13210- |
+
+13201.
+
+MB1-870
+
+‘o
+
+MB1-§70
+13203-
+
+e
+
+CARBURETOR COMPONENT
+
+48 C12
+
+CRANNCASE COVER “30 B10
+
+ad
+
+ad
+
+CRANKCASE COVER,
+
+e
+
+e
+
+e
+
+eebinies alg cnet ee aeae
+
+e
+
+e
+
+-
+
+13202-
+
+18 B9
+10 BS
+8 BA
+
+CARBURETON Cookete yn cre
+
+MB1-870/MB1-870|MB1-870/MB1-870|MB1-870
+
+10
+
+PAGE GRID
+
+ALTERNATOR .............
+CAM CHAIN ...............
+CAMSHAFT ...............
+
+R...... 13 B6
+
+CRANKSHAFT ..000........
+
+CYLINDER HEAD COVER... 2 BI
+
+CVLIDER HEAD, FR Loeeeee
+
+MB1-870
+
+13204-
+
+bd
+
+-
+
+13205-
+
+e
+
+°
+
+MB1-870
+-970;
+
+7%
+
+bd
+
+3
+
+38 7
+
+CW PAN
+
+23
+
+CILFILYER................ 23 BI
+
+e
+|
+
+GEASMRT OFM
+OL PUMP
+
+|
+
+fF
+
+.......0..0.0.....
+
+Tpigton
+
+E14MB0E13 C
+
+4 = VE700S'B4
+
+v
+
+5 = VF700S'85
+
+2
+
+:
+
+veceaeeees
+
+Crankshaft bearing selection
+tOd ctsarence 20°44 yn)
+
+Cranacase
+10 308
+
+ne
+
+’
+
+—
+
++0.008
+
+rn
+
+;
+
+0
+
+2
+
+o
+
+Connecting rod bearing
+(Ou selection
+cleorence 26~62
+
+A
+
+VALVE
+
+WATER PUMP ...__.__... 20 B10
+ATER
+
+4
+
+5/E]|
+
+FROM
+
+Q
+
+|PART NUMBER
+
+1 RING SET, PISTON (STD.) (NIPPON) ./
+
+4
+
+5
+
+4
+
+1|13011-"80-771
+
+1780931
+
+RING SET, PISTON (STD.) (NIPPON)
+
+.14
+
+5
+
+&
+
+|130171-MN0-305
+
+2523884
+
+2 PISTON .cccccccccccaces peenenens
+
+4
+
+5
+
+4
+
+|13101-481-870
+
+1722958
+
+3 PIN, PISTON ..uccece pececsnes one
+
+& = 5
+
+3
+
+.
+
+-0.008
+
+-0.008 | -0.016
+5
+
+<
+
+Crark om
+
+.
+
+cones
+Oem
+
+A
+
+| 60.008 | evesow | Geren | teecend
+
+1
+
+8
+
+*0.008 |
+0
+c
+8
++0.016 | (Green) | tBrown) | (Giack)
+
+2
+
+c
+
++0.016
+c
+8
+#0.024 | (Brown) | (Bleck)
+
+|
+
+A
+(Bue)
+
+3
+
+00.388
+
+A
+
+8
+
+r+)
+
+c
+
+4
+
+-0.008 -0.016
+
+ROD ASSY. C, FR. CONNECTING ......
+
+1 48.008 | wvesow | Gideon | arson
+c
+8
+| (Brown) | (Biack)
+
++0.016
+c
++0.024 | (Brown) |
+
+8
+(Bisck)
+
+|
+
+A
+(Blue)
+
+@ AMERICAN HONDA MOTOR CO. LTD. 1983
+
+VF700S '84 ENGINE NO.; RC22E~2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S '84 ENGINE NO.; RC22E~2002575 T0 2006097
+VF700S "84 FRAME NO.3 RC221-EM000006 TO EM001081
+
+c3
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'8S FRAME NO.; RC220-F4100001 TO FM 102800
+VF700S'85 ENGINE NO.; RCZ22E-2100001 TC 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+4
+
+:
+
+..............
+
+HONDA
+
+CODE
+
+4&
+
+|13111-480-000
+
+1241140
+
+4&
+
+|13111-"T3-000
+
+3482114
+
+5
+
+2
+
+13201-"B 1-870
+
+1722966
+
+2
+
+13202-481-870
+
+1722974
+
+4
+
+§
+
+2
+
+|13203-"81-870
+
+ROD ASSY. D, FR. CONNECTING ......14
+
+1722982
+
+5
+
+2
+
+|13204-mB1-870
+
+1722990
+
+ROD ASSY. E, FR. CONNECTING ......14
+
+5
+
+2
+
+| 13205-"61-870
+
+1723006
+
+4
+
+5
+
+8
+
+|13205-634-010
+
+0549493
+
+6 ROD ASSY. A, RR. CONNECTING ......14
+
+5
+
+2
+
+| 13206-4681-870
+
+1723014
+
+ROD ASSY. B, RR. CONNECTING ......14
+
+5
+
+2
+
+|13207-481-870
+
+1723022
+
+ROD ASSY. C, RR. CONNECTING ......14
+
+5
+
+2
+
+|13208-M81-870
+
+1723030
+
+ROD ASSY. D, RR. CONNECTING ......14
+
+5
+
+2
+
+|13209-#81-870
+
+1723048
+
+ROD ASSY. E, RR. CONNECTING ......|4
+
+5
+
+2
+
+|13210-81-870
+
+1723055
+
+5 NUT, CONNECTING ROD ....cecceeeee]
+
+E14MB0E13T
+
+Ke]
+
+ROD ASSY. A, FR. CONNECTING eevee .
+
+TO
+
+5
+
+ROD ASSY. B, FR. CONNECTING eeecse . 4 5
+
+-0.008 | -0.016 | -0.024
+
+70.008 |
+oO
++#0.016 | (Green)
+
+....ccesccces weeeeee | 4
+
+Leeeeeveeeneees £ Be
+
+PIPE
+
+Yy
+
+R
+R
+
+PIN, PISTON
+
+10 BS
+
+40 CB
+36 C6
+
+IR
+ENGINE
+SERIAL NUMBER
+
+.)
+
+..... 2.0...
+
+16 BS
+22 Bil
+
+7
+
+B|C
+5 6
+
+DESCRIPTION
+
+THERMOSTAT .............
+
+3
+
+v
+
+8
+£-13]4
+
+No.
+
+TENSIONER ...............
+
+TRANSMISSION
+
+ss
+
+BLOCK NO.
+
+811
+
+Lee ceeeeeees zs ah
+
+PULSE ALYERNATOR ...... 16 BS
+
+Ff
+
+STARTER CLUTCH .........
+STARTER MOTOR ...... _..
+
+Ret.
+
+s Bi
+
+GASKET KIT/.. .......... 50 Df
+
+MB1-870
+
+’
+
+30 C3
+
+po °
+
+€ AMERICAN HONDA MOTOR CO. 1 TD. 19083
+
+n
+
+GRID
+
+C3
+
+CRANKSHAFT e PISTON
+
+oS nvevoowes
+
+F F A
+TITLE
+S's
+
+Ret.
+No.
+
+BLOCK NO.
+
+E-13]/4
+
+DESCRIPTION
+
+7 BOLT, CONNECTING ROD (TOKAI TRW)
+BOLT, CONNECTING ROD (NAGOYA
+NEJI) ecscececscccscecececesee]
+
+Cianacone
+10.908
+
+a) +0.008
+a |0
+o
+
+ence
+
+Coneciagredbeatng siacion
+
+aft
+
+~ 0.008
+~0.008 } -0.016
+
+Connecting
+1001.0. 300
+
+A
+
+148.008 | rvegow | teen | tence
+
+1
+
+ao
+
+[90781
+
+bem | cobu,
+
+2
+
+C1
+
+eOo26 | cecum | witn | cote
+
+3
+
+8
+
+ae0
+
+a:
+
+6%,
+
+| wea!
+
+wn
+
+| 50.028 | ieeawn | ioitcn | tenes
+
+cvsapoeten
+a2
+
+© AMER
+HONDA MOTOR
+ICAN
+CO, LTD. 1993
+
+VF700S'B4 ENGINE NO.; RC22E~2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+5/7E
+
+./4
+
+5
+
+cs
+
+SERIAL NUMBER
+
+a
+
+FROM
+
+Q
+
+|PART NUMBER
+
+CODE
+
+8
+
+|13204-689-004
+
+0725416
+
+TO
+
+HONDA
+
+8
+
+8 BEARING A, CONNECTING ROD (BLUE) .14
+
+|13213-422-004
+
+0690792
+
+5
+
+8 | 13224-MB0-003
+
+1260116
+
+BEARING A, CONNECTING ROD (BLUE).| 4
+
+5
+
+8
+
+1853514
+
+BEARING A, CONNECTING ROD (BLUE).| 4
+
+5
+
+8
+
+|13224-MB0-891
+
+2053999
+
+BEARING A, CONNECTING ROD (BLUE)
+
+.|4
+
+5
+
+8
+
+|13224-MB0-892
+
+3255692
+
+BEARING B, CONNECTING ROD (BLACK)
+
+|4
+
+5
+
+8
+
+|13225-B0-003
+
+1260124
+
+|13224-MB0-305
+
+BEARING B, CONNECTING ROD (BLACK) | 4
+
+5
+
+8
+
+|13225-mB0-891
+
+2054005
+
+BEARING B, CONNECTING ROD (BLACK) | 4
+
+5
+
+8
+
+|13225-mB0-892
+
+3045499
+
+BEARING C, CONNECTING ROD (BROWN)
+
+14
+
+5
+
+8
+
+|13226-mB0-003
+
+1260132
+
+BEARING C, CONNECTING ROD (BROWN) | 4
+
+5
+
+8
+
+|13226-MB0-891
+
+BEARING C, CONNECTING ROD (BROWN) | 4
+
+2054013
+
+5
+
+8
+
+|13226-MB0-892
+
+2956613
+
+8 | 13227-MB0-003
+
+1260140
+
+14 = 5
+
+BEARING D, CONNECTING ROD (GREEN) | 4
+
+5
+
+8
+
+|13227-"B0-891
+
+2054021
+
+BEARING D, CONNECTING ROD (GREEN) | 4
+
+5
+
+8
+
+|13227-"B0-892
+
+2956621
+
+BEARING E, CONNECTING ROD
+(YELLOW) .eccesecacscavceccecs
+
+:
+45
+
+8 | 13228-MB0-003
+
+1260157
+
+BEARING E, CONNECTING ROD
+
+(YELLOW) ..ccesecersceccsacecs
+
+|
+45
+
+8
+
+|13228-4B0-891
+
+2054039
+
+BEARING E, CONNECTING ROD
+(YELLOW) .eecesee sececesecees
+
+45
+
+8
+
+|13228-mB0-892
+
+2937829
+
+4
+
+1
+
+|13300-"B1-870
+
+1723063
+
+a laswwwo-o
+
+tous
+
+...s.ccceceeees
+
+CAMSHAFT .............
+CARBURETOR ASSY......
+
+CARBURETOR COMPONENT
+CARBURETOR LINK ......
+
+CLUTCH 2000000...
+CRANKCASE COVER, L.
+
+CRANKCASE COVER, R......
+eee
+
+5
+
+w sees,’ ceawswrT iD |
+rece]
+
+| 8.008 | evetows | (Geen | cBeSem
+(73991
+
+4
+
+:
+
+-0.008 | -0.016
+~ 0.008 | -0.016 | -0.024
+
+6
+
+5
+
+9 CRANKSHAFT COMP.
+
+(Oi clearance 28~-§2 pm)
+
+5
+
+ENGINE
+
+CAM CHAIN ...............
+
+4
+
+BEARING D, CONNECTING ROD (GREEN)
+
+Crantche beetngnaeton
+
+¥
+
+ai aic
+
+PAGE GRID
+
+ALTERNATOR .............
+
+BEARING A, CRANKSHAFT (BLUE) ....14
+
+5
+
+BEARING B, CRANKSHAFT (BLACK) ...|4
+
+5
+
+BEARING B, CRANKSHAFT (BLACK)
+
+...14
+
+BEARING C, CRANKSHAFT (BROWN)
+
+...14
+
+8 | 13314-"B0-013
+
+8
+
+1260173
+
+5
+
+8 | 13315-MB0-013
+
+2016970
+
+BEARING C, CRANKSHAFT (BROWN) ...14
+
+5
+
+8 | 13316-MB0-003
+
+5
+
+1260181
+
+8
+
+2016988
+
+BEARING D, CRANKSHAFT (GREEN)
+
+...[4
+
+5
+
+8 | 13317-B0-003
+
+1260199
+
+BEARING D, CRANKSHAFT (GREEN)
+
+...]
+
+8
+
+|13317-B0-013
+
+2016996
+
+BEARING E, CRANKSHAFT (YELLOW)
+
+..14
+
+5
+
+8
+
+BEARING E, CRANKSHAFT (YELLOW) ..| 4 : 5
+
+|13318-"B0-003
+
+1260207
+
+8
+
+|13318-MB0-013
+
+2017002
+
+4 5
+
+© AMERICAN HONDA MOTOR CO. LTD. 1993
+
+8 B4
+44 C10
+48 C12
+
+44 C10
+14 87
+20 B10
+13 B6
+30 C3
+
+42
+26
+2
+3
+6
+50
+§1
+38
+23
+23
+
+Co
+C1
+B1
+Bt
+B3
+D1
+Di
+C7
+Bil
+B11
+
+PISTON 000 ee.
+PULSE ALTERNATOR ._...
+STARTER CLUTCH... ....
+STARTER MOTOR .........
+TENSIONER ...............
+THERMOSTAT .............
+
+30
+16
+16
+22
+
+C3
+BB
+BB
+B11
+
+OW PUMP...
+
+TRANSMISSION
+
+...........
+VALVE ..00 ee.
+WATER PIPE...
+WATER PUMP............
+
+33
+
+VF700S'85 ENGINE NO.; RCZ2E~2100001 TO 2103668
+
+VF700S*85 FRAME NO. ; RC220-FM100001 TO F4102800
+VF700S'85 ENGINE NO.; RCZ2E~2100001 70 2103285
+VF700S"85 FRAME NO.; RC221-FM100001 TO FM100863
+
+10 BS
+
+CROSS SHAFT 1.0.00...
+CYLINDER BLOCK ........
+CYLINDER HEAD COVER
+CYLINDER HEAD. FR... |...
+CYLINDER HEAD, AR ......
+GASKET KITA...........
+GASKET KITB.............
+GEARSHIFT DRUM...
+OR FILTER 00000...
+OW PAN 20000...
+
+2016962
+
+|13315-MB0-003
+
+|13316-MB0-013
+
+ee eaes
+
+18 B9
+
+GAID
+
+C4
+
+23 B11
+
+10 BS
+40
+36
+8
+40
+20
+
+Ce
+C6
+Ba
+C8
+B10
+
+CRANKSHAFT e PISTON
+
+=
+
+VF700S'B4
+
+$= veroos
+84
+
+Ret
+
+No.
+
+aan
+
+VV
+
+BLOCK NO.
+
+418
+
+G
+s
+
+OA
+s
+
+8
+
+8|c
+
+E-13/4
+
+DESCRIPTION
+
+11 KEY, WOODRUFF
+
+6
+
+J. .eccveescevncecel
+
+12 CLIP, PISTON PIN, 18M ws cececesnl
+
+5
+
+>
+
+4 5|€]
+&
+
+Q
+
+TME
+
+T
+v
+
+ENGINE
+
+SERIAL NUMBER
+
+FROM
+
+TO
+
+CONTENTS
+
+PAGE GRID
+
+ALTERNATOR...
+CAMCHAIN. .............
+
+a
+
+| Q |PART NUMBER
+
+18 BO
+10 BS
+
+CARBURETOR ASSY.. |. 44
+
+HONDA
+
+CODE
+
+CARBURETOR COMPONENT
+
+48
+
+CARBURETOR LINK...
+
+44 C10
+
+CRANKCASE COVER,L.
+
+....
+
+20
+
+CRANKSHAFT 00.
+
+30
+
+§
+
+90741-4 13-000
+
+0957571
+
+CRANKCASE COVER,R.....
+
+4
+
+94601-18000
+
+0317305
+
+CROSS SHAFT... ..siw“‘“asS SD
+
+13
+
+CYLINDER BLOCK .......
+26
+CYLINDER HEAD COVER ...
+CYLINDER HEAD.FR
+CYLINDER HEAD.
+RR.
+GASKETKITA....0 a)
+GASKETKITB..sssCSSA
+
+GEARSHIFT DRUM
+38
+OLFILTER
+ss ssi«wi«wsststé«i DB
+OW PAN...
+Ol PUMP... . 23
+
+PISTON...
+0... 30
+PULSE ALTERNATOR ... . 16
+STARTER CLUTCH
+
+16
+
+STARTER MOTOR...
+
+22 BI1
+
+TENSIONER.
+i wtwwt*s
+
+10 B5
+
+THERMOSTAT...
+
+40 CB
+
+TRANSMISSION
+
+36
+
+..........
+
+VALVE ..........
+
+WATER PIPE
+
+WATER PUMP
+
+Crankshaft beating selection
+
+Connecting rod bearing selection
+
+(08 clearence 20~44 pm)
+
+“oo
+eae
+A
+8
+c
+
+wet
+
++0.008 | ©
+
+r
+
+0
+
+2
+
+prs
+
+ry
+
+Cc
+
+'
+
+ry
+
+c
+
+8
+
+2
+
+A
+
+3
+
++0.016 {| iGreen) | (Grown) | (Bleck)
+
++0.016
+
+oo
+
+3
+
++0.008 | (Yellow) | (Greent | (Brown)
+
++0.008
+
+(Cs clearance 2862 ym)
+
+3
+
+- 0.008
+
+-0.008 | - 6.016
+
+c
+
+8
+
++0.024 | (Brown) | (Bleck)
+
+(Blue)
+
+sot
+
+0
+
+8
+
+c
+
+~0.008 | -0.016
+
+~0.008 | -0.016 | -0.024
+0
+
+E
+
+o
+
+c
+
++0.008
+
+ry
+
+Cc
+
+8
+
++0.016
+
+c
+
+8
+
++0.00B | (Veliow) | (Green) | (Bsown)
+
++0.016 | (Green) | (Brown) | (Black)
+
++0.024 | (Brown) | (Black)
+
+A
+
+(Bive)
+
+E14MB0E13T
+
+34
+
+© AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO £4005012
+VF700S'84 ENGINE NO.3 RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO. RC221~EM000006 TO £M001081
+
+cs
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+© AMERIGAN HONDA MOTOR CO.,LTD.
+
+1983-35
+
+GRID
+
+8
+
+40
+20 BI
+
+C5
+
+TRANSMISSION
+
+4 = VE700S 84
+me
+
+YY
+
+.
+
+VV
+
+CONTENTS
+TITLE
+
+bag
+§
+
+s
+
+Ret.
+
+BLOCKNO.
+
+3
+
+£-1414
+
+Q
+
+5
+
+v
+
+§
+
+DESCRIPTION
+
+4
+
+57E
+
+FROM
+
+TO
+
+Q |PART NUMBER
+
+CODE
+
+4
+
+{23511-"B0-000
+
+1262817
+
+16 COLLAR, SPLINE, 25X12.5 .....000616
+
+5
+
+1
+
+123512-mB0-000
+
+1262825
+
+17 GEAR, COUNTERSHAFT SIXTH (247)
+
+..14
+
+5
+
+4
+
+123521-mB0-010
+
+1372616
+
+CYLINDER HEAD. FR.
+CYLINDER HEAD, AR.
+
+18 WASHER K, DRIVE PINION ....00.00 4
+
+5
+
+1 141460-37 1-000
+
+1243310
+
+19 WASHER, THRUST, 25X34 ...... secede
+
+5
+
+6
+
+|90452-371-000
+
+0409136
+
+20 WASHER, THRUST, 20X1.05 ......0..
+
+4
+
+5
+
+AR
+
+|90453-mB0-770
+
+1312735
+
+WASHER, THRUST, 20X1.00 .....0+0-
+
+4
+
+5
+
+AR
+
+|90454-428-000
+
+0684902
+
+|90455-mB0-770
+
+1312743
+1312750
+
+TENSIONER .
+
+WASHER, THRUST, 20X0.85 ......+0. 4 5
+21 WASHER, THRUST, 20X1.00 2.00.00 4 5
+4
+
+5
+
+AR |90457-"B0-770
+2 |90454-428-000
+1 190461-286-000
+
+4
+
+}90462-323-000
+
+1312768
+0684902
+
+0172460
+
+1
+
+|23212-B0-010
+
+1781582
+
+78 BOLT, FLANGE, 6x16
+
+Ls
+
+>
+
+\o6000-06016-00
+
+1113687
+
+1
+
+|23421-mB0-000
+
+1242692
+
+BOLT, FLANGE, 6x16
+
+Ls
+
+>
+
+|e6001-06016-00
+
+>105955
+
+1 |96100-63050-00
+
+0674408
+
+1 |23h22-MB0000
+1
+|23422-mB0-010
+
+2247674
+
+5 GEAR, MAINSHAFT SECOND & THIRD
+(24T/2UT) ceseseseee pecuseseea[
+
+4
+
+5
+
+1
+
+|23431-mB0-010
+
+1372390
+
+.]4
+
+5
+
+1
+
+|23441-MB0-000
+
+1242726
+
+7 COLLAR, SPLINE, 25X9.5 ..seseee [4S
+
+- | 2
+
+|23442-mB0-000
+
+1242734
+
+1262742
+
+6 GEAR, COUNTERSHAFT SECOND (347)
+
+8 GEAR, COUNTERSHAFT THIRD (317)
+
+1262700
+
+..
+
+14
+
+5
+
+1
+
+|23461-mB0-000
+
+9 COLLAR, 25X10 ...e.csecececceuce
+
+4
+
+5
+
+1
+
+|23462-mB0-000
+
+1262759
+
+....16
+
+5
+
+1
+
+|23471-mB0-000
+
+1242767
+
+.14
+
+5
+
+1
+
+|23481-mB0-000
+
+1242775
+
+....014
+
+5
+
+1
+
+|23491-mB0-000
+
+1242783
+
+13 COLLAR, 25X12 ..eceececeeaseeese } G5
+
+1
+
+|23495-mB0-000
+
+1262791
+
+44 GEAR, COUNTERSHAFT FIFTH (267)
+
+1
+
+|23501-mB0-010
+
+1457696
+
+10 GEAR, MAINSHAFT FOURTH (27T)
+
+11 GEAR, COUNTERSHAFT FOURTH (297)
+
+12 GEAR, MAINSHAFT FIFTH (297)
+
+..14
+
+5
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'B4 FRAME NO.; RC220-£M000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+C6
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221~FM 100001 TO FM 100863
+
+4
+5
+Ls
+
+4
++
+
+191022-415-008
+|193600-06046-0a
+
+0670976
+0805358
+
+29 BEARING, RADIAL BALL, 6305 ....+. 45
+
+STARTER MOTOR
+THERMOSTAT...
+
+TRANSMISSION
+
+.
+
+22 B11
+
+.
+
+40 CB
+
+...
+
+40 CB
+
+10 BS
+
+VALVE.
+
+WATER PIPE
+WATER PUMP
+
+& AMERICAN HONDA MOTOR CO. LTD. 1983
+
+GRID
+
+36 C6
+8 B4
+20 BIC
+
+0255257
+
+45
+
+5
+
+23 B11
+23 Bit
+23 B11
+
+|90456-MB0-770
+
+2 PLATE, BEARING SETTING ....+.eus.
+
+4
+
+38 C7
+
+AR
+
+5
+
+1242676
+
+COLLAR, 20X11.8 .e.cececsceecaes
+
+6 BS
+50 D1
+§1 01
+
+GASKET KITA
+GASKET KIT
+8
+GEARSHIFT DRUM
+OW FILTER
+ON PAN
+OIL PUMP
+a
+
+AR
+
+4
+
+|23214-mB0-000
+
+4 COLLAR, ZOKTTB sseceeeeeeereees ‘3
+
+26 C1
+2 Bi
+3 61
+
+WASHER, THRUST, 20X0.90 -e.ecesee
+
+1
+
+5
+
+B10
+B6
+C3
+09
+
+PISTON...
+«ss.
+—....
+30 C3
+PULSE ALTERNATOR
+..-.—=s——s«s166,s «BB
+STARTER CLUTCH ..... .ss—s«d16s«BB
+
+45
+
+....14
+
+20
+13
+30
+£2
+
+WASHER, THRUST, 20X0.95 .....2.. [45
+
+cecccceeesccesce
+
+3 GEAR, COUNTERSHAFT LOW (397)
+
+48 C12
+44 C10
+14 B7
+
+5
+
+TO
+
+sage | [Ratner 3] |=| osm
+
+CODE
+
+@4 C10
+
+.....14
+
+FROM
+
+18 BO
+10 BS
+8 B4
+
+....
+
+2525541
+
+23 WASHER, LOCK, 250M .....ccesseeee
+
+Q | PART NUMBER
+
+CARBURETOR ASSY
+
+|23501-MNO-000
+
+S5TE
+
+,
+Seeceeceerereesers
+26 BEARING, NEEDLE, 205% ...2..0se0e
+27 SCREW, FLAT, 6X16 sn
+
+TMAINSHAFT (171)
+
+%
+
+HONDA
+
+1
+
+4
+
+22 WASHER B, THRUST, 254M ......0.00 4 5
+
+mass eat S| at |
+
+No.
+
+A
+
+5
+
+15 GEAR, MAINSHAFT SIXTH (327)
+
+F F A
+0 9 E
+
+ENGINE
+
+DL SERIAL NUMBER
+
+..14
+
+DESCRIPTION
+
+14 GEAR, COUNTERSHAFT FIFTH (267)
+
+peavlheedes
+
+5
+
+CARBURETOR COMPONENT
+CARBURETOR LINK.
+CLUTCH ..
+an
+CRANKCASE COVER. L.
+CRANKCASE COVER. R...
+CRANKSHAFT
+sss
+CROSS SHAFT .
+.
+CYLINDER BLOCK _
+CYLINDER HEAD COVER ..
+
+No.
+
+eewerers
+
+alc
+
+PAGE GRID
+
+ALTERNATOR...
+sdai‘i‘(‘“(‘“y
+CAM CHAIN .
+CAMSHAFT
+._—s—si
+
+y
+
+C6
+
+GEARSHIFT DRUM
+
+4 = VF700S'84
+
+Vivi,
+
+5 = VF7008'85
+
+7
+
+Ole
+
+0
+
+0
+
+Ss
+
+Ret.
+
+No.
+
+BLOCK NO.
+
+4 5|/E|
+
+17 SPRING, GEARSHIFT ARM .....eceee.(4
+
+ow
+
+5 = VE7O0S 8
+
+5 SIA
+
+=
+
+vv
+
+0 OA
+
+s
+
+Ret.
+
+No.
+
+38
+
+BLOCK NO.
+
+gs
+
+E-15/4
+
+DESCRIPTION
+
+;
+
+s
+
+g{C
+
+5
+
+°
+
+4
+
+5]E]|
+
+1 FORK, R. GEARSHIFT .......0cce00e
+
+4
+
+2 FORK, CENTER GEARSHIFT ..........
+3 FORK, L. GEARSHIFT ......cccenene
+4 SHAFT COMP., GEARSHIFT FORK .....
+
+v
+
+ENGINE
+
+SERIAL NUMBER
+
+FROM
+
+TO
+
+R
+
+HONDA
+
+GQ
+
+|PART NUMBER
+
+CODE
+
+5
+
+1
+
+|24211-MB0-870
+
+1716026
+
+4
+
+5
+
+1
+
+|24212-MB4-000
+
+1438043
+
+4
+
+5
+
+1
+
+|24213-mB4-000
+
+1438050
+
+4
+
+5
+
+1
+
+|24261-MB0-010
+
+137245?
+
+|24300-MB0-870
+
+1781624
+
+5 DRUM ASSY., GEARSHIFT .......000.
+
+4
+
+5
+
+1
+
+6 DRUM, GEARSHIFT
+
+.......ccecesens
+
+4
+
+5
+
+1
+
+|24302-MB1-870
+
+1723089
+
+7 PLATE, DRUM CAM oo... ccccscnseces
+
+4
+
+5
+
+1
+
+[24305-B6-000
+
+1708304
+
+8 PLATE A, DRUM 2. cc cececnevceces [4
+
+5
+
+1
+
+|24320-MB0-000
+
+1242916
+
+9 PLATE B, DRUM SETTING ......5000014
+
+5
+
+1
+
+|24321-MB0-000
+
+1262924
+
+10 ARM COMP., NEUTRAL STOPPER ......14
+
+5
+
+1
+
+|24420-MB0-000
+
+1242932
+
+11 ARM COMP., SHIFT DRUM STOPPER ....14
+
+5
+
+1
+
+|24430-MB0-000
+
+1242940
+
+12 COLLAR, GEARSHIFT DRUMSTOPPER ..14
+
+5
+
+1
+
+|24432-413-000
+
+0494336
+
+13 SHAFT, SHIFT DRUM STOPPER PIVOT ..14
+
+5
+
+1
+
+|24434-MB0-000
+
+1242957
+
+14 SPRING, SHIFT DRUM STOPPER ......
+
+4
+
+5
+
+1
+
+|24435-mB0-000
+
+1242965
+
+15 SPRING, NEUTRAL STOPPER .........
+
+4
+
+5
+
+1
+
+|24436-MB0-000
+
+1242973
+
+16 SPINDLE COMP., GEARSHIFT ........1/4
+
+5
+
+1
+
+|24610-mB0-000
+
+1242981
+
+€@ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 ENGINE NO. ; RC22E~2000008 T0 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO £M005012
+VF700S'B4 ENGINE NO.; RC22E~2002575 10 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO £M001081
+
+c7
+
+VF700S'85 ENGINE NO.; RCZ22E~2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RCZ22E~2100001 70 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+Q
+
+TITLE
+
+Y
+
+CAM CHAIN .
+
+T
+
+ENGINE
+SERIAL NUMBER
+FROM
+
+TO
+
+5
+
+a
+
+| Q |PART NUMBER
+1
+
+PAGE GRID
+
+ALTERNATOR .............
+
+[2464 1-MB0-010
+
+18 Be
+
+10 BS
+
+HONDA
+
+CARBURETOR
+ASSY 48 G10
+CARBURETOR COMPONENT a8
+C12
+
+CODE
+
+COTOR LINK
+
+1854047
+
+MA GIO
+
+CRANKCASE COVER. L.
+
+20 B10
+
+CRANKSHAFT ..
+
+30 C3
+
+CRANKCASE COVER, R
+
+13 B6
+
+18 SPRING, GEARSHIFT RETURN ........(4
+
+5
+
+1
+
+|24651-mB0-000
+
+1243005
+
+CROSS SHAFT
+
+19 PIN, SHIFT RETURN SPRING ........ 4
+
+5
+
+1
+
+|24652-259-000
+
+0039461
+
+CYLINDER BLOCK ........
+
+20 BOLT, SPECIAL, 7X18 ...seesereeee
+
+[4
+
+5
+
+1 {9004 1-mB0-000
+
+1263468
+
+CYLNDER
+HEAD
+ROB
+
+21 WASHER, LOCK ....ceesceeeseseens
+
+4
+
+5
+
+1
+
+|90407-"B0-000
+
+1243575
+
+Cserkire
+0
+ee}
+
+22 WASHER, SHIFT DRUM STOPPER ......
+
+4
+
+5
+
+1
+
+|90487-"B0-000
+
+1243666
+
+GEARSHIFT DRUM
+GEARSHF
+
+| 38 C7
+
+23 WASHER, 6X2.3
+
+....cesecesceececs
+
+4
+
+5
+
+1
+
+|90488-mB0-000
+
+1243676
+
+OL. PAN
+PAN _
+Ol.
+
+.
+
+24 WASHER, SPECIAL, OMM ...cscsesees
+
+4
+
+5
+
+1
+
+|90489-mB0-000
+
+1266097
+
+PISTON
+......... an
+PSTON neon
+
+......14
+
+5
+
+1
+
+191008-374-)03
+
+0362855
+
+STARTER CLUTCH...
+
+16 BB
+
+STARTER MOTOR .........
+
+22 Bil
+
+25 BEARING, BALL, 16005 (NTN)
+E14MBOE
+15
+
+Ss
+
+A
+
+a g|C
+E-1514
+5 °
+
+DESCRIPTION
+
+CONTENTS
+
+71k
+
+0
+
+BEARING, 16005 .....sceeccecsoes 4
+
+5
+
+1
+
+191051-719-003
+
+26 ROLLER, 4X13.8 ..... geencueeeees 4
+
+5
+
+6
+
+|91101-"B0-003
+
+e7 SCREW, FLAT, 6X16 Seevetravraresere
+
+4
+
+5
+
+2
+
+93600~-06016-0A
+
+28 NUT, HEX., OMM oe see beeceereseee
+
+4
+
+5
+
+1
+
+29 BOLT, FLANGE, BX32 ...ssesecececs
+
+4
+
+5
+
+BOLT, FLANGE, BX32 ..ccececeeees
+
+4
+
+30 BOLT, FLANGE, 6X16 ..secsceeeeees
+
+4
+
+BOLT, FLANGE, 6X16 ..essecceceees
+
+4
+
+a2 Ce
+
+CYLINDER HEAD COVER
+
+1263823
+
+2 Bs
+
+26 C
+
+38 C7
+
+23 Bit
+BB
+
+3%
+30 C3
+3
+
+TENSIONER.
+
+- 40 BS
+
+1243831
+
+TRANSMISSION
+
+36 CB
+
+0805358
+
+WATER PPE ..._.sdiwjiwjlwju.... 40 ca
+
+[94002-06200
+
+1317015
+
+WATER PUMP ooo 20 B10
+
+1
+
+|95800-08032-00
+
+0768879
+
+5
+
+1
+
+|95801-08032-00
+
+3699352
+
+5
+
+1
+
+|96000-06016-09
+
+1113687
+
+5
+
+1
+
+|96001-06016-00
+
+2105955
+
+—_—
+
+€
+AMERICAN
+HONDA
+MOTOR CO. LTD. 1993
+
+THERMOSTAT .............
+VALVE ....
+
+8 B4
+
+K
+
+GRID
+
+40 CB
+
+C7
+
+Ret
+
+BLOCKNO. E-16|4 § 3
+
+15 HOSE, WATER ..... becucesareecnes
+
+§
+P.
+
+»—¢
+
+3
+
+28
+4 = VF700S'84
+
+No.
+
+BLOCK NO.
+
+DESCRIPTION
+
+ara:
+
+o
+
+2
+
+Oa
+
+v
+
+3
+
+gic
+
+E-16/4 5/5]
+4 SE]
+
+|
+
+SERIA. NUMBER |
+TO
+
+| @ [PART NUMBER
+
+HONDA
+
+4
+
+5
+
+1
+
+|19300-mB0-003
+
+1262155
+
+2 CASE, THERMOSTAT ............005
+
+4
+
+5
+
+1 | 19311-4B1-000
+
+1245646
+
+3 COVER, THERMOSTAT .......cceceee
+
+4
+
+5
+
+1 | 19315-MB0-770
+
+1316595
+
+4 HOSE, CONNECTING ......s.eseeeee 45
+
+4 | 19502-#B4~-000
+
+1386887
+
+6 PIPE, CONNECTING .......0..0.00e
+
+5
+
+45
+
+7 CAPA, CONNECTING ...+.++++0000 45
+
+8 CAP
+B, CONNECTING PIPE ...... +++. 43
+9 WIRE A, GUARD ........ beveeeeeees
+
+4
+
+-
+
+tee, ew fas
+
+17 CLAMP, WATER HOSE ........2.c0e0e
+
+4
+
+--
+
+CLAMP
+A, WATER HOSE ......-...-6 5
+12 CLAMP, WATER HOSE ........0.c0e0e
+
+1
+
+4
+
+|19504-MB0-000
+
+|19507-mB0~000
+
+1 |19508-80-000
+
+1 119509-#B0-000
+1
+
+|19511-mB1~000
+
+1 fsias-o0s
+4
+
+|50228-mB0-000
+
+4
+
+4
+
+(ND) .ecesesecscescscsecascecs
+
+4
+
+| 23 O-RING, 18.3X2.3 (ARAL) .....0.-.
+
+4
+
+1
+
+|19530-mB0-000
+
+1262270
+
+1
+
+|19534-mB2-000
+
+1628119
+
+5
+
+1
+
+|19536-"B0-000
+
+1242296
+
+5
+
+1
+
+|37750-PC 1-006
+
+1130780
+
+1 |43352-568-003
+1 [43353-461-771
+2 !91301-mB0-000
+
+0505735
+0954230
+1263880
+
+5
+
+|19516-48~000
+
+-
+
+2
+
+|91301-147-023
+
+1260827
+
+1
+
+|91315-mB0-013
+
+4
+
+5
+
+4
+
+|91335-567-000
+
+0422428
+
+27 WASHER, PLAIN, GMM ......-..0000614
+
+5
+
+1
+
+194101-06000
+
+0059071
+
+1 194101-06080
+
+1 |94101-06800
+2
+
+|95700-06022-00
+
+0483925
+
+5
+
+2
+
+|95701-06022-00
+
+2105823
+
+4
+
+5
+
+2
+
+|96000-06014-00
+
+0782854
+
+BOLT, FLANGE, 6X16 ........eceee 4
+
+5
+
+2
+
+|96061-06014-00
+
+2154672
+
+‘5
+
++
+
+2105955
+
+1292234
+
+1245661
+
+52 BOLT, FLINGE, 6X25 «............
+
++
+
+BOLT, FLANGE, 6X22 ...sceeseeaeee 4 5
+
+as
+
+uae || BET PUKE, RS oversee -
+
+2
+
+|19506-KA4~000
+| 19517-MB6~000
+
+1742610
+
+13 PIPE A, WATER oo. ..cecccecsceeces
+
+4
+
+5
+
+1
+
+|19520-mB0~000
+
+1262267
+
+1113687
+
+|96001-06016-00
+
+2 |96000-06022-07
+
+2
+
+0345900
+
+BOLT, FLANGE, 6X22 .......ccceuee 4
+
+31 BOLT, FLANGE, 6X22 ....eseeeeeeee 4 5
+
+5
+
+3136074
+
+5
+
+1ehee13
+
+--
+
+1635239
+
+4
+
+1 |96000-06016-00
+
+2 |96001-06022-07
+
+2105971
+
+|96000-06025-07
+
+1251961
+
+4
+
+5
+
++ or-eucsar
+1
+
+|96000-06035-07
+
+259
+
+BOLT, FLANGE, 6X35 ........000 wL4
+
+5
+
+1
+
+|96001-06035-07
+
+2533891
+
+33 BOLT, FLANGE, 6X35 ....... bevaees
+
+PAGE GRID
+18 BS
+
+0807362
+
+1039635
+
+& AMERICAN HONDA MOTOR CO. LTD 1993
+
+Ce
+
+& AMERICAN
+HONDA MOTOR CO. LTD 1993
+
+41
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S "BS FRAME NO.; RC220-FM100001 TO FM102800
+
+VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103285
+VF700S ‘85 FRAME NO.; RC221-FM100001 TO FM100863
+
+10
+8
+44
+48
+
+BS
+Bs
+C10
+C12
+
+44 C10
+14 B7
+20 810
+
+1005453
+
+1 |191307-"B0-003
+
+26 O-RING, 13X2.5 ..cecesnscecences
+
+BOLT, FLANGE, 6X16 -ccccecececees
+
+5760222
+
+1245679
+
+5
+
+30 BOLT, FLANGE, 6X16 .......ceeeees 4 5
+
+1263328
+
+CODE
+1242254
+
+25 SEAL, WATER PIPE ..........es000- 4
+
+29 BOLT, FLANGE, 6X14 .......ccencee
+
+1eeeee1
+
+4
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EMO0S012
+VF700S'B4 ENGINE NO. ; RC22E~2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-£M000006 TO EM001081
+
+18 HOSE B, WATER ......sceceecnseeee
+
+28 BOLT, FLANGE, 5X22 ....eceveneeee
+
+1242205
+
+--
+
+a
+
+5
+
+WASHER, PLAIN, OMB ........cceeee 4 5
+
+1242197
+
+.........000-
+
+CLAMPB, WATER HOSE
+
+5
+
+4
+
+TO | Q |PART NUMBER
+1 |19524-mB0-000
+
+|
+
+CAMSHAFT .
+CARBURETOR ASSY
+CARBURETOR COMPONENT
+CARBURETOR LINK
+CLUTCH
+CRANKCASE COVER. L.
+CRANKCASE COVER, R.
+CRANKSHAFT
+CROSS SHAFT
+CYLINDER BLOCK
+
+HONDA
+
+|19526-"B1-000
+
+WASHER, PLAIN, GMM .........cc00- 4 5
+
+CODE
+
+T THERMOSTAT ....ccececeeesceceees
+
+> PIPE, WATER QUTLET CONNECTING ...) 4
+
+4
+
+17 CLAMPB, WATER PIPE ..........00.
+
+R
+1
+
+24 O-RING, 5X2 ....-esececeeceeees 4 5
+
+ENGINE
+
+FROM
+
+5
+
+20 SCREW, BLEEDER .......cececeeeee 4 5
+21 CAP, BLEEDER SCREW ......csceeeee 4 5
+22 GASKET, CONNECTING CAP .......... 4 5
+erampoete|
+
+vivi.
+
+5 = VF700S'6S
+
+Ret
+
+°
+
+8
+i
+
+4
+
+16 PIPE B, WATER .....c.csceeceseees
+
+19 SENDING UNIT, WATER TEMPERATURE
+
+|
+
+r)
+Ey
+
+SERIAL NUMBER
+
+No.
+DESCRIPTION
+4 5/E| FROM
+14 CLAMP A, WATER PIPE .......0.e004 4 5
+
+CAM CHAIN
+
+GRID
+
+cs
+
+o
+
+“th
+
+2 ee | oe
+he
+
+y
+
+Ra SSB ertsaunBrssa
+
+19
+
+s|A
+
+SELLE
+
+Sp
+—@p
+
+*
+
+5
+
+TITLE
+ALTERNATOR
+
+@
+
+om |
+
+e Ela
+
+—_
+
+Z
+
+a vEvoos'es
+
+88ans8S
+
+WATER PIPE e THERMOSTAT
+
+CROSS SHAFT
+
+5 = VF700885
+
+Ret
+
+YE
+
+BLOCK NO.
+
+No.
+
+DESCRIPTION
+
+9 SHIM, CROSS SHAFT (0.60)
+
+4 = VF700S'84
+5 = VF700S'85
+
+-
+
+Fie
+
+KE
+7
+0
+
+aiockn
+
+Q
+
+s s|*
+a gic
+17|2
+2/8]
+
+y
+
+261 2
+
+come ae arsenate ; ;
+nace eee nor eum Ttteteeseaes a
+
+| 8
+
+enon
+
+1&
+
+To
+
+—
+
+leant NUMBER
+
+CONE
+
+; vthesbo-tny
+ee met.m0
+
+vocoesr
+wz3087
+
+4
+
+5 GASKET, SIDE GEAR CASE .......... 4
+
+6 HOLDER, COUNTERSHAFT BEARING ....14
+7 SHIM, COUNTERSHAFT (0.40) ......- 4
+SHIM, COUNTERSHAFT (0.45) ......./4
+
+5
+
+1
+
+|21200-mB0-000
+
+1242342
+
+5
+
+1
+
+|21291-mB0-770
+
+5
+5
+5
+
+1 |21301-"B0-000
+AR |21321-MB0-770
+aR |21322-"80-770
+
+SHIM, COUNTERSHAFT (0.50) ...... 145
+
+AR |21323-MB0-770
+
+SHIM, COUNTERSHAFT (0.55) ...... 145
+
+AR
+
+SHIM, COUNTERSHAFT (0.60) ...... 145
+
+|21324-MB0-770
+
+Oo
+
+0
+
+T
+
+Ss
+
+§
+
+8
+
+B
+
+5
+
+Cc
+
+e
+
+ENGINE
+
+SERIAL NUMBER
+
+FROM
+
+TO
+
+PAGE GRID
+
+ALTERNATOR
+
+Y
+
+Canaan bee
+
+a
+
+Q |PART NUMBER
+
+.
+
+ee eee
+
+AR
+
+|21325-MBO-770
+
+1290881
+
+5
+
+1
+
+121371-mB0-000
+
+1262510
+
+9 SHIM, CROSS SHAFT (0.40)
+
+.....--.
+
+45
+
+AR
+
+|21381-MB0-770
+
+1290907
+
+SHIM, CROSS SHAFT (0.45)
+
+........
+
+4
+
+5
+
+AR
+
+|21382-MB0-770
+
+1290931
+
+SHIM, CROSS SHAFT (0.50)
+
+......2.
+
+4
+
+5
+
+AR
+
+|21383-MBO-770
+
+1290949
+
+SHIM, CROSS SHAFT (0.55)
+
+..... wlG
+
+5
+
+AR
+
+|21384-MB0-770
+
+1290956
+
+© AMERICAN HONDA MOTOR CO. LTD. 1903
+
+CODE
+
+CTC COR LINK
+
+“or
+
+CRANKCASE COVER.
+L.
+
+.
+
+20 B10
+
+_
+
+42 C9
+
+§
+
+AR
+
+|21385-"B0-770
+
+1290980
+
+CRANKCASE COVER. R
+
+10 SHAFT SET, CROSS .....ccceccnsces
+
+4
+
+5
+
+1
+
+|23200-MB0-870
+
+1723105
+
+11 BOLT, UBS, 8X100 ......seceeeeeee 4
+
+CROSS SHAFT
+
+5
+
+2
+
+[90004-42200
+
+12 ORIFICE, OIL CONTROL .......e000 4
+
+0690537
+
+CYLINDER neeccoven
+
+5
+
+13 BOLT, SOCKET, 8X22 ....-..0e0.. la
+
+1
+
+|90069-nB0-000
+
+1243484
+
+5
+
+CYLINDER HEAD ER
+
+4
+
+190061-"g0-000
+
+1243500
+
+GASKET KIT A
+
+14 BOLT, ,
+FLANGE SOCKET, 8X85
+
+VF700S'8S ENGINE NO.; RC2ZE-2100001 TO 2103668
+VE700S'BS FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+13 BE
+
+8 St
+
+a
+50 01
+
+Gasrer «ra
+
+£0 OF
+
+GEARSHIFT DRUM
+
+.
+
+38
+
+C7
+
+.......
+
+4
+
+5
+
+2
+
+190062~#80-000
+
+1263518
+
+GEARSHEFT
+
+DFM
+
+38 C7
+
+15 BOLT, UBS, BX60 .....ececececeees
+
+4
+
+5
+
+1
+
+|90063-mB0-003
+
+1243526
+
+OW PAN...
+|...
+Ol
+PAN
+
+23 B11
+Bn
+
+16 NUT, LOCK, 304@ ......cecececeses
+
+4
+
+5
+
+2 19026 1-mB0~000
+
+1243559
+
+PISTON
+
+30 63
+
+17 NUT, LOCK, 640M oo... cece nc evnes
+
+4
+
+5
+
+2
+
+1243567
+
+18 ORIFICE, PIN, 10X16 .......ee0e0. 4
+
+| 19 BEARING, BALL, 5206 (TOYO) ...... 4
+......
+
+4
+
+5
+
+5
+
+5
+
+|90242-mB0-000
+
+|91008-300-008
+
+0315358
+
+TRANSMISSION
+
+1243757
+
++
+
+191011-"e0~-004
+
+1243765
+
+5
+
+1
+
+|91012-"B0-003
+
+5
+
+1
+
+91204-#B0-003
+
+1243773
+i
+1334099
+
+1 191206-B0-013
+
+2952943
+
+23 OIL SEAL, 25X66X8.5 (ARAL)
+
+5
+
+O-RING,
+
+ow
+
+ccc cee eeeeeenes
+
+4
+
+5
+
+Ls
+
+“oeeeeeeceseeeseees
+
+26 BOLT, FLANGE, BX65 ......+.+.+0+e 43
+BOLT, FLANGE, BX63 «---ss+eeereee ‘>
+27 BOLT, FLANGE, 6X28 ........+.-44. 4 5
+BOLT, FLANGE, 6X28 ...... re ee
+
+40 C8
+
+1
+
+5
+
+4
+
+22 B11
+
+THERMOSTAT
+
+TENSIONER
+
+'91011-"B0-003
+
+1
+
+|91205-"B0-771
+
+1
+
+91314-410-000
+
++ [91205-67~003
++ 191308~MB0~003
++
+
+1690767
+
+1
+
+195700-08065~00
+
+0671230
+
+1
+2
+
+3
+195701-08065-00
+|96000-06028-00
+
+|96001-06028-00
+
+ses
+
+a"; CB
+. 20 B10
+
+1312776
+
+0483826
+
+2
+
+WATER PIPE
+WATER PUMP
+
+40 BS
+
+4562646
+1260835
+
+lowsics
+
+"
+2529193
+ores0re
+2106003
+
+. AMERICAN
+HONDA MOTOR CO. LTD. 1963
+
+16 BB
+
+STARTER MOTOR .._—sdzi....
+
+1243732
+
+1
+.
+
+16 B8
+
+STARTER CLUTCH
+
+|90703-80~000
+
+4
+
+......
+
+PULSE ALTERNATOR
+
+1
+
+21 BEARING, RADIAL BALL, 5206 ...... 4
+— 4
+22 OIL SEAL, BX25XB .....ececececece
+
+.
+
+ce
+
+BS
+
+% aS
+
+CARBURETOR SOS CONENT a3 oie
+
+1290865
+
+4
+
+18
+
+RBURET RASY
+
+HONDA
+
+4
+
+25 O-RING, 3X70...
+
+1290857
+
+TME
+
+.....00.
+
+OIL SEAL, 25X66X8.5 (ARAL) oo... 6 5
+24 O-RING, 5.7X2.2 (ARAL) eeesecese 4 5
+
+1290758
+
+A
+
+5|e€]
+
+OIL SEAL, 8X25X8 (ARAL) ......004 4 5
+
+1245687
+1290824
+1290832
+
+8 HOLDER, CROSS SHAFT BEARING .....
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 FRAME NO. RC220-EM000007 TO £M005012
+VF700S'84 ENGINE NO.; RC22E-2002575 10 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO £M001081
+
+Ole
+
+0
+
+4
+
+BEARING, BALL, 6303 (TOYO)
+
+ES eaten
+ees
+
+4 CASE COMP., SIDE GEAR ........-0.
+
+42
+
+ENGINE
+semmcnoween
+
+6
+
+£-1714
+
+20 BEARING, BALL, 6303 (KOYO) ......
+
+Ole
+
+DESCRIPTION
+
+07 OU
+
+cee}
+
+gla
+7IR
+
+CONTENTS
+
+43
+
+GRID
+
+C9
+
+CARBURETOR ASSY. e CARBURETOR LINK
+
+4 = VF700S'84
+
+Vivi.
+
+5 = VF700S'85
+
+7
+
+Ole
+
+s
+
+s
+
+8
+
+a
+
+0
+
+Ret.
+
+No.
+
+BLOCK NO.
+
+DESCRIPTION
+
+4 = VF700S'84
+
+Mo
+
+x
+
+5 = VF700S'85
+
+7
+
+7IR
+
+Ret.
+
+BLOCK NO.
+
+1 LEVER SETA, LINK
+
+44
+
+E£-18/4
+
+DESCRIPTION
+
+5
+
+6
+
+4
+
+5]£{
+
+SERIAL NUMBER
+
+a
+
+Q
+
+|PART NUMBER
+
+CODE
+
+TO
+
+HONDA
+
+....cccecevenee
+
+4
+
+5
+
+1
+
+| 16017-B0-672
+
+1635247
+
+4
+
+5
+
+2 | 16018-MB0-671
+
+1241793
+
+LINK SETA, STARTER .....sccceee.
+
+4
+
+5
+
+2 | 16018-MK3-771
+
+2536555
+
+2 | 16019-MB0-671
+
+124 1801
+
+3 ROD SET A, STARTER LINK ..........
+
+4
+
+5
+
+4 JOINT SET C, FUEL
+
+eee
+
+4
+
+5
+
+1
+
+| 16022-MB1-771
+
+1313964
+
+5 LINK SET B, STARTER .......cce00-
+
+4
+
+5
+
+1 | 16025-MB0-671
+
+1241819
+
+LINK SET B, STARTER .......cccess
+
+4
+
+5
+
+1
+
+| 16025-MK3-771
+
+2536563
+
+eee
+
+6 JOINT SETA, FUEL
+
+.......
+cc encace
+
+4
+
+5
+
+1
+
+| 16026-MB0-671
+
+1241827
+
+? JOINT SET E, FUEL
+
+2... ..ccnceene
+
+4
+
+5
+
+1 | 16027-MB2-004
+
+1723113
+
+8 SCREW SET (B) ........ ea eeceenees
+
+4
+
+5
+
+1 | 16028-KR3-671
+
+CODE
+
+5
+
+8
+
+|16080-MB0-671
+
+1241959
+
+15 PLATE, SETTING
+
+4
+
+5
+
+..... se eeaceeeece
+
+PAGE GRID
+
+_ 18 B9
+
+CARBURETOR ASSY........ 44 C10
+CARBURETOR COMPONENT
+
+48 C12
+
+CLUTCR INK
+
+44 C10
+
+CRANKCASE COVER. L
+
+....
+
+20 B10
+
+CRANKCASE COVER.R.....
+CRANKSHAFT =...
+
+13 B6
+30 C3
+
+CROSS SHAFT _..
+
+82 C9
+
+CYLINDER BLOCK
+
+.
+
+.........
+
+CYLINDER
+HEAD COVER ..
+
+26 C1
+2 Bt
+
+1
+
+| 16096-MB0-671
+
+1241967
+
+CYLINDER HEAD. FR...
+
+3 Bi
+
+1
+2106014 | 1
+
+|16100-"B0-87
+1
+|16100-MB0-871
+
+1780980
+1780980
+
+GASKET KIT A
+GASKET KIT B
+
+_
+
+60 DI
+51 D1
+
+1
+
+116100-mB0-872
+
+GEARSHIFT DRUM
+
+|16100-MB0~872
+
+OIL FILTER
+
+_
+
+2106014 | 1
+
+2424554
+
+CYLINDER HEAD. RR...
+
+6 83
+
+.. ccc cnc ucerees
+
+4 --IA
+“~ STA | ~-=----
+
+CARBURETOR ASSY.
+
+..... ow ennensne
+
+4
+
+SIA
+
+“~~
+
+SA | were n-
+
+2626554
+
+OWL PAN ..
+
+.. cc ccnwcnccens
+
+4
+
+SIAC
+
+1
+
+|16100-"B0-881
+
+1780998
+
+PISTON...
+
+17 CARBURETOR ASSY. 1. . cccccacncee
+
+4
+
+=i
+
+1
+
+[|16101~B0-871
+
+1781004
+
+1781004
+
+STARTER MOTOR... 22 B11
+
+4
+
+--IA
+
+--
+
+1
+
+STA | ~------
+
+116101-"80-872
+
+2431930
+
+THERMOSTAT .............
+
+40 C8
+
+4
+
+5
+
+CARBURETOR ASSY. 1 wo. cccwccccens
+
+A
+
+-- S5}A|-------
+
+CARBURETOR ASSY. 2 wc. ccacccceres
+
+CARBURETOR ASSY. 2 ...ccccnccccee
+
+19 CARBURETOR ASSY. 3
+1...
+cnc
+cccnnce
+CARBURETOR ASSY. 3 ..cccccccccuce
+
+CARBURETOR ASSY. 3 2... .ccnccceccs
+
+20 CARBURETOR ASSY. 4
+2...
+ccc
+cccce
+CARBURETOR ASSY. 4 ....cnccenucce
+
+5
+
+|16101-"B0-872
+
+1
+
+|16101-"B0-881
+
+1784012
+
+WATER PUMP ...
+
+20 B10
+
+1
+|16102-"B0-871
+VO5OEB | 1 | 16102-"B0-871
+
+1781020
+1781020
+
+1
+VD50EB | 1
+------- | 1
+
+|16102-480-872
+|16102-"B0-872
+[16102-"B0-872
+
+2431948
+2431968
+2431968
+
+~------
+
+: 16102-"B0-881
+
+1781038
+
+-------
+
+116103-B0~871
+|16103-"B0-871
+
+1781046
+1781046
+
+4 --TA
+-- STA]
+
+1
+VO50EB8 | 1
+
+116103-"B0-872
+
+--~----
+
+2431955
+
+—
+
+5S|A|VDSOEC
+
+&
+
+51/AC
+
+4 --|A
+“- S|A | -c---~4
+
+--IA
+
+“~~
+“-
+
+S|A | w-----S|1A|
+VDSOEC
+
+4
+
+5
+
+1241835
+
+5
+
+1 | 16031-MBO-671
+
+1241850
+
+10 ROD SET B, STARTER LINK ........0.
+
+21 FUNNEL, AIR
+
+4
+
+..sccccucccvcccceese | &
+
+5
+
+5
+
+1 | 16032-MB0-671
+
+1241868
+
+11 PLATE SET, STAY ....cceeeee concer
+
+[4
+
+5
+
+22 PIN, KNOCK .......0s- eaeovencees | 4
+
+5
+
+1
+
+| 16035-MB0-671
+
+1241876
+
+12 JOINT SET D, FUEL
+
+4
+
+23 T-JOINT ..... ae eaeveeneenutuseee
+
+5
+
+5
+
+1
+
+|16062-MB1-771
+
+1313972
+
+4
+
+{ac
+
+{ac
+
+10 85
+
+% 5°
+
+1
+vD5SOEB | 1
+
+4
+
+TENSIONER. sts
+
+ESSN
+
+1
+
+| 16028-MB0-671
+
+-s«16 BB
+
+STARTER CLUTCH... .ss—s—s16 BB
+
+2431930
+
+AC
+
+1
+
+23 B11
+
+90 3
+
+2431930
+
+4 --IA
+—- STA]
+
+5
+
+CARBURETOR ASSY. 4 ...e0e. we weees
+
+VD50EB | 1
+
+|16101-mB0-871
+
+PULSE ALTERNATOR
+
+.
+
+_ 23 BI
+
+|16101-mB0-872
+
+4 --|A
+=~ S|A | ~-----“~~ 5S|A]
+VDSOEC
+4
+
+vp50E8 | 1
+
+Ol PUMP .
+
+38 C7
+
+23 B14
+
+VDSOEC 9 ------- | 1
+
+aC
+
+4 --1A
+~~ 5
+]A]
+
+4
+
+---~-— | 1
+
+|16103-"B0-872
+
+1[16103-B0-872
+
+ce
+
+2431955
+
+2431955
+
+1
+
+116103-"80-881
+
+1781053
+
+1
+VD50EB | 1
+
+[16104-B0-871
+|16104-MB0-871
+
+1781061
+1781061
+
+1
+
+116104-B0-872
+
+2431963
+
+VD50E B | 1
+|16104-"B0-872
+------- | 1 1 16104-mB0-872
+
+WATER POG
+
+2431963
+2431963
+
+1
+
+116104-B80-881
+
+1781079
+
+&
+
+|16141-80-672
+
+1317064
+
+8
+
+|16178-"B0-671
+
+1244177
+
+2
+
+|16180-MB2-881
+
+1707868
+
+C10
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF?00S"85 ENGINE NO.; RC22E~2100001 TO 2103285
+VF700S°8S FRAME NO.; RC221-FM100001 TO FM100863
+
+10 BS
+
+16 CARBURETOR ASSY.
+
+SCREW SET (B) .. ca secsccccccccens
+
+VF700S "84 ENGINE NO.; RC22E~-2000008 70 2005978
+VF700S "84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S "84 ENGINE NO.; RC22E~2002575 10 2006097
+VF700S "84 FRAME NO.; RC221-EM000006 TO £M001081
+
+TO | Q |PART NUMBER
+
+4
+
+2039949
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+HONDA
+
+16 SCREW, PAN ..cccceccues ween naces
+
+9 LINK SET C, STARTER ......0005 eee
+
+oo... cscs eeee
+
+FROM
+
+a
+
+1384965
+1384965
+
+ENGINE
+
+FROM
+
+ENGINE
+
+SERIAL NUMBER
+
+|16047-MB0-771
+116047-"B0-771
+
+—- 5|A|
+
+2 LINK SETA, STARTER .......0ce08
+
+2.
+
+4 5{E|
+
+CAMCHAIN..............
+
+ALTERNATOR
+
+2
+1
+
+18 CARBURETOR ASSY. 2 wc sccccncccace
+
+No.
+
+|C
+
+C
+
+TITLE
+
+Y
+
+S5|A
+SAC
+
+A
+
+Bic
+
+§
+
+Q
+
+rT
+
+4
+4
+
+CARBURETOR ASSY. 1 .cccsscecccece
+
+gs
+
+Ol”
+
+13 JOINT SET B, FUEL ...ecceecccccs
+
+CARBURETOR ASSY.
+
+18
+E14MB0E
+
+E-18}4
+
+CONTENTS
+
+7IR
+
+0
+
+GRID
+
+C10
+
+4 = VE700S'B4
+
+CARBURETOR ASSY. e CARBURETOR LINK
+
+Viv
+
+5 = VF700S'85
+
+ae
+
+0
+
+0
+
+s
+
+s
+
+Ret
+
+No.
+
+BLOCK NO.
+
+g
+
+€-18)4
+
+DESCRIPTION
+
+BIC
+
+5
+
+6
+
+4:5/€]|
+
+TITLE
+
+e
+
+o off
+
+¥
+
+CAMSHAFT
+
+ENGINE
+
+SERIAL NUMBER
+
+a
+
+FROM
+
+Q
+
+|PART NUMBER
+
+CODE
+
+TO
+
+PAGE GRID
+
+ALTERMATOR .............
+CAM CHAIN ...............
+
+HONDA
+
+..............
+
+CARBURETOR ASSY........
+CARBURETOR COMPONENT
+
+CARBURETOR LINK ........
+
+CLUTCH Oo,
+CRANKCASE COVER L.
+CRANKCASE COVER.R......
+CRANKSHAFT _.
+
+0451807
+
+35 TUBE, 3.5X80 (BULK HOSE:
+95001-35003-40M) ....veseceees | 4
+
+5
+
+{AC
+
+1
+
+|95001-35080-40
+
+0692087
+
+5
+
+{AC
+
+1
+
+|95001-35 180-40
+
+0335109
+
+4
+
+5
+
+TAC
+
+1
+
+195001-35200-40
+
+0371948
+
+23 B11
+23 611
+23 B11
+
+4
+
+5
+
+yac
+
+1
+
+[95001-35210-40
+
+0299768
+
+39 CLIP, TUBE, B7 2... seu guncacees
+
+4
+
+SIAC
+
+8
+
+|95002-02070
+
+0250639
+
+30 C3
+Ba
+Bs
+
+40 CLIP, TUBE, B10 12... cccuscurees
+
+4
+
+5
+
+4
+
+|95002-02100
+
+0250985
+
+41 CLIP, TUBE, B12 .....ecncncnccnes
+
+4°5
+
+2
+
+198002-02120
+
+0335034
+
+42 CLIP, BREATHER TUBE ......scecese
+
+4
+
+5
+
+]ac
+
+2
+
+|15772-500-010
+
+0346569
+
+CLIP, BREATHER TUBE ......cececee
+
+4
+
+5
+
+ac
+
+2 | 15772-500-013
+
+0484089
+
+CROSS SHAFT .
+
+CYLINDER BLOCK .........
+CYLINDER HEAD COVER ...
+CYLINDER HEAD. RR
+
+......
+
+Leas
+
+38 TUBE, 3.5X210 (BULK HOSE:
+
+95001-35001-40m) ...... puanves
+
+P
+
+Fle
+
+0.0
+
+0s Ol,
+s
+
+Ret.
+No.
+
+BLOCK NO.
+DESCRIPTION
+
+8
+£-18/4
+4
+
+24 BASE, AIR CLEANER ........0c000ee
+
+BASE, AIR CLEANER .........02000.
+
+8 c
+5/0]
+
+5]E|
+
+ty
+
+ENGINE
+a
+SERIAL NUMBER | F
+FROM
+TO
+Q
+
+4 --|A
+~- S|A]------~- S]A]
+VDSOEC
+4
+
+--|A
+
+~-
+
+SA]
+
+|PART NUMBER
+
+HONDA
+CODE
+
+1
+|16188-MB0-871
+VD50EB | 1 | 16188-MB0-871
+~------ | 1 | 16188-"B0-871
+
+2441095
+2441095
+2441095
+
+1
+
+-------
+
+| 16188-"B1-672
+
+VO50EB | 1 | 16188-"B1-672
+
+4ac
+
+BS
+ce
+Cé
+B4
+
+cs
+B10
+
+1442201
+
+4
+
+5
+
+fac
+
+1
+
+|16188-"B0-881
+
+1781178
+
+25 TUBE wc cecsensccaccccaccecccues
+
+4
+
+5
+
+AC
+
+1
+
+|16198-"B1~881
+
+1781186
+
+26 TUBE 2... ccsecncseccscccccce eoeee | 4
+
+5
+
+JAC
+
+1
+
+|16199-"B1~-881
+
+1707884
+
+27 TUBE, AIR VENT ......csccccecccns
+
+4
+
+5
+
+1
+
+|16199-MB4~621
+
+1426097
+
+28 VALVE COMP., PURGE CONTROL ......
+
+4
+
+5
+
+ac
+
+1
+
+| 17440-"B4~-880
+
+1546282
+
+MOUNTING ....cccssccscecucces -14
+
+5
+
+Jac
+
+1
+
+|17451-ME5~760
+
+1557156
+
+4
+4
+
+SIA
+5 Jac
+
+1
+2
+
+193892-04010-00
+[93892-04010-00
+
+0962985
+0962985
+
+31 SCREW-WASHER, 4X12... cece eee
+
+4
+
+5
+
+1
+
+|93892-04014~-00
+
+0692046
+
+32 SCREW-WASHER, 5X8 1.00...
+ccc cee
+
+4
+
+5
+
+1
+
+|93892-05008-08
+
+0791335
+
+33 SCREW-WASHER, 5X12 ........cceee
+
+4
+
+5
+
+1
+
+|93892-05012-00
+
+0691808
+
+29 RUBBER, PURGE CONTROL VALVE
+
+30 SCREW-WASHER, 4X10 ......
+een ceee
+
+46
+
+& AMERICAN HONDA MOTOR CO. LTD. 1983
+
+VF700S "84 ENGINE NO.; RC22E~2000008 TO 2005978
+
+VF700S ‘84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S "84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S "84 FRAME NO.; RCZ21-EM000006 TO EM001081
+
+C1
+
+% AMERICAN HONDA MOTOR CO. LTD. 1983
+
+VF700S'85 ENGINE NO.; RC2ZE-2100001 TO 2103668
+
+VF700S'85 FRAME NO.; RC220-F®100001 TO FM102800
+VF700S'B5 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO. ; RC221~F100001 TO FM100863
+
+6 BS
+50 D1
+51 D1
+38 C7
+
+B11
+
+1442201
+
+BASE, AIR CLEANER ........cceneee
+
+14 B7
+20 B10
+13 B6
+30 cs
+42 cg
+26 C1
+2 Bi
+3 Bi
+
+|95001-35070-40
+
+95001-35001-40M) .... enue esses
+
+Vv,
+
+44 c10
+
+1
+
+37 TUBE, 3.5X200 (BULK HOSE:
+
+5 = VF700S'85
+
+48 C12
+
+SIAC
+
+95001-3500 1-40M) ...cecccceeee | 4
+
+4 = VF700S'84
+
+8 B4
+
+44 C10
+
+34 TUBE, 3.5X70 (BULK HOSE:
+95001~35003-40M) ...cecceuceee|4&
+
+36 TUBE, 3.5X180 (BULK HOSE:
+
+E14MBNE18
+
+1B BO
+10 85
+
+ci
+
+CARBURETOR COMPONENT
+
+,
+a = Vevooees
+
+EF EIA
+
+Ret.
+
+BLOCK NO.
+
+No.
+
+DESCRIPTION
+
+13 TOP COMP, eee eee ee ee eee eee meme
+
+.
+
+aockno,
+
+het
+
+ole
+
+Q
+
+s s|A
+
+y
+
+B
+
+Bic
+
+E167|2
+
+DESCRIPTION
+
+8/5]
+
+2 ee
+
+ENGINE
+
+scram Nomeen
+
+nom
+
+To
+
+|
+
+eat ny rereeeeceeteserenenes ; | : i.
+GASKET SET
+
+reeneeeeenerecereceee
+
+| © leary NUMBER
+
+iu cotocman-ey
+
+; shotocmae co
+
+|16010-MB4~622
+
+2249340
+
+..sseceseesseeeeeeeee
+
+4
+
+5
+
+[AC
+
+4
+
+|16010-MB6-305
+
+3911518
+
+5 {ac
+
+4
+
+|16010-mB6~681
+
+2 VALVE SET, FLOAT ..sssssseeseneee 4
+
+2076362
+
+5
+
+4
+
+|16011-MB1-671
+
+1435254
+
+3 FLOAT SET
+
+5
+
+4
+
+|16013-MB0-671
+
+1261751
+
+4 CHAMBER SET, FLOAT ...... ceseeeee | 4: 5
+
+4
+
+|16015-MB0-671
+
+1241769
+
+5 SCREW SETA ....ceceeeen veveseven
+
+|
+
+5
+
+4
+
+|16016-MF5-671
+
+1438027
+
+6 SCREWSETC .......00 biseeaeeese
+
+4
+
+5
+
+3
+
+|16029-MB0~671
+
+1261843
+
+7 PLATE SET, VALVE ...ccseseceeees [4
+
+5
+
+4
+
+|16037-MB0-671
+
+1241884
+
+8 VALVE SET, STARTER seeseesssseeeny
+
+5
+
+4
+
+|16046-MA6~003
+
+1261892
+
+9 SPRING, FR. VACUUM PISTON .......14
+
+5
+
+2
+
+|16050-MB0-671
+
+1241918
+
+10 SPRING, RR. VACUUM PISTON .......14
+
+5
+
+2
+
+|16051-MB0-671
+
+1241926
+
+3 | 16052-MB0-671
+
+1241934
+
+46
+
+& AMERICAN HONDA MOTOR COQ. LTD. 1993
+
+VF700S "84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+VF700S'8S ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S"85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC2ZE~2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+A
+
+E
+
+HONDA
+
+TO | Q [PART NUMBER
+4
+
+16 107-KE8-004
+
+CARBURETOR ASV.
+
+as G10
+
+CARBURETOR COMPONENT
+
+48 C12
+
+CODE
+
+CLUTOR LINK «44 Gio
+
+1241942
+
+CRANKCASE COVER,
+
+CRANKCASE COVER,
+L.
+
+.
+
+R......
+
+CRANKSHAFT .............
+
+20
+
+B10
+
+13 B6
+
+30 63
+
+1540301
+
+CROSS SHAFT a a ee ed 42 cg
+
+1262023
+
+CYLINDE
+HEAD COVERR eh
+
+|16108-ME5-671
+
+1365378
+
+CYLINDER
+HEAD Ae Bs
+
+4: 5
+
+4
+
+|16111-B0-871
+
+1781087
+
+Croker
+MTR
+oo, 2B
+
+15 NEEDLE, FR. JET .eseeeseseeeeneee | 4 . 5
+
+2
+
+|16131-MB0-701
+
+1781103
+
+GEARSHIFT DRUM .........
+
+38 C7
+GEARSHIFT
+DRUM 38 C7
+.
+
+4
+
+5
+
+2
+
+116151-"B0-771
+
+1317098
+
+O8 PAN ooo ever rnneees
+
+OIL PAN .....02 000000...
+
+23 B11
+
+[5
+
+2
+
+|16131-m80-701
+
+1781103
+
+PISTON
+20000002
+ee.
+PISTON ooo
+
+30
+30 C3
+C3
+
+4
+
+2
+
+|16131-MB0-871
+
+1781111
+
+5
+
+TM
+
+JET, NEEDLE (F) oocc cccecseeues 1455
+
+2
+
+|16131-MB3-881
+
+NEEDLE, RR. JET ceececeececeeeees 4
+
+1782994
+
+2
+
+|16151-MB0-771
+
+1317098
+
+5
+
+JET, NEEDLE (F) ..cceseseececcees 45
+KIO
+
+SCREW, PAN, 4X10
+
+.cesaccenceneces
+....
+
+J. ccceccesceseees
+
+2 | 16151-mB0-881
+
+|
+
+4:5
+
+| 16155-MB0-871
+
+1781137,
+
+5
+
+2
+
+|16167-MB0-871
+
+1781152
+
+4's
+
+16
+
+|93500-04010-0A
+
+018835
+
+|
+
+4:5
+
+[AC
+
+JET, MAIN #130 ..ccsececescssvee| 4
+JET,
+
+SECONDARY Mazn coro
+
+,
+
+a0
+
+JET, SECONDARY MAIN, #130
+
+STA
+
+as
+
+lac
+
+|
+
+...... 4
+
+0692053
+
+2
+
+199101-393-0950
+
+0481861
+
+2 |99101-393-0980
+
+0476697
+
+2 |99101-393-1220
+199101-393-1300
+
+\sor02-393-0980
+
+0621
+
+>
+
+|y0102-363-1300
+
+1782663
+
+4
+
+/99705°457-0800
+
+317106
+
+3A
+
+25 JET, SLOW, #40 se eeeerererereees +9
+
+16 BB
+22 Bl)
+
+THERMOSTAT .............
+
+40 C8
+
+WATER PPE I ab
+
+WATER PUMP
+
+|| |WATER PUMP
+
+.....
+
+......-......
+
+1265271
+
+7
+
+© AMERICAN HONDA MOTOR CO, LTD. 1993
+
+10 BS
+
+TRANSMISSION 00, 36 C6
+
+1390491
+
+2
+
+>
+
+STARTER CLUTCH .........
+
+9
+
+16 |93892-04016-00
+
+23 B11
+
+STARTER MOTOR .........
+
+TENSIONER «20... ss,
+
+1781129
+
+2
+
+22 JET, MAIN, #98 ....ssseseeeeeees 4 5 lac
+
+C12
+
+a
+
+3 | 16053-MB0-671
+
+JET, MAIN, #122 ceeceeccececesee 45 A
+
+veosote
+
+SERIAL NUMBER
+
+BS
+
+10 °
+
+&
+
+21 JET, MAIN, #95
+
+ssuet
+
+4
+
+11 SPRING ...sceeceeee res
+
+4 ' 5
+
+20 SCREW-WASHER, 4X16 ...ssceeceeee 45
+
+|ac
+
+4
+
+5
+
+CODE
+
+5
+
+...cccesceseceeces veel
+
+&
+
+:
+
+19
+
+4
+
+GASKET SET
+
+FROM
+
+18 HOLDER, JET NEEDLE .......20.e00 4
+
+.....cscsseseeeeeeees
+
+GASKET SET ..cceseseesenecceceee 4
+
+4 5]E]
+
+soma
+
+:
+
+VGASKET SET .----eeeeseeesererse 4 3)A
+
+__ ENGINE
+
+rf
+
+18
+
+CAM CHAIN ...............
+
+5
+
+17 HOLDER, JET NEEDLE ......eseceeee
+
+8
+
+Y
+
+a.8/C|
+
+PAGE GRID
+
+ALTERNATOR .............
+
+TOP COMP. eeeeeeeeceersrseeeere | &
+
+——
+
+7 71R
+
+Ss
+
+TITLE
+
+|16107-mB0-671
+
+JET, NEEDLE (F) cc cnc recensccnese
+
+0
+
+T
+
+A
+
+4
+
+16 NEEDLE, FR.JET sessseveseeserens
+
+S = VF700S'85
+
+0
+
+5
+
+NEEDLE, RR. JET veeeeseveeresee|
+
+Vivi,
+
+Q
+
+0
+
+TOP COMP. ..sseceseeeseverecnsee| 4
+14 PISTON COMP., VACUUM ..eseeeesene[
+
+4 = VF700S'84
+
+6048
+S
+
+&-18-114 55
+
+12 SPRING saceccenenccverecssevecse|
+
+|
+
+CONTENTS
+
+Viv
+
+49
+
+GRID
+
+C12
+
+20 B10
+
+GASKET KIT A
+
+GASKET KIT B
+
+CONTENTS
+TITLE
+
+PAGE GRID
+
+ALTERNATOR .............
+CAM CHAIN ...............
+
+18 B9
+10 BS
+
+CARBURETOR ASSY........
+CARBURETOR COMPONENT
+CARBURETOR LINK ........
+CLUTCH ....0. 0000.00...
+
+44
+48
+44
+14
+
+CAMSHAFT ...............
+
+4 = VF700S'84
+
+¥
+
+o = E7008 8S
+
+7 7 \R
+
+v
+
+A
+
+4 = VF700S8’84
+
+0: §sOl,
+
+Ret.
+
+No.
+
+BLOCK NO.
+
+EOP-1/4
+
+DESCRIPTION
+
+4
+
+B/C
+
+5
+
+e
+
+S51/E
+
+V : V
+
+6 _VF700S'8S
+
+;Y
+
+S$
+8
+
+NOKL
+
+_
+
+13
+30
+42
+26
+2
+3
+6
+50
+§1
+38
+23
+23
+23
+30
+16
+
+STARTER MOTOR .........
+
+22 B11
+
+THERMOSTAT .............
+TRANSMISSION ...........
+
+40 C8
+36 C6
+
+SERIAL NUMBER
+
+R
+
+0 Ok
+
+HONDA
+
+Ref
+
+FROM
+
+Q |PART NUMBER
+
+CODE
+
+No.
+
+BLOCK NO.
+
+8
+
+8B
+
+c
+
+EOP-2/4
+
+5
+
+D
+
+DESCRIPTION
+
+S57E
+
+¢
+Y
+
+ENGINE
+
+SERIAL NUMBER
+
+a
+
+FROM
+
+Q
+
+TO
+
+HONDA
+
+|PART NUMBER
+
+CODE
+
+5
+
+16
+
+112209-422-005
+
+0688887
+
+1 GASKET, OIL PAN ....ecccessccuces
+
+2 GASKET, CYLINDER HEAD ....... weeel
+
+4 ! 5
+
+4
+
+5
+
+1 | 11315-MB0-010
+
+1441724
+
+2
+
+412251-mB0-003
+
+1240977
+
+2 GASKET, R. COVER ...ecccsseese wel
+
+4
+
+5
+
+1
+
+|11394-mB0-000
+
+1240860
+
+3 GASKET, HEAD COVER .....sccsceee,
+
+4
+
+5
+
+3
+
+|12391-MB0-000
+
+1241017
+
+3 GASKET, ALTERNATOR COVER ........
+
+4.5
+
+1
+
+111636-MB0-000
+
+GASKET, HEAD COVER .....ccceccees
+
+1240886
+
+4
+
+5
+
+3
+
+|12391-MB0-010
+
+2094035
+
+4 GASKET, INDICATOR SWITCH COVER ..|
+
+4
+
+5
+
+1
+
+| 11642-MB0-000
+
+4 GASKET A, EX. PIPE ...cccceeesees
+
+1240902
+
+4
+
+5
+
+&
+
+|18291-216-000
+
+0028241
+
+5 WASHER, DIL BOLT .....cececececes 4
+
+5 GASKET, SIDE GEAR CASE .......005
+
+5
+
+4
+
+5
+
+6
+
+1
+
+190545-300-000
+
+|21294-MB0-770
+
+1290758
+
+0189902
+
+6 INSULATOR, CLUTCH SLAVE CYLINDER | 4
+
+5
+
+1 | 22862-MB0-770
+
+45
+
+1291202
+
+8
+
+|97310-KE8-003
+
+1425602
+
+T WASHER, 11MM... seceeeeeusceeens
+8 GASKET, CONNECTING CAP .......00
+
+4
+5
+4°35
+
+1
+2
+
+}90425-300-000
+191301-"B0-000
+
+0189795
+4243880
+
+9 O-RING, 18.3X2.3 (ARAL) ....se008|
+
+4 | 5
+
+-
+
+2
+
+191301-147-023
+
+1005453
+
+10 O-RING, 22X3.0 crsseeeecseeeeeee | 4
+
+5
+
+1
+
+|91301-250-000
+
+0035287
+
+O-RING, 22X3.0 wsccecncacncescee|
+
+4
+
+5
+
+1
+
+|91307-425-003
+
+1216126
+
+11 O-RING, 32.95X2.62 (ARAI) ....-..)4
+
+5
+
+1
+
+|91302-MB0-013
+
+9635116
+
+12 O-RING, 58X2
+
+5
+
+1
+
+|91307-MB0-003
+
+1260827
+
+&
+
+5
+
+1
+
+|91308-80-003
+
+1260835
+
+14 O-RING, 14.6X3.7 (ARAL) ......0.214
+
+5
+
+1
+
+|91309-mB0-003
+
+1260843
+
+15 O-RING, 18.5X2.4 (ARAI) .csccccee | 4 5
+
+1
+
+|91311-MB0-003
+
+1260850
+
+..eccceesenecseenee | 4
+
+13 O-RING, 5.7X2.2 CARAT) .osceeeeee|
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+
+VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22z-2002575 TO 2006097
+
+VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+
+bi
+
+© AMERICAN HONDA MOTOR CO. LTD. 1993
+
+51
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+VF700S'85 FRAME NO.; RC220-FM100001 To FM102800
+
+VF700S'85 ENGINE NO.: RC22E-2100001 TO 2103285
+VF700S'85 FRAME NO.; RC221~FM100001 TO FM 100863
+
+20 B10
+B6
+63
+Co
+C1
+B11
+BI
+B3
+D1
+D1
+C7
+B11
+B11
+B11
+C3
+B8
+
+16 B8
+10 BS
+
+8 B4
+
+WATER
+PUM
+LT. 28 Ste
+
+1 SEAL, VALVE STEM ...ccecueccvcece 4
+
+6 O-RING, 21.552 .escesceeeceecees
+
+50
+
+4
+
+TENSIONER ...............
+
+7.)
+|
+
+ss
+
+ENGINE
+
+TO
+
+A
+
+7 7 1R
+
+C10
+C12
+C10
+p7
+
+CRANKCASE COVER,L ....
+CRANKCASE COVER, FAL....
+CRANKSHAFT .............
+CROSS SHAFT ............
+CYLINDER BLOCK .........
+CYLIND
+HEAD COVER
+ER ...
+CYLINDER HEAD, FR........
+CYLINDER HEAD,RR ......
+GASKET KITA.............
+GASKET KIT B....0000.0...
+GEARSHIFT DRUM .........
+OIL FILTER 00.
+OIL PAN 220.0... 00... oe.
+OIL PUMP 200000000000...
+PISTON .o 00.0. ool.
+PULSE ALTERNATOR ......
+
+STARTER CLUTCH .......
+
+NOLL
+
+8 B4
+
+GRID
+
+D1
+
+GASKET KIT B
+
+4 = VF700S'84
+
+VV
+EIA
+F
+
+5 = VF700S'85
+
+6 oleE
+O
+
+8
+4
+
+gI/C
+512
+
+ENGINE
+SERIAL NUMBER
+
+R
+
+4
+
+5]E£1]
+
+FROM
+
+Q
+
+s s|4
+
+Ret.
+
+No.
+
+BLOCK NO.
+
+DESCRIPTION
+
+EOP-2
+
+TITLE
+ALTERNATOR
+
+Q
+
+0
+
+TO
+
+T
+Y
+
+CAM CHAIN...
+CAMSHAFT
+
+E
+
+...............
+
+CARBURETOR ASSY........
+CARBURETOR COMPONENT
+CARBURETOR LINK...
+CLUTCH 0.00. ow...
+CRANKCASE COVER,
+L.
+
+HONDA
+
+|PART NUMBER
+
+PAGE GRID
+. 18 B89
+
+CODE
+
+CRANKCASE COVER, R.
+
+CRANKSHAFT .............
+
+CROSS SHAFT
+
+CYLINDER BLOCK .........
+CYLINDER HEAD COVER
+CYUNDER HEAD, FR...
+CYLINDER HEAD.RR ......
+GASKET KITA.............
+GASKET KITB.....00......
+GEARSHIFT DRUM 0...
+OL FILTER .....00000...
+OM PAN ow...
+OH PUMP 8...
+
+PULSE ALTERNATOR
+
+NOLL
+
+5 = VF7008'85
+=
+
+’
+
+Ret.
+
+No.
+
+BLOCK NO.
+
+$s
+
+8
+
+g|Cc
+
+EOP-2]4
+
+DESCRIPTION
+
+16 O-RING, 14.7X2.2 (ARAI) ......00-
+
+4
+
+5
+
+°
+
+51€E
+
+45
+
+SERIAL NUMBER
+
+a
+
+FROM
+
+Q
+
+1|PART NUMBER
+
+CODE
+
+1
+
+1260868
+
+|91313-MG7~004
+
+3353620
+
+4
+
+5
+
+1
+
+|91314-MB0-003
+
+1260876
+
+18 O-RING, 3X70 ..cecececececeevers 4
+
+5
+
+1
+
+191344-Ms0-000
+
+1690767
+
+5
+
+1
+
+|91314-300-000
+
+0483826
+
+O-RING, 70X3
+
+.essesescecceceeeee
+
+19 SEAL, WATER PIPE ......csessseees
+
+4
+
+45
+
+1
+
+|91315-mB0-013
+
+20 O-RING, 13X2.5 ...ceececeeseeces 45
+
+1435239
+
+2
+
+|91335-567-000
+
+0422428
+
+21 WASHER, DRAIN PLUG, 12MM ........
+
+1
+
+|94109-12000
+
+0171868
+
+52
+
+45
+
+€ AMERICAN HONDA MOTOR CO. LTD. 1993
+
+VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+
+VF700S'84 FRAME NO. ; RC220~EM000007 TO EM005012
+VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
+VF700S'84 FRAME NO.; RC221~EM000006 TO EM001081
+
+26 C1
+2 Bl
+3 BI
+
+6
+§0
+51
+38
+23
+23
+23
+
+B3
+DI
+D1
+C7
+B11
+B11
+B11
+
+16 B&
+
+10
+
+HONDA
+
+|91313-MB0-003
+
+..ccceseecececnes
+
+42 C9
+
+TENSIONER ...............
+
+Y
+
+1
+
+17 O-RING, 18X2.8
+
+13 B6
+30
+
+16 BS
+22 B11
+
+ENGINE
+
+5
+
+O-RING, 14.8X2.2 ..eseeeeeseeees 4
+
+20 B10
+
+BS
+
+8 B4
+
+WATER PIPE ............. 40 C8
+WATER PUMP... 20 B10
+
+Q
+TO
+
+C10
+C12
+C10
+67
+
+STARTER CLUTCH...
+STARTER MOTOR .........
+
+VALVE... 00...
+
+0 O18
+
+$s
+
+8 B4
+
+44
+48
+44
+14
+
+THERMOSTAT............. 40 C8
+TRANSMISSION ........... 36 C6
+
+VV
+
+PF FIA
+
+10 B5
+
+© AMERICAN HONDA MOTOR CO. LTD. 1993
+
+53
+
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+
+VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+
+VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+
+GRID
+
+D2
+
+

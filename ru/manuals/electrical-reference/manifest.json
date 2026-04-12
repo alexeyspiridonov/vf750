@@ -1,0 +1,68 @@
+{
+  "project_bike_context": "Проект Honda Sabre cafe racer. Локальная документация покрывает несколько лет Sabre/Magna, поэтому различия по годам нужно перепроверять перед заказом деталей и перепроводкой.",
+  "sources": {
+    "haynes_manual": "manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+    "parts_catalog": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf"
+  },
+  "outputs": [
+    {
+      "type": "copy",
+      "source": "manuals/haynes-manual/sections/05-ignition-system.pdf",
+      "output": "manuals/electrical-reference/manuals/01-ignition-system.pdf"
+    },
+    {
+      "type": "copy",
+      "source": "manuals/haynes-manual/sections/05-ignition-system.txt",
+      "output": "manuals/electrical-reference/manuals/01-ignition-system.txt"
+    },
+    {
+      "type": "copy",
+      "source": "manuals/haynes-manual/sections/08-electrical-system.pdf",
+      "output": "manuals/electrical-reference/manuals/02-electrical-system.pdf"
+    },
+    {
+      "type": "copy",
+      "source": "manuals/haynes-manual/sections/08-electrical-system.txt",
+      "output": "manuals/electrical-reference/manuals/02-electrical-system.txt"
+    },
+    {
+      "type": "extract",
+      "source": "manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+      "pages": "220-247",
+      "output_pdf": "manuals/electrical-reference/manuals/03-wiring-diagrams-all-models.pdf",
+      "output_txt": "manuals/electrical-reference/manuals/03-wiring-diagrams-all-models.txt",
+      "note": "Все страницы со схемами проводки из Haynes manual."
+    },
+    {
+      "type": "extract",
+      "source": "manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+      "pages": "220-228",
+      "output_pdf": "manuals/electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.pdf",
+      "output_txt": "manuals/electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.txt",
+      "note": "Страницы wiring diagram именно для 1982 750 Sabre из Haynes manual."
+    },
+    {
+      "type": "extract",
+      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "pages": "39-41,59,68-71",
+      "output_pdf": "manuals/electrical-reference/parts-catalog/01-electrical-components.pdf",
+      "output_txt": "manuals/electrical-reference/parts-catalog/01-electrical-components.txt",
+      "note": "Электрические fiche-страницы VF700S 84/85: фара, приборы, переключатели, аккумулятор, spark unit, сигналы, задний фонарь и wiring harness."
+    }
+  ],
+  "reference_docs": [
+    "manuals/electrical-reference/notes/internet-sources.md",
+    "manuals/electrical-reference/notes/common-issues.md",
+    "manuals/cdi-reference/README.md",
+    "manuals/cdi-reference/01-cdi-tech-and-timing.md",
+    "manuals/cdi-reference/02-cdi-diagnostics-and-setup.md",
+    "manuals/cdi-reference/03-cdi-replacement-options.md",
+    "manuals/cdi-reference/sources.md"
+  ],
+  "notes": [
+    "Parts catalog в этом репозитории относится именно к 1984-1985 VF700S Sabre.",
+    "Haynes покрывает модели V4 Sabre и Magna 700/750/1100, включая wiring diagrams для 1982 750 Sabre.",
+    "OCR на схемах и fiche-страницах полезен для поиска, но сами diagram pages всё равно остаются первичными визуальными документами.",
+    "Штатное зажигание VF750S корректнее описывать как transistorized TCI / spark units, а не как классический CDI, хотя владельцы часто используют CDI как обобщённый термин."
+  ]
+}

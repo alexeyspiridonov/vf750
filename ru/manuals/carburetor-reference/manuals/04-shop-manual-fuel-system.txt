@@ -1,0 +1,1343 @@
+-
+
+4. FUEL SYSTEM
+
+r;j)HONDA
+~ V45 ~~:::
+SERVICE INFORMATION
+TROBLESHOOTING
+
+4-1
+4-2
+
+CARBURETOR INSTALLATION
+PILOT SCREW AOJUSTMENT
+
+CARBURETOR REMOVAL
+
+FUEL TANK
+
+4-17
+4-18
+4-19
+
+IV45 SABRE}
+
+4-3
+
+CARBURETOR REMOVAL
+IV45 MAGNA}
+
+4-5
+
+VACUUM CHAMBER
+
+4-6
+
+AUXILIARY FUEL TANK
+IV45 MAGNA}
+AUTOMATIC FUEL VALVE
+IV45 SABRE}
+
+FLOAT CHAMBER
+
+4-8
+
+AIR CLEANER
+
+4-21
+
+PILOT SCREW
+
+4-10
+
+FUEL PUMP
+
+4-22
+
+CARBURETOR SEPARATION
+
+4-11
+
+4-22
+
+CARBURETOR ASSEMBLY
+
+4-14
+
+HIGH ALTITUDE ADJUSTMENT
+IUSA only}
+
+4-20
+4-20
+
+SERVICE INFORMATION
+GENERAL
+~WARN1HG
+
+Gasoline is extremely flammable and is exp/osiIJe under certai" conditions. Work in Q well !'enli/aud area. Do not smoke
+or a/low flames or sparks in the work area.
+
+•
+
+•
+•
+•
+•
+•
+
+The front cvlinders use down draft carburetors .
+When disassembling fuel system parts, note the locations of the O-rings. Replace them with new ones on reassembly.
+The float bowls have drain screws that can be loosened to drain residual gasoline.
+Fuel pump inspection is in section 21.
+The No.1 and No.3 carburetors use different jet needles (thinner) and shorter springs than the No.2 and No.4 carburetors
+(SABRE only). 00 not interchange these parts.
+
+TOOLS
+Special
+Hand vacuum pump/gauge
+Valve guide driver, 7 mm
+
+ST-AH-260-MC7 or A973X-041-XXXXX (U.S.A. only)
+07942-8230000 (U.S.A. only)
+
+Common
+Float gauge
+
+07401-0010001
+
+SPECIFICATIONS
+V45 SA8RE
+Venturi dia.
+
+-
+
+Identification No.
+
+V45 MAGNA
+
+Primary 11.7 mm (0.46 in)
+Secondary 29.2 mm (1.15 in)
+
+Primary 11.1 mm (0.44 in)
+Secondary 29.2 mm (1.15 in)
+
+VD50A
+
+VD51A
+
+Float level
+
+8.3 mm (0.33 in)
+
+7.2 mm (0.28 in)
+
+Main iet
+
+# 132
+
+# 128
+
+Idle speed
+
+1,000 ± 100 rpm
+
+Throttle grip free play
+
+2-6 rnm (0.08 0.24 in)
+
+Pilot screw initial opening
+
+Date of Issue: October, 1982
+© HONDA MOTOR CO., LTD .
+Downloaded from www.Manualslib.com manuals search engine
+
+See page 4·18
+
+49
+
+4-1
+
+--------
+
+~ HONDA
+
+~ V45 ~~:::
+
+FUEL SYSTEM
+
+TROUBLESHOOTING
+Engine Ctank! but won't nart
+, . No fuel in tank
+2. No fuel to carburetor
+3. Engine flooded with fuel
+4 . No spafi( at plug (ignition system faultyl
+5. Air cleaner clogged
+6. Intake air leak
+7. Improper choke operation
+8. Improper throttle operation
+
+H.rd mrting or stalling Ift.r starting
+
+Lean mixture
+1. Clogged fuel jets
+2 . Piston stuck closed
+3. Faulty float valve
+4 . Float laval low
+5 . Fuel cap vent blocked
+6. Fuel strainer screen clogged
+7. Restricted fuel line
+8. Air vent tube clogged
+9. Intake air leak
+10. Restricted or faulty fuel pump (V45 MAGNA)
+
+-
+
+1. Improper choke operation
+2. Ignition malfunction
+
+Rich mixture
+
+3. Carburetor faulty
+
+1. Clogged air jets
+
+4. Fuel contaminated
+5. Intake air leak
+6. Idle speed incorrect
+
+2. Faulty float valve
+3. Float level too high
+4. Choke stuck clogged
+5. Dirty air cleaner
+
+Rough idle
+
+1. Ignition system faulty
+2. Idle speed incorrect
+3. Incarrect carburetor synchroniution
+4. Carburet or faulty
+
+-
+
+6. Fuel contaminated
+
+Misfiring during accelention
+1. Ignition system faulty
+s.ckfiring
+1. Ignition system faulty
+2. Carburetor faulty
+Poor performance (dri¥eabillty) and poor fuel economy
+
+1. Fuel system clogged
+2 . Ignition system f<lulty
+
+50
+
+4-2
+
+- -- - -
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Date of Iswe: January, 1982
+€I HONDA MOTOR CO ., LTD .
+
+f7l\ HONDA
+
+~ V45 ~!:::
+
+FUEL SYSTEM
+
+CARBURETOR REMOVAL<V45 SABRE)
+
+AlA CLlEAI<EA CASE COVER
+
+Turn the fuel vall/eOFF.
+
+Remove the seat, frame side covers and fuel tank.
+Remove the right and left air cleaner covers and the
+air cleaner elements.
+
+Remove both air cleaner case screws and air cleaner
+cases.
+
+IGNITION COil
+
+Remove tht right ignition coil mounting bolts.
+Remove the screw attach ing the water pipe to the
+air charrber.
+Remove the air enamber COllef screws and cover.
+Remove the radiator side mounting bolts.
+
+-
+
+PIPE
+ATTACHING SCREW
+
+Date of Issue: October, 1982
+© HONDA MOTOR CO ., LTD.
+
+-
+
+51
+
+-----
+
+Downloaded from www.Manualslib.com manuals search engine
+
+---- - ---
+
+4-3
+
+W
+
+HONDA
+
+~ V45 ~~:=I
+
+FUEL SYSTEM
+
+GROUND CABLE
+
+Remove the No. 1 carburetor intake pipe bands.
+
+Remove the thermostat cover bolt and disconnect
+the ground cable.
+Aemove the temparature sensor wire.
+Disconnect the air breather tube.
+
+Loosen all the carburetor bands. Remove the
+carburetor5 from the intake pipes. Also, remove
+the NO.1 intake pipe from the cylinder head.
+Disconnect the spark plug wire clamps on the heat
+shield.
+Remove the carburetor assemblV from the left side.
+
+-
+
+Remove the carburetor choke clamp and disCOflnect
+the choke and throttle cables.
+
+4-4
+
+-- ----
+
+Downloaded from www.Manualslib.com manuals search engine
+
+"
+
+Dat8 of Issue: October, 1982
+
+© HONDA MOTOR CO., L TO.
+
+-
+
+C1\ HONDA.
+
+~V45 ~~:::
+
+FUEL SYSTEM
+
+CARBURETOR REMOVAL<V 45 MAGNA)
+
+AIR CLEANER CASE
+
+I
+
+Check that the fuel tank is at least one-half empty.
+Otherwise, drain the fuel tank until it is one-half
+empty before raising the tank.
+Remove the seat and front fuel tank mounting
+bolts. Lift the fuel tank up and put the support
+
+arm down.
+Remove the air cleaner cover and element.
+Remove the air cleaner case mounting bolt and case.
+
+loosen the air cleaner connecting bands and remove
+the air cleaner case.
+Disconnect the spark plug lead clamps on the heat
+shield.
+
+Remove the radiator right upper hose cover.
+Remove the right and left air chamber covers.
+Drain and remove the radiator (page 6-8).
+Loosen the clamps on the Nos. 1, 3 and Nos. 2, 4
+cylinder coolant crossover pipes. Remove the
+crossover pipes.
+
+Date of Issue: October, 1982
+© HONDA MOTOR CO., lTD.
+
+----- - -
+
+53
+
+4-5
+
+------------------------.---------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+f.2\ HONDA
+
+®
+
+FUEL SYSTEM
+Remove the air chamber top cover.
+Remove the bolt attaching the thermostat housing
+to th' air chamber and the ground cable. Remove
+
+V45
+
+~~:=:
+
+AIR CHAMBER TOP COVER
+
+the thermostat housing and coolant hoses.
+Remove the temperature sensor wire.
+Disconnect the breather tube and loosen the carbu·
+
+retor bands.
+Remove all the No.1 and No.3 carburetor intake
+pipe bands.
+
+Loosen the No. 2 and No. 4 carburetor intake
+pipe bands, on the carburetor lide only,
+Remove the carburetor assembly from the intake
+
+pipes.
+Remoy. the No.1 and No.3 intake pipes from the
+cylinder head.
+
+Aemov. the carburetor choke clamp and disconnect
+the choke and throttle cables.
+Remove the carburetor ,"embly from the rightside.
+
+NOTE :
+
+It may be necessary to loo~n the engine
+mount bolts and move the engine on its
+rubber mounts to provide clearance for carbun~tor removal.
+
+-
+
+VACUUM CHAMBER
+REMOVAL
+Remove the four vacuum chamber cover screws.nd
+cover.
+
+CAUTION
+Do not interchange ~'Qcuum chamber COllers,
+springs pfstons or jet needles between cwbureton.
+
+-
+
+Remove the compression spring, diaphragm .nd
+vacuum piston.
+Inspect the vacuum piston for wear, nicks, scratches
+or other damage.
+Make sure the piston moves up and down freely in
+the chamber.
+Note that the No. 1 and No. 3 carburetors
+thinner tel needles and shorter springs than th'
+No.2 and NO.4 carburetors (SAB RE only).
+
+,
+
+.
+
+-
+
+54
+
+4-6
+
+Date of Issue: October, 1982
+
+© HONDA MOTOR CO .. LTO.
+
+-
+
+Downloaded from www.Manualslib.com manuals search engine
+
+~ HONDA
+~. V45 ~~:::
+
+FUEL SYSTEM
+
+Push the needle holder in and turn it 60 degrees
+with an 8 mm socket. Then remove the needle
+holder, spring and needle from the piston.
+
+•
+
+•
+
+NEEDI.E HOLDER
+
+Inspect the needle for excessive wear at the tip and
+for bending, or other damage.
+Check the diaphragm for deterioration and tears.
+
+SPRING
+
+NEEDLE
+
+R
+
+INSTALLATION
+Installation is essentially the reverse of removal.
+I"stall the chamber cover so that its cavity aligns
+with the hole in the diaphragm.
+Be iure the thinner jet needles and shorter springs
+are installed in the No.1 and No. 3 carbureto~.
+
+Date of Issue: May. 1982
+© HONDA MOTOR CO., L TO .
+
+-,---- -
+
+55
+
+4-7
+
+---------------~----------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+FUEL SYSTEM
+I
+
+FLOAT CHAMBER
+
+FLOAT CHAMBER
+
+REMOVAL
+Remo .... e the four float chamber screws and the float
+chamber.
+
+FLOAT LEVEL
+Measure the float level with the carburetor inclined
+0
+15"_45 from vertical and the float tang just
+contacting the float valve.
+Specification:
+V45 Magrnl-7.2 mm (0.28 in)
+
+V45 Sabre-8.3 mm (0.33 in)
+NOTE:
+Measure the float nearSf the float valve.
+Adjust the float level by carefully bending the float
+
+FLOAT LEVEL G',U'>E
+07401-0010000
+
+tang.
+
+FLOAT ANO JETS
+Remove the float pin, float and float valve.
+
+•
+
+4-8
+
+56
+
+- - - ---------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Date of Issue: October, 1982
+© HONDA MOTOR CO., l TO.
+
+--
+
+~ HONDA
+
+~ V45 ~~:=:
+
+FUEL SYSTEM
+
+Inspect the float .... I... e for grooves and nicks.
+Inspect the operation of the float vllve.
+
+,
+FLOAT VALVE
+FLOAT VALVE
+
+Remove the starter jet, main jet and slow jet.
+Remove the float valve seat and filter.
+
+FILTER
+
+VA LVE SEAT
+
+Inspect the float valve seat and filter for grooves,
+nicks or deposits.
+
+ASSEMBLY
+Assemble the float chamber components in the
+reverse order of disassembly.
+
+Date of Issue: January, 1982
+
+C> HONDA MOTOR CO ., LTD.
+Downloaded from www.Manualslib.com manuals search engine
+
+57
+
+4-9
+
+•
+
+c;j) HONDA
+V45 :.~::!
+
+FUEL SYSTEM
+
+PILOT SCREW
+REMOVAL
+NOTE:
+
+nlll pilot screws are factory pre-set and
+should not be removed unless the carburetors are overhauled.
+
+The pilot screw plugs are factory installed
+to prevent pilot screw misadjustment. Do
+not
+
+-
+
+remoye the plugs unless the pilot
+
+screws are being removed.
+Cover all opening with tape to keep metal
+particles out when the plugs are drilled.
+
+Center punch the pilot screw plug to center the
+drill point.
+Drill through the plug with 8 4 mm (5/32 in) drill
+
+bit, being careful not to drill into the pilot screw.
+
+CAUTION;
+Be careful not to drill into the pilot screw.
+All pilot SerE-Wi must be replaced avenI/only
+
+one requireJ it for proper pilot screw adjustment (page 4-18).
+
+Force a setf.tapping 4 mm screw (HIe 069399,
+PIN 93903-35410) into the drilled plug and
+continue turning the screwdriver until the plug
+rotates with the screw.
+Pull on the screw head with pliers to remove the
+plug.
+Use compressed air to cleln the pilot screw area and
+remove metal shavings.
+
+4-10
+Downloaded from www.Manualslib.com manuals search engine
+
+-
+
+"
+
+Date of Issue: May. 1982
+
+© HONDA MOTOR CO., LTD.
+
+~ HONDA
+'~ . V45 ~!:::
+
+FUEL SYSTEM
+
+Turn each pilot $Crew In and carefully count the
+number of turns before it seats lightly_
+
+Make a note of this to use as a reference when
+reinstalling the pilot screws.
+
+CAUTION
+Damage to the pilot SCInV seat will occur if
+the pilot Vel(.> i$ tightened against the Yar.
+Remove the pilot screws and inspect them. Replace
+them if they are worn or damaged.
+
+PILOT SCREW
+FUEL LINE
+
+INSTALLATION
+Install the pilot screws and return them to their
+original position as notld during removal.
+Perform pilot ~rew adjustment if new pilot screws
+are instilled (page 4-18 ),
+NOTE
+
+Do not install new plugs on new pilot
+screw holes until after adjustment has bHn
+made.
+• If you replace the pilot screw in one car·
+buretor. you murt replace the pilot 5CrewS
+in the other carburetors for proper pilot
+screwadju5tment.
+
+CARBURETOR SEPARATION
+Remove the tuelHnes from the carburetors.
+Remove the screws attaching the air chamber to the
+carburetors and separate the chamber and carburetors.
+
+Date of Issua: May, 1982
+© HONDA MOTOR CO., l TO .
+
+-
+
+•
+Downloaded from www.Manualslib.com
+manuals search engine
+
+59
+
+4-11
+.
+
+•
+
+•
+FUEL SYSTEM
+
+Remove the choke rod cotter pins and remove the
+choke fOOl.
+
+RODS
+
+No.1 CARBURETOR
+
+FUEL
+JOINT PIP,
+
+AIR JOINT PIPE
+
+No.2
+
+Garefully separate the No.3 carburetor from the
+assembly. Then separate the No.4 carburetor.
+
+CAUTION
+Separate the ctIrburetors horizontally to prevent datrnlge to the joint pipes.
+
+SPRINGS
+
+No.4 CA'" BlIRETO"
+
+CARBURETOR
+
+-
+
+Disconnect the throttle link from the No. 1 end 2
+carburetors by removing the cotter pins.
+
+•
+
+•
+
+THI'OTTLE LINK
+
+4-12
+Downloaded from www.Manualslib.com manuals search engine
+
+60
+
+Date of Issue: January. 1982
+() HONDA MOTOR CO., l TO .
+
+'
+Ci:J
+
+•
+
+",1 ' HONDA
+V45 SAIIRE
+.-
+
+M A GNA
+
+Carefully separate the No.1 aod No.2 carburetors.
+
+FUEL SYSTEM
+No.2 CA!'BUIRE'TOR
+
+•
+
+•
+
+No.1 CAIRBLIRETOR
+
+Remove the choke lever from the carburetor.
+Remove the choke valve nut, spring and valve.
+
+NUT
+
+C>IO>(E LEVER
+
+Oleck the choke valve and spring for nicks, grooves,
+or other damage.
+
+-
+
+•
+CHOKE VALVE
+
+Date of Issue: May, 1982
+() HONDA MOTOR CO ., L TO.
+__
+
+_
+
+61
+
+4-13
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _~ _ _ _ _ _ _ _ _ _ _ _J
+
+Downloaded from www.Manualslib.com manuals search engine
+
+~ HONDA
+
+~ V45 ~~:::
+
+FUEL SYSTEM
+
+CARBURETOR ASSEMBLY
+Install the choke valve, valve spring and nut and
+tighten the nut while hooking the choke arm to the
+groove in the "'llvI.
+Install the choke lever.
+
+FUEL
+
+PIPE
+
+Coat the new O-rings with oil and install them on
+the fuelloint pipe for No.1 and No.2 carburetors.
+I nstlll the fuel joint pipe to the No. 1 and No.2
+carburetors.
+
+Q· RINGS
+
+THROTTLE LINK
+
+-
+
+Reconnect the thronle linkage between the No. 1
+and No. 2 carburetors, using new cotter pins.
+
+No.2 C"RS
+
+4-14
+Downloaded from www.Manualslib.com manuals search engine
+
+"
+
+No.1 C"'RBlIRETOR
+Dale of Issue: Januarv, 1982
+
+© HONDA MOTOR CO., L TO .
+
+_.
+
+~ HOND.A
+V45 ~~~=:
+
+FUEL SYSTEM
+FUEL JOINT PIPE
+
+Coat new Q·rings with oil and inst.1I them on the
+fuel and air Joint pipes.
+Put the No.3 and No.4 carburetors together with
+the joint pipes.
+
+AlA JOINT PIPES
+No.1 CARBURETOR
+
+loosen the synchronization adjusting screws until
+ther. is no tension.
+Instill the synchronization springs.
+Install the thrust springs between the throttle valve
+shafts.
+
+THRUST SPRING
+
+No. 3 CARBURETOR
+
+I
+
+No. 2 CARBURETOR
+
+~,
+
+Make sure the fuel joint and air joint pipes are
+
+securelv installed.
+
+No.2 SYI'C>IRO''''''ATION
+SPRING
+Date of luu.: January, 1982
+Cl HONDA MOTOR CO., LTD .
+
+--
+
+-
+
+Downloaded from www.Manualslib.com manuals search engine
+
+53
+
+No. 4
+SPRING
+
+4-15
+•
+
+c;jt) HONDA
+
+~. V45 ~~::~
+
+FUEL SYSTEM
+
+Inst811 the choke rods, using new cotter pins.
+
+-
+
+CH()KE ROOS
+
+FUNNEL
+Make wre th8 air chamber funnels, grommets and
+
+•
+
+dowel pins are in place.
+
+-
+
+Place thl air chamber Ol/ef the carburetors aligning
+the dowel pins with the carburetor holes.
+Attach the air chamber to the carburetors with the
+eight screws.
+Connect the tuellines to the fuel joint pipes.
+
+4-16
+
+.
+
+- ----------- --- -
+
+Downloaded from www.Manualslib.com manuals search engine
+
+Date of Issue: May. 1982
+© HONDA MOTOR CO., l TO .
+
+~
+
+.' HONDA
+
+-
+
+[I V45 SAa.E
+MAGNA
+
+FUEL SYSTEM
+
+Turn the throttle stop screw to align the No. 1
+throttle valve with the edge of the by·pass hole.
+
+No.1 CARBURETOR
+
+THROTTLE STOP SCREW
+
+Align each throttle valve with the by-pass hole edge
+by turning the synchronization adjusting screws.
+Inspect throttle operation as described below:
+Open the throttle slightly by pressing the throttle
+linkage. Then relelie the throttle.
+Make sure that it returns smoothly.
+Make sure thlt thete is no drag when opening
+and closing the throttle.
+
+Make sure that choke valye operation is smooth by
+moving the choke linkage.
+Close the choke valve by turning the choke linkage.
+Aele"e the choke linkage and make sure that it
+returns smoothly.
+No.2 ADJUSTING SCREW
+
+•
+
+No.4 AD.JUS
+
+CARBURETOR INSTALLATION
+Instillation is essentiallY the reverse of removal.
+NOTE
+
+Aoute the throttle and choke cables properly
+(page 1-9 to 1-10).
+Perfo.-m the following inspections and adjustments.
+Throttle operation (page 3-61.
+Carburetor choke (page 3·7)
+Carburetor idle speed (page 3·13)
+Carburetor synchronization (page 3·12).
+
+-
+
+Date of Issue: January, 1982
+Cl HONDA MOTOR CO . LTD.
+
+--
+
+Downloaded from www.Manualslib.com manuals search engine
+
+65
+
+4-17
+
+- --
+
+c;j) HONDA
+~. V45 ~~::~
+
+FUEL SYSTEM
+
+PILOT SCREW ADJUSTMENT
+
+-
+
+IDLE DROP PROCEOURE (U.S.A. ONLY)
+
+-
+
+NOTE
+
+• The pilot screws are factory pr.-set and no
+adjustment is necessary unless the pilot
+screws ar. replaced (P-s- 4·10).
+
+• Use I tachometer with graduations of 50
+rpm or smatler that will accurat1!ly indicate
+• 50 rpm change.
+1. Turn each pilot screw clockwise until it seats
+tightly and back it out to the specification
+givitn. This is an initial setting prior to the final
+pilot screw adjustment.
+INITIAL OPEN ING: 2·3/4 turns out
+
+CAUTION:
+Damage to the pilot SC~ seat will occur
+
+if the pl70r screw is tightened agalmt the
+seat.
+2. Warm up the engine to operating temperature.
+Stop and go driving for 10 minutes is wfficient.
+3. Attach a tachometer according to the manufac-
+
+turer's instructions.
+4. Adjust the idle speed with the throttle stop
+
+screw.
+IDLE SPEED: 1,000 ± 100 rpm
+
+5. Turn nch pilot screw 1/2 turn out from the
+initial setting.
+6. If the engine speed increases by 50 rpm or
+more, turn each pilot screw out by a continual
+1/2 turn until engine speed drops by 50 rpm or
+less.
+7. Adjust the idle speed with the throttle stop
+screw.
+8. Turn the No.1 carburetor pilot screw in until
+the engine 1PIIed drops 50 rpm.
+9. Turn the No. 1 carburetor pilot saew 1 turn
+out from the position obtained in step B.
+10. Adjust the idle speed with the throttle rtop
+screw.
+11 . Perform steps 8, 9 and 10 for the No.2, 3 and
+4 carburetor pilot screws.
+12. Oriv, new pilot screw plugs into the pitot screw
+bores with a 7 mm valve guide drivertP/N 07942
+-82300001. When fully seated the plug surfaces
+will be recessed 1 mm into t he pitot screw botl.
+
+4-18
+Downloaded from www.Manualslib.com manuals search engine
+
+.
+
+Dale of Issue: January, 1982
+
+© HONDA MOTOR CO., lTD.
+
+~ HONDA
+~ V45 ~~:::
+FUEL TANK
+
+FUEL SYSTEM
+
+V45SABRE
+
+(. WARNING
+
+{)() nOI allow fl4"'~1 or sparks nNr 1US01im!.
+Wipe up spilled fOSOfin~ 01 once,
+Check the vent hole of the filler cap for blockage.
+Check that fuel is flowing out of the fuel vallie
+freely . If fuel flow is restricted, clean the fuel
+Itrainer.
+NOTE
+
+00 not overtighten the fuel val111 tock nut
+(V45 SABRE).
+Make sure that there afe no fuel leaks.
+
+~
+
+@
+
+V45 MAGNA
+
+.,t
+"
+•
+
+-
+
+Date of Issue : January. 1982
+
+C> HONDA MOTOR CO ., L TO .
+
+-
+
+.7
+
+4-19
+
+- - - ---- -----------------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+-
+
+FUEL SYSTEM
+
+AUXILIARY FUEL TANK (V45 MAGNA)
+
+AUXILIARY
+FUEL TANK
+
+MOUNTING BOLT
+
+Remove the seat, main fuel tank and side covers.
+Remove the regulator/ rectifier.
+Disconnect the battery negative cable, then positive
+cable and remove the battery.
+Remove the rear wheel (page 17 ·3).
+Remove felr fenders A and B.
+Detach the auxiliary fuel tank hose from the fuel
+pump,
+
+Remove the auxiliary fuel tank mounting bolt and
+tank .
+Install the auxiliary fuel tank in the reverse order of
+removal.
+
+AUTOMATIC FUEL VALVE
+(V45 SABRE)
+
+MANUAL FUEL VALVE
+
+~WARNING
+
+Do nOI ollow [1.amn or sparks ntor gasoline.
+
+Wipe up spill~d gasoline 01 OIlU.
+Turn the manual valve ON.
+Stop the engine and place a container under the fuel
+line.
+Remove the fuel tube Irom the carburelOr.
+Inspect the fuel tube for fuel flowing out.
+Drain the remaining fuel in the fuel valve and fuel
+tube (apprOK, 5-10 cel,
+
+If the fuel flow stops, the automatic fuel valve is
+operating normally. If the fuel flow does not stop,
+elean the ~acuum tube.
+
+Disconnect the vacuum tube from the intake port
+and apply vacuum with a vacuum pump.
+The valve is operating normally if fuel flows out of
+the tube when vacuum is applied and fuel stops
+flowing out when the vacuum pump is disconnect·
+od.
+If the valve does not opefilte normally:
+
+Inspect for elogging and clean the valve.
+Blow air through the valve from the inlet side
+to set the flit diaphragm in its ori9inal position.
+
+HAND
+PUMP/GAUGE
+ST-AH- 260- MC7 OR
+A973X-041-XXXXX
+U.S.A. ONLY
+
+68
+
+4-20
+
+--
+
+Date of Issue: May, 1982
+C) HONDA MOTOR CO., L TO.
+
+-----------------~------
+
+Downloaded from www.Manualslib.com manuals search engine
+
+-
+
+-
+
+O \ HONDA
+V45 :,~~~!
+
+®
+
+FUEL SYSTEM
+
+AIRCLEANER
+CASE/ CHAMBE R
+Check the air cleaner case for deterioration .
+
+•
+
+CRANKCAS E VENTILATION SYSTEM
+Check that the breather tube is not restricted.
+
+V45SABRE
+
+V45MAGNA
+
+0.. .
+
+•
+
+•
+
+-
+
+o
+Date of Issue: May, 1982
+
+© HONDA MOTOR CO ., LTD.
+
+Downloaded from www.Manualslib.com manuals search engine
+
+69
+
+4-21
+-
+
+CJ\ HONDA
+
+~ V45 ~~~:!
+
+FUEL SYSTEM
+
+FUEL PUMP (V 45 MAGNA)
+Remove the seat, fuel tank (page 4-19) and side
+coven.
+Disconnect the battery negative cable, then positive
+cable and remove the battery.
+Remove the battery tray and starter relay switch.
+Turn the fuel valve off.
+Detach the luel in let and outlet lines from the fuel
+pump.
+
+Disconnect the tuel pomp wire connectors.
+Remove the fuel pomp mounting bolts and fuel
+pump,
+
+Insatll the fuel pump in the reverse order of removal.
+
+HIGH ALmUDE ADJUSTMENT (USA only)
+When the vehicle is to be operated continuously
+above 2,000 m (6,500 leet) the carburetor must be
+
+V45 SAB RE
+
+readjusted as follows to Improve driveability and
+
+VEHICLE EMISSION CONTROL
+
+decrease exhaust emissions.
+Warm up the engine to operating temperature, Stop
+and go driving for 10 minutes is sufficient.
+
+Remove each pilot screw plug (page 4- I 0).
+Turn each pilot screw clockwise I turn.
+Adjust the idle speed to 1.000 :t 100 rpm with the
+throttle stop screw.
+Dnve new pilot screw plugs into the pilot screw
+bores (page 4-18).
+NOTE:
+
+~adjustment must b~de at high alti·
+~e to ensure proper high altitude operation.
+
+Attach 8 Vehicle Emission Control Information
+Update label onto the frame as shown. Refer to
+Service Bulletin ~L 132 for information on obtain·
+ing the label.
+V45 MAGNA
+
+NOTE :
+Do not attach the label to any part that can
+be easily removed from the vehicle.
+
+-----'
+
+\
+
+O~ration al an allirude IO k't!r tholl 1.500 m
+
+(5.000 feel) wllh Ih~ carburt'/ors adjusted for
+high alljtud~s may couse th ~ ~ntfn~ to idJ~
+rought}' and stall.
+When the vehicle is to be operated continously
+below 1,500 m (5,000 feet), turn each pilo t screw
+counterclockwise 1 turn to its original position
+after removing each pilot screw plug and adjust the
+idle speed to 1,000 1" 100 rpm. Drive new pilot
+screw plugs into the pilot screw bores (page 4-18).
+Be sure to do these adjustments at low altitude.
+
+4-22
+
+-
+
+Downloaded from www.Manualslib.com manuals search engine
+
+VEHICLE
+
+10
+
+I
+CO NTR OL
+UPDATE LABE L
+
+Date o f Issue: October, 1982
+
+e HONDA MOTOR CO .. LT D.
+
+-
+
+

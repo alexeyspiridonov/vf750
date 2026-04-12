@@ -1,0 +1,57 @@
+{
+  "source_pdf": "pdf/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf",
+  "searchable_pdf": "output/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+  "searchable_text": "output/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.txt",
+  "sections": [
+    {
+      "order": 0,
+      "title": "Вводные и справочные страницы",
+      "slug": "00-front-matter-and-reference-pages",
+      "start_page": 1,
+      "end_page": 12,
+      "pdf_path": "output/partslist-vf700s-sabre/sections/00-front-matter-and-reference-pages.pdf",
+      "text_path": "output/partslist-vf700s-sabre/sections/00-front-matter-and-reference-pages.txt"
+    },
+    {
+      "order": 1,
+      "title": "Раздел двигателя (B1)",
+      "slug": "01-engine-section-b1",
+      "start_page": 13,
+      "end_page": 38,
+      "pdf_path": "output/partslist-vf700s-sabre/sections/01-engine-section-b1.pdf",
+      "text_path": "output/partslist-vf700s-sabre/sections/01-engine-section-b1.txt"
+    },
+    {
+      "order": 2,
+      "title": "Раздел рамы (E1)",
+      "slug": "02-frame-section-e1",
+      "start_page": 39,
+      "end_page": 78,
+      "pdf_path": "output/partslist-vf700s-sabre/sections/02-frame-section-e1.pdf",
+      "text_path": "output/partslist-vf700s-sabre/sections/02-frame-section-e1.txt"
+    },
+    {
+      "order": 3,
+      "title": "Индекс номеров деталей",
+      "slug": "03-part-number-index",
+      "start_page": 79,
+      "end_page": 84,
+      "pdf_path": "output/partslist-vf700s-sabre/sections/03-part-number-index.pdf",
+      "text_path": "output/partslist-vf700s-sabre/sections/03-part-number-index.txt"
+    },
+    {
+      "order": 4,
+      "title": "Индекс описаний",
+      "slug": "04-description-index",
+      "start_page": 85,
+      "end_page": 91,
+      "pdf_path": "output/partslist-vf700s-sabre/sections/04-description-index.pdf",
+      "text_path": "output/partslist-vf700s-sabre/sections/04-description-index.txt"
+    }
+  ],
+  "notes": [
+    "Диапазоны страниц указаны в 1-based нумерации PDF.",
+    "Каталог деталей был обработан через ocrmypdf, потому что большинство fiche-страниц были только изображениями.",
+    "Границы разделов выровнены по верхнему уровню PDF-оглавления: вводные страницы, двигатель, рама и индексы."
+  ]
+}

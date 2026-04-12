@@ -1,0 +1,8645 @@
+Description Index
+Description
+
+Grid
+
+Page RefNo. | Description
+
+{A)
+
+ALTERNATOR ASSY.
+
+0.0...
+
+.
+
+ALTERNATOR ASSY.. PULSE
+
+ARM ASSY.. SHOCK
+
+ARM COMP. CAM CHAIN TENSIONER ..
+
+Description Index
+Grid
+
+Page Ret. No.
+
+BEARING. BALL. 5206
+
+C9
+
+43
+
+19
+
+BEARING. BALL. 6303
+
+C9
+
+43
+
+20
+
+Description
+
+Grid
+
+BOLT. FLANGE. 6X10
+
+..69
+
+Page Ref.No. | Description
+
+Grid
+
+Page Ref. No.
+
+119
+
+26 | BOLT. FLANGE 6X60....-2.. B10
+
+021
+
+23
+
+G11
+
+122
+
+40
+
+27
+
+25
+
+C1
+
+BY
+
+18
+
+5 | BEARING, HEAD PIPE LOWER
+
+E8
+
+69
+
+19
+
+.B8
+
+16
+
+8 | BEARING. HEAD PIPE UPPER
+
+G11
+
+122
+
+42 | BOLT. FLANGE 6X70....00..0..
+
+E8
+
+.B10
+
+69
+
+21
+
+18
+
+24
+
+G5
+
+110
+
+13 | BEARING. NEEDLE. 19 16
+
+G12
+
+125
+
+FS
+
+34
+
+86
+
+30
+
+14 | BEARING NEEDLE 20MM
+
+27
+
+25
+
+110
+
+CF
+
+25
+
+G5
+
+BOLT. FLANGE. 6X100.
+
+B12
+
+C6
+
+37
+
+27 | BOLT. FLANGE, 6X90 20.
+
+26
+
+BOLT. FLANGE, 6X12....0000.............. B2
+
+C1
+
+27?
+
+26
+
+5
+
+25 | BOLT. FLANGE, 8X14.0000000 0, B8
+
+7
+
+20
+15
+
+0.
+
+0...
+
+0...
+
+B5
+
+11
+
+15 | BEARING. NEEDLE. 30X35x17
+
+B8
+
+V7
+
+15
+
+G1
+
+102
+
+3 | BEARING. NEEDLE. 35X42X30
+
+B9
+
+19
+
+B7
+
+15
+
+18
+
+V2 | BOLT FLANGE 8X15 00, F7
+
+91
+
+C7?
+
+38
+
+27
+
+B7
+
+15
+
+7
+
+18 | BOLT. FLANGE 8X16...
+
+..E4
+
+54
+
+12
+
+ARM COMP, SHIFT DRUM STOPPER
+
+10 | BEARING. RADIAL BALL. 16003
+
+C1
+
+C7
+
+38
+
+11 | BEARING. RADIAL BALL. 16012C3_
+
+Ce
+
+|
+
+28
+
+31
+
+85
+
+2?
+
+105
+
+29
+
+ARM.RR BRAKE
+
+F4
+
+G2
+
+.. Fe
+
+80
+
+9 | BEARING. RADIAL BALL. 5206
+
+G10
+
+121
+
+31
+
+.
+
+C9
+
+43
+
+21
+
+G12
+
+125
+
+33
+
+Fa
+
+85
+
+28
+
+ARM COMP, GEARSHIFT
+
+.
+
+ARM COMP. NEUTRAL STOPPER .
+...
+
+ARM. VALVE ROCKER |.
+AXLE FR. WHEEL
+
+.
+
+AXLE. RR. WHEEL...
+
+_
+
+Cae
+
+.
+
+B4
+
+9
+
+6 | BEARING, RADIAL BALL. 57 34C3
+
+FA
+
+78
+
+3 | BEARING. RADIAL BALL. 6302UU
+
+F4
+
+79
+
+18
+
+F2
+
+80
+
+1 |
+
+BEARING. RADIAL BALL. 6303U
+
+F3
+
+83
+
+10
+
+BEARING. RADIAL BALL. 6304
+
+C2
+
+28
+
+BEARING, RADIAL BALL. 6305
+
+C6
+
+37
+
+F4
+
+. HT
+
+126
+
+2 | BEARING 30203)...
+
+KT
+
+126
+
+2|
+
+BALL, STEEL #5 ........
+
+E11
+
+BAND BI,WIRE.....
+
+BAND, INSULATOR........
+
+BLOCK SET.CYLINDER...
+
+c8
+
+41
+
+29 | BOLT. FLANGE 6X22...
+
+12
+
+32
+
+C6
+
+29
+
+Cc?
+
+85
+
+29
+
+C7?
+
+39
+
+25
+
+oe
+
+64
+
+109
+
+25
+
+..
+
+C1
+
+26
+
+4
+
+FB
+
+92
+
+13
+
+73
+
+35
+
+68 | BODY KEY...
+
+ee. E3
+
+59
+
+5 | BOLT ASSY. FR SHOCK
+
+Go
+
+118
+
+V2 | BOLT 2 STUD, 6x32
+
+.Be
+
+5
+
+....... B2
+
+20
+
+4
+
+9
+
+B3
+
+7
+
+16
+
+BS
+
+25 | BOLT. FLANGE, 8X19...
+
+70
+
+= =75
+
+0...
+
+12
+
+£9
+
+BEARING. 16005
+BAG, TOOL. 2COMM .........
+
+. BB
+
+BB
+
+(B)
+
+BAG. TOOL...
+
+BOLT. FLANGE. 6X14...
+
+__.
+
+E10
+
+BOLT. FLANGE. 6X16...
+
+00
+
+BOLT. FLANGE. 6X20....
+
+00000...
+
+80
+
+12
+22
+
+37
+
+28
+
+G6
+
+113
+
+20
+
+39
+
+30 | BOLT. FLANGE 8X27... F4
+
+85
+
+c8
+
+2%
+
+41
+
+30 | BOLT, FLANGE, 8X32.........000000....... Cc?
+
+39
+
+29
+
+G1
+
+=103
+
+24
+
+= 109
+
+29
+
+15
+
+20 | BOLT, FLANGE 8X37... Fi2
+
+101
+
+19
+
+19
+
+13
+
+101
+
+F?
+
+20
+
+91
+
+21 | BOLT, FLANGE 8X45......0000000
+
+F12
+
+101
+
+23 | BOLT. FLANGE 8X50........
+
+.C2
+
+28
+
+29
+
+21 | BOLT. FLANGE 8X55............000....... E12
+
+77
+
+25
+
+28 | BOLT, FLANGE 8X60............ 0.0.00... G12
+31 | BOLT, FLANGE 8Xx65...........000..0..... co
+
+725
+
+20
+
+43
+
+26
+
+31
+
+c8
+
+41
+
+BAND,
+
+......
+
+7
+
+cesses FU2
+
+7
+
+100
+
+10
+
+c8
+
+41
+
+610
+
+121
+
+Fi2
+
+32
+
+100
+
+7 | BOLT, BATTERY SETTING |
+
+coe
+
+FD
+
+95
+
+3
+
+FI2
+
+100
+
+9 | BOLT. CAMCHAINGUIDEA
+
+c8
+
+41
+
+BS
+
+11
+
+7
+
+G11
+
+122
+
+E?
+
+67
+
+1? | BOLT. CAP. 6X20...
+
+BAR ASSY. SIDESTAND.....000... 0.0... G3
+
+106
+
+BARCOMP.L FOOTPEG...
+
+4 | BOLT.CONNECTINGROD............. .
+
+12 | BOLT. DRAINPLUG. 12MM...
+
+.—sss......
+
+FG
+
+. G2
+
+104
+
+BAR COMP.R.FOOTPEG..............G2
+...
+
+104
+
+BAR.LPILLIONFOOTPEG
+
+3 | BOLT. FLANGE SOCKET. 6X25
+
+Jee.
+
+.......... G2
+
+105
+
+BAR.R.PILLIONSTEP.
+
+1? | BOLT. FLANGE SOCKET. 8x85
+
+ws
+
+....G2
+
+104
+
+16 | BOLT. FLANGE 10x190...
+
+FA
+
+30
+
+G2)
+
+105
+
+............. E7
+
+67
+
+6.
+
+BAR. SEATLOCK 2
+
+2
+
+BAR, STEP HOLDER...»
+BASE COMP.. CONTACT .....
+
+0.0...
+BIT
+
+22
+
+11]
+BOLT, FLANGE 8X80...00..200
+0. C2
+32 | BOLT. FR DISK 8X57... F1
+
+28
+
+30
+
+79
+
+15
+
+41 | BOLT. FR DISK, 8X59
+
+....2.. Fi
+
+79
+
+15
+
+9 | BOLT, HEX. SOCKET, 8X32 .................. E?
+
+67
+
+14
+
+89
+
+20
+
+33
+
+?
+
+B10)
+
+021
+
+22 |
+
+4
+
+20
+
+BOLT, HEX. SOCKET, 8X50................. G6
+
+113
+
+14
+
+Bi2
+
+25
+
+HG
+
+132
+
+13
+
+26 | BOLT. HEX, 6X12 .......... Levee
+e recs F5
+
+86
+
+37
+
+C1
+
+C9
+
+43
+
+27
+
+14
+
+19 | BOLT. HEX. 6X16 00. ......BT2
+
+C9
+
+43
+
+24
+
+27
+
+13
+
+85
+
+23
+
+C4
+
+B12
+
+ss
+
+28
+24
+
+103
+
+121
+
+BAND. SELF LOCK .............
+
+27
+77
+
+—s 21
+
+.B8
+
+a
+
+2. C1
+
+18 | BOLT, FLANGE 8X49..000.. E12
+
+G1
+
+...610
+
+©.
+
+F12
+
+B10
+
+9 | BOLT-FLANGE. 6X12
+
+.......
+
+G4
+
+B9
+
+8 | BOLT-WASHER, 6X25
+
+BAND.R MUFFLER...
+
+2 | BOLT. FLANGE 8X25...
+
+.................
+B?
+
+BOLT. FLANGE, 6X22...........
+
+BOLT, FLANGE, 6X25....
+
+25
+
+91
+
+?
+
+2.0.
+
+89
+
+FR
+
+100
+
+BAND.R EX
+
+12
+
+FB
+F?
+
+0, Fi12
+sone
+
+67
+
+24
+
+BAND.L EX PIPE...
+MUFFLER...
+
+.....
+
+ds, E7
+
+BOLT, FLANGE. 6X28 ..... vette
+eee e es Bé
+
+13
+
+F4
+
+sisssi‘<CGS
+
+i
+
+23
+
+oe
+
+Bb
+
+13
+
+.G2
+
+10
+
+105
+
+30
+
+F?
+
+94
+
+18
+
+20 | BOLT. FLANGE 10X220...0.......0.
+
+om
+
+....612
+
+27
+
+125
+
+20
+
+24
+
+105
+
+23
+
+4 | BOLT. FLANGE, 10X345..00....00...........612
+
+BOLT, FLANGE. 6X35... 2.2.00... B6
+
+G2
+
+13
+
+125
+
+11
+
+23
+
+G6
+
+«113
+
+B9
+
+17
+
+85
+
+19
+
+22
+
+14
+
+GB
+
+c8
+
+116
+
+41
+
+6
+
+33 | BOLT, HEX, 6X20 ..00.00.
+
+ee. G9
+
+= 119
+
+24
+
+3874
+
+61
+
+5 | BOLT. FLANGE 10X20
+
+BOLT, FLANGE. 6X32..........0............
+
+BASE. AIRCLEANER .................. C11
+
+46
+
+BASE. HEAD COVER ........ 0... B1
+
+2
+
+BASE. TURN SIGNAL ......................67
+
+3 | BOLT. FLANGE. 10X48...
+
+0...
+
+GS
+
+114
+
+25
+
+2.
+
+1...
+
+E127
+
+E1
+
+55
+
+BATTERY .............. veer eens .... FY
+
+2 | BOLT. FLANGE 10x50...
+
+95
+
+G52
+
+F8
+
+22
+
+93
+
+BATTERY ASSY. ......
+
+1 | BOLT. FLANGE 10X53...
+
+26
+
+Fo
+
+95
+
+1 | BOLT. FLANGE 10x62.
+
+BOLT. FLANGE. 6X40... B9
+
+19
+
+G5
+
+.......€4
+
+11
+
+21
+
+15 | BOLT. HEX, 6X8 20... E11
+29 | BOLT, HOLDING ...........0.0.0.0.00000... F6
+15 | BOLT,L RR SWINGARM PIVOT ............ G4
+
+33
+
+8 | BOLT. FLANGE. 10x65...
+
+om
+
+B12
+
+27
+
+125
+
+21 {
+
+C4
+
+22
+
+33
+
+107
+
+7
+
+24
+
+BOLT. OW en, Be
+15 | BOLT, OIL CONTROL .....0....00000..00... Be
+
+BEARING B. CONNECTING ROD... C4
+
+10 | BOLT. FLANGE 10x82...
+
+63
+
+33
+
+G11
+
+122
+
+17
+
+Te
+
+BOLT, FLANGE. 6X45..00 20... bene Bi2
+
+43 | BOLT, OL 10X22 000. E5
+
+62
+
+7?
+
+BEARING B. CRANKSHAFT.
+
+8 | BOLT. FLANGE. 12x40.
+
+25
+
+24
+
+E6
+
+65
+
+16
+
+62
+
+18
+
+= 109
+
+20
+
+;
+
+BEARING A CONNECTING ROD...
+
+BEARING A CRANKSHAFT...
+
+ss
+
+24 | BOLT. FLANGE 10X38...
+
+FG
+
+2...
+
+tisi«si(tGS
+
+ss
+
+BB
+
+OG
+
+33
+
+10
+
+BEARING C. CONNECTING ROD...
+
+B9
+
+C4
+
+19
+
+33
+
+10
+
+BB
+
+om
+
+C4
+
+17
+
+2?
+
+BEARING C. CRANKSHAFT
+
+8 | BOLT. FLANGE. 12x45...
+
+33
+
+12
+
+40
+
+19
+
+27
+
+10
+
+33
+
+EB
+
+27
+
+CG
+
+69
+
+24]
+
+BEARING D. CRANKSHAFT
+
+8 | BOLT.FLANGE 6X10.
+
+BOLT. FLANGE. 6X50...00.. 0000.0, C1
+
+22 | BOLT. OIL. 10X84 2
+E5
+23 | BOLT, PANEL STOPPER ................... G4
+
+BEARING D. CONNECTING ROD... C4
+
+BY
+
+C1
+
+21
+
+33
+
+10
+
+BOLT. FLANGE. 6X52... 00. Be
+
+E12
+
+4
+
+C4
+
+77
+
+33
+
+28
+
+8
+
+F8
+
+assists‘, C4
+
+93
+
+28
+
+33
+
+10
+
+B3
+BOLT. FLANGE. 6X54.000 0, Be
+
+C7
+
+FIT
+
+4
+
+39
+
+99
+
+25
+
+33
+
+G6
+
+9113
+
+19
+
+0...
+sg
+
+BEARING E. CONNECTING ROD
+
+BEARING E. CRANKSHAFT
+BEARING. BALL 16005
+146
+
+i
+
+¢ AMERICAN HONDA MOTOR CO. INC 1993
+
+ja
+
+BOLT. FLANGE. 6X55..0
+
+0
+
+0
+
+?
+
+B3
+
+¢
+
+BIO
+
+21
+
+88
+
+8
+
+109
+
+19
+
+4
+
+15
+
+5
+
+16
+
+BOLT,PIN.
+E12
+10 | BOLT.R. CONTROL LEVER PIVOT .......... E5
+
+77
+
+14
+
+62
+
+15
+
+10
+E6
+11 | BOLT.R.RR. SWINGARM PIVOT ............ G4
+
+64
+
+14
+
+109
+
+18
+
+11 | BOLT. RECESSED, 5X12 20.000, E1
+15 | BOLT. SIDE STAND PIVOT 2000000... G3
+
+55
+
+4
+
+106
+
+10
+
+AMERICAN HONDA MOTOR CO, INC. 1993
+
+147
+
+GRID
+
+Description Index
+Description
+
+Grid
+
+BOLT. SIDE STAND RUBBER SET...........G3
+BOLT. SLOT. 5X12
+
+00000000000
+
+BOLT. SOCKET ...........
+
+20000... E1
+
+BOLT, SOCKET. 10X30 ..
+
+106
+54
+
+veccecee
+eee E10 73
+G2.
+105
+
+BOLT, SOCKET, 10X25...
+|...
+
+BOLT, SOCKET. 10X85 2.0
+BOLT. SOCKET, 10X40...
+
+1
+
+BOLT. SOCKET. 6X23...
+
+i
+
+ssi«w«s‘i(‘iwiz
+
+14 | BOSS, OI FILTER
+
+........ re B11
+
+Description
+
+= 73
+
+30
+
+CALIPER ASSY,L.FRO........
+
+23
+
+le
+
+CALIPER ASSY,RFR.w...
+
+Grid
+ye.
+
+76
+
+El2
+
+77
+
+CALIPER COMP.
+wee E12
+CALIPER COMP.R. 0.60.0..
+EV
+.
+CAM
+RR.
+BRAKE ........ eee eee nes Fe
+CAM, DAMPER .... 600. G4
+
+80
+
+7 | CHAIN, CAM. 0.000000... bbe
+
+108
+
+2 | CHAIN. OIL PUMP
+
+8
+8
+
+676
+
+4 | CASE, THERMOSTAT .............. .......€8
+
+40
+
+77
+
+2
+
+18 | CENTER,CLUTCH
+
+14
+
+4
+
+eee eee ...B5
+
+10
+
+2
+
+B11
+
+923
+
+5
+
+4 | CHAMBER COMP,.EX. .....0..00000 000... Fi2
+@|
+CHAMBER SET, FLOAT ........00.00.... C12
+
+100
+48
+
+3
+4
+20
+
+17
+
+57
+
+18
+
+105
+
+25 | BOX ASSY. PILOT UPPER ..............., E2
+21 | BOX ASSY. SPEEDOMETER GEAR.......... F1
+
+19
+
+79
+
+9
+
+77
+
+23 | BOXASSY.TOOL
+
+CAMSHAFT COMP..FR.EX ...... evens B4
+CAMSHArT COMP, FR.IN. ............0..., B4
+
+92
+
+12
+
+ES
+
+62
+
+16 | BRACKET ASSY., CAM CHAIN TENSIONER
+
+CAMSHAFT COMP, AR. EX. 000, B4
+
+8
+
+15 | BRACKET COMP. CAM CHAIN TENSIONER
+
+CAMSHAFT COMP. RR.IN. 26 B4
+
+62
+
+65
+
+3
+
+> { CIRCLIP ee, E5
+
+E6
+
+10
+
+5
+
+CANISTER COMP. ....0..0................. 44
+
+3 | CIRCLIP. INTERNAL 18MM... 1
+
+65
+
+18
+
+132
+
+3}
+
+CAP eee be neve
+bees 65
+CAP A,CONNECTING ..................... C8
+
+110
+
+8673
+
+4 | CIRCLIP. 25MM 0... C6
+
+33
+
+37
+
+25
+
+40
+
+2]
+
+20
+
+12
+
+117
+
+117
+
+3
+6 | CLAMPA WATERHOSE..............
+
+F8
+...€8
+
+93
+40
+
+25
+11
+
+#117
+
+? |
+CLAMP
+A
+WATER
+PIPE... C8
+3? | CLAMP B,WATERHOSE................... C8
+
+41
+
+14
+
+40
+
+12
+
+40
+
+8 | CLAMPB.WATERPIPE 0.00... cs
+
+41
+
+7
+
+89
+
+13 | CLAMP, ALTERNATOR CORD .............. Bg
+7 | CLAMP, CABLE...
+ee, G6
+
+19
+
+8
+
+110
+
+112
+
+5 | CLAMP, COIL WIRE ....................0., Go
+
+10
+
+«118
+
+= 20
+
+4
+
+14 | CLAMP, DRAIN TUBE .........
+
+00......... Fil
+
+98
+
+17
+
+CLAMP, PULSER CORD..................., B6é
+
+13
+
+5
+
+2 | CLAMP, RECTIFIER WIRE .................. F8
+
+92
+
+3
+31
+
+G12.
+
+125
+
+SS
+
+62
+
+16
+
+ES
+
+64
+
+15 | BRACKETCOMP.L
+
+............
+
+FB
+|
+
+BS
+
+HOLDER ........... ce vee
+e ees BS
+
+2... EF
+
+11
+
+16
+
+54
+
+8
+
+77?
+
+9
+
+73
+
+13 | BRACKET COMP.LFR ...... beeen E12
+47 | BRACKET COMP.LSTEP ..............G2
+
+104
+
+5
+
+85
+
+19 | BRACKET COMP.R. 2...
+
+CAP ASSY. 1, COIL WIRE ..0....000..0..... 68
+CAP ASSY.2.COIL WIRE. oe, GB
+
+54
+
+9
+
+CAP ASSY. 4, COIL WIRF ooo...
+
+77
+
+20
+
+FS
+
+18
+
+0.0.00...
+EF
+20 | BRACKET COMP,RFR...................E12
+
+ENO
+
+O73
+
+49 | BRACKET COMP.RSTEP....... .........62
+
+104
+
+4
+
+C9
+
+43
+
+BOLT. SPECIAL FLANGE 8X16 .............E1
+
+13 | BRACKET,L ELECTRIC PARTS ............ G9
+
+= 118
+
+15
+
+54
+
+115
+
+WV
+
+CAP COMP.. FUEL FILLER ................ . F6
+CAP COMP.. RADIATOR ...........0......... G10
+
+GP
+
+0.0...
+
+9
+
+57
+
+67
+
+BOLT, SOCKET, 8X22
+
+6
+
+90
+
+5?
+
+EP
+
+ww.
+
+54
+
+............... bene. F7
+
+ee. 68
+
+CAP ASSY. VALVE... 00. E10
+CAP B, CONNECTING PIPE
+
+................ C8
+
+73
+
+BOLT, SPECIAL FLANGE. 8X26... 1... E41
+
+54
+
+BOLT. SPECIAL FLANGE 8X28... ....61
+
+12 | BRACKET.L RR. TURNSIGNAL ............ Gf
+13 | BRACKET. LICENSE PLATE .......... ....,G6
+
+112
+
+103
+
+13
+
+CAP. AIR VALVE ... 0.0.0...
+
+BOLT. SPECIAL FLANGE BX45 .......... F12.—«101
+
+15 | BRACKET. R ELECTRIC PARTS. ............ Go
+
+«118
+
+13
+
+214}
+
+CAP, BLEEDER SCREW .................... B10
+
+BOLT, SPECIAL 6X29... .....B1
+
+115
+
+16
+
+c8
+
+41
+
+106
+
+9
+
+E12
+
+76
+
+BOLT. SPECIAL
+
+7X18...
+
+BOLT. STUD. 10X50...
+
+.........
+
+02...
+
+0
+
+BOLT, STUD, 6X32...
+BOLT. STUD. 6X45...
+
+sd
+
+1? | CASE RAR COWL
+
+BOXASSY, PILOT... 0.) 0...
+E2
+15 | BOX ASSY. PLOTLOWER... 2000... E2
+
+69
+
+E10
+
+BOLT, SOCKET. 8X17...
+
+Page Ret. No.
+
+21]
+
+EB
+
+2.
+2...
+
+CASE. HEADLIGHT 00... E41
+
+5
+
+ww
+
+BOLT. SOCKET. 8X16...
+
+3}
+
+6
+
+BOLT. SOCKET. 7X38...
+
+00
+
+Grid
+
+E12
+
+BOLT. SOCKET. SMM...
+BOLT. SOCKET. 8X11
+
+|
+
+Page Ref.No. | Description
+
+92
+
+_...€12
+weve
+
+11 | BOOT, PISTON CASE... E10
+
+Page Ref. No.
+
+9e
+
+we, G2.
+
+BOLT. SOCKET. 6X22...
+
+Grid
+
+48 | BOX ASSY.FUSE wo
+FB
+Ze
+FB
+
+T2125
+
+cee.
+
+Description Index
+
+Page RefNo. {| Description
+
+2
+
+BRACKET,A
+RAR TURNSIGNAL ............67
+
+eee G5
+
+120
+
+21 |
+
+00...
+
+B?
+
+E
+
+CIRCLIP, INTERNAL 50MM .....0.....0...... E10
+CLAMP
+
+eee. B10
+
+C7
+
+39
+
+> | BRACKET. SIDE STAND RUBBER .......... G3
+20 | BRAKE PADKIT 0...
+ET
+
+7?
+
+NI
+
+Fa“
+
+85
+
+CAP, BREATHER ...............
+
+20 | BRAKE SHOEKIT 0... F2
+
+.......... F4
+
+84
+
+81
+
+NI
+
+4 | CLAMP, TUBE ................ once eee F111
+
+99
+
+B2
+
+5
+
+CAP, L. LOCK NUT ©0000...
+
+20 | BRAKE SHOE SET... ....F2
+
+eee, G4
+
+109
+
+16 } BREATHER ASSY............ eee
+c tenes F4
+
+CAP, MAIN GALLERY ................0...0.. C1
+
+11
+
+?
+
+NI
+
+86098
+
+B3
+
+81
+
+23 | CLAMP, TUBE VENT.......00.. 00.0....... FI1
+
+84
+
+26
+
+20 | BRIDGE CALIPER BRACKET
+
+12
+
+CAP, MASTER CYLINDER .................. E4
+
+cs
+
+40
+
+12
+
+?
+
+77
+
+18
+
+B3
+
+............., E12
+
+125
+
+11
+
+5
+
+CAP, MAIN STAND PIPE ...................612
+
+40
+
+BR
+
+4
+
+4 | CLAMP. WATER HOSE..................... cs
+
+8
+
+25
+
+1
+
+64
+
+121
+
+56
+
+E6
+CAP.
+OIL
+FILTER «0.0... Bé
+
+G10
+
+5
+
+8
+
+8
+
+BR
+
+67
+
+61
+
+13
+
+3]
+
+G11
+CLAMP.WIRE .........0000.00.0000000.... Gi2
+
+123
+124
+
+4
+
+7
+
+B3
+
+4
+
+16 | BRIDGE FORK TOP.......... vee
+eee E7
+20 | BULB...
+E2
+16 | BULB HEADLIGHT 200000000000 E4
+
+54
+
+5
+
+ETT
+
+PG
+
+6¢ | BULB TAILLIGHT ..... cence
+ete eg .....68
+
+CAP, R. LOCK NUT 1.2.0.0. G4
+
+109
+
+116
+
+118
+
+103
+
+121
+
+15
+
+5
+
+82
+
+?
+
+CAP, SOCKET BOLT.
+
+26
+
+...F3
+
+18
+
+14 | CLIP, BREATHER TUBE .................... C1
+
+BOLT. UBS. 10X34.
+
+14 | BULB TURN SIGNAL ............0
+
+CAP, RESERVE TANK ..................... 610
+
+22 | CLIP, AIR VENT TUBE ...........0......... Go
+
+0..........61
+
+4
+
+115
+
+18
+
+19
+
+47
+
+42
+
+B5
+
+41
+
+74
+
+60
+
+1
+
+«(97
+
+1
+
+we
+
+56
+
+F10
+
+BOLT, UBS. 8X190
+
+17 | BULB. WEDGE BASE......... btn teens E2
+
+CAP, SOCKET BOLT. 8MM ................. E11
+
+C11
+
+BOLT. UBS 7X15...
+
+G7
+
+67
+
+43
+
+11]
+
+G6
+
+113
+
+16
+
+4
+
+CAP, STARTING CLUTCH ROLLER SPRING .. B8
+
+23
+
+2, B2
+
+2
+
+98
+
+BOLT, UBS, 8X151
+
+56
+
+F171
+
+B3
+
+ra
+
+54
+
+5
+
+CAP, SWINGARM SIDE
+
+BOLT. STUD. 6X50...
+
+2...
+
+BOLT. STUD. 8X50...
+BOLT. TIEROD..........
+
+0.0
+
+BOLT. UBS, 8X60
+
+2
+
+BOLT, UBS. 9X10B
+
+0.0
+
+2.
+
+BOLT, UBS. 9X177 20...
+BOLT. UBS, 9X88
+BOLT.UBS.9xX91
+
+_.
+
+cee
+
+ow
+
+BOLT. UBS, 9x98
+
+00...
+G7
+
+BULB. WEDGE BASE 12V3W .........0...., E2
+12 | BULB 12V60/5SWHA ln, E1
+
+43
+
+64
+
+15 | BUSH, GUIDE................ Lone eee as E9
+
+3
+
+71
+
+CAP, TAPPET ADJUSTING HOLE............ F4
+
+13
+
+01
+
+27
+
+11}
+
+CARBURETOR ASSY...................0..5 C10
+
+B2
+
+71
+
+4
+
+14
+
+14
+
+CARBURETOR ASSY.1
+
+72
+
+15
+
+B3
+
+?
+
+14
+
+CF
+
+26
+
+8
+
+C1
+
+26
+
+9
+
+B?
+
+4
+
+13
+
+B3
+
+7?
+
+13 | CABLE ASSY, SPEEDOMETER
+
+2?
+
+10 | CABLE COMP.A THROTTLE
+
+BUSH SLIDER ..............
+bebe
+e
+eee ees E9
+E10
+
+(C)
+
+57
+
+.............. E3
+15 | CABLE COMP.B, THROTTLE ............... E3
+20 | CABLE COMP.CHOKE .......... eee, ...E3
+
+59
+
+1
+
+59
+
+2
+
+2
+
+BOOT COMP.. RR. SHOCK
+
+65
+
+117
+
+.
+
+G4
+
+109
+
+ES
+
+61
+
+12 | CABLE. BATTERY STARTER ......
+
+E6
+.E2
+
+64
+77
+
+BOOT MASTER CYLINDER |
+BOOT. PIN .
+148
+
+....E12
+
+.
+
+Co
+
+¢ AMERICAN HONDA MOTOR CO. INC
+
+1993
+
+7?
+
+21
+
+59
+
+3
+
+96
+
+11
+
+FO
+
+95
+
+5
+
+12 | CABLE.INNER...0. 0.00... an E2
+16 | CABLE STARTER MOTOR ...... 2. ....... FO
+
+57
+95
+
+22
+6
+
+14 | CABLE BATTERY GROUND.......
+
+........F10
+
+J2
+
+16
+
+109
+
+84
+
+7
+H4
+16 | CLIP, CLUTCH CABLE ........0000..0.0..... G5
+
+1]
+
+CLIP,HARNESS.........0..0.......0... ...G9
+
+= 132
+
+1
+
+110
+
+1
+
+= 45
+
+118
+
+16 | CLIP, HIGH TENSION CORD ................ C4
+
+11
+
+...... 2... C10
+
+26
+
+6
+
+=—45
+
+CARBURETOR ASSY. 2 .................... C10
+
+1? | CLIP, OVER FLOW TUBE........ seve cece ee GB
+
+«117
+
+= 45
+
+1
+
+CARBURETOR ASSY. 3 .....0.00000...00... C10
+CARBURETOR ASSY. 4 .....0....0......... C10
+
+..........000.. ...B?
+
+15
+
+19
+
+12
+
+CASE ASSY.L. PISTON .......... coves E10
+
+73
+
+19 | CLIP PISTON PIN 18MM................... C5
+20 | CLIP, PULSER WIRE.
+220 oo..
+.. . B8
+
+35
+
+= 45
+
+CASE ASSY. SIDE GEAR
+
+.... .......E2
+
+BOOT...
+2.
+
+.................... G4
+
+12 | BUSH 2.00, E6
+
+ree oa
+
+BCOT. JOINT...
+
+......... bebe ees E7
+
+2
+
+.................. C9
+
+CASE COMP, L LOWER ................... E10
+
+45
+
+42
+
+18 | CLIP, PISTON PIN 15MM
+
+43]
+
+CLIP, TUBE. B10
+
+3
+
+7
+
+F6
+&9
+4 | CUP. TUBE. B7 ..........
+Lote
+e
+even
+ens C1147
+8
+F6
+89
+
+39
+
+72
+
+18
+
+CASE, AIR CLEANER ................
+00... F10
+CASE, COUPLER HOLDER ....... beeen E8
+
+= 97
+
+CASE. FINAL GEAR
+
+...0....
+
+49
+
+41
+
+ee, E10
+CASE COMP, SIDE GEAR .................. C9
+
+68
+
+H4
+
+9
+
+47
+
+4?
+
+42 | CLIP, TUBE, B12
+
+42
+
+oe. C11
+
+133
+
+873
+
+CASE COMP, R. LOWER...
+
+2...
+
+7
+
+2.00, C1
+
+24
+
+23
+
+9)
+
+CLIP TUBE.B8 ee, H4
+
+133
+
+CUP. TUBE.Ci1 GIT
+
+16
+
+oe
+FA
+
+84
+
+3}
+
+CASE. FUSE...
+BY
+CASE GUIDE... 65
+
+122
+
+118
+
+39
+
+110
+
+10 | CLIP TUBE.C12 000, FI1
+(99
+15 | CUP. TUBE. D85........... Levee cence H4 = 133
+
+32
+18
+
+¢ AMERICAN HONDA MOTOR CO, INC. 1993
+
+149
+
+GRID
+
+Description Index
+Description
+
+Grid
+
+CLIP, TUBE, 105MM...
+
+6...
+
+oe. B14
+
+2
+
+H4
+
+= 133
+
+CLIP,
+WIRE
+HARNESS...
+COIL COMP. IGNITION
+
+..
+
+..B10
+
+ws,
+
+Description Index
+
+Page Ref. No. {| Description
+
+20
+
+GBC
+
+Grid
+
+Page Ref. No.
+
+19 | COVER DAMPER..........
+
+G4
+
+111
+
+108
+
+5
+
+DUST SEAL, FR.FORK
+
+29 | GASKET, FR FORK DRAIN VALVE .......... E10)
+
+073
+
+50
+
+COVER DUST...
+GI
+
+73
+
+102
+
+5
+
+DUST SEAL. STEERING
+HEAD .............. E8&
+
+23 | GASKET, HEAD COVER .................... B14
+
+2
+
+4
+
+68
+
+5
+
+123
+
+5
+
+E8
+
+68
+
+96
+
+13
+
+109
+
+92
+
+7
+
+DUST SEAL. 26X40X§ .........
+G4
+DUST SEAL. 40X50X5 ..0 0...
+FI
+
+6 | GASKET, INDICATOR SWITCH COVER
+
+26
+
+79
+
+17 | GASKET. LENS 00...
+
+12}
+
+2 | COVER FAIRING BRACKET
+
+............611
+
+3}
+
+15 | COVER FUSEBOX
+
+COLLAR
+B
+ENGINE HANGER ....
+
+.......612
+
+124
+
+COLLARB.RR.DISTANCE
+
+16 | COVER GEAR CASE ................,.....
+F4
+
+...... FG
+
+84
+
+6
+
+85
+
+181
+
+... E7
+
+7?
+
+COLLAR COMP. FR. AXLE DISTANCE ... F
+
+125
+78
+
+67
+
+3
+5
+
+COLLAR BUSH ow...
+
+ww. GS
+
+COLLAR. CHAIN CASE. .....
+
+«00...
+
+COLLAR. CONNECTING ROD...
+
+COVER
+FUSE
+0...
+FIO
+...
+
+0.0.0...
+
+......
+
+FB
+
+4
+
+D1
+
+51
+114
+
+4
+6
+
+GP?
+
+GASKET, MUFFLER .......... Cece cece eee Fi2
+
+100
+
+11
+
+Fi2
+
+100
+
+i2
+
+B11
+D1
+
+23
+51
+
+2
+4
+
+19
+
+ELEMENT, AIR CLEANER ...
+
+097
+
+99
+
+26
+
+EMBLEM. L. FUEL TANK
+
+ow... F6
+
+2 | GASKET, Ol STRAINER ......0.000.0...0.. B11
+
+23
+
+89
+
+8
+
+121
+
+20
+
+EMBLEM, R. FUEL TANK... 00... F6
+
+16 | GASKET, PISTON CASE ....0000.00..00.... E10
+
+3672
+
+16
+
+89
+
+57
+
+20
+
+15 | GASKET,R COVER
+
+EMBLEM, RR. COWL
+
+91
+
+12
+
+E&
+
+68
+
+14
+
+EMBLEM, SIDE COVER .......
+
+93
+
+... F9
+
+95
+
+7
+
+COVERL ELECTRIC PARTS.
+
+©...
+
+COVERLFRSIDE
+
+.........FIT
+
+.......G2
+
+104
+
+.
+
+1 | COVER LRADIATOR
+
+©.
+
+............
+
+¥? | COVER LOWER...
+
+.69
+610
+
+ne 24
+
+............... F8
+
+92
+
+1
+
+COLLAR. FR WHEEL SIDE
+
+60
+
+F4
+
+78
+
+COLLAR, FUEL TANK FR. MOUNTING ... ...F6
+COLLAR, FUEL TANK SETTING
+.......... F6
+
+4 | COVER, MAGNETIC SWITCH TERMINAL .
+
+8&9
+
+11
+
+89
+
+COLLAR, GEAR CHANGE PEDAL PIVOT
+
+19 | COVERR CANISTER...
+
+....61
+COLLAR, GEARSHIFT DRUM STOPPER... «C7
+COLLAR, GEARSHIFT PEDAL PIVOT.... .... 61
+
+9102
+
+2|
+
+38
+
+l2 | COVERRFRSIDE....
+
+102
+
+COLLAR, HEADLIGHT CASE ................E1
+
+54
+
+COLLAR, MUFFLER MOUNTING
+
+...F12
+
+COLLA
+PISTON ....000..0.0.........
+R,
+.. .E1O
+COLLAR. RADIATOR MOUNTING .. _...
+...610
+610
+
+121
+
+COLLAR. RESERVE TANK SETTING ....... .610
+COLLAR, RR. AXLE DISTANCE ..... Deven F3
+
+22 | COVER SPEEDOMETER ......... bones ....€2
+
+120
+
+12 | COVER STARTING MOTOR TERMINAL .._... F9
+
+(E)
+
+GASKET, OIL PAN
+
+............. F1I0
+
+ww. F?
+
+00... F8
+
+..000..0.000 Bé
+
+13
+
+2
+
+D1
+
+51
+
+2
+
+20 | GASKET, SEAL 00... ..68
+
+116
+
+4
+
+GASKET, SIDE GEAR CASE ............
+
+42
+
+5
+
+c9
+
+FO
+
+95
+
+9
+
+HG
+
+1382
+
+4
+
+........... G9
+
+= 118
+
+18
+
+FIT
+
+99
+
+25
+
+120
+
+121
+
+4)
+
+19
+
+121
+
+FENDERA RAR... G6
+
+B6
+
+24
+
+112
+
+FENDER BAR... ee.
+
+G6
+
+112
+
+2
+
+70
+
+3
+
+9}
+
+4
+
+16
+
+120
+
+20
+
+FENDER COMP. FR..
+le,
+. E9
+FILTER. OIL ....... veces eet
+eee eens B11
+
+3
+
+19 | COVERRR BIO
+
+11
+
+16
+
+72
+
+120
+
+5 | GEAR ASSY, FINAL oo. F4
+7? | GEAR COMP, STARTER CLUTCH ........... B8
+
+B4
+
+161
+
+2|
+COVER R RADIATOR... .................610
+7 | COVER RADIATOR HOSE...
+sss G0
+15 | COVER RESERVE TANK ................610
+
+FAN. COOLING ..........0..0.0.0.0000005. G10
+
+54
+
+4
+
+FLANGE FINAL DRIVEN ................... F3
+FLANGE, STARTER CLUTCH ...............B8
+
+82
+
+48
+38
+
+00.00, C7
+
+.........
+bebe
+e
+eee ee. C7
+
+82
+
+COVERRELECTRICPARTS
+
+COVER RUBBER
+
+....
+
+..
+
+=.
+
+o£
+
+2 | COVER TACHOMETER ....................E2
+
+D1
+GASKET, WATER PUMP COVER ............ B10
+GAUGE, FEELER.07 ..000..000.0.000..... HT
+
+(F)
+
+57
+
+9
+
+95
+
+8
+
+57
+
+14
+
+FLOAT SET ....... 02.
+eee, C12
+FORK, CENTER GEARSHIFT ............... C7
+
+23
+16
+
+.......... C6
+3 | GEAR, COUNTERSHAFT LOW ..............C6
+
+17
+8
+
+3}
+
+GEAR, MAINSHAFT FIFTH ........000....... cé
+
+36
+
+12
+
+21|
+GEAR, MAINSHAFT FOURTH ............. .. C6
+30 | GEAR, MAINSHAFT SECOND & THIRD ....... cé
+
+36
+
+10
+
+36
+
+5
+
+37
+
+15
+
+14
+
+11
+
+79
+
+10
+
+FORK, L. GEARSHIFT ....0
+
+COLLAR. SHOCK ARM...
+
+6...
+
+we. 65
+
+7
+
+710
+
+9 | CRANKSHAFT COMP. ....000..00..........C€4
+
+FORK,
+R. GEARSHIFT
+
+65
+
+33
+
+171
+
+9
+
+123
+
+COLLAR, SPLINE, 25X125.
+
+0
+
+C6
+
+20
+
+37
+
+11
+
+CB
+
+36
+
+16 1 CUP.PISTON 300.0000. bocce. ...B10
+16 | CYLINDER ASSY. CLUTCH MASTER ........ E6
+7 | CYLINDER ASSY. CLUTC SLAVE ...... ...B10
+
+FRAME COMP...................0..000000. G11
+
+64
+
+1
+
+FUNNEL, AIR ........... bce teen
+eny C100
+FUSE BL... eee
+eee F8
+
+20
+
+93
+
+7
+
+45
+
+119
+
+2...
+
+..E9
+
+71
+
+COLLAR, STAND RUBBER SETTING...
+
+3 | CYLINDER ASSY. FR. BRAKE MASTER ...... E4&
+
+61
+
+.... G3
+
+6
+
+106
+
+FUSE FF ow. cec ce
+e
+enes F10
+
+3696
+
+COLLAR, 20X11.8 20.0, ... C6
+
+8 | CYLINDER SET.MASTER ...........
+
+62
+
+13
+
+36
+
+4
+
+FUSE, BLADE .....00..00000..
+
+27 | GEAR. MAINSHAFT SIXTH .....0.0000.0
+0... C6
+21]
+GEAR. PRIMARY DRIVE ........... bee
+ee 87
+
+ee, F9
+
+94
+
+31 | GEAR, SPEEDOMETER .................... Fi
+
+COLLAR, 252X7 6
+
+15
+
+13
+
+F9
+
+94
+
+32 | GEAR, STARTER REDUCTION .............. B8
+
+C6
+
+COLLAR, 25X12...
+
+36
+
+9
+
+C6
+
+36
+
+COTTER, VALVE...
+
+13
+
+BS
+
+9
+
+«BY
+
+2
+
+COVER ASSY.R CRANKCASE ........... .. BB
+COVER B, CYLINDER HEAD .__..
+
+Cee B1
+
+COVER B. TERMINAL...............
+
+.
+
+.......
+
+COVER SET.LSIDE
+
+FB
+20...
+
+COVER. AIRCLEANER BASE
+
+COVER. ALTERNATOR
+COVER CLUTCH.
+
+2
+
+126
+59
+
+GRIP,L.SIDE... ee. G6
+
+40
+
+112
+
+12
+
+59
+
+9
+
+GRIP RSIDE
+
+112
+
+11
+
+61
+
+13
+
+11
+
+1
+
+E6
+
+GASKET ... 0...
+ee E10
+
+64
+
+72
+
+11
+
+16 | GRIP,R HANDLEBAR ..................... E3
+
+2
+
+2 |
+
+GASKETA EX PIPE... D1
+
+50
+
+4]
+
+10 | DISK LFR BRAKE
+
+......0..
+
+14
+
+5
+
+0000...
+FI
+
+19
+
+Fi2
+GASKET SET... owe
+eee C12
+
+100
+
+14
+
+2 | GROMMETA RR COVER...
+
+20
+
+48
+
+3
+
+GASKET, AIR CLEANER COVER ............ F103
+
+1 | GROMM
+A SIDE COVER
+ET
+
+............
+0... FB
+
+93
+
+(97
+
+17
+
+FIO
+
+897
+
+5 | GROMMET B,RR COVER.................. co
+9 | GROMM
+AIR CLEANER
+ET,
+CASE ............ FB
+
+42
+
+2
+
+92
+
+15
+
+= 119
+
+21
+
+ow.
+
+FI
+
+19
+
+13
+
+.........H1
+
+FB
+
+93
+
+126
+
+FS
+
+16 | DRIVER 3.MINUS SCREW ..... ...........H1
+
+13
+
+87
+
+6 | DRUM ASSY. GEARSHIFT
+
+126
+
+14
+
+O98
+
+38
+
+13 | DRUM. GEARSHIFT
+
+5
+
+LF
+
+38
+
+6
+
+GASKET, CONNECTING CAP
+
+.. F10.—
+
+97
+
+10
+
+E277
+
+...
+
+3...
+
+00...
+
+|... C7
+
+0...
+
+FIO
+
+0— 97
+
+6 | DUCT. AIRCLEANER IN...
+
+FIO)
+
+8— 97
+
+? | DUSTSEAL
+
+.
+
+Bo
+
+18
+
+1
+
+..
+
+C9
+
+42
+
+1 | DUSTSEAL BRAKE CAM.
+
+G6
+
+...........B7
+
+9 | DISK RFR BRAKE...
+
+¢ AMERICAN HONDA MOTOR CO. INC. 1993
+
+15
+
+H1
+ee. ES
+
+GRIP,
+L
+HANDLEBAR...
+
+21
+
+0...
+
+ss
+
+GASKET, ALTERNATOR COVER ............ B9
+
+18
+
+D1
+
+51
+
+wo... c8
+
+4
+
+8
+
+D1
+GASKET, CYLINDER HEAD
+00...
+..0
+02... Be
+
+54
+
+65
+
+111
+
+ev
+
+dF
+
+80
+
+6
+
+L
+
+150
+
+0
+
+DIAPH
+...0..0 0.
+RAGM
+EG
+
+19 | DRIVER 1.PLUS SCREW.........
+
+COVER, AIRCLEANER CASE...
+
+6
+
+1}
+
+20
+
+sss sis‘“a“‘asti(‘(s#wsS FAT
+
+2
+
+120
+
+93
+
+93
+
+COVERSET.R SIDE...
+COVER SET. VALVE...
+
+B10.
+
+(G)
+
+16
+
+GRILLE, RADIATOR .............. eee ees G10
+
+.... F8
+
+... FI0— 96
+
+COVER COMP. WATER PUMP...
+
+(D)
+
+DISK CLUTCH FRICTION ......
+
+41
+
+36
+
+3
+
+COVERA CYLINDERHEAD...........
+
+36
+
+37
+
+40
+90
+
+15 | DIAGRAM, VACUUM HOSE ROUTING...
+
+14
+
+1 | GEAR, COUNTERSHAFT
+THIRD ............. C6
+
+......€8
+
+COWLSET, HR...
+FF
+
+COLLAR. 25X10.
+
+5
+
+36
+
+38
+
+2 | COVER THERMOSTAT
+2|
+
+8...
+BP
+
+84
+
+38
+
+20
+
+...... E5
+
+4
+
+3
+
+80
+
+COLLAR. SPRING...)
+
+3
+
+13
+
+é
+
+F
+
+G9
+
+4 | GEAR, COUNTERSHAFT FOURTH
+
+126
+
+36
+
+sd.
+
+0...
+
+1 | GEAR COMP. STARTING CLUTCH .......... B8
+10 |
+GEAR
+SET
+FINAL ...00.0. 0. F4
+1 | GEAR, COUNTERSHAFT FIFTH ............. cé6
+
+5
+6
+
+2 | GEAR, COUNTERSHAFT SECOND .......... cé
+3 | GEAR, COUNTERSHAFT SIXTH ............. cé
+
+COLLA
+RR
+WHEEL SIDE...
+R.
+
+.......
+
+GAUGE OLLEVE
+
+51
+20
+
+36
+
+COLLAR,RR COVER. .....................B10
+
+1.
+
+18
+
+118
+
+7}
+
+COLLAR. FR FENDER...
+
+COLLAR, SPLINE 25X95...
+
+3
+
+|... B9
+
+18
+132
+
+11]
+
+.......
+
+50
+
+1...
+|... B9
+5 | COVER LCANISTER.. 0...
+-...,H&
+
+132
+
+0...
+
+D1
+
+1...
+
+70
+
+ss. GS
+
+......... bees EWM
+
+COVER HANDLE .....0 0...
+1? | COVER INDICATOR SWITCH.
+
+H&G
+
+COLLAR, CANISTER MOUNTING...
+
+Page Ref. No.
+
+DUST SEAL, CONNECTING ROD PIVOT ..... Gs
+
+7124
+
+.............672
+
+Grid
+
+11
+
+612
+
+COLLAR C.ENGINE HANGER
+
+Page Ref.No. | Description
+
+68
+
+117
+
+.......
+
+Grid
+
+19 | COVER COUPLER HOLDER................ £8
+
+GB
+COLLAR
+A
+ENGINE HANGER...
+
+Description
+
+J3
+
+0
+
+0... B10
+
+2
+
+co
+
+3 | GROMMET, BREATHER TUBE .............. G11
+22 | GROMMET, SIDE COVER .................. F6
+
+123
+
+4
+
+89
+
+14
+
+4
+
+8 | GUIDE A CAMCHAIN ... 0000... B5
+7 | GUIDE B. CAMCHAIN ©... B5
+
+41
+
+8
+
+11
+
+B3
+
+4
+
+6
+
+6 | GUIDE COMP.A CAMCHAIN....
+
+D1
+
+50
+
+2 |
+
+11
+
+6
+
+14
+
+3
+
+..........B5
+GUIDE. CLUTCH OUTER oo... B?
+
+AMERICAN HONDA MOTOR CO. INC. 1993
+
+151
+
+GRID
+
+Description Index
+Description
+
+Grid
+
+GUIDE, DRAINPIPE ....................F12
+GUIDE.EX VALVE...
+
+GUIDE. OLSEAL.
+
+sw
+
+Description Index
+
+Page Ref.No. | Description
+101
+
+47
+
+i
+
+3
+
+1
+
+B3
+
+6
+
+1]
+
+tws:t~—SsCS*«O
+
+Grid
+
+Page Ret. No.
+
+(0)
+
+j__ aieass tion
+LASEL TIRE CAUTION
+LENS TURN SIGNAL
+
+INDICATOR RR. BRAKE
+
+=
+
+8 | INSULATOR. CARBURETOR
+
+|...
+
+F2.~—s«O
+
+.
+
+(H)
+
+ee
+
+8
+
+LEVER COMP,L HANDLE .......
+
+4
+6
+
+8
+7
+
+LEVER SETA. LINK
+LEVER. CHOKE .
+
+20
+
+8
+
+LIDAR COWLCASE....
+
+D151
+
+6
+
+LIFTER DAMPER
+
+...ss—s—iwsi‘i‘«i‘éi
+B3
+
+IMSULATOR, CLUTCH SLAVE CYLINDER
+
+B10
+
+HANDLE. EYE WRENCH. 120MM
+...
+
+sO
+
+sss
+
+HANDLEBAR. COMP. R
+
+ss
+
+14
+
+oe... GR
+
+117
+
+9 | JET. MAIN = 130
+
+HEAD COMP.RR CYLINDER .
+
+7
+
+HOLDER A CAMSHAFT
+
+:s|
+
+z
+
+2|
+
+JET.MAIN #122.
+
+...._._-B8
+
+6
+
+EA
+
+54
+
+1|
+
+..s~iCO*C:
+YD
+
+54
+
+3 | JET.NEEDLE..
+
+oo... GF
+
+114
+
+HEADLIGHT ASSY.......
+
+HOLDER .
+
+(J)
+
+62
+
+HARNESS, WIRE
+.
+
+UNIT...
+
+LINK SETB,STARTER.
+
+6
+
+ES
+
+HEAD COMP. FR CYLINDER ee
+HEADLIGHT
+
+HYC1272—~SC*~=«*YN
+EC
+
+...
+
+ee
+
+BY
+
+3
+
+4 | JET.MAIN,
+= 95 _
+
+Coo
+
+ee
+
+JE. MAIN
+=98 0
+
+..
+
+C12
+
+49
+
+...Cl2
+
+21
+
+£12
+49
+1
+
+21
+22
+
+eee
+
+2.
+
+12
+
+7 | JET.SECONDARY MAIN. 1.0... C12
+
+3
+
+22
+
+49
+
+JET. SECONDARY MAIN, #130.............C12
+
+49
+
+16
+
+49
+
+22
+
+Page Ref.No. | Description
+
+G4
+
+109
+
+17]
+
+GP
+
+NG
+
+3
+
+ss.
+
+.....
+.
+..
+
+NUT.FLANGE 66MM...
+
+....
+
+«E6—«CHS~*«‘*S
+
+Grid
+
+Page Ref. No.
+
+£8»
+
+«669—O20
+
+Ff?
+
+o94—”s«i
+
+F10
+
+96
+
+—s«‘18
+
+101
+
+3925
+
+4G
+
+4
+
+59
+
+F12
+
+4
+
+63
+
+106)
+
+13
+
+s—si‘<izLCO:s«*SD
+
+69
+
+119
+
+22
+
+611
+
+122
+
+37
+
+aa asst.
+
+LINKSETC.STARTER....
+
+2...
+
+ss
+
+Grid
+
+O10
+BB
+
+LINKSETASTARTER
+HANDLEBAR.
+
+.....
+
+64
+
+C10
+010
+
+.,——«i«<C1s
+
+LOCK BEARING ADJUSTING
+....
+..
+1... F4
+Fu
+
+108
+
+3
+
+ha
+4h
+
+2 | NUT.FLANGE.8MM..
+5
+
+84
+
+9 | NUT.HEX, 10MM...
+
+84
+
+9 |
+
+«F201
+612
+125
+26
+
+NUT. GOVERNOR ARM FIXING
+
+10
+
+|... .
+
+NUT, HEX, 16MM 000...)
+(M)
+
+MAINSHAFT
+
+.C6
+
+49
+
+2c
+
+MARK, ACCESSORIES & LOADING CAUTION . F7
+
+49
+
+25
+
+MARK, FRFORK.......................... E10
+
+103
+
+2
+
+MARK, RADIATOR CAUTION................ F
+
+36
+
+NUT HEX. 3MM
+
+2000...
+
+NUT, HEX.6MM
+
+ooo
+
+1
+
+91
+
+14
+
+73
+
+39
+
+...61
+
+103
+
+64
+
+ww.
+
+GB
+
+106
+
+16
+
+12
+
+109
+
+21
+
+FG
+
+85
+
+25
+
+ES
+E3
+
+58
+58
+
+31
+33
+
+dP
+
+39
+
+28
+
+E3
+
+58
+
+32
+
+G61
+
+103
+
+a
+
+103
+
+17
+
+ope neey econ oun ws “Pe i 3 JOINT COMP. YOKE...)G4 108 1 METAL BUSH 0... 65 110 6 | NUT. INSTRUMENT SETTING............ E22 57 9 26
+83
+
+é
+
+> | JET. SLOW. #40
+
+0
+C12
+
+JOINT B BRAKE ARM.....................61
+
+HOLDERB.CAMSHAFT.
+
+BA
+
+3
+
+i, | JOINTSET
+A FUEL... ....C10
+
+44
+
+B3
+
+é
+
+3 | JOINTSETB.FUEL ee, C10
+
+45
+
+HOLDER SET. BRUSH...
+... .........
+
+B12
+
+HOLDER 1C.-FRFORK AXLE...
+
+£14.75.
+
+HOLDER BOOT.
+
+£0
+
+HOLDER COUNTERSHAFT BEARING
+
+(9
+
+5
+
+|
+
+YOINTSET
+
+C. FUEL i
+010
+
+RO
+
+MOTOR, FAN 0.00.
+occ cece cece
+..
+ees 610
+
+120
+
+AD
+
+5 | NUT.RR SWINGARMPIVOT ............ G6
+
+6
+
+8
+
+MUFFLER COMP. L......
+Docc
+be
+ences ...F12,
+
+101
+
+16 |
+
+98 ~~
+
+22
+
+MUFFLER COMP,R........ ......--00
+ee,
+
+100
+
+5
+
+HOLDER GNTOR os 662
+m4
+
+BY
+
+13
+
+JOINT. BREATHER
+
+JOINT,
+FUEL TUBE ........................ H4
+SOINT PINION
+
+E664
+
+FY
+
+1
+
+= 132
+
+2
+
+oye gto at
+61
+
+KEV SET
+
+ooo
+coc
+ceecececcece ee. E767
+
+HOLDER. AR. SWINGARM GREASE .........64
+
+109
+
+HORN ASSY.
+
+6B
+
+67
+68
+
+9 | KNOB TRIPMETER 0... E2
+
+15
+
+10
+
+2
+
+3
+
+57
+
+1
+
+5
+1
+
+12
+
+HOSE
+A
+RADIATOR ......................610
+HOSE BFR BRAKE... 0.0... BS
+HOSE
+B.
+WATER. 2. 8
+
+121
+61
+41
+
+231 LABEL BATYERYCAUTION............__. 612 125
+19
+4 | LABEL DRIVE CAUTION ................... Fo = 889——‘*283
+18 | LABEL.FANMOTORFUSE.................69
+118
+20
+
+HOSE,.L.FR BRAKE...
+
+61
+
+2]
+
+HOSE. CONNECTING
+
+©.
+8
+an E4
+
+HOSE. LOWER WATER... ...............612
+
+HOSE.RFR.BRAKE
+
+HOSE. RADIATOR...
+HOSE, WATER
+152
+
+E4
+
+................610
+
+2.
+CB
+
+¢ AMERICAN HONDA MOTOR CO, INC 1993
+
+40
+
+124
+
+64
+
+121
+
+4)
+
+12]
+
+NEEDLE.FRUJET ...........0-eee
+cece, 012
+
+LABEL FR FORK CAUTION...............F6
+LABEL FUSE.................. coe
+
+LABELHELMETHOLDER......
+
+ve ences F8
+.....
+
+NUT B, BRAKE ROD ADJUSTING ...... .... G1
+
+NUT CAP, 8MM ooo
+eee
+. E3
+NUT-WASHER, 6MM o.oo. B11
+
+......
+
+89
+92
+
+17
+8
+
+49415
+49
+
+49
+
+16
+
+v bec
+
+eee, FIT
+
+NUT,SPEED. 3MM........ Sebo
+ve eens FB
+
+93
+
+NUT, STEERING STEM
+
+67.—‘15
+
+....................E7
+
+ORINGR6EXI9................... E257)
+76
+
+eee. 610
+
+121
+
+o1110
+
+E65
+
+Cove
+ce rees ES
+
+111
+
+63
+
+a
+
+eh
+
+G12.
+
+125
+
+G9
+119
+NUT, CONNECTING ROD .................. C331
+NUT, FLANGE,
+10MM ....0000. 000.00 0c coe. 65
+«(111
+Gi2
+
+125
+
+55
+56
+
+34]
+
+ORING 185X146 610 121
+
+30
+
+o21|
+
+O-RING 19X25... ee CB
+
+=26 | ORING 125X146...
+
+23]
+
+O-RING 198x24 ......... ee E11
+D2
+
+= 55
+
+OA1H
+
+52~—~—té«]
+
+26
+51
+24
+
+32 | O-RING, 148X22 2000, B12
+
+52
+
+16
+14
+18
+16
+
+24
+
+18
+
+31
+
+63
+
+FB.
+
+23]
+
+93.—«B
+
+cE
+
+65
+
+21
+
+D2
+
+1152224
+
+96
+
+74
+
+30
+
+22]
+ORING 146X387 .......................B12
+5
+D1
+31 | O-RING, 147X22 000000000
+eee. B12
+
+NUT, FLANGE, 6MM......... ee
+...0..
+ee. ES
+
+NUT. FLANGE, 5MM ..........
+oo... eee, F10
+
+DS
+
+57
+
+74
+74
+
+29
+
+NUT, FLANGE, 12MM ...........
+o.oo0.
+eee. G7
+
+22,—=«@
+22
+9
+
+E11
+
+34]
+ORINGD, 138x24 ............... bocce. E11
+7 | O-RING E 335X200... bc veveveeeeees E11
+
+Go
+
+7
+
+(0)
+
+58
+22
+
+NUT, AXLE, 10MM... occ
+cece eee G5
+
+9
+
+14|
+
+22
+
+2%
+
+99
+
+98
+
+103
+
+121
+
+Jd
+
+NUT. SPECIAL 6X7........ coc
+
+BS
+109
+
+ORNG...... pit
+B11
+
+610
+
+12
+
+9
+
+18]
+
+oti
+
+132
+
+|
+
+B4MM
+
+49~COtK
+
+FP?
+
+3 | LABEL JACK UPPER WARNING ....... HS
+
+17 | LABEL RESERVETANK
+
+4115 | LABEL RR. CUSHION CAUTION...
+
+NET COMP, AIR CLEANER BASE ........... F11
+
+NUT, CAP,6MM..
+
+(L)
+
+|
+
+NUT, TAPPET ADJUSTING ............... BA
+
+Ny
+
+NEEDLE
+JET .........00...........
+,RR
+..012
+2
+
+(K)
+
+B4
+12 | KEV BLANK. E767
+10414)
+KEY WOODRUFF... cc
+3
+
+67
+
+#5
+
+F12
+
+C12
+
+FOCO*S”
+
+9
+
+100
+
+array
+
+JOINT,
+WO WAY...EA
+
+104015
+61
+
+oe coeceee. F117
+
+HOLDER O-RING 2... eee FG
+HOLDER, R PILLION STEP ........... G2
+
+ES
+
+NUT. LOCK
+
+7
+
+11
+
+EB
+
+6%
+
+73-32. | JOINTSETE FUEL 010
+
+«90
+
+HOLDER, UPPER ... He ae EB?
+
+—«W2
+
+63)»
+
+1 | NUT,AR AXLEU, 16MM... FL
+
+HOLDER. HELMET ............ Cceceee F7
+
+HOLDER R UPPER «2.6... Er
+
+«16
+
+NUT,.LOCK 30MM... .................09
+
+12{
+
+22
+
+g |
+
+HOLDER, MASTER CYLINDER .............. ce
+
+5?s«16' | NUT.LOCK 22MM... iw«wi«wsSSS*CS ae BF?
+
+60
+
+E6011:
+
+g | JOINT. EX PIPE... oe. Cooceee ees F12
+
+Ge
+
+METER, TEMPERATURE
+& GEAR POSITION..E2
+
+MIRROR. Loc
+e cece. £6
+
+MOTOR ASSY. STARTER ....... Dooecee eee B11
+
+O6B
+
+4
+
+6
+
+MIRROR,R
+2... oe
+
+6 | JOINT. BOOST eee, B3
+
+8
+
+«13
+4
+
+re
+
+«EPC
+
+LE
+
+12
+
+ce
+
+HOLDER
+L
+PILLION STEP
+,
+HOLDERL.UPPER .......
+
+ee
+
+4h
+
+HOLDER GREASE
+
+HOLDER,
+JET NEEDLE... ME
+
+bo
+
+44
+
+G7 | VOINTSETD.FUEL i, C10
+
+HOLDER CROSS SHAFT BEARING
+
+eee
+
+~~
+
+NUT, HEX, 8MM
+
+p2—i—iS2O
+
+17 | ORING 168X19 .......... Cove ect eeees E12
+
+77
+
+27
+
+ceeerreree
+C8
+
+41
+
+23
+
+p15
+
+9
+
+GORING 183X23......... Co
+
+¢ AMERICAN HONDA MOTOR CO. INC. 1993
+
+483
+
+GRID
+
+Description Index
+Description
+
+Grid
+
+O-RING, 18.5X2.4
+
+Bi2
+
+24
+
+D1
+
+17!
+
+51
+
+15]
+
+O-RING, 18X28 |
+
+C1
+
+D2
+
+O-RING. 19X19 |
+
+O-RING. 308MM
+
+16]
+
+PIPE,L.RR.EX......
+
+102
+
+4
+
+PIPE, MAINSTAND PIVOT................ 63
+
+73
+
+45]
+
+106
+
+3]
+
+PIPE,OIL STRAINER...
+
+23
+
+PEDALASSY.GEARSHIFT
+9 .........
+61. 102
+ce, G1
+
+28]
+
+PEDALCOMP,RR BRAKE
+
+19|
+
+D1
+
+= 550
+
+PECEBOLLOCK............. oe, E10
+
+F5
+
+86
+
+34]
+
+BB
+
+B
+
+6]
+
+D1
+
+51
+
+10 | PINA DOWEL 12%20 ....
+
+£11
+
+74
+
+«58
+
+....
+
+O-RING, 32.95X2.62
+
+..........61
+
+6 | PIECE. CLUTCH JOINT...
+
+463
+
+52—t—«*W’
+
+F5
+
+86
+
+B10.
+
+PINA ARM
+
+11
+
+73
+
+44
+
+cecereeeee
+
+FIZ
+
+PIPE,L.SEAT....0.......... .............£10
+
+PIPE.OLL...... ce ee
+
+40
+
+6
+
+100
+
+13
+
+eee
+814 23>
+
+«ws. B11
+FIZ
+
+100
+
+....... eee
+BS
+
+72
+
+11
+
+12
+
+PIPE. THROTTLE GRIP ...................—B
+
+89
+
+°
+
+a
+
+8 | REFLECTOR
+TURN SIGNAL
+.............
+
+PIPE, WATER OUTLET CONNECTING ....... C8
+
+40
+
+2
+
+PISTON...
+
+5 | RELAY COMP, TURN SIGNAL.
+
+oe...
+
+B2
+
+B3
+
+PINADOWEL8X14. ........... ..B2
+
+5
+
+B3
+
+7
+
+19
+
+33
+
+Bé
+
+13
+
+021
+
+19
+
+B10
+
+86
+
+O35
+
+_F3
+
+83
+
+9
+
+. E17
+
+PIN
+B.
+JOINT 9000000
+
+74
+
+59
+
+PIN C, PILLION STEP Pe
+
+ooo
+
+23
+
+oe
+
+0.
+
+C334
+
+PISTON SET, CLUTCH MASTER CYLINDER .. £6
+
+64
+
+4 | RINGB. STOPPER ........00..0.........65
+
+116
+
+10
+
+27
+
+17
+
+PLATE. ee
+
+42-77
+
+10
+
+ee eG G2
+
+105
+
+PLATEA DRUM .............
+
+28
+
+PLATE A, ELEMENT SETTING
+
+C?
+
+38
+
+8
+
+ook F10
+
+97
+
+3
+
+BPG
+eect bebe eee C7
+
+«97
+
+22
+
+6
+
+4G
+
+11 | RING. SNAP, E10
+
+73
+
+52
+
+PLATE
+B ELEMENT SETTING
+
+510
+
+73
+
+54 | PIN, DOWEL 8X8 20. BS
+
+PLATE SET STAY.
+C10
+
+17
+
+14
+
+GS
+
+111
+
+PLATE SET VALVE ps C1248
+
+O-RING. S65X35
+
+........................F3
+
+30 | PIN, HANGER RETAINER GROOVE, 40MM DIAE12
+
+77
+
+21
+
+83
+
+O-RING, 58.5X3.5
+
+FS
+
+22
+
+O-RING, 58X2
+
+8 | PIN KNOCK ............. ee C10
+36 | PINKNOCK 8X14..
+eee.
+. B12
+
+45
+
+86
+
+PLATE, BATTERY SETTING
+PLATE. BEARING SETTING
+
+24
+
+15
+
+C8
+
+PLATE CLUTCH
+
+41
+
+2461
+
+11-—s
+
+22
+
+PLATE CLUTCH PRESSURE B71
+
+O-RING. 68X19... ....
+
+£2
+
+73
+
+34
+
+16
+
+ff
+
+are relioteaa re re
+
+mere
+
+D2.
+
+ORING 84%24........
+Olt SEAL 125X25x8..
+
+............ FS
+
+OL SEAL. 47X56x7 boob o be ve veces a
+LS
+
+18 | PIN SHIFT RETURNSPRING ............... C7
+
+OXB0X8
+
+oF
+
+OIL SEAL 65X80X105 0.000000...
+
+00......65
+
+OIL SEAL 8X18X5
+
+oe o....B10
+
+OIL SEAL, BX25X8
+
+oe, ee, C9
+
+ORFICE Olt CONTROL bo eee
+LY
+
+27
+
+14]
+
+2
+3
+
+ag
+
+é
+
+rs
+
+UM ne
+
+,
+
+re
+......... re C
+PLATE, DUST GUARD ........... ae FG
+
+390~—CtiO«O49
+
+«2.22... ..B6-13.~—-?- | PIN SPECIAL LOCK. 6MM ...... Cees, Bt
+
+ee. C1
+OIL SEAL, 25X66X85.... occas, co
+OIL SEAL, 34X50X7
+
+52.—Ss«
+
+ROD ASSY.E.FR CONNECTING
+
+24
+
+22
+
+= 28 | PIN SPLIT, 20X35 |... B12
+2418 | PIN SPLIT. 25MM... Cobo
+cee
+eee
+ceee. F2
+= 43)
+22 | ~PIN, SPRING, 2X14......................
+
+24
+
+22
+
+PLATE,
+AR.
+FENDER ......................66
+
+80
+
+112
+
+11
+
+PLATE. SETTING...
+
+45
+
+151)
+12}
+
+111
+
+PLATELSIDE.........
+
+FATE gear ee eee a
+
+124
+
+ns
+
+oo
+
+ee. C10
+
+FBCO”:—«P
+
+PLIERS, 136 ................ Lene H1
+
+= 126
+
+PLUG, SPARK ..........00..0...000
+0000 B
+
+)
+
+PIN, STEP BAR JOINT ........... ...62
+
+104
+
+4
+
+PIN, 8X43.2.............. Love eeeeeres
+nee B5
+
+2
+
+1
+
+CO
+
+10
+
+37
+
+OUTER COMP. CLUTCH...
+BF
+
+OK | PIPEA OI PATH...
+BI
+
+14
+
+5
+
+B3
+
+7
+
+OUTER COMP. STARTER CLUTCH ..._..
+
+2
+
+3
+
+16
+
+>|
+
+vee
+
+.B8
+
+B3
+PIPEA WATER ........................... C8
+PIPE ASSY, CLUTCH ...... Cece
+
+(P)
+PADCOMP.FR.
+154
+
+eyeee, E6
+
+PIPE B, OIL PATH ......................... B2
+PIPEB WATER ............... Cece C8
+
+ss
+
+¢ AMERICAN HONDA MOTOR CO. INC. 1993
+
+END
+
+PIPE COMP.L.FR SHOCK ............... E10
+5 | PIPECOMP.RFR.SHOCK ...............E9
+
+PLUG, BREATHER TUBE................... a
+
+98
+
+6
+
+5
+
+40
+
+PROTECTOR ........... vette tenes E4
+
+13
+
+61
+
+E6
+
+64
+
+= 6h
+
+5
+
+4
+
+6
+
+PROTECTOR,
+RR EX.PIPE
+
+..............F12
+
+PROTECTOR, TUBE..... .................69
+
+100
+
+ROD ASSY.C.FR. CONNECTING .........C3.
+ROD ASSY.C,.RR. CONNECTING ..........C3.
+
+..........c3
+......... 65
+
+110
+111
+
+ROD SET B, STARTER LINK... ............€10
+
+44
+
+9 | ROD, ADJUSTING .........................E10
+
+72
+
+;
+
+x
+217)
+
+ROD SETA STARTERLINK...............C10
+ROD. CLUTCHLIFTER............. .......B?
+ROD.PUSH ........... 0...
+£6
+
+eee G1
+
+102
+
+....... BB
+
+17
+
+ROLLER 4x198 Oe. c?.—39
+
+7 {| ROLLER, 6X15......
+Cobb
+v
+bee
+eeen B8
+* | ROTOR COMP. ......
+Lovee
+b
+reece ce cece
+B9
+
+123
+
+9 | RUBBER, BATTERY TRAY MOUNT...
+
+...F8
+
+~—-:973
+
+20
+
+4 | RUBBERC.MOUNTING..............
+
+10
+
+18
+
+...611
+
+PUMP COMP, WATER ..................... B10
+
+71.
+
+17
+
+4 | RUBBERA,.MOUNTING ............
+
+3|
+
+O92
+
+14
+64
+
+ROD, AR. BRAKE ............. eee
+
+23
+
+41
+
+cece, FB
+
+44
+
+ROLLER, 15X13....................
+
+PUMP ASSY.OIL ........................B11
+
+73
+
+occ
+
+34
+34
+
+ROD ASSY, TENSION .............. ee 65
+
+16]
+
+PULLER, FUSE...0.00...)
+
+34
+
+ROD ASSY.E.RA. CONNECTING ......... C33
+
+ROD ASSY, SHOCK CONNECTING
+
+118
+
+41s
+
+J5
+
+3 |
+
+10
+
+| SEAT LOCK «0.0,
+
+i
+
+ORIFICE. PLATE
+
+34
+
+ROD ASSY.D.RR CONNECTING ........¢3.
+
+|... 812
+
+32 | PIN SPLIT. 20X25
+
+c3
+
+©}
+
+27]
+
+8
+
+0631
+
+........
+
+.
+
+PLATE.
+L
+ENGINE UPPER HANGER ......... Gl2
+ipl : Spe LOCK ee a
+|
+
+ROD ASSY.B.RR CONNECTING
+
+123
+
+PLATE. HEAT GUARD .............. ee G11
+
+BG
+
+105
+
+27
+
+31
+
+ROD ASSY.B,FR CONNECTING .........¢3.
+
+123
+
+|... G2
+
+105
+
+ROD ASSY.A.RR CONNECTING ..........¢3
+
+PLATE, FUEL TANK HEAT GUARD .......... G11
+
+PIN SPLIT, 16X15
+
+27 | PIN SPLIT, 16X25 ........................62
+
+31
+
+314
+? | ROD ASSY.D.FR CONNECTING... C33
+
+19
+
+31 |
+
+..........C3
+
+714
+
+0
+
+26
+
+86s
+
+108
+
+64
+
+103
+
+to9
+
+71
+
+9
+64
+
+38
+
+43
+
+9
+
+1c
+
+105
+
+|
+
+108
+
+RING, STOPPER .......... cece te ee es ..E9
+
+7 | RODASSY.AFR CONNECTING
+
+PINSPLIT. 16x10 ........................62
+PINSPLIT. 16x12... 61
+
+43s
+
+RING, SPRING STOPPER ................ G4
+
+PLATE. DRUM CAM
+
+43
+
+ICE.
+PIN. 10X16....00..0
+
+7
+
+.............. F995
+an
+
+me
+
+31tsiB
+19 | PIN PISTON, 10X33........................BBoO6
+4
+O-RING, 70X30 ee
+C9 = «3S | PINRINGGEAR STOPPER
+F484
+13
+
+10
+2
+
+38614
+
+24
+
+18
+
+108
+
+25
+
+23
+
+C3
+
+RING, DAMPER COVER wee Dee ee eee G4
+
+111
+54
+
+25
+
+PINPISTON..............................B8.
+
+TO
+
+G5
+
+v2
+
+106
+
+12~—~Cté«=
+
+11
+
+ET
+RING, PISTON ry ete E10
+4 | RING SEAL... oo. oo, oe B11
+
+G3
+13, | PIN DOWEL 8X14. ....... cece
+eben eee ee, B12
+
+cece, B62
+
+22 | RING. BACKUP
+
+77.
+
+6 | RING HEADLIGHT 0.0.
+
+51
+
+PINPARALLEL............ 2. E10
+
+RETAINER BRACKET ................... E12
+
+9
+
+38
+
+«643
+
+O-RING 78X22.......... ee. .....B12
+
+24]
+
+102
+
+PLATEBCLUTCH......
+
+57]
+
+7
+
+20
+
+PLATE B, DRUM SETTING
+
+DA
+
+F178
+
+21
+
+11
+
+74
+
+8
+
+12
+
+22
+
+E11
+
+F484
+
+9
+
+24 ~~
+
+O-RING, 77X23...
+cee BIZ
+
+3
+
+2 | RETAINER. BEARING...................
+
+14 | RETAINER, VALVE SPRING ..... coerce BS
+
+80
+
+cue
+
+9112
+
+49
+
+PIN, COTTER, 2.5MM wt eee es Fe
+
+PIN.LOCK 8MM......... boce
+
+4
+
+............66
+
+PISTON COMP, VACUUM ..................€12
+
+PIN COTTER 20x32... cove ceee eens B12
+
+12]
+
+114
+
+8
+
+541]
+
+25|
+
+26
+
+67
+
+6 | RETAINER GEARBOX ...................
+
+30
+
+51
+
+27
+
+76
+
+76
+
+57
+
+121.
+121
+
+REFLECTOR,
+R FR REFLEX ...........
+
+72
+
+111
+
+D1
+
+8
+
+610
+
+C1
+
+PINLOCK 6MM................ coe cece BS
+
+2
+
+117
+
+E12
+
+GS
+
+O-RING, 5.8X1.9...........................E10
+
+68
+
+6 | REFLECTOR
+LFR REFLEX... .........610
+28|
+
+... G1
+
+eee.
+
+2
+
+94-—~CO1
+
+E10
+
+E11
+
+D4
+
+6 | RECTIFIER ASSY. SILICON..............
+
+PIPESEAT......................... E10
+
+0...
+
+120
+
+11-'|s«RECTIFIERASSY. REGULATE. =. 2 ss FB—«D
+
+PIPE. RRREX
+
+_
+
+O-RING, 5.7X2.2..__. ee 2.09
+
+RADIATORCOMP..... ............. 610
+
+RALARGRAB........................ fF?)
+
+8
+
+0.
+
+Page Ref. No.
+
+(R)
+
+20
+
+FS
+
+O-RING. 56X19.
+
+102
+
+Loe
+
+72
+
+O-RING, 46X%5X3.5.
+
+.
+
+1
+
+B74,
+
+O-RING. 352X24
+
+O-RING. 49.4X31
+
+PIPE,CONNECTING .. ............ee, C8
+
+Grid
+
+.................E10
+
+PIECE OLLOCKING
+
+25]
+
+Page Ref.No. | Description
+
+1
+
+9
+
+b2.
+
+Grid
+
+3
+
+1? {| PEDAL COMP, GEARSHIFT .
+
+C9
+
+Description
+
+80
+
+PANELCOMP.AR .................F2
+
+109
+
+O-RING 22x30...
+
+O-RING, 3X70
+
+S52
+
+Page Ref. No.
+
+PANQL...... ee
+BID BB
+
+B4
+.
+
+O-RING. 29X24.
+
+27
+
+Grid
+
+64
+
+O-RING, 21.5X2
+O-RING 22X19.
+
+Description Index
+
+Page Aef.No. | Description
+
+RUBBERASTANDSTOPPER ......... F12. 101
+
+RUBBERB.MOUNTING............
+
+. 614.123
+611.
+
+123
+
+& AMERICAN HONDA MOTOR CO. INC. 1993
+
+1
+
+Description Index
+Description
+
+Grid
+
+RUBBER D. MOUNTING
+
+...
+
+.
+
+612
+
+124
+
+RUBBER, BATTERY ....................... FO
+
+95
+
+RUBBER, CANISTER MOUNTING...000. 0... H&
+
+= 132
+
+RUBBER, FUEL TANK FRO...
+
+Description Index
+
+Page Ref.No. | Description
+10 | SCREW. OVAL 4X8
+
+Grid
+0000...
+
+4 | SCREW. OVAL 5x20...
+
+10 | SCREW.PAN .....0..00.0
+
+Page Ret.No. | Description
+
+Grid
+
+Page Ref. No.
+
+SHAFT COMP, GEARSHIFT FORK
+
+.......... C7?
+
+38
+
+BB
+
+58
+
+29
+
+SHAFT SET, CROSS .........0..000........ C9
+
+4 | SPRING CLICK 0.0. E10
+
+72
+
+43
+
+45
+
+14
+
+SHAFT. SHIFT DRUM STOPPER PIVOT ...... C7?
+
+10 | SPRING, CLUTCH 2.000.000. .. 87
+
+14
+
+9
+
+38
+
+13 | SPRING, DAMPER CAM...........
+
+.........64
+
+108
+
+4
+
+7 | SPRING, FR. BRAKE SHOE................ Fe
+
+80
+
+10
+
+0...............€10
+
+89
+
+10 | SCREW.PAN, 2X6
+
+0...
+
+89
+
+12 | SCREW. PAN, 3X10
+
+.........
+
+RUBBER. GEARSHIFT PEDAL...............61
+
+102
+
+6 | SCREW. PAN, 3X20...
+
+E2
+
+RUBBER, MAINFOOTPEG .........
+
+E2
+0...
+
+Grid
+
+28
+
+FB
+|.
+
+Description
+
+58
+
+FG
+
+RUBBER. FUEL TANK AR...
+
+Page Ret. No.
+
+EB
+
+........ E2
+
+22
+
+57
+
+23
+
+SHAFT, VALVE ROCKER ARM ..............B4
+
+9
+
+57,
+
+26
+
+SHIM A PINION GEAR... 00... F4
+
+85
+
+57
+
+e7?
+
+15 | SPRING, FR SHOCK
+
+SHIM A STOPPER PIN... 00... F4
+
+....00....0.0...... ..E9
+
+71
+
+85
+
+2
+
+14 | SPRING, FR SHOCK REBOUND ............ ES
+
+71
+
+11
+9
+
+....
+
+G2
+
+104
+
+13 | SCREW. PAN, 4X10
+
+RUBBER, METER SETTING.................
+
+BB
+
+17
+
+18
+
+£2
+
+SHIM B, PINION GEAR
+
+56
+
+23...
+
+3
+
+FA
+
+85
+
+49
+
+19
+
+48
+
+2
+
+SHIM B. STOPPER PIN
+
+15 | SPRING. FR. VACUUM PISTON ............. C12
+
+RUBBER, MOUNTING... 000000, B1
+
+C12.
+
+....................F4
+
+85
+
+FID
+
+99
+
+er
+
+SHIM C, PINION GEAR 20...
+
+14 | SPRING, FUEL TUBE COVER .............., FS
+
+87
+
+1
+
+85
+
+15
+
+F8
+
+93
+
+26
+
+SHIM D, PINION GEAR 2, F&
+
+120
+
+1
+
+85
+
+FIO
+
+86096
+
+15 | SPRING. GEARSHIFT ARM
+
+16
+
+SHIM E, PINION GEAR ......0.0.0.......... FS
+
+c7
+
+39
+
+17
+
+85
+
+76
+
+15 | SPRING, GEARSHIFT RETURN
+
+63
+
+SHIM F, PINION GEAR ..... 0, F4
+
+............. Cc?
+
+39
+
+18
+
+85
+
+22
+
+4
+
+SHIM G, PINION GEAR. 0.0.0...
+
+2
+
+BR
+
+5
+
+15 | SPRING MAINSTAND.......0.....
+0... G35
+15 | SPRING, NEUTRAL STOPPER ..............C?
+
+106
+
+85
+
+22
+
+15
+
+63
+
+7
+
+SHIM. COUNTERSHAFT .0 000... co
+
+38
+
+18
+
+42
+
+SHIM, CROSS SHAFT... C9
+
+7 {| SPRING, OlL LOCK VALVE...
+
+42
+
+9 | SPRING PAD... 00... E12
+
+RUBBER, MUFFLER MOUNTING ............ Fig
+
+101
+
+RUBBER. PILLION FOOTPEG ...............G2
+
+9 105
+
+RUBBER. PURGE CONTROL VALVE
+
+MOUNTING ......... beeen
+ns
+
+7 | SCREW, PAN 4X15
+
+2000000
+
+14 | SCREW.PAN 4X6...
+
+00.
+
+19
+
+SCREW. PAN. 5X10 2000000...
+EDD
+29 |
+SCREW.
+PAN,
+5X115 000000 00...
+BIT
+
+CIT
+
+46
+
+G10
+
+120
+
+610
+
+121
+
+21
+
+RUBBER. SEAT STOPPER... 0.0... F7
+
+50
+
+RUBBER. SHOCK 0.0. F10
+
+8 | SCREW.PAN, 5X8 .........
+
+96
+
+14
+
+AUBBER. SPEEDOMETER 20. E2
+
+57
+
+471
+
+RUBBER, STAND ...
+
+106
+
+7 | SCREW, PAN 6X8...
+
+RUBBER, RADIATOR MOUNTING
+
+1... obec
+
+eae
+
+.63
+
+RUBBER, STOPPER 0... E10
+
+73
+
+RUBBER. TACHOMETER ................... E2
+
+57
+
+8 | SCREW.PAN 5X28...
+
+0...
+
+044
+
+2000, C10
+
+SCREW SETA...
+
+1...
+
+0...
+
+ED
+
+71
+
+6
+
+77
+
+¢
+
+72
+
+7
+
+5
+
+21
+
+SHIM, DAMPING ......
+bbc
+c
+eect v trees F1
+
+79
+
+7
+
+17
+
+12 | SPRING, PISTON......... e
+
+SHOCK ABSORBER ASSY,L-FR...........E10
+
+2... B9
+
+73
+
+19
+
+11
+
+0
+F210
+29 } SCREW. RIVET. 1.5X5 000... G12)
+125
+15 | SCREW. RR COVER .
+vives yecrseee HG
+1352
+
+SHOCK ABSORBER ASSY. RFR ........... E9
+
+40 | SPRING, PROPELLER SHAFT
+
+71
+
+24
+
+SHOCK ABSORBER ASSY, RR ............. 65
+
+110
+
+29
+
+SHOE COMP, AR. BRAKE .................. F2
+
+3 | SPRING SEATLOCK ...0000000.000 F7
+
+90
+
+6
+
+80
+
+5 | SPRING, SHIFT DRUM STOPPER ........... C7
+
+38
+
+14
+
+3 | SPRING SIDE STAND .....0000.0000000.... G3
+
+106
+
+5
+
+20
+
+10
+
+6
+
+SCREW. PAN 6X12 0000000...
+
+SCREW, TAPPET ADJUSTING ..
+
+SCREW SET
+
+.F4
+
+G10
+
+BR
+
+00.....
+
+GR
+
+IS
+
+14
+
+SHROUD COMP. ...
+
+21
+
+SLEEVE
+
+Levees
+
+reeees
+
+1}
+
+ee
+
+eens E10
+
+............
+
+..G4
+
+SPRING, RR. VACUUM PISTON .....0....... C12
+
+G10
+
+120
+
+........... Lenten
+tee cece eens E12
+
+77
+
+10 | SPRING, SLAVE CYLINDER
+
+................ B10
+
+108
+
+6
+
+48
+
+10
+
+...........B4
+
+9
+
+16
+
+SCREW, TAPPING, 3X10 ................... B3
+
+SLEEVE, FR. CALIPER BRACKET ............ E12
+
+77
+
+58
+
+30
+
+13 | SPRING, STARTING CLUTCH ROLLER....... B&
+
+16
+
+SCREW, TAPPING, 3X8 2.000. G11
+4 | SCREW, TAPPING, 4x12 ...00..... cece ees G6
+8
+G?
+
+SLIDER, STEP ...... 0.02. G2
+
+122
+
+104
+
+36
+
+SOCKET COMP. .0.00.0..0000 000000000000, E2
+
+56
+
+8 | SPRING STEP RETURN ................... G2
+
+104
+
+5
+
+6
+
+G2
+
+104
+
+ri
+
+6 | SPRING STOP SWITCH .....0.....00...... G1
+10 | SPRING, TENSIONER .......00 0, B5
+
+102
+
+8
+
+41
+
+4
+
+(S)
+87
+
+ee. F4
+
+B3
+
+SCREW, SPECIAL 6X8...
+
+SCREEN SET. FUEL STRAINER ............ F5
+
+0.
+
+«113
+
+18
+
+E2
+
+56
+
+115
+
+22
+
+SOCKET COMP., ILLUMINATION ............ E2
+
+57
+
+15
+
+23
+
+SOCKET COMP... TURN SIGNAL ............. G7
+
+114
+
+94
+
+19
+
+11
+
+114
+
+5 | SPRING. VALVE INNER .....000.0000. 000... B4
+9 | SPRING VALVE OUTER ............ eee B4
+
+9
+
+G7
+
+9
+
+10
+
+ee. Ci2
+
+«48
+
+5 | SCREW, TAPPING, 4X25
+
+Ci2
+
+48
+
+SCREW-WASHER, 4X10
+
+6 | SCREW. TAPPING 6X12 20000000
+
+2.0.62... Cli
+
+46
+
+SCREW-WASHER, 4X12
+
+20000, Cli
+
+30 | SCREW, WASHER, 4X8 .000 00.0. G10
+
+121
+
+33
+
+46
+
+85
+
+25
+
+1
+
+121
+
+SPACER B, RING GEAR..................... F4
+
+10
+
+62
+
+119
+
+1? | SPROCKET,CAM .......0...00...000....., BS
+
+E5
+
+31 | SCREW, WASHER, 6X16 ...0.00.00....... 69
+22 | SCREW.4MM ..... bebe
+t eee t cence ees G10
+
+SPACER A, RING GEAR .........0.0....0.... F4
+
+85
+
+33
+
+20 | SCREW, 5X10 20... E11
+
+85
+
+1
+
+65
+
+SPACER C, RING GEAR
+
+14
+
+E6
+
+75
+
+63
+
+SPACER D, RING GEAR.
+
+17 | SPROCKET, OlL PUMP DRIVE .............. B7
+17 | SPROCKET, OIL PUMP DRIVEN ...... an B11
+
+23
+
+85
+
+4
+
+17 | STABILIZER FR SHOCK ................... E10
+
+8673
+
+46
+
+SCREW SETC
+
+.....
+
+SCREW-WASHER, 4X16
+
+200.0.00 000000. ...€12
+
+000000000... GP
+
+FP
+
+................... F4
+
+.................F4
+
+49
+
+SCREW-WASHER, 4X8... 0. F6
+
+20 | SEAL SET.FR FORK 0.00000... E10
+
+«673
+
+38
+
+89
+
+SPACER E, RING GEAR .................... F4
+
+85
+
+121
+
+85
+
+9
+
+46
+
+33 | SEAL DUST ............ ne E10
+
+................... F4
+
+7
+
+C11
+
+SPACER G. RING GEAR
+
+18
+
+0
+
+(97
+
+17 | STATOR COMP. ....00000000......, Leena B9
+
+SCREW-WASHER. 5X12
+
+34 | SEAL AIR CLEANER BASE ................. F1I0
+
+SPACER F, RING GEAR ..................... F4
+
+4
+
+G10)
+
+38
+
+106
+
+.00.......
+
+«73
+
+1? | STAND COMP. MAIN ........ Levee ence nee G3
+
+SCREW-WASHER, 5X10
+
+22 | SEAL SET, FR SHOCK....0.00 00, E10
+
+85
+
+§=73
+
+19
+
+85
+
+79
+
+16
+
+SPACER |, RING GEAR .................... F4
+
+1? | STAY ASSY. INSTRUMENT ................ E2
+
+56
+
+7
+
+Gi2.
+
+28 | SEAL DUST, 22X42x7 0... F1
+
+................... F4
+
+7
+
+8699
+
+SPACER H, RING GEAR
+
+1? | STAY A PULSE ALTERNATOR.......0 20... Ba
+
+F117
+
+53
+
+85
+
+1? | STAY B, PULSE ALTERNATOR ............. B8
+4 | STAY, COUPLER HOLDER ................. E8
+
+17
+
+1
+
+68
+
+6 | STAY, FR TURN SIGNAL
+
+12
+
+ww... G7
+
+114
+
+10
+
+125
+
+SCREW-WASHER, 5X20
+
+30 | SEAL OW...
+
+2... E4
+
+60
+
+27
+
+15
+
+SPACER, IGNITION COIL ......0..0.000...
+
+15
+
+117
+
+ow. E4
+
+27
+
+GB
+
+SCREW-WASHER, 5X28
+
+60
+
+13 | SEAL OW, 14X24X6 oe. C1
+14 | SEAL PISTON 00.00.00. eee E12
+
+SPACER, RR. FENDER ...........0.0..0..... G6
+
+112
+
+77
+
+19
+
+15 | SEAL SHOCK ARM
+
+SPANNER, 10X12 ...0. 000...
+
+eee, Hi
+
+= 126
+
+10
+
+G7
+
+114
+
+11
+
+= 126
+
+11]
+
+STAY, HORN ...0.0000000.0000000000
+00000, E8
+
+68
+
+13
+
+9 | STAY, L HEADLIGHT 2000. E1
+1 | STAY, METER ....000000000 cee, E2
+
+54
+
+11
+
+56
+
+7
+
+1]
+
+54
+
+10
+
+SCREW-WASHER, 5X45
+
+eee en. C1
+
+2ow.. oe E4
+60
+SCREW-WASHER, 5X8... C1146
+
+.......00.00000.0....,. 65
+
+110
+
+11
+
+32
+
+SPANNER, 14X17 2000.00 eee Hi
+
+SCREW-WASHER. 6X12
+
+0, G10
+
+GS
+
+110
+
+121
+
+12
+
+SCREW-WASHER. 6X20
+
+35 | SEAL VALVESTEM ................
+
+SPANNER, 8MM
+
+6.0. FI1l
+
+. BS
+
+99
+
+8
+
+29
+
+SCREW, BLEEDER 0... B10
+
+D1
+
+50
+
+20
+
+c8
+
+13. | SEAL. WATER PIPE 2.00000... .. CB
+
+41
+
+44
+
+20
+
+E12
+
+76
+
+52
+
+92
+
+1
+
+G6
+
+112
+
+25
+
+G6
+
+19
+
+112
+
+56
+102
+
+STAY, R HEADLIGHT...
+ee. E1
+
+2 | STEMCOMP, STEERING .................. E8
+
+8 | STEP ASSY.L. MAIN 0000, G2
+16 | STEP ASSY,R MAIN 20 000... G2
+
+68
+
+4
+
+104
+
+1
+
+104
+
+10
+
+12 | STOPPER, FOOTPEG RUBBER ............. G2
+11 | STOPPER, KEY BODY. ......000....0..... F&
+
+104
+
+9
+
+92
+
+14
+
+12 | STOPPER, SIDE STAND ..................., G3
+
+= 106
+
+6
+
+= 108
+
+7
+
+90
+
+SEAT, SPRING 0000... E9
+
+2
+
+E6
+
+71
+
+65
+
+4
+
+C6
+
+37
+
+19
+E9
+27 | SEAT, VALVE SPRING INNER......0........ B4
+
+71
+
+SPINDLE COMP, RR. BRAKE ...0.0..0 0.0... G1
+
+7
+
+SPRING
+
+27 | SEAT, VALVE SPRING OUTER ....... oe
+
+9
+
+14
+
+BS
+
+9
+
+13
+
+SPRING A BRAKE ROD
+
+... C8
+
+4)
+
+19
+
+................... G1
+
+103
+
+SPRING, BRAKE PEDAL
+
+20 | STOPPER, SPRING
+
+........ E8
+
+68
+
+................... 61
+
+10
+
+102
+
+SPRING. CARBON BRUSH ................. B17
+
+13. | STRAINER Ol
+
+= 22
+
+3 | STRAP CABLE. 118MM... Loe ceee G9
+
+C7
+
+39
+
+FIT
+
+O98
+
+F6
+
+89
+
+¢ AMERICAN HONDA MOTOR CO. INC. 1993
+
+SPARK UNIT 0000.00 0000.00... Lovee gece
+ee F8
+
+21]
+
+SCREW. FLAT.6X16
+
+156
+
+1
+
+62
+
+200, E5
+
+SCREW, OVAL. 3X6 |...
+
+126
+
+SPEEDOMETER ASSY. ... 00.0... E2
+SPINDLE COMP. GEARSHIFT .............. C7
+
+SCREW, FLAT, 4X12
+
+SCREW, FLAT. 6X18.
+
+De
+
+.... 00. H1
+
+1 | SEATASSY. 00. F?
+
+12 | SENDING UNIT, WATER TEMPERATURE.
+
+21]
+
+SEPARATOR. COUPLER HOLDER...
+
+J6
+
+oe
+
+38
+
+eee C1248
+C12
+
+«49
+
+0...
+
+oe, G4
+
+0... B11
+
+23
+
+7
+
+119
+
+23
+
+AMERICAN HONDA MOTOR CO. INC. 1893
+
+157
+
+GRID
+
+J6
+
+Description Index
+Description
+
+Grid
+
+Description Index
+
+Page RefNo. | Description
+
+Grid
+
+TUBE BREATHER...
+
+Page Ref. No.
+
+s«s—i(‘(téi‘“CS;*S*;:*CSSCBD
+
+9
+
+Description
+WASHER, LOCK
+
+Grid
+
+STRIPE,
+L
+FUEL TANK ................. H2
+
+129
+
+2|
+
+ws.
+
+STRIPE, LAR COWL............00.00000.. H3
+STRIPE, L SIDECOVER ................. H3
+
+134
+134
+
+4 | TUBE. BREATHER DRAIN .................. F114
+6 | TUBE, CANISTER BREATHER
+..........
+H&
+
+9Bts«*Y6
+132
+6
+
+WASHER, LOCK, 25MM .......0...-.. ccc, C6
+WASHER, MOUNTING RUBBER ............. B1
+
+Page Ref.No. | Description
+
+Grid
+
+Page Ref. No.
+
+EBD? | WASHER, 11MM. sstw”:SS:S:SS~S~STM:”:”COiwAIQC2dst«*S
+
+387s
+p15
+?
+2
+6 | WASHER 6MM ........0..0..0-0...000008. BS
+3611.19
+
+STRIPE, R. FUEL TANK ............0.0.0.5. H2
+
+129
+
+1]
+
+TUBE. CHARGE............0..0
+oe. He
+
+132
+
+7
+
+WASHER, OIL BOLT .......... Sooeceecece, B2
+
+STRIPE, R.RR.COWL ........... Oooceees H2
+STRIPE, R.SIDECOVER ............ HB
+
+129
+134
+
+3
+H4
+5 | TUBE, FUEL 73X170....... Ove ceee, F6
+
+132
+«BB
+
+8
+7
+
+b1
+ES
+
+SUB FRAME COMP. ................... G12
+
+124
+
+11]
+
+0.0... 610
+
+121
+
+18
+
+E6
+
+65
+
+17|
+
+SUB HARNESS, HORN... E8
+
+68
+112
+
+1 | TUBE, OVERFLOW... coca 610
+4 | TUBE, RESERVE TANK ....... ee 610
+
+121
+121
+
+16
+15
+
+WASHER, PILLION FOOTPEG .............., G2
+WASHER, PLAIN, SMM... See eeee, F11
+
+105
+99
+
+18 | WASHER, 6423.00.00. B12
+~—s(30
+C7
+
+24
+39s
+
+SWINGARM ASSY. AR... 64
+
+108
+108
+
+12 | TUBE, TENSIONER SPRING ........ .......B5
+13]
+TUBE, VACUUM...
+ww, FS
+
+14
+87
+
+9
+3
+
+WASHER, PLAIN, 6MM .....00. 0.00.0... C8
+E3
+
+41
+58
+
+27 | WASHER, 7MM . on. B5
+35 | WASHER, 8MM .................... Lon ee
+B5
+
+11,20
+11
+18
+
+SWITCH ASSY, CHANGE .................. B9
+
+19
+
+9 | TUBE. 35X180......
+
+36
+
+FS
+
+86
+
+3=—s_ 38
+
+F
+
+= 85
+
+SWITCH ASSY, CLUTCH 0.0... F664
+
+6 | TUBE. 35X200......
+
+0... CW
+2 | TUBE.35X2
+010.....
+C14
+
+47)
+
+(37
+
+F12
+
+101
+
+PB
+
+27|
+
+WEIGHT. BALANCE... FI
+
+= 78
+
+105
+
+1
+
+3 | TUBE. 35x70....... ol, ee C11
+
+G2
+
+24
+
+47——B
+
+F382
+
+4
+
+1 | TUBE 35x80... See C14
+
+47)
+
+G11.
+
+5
+
+122
+
+38)
+
+7 | TUBE.8X440.. eee H4
+
+H4
+
+132
+
+133
+
+20
+
+i, F178
+le. FS
+Be
+
+6
+3
+
+7 | TURNSIGNALASSY..
+
+9G
+
+96-12
+
+;
+
+114
+
+59
+
+8
+
+114
+
+WASHER, RR. BRAKE ANCHOR PIN... F280
+
+8
+
+WASHER, RR. BRAKE ARM... C1
+
+27
+
+WASHER, RR. COVER GROMMET ........ ...B10
+WASHER, SEALING, 6.5X12................. B2
+
+21.
+
+SUSPENSION, TURN SIGNAL RELAY ........ G6
+SWINGARM ASSY, DRIVE.................. 64
+
+SWITCH ASSY. COMBINATION
+& LOCK ..... E?
+
+67
+
+E767
+SWITCH ASSY, FR.STOP ............ Ee
+61
+SWI{CH ASSY, OIL PRESSURE............. C1
+9-26
+SWITCH ASSY, RR STOP...G1
+102
+SWITCH ASSY, STARTER MAGNETIC
+
+.......F10
+SWITCH ASSY, STARTER/ENGINE STOP....£3
+
+TUBE.LEVEL.......
+
+sss
+
+SWITCH ASSY, STARTER/KILL ............. £3
+
+59
+
+SWITCH ASSY. TURN SIGNAL.............. —E3
+
+G?
+6 | TURNSIGNALASSY.LFR ..............67.
+6 | TURNSIGNALASSY.LAR................ G7?
+
+115
+
+59
+
+14
+
+SWITCH ASSYH, STARTER/KILL ...........
+
+7 | TURNSIGNALASSY.RFR............... G7
+
+114
+
+59
+
+1
+
+6
+
+11%4—Ss«12
+
+(1)
+
+67
+
+G7
+TURN SIGNAL ASSY.R RR... G7
+
+TOINT: ooo ooccccoceceveeeceeecee. C10
+
+453
+
+TACHOMETER ASSY................000-. F2
+
+57
+
+TAILLIGHT UNIT
+00.0...
+occ
+ccc cccecee eee 68
+
+116
+
+2 |
+
+TANK COMP, FUEL .......0.0..-00- 000000. Fo
+
+«8B
+
+9 | VALVEASSY,RELIEF
+
+TANK SET. FUEL ..........0. 00sec cc ee ee. F688
+
+115.14
+15
+12
+
+(v)
+
+13
+VALVEASSY. FUEL...
+
+............... FS
+
+.... 0... B11
+
+5
+
+WASHER, PLAIN, BVM... E14
+G2.
+
+19
+
+FP?
+
+91s?
+
+«50
+5
+6219
+
+66
+GB
+
+113
+116
+
+WHEELCOMP.FR.....
+15 | WHEEL COMP.AR .....
+
+40
+
+4 | WIRE COMP, L TURN SIGNAL 0.0.2.2... Ge
+6B
+gf
+= 17 | WIRE COMP.R TURN SIGNAL ............. Gf
+
+114
+9
+115015
+
+5
+
+11513
+1163
+
+WASHER, SPECIAL
+..000..ee
+ce
+oce ce cce eee F799
+
+"6
+
+WASHER, SPECIAL, 35X40 ........ eee, FOB
+
+ie
+
+1
+
+«.27.—
+
+WASHER, SEALING, 6MM .............,.... G12.
+WASHER, SHIFT DRUM STOPPER ......... C7
+
+125
+27 | WRENCH.EYE 10x12... H1
+-39—s22 Wiad EYE, 22MM... a"
+
+WASHER, SPECIAL 5MM................... E10
+
+72
+
+WASHER, SPECIAL, 6MM......0..0......... C7
+
+339
+
+23
+
+O87
+
+2
+
+WASHER, SPECIAL, 8MM...............-.. E16
+
+73
+
+«51
+
+23
+
+9
+
+F12
+
+101
+
+23
+
+WASHER, SPEEDOMETER GEAR ...........F1.
+
+TANK, STORAGE .........0.0.0.
+eos cece ee. F11
+TENSIONER, CAM CHAIN .................. Bs
+
+98
+
+20]
+
+VALVE COMP, PURGE CONTROL........... C11
+
+WASHER, SPRING, 22MM .................. B7
+
+#15
+
+14
+
+46
+
+~— 28
+
+14
+
+58
+
+36
+
+TERMINAL SET.BRUSH ................... B11
+
+5 | VALVESET.FLOAT ...............-..-.00. C12
+
+WASHER, SPRING, 3MM ................... E3
+
+48
+
+2
+
+22
+
+2 |
+
+VALVE SET, STARTER ..... Cove ceecee. C12
+
+WASHER, SPRING, 4MM .........0..0.00. B86?
+
+(9
+
+48
+
+8
+
+1]
+
+VALVEEX 00
+
+occ cove ec eeee ee. B4
+
+9
+
+9
+
+VALVEIN .................0cccceccee B4
+
+9
+
+8
+
+7 | VALVE, OILLOCK 0.0.0.0... 0cccce ce eeeee E971
+VALVERIM............0.0.0.0-c
+ce. Fl
+78
+
+5
+
+F10
+
+2
+
+96
+
+8
+
+F12
+
+101
+
+28
+
+6
+
+WASHER, SPRING, 8MM ... 0.00.00...
+-. E11
+
+75
+
+66
+
+67
+
+6
+
+16]
+
+F3B2
+
+5
+
+TIRE ASSY,RR ose, F382
+
+5
+
+5(00BS -2
+
+1
+
+re H1
+TOP COMP. 2000. C12
+
+126
+
+f3
+
+(W)
+
+46
+
+«025 | WASHER...
+
+C11
+
+46
+
+26]
+
+26
+
+TUBE B, BREATHER....................... F11
+
+98
+
+TUBE, AIRCLEANER ..................... F11
+
+98
+
+TUBE, AIR CLEANER BREATHER ........... F11
+TUBE. AIRVENT 0..
+eee c cece.
+. C11
+
+98
+
+46
+TUBE, AIR VENT. 35X130............, F5so«B7
+TUBE, BATTERY... eee. F10
+158
+
+& AMERICAN HONDA MOTOR CO. INC. 1993
+
+96
+
+ee E256
+
+WASHERB, THRUST 25MM................ (6
+
+2 | WASHER K DRIVE PINION ................. (6
+
+37 ~
+
+4
+
+22
+
+4 =637.~—«18
+WASHER ANCHORPIN.................... F280
+4
+15 | WASHER, DRAINPLUG12MM.............. B12
+2421
+
+21]
+
+)~—s«18
+
+F10
+
+b252—S—ti«
+
+i
+
+ee
+
+WASHER, SPRING, 5MM
+
+.................. B11
+22.10
+WASHER, SPRING, 6MM .................0. E358
+37
+
+=
+
+=20
+
+1713
+
+WASHER, THRUST, 20X0.85 ................ C6
+
+3?
+
+WASHER, THRUST, 20X090................ C6
+
+46037——20
+
+WASHER, THRUST, 20X095 ................ C6
+
+WASHER, THRUST, 20X1.00 ..............-, C6
+C6
+WASHER, THRUST, 20X1.05 ................ C6
+WASHER, THRUST, 25MM................-. By
+
+WASHER, THRUST, 25X34... C6
+
+20
+
+37—20
+
+4
+
+4«037—20
+37)
+37 ~— 20
+
+O15
+
+15
+
+03719
+
+27 | WASHER, ENGINEHANGER................ 612
+
+125
+
+5 | WASHER.LSIDE ........................ E10
+15 | WASHER,LOCK .......................... c?
+
+28
+
+73
+
+WASHER, THRUST, 5VM................... B2
+
+31
+
+5
+
+(17
+
+B3
+
+39
+
+7
+
+21
+
+15
+
+WASHER, WAVE, 12MM 0.0.0.0... eos B4
+
+9
+
+18
+
+J7
+
+Me
+
+8
+1:
+
+9619
+
+WASHER, THRUST ..0.0..0
+0c. cccc cece
+. BB
+
+4948
+
+WaENGR area Sireeeterear nese ncnes "
+
+126
+bo
+
+7911
+
+WASHER, STEERING STEM ................ E7
+
+110: ee C11
+
+TUBE A, BREATHER ................... Ct
+
+ss B2
+
+ENCH, HEX, SMM... eee i 1
+
+le
+
+2
+
+68
+THREAD, STEERING HEAD TOP ............ EB
+69
+TIRE ASSY,FR......... bobebevtceeeeees. F178
+
+1146S
+
+12. | WIRE COMP, TAILLIGHT .................. G8
+
+C1
+
+36
+
+THREAD COMP, STEERING HEAD UPPER ...£8
+
+9
+
+Gf
+
+73
+
+ooo
+
+WREBGUARD....
+
+(1B
+
+110
+
+28|
+
+26
+
+4010
+
+9 | VALVECOMP.AIR...........0..0 cece. E10
+
+121
+
+14
+2B
+
+i, ce
+
+25}
+
+10
+
+THERMOSWITCH ASSY. ................... G10
+
+1518
+
+7565 | «WIRE A, GUARD ...... ee c8
+
+120
+
+THERMOSTAT 0... ooo
+cece eee. C84
+
+eee. 87
+
+105
+
+TANK, RESERVE... 0...
+eee cece. 610
+
+G5
+
+WASHER, 6X19...
+
+«15
+5
+
+£ AMERICAN HONDA MOTOR CO, INC. 1993
+
+159
+
+GRID
+
+

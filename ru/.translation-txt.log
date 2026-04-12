@@ -1,0 +1,8 @@
+[2026-04-12T06:22:15Z] Initialized with 29 job(s)
+[2026-04-12T06:22:15Z] start() called
+[2026-04-12T06:22:15Z] Scheduling first translation pass
+[2026-04-12T06:22:15Z] Scheduling next translationTask pass
+[2026-04-12T06:22:15Z] process(session:) invoked
+[2026-04-12T06:22:15Z] Starting job 1: manuals/carburetor-reference/manuals/02-haynes-fuel-and-exhaust-systems.txt
+[2026-04-12T06:22:15Z] Translating batch 1 with 40 chunk(s)
+[2026-04-12T06:23:19Z] Translating batch 2 with 39 chunk(s)
