@@ -19,10 +19,11 @@ If you are starting work in this repository, use this order:
 2. Open `howto.md` for the most common maintenance, diagnostics, and modification tasks.
 3. Review `problems.md` for the known weak points of the VF750 / V45 platform.
 4. Use `manuals/electrical-reference/` first for wiring and charging diagnostics.
-5. Use `fork swap.md` if working on chassis and front-end conversion planning.
-6. Use `ecu swap.md` if researching EFI conversion paths.
-7. Use `sabre-cafe-racer-projects.md` and `images/` for design and build references.
-8. Use `resources.md` when you need forums, OEM parts sources, or external documentation.
+5. Use `manuals/cdi-reference/` for spark units, timing, ignition diagnostics, and replacement paths.
+6. Use `fork swap.md` if working on chassis and front-end conversion planning.
+7. Use `ecu swap.md` if researching EFI conversion paths.
+8. Use `sabre-cafe-racer-projects.md` and `images/` for design and build references.
+9. Use `resources.md` when you need forums, OEM parts sources, or external documentation.
 
 ## Repository Structure
 
@@ -32,6 +33,7 @@ manuals/
   haynes-manual/              Haynes service manual — OCR, searchable, split by section
   partslist-vf700s-sabre/     VF700S parts catalog — OCR, searchable, split by section
   electrical-reference/       electrical materials collected into one package
+  cdi-reference/              standalone ignition / spark-unit package
 scripts/                      Python scripts for PDF processing
 images/                       reference images: stock, cafe-racer, Pinterest board downloads
 howto.md                      common maintenance / repair / modification tasks
@@ -52,6 +54,7 @@ The source PDFs under `manuals/` have been converted into searchable PDFs with O
 - **Haynes manual** — 10 sections from front matter through electrical system and conversion factors.
 - **Parts catalog** — 5 sections: front matter, engine (B1), frame (E1), part number index, description index.
 - **Electrical reference** — a combined package with ignition system, electrical system, wiring diagrams (all models + 1982 750 Sabre specifically), electrical parts catalog, and troubleshooting notes.
+- **CDI reference** — a standalone package for spark units / TCI, timing checkpoints, diagnostics, and replacement options.
 
 Each generated manual package contains a `manifest.json` with source mappings and page ranges.
 

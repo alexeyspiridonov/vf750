@@ -16,6 +16,11 @@ This folder collects the electrical materials currently available in the project
 ### Notes
 - `notes/internet-sources.md`
 - `notes/common-issues.md`
+- `../cdi-reference/README.md`
+- `../cdi-reference/01-cdi-tech-and-timing.md`
+- `../cdi-reference/02-cdi-diagnostics-and-setup.md`
+- `../cdi-reference/03-cdi-replacement-options.md`
+- `../cdi-reference/sources.md`
 - `manifest.json`
 
 ## Scope Notes
@@ -29,5 +34,6 @@ This folder collects the electrical materials currently available in the project
 1. Start with `manuals/04-wiring-diagram-1982-750-sabre.pdf`.
 2. Use `manuals/02-electrical-system.pdf` for diagnostics and test procedures.
 3. Use `manuals/01-ignition-system.pdf` for spark units, coils, pulse generators, and timing.
-4. Use `parts-catalog/01-electrical-components.pdf` to identify assemblies and part relationships.
-5. Use the forum and online notes for common failures and upgrade paths.
+4. Use `../cdi-reference/` for spark-unit architecture, timing checkpoints, diagnostics, and modern replacement paths.
+5. Use `parts-catalog/01-electrical-components.pdf` to identify assemblies and part relationships.
+6. Use the forum and online notes for common failures and upgrade paths.

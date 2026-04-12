@@ -9,12 +9,12 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent.parent
-OUTPUT_DIR = ROOT / "output" / "electrical-reference"
+OUTPUT_DIR = ROOT / "manuals" / "electrical-reference"
 MANUALS_DIR = OUTPUT_DIR / "manuals"
 PARTS_DIR = OUTPUT_DIR / "parts-catalog"
 
-HAYNES_DIR = ROOT / "output" / "haynes-manual"
-PARTSLIST_DIR = ROOT / "output" / "partslist-vf700s-sabre"
+HAYNES_DIR = ROOT / "manuals" / "haynes-manual"
+PARTSLIST_DIR = ROOT / "manuals" / "partslist-vf700s-sabre"
 HAYNES_PDF = HAYNES_DIR / "honda-vf700-750-1100-haynes-searchable.pdf"
 PARTSLIST_PDF = PARTSLIST_DIR / "partslist-vf700s-sabre-searchable.pdf"
 
@@ -124,10 +124,20 @@ def write_manifest(items: list[dict[str, str]]) -> None:
             "parts_catalog": str(PARTSLIST_PDF.relative_to(ROOT)),
         },
         "outputs": items,
+        "reference_docs": [
+            "manuals/electrical-reference/notes/internet-sources.md",
+            "manuals/electrical-reference/notes/common-issues.md",
+            "manuals/cdi-reference/README.md",
+            "manuals/cdi-reference/01-cdi-tech-and-timing.md",
+            "manuals/cdi-reference/02-cdi-diagnostics-and-setup.md",
+            "manuals/cdi-reference/03-cdi-replacement-options.md",
+            "manuals/cdi-reference/sources.md",
+        ],
         "notes": [
             "The parts catalog in this repository is specifically for the 1984-1985 VF700S Sabre.",
             "The Haynes manual covers 700/750/1100 V4 Sabre and Magna models, including the 1982 750 Sabre wiring diagrams.",
             "OCR on wiring diagrams and fiche pages is useful for search, but diagram pages remain visually primary documents.",
+            "The stock VF750S ignition is better described as transistorized TCI / spark units than as classic CDI, even though owners often use CDI as a generic name.",
         ],
     }
     (OUTPUT_DIR / "manifest.json").write_text(json.dumps(payload, indent=2), encoding="utf-8")

@@ -1,58 +1,68 @@
 {
   "project_bike_context": "Honda Sabre cafe racer project. Local documentation covers multiple Sabre/Magna model years, so model-year differences must be verified before ordering parts or rewiring.",
   "sources": {
-    "haynes_manual": "output/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
-    "parts_catalog": "output/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf"
+    "haynes_manual": "manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+    "parts_catalog": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf"
   },
   "outputs": [
     {
       "type": "copy",
-      "source": "output/haynes-manual/sections/05-ignition-system.pdf",
-      "output": "output/electrical-reference/manuals/01-ignition-system.pdf"
+      "source": "manuals/haynes-manual/sections/05-ignition-system.pdf",
+      "output": "manuals/electrical-reference/manuals/01-ignition-system.pdf"
     },
     {
       "type": "copy",
-      "source": "output/haynes-manual/sections/05-ignition-system.txt",
-      "output": "output/electrical-reference/manuals/01-ignition-system.txt"
+      "source": "manuals/haynes-manual/sections/05-ignition-system.txt",
+      "output": "manuals/electrical-reference/manuals/01-ignition-system.txt"
     },
     {
       "type": "copy",
-      "source": "output/haynes-manual/sections/08-electrical-system.pdf",
-      "output": "output/electrical-reference/manuals/02-electrical-system.pdf"
+      "source": "manuals/haynes-manual/sections/08-electrical-system.pdf",
+      "output": "manuals/electrical-reference/manuals/02-electrical-system.pdf"
     },
     {
       "type": "copy",
-      "source": "output/haynes-manual/sections/08-electrical-system.txt",
-      "output": "output/electrical-reference/manuals/02-electrical-system.txt"
+      "source": "manuals/haynes-manual/sections/08-electrical-system.txt",
+      "output": "manuals/electrical-reference/manuals/02-electrical-system.txt"
     },
     {
       "type": "extract",
-      "source": "output/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+      "source": "manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
       "pages": "220-247",
-      "output_pdf": "output/electrical-reference/manuals/03-wiring-diagrams-all-models.pdf",
-      "output_txt": "output/electrical-reference/manuals/03-wiring-diagrams-all-models.txt",
+      "output_pdf": "manuals/electrical-reference/manuals/03-wiring-diagrams-all-models.pdf",
+      "output_txt": "manuals/electrical-reference/manuals/03-wiring-diagrams-all-models.txt",
       "note": "All wiring diagram pages from the Haynes manual."
     },
     {
       "type": "extract",
-      "source": "output/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+      "source": "manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
       "pages": "220-228",
-      "output_pdf": "output/electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.pdf",
-      "output_txt": "output/electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.txt",
+      "output_pdf": "manuals/electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.pdf",
+      "output_txt": "manuals/electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.txt",
       "note": "1982 750 Sabre wiring diagram pages from the Haynes manual."
     },
     {
       "type": "extract",
-      "source": "output/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
       "pages": "39-41,59,68-71",
-      "output_pdf": "output/electrical-reference/parts-catalog/01-electrical-components.pdf",
-      "output_txt": "output/electrical-reference/parts-catalog/01-electrical-components.txt",
+      "output_pdf": "manuals/electrical-reference/parts-catalog/01-electrical-components.pdf",
+      "output_txt": "manuals/electrical-reference/parts-catalog/01-electrical-components.txt",
       "note": "84/85 VF700S electrical-related parts fiche pages: headlight, instruments, switches, battery, spark unit, signals, taillight, and wiring harness."
     }
+  ],
+  "reference_docs": [
+    "manuals/electrical-reference/notes/internet-sources.md",
+    "manuals/electrical-reference/notes/common-issues.md",
+    "manuals/cdi-reference/README.md",
+    "manuals/cdi-reference/01-cdi-tech-and-timing.md",
+    "manuals/cdi-reference/02-cdi-diagnostics-and-setup.md",
+    "manuals/cdi-reference/03-cdi-replacement-options.md",
+    "manuals/cdi-reference/sources.md"
   ],
   "notes": [
     "The parts catalog in this repository is specifically for the 1984-1985 VF700S Sabre.",
     "The Haynes manual covers 700/750/1100 V4 Sabre and Magna models, including the 1982 750 Sabre wiring diagrams.",
-    "OCR on wiring diagrams and fiche pages is useful for search, but diagram pages remain visually primary documents."
+    "OCR on wiring diagrams and fiche pages is useful for search, but diagram pages remain visually primary documents.",
+    "The stock VF750S ignition is better described as transistorized TCI / spark units than as classic CDI, even though owners often use CDI as a generic name."
   ]
 }
