@@ -1,6 +1,6 @@
 # VF750 Resources
 
-Checked: 2026-04-11
+Checked: 2026-04-12
 
 ## Main Forums
 
@@ -39,10 +39,10 @@ The VF750 service manual is already included in this repository.
 
 ## Reddit
 
-- [r/motorcycles](https://reddit.com/r/motorcycles)
-- [r/HondaMotorcycles](https://reddit.com/r/HondaMotorcycles)
-- [r/VFR](https://reddit.com/r/VFR)
-- [r/Fixxit](https://reddit.com/r/Fixxit)
+- [r/motorcycles](https://www.reddit.com/r/motorcycles)
+- [r/HondaMotorcycles](https://www.reddit.com/r/HondaMotorcycles)
+- [r/VFR](https://www.reddit.com/r/VFR)
+- [r/Fixxit](https://www.reddit.com/r/Fixxit)
 
 ## YouTube References
 
@@ -99,7 +99,7 @@ The VF750 service manual is already included in this repository.
 ## VF750 Project Archives
 
 - [V4MuscleBike projects and customizing](https://www.v4musclebike.com/forums/projects-and-customizing.12/)
-- [VFRworld 1st and 2nd generation forum](https://vfrworld.com/forums/1st-2nd-generation-1983-1989.13/)
+- [VFRworld VF750 tag archive](https://vfrworld.com/tags/vf750/)
 - [VF1000 forum VF750 section](https://forum.vf1000.com/c/vf750/12)
 
 ## Best Starting Points

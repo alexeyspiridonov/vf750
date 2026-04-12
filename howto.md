@@ -282,14 +282,14 @@ Addresses the #1 VF750 problem — poor oil delivery to the heads.
 - Strip unused wiring (signals, gauges, emissions).
 - Build a simplified harness or use a motorcycle wiring kit.
 - Key circuits to keep: ignition, charging, fuel pump (if EFI), lights, starter.
-- See electrical reference package in `output/electrical-reference/`.
+- See electrical reference package in `manuals/electrical-reference/`.
 
 ---
 
 ## References
 
-- Haynes manual sections: `output/haynes-manual/sections/`
-- Parts catalog: `output/partslist-vf700s-sabre/sections/`
-- Electrical package: `output/electrical-reference/`
+- Haynes manual sections: `manuals/haynes-manual/sections/`
+- Parts catalog: `manuals/partslist-vf700s-sabre/sections/`
+- Electrical package: `manuals/electrical-reference/`
 - Problems list: `problems.md`
 - Community: [V4MuscleBike](https://v4musclebike.com/forums/), [VF1000 Forum / VF750](https://forum.vf1000.com/c/vf750/12)

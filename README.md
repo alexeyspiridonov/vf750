@@ -18,7 +18,7 @@ If you are starting work in this repository, use this order:
 1. Read `README.md` to understand the repo structure and available materials.
 2. Open `howto.md` for the most common maintenance, diagnostics, and modification tasks.
 3. Review `problems.md` for the known weak points of the VF750 / V45 platform.
-4. Use `output/electrical-reference/` first for wiring and charging diagnostics.
+4. Use `manuals/electrical-reference/` first for wiring and charging diagnostics.
 5. Use `fork swap.md` if working on chassis and front-end conversion planning.
 6. Use `ecu swap.md` if researching EFI conversion paths.
 7. Use `sabre-cafe-racer-projects.md` and `images/` for design and build references.
@@ -27,8 +27,8 @@ If you are starting work in this repository, use this order:
 ## Repository Structure
 
 ```
-pdf/                          source PDFs (manuals, parts lists)
-output/
+manuals/
+  source PDFs                 original manual and parts-catalog PDFs
   haynes-manual/              Haynes service manual — OCR, searchable, split by section
   partslist-vf700s-sabre/     VF700S parts catalog — OCR, searchable, split by section
   electrical-reference/       electrical materials collected into one package
@@ -42,18 +42,18 @@ problems.md                   common VF750 problems and fixes (English)
 
 ### Source PDFs
 
-- [Honda VF700/750/1100 Haynes service manual](pdf/Honda%20VF700,750,1100%20v45,65%20Sabre%20And%20Magna%20V-Fours%2082-88%20Haynes%20Service%20Manual%20Eng%20By%20Mosue.pdf)
-- [VF700S Sabre parts list (1984–1985)](pdf/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf)
+- [Honda VF700/750/1100 Haynes service manual](manuals/Honda%20VF700,750,1100%20v45,65%20Sabre%20And%20Magna%20V-Fours%2082-88%20Haynes%20Service%20Manual%20Eng%20By%20Mosue.pdf)
+- [VF700S Sabre parts list (1984–1985)](manuals/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf)
 
 ### Processed Output
 
-The source PDFs have been converted into searchable PDFs with OCR text layers and split into sections:
+The source PDFs under `manuals/` have been converted into searchable PDFs with OCR text layers and split into sections:
 
 - **Haynes manual** — 10 sections from front matter through electrical system and conversion factors.
 - **Parts catalog** — 5 sections: front matter, engine (B1), frame (E1), part number index, description index.
 - **Electrical reference** — a combined package with ignition system, electrical system, wiring diagrams (all models + 1982 750 Sabre specifically), electrical parts catalog, and troubleshooting notes.
 
-Each output folder contains a `manifest.json` with source mappings and page ranges.
+Each generated manual package contains a `manifest.json` with source mappings and page ranges.
 
 ### Processing Scripts
 
@@ -95,7 +95,7 @@ The `images/` folder now includes several reference groups:
 - **[Partzilla](https://www.partzilla.com)** — OEM parts lookup.
 - **Perry / 1984 VF700S Sabre Cafe** ([Inazuma Cafe](https://www.inazumacafe.com/2016/10/vf750-sabre-cafe.html), [CafeRacer.net](https://www.caferacer.net/threads/1984-honda-honda-vf700s-sabre-cafe.28714/)) — the most thoroughly documented modern front-end conversion on a Sabre.
 - **HackAWeek / 1985 VF700S** ([site](https://hackaweek.com/hacks/the-1985-honda-vf700s-sabre-cafe-racer-conversion-begins/), [YouTube](https://www.youtube.com/watch?v=-bHv8hUwE5k)) — the best long-form video build series for a Sabre cafe racer.
-- **[Balkan Moto / V45 Sabre](https://balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)** — honest DIY build with lessons learned on the 1982–83 Sabre.
+- **[Balkan Moto / V45 Sabre](https://www.balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)** — honest DIY build with lessons learned on the 1982–83 Sabre.
 
 ## Status
 
@@ -107,4 +107,7 @@ Current state:
 - research notes cover EFI, front-end swaps, project references, and community resources;
 - a practical service and modification guide has been added in `howto.md`;
 - common VF750 issues have been consolidated in English in `problems.md`;
-- image references are now organized into stock, custom, and Pinterest-derived sets.
+- image references are now organized into stock, custom, and Pinterest-derived sets;
+- project markdown links were audited on 2026-04-12 and outdated internal `pdf/` and `output/` paths were corrected to the current `manuals/` layout.
+
+Note: some external sites, especially Reddit and Balkan Moto, may return anti-bot HTTP responses to automated checks while still opening normally in a browser.

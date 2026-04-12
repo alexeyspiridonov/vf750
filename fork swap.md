@@ -65,7 +65,7 @@ Status: useful family-level proof, but not a direct V45 analogue.
 This was done on a V65 Sabre, not the V45 VF750S project bike.
 
 #### Source
-- [V4MuscleBike sale/build thread](https://v4musclebike.com/forums/showthread.php?p=404196)
+- [V4MuscleBike sale/build thread](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/#post-404196)
 
 ### 3. K-Speed / "Sabre Racer"
 
@@ -97,7 +97,7 @@ Status: strongest warning example.
 
 #### Sources
 - [Balkan Moto build page](https://www.balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)
-- [Balkan Moto suspension geometry tool](https://balkanmoto.com/tools/suspension-geometry.php)
+- [Balkan Moto suspension geometry tool](https://www.balkanmoto.com/tools/suspension-geometry.php)
 
 ## What the Bike Gives You in Stock Form
 
@@ -112,9 +112,9 @@ Status: strongest warning example.
 - those two changes together can alter rake, trail, and overall stance much more than people expect
 
 ### Local references
-- `output/haynes-manual/sections/06-frame-suspension-and-final-drive.pdf`
-- `output/haynes-manual/sections/07-brakes-wheels-and-tires.pdf`
-- `output/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.txt`
+- `manuals/haynes-manual/sections/06-frame-suspension-and-final-drive.pdf`
+- `manuals/haynes-manual/sections/07-brakes-wheels-and-tires.pdf`
+- `manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.txt`
 
 ## Hard Constraints Found During Research
 
@@ -145,7 +145,7 @@ This is exactly how the Perry bike was done.
 Forum evidence on the Sabre family says many modern forks are too short for the Sabre's relatively tall steering-neck arrangement, and that some successful swaps required machining or extensions.
 
 #### Source
-- [V4MuscleBike discussion](https://v4musclebike.com/forums/showthread.php?t=34228)
+- [V4MuscleBike discussion](https://v4musclebike.com/threads/fork-swap.34228/)
 
 Important note: this is forum-sourced, not factory documentation, but it fits the custom-stem evidence seen in the Perry build.
 
@@ -158,7 +158,7 @@ Forum evidence from a V45 Sabre / VFR fork discussion says:
 - using the whole VFR setup, including wheel and brakes, is likely easier
 
 #### Source
-- [V4MuscleBike discussion](https://v4musclebike.com/forums/showthread.php?t=34228)
+- [V4MuscleBike discussion](https://v4musclebike.com/threads/fork-swap.34228/)
 
 This reinforces the same lesson: front-end swaps usually work better when treated as a whole assembly.
 
@@ -196,7 +196,7 @@ You want modern upside-down forks, modern brakes, and custom-bike looks more tha
 - measure your donor before spending money
 
 #### Source
-- [V4MuscleBike discussion](https://v4musclebike.com/forums/showthread.php?t=34228)
+- [V4MuscleBike discussion](https://v4musclebike.com/threads/fork-swap.34228/)
 
 ### 3. Rebuild-and-upgrade stock route
 
@@ -229,7 +229,7 @@ This is not a modern fork swap, but it is often the smarter answer if the goal i
 - rear ride height
 
 ### Useful external references
-- [Balkan Moto suspension geometry tool](https://balkanmoto.com/tools/suspension-geometry.php)
+- [Balkan Moto suspension geometry tool](https://www.balkanmoto.com/tools/suspension-geometry.php)
 - [Cognito Moto GSX-R fixed-offset triple guidance](https://cognitomoto.com/products/gsx-r-fixed-offset-triple-tree-conversion-30mm-45mm-50mm-55mm-60mm)
 
 ### Useful vendor guidance, not a factory rule
@@ -332,7 +332,7 @@ If the goal is "modern look + best possible ride + realistic effort":
 - [Pipeburn K-Speed Sabre Racer](https://pipeburn.com/sabre-racer-honda-vf750s-k-speed-customs/)
 
 ### Best near-era swap discussion
-- [V4MuscleBike fork discussion](https://v4musclebike.com/forums/showthread.php?t=34228)
+- [V4MuscleBike fork discussion](https://v4musclebike.com/threads/fork-swap.34228/)
 
 ### Best family-level custom front-end appendix
-- [V4MuscleBike V65 Sabre build/sale thread](https://v4musclebike.com/forums/showthread.php?p=404196)
+- [V4MuscleBike V65 Sabre build/sale thread](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/#post-404196)

@@ -1,15 +1,15 @@
 # Internet Sources
 
-Checked: 2026-04-11
+Checked: 2026-04-12
 
 ## Wiring Diagrams And OEM Parts Trees
 
-- V4MuscleBike wiring diagram index  
-  https://v4musclebike.com/articles/magnandy/Wiring%20Diagrams/  
-  Useful because it includes dedicated Sabre diagram files, including:
-  - `1982 750cc Sabre Wiring Diagram.JPG`
-  - `1983-1984 700-750cc Sabre Wiring Diagram.JPG`
-  - `1985 700cc Sabre Wiring Diagram.JPG`
+- Local electrical-reference package  
+  Use the local copies in this repository first:
+  - `manuals/03-wiring-diagrams-all-models.pdf`
+  - `manuals/04-wiring-diagram-1982-750-sabre.pdf`
+
+- Historical note: the old V4MuscleBike wiring-diagram index link appears unavailable as of 2026-04-12, so it is no longer treated as a primary source.
 
 - Partzilla 1982 VF750S V45 Sabre OEM parts root  
   https://www.partzilla.com/catalog/honda/motorcycle/1982/vf750s-a-v45-sabre  
@@ -26,11 +26,11 @@ Checked: 2026-04-11
   Useful for spark unit location and front/rear bank troubleshooting logic.
 
 - 84 vf 750 sabre ignition problem  
-  https://v4musclebike.com/forums/showthread.php?t=32922  
+  https://v4musclebike.com/threads/84-vf-750-sabre-ignition-problem.32922/  
   Useful for no-spark diagnosis, pulse generator resistance checks, CDI power and ground checks, and the rear-bank tach relationship.
 
 - CDI units  
-  https://v4musclebike.com/forums/showthread.php?t=5971  
+  https://v4musclebike.com/threads/cdi-units.5971/  
   Useful as a reference when evaluating replacement spark box / CDI options.
 
 ## Charging System / Stator / Regulator-Rectifier
@@ -44,7 +44,7 @@ Checked: 2026-04-11
   Useful summary of a very common failure point and why connector maintenance matters.
 
 - 3 yellow wire fix  
-  https://v4musclebike.com/forums/showthread.php?t=790  
+  https://v4musclebike.com/threads/3-yellow-wire-fix.790/  
   Very useful community write-up on the stator-to-regulator connector failure and the hardwire fix.
 
 - Mosfet R/R mod  
@@ -52,25 +52,25 @@ Checked: 2026-04-11
   Useful upgrade path when the stock regulator/rectifier fails or charging stability is poor.
 
 - I need a stator......Rick's or Electrosport?  
-  https://v4musclebike.com/forums/showthread.php?t=37309  
+  https://v4musclebike.com/threads/i-need-a-stator-ricks-or-electrosport.37309/  
   Useful for real-world Sabre stator failure symptoms and replacement discussion.
 
 - 1984 Sabre V45 750cc charging system problem  
-  https://v4musclebike.com/forums/showthread.php?t=16712  
+  https://v4musclebike.com/threads/1984-sabre-v45-750cc-charging-system-problem.16712/  
   Useful because it ties together charging problems, spark boxes, tach behavior, and common V4 failure points.
 
 ## Starter Relay / Main Fuse / Harness
 
 - Solenoid replacement, MAIN FUSE FIX!  
-  https://v4musclebike.com/forums/showthread.php?t=3223  
+  https://v4musclebike.com/threads/solenoid-replacement-main-fuse-fix.3223/  
   High-value reference for replacing the old dogbone-fuse solenoid and understanding the common blade-fuse conversion.
 
 - Starter Relay and Fuse  
-  https://v4musclebike.com/forums/showthread.php?t=47255  
+  https://v4musclebike.com/threads/starter-relay-and-fuse.47255/  
   Useful for modern replacement choices and dogbone-fuse replacement discussion.
 
 - starter relay question  
-  https://v4musclebike.com/forums/showthread.php?t=27094  
+  https://v4musclebike.com/threads/starter-relay-question.27094/  
   Useful for fuse rating discussion and aftermarket relay caution.
 
 - Starter fuse blows when battery is connected V45 Sabre  

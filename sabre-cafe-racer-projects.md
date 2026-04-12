@@ -99,7 +99,7 @@ Model: 1982-83 Honda VF750S V45 Sabre
 - strong reminder that form-first decisions can create technical problems
 
 #### Primary links
-- [Builder page](https://balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)
+- [Builder page](https://www.balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)
 - [V4MuscleBike thread](https://v4musclebike.com/threads/1982-83-v45-sabre-cafe-racer-build.34759/)
 
 #### Usefulness
@@ -189,7 +189,7 @@ Model: 1984 V65 Sabre VF1100S
 - full engine and frame rebuild
 
 #### Primary link
-- [V4MuscleBike sale thread with build summary](https://v4musclebike.com/forums/showthread.php?p=404196)
+- [V4MuscleBike sale thread with build summary](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/#post-404196)
 
 #### Note
 
@@ -229,5 +229,5 @@ This matters because a search for "VF750 cafe racer" quickly gets flooded with M
 
 1. [Perry VF700S](https://www.inazumacafe.com/2016/10/vf750-sabre-cafe.html)
 2. [HackAWeek](https://hackaweek.com/hacks/the-1985-honda-vf700s-sabre-cafe-racer-conversion-begins/)
-3. [Balkan Moto](https://balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)
+3. [Balkan Moto](https://www.balkanmoto.com/builds/1982-83-honda-sabre-v45-cafe-racer.php)
 4. [K-Speed / Pipeburn](https://pipeburn.com/sabre-racer-honda-vf750s-k-speed-customs/)
