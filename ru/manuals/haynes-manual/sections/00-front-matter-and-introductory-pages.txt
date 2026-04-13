@@ -1,384 +1,382 @@
-1V45/65 Sabre « Magna
-(VF700, 750 & 1100 V-Fours)
+1В45/65 Сабля « Магна
+(VF700, 750 и 1100 V-четверки)
 
 |
 
-1982 to 1988 0 699cc 45 748cc 0 1098cc
+1982–1988 0 699 куб.см 45 748 куб.см 0 1098 куб.см
 
-Honda
-V45/65 Sabre &
-Magna (VF700, 750
+Хонда
+V45/65 Сабля и
+Магна (VF700, 750
 
-& 1100 V-Fours)
+и 1100 V-четверок)
 
-Owners
-Workshop
-Manual
-by Penny Cox
-and John H. Haynes
-‘Member of the Guild of Motoring Writers
+Владельцы
+Мастерская
+Руководство
+Пенни Кокс
+и Джон Х. Хейнс
+«Член Гильдии автомобильных писателей.
 
-Models covered:
-Honda V45 700/750 Sabre. US 1982 through 1985
-Honda VF750S-C Sport. UK 1982 through 1984
-Honda V45 700/750 Magna. US 1982 through 1988.
-Honda VF750C-H and C-J Custom. UK 1987 through 1988
+Охваченные модели:
+Хонда V45 700/750 Сейбр. США, 1982–1985 гг.
+Хонда VF750S-C Спорт. Великобритания, 1982–1984 гг.
+Хонда V45 700/750 Магна. США, 1982-1988 годы.
+Honda VF750C-H и CJ Custom. Великобритания, 1987–1988 гг.
 
-Honda V65 1100 Sabre. US 1984 through 1985
+Хонда V65 1100 Сэйбр. США, 1984–1985 гг.
 
-‘saat
+'саат
 >
 
 (101 - 820)
 
 ©
 
-Honda V65 1100 Magna. US 1983 through 1986
+Хонда В65 1100 Магна. США, 1983–1986 гг.
 
-Haynes Publishing
+Хейнс Паблишинг
 
-Sparkford Nr Yeovil
-Somerset BA22 7JJ England
+Спаркфорд Нр Йовил
+Сомерсет BA22 7JJ Англия
 
-Haynes North America, Inc
-861 Lawrence Drive
-Newbury Park
+Хейнс Норт Америка, Инк.
+861 Лоуренс Драйв
+Ньюбери Парк
 
-California 91320 USA
+Калифорния 91320 США
 
-Contents
+Содержание
 
 .
 
-Introductory pages
-‘About this manual
+Вводные страницы
+«Об этом руководстве
 
 08
 
-Introduction to the Honda V45/65 Sabre
-& Magna (VF700, 750 & 1100 V-Fours)
+Знакомство с Honda V45/65 Sabre
+и Magna (VF700, 750 и 1100 V-четверки)
 
 06
 
-Identification numbers
+Идентификационные номера
 
 07
 
 0-8
 
-Buying parts
+Покупка запчастей
 
-General specifications
+Общие характеристики
 
-“09
+«09
 
-Maintenance techniques, tools and working facilities
+Методы технического обслуживания, инструменты и рабочие средства
 
-da0
+да0
 
-Safety first!
+Безопасность прежде всего!
 
 016
 
-Motoreycle chemicals and lubricants
+Химия и смазочные материалы Motoreycle
 
 047
 
-Troubleshooting
+Устранение неполадок
 
 0-18
 
-Chapter 1
+Глава 1
 
-Tune-up
-and routine maintenance
+Настройка
+и текущее обслуживание
 
 14
 
-Chapter 2
-Engine, clutch and transmission
+Глава 2
+Двигатель, сцепление и трансмиссия
 
 24
 
-3k
+3 тыс.
 
-Cooling system
+Система охлаждения
 
 34
 
-Chapter 4
+Глава 4
 
-ie
+т.е.
 
-Fuel and exhaust systoms
-Chapter 5
+Топливная и выхлопная системы
+Глава 5
 
-Chapter 6
+Глава 6
 
 ;
 
 2
 
-Chapter 3
+Глава 3
 
-Ignition systern
-
-4
-
-a1 oo
-a
-
-a
-
-genet
+Система зажигания
 
 4
 
-cB
+а1 оо
+а
 
-a
+а
 
-Frame, suspension and final drive
+генетика
 
-o1 Cag
+4
 
-Chapter 7
-Brakes, wheels and tres
+КБ
 
-TM
+а
 
-Chapter 8
-Electrical system
+Рама, подвеска и главная передача
+
+o1 клетка
+
+Глава 7
+Тормоза, колеса и трес
+
+ТМ
+
+Глава 8
+Электрическая система
 
 1
 
-Conversion factors
+Коэффициенты пересчета
 
 3
-Bo
+Бо
 
 0-4
 
-Honda V45/65 Sabre & Magna (VF700, 750 & 1100 V-Fours)
+Honda V45/65 Sabre и Magna (VF700, 750 и 1100 V-четверки)
 
-Honda V45/65 Sabre & Magna (VF700, 750 & 1100 V-Fours)
+Honda V45/65 Sabre и Magna (VF700, 750 и 1100 V-четверки)
 
-‘The 1984 V65 Magna (VF1100C)
+«V65 Magna 1984 года (VF1100C)
 
 0-5
 
 0-6
 
-About this manual
-Its purpose
+Об этом руководстве
+Его цель
 
-‘At the beginning of each numbered Section you will be referred to
+«В начале каждого пронумерованного раздела вы будете отсылаться к
 
-‘The purpose of this manual is to help you get the best value from
-your motorcycle. It can do so in several ways.
+«Цель данного руководства – помочь вам получить максимальную отдачу от
+твой мотоцикл. Это можно сделать несколькими способами.
 
-It can help you decide
+Это может помочь вам решить
 
-what work must be done, even if you choose to have it done by
+какую работу необходимо выполнить, даже если вы решите поручить ее выполнению
 @
-dealer service department or a repair shop; it provides information and
-procedures for routine maintenance and servicing; and it offers,
-diagnostic and repair procedures to follow when trouble occurs.
-We hope you use the manual to tackle the work yourself. For
-‘many simpler jobs, doing it yourself may be quicker than arranging an
+дилерский сервисный центр или ремонтная мастерская; он предоставляет информацию и
+процедуры текущего технического обслуживания и ремонта; и он предлагает,
+процедуры диагностики и ремонта, которые необходимо выполнить в случае возникновения неисправности.
+Мы надеемся, что вы воспользуетесь руководством, чтобы справиться с работой самостоятельно. Для
+«многие более простые работы, выполнить их самостоятельно может быть быстрее, чем организовать
 
-‘appointment to get the vehicle into a shop and making the trps to
-leave it and pick it up. More importantly, a lot of money can be saved
-by avoiding the expense the shop must pass on to you to cover its
-labor and overhead
-costs. An added benefits the sense of satisfaction
-nd accomplishment that you feel after doing the job yourself.
+«Встреча, чтобы доставить автомобиль в магазин и подготовить поездку к
+оставь это и забери. Что еще более важно, можно сэкономить много денег.
+избегая расходов, которые магазин должен переложить на вас для покрытия своих расходов.
+труд и накладные расходы
+затраты. Дополнительная выгода – чувство удовлетворения
+и достижение, которое вы почувствуете после выполнения работы самостоятельно.
 
-Using the manual
-The manual is divided into Chapters. Each Chapter is divided into
-numbered Sections, which are
+Использование руководства
+Руководство разделено на главы. Каждая глава разделена на
+пронумерованные разделы, которые
 
-headed in bold type between horizontal
+заголовок выделен жирным шрифтом между горизонтальными
 
-lines. Each Section consists of consecutively numbered paragraphs or
+линии. Каждый раздел состоит из последовательно пронумерованных параграфов или
 
-steps
+шаги
 
-any illustrations which apply to the procedures in that Section.
+любые иллюстрации, относящиеся к процедурам, описанным в этом Разделе.
 
-The
 
-reference numbers used in illstration captions pinpoint the pertinent
-Section and the Step within that Section. That is, ilustration 32 means
-the ilustration refers to Section 3 and Step (or paragraph) 2 within that
-Section.
 
-Procedures, once described in the text, are not normaly repeated
-When it's necessary to refer to another Chapter, the reference will be
-‘ven as Chapter and Section number. Cross references given without
-Use of the word ‘Chapter’ apply to Sections and/or paragraphs in the
-‘same Chapter. For exemple, 'see Section 8 means in the same
-Chapter
+ссылочные номера, используемые в подписях к иллюстрациям, указывают на соответствующие
+Раздел и Шаг внутри этого Раздела. То есть иллюстрация 32 означает
+иллюстрация относится к Разделу 3 и Шагу (или параграфу) 2 этого документа.
+Раздел.
 
-References to the eft or right side of the vehicle assume you are
-sitting on the seat, facing forward.
-Motorcycle manufacturers continuslly make changes to specifi-
+Процедуры, однажды описанные в тексте, обычно не повторяются.Если необходимо сослаться на другую главу, ссылка будет
+даже в качестве номера главы и раздела. Перекрестные ссылки даны без
+Использование слова «Глава» применяется к разделам и/или параграфам в
+«Тот же Глава». Например, «см. раздел 8» означает в том же
+Глава
 
-cotions ond recommendations, and these, when nolifed, are
-incorporated into our manuals at the earliest opportunity
-Even though we have prepared this manual with extreme care,
-neither the publisher nor the author can accept responsibilty for any
+Ссылки на левую или правую сторону автомобиля предполагают, что вы
+сидя на сиденье, лицом вперед.
+Производители мотоциклов постоянно вносят изменения в спецификации.
+
+предложения и рекомендации, а они, когда они не выполняются,
+включено в наши руководства при первой же возможности
+Несмотря на то, что мы подготовили это руководство с особой тщательностью,
+ни издатель, ни автор не могут нести ответственность за какие-либо
 €ert0rs
-in, or omissions from, the information given.
+в предоставленной информации или ее упущениях.
 
-NOTE
-‘A Note provides information necessary
-to property complete a procedure or information which will make the procedure
-understand,
+ПРИМЕЧАНИЕ
+«Примечание содержит информацию, необходимую
+собственности завершить процедуру или информацию, которая сделает процедуру
+понимаю,
 
-CAUTION
-‘A Caution provides o
+ВНИМАНИЕ
+«Осторожность предполагает o
 
-1ecial procedure or special steps which must be taken
+1Особая процедура или специальные шаги, которые необходимо предпринять
 
-while completing the procedure where the
+при выполнении процедуры, в которой
 
-Caution is found. Not heeding a Caution can result in damage to the assembly being worked on,
+Встречается осторожность. Несоблюдение предостережения может привести к повреждению работающего узла.
 
-WARNING
-‘A Warning provides a special procedure or special steps which must be taken while completing the procedure where the
-Warning is found. Not heeding @ Waming can result in personal injury.
+ПРЕДУПРЕЖДЕНИЕ
+«Предупреждение предусматривает специальную процедуру или особые действия, которые необходимо предпринять при выполнении процедуры, когда
+Предупреждение обнаружено. Несоблюдение @ Waming может привести к травме.
 
-Introduction to the Honda V45/65 Sabre &
-Magna (VF700, 750 & 1100 V-Fours)
-‘The first Honda V-Four engine, introduced in 1982 in a 750 ce (45
-cu in) capacity. was widely regarded as a milestone of motorcycle
-engineering. Its 90° V configuration allowed for a lighter engine which
-was more compact, yet more powerful than any previous Honda 750 co
-engine.
+Знакомство с Honda V45/65 Sabre &
+Magna (VF700, 750 и 1100 V-четверки)
+«Первый двигатель Honda V-Four, представленный в 1982 году на модели 750 ce (45
+куб. дюймов) емкость. широко считался вехой в развитии мотоциклов.
+инженерия. Его конфигурация с углом наклона 90° V позволила использовать более легкий двигатель, который
+был более компактным, но более мощным, чем любая предыдущая Honda 750 Co.
+двигатель.
 
-Because of the inherent
+Из-за присущего
 
-‘An 1100
-ce (65
-cu in)engine wasintroduced
-in 1963
-for the US market.
-There are two distinctly different models, the Sabre (known as the
+«Ан 1100
+СЕ (65
+у.е.) двигатель был представлен
+в 1963 году
+для рынка США.
+Существуют две совершенно разные модели: Sabre (известная как
 
-in the UK). The
-in the UK) and the Magna (known as the Custom
-‘Sport
-Sabre
+в Великобритании).
+в Великобритании) и Magna (известный как Custom
+«Спорт
+Сабля
 
-differs
+отличается
 
-ofa
+офа
 
-from
+из
 
-and
+и
 
-the
+тот
 
-Magna
+Магна
 
-in
+в
 
-having
+имея
 
-Honda's
+Хонда
 
-Pro-Link
+Про-Линк
 
-Cc
+Копия
 
-rear
+задний
 
 1
 
-engine, as well asthe rubber mountings, it is also an unusually smooth
-‘and quiet
-engine compared with the more conventional in-line, air‘cooled counterparts in production at the time.
-The 750 cc engine was superceded in 1984 by a shorter-stroke
-700 ce model, designed to fall below the heavyweight motorcycle
-import tariff imposed on machines imported into the US. The 700 ce
+двигатель, а также резиновые опоры, он еще и необычайно плавный.
+'и тихо
+по сравнению с более традиционными рядными аналогами с воздушным охлаждением, производившимися в то время.
+Двигатель объемом 750 куб.см был заменен в 1984 году двигателем с более коротким ходом поршня.
+Модель 700 ce, созданная, чтобы уступать тяжеловесному мотоциклу.
+импортный тариф, взимаемый с машин, ввозимых в США. 700 г. н. э.
 
-‘Magna models are custom-styled, with high handlebars, teardrop tank
-and a stepped seat. The Magnas have conventional twin-shock rear
+«Модели Magna выполнены в индивидуальном стиле, с высокими рулями и каплевидным баком.
+и ступенчатое сиденье. У Magnas обычная задняя часть с двойным амортизатором.
 
-engine continued for the remaining years of the Sabre, but a retum
+двигатель продолжался в течение оставшихся лет Sabre, но был возвращен
 
-to the table under identification numbers’ to establish the exact model
-year of their machine before carrying out any of the procedures given in
+в таблицу под идентификационными номерами для установления точной модели
+год выпуска машины, прежде чем выполнять какие-либо процедуры, указанные в
 
-‘was made to the 750 cc unit in 1988 for the last year of the Magna’s
-production. All models imported into the UK were of 750 cc capacty.
+'был изготовлен для двигателя объемом 750 куб.см в 1988 году, в последний год выпуска Magna.
+производство. Все модели, импортированные в Великобританию, имели объём 750 куб.см.
 
-suspension.
+подвеска.
 
-Both Sabre and Magna have appeared in 700, 750 and 1100 ce
-engine sizes during the model run, and have received a number of
-improvements and modifications. Owners are therefore advised to refer
+И Сэйбер, и Магна появились в 700, 750 и 1100 годах нашей эры.
+размеров двигателя во время пробега модели и получили ряд
+улучшения и модификации. Поэтому владельцам рекомендуется обращаться
 
-the main text of the manual
+основной текст руководства
 
-Identification numbers
-The frame serial number is stamped into the right side of the
-steering head and the VIN (Vehicle Identification Number) appears
-on the left side of the steering head: on 1987 and 1988 700/750
-Magna models, it is attached to the right frame top tube under the
-fuel tank. The engine number is stamped into the right upper side
-of the crankcase, directly above the clutch unit.
-A label attached to the right or left frame tube under the side
-cover, or altached to the rear fender top surface under the seat,
+Идентификационные номера
+Серийный номер рамы выштампован на правой стороне корпуса.рулевая колонка и появляется VIN (идентификационный номер автомобиля).
+на левой стороне рулевой головки: на 700/750 1987 и 1988 гг.
+В моделях Magna он крепится к правой верхней трубе рамы под
+топливный бак. Номер двигателя выбит на правой верхней стороне.
+картера, непосредственно над блоком сцепления.
+Этикетка прикреплена к правой или левой трубе рамы под бортом.
+чехол или прикреплен к верхней поверхности заднего крыла под сиденьем,
 
-gives the color code of the machine. The carburetor identification
+дает цветовой код машины. Идентификация карбюратора
 
-Number appears on the carburetor body casting, just above the
-float chamber joint. Emission control information (US models ony)
-is given on a label attached to the right lower frame tube on models
-through 1986, or to the right upper frame tube on later models.
-Al serial numbers should be recorded and kept in a safe place
+Номер указан на отливке корпуса карбюратора, чуть выше
+соединение поплавковой камеры. Информация о контроле выбросов (только модели для США)
+указан на этикетке, прикрепленной к правой нижней трубе рамы на моделях.
+до 1986 года или к правой верхней трубе рамы на более поздних моделях.
+Все серийные номера следует записать и хранить в надежном месте.
 
-s0 they can be furnished to law enforcement officials in the event of
-athe.
-‘The frame serial number, engine serial number, carburetor
-Identification number and color code should also be kept in a
-handy place (such as with your driver's license) so they are always
+s0 они могут быть переданы сотрудникам правоохранительных органов в случае
+ате.
+«Серийный номер рамы, серийный номер двигателя, карбюратор
+Идентификационный номер и цветовой код также следует хранить в
+удобном месте (например, рядом с водительскими правами), чтобы они всегда были под рукой.
 
-available when purchasing or ordering parts for your machine.
+доступен при покупке или заказе запчастей для вашей машины.
 
-The procedures in this manual identify the bikes by production
-year. Ifthis is not known, it can be determined from the engine and
-frame serial numbers as shown in the chart on the next page.
+Процедуры в этом руководстве идентифицируют велосипеды по производству.
+год. Если это неизвестно, это можно определить по двигателю и
+серийные номера рам, как показано в таблице на следующей странице.
 
-Engine number location on crankcase top surface
+Расположение номера двигателя на верхней поверхности картера
 
-Emission Control label location (models through 1986)
+Расположение этикетки контроля выбросов (модели до 1986 г.)
 
 0-8
 
-Identification numbers
-Engine number Frame number
+Идентификационные номера
+Номер двигателя Номер рамы
 
-US models (except California)
+Модели для США (кроме Калифорнии)
 
-\VF750S (1982)
+\ВФ750С (1982)
 \VF750S (1983)
 \VF7O0S (1984)
 
-RCO7E-2000086 to 2015096
-RCO7E-2100018 to 2115544
-RC22E-2000008 to 2005978
+RCO7E-2000086–2015096
+RCO7E-2100018 до 2115544
+RC22E-2000008–2005978
 
 \VF7O0S (1985)...
 
-RC22E-2100001 to 2103668,
+RC22E-2100001–2103668,
 
 \VF7S0C (1982)
 
-RCO7E-4000046 to 4029232
+RCO7E-4000046–4029232
 
 \VF7S0C (1983)
 \VF700C (1984)
@@ -386,1821 +384,1802 @@ RCO7E-4000046 to 4029232
 \VF700¢ (1986)
 \VF700¢ (1987)
 
-RCOTE-4100013 to 4124548,
-RC21E-2000021 to 2016382
-RC21E-2100016 to 2110238
-RC21E-2200005 to 2209873,
-RC21E-2300015 to 2304909
+RCOTE-4100013 - 4124548,
+RC21E-2000021 до 2016382
+RC21E-2100016 до 2110238
+RC21E-2200005–2209873,
+RC21E-2300015 - 2304909
 
 \VF750C (1988)
 
-RCOTE-4600001 on
+RCOTE-4600001 на
 
 \VF1100S (1984)
 
-‘SC17E-2000001 to 2008727
+‘SC17E-2000001–2008727
 
 RCO7O-CM000036
-to 012083
+на 012083
 RCO7O-DM100006
-to 108632
+на 108632
 RC220-£M000007
-to 005012
-RCZ20-FM100001 to 102800
+на 005012
+RCZ20-FM100001 до 102800
 
 RCO71-CM000033
-to 027062
+на 027062
 
 RCO71-DM100011
-to 122819
+на 122819
 RC210-£!000002
-to 014552
-C210-F¥4100008
-to 108900
+на 014552
+C210-F4100008 иен
+до 108900
 RC210-GM200003
-to 208028
+до 208028
 RC210-HM300007
-to 303508,
-‘or HA305001 to 310415
-RC2B0-4A100001 on
+на 303508,
+'или от HA305001 до 310415
+RC2B0-4A100001 вкл.
 
-'SC170-EM000001 to 010029
+'SC170-EM000001 до 010029
 
 \VF1100S (1985)
 
-‘SC17E-2100001 on
+‘SC17E-2100001 включен
 
-‘V1 1000 (1984)
+'В1 1000 (1984)
 
-'SC12E-2100001 to 2116075
+'SC12E-2100001 до 2116075
 
-'SC120-EA 100001 to 117084
+'SC120-EA от 100001 до 117084
 
 \VF750S (1982).
 
-Asabove
+Как указано выше
 
 \VF750S (1983).
 
-As above
+Как указано выше
 
 \VE700S (1984)
 
-RC22E-2002575 to 2008097
+RC22E-2002575–2008097
 
-Asabove
+Как указано выше
 
-As above
+Как указано выше
 
 \VF700S (1985)...
 
-RC22E-2100001 to 2103285
+RC22E-2100001 до 2103285
 
 \VF1100¢ (1983)
 
-'SC12E-2000038 to 2018597
+'SC12E-2000038 по 2018597
 
-‘v1 100C (1985)
+'v1 100C (1985)
 \VF1100c (1986)
 
-‘$C170-FA100001
-on
+'$C170-FA100001
+на
 
 'SC120-DM000029
-to 017877
+на 017877
 
-'SC12E-2200001 to 2208055
-'$C12-2300020 to 2304336
+'SC12E-2200001 до 2208055
+'$C12-2300020 до 2304336
 
-‘SC120-FA200006
-to 208465,
+'SC120-FA200006
+на 208465,
 SC120-GM300101
-to 304425
+на 304425
 
-US California models:
+Модели США, Калифорния:
 
-‘As above
+«Как указано выше
 
 \VF700¢ (1984)
 \vF7000(1985)
 
-RC21E-2000019 to 2018662
+RC21E-2000019–2018662
 RC21E-2100022to 2108674
 
 \VF7S0C (1983)
 
-Asabove
+Как указано выше
 
 \VF700C (1986)
 
 RC221-£M000006
-to 001081
+на 001081
 
 RC221-FM100001
-to 100863
+до 100863
 
 \VF750¢ (1982)
 
-RC21E-2200011 to 2210193,
+RC21E-2200011 до 2210193,
 
-‘As above
-‘As above
+«Как указано выше
+«Как указано выше
 C21 1-EM000003
-to 002300
-RC211-FM100007 to 101325
-
-RC211-GM200001 to 201250
+на 002300
+RC211-FM100007–101325RC211-GM200001 до 201250
 
 \vF700¢(1987)
 
 RC21E-2300020
-to 2303889
+на номер 2303889
 
-C21 1-HM300006 to 300514
+C21 1-HM300006 до 300514
 
 \VF7S0C (1988)
-\VF 1100S (1984)
-\VF1 1008 (1985)
+\ВФ 1100С (1984 г.)
+\ВФ1 1008 (1985)
 \VF1100¢ (1983)
 
-RCO7E-4600001 on
-'SC17E-2000001 to 2009087
-‘SC17E-2100001 on
-Asabove
+RCO7E-4600001 на
+'SC17E-2000001 до 2009087
+‘SC17E-2100001 включен
+Как указано выше
 
-‘or HA305003t0311015
+'или HA305003t0311015
 
-‘$C12E-2200001 to 2206580
-‘SC12E-2300001 to 2302532
+‘$C12E-2200001 до 2206580
+‘SC12E-2300001–2302532
 
 '$C120-FA200001
-to 206845
+на 206845
 '$C120-GM301308
-to 202825
+до 202825
 
-RCOTE-200741
-1 to 2020350
+РКОТЕ-200741
+от 1 до 2020350
 
-CO7-2000034 to 2008149
+CO7-2000034 до 2008149
 
-VF 1 100¢ (1984)
+ВФ 1 100 центов (1984)
 
-‘SC12E-2102298 to 2114635,
+‘SC12E-2102298–2114635,
 
 \VF1100C (1985)
 \VF1100¢ (1988)
 
 RC281-JA100001
-on
-‘$C170-EA100004
-to 117087
+на
+'$C170-EA100004
+на 117087
 '$C170-FA100001
-on
-As above
+на
+Как указано выше
 
 '$C120-EA100006
-to 117087
+на 117087
 
-UK models
+Британские модели
 \VF750S-C (1982-84)
 VE7S0C-+H (1987)
 
 RCOTE-4501116
-to 4501315,
+на 4501315,
 
 \VF750C-) (1988)
 
-RCOTE-4604228 on
+RCOTE-4604228 на
 
-Note: Unless
+Примечание: если только
 
-in this manual, the
+в этом руководстве
 
-\given
+\данный
 
-1988 700/750 Magnes applies to the UK VF75OC-H and C-J)
+1988 700/750 Magnes относится к Великобритании VF75OC-H и CJ)
 
-RC28-2000607 to 2000808
+RC28-2000607 - 2000808
 
-RC28-2100005 on,
+RC28-2100005 вкл.,
 
-for the 1962 750 Sabre apples to the UK VF75OS-C, and that for the 1987 and
+для 750 Sabre apples 1962 года выпуска в Великобритании VF75OS-C, а для 1987 и 1987 годов
 
-Buying parts
-‘Once
+Покупка запчастей
+«Однажды
 
-you have found all the
-identification
-numbers,
-record them for
+вы нашли все
+идентификация
+цифры,
+записать их для
 
-reference
+ссылка
 
-when
+когда
 
-buying
+покупка
 
-parts.
+части.
 
-5. parts and vendors
+5. запчасти и поставщики
 
-‘components
-on
-the machine),
+'компоненты
+на
+машина),
 
-Since
+Поскольку
 
-the
+тот
 
-manufacturers
+производители
 
-that
+что
 
-change
+изменить
 
-various
+различные
 
-providing the ID numbers is the only way to
+предоставление идентификационных номеров является единственным способом
 
-bbe reasonably
-sure that you are buying the correct parts.
+будь разумным
+убедитесь, что вы покупаете правильные детали.
 
-Whenever possible, take the wom part to the dealer so
-‘comparison with the new component can be made.
+По возможности отнесите женскую деталь продавцу, чтобы
+«Можно провести сравнение с новым компонентом.
 
-direct
+прямой
 
-Along the trail from
+По тропе от
 
-the manufacturer to the parts shelf, there are numerous places that the
-part can end up with the wrong number or be listed incorrectly.
+производителя на полку запчастей, существует множество мест, где
+часть может оказаться с неправильным номером или быть указана неправильно.
 
-The two places to purchase new parts for your motorcycle - the
-‘accessory store and the franchised dealer - differ in the type of parts they
+Два места, где можно купить новые детали для вашего мотоцикла:
+«Магазин аксессуаров и франчайзинговый дилер различаются по типу запчастей, которые они продают.
 
-‘carry. While dealers can obtain virtually every part for your
+'неси. Хотя дилеры могут приобрести практически любую деталь для вашего
 
-metoreyele, the accessory dealer is usually imited to normal high wear
+metoreyele, продавец аксессуаров обычно имитирует обычный высокий износ
 
-items such as shock absorbers, tune-up parts, various engine gaskets,
+такие предметы, как амортизаторы, детали для тюнинга, различные прокладки двигателя,
 
-cables,
-chains,
-brake
-parts, etc. Rarely wil an accessory outlet have major
-‘suspension components, cylinders, transmission gears, or cases.
+кабели,
+цепи,
+тормоз
+детали и т. д. В розетке для аксессуаров редко встречаются крупные
+«компоненты подвески, цилиндры, шестерни трансмиссии или корпуса.
 
-Used parts can be obtained for roughly half the price of new ones, but
-you cant always be sure of what you're getting.
+Бывшие в употреблении детали можно приобрести примерно за половину цены новых, но
+вы не всегда можете быть уверены в том, что получаете.
 
-Once again, take your
+Еще раз возьмите свой
 
-‘wom part to the wrecking yard (breaker)
-for direct comparison.
+'Wam часть на свалку (выключатель)
+для прямого сравнения.
 
-‘Whether buying new, used or rebuilt parts, the best course is to deal
+«Независимо от того, покупаете ли вы новые, бывшие в употреблении или восстановленные детали, лучше всего иметь дело с
 
-directly with someone who specializes in parts for your particular make,
+напрямую с кем-то, кто специализируется на запчастях для вашей конкретной марки,
 
 0-9
 
-General specifications
-Wheelbase
+Общие характеристики
+Колесная база
 
-1982 750 Sabre model.
+Модель 750 Sabre 1982 года.
 
-1562
-mm
-(61.5 in)
+1562 г.
+мм
+(61,5 дюйма)
 
-4983 through 1985 700/750
-Sabre models
+с 4983 по 1985 год 700/750
+Модели сабель
 
-1570 mm (61.8
-in)
+1570 мм (61,8
+в)
 
-1982 through 1964 700/750 Magna models.
+Модели 700/750 Magna с 1982 по 1964 год.
 
-1540 mm (60.8
-in)
+1540 мм (60,8
+в)
 
-1985 and 1986 700 Magna models.
-4987 and 1988 700/750 Magna models
+Модели 700 Magna 1985 и 1986 годов.
+Модели 700/750 Magna 4987 и 1988 годов.
 
-1565
-mm
-(61.6 in)
+1565 г.
+мм
+(61,6 дюйма)
 
-41100 Sabre modes.
+41100 режимов Sabre.
 
-1590 mm (62.
-in)
+1590 мм (62.
+в)
 
-1100 Magna models.
+1100 моделей Магна.
 
-1595
-mm
-(62.8 in)
+1595 г.
+мм
+(62,8 дюйма)
 
-1660 mm (65.4 in)
+1660 мм (65,4 дюйма)
 
-Overall
+В целом
 
-77007750 Sabre models
-1982 through 1984 700/750 Magna models.
+77007750 Модели сабель
+Модели 700/750 Magna с 1982 по 1984 год.
 
-1985 and 1986 700 Magna models...
+Модели 700 Magna 1985 и 1986 годов...
 
-41987 and 1988 700/750 Magna models
-model
+Модели 700/750 Magna 41987 и 1988 годов.
+модель
 
 1100
 
-‘Overall wath,
+«В целом, что,
 
-Z
+З
 
 2245
-mm
-(88.4 in)
+мм
+(88,4 дюйма)
 2190
-mm
-(862 in)
+мм
+(862 дюйма)
 2220
-mm
-(67.4 in)
+мм
+(67,4 дюйма)
 2360
-mm
-(829 in)
+мм
+(829 дюймов)
 2280
-mm
-(69.8 in)
+мм
+(69,8 дюйма)
 
-11982 through 1984 700/750 Sabre models
+Модели 700/750 Sabre с 11982 по 1984 годы.
 
-830 mm (32.7 in)
+830 мм (32,7 дюйма)
 
-1985 700 Sabre mode...
+1985 700 режим Sabre...
 
-800 mm (31.5in)
+800 мм (31,5 дюйма)
 
-41982 through 1984 700/750 Magna models.
-1985 and 1986 700 Magna models.
+Модели 700/750 Magna с 41982 по 1984 год.
+Модели 700 Magna 1985 и 1986 годов.
 
-815mm (32.1 in)
+815 мм (32,1 дюйма)850 мм (33,5 дюйма)
 
-850mm (33.5in)
+Модели Magna 7007750 1987 и 1988 годов.
 
-1987 and 1988 7007750 Magna models.
+£800 мм (31,5 дюйма)
 
-£800 mm (31.5 in)
+1100 моделей Sabre.
 
-1100 Sabre models.
+790 мм (31,1 дюйма)
 
-790 mm (31.1 in)
+Модели 1100 Magna 1983 и 1988 годов.
 
-1983 and 1988 1100 Magna models.
+810 мм (31,9 дюйма)
+825 мм (32,5 дюйма)
 
-810mm (31.9in)
-825mm (32.5in)
+1100 модетов Magna 1984 и 1985 годов.
+В целом
 
-1984 and 1985 1100 Magna modets.
-Overall
+Модели 750 Sabre 1982 и 1983 годов.
+Модели 700 Sabre 1984 и 1985 годов.
+Модели 700/750 Magna с 1982 по 1984 год.
 
-1982 and 1983 750 Sabre models.
-1984 and 1985 700 Sabre models.
-1982 through 1984 700/750 Magna models.
-
-1165 mm (45.9
-in)
+1165 мм (45,9
+в)
 1160
-mm
-(45.7 in)
-1195 mm (47.0
-in)
+мм
+(45,7 дюйма)
+1195 мм (47,0
+в)
 
-1985 and 1986 700 Magna models.
+Модели 700 Magna 1985 и 1986 годов.
 
 41200
-mm
-(47.2 in)
+мм
+(47,2 дюйма)
 
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna 1987 и 1988 годов.
 
-1485 mm (43.9 in)
+1485 мм (43,9 дюйма)
 
-1100 Sabre models.
+1100 моделей Sabre.
 
-1485 mm (48.7
-in)
+1485 мм (48,7
+в)
 
-1983 and 1986 1100 Magna models,
+Модели 1100 Magna 1983 и 1986 годов,
 
 1210
-mm
-(47.8 in)
+мм
+(47,8 дюйма)
 
-1984 and 1985 1100 Magna models
+Модели 1100 Magna 1984 и 1985 годов.
 
-1230 mm (48.4 in)
+1230 мм (48,4 дюйма)
 
-‘Seat hoight
+«Высота сиденья
 
-1982 and 1983 750 Sabre models..
-41984 and 1985 700 Sabre models.
-11982 through 1984 700/750 Magna models
+Модели 750 Sabre 1982 и 1983 годов.
+Модели 700 Sabre 41984 и 1985 годов.
+Модели 700/750 Magna с 11982 по 1984 год.
 41985
 
-and 1986 700 Magna models.
+и модели 700 Magna 1986 года.
 
-780 mm (30.7 in)
+780 мм (30,7 дюйма)
 
-790 mm (31.1 in)
-760 mm (29.9in)
+790 мм (31,1 дюйма)
+760 мм (29,9 дюйма)
 740
-mm (29.1 in)
+мм (29,1 дюйма)
 
-1100 Sabre models
+1100 моделей саблей
 
-705 mm (27.8in)
-in)
-820 mm (323
+705 мм (27,8 дюйма)
+в)
+820 мм (323
 
-11100 Magna models
+11100 моделей Магна
 
-(31.5in)
-mm
+(31,5 дюйма)
+мм
 £800
 
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna 1987 и 1988 годов.
 
-Ground clearance
-1982 and 1983 750 Sabre models
+Дорожный просвет
+Модели 750 Sabre 1982 и 1983 годов.
 
-135mm (53 in)
+135 мм (53 дюйма)
 
-1984 and 1985 700 Sabre modes,
+1984 и 1985 годы 700 режимов Sabre,
 
-145mm (8.7 in)
-165mm (6.5in)
+145 мм (8,7 дюйма)
+165 мм (6,5 дюйма)
 
-11982 through 1984 700/750 Magna models.
+Модели 700/750 Magna с 11982 по 1984 год.
 
-1985 and 1986 700 Magna models.
-1987 and 1988 700/750 Magna models
+Модели 700 Magna 1985 и 1986 годов.
+Модели 700/750 Magna 1987 и 1988 годов.
 
-150mm (5:9in)
+150 мм (5:9 дюйма)
 
-41100 Sabre models.
+41100 модели Sabre.
 
-145mm
-(57 in)
+145 мм
+(57 дюймов)
 
-1100 Magna models...
+1100 моделей Magna...
 
-185mm (6.1 in)
+185 мм (6,1 дюйма)
 
-152mm (6.0in)
+152 мм (6,0 дюйма)
 
-Weight (with oll and fll fut tank)
-7700750 models
+Вес (с полным и заполненным баком)
+7700750 моделей
 
-‘Approx
+«Приблизительно
 243
-kg (535 lb)
+кг (535 фунтов)
 
-1100 Sabre models
+1100 моделей саблей
 
 2688
-kg
+кг
 (591 )
 
-1100 Magna models,
+1100 моделей Магна,
 
-285g (584 B)
+285г (584 Б)
 
 0-10
 
-Maintenance techniques,
-tools and working facilities
-Basic maintenance techniques
+Методы обслуживания,
+инструменты и рабочее оборудование
+Основные методы обслуживания
 
-helpful to make sketches or take instant photos of components before
+полезно сделать эскизы или сделать мгновенные фотографии компонентов перед
 
-‘There are a number of techniques involved in maintenance and
-repair that will be referred to throughout this manual. Application of
+«Существует ряд методов, связанных с обслуживанием и
+ремонт, о котором будет идти речь в данном руководстве. Применение
 
-removal
-‘When removing fasteners from a component, keep track of their
+удаление
+«При снятии крепежа с детали следите за его
 
-locations. Sometimes threading @ bolt back in a part, or putting the
+локации. Иногда вкручивание @ болта в деталь или установка
 
-these techniques will enable the amateur mechanic to be more
-efficient, better organized and capable of performing the various tasks
+эти методы позволят механику-любителю быть более
+эффективный, лучше организованный и способный выполнять различные задачи
 
-‘washers and nut back on a stud, can prevent mixups later. if nuts and
+«Шайбы и гайка на шпильке могут предотвратить путаницу в дальнейшем. если чокнутый и
 
-properly, which will ensure that the repair job is thorough and complete.
+правильно, что гарантирует тщательность и завершенность ремонтных работ.
 
-bolts cant be retumed
-to their original locations, they should be kept in
-‘8 compartmented box or a series of small boxes. A cupcake or muffin
+болты не подлежат возврату
+на свои прежние места, их следует хранить в
+Коробка с 8 отделениями или серия небольших коробок. Кекс или маффин
 
-Fastening systems
+Системы крепления
 
-tin is ideal for this purpose,
-since each cavity can hold the bolts and
-nuts from a particular area (ie. engine case bots, valve cover bolts,
+для этой цели идеально подходит олово,
+поскольку каждая полость может удерживать болты и
+гайки из определенной области (например, боты картера двигателя, болты клапанной крышки,
 
-Fasteners, basically, are nuts, bolts and screws used to hold two
-‘
+Крепежные детали, по сути, представляют собой гайки, болты и винты, используемые для крепления двух
+'
 
-mote parts together. There are a few things to keep in mind when
+Соедините части вместе. Есть несколько вещей, о которых следует помнить, когда
 
-‘working with fasteners. Almost all of them use a locking device of some
+«Работа с крепежом. Почти все они используют запирающее устройство того или иного типа.
 
-type (either a lock washer. locknut, locking tab or thread adhesive). All
+типа (стопорная шайба, контргайка, стопорная пластина или клей для резьбы). Все
 
-threaded fasteners should be clean, straight, have undamaged threads
-‘and undamaged comers on the hex head where the wrench fits.
-Develop the habit of replacing all damaged nuts and batts with new
-ones.
+резьбовые соединения должны быть чистыми, прямыми, иметь неповрежденную резьбу.
+— И неповрежденные углы шестигранной головки, куда подходит гаечный ключ.
+Выработайте привычку заменять все поврежденные гайки и рейки новыми.
+те.
 
-usted nus and bas shoud be tested wih « penetrating of to
-ease removal and prevent
+Usted nus и bas должны быть проверены на «проникновение в
+облегчить удаление и предотвратить
 
-‘Some
+«Некоторые
 
-ina spout type ol can, which works quite wel. Aer appying the rust
+излив типа старой банки, который работает вполне хорошо. Аэр наносит ржавчинуПенетрант, дайте ему поработать несколько минут, прежде чем пытаться ослабить гайку.
 
-Penetrant, lt it -work for a few minutes before trying to loosen the nut
+© Батт. Сильно проржавевшие крепления могут
+надо отсечь
+или удалено
+специальным гайковертом,
+Если сломался болт или шпилька
+в сборе, его можно высверлить и
+удаляется с помощью специального инструмента, называемого E-Z out (или экстрактора).
+Большинство дилерских сервисных центров и мастерских по ремонту мотоциклов могут
 
-© batt. Badly rusted fasteners may
-have to be chiseled off
-or removed
-with a special nut breaker,
-Ifa bolt or stud breaks
-off in en assembly, it can be drilled out and
-removed with a special tool called an E-Z out (or screw extractor).
-Most dealer service departments and motorcycle repair shops can
+Выполни это задание,
 
-Perform this task,
+а также другие (например, ремонт резьбовых соединений)
 
-as well as others (such as the repair of threaded
+отверстия, которые имеют
+были вычеркнуты).
+Плоские и стопорные шайбы, снятые со сборки,
+всегда следует заменять точно в том виде, в каком были сняты. Замените все поврежденные
+шайбы на новые.
 
-holes that have
-been stripped out).
-Flat washers and lock washers, when removed from an assembly,
-should always be replaced exactly as removed. Replace any damaged
-washers with new ones.
+Всегда используйте плоскую шайбу @ между замком.
 
-Always use @ flat washer between a lock
+шайба и любая мягкая металлическая поверхность (например, алюминий), тонкий лист
+«Металл или пластик».
 
-washer and any soft metal surface (such as aluminum), thin sheet
-‘metal or plastic.
+Специальные контргайки позволяют только
 
-Special locknuts can only
+использоваться один или два раза
 
-be used once or twice
+прежде чем они потеряют способность запирать и их необходимо будет заменить.
 
-before they lose their locking abilty and must be replaced
+Последовательность и процедуры затяжки
+При затяжке резьбовых креплений их часто затягивают.
 
-Tightening sequences and procedures
-When threaded fasteners are tightened, they are often tightened
+до определенного значения крутящего момента (крутящий момент – это, по сути, скручивающая сила). Чрезмерное затягивание крепежа может ослабить его и привести к поломке.
+недостаточная затяжка может привести к его ослаблению. Каждая летучая мышь,
+в зависимости от материала, из которого я сделан, диаметра его хвостовика и
+материал, в который он ввинчен, имеет определенное значение крутящего момента, которое
+указано в Спецификациях. Обязательно соблюдайте рекомендации по крутящему моменту.
 
-toa specific torque value (torque is basically a twisting force). Overtightening the fastener can weaken it and cause it to break, while
-under-tightening can cause it to eventually come loose. Each bat,
-depending on the material i's made of, the diameter of its shank and
-the material it is threaded into, has a specific torque value, which is
-noted in the Specifications. Be sure to follow the torque recommen-
+свидания тесно.
+Крепежные элементы расположены по схеме (т. е. болты головки блока цилиндров,
+двигатель
+болты корпуса и т. д.) необходимо ослаблять или затягивать в такой последовательности, чтобы избежать
+деформация компонента. Первоначально болты/гайки следует затягивать вручную.
+только. Далее их следует затянуть на один полный оборот каждый крест-накрест.
+'или диагональный узор. После того, как каждый из них будет затянут на один полный оборот,
+вернитесь к первому затянутому и затяните их все на пол-оборота,
+по той же схеме.
 
-dations closely.
-Fasteners laid out in a pattem (ie. cylinder head bolts,
-engine
-case bolts, etc.) must be loosened or tightened in a sequence to avoid
-warping the component. Initially, the bolts/nuts should go on finger tight
-only. Next, they should be tightened one full turn each, in a crisscross
-‘or diagonal pattern. After each one has been tightened one full turn,
-retum to the first one tightened and tighten them all one half turn,
-following the same pattern.
+Наконец, затяните каждый из них на четверть.
 
-Finally, tighten each of them one quarter
+боты крепления двигателя и т.д :). Сковорода такого типа особенно полезна, когда
+«Работа над узлами с очень мелкими деталями (такими как карбюраторы)
+и клапанный механизм). Полости можно пометить краской или скотчем, чтобы
+уточните содержание.
 
-engine mount bots, etc:). A pan of this type is especially helpful when
-‘working on assemblies with very small parts (such as the carburetors
-and the valve train). The cavities can be marked with paint or tape to
-tify the contents.
+жгуты проводов,
 
-wiring looms,
+являются
 
-are
+это а. хорошая идея Кенти - две половинки с пронумерованными кусочками
+«Малярная лента, чтобы их можно было
 
-its a. good idea to Kéenty the two halves wih numbered pieces of
-‘masking tape so they can be
+Куакат SeaHeySurfaces
 
-Cuakat seaheysurfaces
+легко переподключается,
 
-easily reconnected,
+йкл,
 
-ycle,
+прокладки используются для герметизации стыковки
 
-gaskets are used to seal the mating
+Поверхности между компонентами и храните в хиксинах, в вакууме и
+давление
+содержался
+в
+собрание,
+Часто эти прокладки покрыты жидкостью или пастой.
 
-surfaces betwoon components ane Keep hixicans, ful, vacuum &
-pressure
-contained
-in
-an assembly,
-Many times these gaskets are coated with a liquid or paste type
+«Прокладка-герметик перед сборкой. Возраст, жара и давление
 
-‘gasket sealing compound before assembly. Age, heat and pressure
+«иногда может привести к тому, что две части слипнутся настолько плотно, что они
+очень трудно отделить. В большинстве случаев деталь можно ослабить.
+ударив его с мягким лицом
 
-‘can sometimes cause the two parts to stick together so tightly that they
-are very dificult to separate. In most cases, the part can be loosened
-by striking it with a sof-faced
+молоток возле сопрягаемых поверхностей.
 
-hammer near the mating surfaces.
+А
 
-A
+можно использовать обычный молоток, если между бруском поместить @ брусок дерева.
+молоток и перт. Не ударяйте молотком по литым деталям или деталям, которые могут
 
-regular hammer can be used if @ block of wood is placed between the
-hammer and the pert. Do nat hammer on cast parts or parts that could
+быть
 
-be
+легко повредить. В случае особенно сложных моментов всегда перепроверяйте
 
-easily damaged. Wth any particularly stubborn part, always recheck
+чтобы убедиться, что все крепления удалены.
+«Не используйте отвертку или брусок для разделения компонентов, так как они
+цен легко загрязняет уплотняемые поверхности прокладок деталей (которые должныоставаться гладким). Если поддеть абсолютно необходимо, используйте кусок дерева.
+но имейте в виду, что потребуется дополнительная очистка, если древесина
 
-to make sure that every fastener has been removed.
-‘Avoid using a screwdriver or bar to pry apart components, as they
-cen easily mar the gasket sealing surfaces of the parts (which must
-remain smooth). If prying is absolutely necessary, use a piece of wood,
-but keep in mind that extra clean-up wil be necessary if the wood
+осколки
 
-splinters
+После разделения деталей старую прокладку необходимо тщательно очистить.
 
-‘ter the parts are separated, the old gasket must be carefully
+соскоблили и очистили поверхности прокладок. Стаббоновый прокладочный материал
+можно пропитать средством для снятия прокладок (есть в наличии).
 
-scraped off and the gasket surfaces cleaned. Stubbom gasket material
-can be soaked with a gasket remover (available
+в аэрозольных баллончиках)
 
-in aerosol cans) to
+смягчите его, чтобы его можно было легко соскрести. Скребок можно сделать
+из куска медной трубки, сплющив и заострив один конец.
+«Рекомендуется использовать медь, потому что она обычно мягче, чем поверхность.
 
-soften it so it can be easily scraped off. A scraper can be fashioned
-from a piece of copper tubing by flattening and sharpening one end.
-‘Copper is recommended because tis usuelly softer than the surfaces
+очищаться, что снижает
 
-to be scraped, which reduces the
+шанс раздолбить
 
-chance of gouging the
+часть. Некоторые
 
-part. Some
+«Прокладки можно снять проволочной щеткой, но независимо от
+При использовании метода сопрягаемые поверхности должны оставаться чистыми и гладкими.
 
-‘gaskets can be removed with a wire brush, but regardless of the
-‘method used, the mating surfaces must be left clean and smooth.
+Если для
 
-If for
+почему-то поверхность прокладки долбится, значит герметик прокладки толстый
+«Достаточно, чтобы заполнить царапины, придется использовать при повторной сборке
 
-some reason the gasket surface is gouged, then a gasket sealer thick
-‘enough to fill scratches will have to be used during reassembly of the
+'компоненты.
 
-‘components.
+Для большинства
 
-For most
+приложения,
 
-applications,
+не высыхающий
 
-a non-drying
+(или
 
-(or
+полусухое)
 
-semi-drying)
+«Лучше всего подойдет герметик для прокладок».
 
-‘gasket sealer is best.
+Советы по снятию шланга
+Шланг
 
-Hose removal tips
-Hose
+удаление
 
-removal
+меры предосторожности
 
-precautions
+внимательно
 
-closely
+параллельный
 
-parallel
+прокладка
 
-gasket
+удаление
 
-removal
+поворачивайте поочередно, пока каждый крепеж не будет затянут до нужного положения.
+крутящий момент. Чтобы ослабить и снять крепления, процедура будет такой:
 
-turn at a time until each fastener has been tightened to the proper
-torque. To loosen and remove the fasteners the procedure would be
+меры предосторожности.
 
-precautions.
+перевернутый.
 
-reversed.
+химические реакции, резина в шлангах может связываться с металлом
 
-chemical reactions, the rubber in hoses can bond itself to the metal
+Последовательность разборки
+Компонент
+разборка
+должен
+быть сделано с осторожностью и целеустремленностью
+чтобы
+помочь гарантировать, что детали снова соединятся воедино во время
+повторная сборка. Всегда следите за последовательностью расположения деталей.
 
-Disassembly sequence
-Component
-disassembly
-should
-be done with care and purpose
-to
-help ensure that the parts go back together property during
-reassembly. Always keep track of the sequence in which parts are
+удален. Обратите внимание на особые характеристики или маркировку на деталях, которые
+можно установить более чем одним способом (например, с помощью упорной шайбы с канавкой).
 
-removed. Take note of special characteristics or marks on parts that
-can be installed more than one way (such as @ grooved thrust washer
+(на валу. Хорошая идея — разложить разобранные детали на 2
+чистую поверхность в том порядке, в котором они были сняты. Это также может быть
 
-(on a shaft. i's @ good idea to lay the disassembled parts out on 2
-clean surface in the order that they were removed. It may also be
+Не царапайте и не выдавливайте поверхность, на которой находится шланг.
 
-Avoid scratching or gouging the surface that the hose
+товарищи против
 
-mates against
+или
 
-or
+тот
 
-the
+соединение
 
-connection
+может протечь.
 
-may leak.
+Потому что
 
-Because
+различных
 
-of various
+«Спига, что шланг подходит. Чтобы снять шланг, сначала ослабьте шланг.
+хомуты, которые крепят его к патрубку. Затем с помощью плоскогубцев захватите
+шланг на хомуте и поверните его вокруг патрубка.
 
-‘Spiga that the hose fits over. To remove a hose, frst loosen the hose
-clamps that secure it to the spigot. Then, with slip joint pliers, grab the
-hose at the clamp and rotate it eround the spigct.
+Работайте над этим и
 
-Work it back and
+далее до тех пор, пока он полностью не освободится, затем снимите его со сликона или других смазок.
+облегчит снятие, если их можно будет разместить между шлангом и
+«за пределами патрубка»). Нанесите ту же смазку на внутреннюю часть шланга.
+{и внешняя часть spigct
+просто установка.
+Если@ шланговый хомут сломан или поврежден, не используйте его повторно. Кроме того, сделайте
+не используйте повторно потрескавшиеся шланги, SPPT.
 
-forth unti itis completely free, then pull it off slicone or other lubricants
-will ease removal if they can be applied between the hose and the
-‘utside of the spigot). Apply the same lubricant to the inside of the hose
-{and the outside of the spigct
-to simply installation.
-If@ hose clamp is broken or damaged, do not reuse it. Also, do
-not reuse hoses that are cracked, spt
+тор.
 
-tor.
+Методы технического обслуживания, инструменты и рабочие средства
 
-Maintenance techniques, tools and working facilities
+«Приспособление для регулировки зазора свечей зажигания»
 
-‘Spark plug gap adjusting tool
+Набор щупов
 
-Feeler gauge set
+Смазка давления троса управления
 
-Control cable pressure luber
+Ручная ударная отвертка и биты
 
-Hand impact screwdriver and bits
+Инструменты
+Выбор хороших инструментов — @основное требование для каждого, кто
+в планах обслуживание и ремонт мотоцикла. Для владельца, у которого мало
+инструменты. если таковые имеются, первоначальные инвестиции
+может показаться высоким, но в сравнении
+к растущим затратам на текущее обслуживание и ремонт. это мудро.
+Чтобы помочь владельцу решить, какие инструменты необходимы для выполнения
 
-Tools
-A selection of good tools is @ basic requirement for anyone who
-plans to maintain and repair @ motorcycle. For the owner who has few
-tools. if any, the initial investment
-might seem high, but when compared
-to the spiraling costs ofroutine maintenance and repair. itis a wise one.
-To help the owner decide which tools are needed to perform the
+Для выполнения задач, подробно описанных в данном руководстве, предлагаются следующие списки инструментов
+Техническое обслуживание и мелкий ремонт, Ремонт и капитальный ремонт и Спец.
+новичокпрактическим механикам следует начинать с технического обслуживания
+«И набор инструментов для мелкого ремонта, которого достаточно для более простых работ. Затем.
+по мере роста уверенности и опыта владелец может решать более сложные задачи.
+задачи, покупая дополнительные инструменты по мере необходимости. В конце концов основное
+комплект будет встроен в набор инструментов для ремонта и капитального ремонта.
 
-tasks detailed in this manual, the following tool lists are offered
-Maintenance and minor repair, Repair and overhaul and Special. The
-newcomer
-to practical mechanics should start off with the Maintenance
-‘and minor repair tool kit, which is adequate for the simpler jobs. Then.
-as confidence and experience grow, the owner can tackle more diffcut
-tasks, buying additional tools as they are needed. Eventually the basic
-kit will be built into the Repair and overhaul tool set.
+За 2 периода
 
-Over 2 period of
+время, опытный мастер своими руками
+соберу полный набор инструментов
+«достаточно для большинства процедур ремонта и капитального ремонта, и мы добавим инструменты из
 
-time, the experienced do-it-yourselfer
-will assemble a tool set complete
-‘enough for most repair and overhaul procedures and will add tools from
+Особая категория, когда считается, что расходы оправданы
+частота использования.
 
-the Special category when tt is felt that the expense is justified by the
-frequency of use.
+Набор инструментов для обслуживания и мелкого ремонта
+«Инструменты в этом списке следует рассматривать как минимально необходимые
+для проведения регламентных работ,
 
-Maintenance and minor repair tool kit
-‘The tools in this list should be considered the minimum required
-for performance of routine maintenance,
+обслуживание и мелкий ремонт
 
-servicing end minor repair
+работа. Мы рекомендуем приобрести комбинированные ключи (накидной
 
-work. We recommend the purchase of combination wrenches (box end
-
-‘Torque wrenches (left -click type; right - beam type)
+‘Динамометрические ключи (левый клик; правый – лучевой тип)
 
 0-11
 
 0-12
 
-Maintenance techniques, tools and working facilities
+Методы технического обслуживания, инструменты и рабочие средства
 
-‘Snap-ing pliers (top - extemal; bottom - internal)
+«Щипцы с защелками (верхние — внешние, нижние — внутренние)
 
-Valve spring compressor
+Сжиматель клапанных пружин
 
-Piston ring removalfinstallation too!
+Снятие поршневых колец и установка!
 
-Piston pin puller
+Съемник поршневых пальцев
 
-Telescoping gauges
+Телескопические манометры
 
-Maintenance techniques, tools and working facilities
+Методы технического обслуживания, инструменты и рабочие средства
 
-Cylinder surfacing hone
+Хонингование поверхности цилиндра
 
-Cylinder compression gauge
+Компрессометр цилиндра
 
-Dial indicator
-set
+Циферблатный индикатор
+набор
 
-‘Multimeter (volt/ohm/ammeter)
+«Мультиметр (вольт/ом/амперметр)
 
-Adjustable spanner
+Разводной гаечный ключ
 
 0-13
 
-Maintenance techniques, tools and working facilities
+Методы технического обслуживания, инструменты и рабочие средства
 
 0-14
 
-‘and open end combined in one wrench); while more expensive than
+«и открытый конец, объединенный в один ключ); хотя и дороже, чем
 
-‘oper
+'опер
 
-‘ones, they offer the
+'те, они предлагают
 
-of both types.
+обоих типов.
 
-‘Combinat
-wrench set (6 mm to 22
-ion
-mm)
-Adjustable wrench - 8 in
+«Комбинат
+набор ключей (от 6 мм до 22
+ион
+мм)
+Разводной ключ — 8 дюймов
 
-to the public, as well as some special tools produced by the vehicle
+для населения, а также некоторые специальные инструменты, выпускаемые автомобилем
 
-for
-tothe
+для
+к
 
-to desler service
-special tools are
+в сервисную службу
+специальные инструменты есть
 
-Asa result,
-included
+В результате
+включено
 
-in the text ofthis manual. Generally, an alternative method of doing the
+в тексте данного руководства. Как правило, альтернативный метод выполнения
 
-‘Spark plug socket (with rubber insert)
+«Гнездо свечи зажигания (с резиновой вставкой)
 
-job without the special tool is offered. However, sometimes there is no
+Предлагается работа без специнструмента. Однако иногда нет
 
-Feekr gauge set
-‘Standard screwdriver
-(5/16 in x 6 in)
+Набор манометров Фикра
+«Стандартная отвертка
+(5/16 x 6 дюймов)
 
-purchased or borrowed, the work should be turned over to the dealer
+куплено или взято взаймы, работа должна быть передана дилеру
 
-toot
-‘Spark plug gap adjusting
+гудок
+«Регулировка зазора свечей зажигания»
 
-altemative to their use. Where this is the case, and the tool cant be
+альтернатива их использованию. В этом случае инструмент не может быть
 
-‘service department or a motorcycle repair shop.
-Valve spring compressor
+«Служба технического обслуживания или мастерская по ремонту мотоциклов».
+Сжиматель клапанных пружин
 
-Piston ring removal
-and installation too!
-Piston pin puller
-Telescoping gauges
+Снятие поршневых колец
+и установка тоже!
+Съемник поршневых пальцев
+Телескопические манометры
 
-Tre pressure gauge
-Control
-cable
-pressure luber
+Тре манометр
+Контроль
+кабель
+смазка под давлением
 
-Micrometers) and/or dial/Vernier calipers
+Микрометры) и/или циферблатные/штангенциркули.
 
-Grease gun
+Смазочный пистолет
 
-Gyinder compression gauge
+Компрессометр Gyinder
 
-Cylinder surfacing hone
+Хонингование поверхности цилиндра
 
-Ollcan
-Fine emery cloth
+Олкан
+Тонкая наждачная шкурка
 
-Dial indicator set
-Multimeter
+Набор индикаторов циферблата
+Мультиметр
 
-Wre trush
+Мы трясемся
 
-‘spanner
+'гаечный ключ
 
-Hand impactscrewdriver
-and bits
+Ручная ударная отвертка
+и биты
 
-‘Manometer
-or vacuum gauge set
-‘Small ar compressor with blow gun and tre chuck
+«Манометр
+или комплект вакуумметров
+«Маленький компрессор с продувочным пистолетом и трехпатронным патроном.
 
-size)
+размер)
 
-Buying tools
-Work light with extension
-cord
+Покупка инструментов
+Рабочий фонарь с удлинителем
+шнур
 
-For the dovt-yourselfer who is just starting to get involved in
-motorcycle maintenance and repair, there are a number of options
+Для самоуверенных людей, которые только начинают увлекаться
+обслуживание и ремонт мотоциклов, есть ряд вариантов
 
-Repair and overhaul tool set
-‘These
+Набор инструментов для ремонта и капитального ремонта
+«Эти
 
-tools are essential for anyone who plans to perform major
+инструменты необходимы для всех, кто планирует выполнять крупные
 
-repairs and
+ремонт и
 
-are intended to
+предназначены для
 
-those in the
+те, кто в
 
-‘and
+'и
 
-‘minor repair toolkit. Included is a comprehensive set of sockets which,
+«Набор инструментов для мелкого ремонта». В комплект входит полный набор розеток,
 
-though expensive, ee laveuale because of the vase (especialy
-when various.
-‘and drives are
+хоть и дорого, ee laveuale из-за вазы (особенно
+когда разные.
+'и диски
 
-3/8 inch drive over the 1/2 inch drive for peels fabecles)
-‘maintenance
+Привод 3/8 дюйма вместо привода 1/2 дюйма для отслаивающихся материалов)
+'техническое обслуживаниеи ремонт (в идеале у механика должен быть 3/8 дюймовый
 
-and repair (ideally, the mechanic would have a 3/8 inch
+набор приводов и набор приводов 1/2 дюйма)
 
-drive set and a 1/2 inch drive set)
+«Генератор
+ротор
+инструмент для удаления
 
-‘Alternator
-rotor
-removal tool
+«Доступно при покупке инструментов. Если техническое обслуживание и мелкий ремонт являются
+объем предстоящей работы, покупка отдельных инструментов обязательна.
 
-‘available when purchasing tools. If maintenance and minor repair is the
-extent of the work to be done, the purchase of individual tools is
+й. С другой стороны, если планируется масштабная работа, это будет
 
-y. If, on the other hand, extensive work is planned, it would
+неплохо было бы приобрести и скромницу! набор из одного из больших
+магазины розничной сети.
 
-be a good idea to purchase a modest too! set from one of the large
-retail chain stores.
+Обычно комплект можно купить со значительной экономией.
 
-A set can usually be bought at a substantial savings
+над
 
-over the
+цены на инструменты (и они часто идут в комплекте с ящиком для инструментов). КАК
 
-tool prices (and they often come with a tool box). AS
+«Необходимы дополнительные инструменты, дополнительные наборы, отдельные инструменты и более крупный инструмент.
+Чтобы расширить выбор инструментов, можно приобрести набор инструментов. Создание зуба
+Установка постепенно позволяет распределить стоимость инструментов на более длительный срок.
 
-‘addtional tools are needed, add-on sets, individual tools and a larger
-tool bax can be purchased to expand the tool selection. Building a toot
-Set gradually allows the cost of the tools to be spread over a longer
+Период времени и дает механику свободу выбора только
+те инструменты, которые действительно будут использоваться,
 
-Period of time and gives the mechanic the freedom to choose only
-those tools that will actually be used,
+Toa bores enc mctercyci хотят, чтобы это был единственный источник
+некоторые специальные инструменты, которые необходимы,
+Динамометрический ключ (привод того же размера, что и головки)
 
-Toa sores enc mctercyci desire wit cen be the only source of
-some of the special tools that are needed,
-Torque wrench (same size drive as sockets)
-
-Ball pein hammer
+Молоток с шариковой головкой
 - 802
 
-of tools around at reasonable prices, but always aim to purchase
-plenty
+инструментов по разумным ценам, но всегда стремитесь к покупке
+много
 
-‘Soft-fac
-hammer (plastictubber)
-ed
+«Софт-фак
+молоток (пластиковая труба)
+Эд
 
-items which meet the relevant national safety standards. The
+предметы, соответствующие соответствующим национальным стандартам безопасности.
 
-‘Standard screwdriver
-(stubby - 5/16 in)
+«Стандартная отвертка
+(короткий – 5/16 дюйма)
 
-initia! cost of quality tools,
+начало! стоимость качественных инструментов,
 
-Pller
-= locking
-s
-re loerers
+Плеллер
+= блокировка
+с
+любители
 
-For those who wish to leam more about tools and their use, there is a
-‘book entitled Motorcycle Workshop Practice Manual (Book no. 1454)
-available from the publishers of this manual. It also provides an
-introduction to basic workshop practice which will be of interest to a
+Для тех, кто хочет узнать больше об инструментах и их использовании, есть
+«книга под названием «Практическое руководство по ремонту мотоциклов» (книга № 1454)
+можно получить у издателей данного руководства. Он также обеспечивает
+введение в базовую практику семинара, которая будет интересна
 
-‘Standard screwdriver (1/4 in x 6 in)
-Philips screwckiver (No. 3x8 in)
-Phillips screwdriver
-(stubby - No. 2)
+«Стандартная отвертка (1/4 x 6 дюймов)
+Отвертка Philips (№ 3x8 дюймов)
+крестовая отвертка
+(короткий – №2)
 
-Pare. mepar (internal and externa)
-Cold chisel - 1/2 in
-Seriber
+Паре. мепар (внутренний и внешний)
+Холодное долото – 1/2 дюйма
+Серибер
 
-‘Scraper (made from flattened copper tubing)
-Center punch
+Скребок (сделанный из сплющенной медной трубки)
+Центральный удар
 
-Pin punches (1/16, 1, 3/16 in)
-Stee! ruledtraightedge- 12
-in
+Пробойники (1/16, 1, 3/16 дюйма)
+Сти! правилтрайтэдж- 12
+в
 
-Note:
+Примечание:
 
-but
+но
 
-tools are bought, try to avoid cheap ones
-screwdrivers and sockets) because they wont last very long. There are
+инструменты покупаются, старайтесь избегать дешевых
+отвертки и розетки), потому что они не прослужат очень долго. Есть
 
-expense
+расходы
 
-involved in replacing cheap tocis will eventually be greater than the
-It Is obviously not possible to cover the subject of tools fully here.
+затраты на замену дешевых тоцисов в конечном итоге превысят
+Очевидно, что здесь невозможно полностью охватить тему инструментов.
 
-home mechanic working on any type of motorcycle,
+домашний механик, работающий на любом типе мотоцикла,
 
-Care and maintenance of tools
-Good tools are expensive, so it makes sense to treat them with
-respect. Keep them clean and in usable condtion and store them
-when not in use. Aways wipe off any dit, grease or metal
-chips before putting them away. Never leave tools lying around in the
+Уход и обслуживание инструментов
+Хорошие инструменты стоят дорого, поэтому имеет смысл относиться к ним бережно.
+уважение. Содержите их в чистоте, в пригодном для использования состоянии и храните.
+когда он не используется. Всегда вытирайте любые вмятины, жир и металл.
+чипсы, прежде чем убрать их. Никогда не оставляйте инструменты валяющимися в
 
-Pin-type spanner wrench
+Штыревой гаечный ключ
 
-work area
+рабочая зона
 
-A selection
-of files
-Were brush (large)
+Выбор
+файлов
+Кисть (большая)
 
-can be hung on @ panel mounted on the garage or workshop wal, while
+можно повесить на @ панель, установленную на стене гаража или мастерской, а
 
-Another tool which is offen useful is an electric orl with a chuck
+Еще один инструмент, который иногда может пригодиться, — это электрический инструмент с патроном.
 
-‘capacity of 3/8 inch (and a set of good quality dri bits).
+емкостью 3/8 дюйма (и набор бит хорошего качества).
 
-Special tools
-The tools in this ist include those which are not used regulary,
-are expensive to buy, of which need to be used in accordance with
+Специальные инструменты
+Инструменты в этом списке включают в себя те, которые не используются регулярно,
+дорогие в покупке, из которых необходимо использовать в соответствии с
 
-their menufacturer's instructions. Unless these tools wil be used
-frequently, it is not very economical to purchase many of them. A
-consideration would be to split the cost and use between yourself and
+инструкции производителя меню. Если эти инструменты не будут использоваться
+зачастую приобретать их в большом количестве не очень экономично. А
+соображением было бы разделить стоимость и использование между вами и
 @
-friend
-or
-friends (i.e.
-members
-of a
-motorcycle club).
-This list primarily contains tools andinstruments
-widely available
+друг
+или
+друзья (т.
+члены
+из
+мотоклуб).Этот список в основном содержит инструменты и инструменты.
+широко доступен
 
-Some tools, such as screwdrivers, pliers, wrenches and sockets,
+Некоторые инструменты, такие как отвертки, плоскогубцы, гаечные ключи и головки,
 
-thers should be kept in @ tool box or tray. Measuring instruments,
+остальные следует хранить в ящике для инструментов или на подносе. измерительные инструменты,
 
-gauges, meters, etc. must be carefully stored where they cant be
-damaged by weather or impact from other tools
+Манометры, счетчики и т. д. должны храниться в недоступном для них месте.
+поврежден погодой или воздействием других инструментов
 
-‘When tools are used with care and stored property, they will last a
-very
-long
-time.
+«Если инструменты используются бережно и бережно хранятся, они прослужат долгие годы.
+очень
+длинный
+время.
 
-Even with the best of care, tools will wear out if used
+Даже при самом бережном обращении инструменты изнашиваются при использовании.
 
-‘When a tool is
+«Когда инструмент
 
-‘or wom out, replace it;
+«или выйдет из строя, замените его;
 
-jobs wil be safer and more enjoyable if you do.
+Если вы это сделаете, работа будет безопаснее и приятнее.
 
-forking
+разветвление
 
-faciliti
+удобства
 
-Not to be overlooked when discussing tools is the workshop. If
-‘anything more than routine maintenance is to be carried out, some sot
+При обсуждении инструментов нельзя упускать из виду семинар. Если
+«необходимо проводить что-то большее, чем обычное техническое обслуживание, какое-то
 
-Maintenance techniques, tools and working facil
-abe weak ren
+Методы технического обслуживания, инструменты и рабочее оборудование
+Эйб Слабый Рен
 
-vont
+фон
 
-fies
+черт возьми
 
 0-15
 
-disposal problem. To avoid pouring them on the ground or into a
+проблема утилизации. Чтобы не выливать их на землю или в
 
-, that many home
-do
-naiaee ‘001 wotahop Gorege svalae ti ond Up removing
+, что многие дома
+делать
+naiaee '001 wotahop Gorege svalae ti ond Up удаление
 
-‘sewage system, simply pour the used fluids into large containers, seal
+‘канализация, просто слейте использованные жидкости в большие контейнеры, запечатайте
 
-however, that the overhaul or repair be completed under the cover of
+однако капитальный ремонт или ремонт должны быть завершены под прикрытием
 
-this purpose.
+эта цель.
 
-‘an engine
+'двигатель
 
-or doing
+или делаю
 
-major repairs outside (it is recommended,
+капитальный ремонт снаружи (рекомендуется,
 
-a ro0f).
+ро0ф).
 
-‘tation.
+‘тация.
 
-Plastic jugs (such as old antifreeze containers) are
+Пластиковые канистры (например, старые контейнеры для антифриза)
 
-‘Always Keep
+«Всегда держи
 
-‘Aclean, Sat wartonch ot table ofconfab wertng hecho
+«Аклин, сидел за столом беседы, вертнг хечо
 
-an absolute
+абсолютный
 
-them with caps and take them to an authorized disposal site or service
+наденьте на них крышки и отнесите их в авторизованный пункт утилизации или в сервисный центр.
 
-The
 
-with a vise
 
-that has a jaw opening
-of at least four ijchoes
-‘As mentioned previously, some clean, dry storage space is also
-required for tools, as well as the lubricants, fluids, cleaning solvents,
-‘etc, which soon become necessary.
+с тисками
 
-‘Sometimes waste oil and fluids, drained from the engine or
-‘cooling system during normal maintenance or repairs, present a
+у которого есть челюсть
+минимум четыре иджчо
+«Как упоминалось ранее, также необходимо иметь некоторое чистое и сухое складское помещение.
+необходимые для инструментов, а также смазочных материалов, жидкостей, чистящих растворителей,
+и т. д., что вскоре станет необходимым.
 
-available.
+«Иногда отработанное масло и жидкости, слитые из двигателя или
+'система охлаждения во время обычного технического обслуживания или ремонта представляет собой
 
-ideal for
+доступен.
 
-a
+идеально подходит для
 
-supply of old newspapers and clean rags
-Old towels are excellent for mopping up spills. Many
+а
 
-use rails of paper
-towels
-for
-most work because they are
-readily available and disposable. To help keep the area under the
-motorcycle clean, a large cardboard
-box can be cut open and flattened
-to protect
-the garage or shop floor.
+запас старых газет и чистых тряпок
+Старые полотенца отлично подходят для вытирания разливов. Многие
 
-Whenever working over a painted surface (such as the fuel tank)
-ccover it with an old blanket or bedspread to protect the finish.
+использовать полоски бумаги
+полотенца
+для
+большинство из них работают, потому что они
+легко доступны и одноразовые. Чтобы помочь сохранить территорию под
+мотоцикл чистый, большой картон
+коробку можно разрезать и сплющить
+защищать
+гараж или цех.
+
+При работе над окрашенной поверхностью (например, топливным баком)
+Накройте его старым одеялом или покрывалом, чтобы защитить отделку.
 
 0-16
 
-Safety first
-Professional mechanics are trained in safe working procedures,
-However enthusiastic you may be about getting on with the job at
-hhand,
+Безопасность превыше всего
+Профессиональные механики обучены безопасным процедурам работы,
+С каким бы энтузиазмом вы ни относились к работе в
+рука,
 
-take the time to ensure that your safety is not put at risk. A
+потратьте время, чтобы убедиться, что ваша безопасность не подвергается риску. А
 
-Hf, in spite of following these precautions, you are unfortunate enough
-toiinjure yourself, seek medical attention as soon as possible.
+Если, несмотря на соблюдение этих мер предосторожности, вам не повезло.
+Если вы хотите получить травму, как можно скорее обратитесь за медицинской помощью.
 
-‘moment's lack of attention can result in an accident, as can failure to
+«Мгновенная невнимательность может привести к несчастному случаю, как и несоблюдение
 
-Asbestos
+Асбест
 
-‘observe simple precautions.
-There will always be new ways of having accidents, and the
-{following
-is not a comprehensive list of all dangers; i is intended rather
+«Соблюдайте простые меры предосторожности.
+Всегда будут новые способы попасть в аварию, и
+{следующий
+не является исчерпывающим списком всех опасностей; я скорее предназначен
 
-care must be taken fo avoid inhalation of dust from such products since itis
+Необходимо соблюдать осторожность, чтобы избежать вдыхания пыли от таких продуктов, поскольку она
 
-to make you aware of the risks and to encourage a safe approach toall
+чтобы вы знали о рисках и поощряли безопасный подход ко всем
 
-‘hazardous to health. ifin doubt, assume that they
-do contain asbestos.
+«опасно для здоровья. если есть сомнения, предположим, что они
+содержат асбест.
 
-‘work you carry out on your bike.
+«Работа, которую вы выполняете на своем велосипеде.
 
-Remember at all times that gasoline (petrol) is highly flammable.
+Всегда помните, что бензин (бензин) легко воспламеняется.НЕ запускайте двигатель, не убедившись предварительно, что коробка передач
+находится в нейтральном положении
 
-DON'T start the engine without first ascertaining that the transmission
-is in neutral
+НЕ снимайте внезапно герметичную крышку с системы горячего охлаждения. Накройте ее тканью и сначала постепенно сбрасывайте давление, иначе вы
+'можно обжечься, вырвавшись из кулы
+НЕ пытайтесь слить масло, пока не убедитесь, что оно достаточно остыло.
+избегайте ожогов.
 
-DON'T suddenly remove the pressure cap from a hot cooing system ‘cover it with a cloth and release the pressure gradually first, or you
-‘may get scalded by escaping coola
-DON'T attempt to drain oil until you are sure i has cooled sufficiently to
-avoid scalding you.
+НЕ беритесь за какие-либо части двигателя или выхлопной системы без предварительного
+убедившись, что это достаточно круто, чтобы не обжечься.
 
-DON'T grasp any part of the engine or exhaust system without first
-ascertaining that itis cool enough not to burn you.
+НЕ позволяйте тормозить
 
-DON'T allow brake
+‘жидкость или антифриз для контакта с машиной
+покраска или пластик
+компоненты.
 
-‘luid or antifreeze to contact the machine's
-paint work or plastic
-components.
+НЕ откачивайте токсичные жидкости, такие как топливо, гидравлическая жидкость или антифриз,
+«рот» или позвольте им остаться на вашей коже
+пыль – это может быть вредно для здоровья
 
-DON'T siphon toxic liquids such as fuel, hydraulic fuid or antifreeze by
-‘mouth, or allow them to remain on your skin
-dust - it may be injurious to health
+(см. Асбест
 
-(see Asbestos
+заголовок).
 
-heading).
+НЕ позволяйте пролитому маслу или жиру оставаться на полу — вытрите его.
 
-DON'T allow any spiled oil or grease to remain on the floor - wipe it up
+сразу, пока кто-нибудь не поскользнулся на нем
 
-right away, before someone slips on it
+НЕ используйте гаечные ключи или другие инструменты, которые могут соскользнуть.
 
-DON'T use ill ting wrenches or other tools which may slip end cause
+инъекция
 
-inj
+НЕ пытайтесь зажечь тяжелый компонент, который может оказаться за пределами ваших возможностей.
+возможности - получить помощь.
+НЕ торопитесь заканчивать работу и не ищите непроверенных коротких путей. НЕ позволяйте
+дети или животные рядом с оставленным без присмотра транспортным средством. НЕ надувайте @
+давление в шинах to1a
 
-DON'T attempt to lit a heavy component which may be beyond your
-capability - get assistance.
-DON'T rush to finish a job or take unverified short cuts. DON'T allow
-children or animals in oF around an unattended vehicle. DON'T inflate @
-tire to1a pressure
+выше рекомендуемого максимума. Помимо более чем
 
-above the recommended maximum. Apart from over
+подвергая каркас и обод колеса нагрузке, в крайних случаях шина может
+сдуть насильно
+ОБЯЗАТЕЛЬНО всегда обеспечивайте надежную поддержку машины. Это
+особенно важно, когда машина заблокирована для помощи колесу или
 
-stressing the carcase and wheel rim, in extreme cases the tire may
-blow off forcibly
-DO ensure that the machine is supported securely at al times. This is
-especially important when the machine is blocked up to aid wheel or
+удаление вилки
+СОБЛЮДАЙТЕ осторожность, пытаясь ослабить застрявшую гайку или ботинок. Это
 
-fork removal
-DO take care when attempting to loosen a stubborn nut or bot. It is
+«вообще лучше тянуть за гаечный ключ, а не толкать, чтобы если
 
-‘generally better to pull on a wrench, rather than push, so that if you
+поскользнувшись, вы упадете с машины, а не на нее. НУЖНО носить глаз
+защита при использовании электроинструментов, таких как укроп, шлифовальная машина, точильный станок
+и т. д.
+ОБЯЗАТЕЛЬНО наносите на руки защитный крем перед тем, как приступить к грязной работе. Это защитит вашу кожу от инфекции, а также облегчит работу.
 
-slip, you fall away from the machine rather than onto it. DO wear eye
-protection when using power tools such as dill, sander, bench grinder
-etc
-DO use a barrier cream on your hands prior to undertaking dirty jobs it will protect your skin from infection as well as making the dit easier
+удалить потом; но убедись, что твои руки не скользкие
+Обратите внимание, что длительный контакт с отработанными маслами двигателя может быть опасен для здоровья.
+опасность, СЛЕДУЕТ держать свободную одежду (манжеты, галстуки и т. д., а также длинные волосы) хорошо подстриженными.
+способа перемещения механических частей.
+ОБЯЗАТЕЛЬНО снимите кольца, наручные часы и т. д.,
 
-to remove afterwards; but make sure your hands arent left slippery
-Note that long-term contact with used engine oll can be a health
-hazard, DO keep loose clathing (cuffs, ties etc. and long hair) well cut
-ofthe way of moving mechanical parts.
-DO remove rings, wristwatch etc.,
+- содержат асбест. Экстремальный
 
-- contain asbestos. Exreme
+Огонь
 
-Fire
+Основные правила, которые можно и нельзя делать
 
-Essential DOs and DON'Ts
+НЕ вдыхайте
 
-DON'T inhale
+Определенные фрикционные, изоляционные, уплотнительные и другие изделия, такие как
+тормозные колодки, накладки сцепления, прокладки и т. д.
 
-Certain friction, insulating, sealing and other products - such as
-brake pads, clutch linings, gaskets, etc.
+перед работой с автомобилем -
 
-before working on the vehicle -
+особенно электрическая система,
 
-especially he electrical system,
+ОБЯЗАТЕЛЬНО соблюдайте порядок на своем рабочем месте: слишком легко упасть из-за предметов.
+ушел
 
-DO keep your work area tidy- i is only too easy to fell over articies
-left
+валяться без дела
 
-lying around
+СОБЛЮДАЙТЕ осторожность при сжатии пружин перед снятием или установкой. Убедитесь, что натяжение применяется и снимается контролируемым образом.
+образом, используя подходящие инструменты, которые исключают возможность пружины.
+яростно убегаю.
+ОБЯЗАТЕЛЬНО убедитесь, что все используемые подъемные приспособления имеют @ безопасную рабочую нагрузку.
 
-DO exercise caution when compressing springs for removal or installation. Ensure that the tension is applied and released in a controlled
-manner, using suitable tools which preclude the possibilty of the spring
-escaping violently.
-DO ensure that any lifting tackle used has @ safe working load rating
+«соответствует этой работе.
+ОБЯЗАТЕЛЬНО попросите кого-нибудь периодически проверять, все ли в порядке во время работы.
+один на машине.
 
-‘adequate for the job.
-DO get someone to check periodically that all is well, when working
-alone on the vehicle.
+НЕСИТЕ
+наша работа
+в логической последовательности и проверьте, что все в порядке
+правильно собран и впоследствии затянут. ОБЯЗАТЕЛЬНО помните, что ваш
+безопасность автомобиля влияет
 
-DO carry
-out work
-in a logical sequence and check that everything is
-correctly assembled and tightened afterwards. DO remember that your
-vehicle's safety affects
+что о себе и других. Если у вас есть сомнения в чем-либо
 
-that of yourself and others. Ifin doubt on any
+Точка, стань профессионалом
 
-Point, get professional
+совет,Никогда не курите и не пользуйтесь открытым огнем во время работы.
 
-advice,
+на автомобиле. Но на этом риск не заканчивается – вспышка, вызванная
+электрическое короткое замыкание, вызванное контактом двух металлических поверхностей друг с другом, путем
 
-Never smoke or have any kind of naked flame around, when working
+неосторожное использование инструментов или даже накопление статического электричества в вашем теле.
+При определенных условиях могут воспламеняться пары бензина (петрала), которые в @
 
-fon the vehicle. But the risk does not end there - a sperk caused by an
-electrical short-circuit, by two metal surfaces contacting each other, by
+замкнутое пространство очень взрывоопасно.
 
-careless use of tools, or even by static electricity built up in your body
-Under certain conditions, can ignite gasoline (petral) vapor, which in @
+Никогда не используйте газопровод (петрал) в качестве
 
-confined space is highly explosive.
+чистящий растворитель. Используйте одобренный безопасный растворитель.
+«Всегда отсоединяйте клемму заземления аккумулятора перед
 
-Never use gasdline (petral) as a
+«работайте с любой частью топливной или электрической системы и никогда не рискуйте
+проливание топлива на горячий двигатель или выхлопную систему
 
-cleaning solvent. Use an approved safety solvent.
-‘Always disconnect the battery ground (earth) terminal before
+Рекомендуется использовать огнетушитель типа, подходящего для
+топливо и электроприборы всегда под рукой в гараже или на рабочем месте.
+раз. Никогда не пробуй
+тушить @ топливо или электрический пожар водой
 
-‘working on any part of the fuel or electrical system, and never risk
-spilling fuel on to a hot engine or exhaust
+Дым
+Определенный
 
-It is recommended that a fre extinguisher of a type suitable for
-fuel and electrical fires is kept handy in the garage or workplace at all
-times. Never try
-to extinguish @ fuel or electrical fire with water
+дым
 
-Fumes
-Certain
+являются
 
-fumes
+весьма
 
-are
+токсичный
 
-highly
+и
 
-toxic
+«бессознательное состояние и даже смерть при вдыхании
 
-and
+может
 
-‘unconsciousness and even death if inhaled to
+быстро
 
-can
+любой степени.
 
-quickly
+причина
 
-any extent.
+Бензин
 
-cause
+(бензиновые) пары попадают в эту категорию, как и пары некоторых
+Растворители, такие как трихлорэтилен.
 
-Gasoline
+Любой слив или заливание таких
 
-(petrol) vapor comes into this category, as do the vapors from certain
-Solvents such as trichloroethylene.
+«Использование летучих жидкостей следует проводить в хорошо проветриваемом помещении.
+«При использовании чистящих жидкостей и растворителей прочтите инструкцию.
 
-Any draining or pouring of such
+осторожно. Никогда не используйте материалы из немаркированных контейнеров – они могут
+— Испускают ядовитые пары.
 
-‘volatile fuids should be done in a well ventilated area
-‘When using cleaning fluids and solvents, read the instructions
+Никогда не запускайте двигатель автомобиля в закрытом помещении.
+«например, гараж». Выхлопные газы содержат угарный газ, который
+«чрезвычайно ядовит; если вам нужно запустить двигатель,
+всегда делайте это в
 
-carefully. Never use materials from unmarked containers - they may
-‘Give off poisonous vapors.
+«на открытом воздухе или, по крайней мере, расположите заднюю часть автомобиля за пределами рабочего места,
+Батарея
+Никогда не вызывайте 2 искры,
 
-Never run the engine of a motor vehicle in an enclosed space
-‘such as a garage. Exhaust fumes contain carbon monoxide which is,
-‘extremely poisonous; if you need to run the engine,
-always do so in the
+или разрешите 8 источников открытого света рядом с автомобилем.
 
-‘open air or at least have the rear of the vehicle outside the workplace,
-The battery
-Never cause 2 spark,
+аккумулятор. Обычно он выделяет определенное количество газообразного водорода.
+«что очень взрывоопасно.
 
-or allow 8 naked light near the vehicle's
+Всегда отсоединяйте клемму заземления аккумулятора перед
+работаю
+на топливной или электрической системах (кроме особо оговоренных случаев),
+Если возможно, ослабьте заглушки или крышку фильтра во время зарядки.
+аккумулятор от внешнего источника. Не взимайте чрезмерную ставку или
 
-battery. It will normally be giving off a certain amount of hydrogen gas,
-‘which is highly explosive.
+аккумулятор может взорваться.
 
-Always disconnect the battery ground (earth) terminal before
-working
-on the fuel or electrical systems (except where noted),
-If possible, loosen the filer plugs or cover when charging the
-battery from an external source. Do not charge at an excessive rate or
+«Соблюдайте осторожность при дозаправке, очистке или переноске аккумулятора.
+«Кислотный электролиз, даже в разбавленном виде, очень агрессивен и не должен
+допускается попадание в глаза или на кожу.
 
-the battery may burst.
+Всегда надевайте резиновые перчатки и
 
-‘Take care when topping up, cleaning or carrying the battery. The
-‘acid electroise, even when diluted, is very corrosive and should not be
-allowed to contact the eyes or skin.
+вам когда-нибудь понадобится приготовить электролит
+очки или лицо ши
+самостоятельно всегда добавляйте кислоту в воду медленно; никогда не добавляйте воду
+к кислоте
 
-Always wear rubber gloves and
+Электричество
+«При использовании электроинструмента, инспекционного фонаря и т. д.
 
-you ever need to prepare electrolyte
-goggles o a face shi
-yourself, always add the acid slowly to the water; never add the water
-tothe acid
+аль
 
-Electricity
-‘When using an electric power tool, inspection light etc.,
+убедитесь, что прибор правильно подключен к вилке и что,
+«при необходимости он надлежащим образом заземлен (заземлен).
 
-al
+Не используйте такие
 
-ensure that the appliance is correctly connected to its plug and that,
-‘where necessary, it is properly grounded (earthed).
+приборы во влажных условиях и, опять же, остерегайтесь образования искры.
 
-Do not use such
+«или чрезмерного нагревания вблизи топлива или паров топлива. Также
+Убедитесь, что приборы соответствуют национальным стандартам безопасности.
 
-appliances in damp conditions and, again, beware of creating a spark
-
-‘or applying excessive heat in the vicinity of fuel or fuel vapor. Also
-ensure that the appliances meet national safety standards.
-
-A severe electric shock can result from touching certain parts of
-the electrical system, such as the spark plug wires (HT leads), when
-the engine is running or being cranked, particularty if components are
-damp or the insulation is defective, Where an electronic igntion system
-is used, the secondary (HT) voltage is much higher and could prove
-fatal
+Прикосновение к определенным частям устройства может привести к серьезному поражению электрическим током.
+электрическую систему, например, провода свечей зажигания (выводы HT), когда
+двигатель работает или проворачивается, особенно если компоненты
+сырость или неисправна изоляция. Если электронная система зажиганияиспользуется, вторичное (HT) напряжение намного выше и может оказаться
+смертельный
 
 0-17
 
-Motorcycle chemicals and lubricants
-‘A number of chemicals and lubricants are available for use in
-‘motorcycle maintenance and repair. They include a wide variety of
-products ranging from cleaning solvents and
-to
-‘and protective sprays for rubber, plastic and vinyl.
-Contact
-point/spark
-plug
-cleaners a
-solvent
-used
-to clean cily
-flim and dirt from points, grime from electrical connectors and oil
-deposits from spark plugs.
+Химия и смазочные материалы для мотоциклов
+«Ряд химикатов и смазочных материалов доступны для использования в
+«Техническое обслуживание и ремонт мотоциклов. Они включают в себя самые разнообразные
+продукты, начиная от чистящих растворителей и
+чтобы
+«и защитные спреи для резины, пластика и винила.
+Контакт
+точка/искра
+вилка
+уборщики а
+растворитель
+использованный
+чистить
+налет и грязь на наконечниках, грязь с электрических разъемов и масло
+отложения на свечах зажигания.
 
-‘cylinder lubricants
-for valves and piston rings.
-Brake fluid is a specially formulated hydraulic fluid that can
-the heat end pressure
-in brake systems. Care
-must be taken that this fuid does not come in contact with painted
+«смазочные материалы для цилиндров
+для клапанов и поршневых колец.
+Тормозная жидкость – это специально разработанная гидравлическая жидкость, способная
+давление в конце нагрева
+в тормозных системах. Уход
+необходимо учитывать, что эта жидкость не контактирует с окрашенными
 
-surfaces or plastics. An opened container should always be resealed
+поверхности или пластик. Открытый контейнер всегда следует повторно запечатывать.
 
-to prevent contamination by water or dit
+для предотвращения загрязнения водой или канавами
 
-Chain
+Цепь
 
-It is oil free and leaves no residue. it can
+Он не содержит масел и не оставляет следов. это может
 
-‘also be used to remove gum and vamish from carburetor jets and ther
-orifices,
-Carburetor cleaner is similar to contact point/spark plug cleaner
-but it usually has a stronger solvent and may leave a slight oily reside.
+«Также можно использовать для удаления смолы и остатков жиклеров карбюратора, а затем
+отверстия,
+Очиститель карбюратора аналогичен очистителю контактной точки/свечи зажигания.
+но обычно он содержит более сильный растворитель и может оставлять небольшой маслянистый осадок.
 
-It isnot recommended for cleaning electrical components or
-‘connections.
-Brake system cleaner is used to remove grease or brake fluid
-from brake system components (where clean surfaces are absolutely
-Necessary
-and petroleum-based solvents cannot be used); it also
-leaves noresidue,
+Не рекомендуется очищать электрические компоненты или
+'связи.
+Очиститель тормозной системы используется для удаления смазки или тормозной жидкости.
+от компонентов тормозной системы (где чистые поверхности абсолютно
+Необходимо
+и растворители на нефтяной основе нельзя использовать); это также
+не оставляет осадка,
 
-Silicone-based lubricants are used to protect rubber parts such
-‘as hoses and grommets, and
-are used as lubricants for hinges and
-locks,
-‘Multi-purpose grease is an ail purpose lubricant used wherever
-Is more practical than a liquid lubricant such as oll. Some mult
-gre
+Смазки на основе силикона используются для защиты резиновых деталей, таких как
+«как шланги и втулки, и
+используются в качестве смазки для петель и
+замки,
+«Универсальная смазка — это универсальная смазка, используемая везде, где
+Более практична, чем жидкая смазка типа олл. Какой-то мульт
+гре
 
-Purpose grease is colored white and specially
+Целевая смазка окрашена в белый цвет и специально
 
-to be more
+быть больше
 
-resistant to water than ordinary grease.
+более устойчива к воде, чем обычная смазка.
 
-Gear olf (sometimes called gear lube) is @ specially designed cil
-used in transmissions and final drive units, as well as other areas
-‘where high friction, high temperature lubrication is required. It Is
-available in a
-number
-of
-viscosities (weights) for various applications.
-Motor oit,of course, is the lubricant specially formulated for use in
-the engine. It normally contains a wide variety of addtives to prevent
+Зубчатая передача (иногда называемая трансмиссионной смазкой) представляет собой специально
+используется в трансмиссиях и агрегатах главной передачи, а также в других областях
+«Там, где высокое трение, требуется высокотемпературная смазка. Это
+доступен в
+номер
+из
+вязкости (веса) для различных применений.
+Разумеется, моторное масло — это смазка, специально разработанная для использования в
+двигатель. Обычно он содержит широкий спектр добавок для предотвращения
 
-final ve chains.
+последние пять цепей.
 
-for
+для
 
-on the side plates pins and rales, Most chan bes re ether the
-foaming
-type or quick drying
-type and
-et
-Degreasers are heavy Gly solvents used to remove grease
-and
+на боковых пластинах штифты и рейки. Большинство шансов имеют
+вспенивание
+тип или быстросохнущая
+тип и
+и др.
+Обезжириватели — это тяжелые растворители Gly, используемые для удаления жира.
+и
 
-rime that may accumulate on engine and frame components. They
-can be sprayed or brushed on and, depending on the type,
+изморозь, которая может скапливаться на деталях двигателя и рамы. Они
+можно наносить распылением или кистью и, в зависимости от типа,
 
-are rinsed
+ополаскиваются
 
-with either water or solvent
+с водой или растворителем
 
-‘Solvents are used alone or in combination with degreasers to
-clean parts and assemblies during repair and overhaul.
-The home
-‘mechanic should use only solvents that are non-flammable and that do
-‘ot produce inating fumes.
+«Растворители используются отдельно или в сочетании с обезжиривателями для
+очищать детали и агрегаты при ремонте и капитальном ремонте.
+Дом
+«Механик должен использовать только негорючие растворители, которые
+'не производит вдыхающих паров.
 
-Gasket sealing compounds may be used in conjunction with
-‘gaskets, toimprove their sealing capabilties, o alone, to seal metal-to‘metal joints. Many gasket sealers can withstand extreme heat, some
+Герметизирующие составы для прокладок могут использоваться в сочетании с
+«прокладки, чтобы улучшить их герметизирующие свойства, или сами по себе, для герметизации соединений «металл-металл». Многие герметики для прокладок могут выдерживать очень высокие температуры, некоторые
 
-are
+являются
 
-to gasdiine and
+для газирования и
 
-. while others are capable of
+. в то время как другие способны
 
-filing and sealing large cavities. Depending on the intended use,
-‘gasket sealers either dry hard or stay relatively soft and pliable. They
-‘are usually epplied by hand, with a brush, or are sprayed on the gasket
-‘sealing surfaces.
-Thread cement is an adhesive locking compound that prevents
-threaded fasteners from loosening because of vibration. It is available
-in a variety of types for different applications.
+заполнение и пломбирование больших полостей. В зависимости от предполагаемого использования,
+«Герметики для прокладок либо сильно высыхают, либо остаются относительно мягкими и податливыми. Они'обычно наносятся вручную, кистью или распыляются на прокладку
+«уплотняющие поверхности».
+Цемент для резьбы представляет собой клейкий фиксирующий состав, который предотвращает
+резьбовые соединения от ослабления из-за вибрации. Это доступно
+различных типов для различных применений.
 
-corrosion and reduce foaming and wear. Motor of comes in various
+коррозии и уменьшения пенообразования и износа. Двигатель поставляется в различных
 
-‘weights
-(viscosity
-ratings)
-of from 5 to 80. The recommended weight of
-the oll depends on the seasonal temperature and the demands on the
-‘engine. Light oll is used in cold climates and under light load conditions;
-heavy ail is used in hot cimates and where high loads are encountered.
-Multiviscosity ails are designed to have characteristics of both light and
-heavy ails and are available in a number of weights from SW-20 to
-20W--50.
-Gas (petro!) additives perform several functions, depending on
-their chemical makeup. They usually contain scivents that help dissolve
-gum and varnish that buid up on carburetor and intake parts. They also
-serve
-to
-break down carbon deposits that form on the inside surfaces of
-the combustion chambers. Some additives contain upper
+'гири
+(вязкость
+рейтинги)
+от 5 до 80. Рекомендуемый вес
+Все зависит от сезонной температуры и требований к
+'двигатель. Light oll используется в холодном климате и при небольших нагрузках;
+тяжелые аилы применяются в жарких климатических условиях и там, где наблюдаются высокие нагрузки.
+Мультивязкостные масла разработаны с учетом характеристик как легких, так и
+тяжелых типов и доступны в различных вариантах веса от SW-20 до
+20 Вт--50.
+Газовые (нефтяные!) присадки выполняют несколько функций в зависимости от
+их химический состав. Обычно они содержат вещества, которые помогают растворять
+смолы и лак, скопившиеся на деталях карбюратора и впускного коллектора. Они также
+служить
+чтобы
+разрушать углеродистые отложения, образующиеся на внутренних поверхностях
+камеры сгорания. Некоторые присадки содержат верхние
 
-are
+являются
 
-Agood chain ube should adhere well endhave good
+Хорошая цепь должна хорошо прилегать и иметь хорошее сцепление.
 
-Penetrating qualities to be effective as a lubricant inside the chain and
+Проникающие свойства позволяют эффективно использовать смазку внутри цепи и
 
-Moisture dispersants are usually sprays that can be used to dry
-‘out
+Диспергаторы влаги обычно представляют собой спреи, которые можно использовать для сушки.
+'выход
 
-electrical
+электрический
 
-components
+компоненты
 
-such
+такой
 
-as
+как
 
-the
+тот
 
-fuse
+предохранитель
 
-block
+блокировать
 
-and
+и
 
-wiring
+проводка
 
-connectors. Some types can also be used as treatment for rubber and
-28 a lubricant for hinges, cables and locks
-Waxes and polishes are used to help protect painted and plated
-surfaces from the weather. Different types of paint may require the use
-of ifferent types of wax polish. Some polishes utilize a chemical or
+разъемы. Некоторые типы также можно использовать для обработки резины и
+28 смазка для петель, тросов и замков
+Воски и полироли используются для защиты окрашенных и гальванопокрытий.
+поверхности от непогоды. Различные типы краски могут потребовать использования
+различных типов восковой полироли. В некоторых полиролях используются химические или
 
-‘abrasive cleaner tohelp remove the top layer of oxicized (dul) paint on
+«Абразивный очиститель, помогающий удалить верхний слой окисленной (тусклой) краски на
 
-‘ider vehicies. in recent years, many non-wax polishes (that contain a
-wide variety of chemicals such as polymers and silicones) have been
-introduced.
+'Идер транспортных средств. в последние годы многие полироли без воска (содержащие
+широкий спектр химических веществ, таких как полимеры и силиконы).
+представил.
 
-These non-wax polishes are usually easier to apply and
+Эти невосковые полироли обычно легче наносить и
 
-last longer than conventional waxes and polishes.
+служат дольше, чем обычные воски и полироли.
 
 0-18
 
-Troubleshooting
-Contents
+Устранение неполадок
+Содержание
 
-Symppm
+Симптом
 
-‘Section
+«Раздел
 
-Engine doesn't start or is difficult to start
+Двигатель не запускается или его трудно запустить
 
-Starter motor doesnt rotate.
+Стартер не вращается.
 
-‘Symptom é
+«Симптом é
 
-_4umps out of gear.
-Overshits
+_4 выбивается из строя.
+Овершиты
 
-‘Section
+«Раздел
 
 29
 30
 
-‘Starter motor rotates but engine does not tum over.
+«Стартер вращается, но двигатель не проворачивается.
 
 2
 
 1
 
-Abnormal engine noise
-Knocking or pinging
+Ненормальный шум двигателя
+Стук или звон
 
 31
 
-Starter works but engine wont turn over (seized).
-No fuel flow
+Стартер работает, но двигатель не крутится (заклинило).
+Нет подачи топлива
 
 3
 4
 
-Piston slap or rating
-Valve noise
+Поршень шлепок или рейтинг
+Шум клапана
 
 32
 3
 
 5
 
-Othernoise,
+Другой шум,
 
 34
 
-Engine flooded
+Двигатель залит
 
-No spark or weak spark.
+Нет искры или слабая искра.
 
 6
 7
 
-Abnormal driveline noise
+Ненормальный шум трансмиссии
 
-‘Stalls after starting
-Rough ide.
+«Глохнет после запуска»
+Грубая идея.
 
 8
 9
 
-Clutch noise.
-Transmission noise.
+Шум сцепления.
+Шум трансмиссии.
 
-‘Compression low.
+«Сжатие низкое.
 
-ih
-Spark weak,
-‘Fuel/ir
-mixture incorrect.
-Poor running
+да
+Искра слабая,
+«Топливо/ИК
+смесь неправильная.
+Плохой бег
 
-at low speed
+на низкой скорости
 
 \ccricresslon 16
 
-Poor acceleration.
+Плохое ускорение.
 
-49 Abnormal frame and suspension noise
+49 Ненормальный шум рамы и подвески
 41
 
-Shock absorber noise.
+Шум амортизатора.
 
-Frend endnotes:
+Френд примечает:
 
 38
 
-Olec brake noise.
+Олек, шум тормозов.
 
 40
 
-Knocking or pinging
+Стук или звон
 
-AB”
+АБ»
 
 18
 
-AY
+ДА
 
-Overheating
-Engine
+Перегрев
+Двигатель
 
-overheats...
+перегревается...
 
-Firing incorrect,
+Неправильная стрельба,
 
-Fuelfeir mibture Incorrect.
+Неправильно.
 
 19
 2
 
-Engine lubrication system
-ae
+Система смазки двигателя
+ае
 
-Eoetedlees
+Эоэтдлис
 
-Excessive exhaust smoke
+Чрезмерный дым от выхлопных газов
 
-arcu:
+дуга:
 
-a
+а
 
-Brown smoke
+Коричневый дым
 
 45
 
-bern
+Берн
 
-hard to turn
+трудно повернуть
 
 21
 
-Handlebar shakes or vibrates excessively.
+Руль сильно трясется или вибрирует.
 
-Engine load excessive.
+Чрезмерная нагрузка на двигатель.
 
 3
 
-Poor shock absorbing qualities
+Плохие амортизирующие качества.
 
-U
+ты
 
-Py
+Пи
 
-25
+25Проблемы со сцеплением
 
-Clutch problems
+Сцепление потягивает...
+Сцепление не выключается полностью.
 
-Clutch sipping...
-Clutch not disengaging completely.
+Шестерня
 
-Gear
+Не включается передача или рычаг не возвращается
 
-Doesn't go into gear, or lever doesnt return
+ра
 
-ra
-
-Poor handling
-or stability
+Плохое обращение
+или стабильность
 
 2
 
-Miscellaneous causes.
+Разные причины.
 
-a
-ry
+а
+рай
 
-apeeerns
+наблюдатели
 
-too high
+слишком высокий
 
-c
+с
 
 39
 
-Oil pressure indicator light comes on
+Загорается индикатор давления масла
 14
 
-jy
+джи
 
-Miscellaneous causes,
+Различные причины,
 
 37
 
 13
 
-Fueliair mixture incorrect
+Неправильная топливно-воздушная смесь
 
-‘Compression low.
+«Сжатие низкое.
 
 35
 36
 
 42
 
-BSH iUrRIRGUCTiG RNNr NR nIGH aeieall
-Firing incorrect.
+BSH iURRIRGUCTiG RNNr NR почти все
+Неправильная стрельба.
 
-Final drive noise
+Шум главной передачи
 
-pulls to one side
+тянет в сторону
 
 46
 
@@ -2210,28 +2189,28 @@ pulls to one side
 
 49
 
-Braking problems
-Disc brakes are spongy, don't hold
+Проблемы с торможением
+Дисковые тормоза мягкие, не держат.
 
 50
 
 28
-a
+а
 
-Brakes drag
+Тормоза тормоза
 3
 
 52
 
 28
 
-Battery overcharged.
+Аккумулятор перезаряжен.
 
-Brake lever or pedal pulsates.
+Рычаг тормоза или педаль пульсируют.
 
-Electrical problems
+Электрические проблемы
 
-Battery dead or weak
+Батарея разряжена или слаба
 
 51
 
@@ -2241,1304 +2220,1295 @@ Battery dead or weak
 
 0-19
 
-Troubleshooting
-Engine doesn't start or is difficult to start
+Устранение неполадок
+Двигатель не запускается или его трудно запустить
 
 1.
 
-doesn't rotate
-motor
-Starter
+не вращается
+мотор
+Стартер
 
 1
 2.
 
-Engine kill switch Off
-Fuse blown, Check fuse block (Chapter 8),
+Выключатель двигателя выключен
+Перегорел предохранитель. Проверьте блок предохранителей (глава 8).
 
-3 _ Battery voltage low. Check and recharge battery (Chapter 8)
-4 Starter motor defective. Make sure the wiring to the starter is secure.
-sure the starter relay clicks when the start button is pushed. If
-y clicks, then the fault isin the wiring
-or moter.
-1relay faulty. Check it
-tothe
-in Chapter 8.
-6 Starter button not contacting. The contacts could be wet, corroded or
-dity, Disassemble and clean the switch (Chapter 8)
-7 Witing open or shorted. Check all wiring connections and hamesses
-to make sure that they are dry, tight and not corroded. Also check for
+3 _ Низкое напряжение аккумулятора. Проверьте и зарядите аккумулятор (глава 8).
+4 Стартер неисправен. Убедитесь, что проводка к стартеру надежна.
+Убедитесь, что реле стартера щелкает при нажатии кнопки пуска. Если
+щелкает, значит неисправность в проводке
+или мотор.
+1 реле неисправно. Проверьте это
+к
+в главе 8.
+6 Кнопка стартера не контактирует. Контакты могут быть влажными, корродированными или
+Dity, Разберите и очистите переключатель (глава 8)
+7. Открытие или замыкание. Проверьте все соединения проводов и проводку.
+чтобы убедиться, что они сухие, герметичные и не подверглись коррозии. Также проверьте наличие
 
-2 Inlet needle valve wom or stuck open. A piece
-of dirt,
-rust
-or
-other
-debris can cause the inlet needle to seat improperly, causing excess
-fuel to be admitted to the float bowl. In this case, the float chamber
-should be cleaned and the needle and seat inspected. If the needle
-and seat are wom, then the leaking will persist and the parts should be
-replaced with new ones (Chapter 4).
+2 Впускной игольчатый клапан неисправен или застрял в открытом положении. кусок
+грязи,
+ржавчина
+или
+другой
+мусор может привести к неправильной посадке впускной иглы, что приведет к избытку
+топливо должно поступать в поплавковую камеру. В этом случае поплавковая камера
+следует очистить и осмотреть иглу и седло. Если игла
+и седло повреждены, то утечка сохранится, и детали следует заменить.
+заменены новыми (глава 4).
 
-3 Starting technique incorrect. Under normal circumstances (i.e., if all
-the carburetor tncions are sound) the machine shou! eat with ie
-‘oF no throttle. When the engine is cold, the choke
-should
-land the engine started without opening thethrottle. When the
-at operating tepereire, ony 8 very sight amount of (hota should
-Fy. Ifthe engine is flooded, tum the fuel tap off and hold the
-thotie open we cramng the engine. This wil allow acon
-to
-reach the cylinders. Remember to tur the fuel tap back on after the
+3 Неправильная техника старта. В нормальных обстоятельствах (т. е. если все
+карбюратор в порядке) машина шустрая! есть с то есть
+«Нет газа. Когда двигатель холодный, воздушная заслонка
+должен
+и двигатель запустился, не открывая дроссельную заслонку. Когда
+при работе в настоящее время только 8 очень видимых количеств (хота должна
+Фу. Если двигатель залит, закройте топливный кран и удерживайте
+Открывая, мы закручиваем двигатель. Это позволит
+чтобы
+добраться до цилиндров. Не забудьте снова открыть топливный кран после
 
-engine starts,
+двигатель запускается,
 
-broken or frayed wires that can cause @ shott to ground (earth) (see
+сломанные или изношенные провода, которые могут привести к замыканию @ шотта на землю (см.
 
 8).
-wiring diagram, Chapter
-8 Ignition switch defective. Check the switch according to the
-procedure in Chapter 8. Replace the switch with a new one if it is
-efective.
+электрическая схема, глава
+8 Неисправен замок зажигания. Проверьте переключатель в соответствии с
+процедуру, описанную в Главе 8. Замените переключатель на новый, если он
+эффективный.
 
-9 Engine kill switch defective. Check for wet, dirty or corroded
-contacts. Clean or replace the switch as necessary (Chapter
+9 Выключатель двигателя неисправен. Проверьте, нет ли влажных, грязных или корродированных
+контакты. При необходимости очистите или замените переключатель (Глава
 8).
-410 Faulty neutral/gearchenge/sidestendietutch switch. Check the wiring
-to
-each switch and the switch itself according to the procedures in
-‘Chapter 8.
+410 Неисправен переключатель нейтрали/переключения/бокового переключения передач. Проверьте проводку
+чтобы
+каждый переключатель и сам переключатель в соответствии с процедурами, указанными в
+«Глава 8.
 
 2
 
 6
 
-Nosspark
-or
-weak spark
+Носспарк
+или
+слабая искра
 
 4.
 
-Ignition switch Of.
+Замок зажигания Оф.
 
-2 _ Engine kill switch tured to the Off position.
-3 Battery voltage low. Check and recharge battery as necessary
+2 _ Выключатель двигателя переведен в положение «Выкл.».
+3 Низкое напряжение аккумулятора. Проверьте и при необходимости подзарядите аккумулятор.
 
 8)
-(Chapter
+(Глава
 
-4 Spark plug dirty, defective or wom out. Locate reason for fouled
+4 Свеча зажигания загрязнена, неисправна или вышла из строя. Найдите причину нарушения правил
 
-plugis) using spark phig condition chart and follow the plug
-‘maintenance procedures in Chapter 4
-5 Spark plug cap or secondary (HT) wiring faulty. Check condition
+plugis), используя диаграмму состояния свечей зажигания, и следуйте за свечой
+'процедуры технического обслуживания, описанные в главе 45 Неисправен колпачок свечи зажигания или вторичная (HT) проводка. Проверьте состояние
 
-Starter motor rotates but engine does not tum over
+Стартер вращается, но двигатель не заводится
 
-Replace either or both components if cracks or deterioration are
-‘evident (Chapter 5).
+Замените один или оба компонента, если имеются трещины или износ.
+«очевидно» (глава 5).
 
-Starter motor clutch defective. Inspect and repair or replace
+Муфта стартера неисправна. Осмотрите и отремонтируйте или замените
 
-cap fits snugly over the plug end
+колпачок плотно прилегает к концу вилки
 
-'6 Spark plug cap not making good contact. Make sure that the plug
+'6 Колпачок свечи зажигания имеет плохой контакт. Убедитесь, что вилка
 
 1
 
-(Chapter
+(Глава
 2
 
 8),
 
-Damaged idler or starter gears. Inspect and replace the damaged
+Повреждены промежуточная шестерня или шестерня стартера. Осмотрите и замените поврежденный
 
-Parts (Chapter 8).
+Детали (глава 8).
 3.
 
-7 Spark unit defective, Check the unit(s), referring to Chapter 5 for
-etails.
+7 Неисправен блок зажигания. Проверьте блок(ы), см. главу 5.
+детали.
 
-& Pulse generator defective. Check the unit, referring to Chapter 5 for
-detail is.
+& Генератор импульсов неисправен. Проверьте устройство, обратившись к Главе 5 за
+деталь есть.
 
-Starter works but engine won'tturn over (seized)
-Seized engine caused by one
+Стартер работает, но двигатель не проворачивается (заклинило)
+Заклинивание двигателя произошло по вине одного
 
-or
+или
 
-more intemally damaged
+более внутренне поврежден
 
-‘components. Failure due to wear, abuse or lack of lubrication. Damage
-‘can include seized valves, camshaft, pistons, crankshaft, connecting
-‘od bearings, or transmission gears or bearings. Refer to Chapter 2 for
-engine disassembly.
+'компоненты. Выход из строя из-за износа, неправильного обращения или отсутствия смазки. Урон
+'может включать заклинившие клапаны, распределительный вал, поршни, коленчатый вал, соединительные
+Подшипники ОД, шестерни или подшипники трансмиссии. Обратитесь к главе 2, чтобы узнать
+разборка двигателя.
 
 9
-Ignition cols) defective. Check the coils, referring to Chapter 5.
-410 tgnition oF kill switch shorted. This is usually caused by water,
-corrosion, damage or excessive wear. The switches can be
-Gisassembled and cleaned with electrical contact cleaner. If cleaning
+Колодки зажигания) неисправны. Проверьте катушки, обратившись к главе 5.
+410 Включение аварийного выключателя закорочено. Обычно это происходит из-за воды.
+коррозия, повреждение или чрезмерный износ. Переключатели могут быть
+Собрал и очистил с помощью очистителя электрических контактов. Если чистка
 
-does not help, replace the switches (Chapter 8),
+не помогает, замените переключатели (глава 8),
 11.
 
-Wiring shorted or broken between:
+Закорочена или оборвана проводка между:
 
-2) Ignition switch and engine kil switch (or blown fuse)
-plug
+2) Замок зажигания и выключатель двигателя (или перегоревший предохранитель)
+вилка
 
 4
 
-pulse generator
-and
-unit
-©) Spork
+генератор импульсов
+и
+единица
+©) Спорк
 
-No fuel flow
+Нет подачи топлива
 
-Make sure that all wring connections are clean, dry and tight
-Look for chated and broken wires (Chapters 5 and 8)
+Убедитесь, что все отжимные соединения чистые, сухие и затянуты.
+Ищите потертые и оборванные провода (главы 5 и 8).
 
 1
-No fuel in tank
-2 Fuel valveftap vacuum hose broken or disconnected or tuned OFF.
+Нет топлива в баке
+2 Вакуумный шланг топливного клапана и крана сломан, отсоединен или отключен.
 
-3 Tank cap air vent obstructed (not later Califomia models). Usually
-‘caused by dirt or water. Remove it and clean the cap vent hole.
+3 Засорено вентиляционное отверстие крышки бака (кроме более поздних моделей Califomia). Обычно
+«вызвано грязью или водой». Снимите его и очистите вентиляционное отверстие крышки.
 4
-Fuel tap fier clogged. Clean or replace the fiter (Chapter 1),
-5 Fuel ie clogged. PAM the uel ine love end carfity How trough
-ee
-a very bad batch of fuel with an unusual additive has been used, or
+Засорился топливный кран. Очистите или замените фитер (Глава 1),
+5 Топливо т.е. засорилось. ПАМ, любовь, конец заботы, как корыто
+эээ
+была использована очень плохая партия топлива с необычной присадкой, или
 
-some other foreign material
+какой-то другой посторонний материал
 
-has entered the tank. Many times after @
+вошел в танк. Много раз после @
 
-machine has been stored for many months without running, the fuel
-tums to a varnish-like liquid and forms deposits on the inlet needle
-valves and jets. The carburetors should be removed and overhauled if
-draining the float bowls doesn’ solve the problem.
+машина стояла много месяцев без движения, топливо
+превращается в лакоподобную жидкость и образует отложения на входной игле
+клапаны и форсунки. Карбюраторы следует снять и отремонтировать, если
+слив воды из поплавковых чаш не решает проблему.
 
 7
 
-Compression
-low
+Сжатие
+низкий
 
-1. Spark plug loose. Remove the plug and inspect the threads
-Reinstall and tighten to the specified torque (Chapter
-2 Cylinder heads not sufficiently tightened down. If either cylinder head
+1. Свеча зажигания ослаблена. Снимите заглушку и проверьте резьбу
+Установите на место и затяните указанным моментом (Глава
+2 Головки цилиндров недостаточно затянуты. Если любая головка блока цилиндров
 
-is suspected of being loose, then there's a chance thet the gasket or
-head is damaged ifthe problem has persisted for any length of time.
-‘The head baits should be tightened to the proper torque in the correct
-sequence (Chapter 2)
-3 Improper valve clearance. This means that the valve is not closing
-completely and compression pressure is leaking past the valve. Check
-‘and adjust
-the valve clearances (Chapter 1)
-4 Cylinder endior piston wom. Excessive wear
+есть подозрение на ослабление крепления, то есть вероятность, что прокладка или
+Головка повреждена, если проблема сохраняется в течение длительного времени.
+«Наживки на голову следует затягивать с нужным моментом и в правильном месте.
+последовательность (глава 2)
+3 Неправильный зазор клапанов. Это означает, что клапан не закрывается.
+полностью, и давление сжатия выходит за пределы клапана. Проверить
+'и настроить
+зазоры клапанов (глава 1)
+4-цилиндровый конец поршня, жен. Чрезмерный износ
 
 5
 1
 
-Engine flooded
-Float height too high. Check as described in Chapter 4.
+Двигатель залит
+Высота поплавка слишком велика. Проверьте, как описано в главе 4.
 
-will cause compression
+вызовет сжатие
 
-pressure to leak past the rings. This is usually accompanied by worn
-Tings as well. Atop end overhaul is necessary (Chapter 2).
-5 Piston rings worn, weak, broken, oF sticking. Broken or sticking
+давление утекает через кольца. Обычно это сопровождается изношенностьюТингс тоже. Необходим капитальный ремонт верхнего конца (глава 2).
+5 Поршневые кольца изношены, ослаблены, сломаны, залипли. Сломан или залип
 
-Piston rings usually indicate a lubrication or carburation problem that
-causes excess carbon deposits
-or seizures to form on the pistons and
+Поршневые кольца обычно указывают на проблему со смазкой или карбюрацией, которая
+вызывает избыточные отложения углерода
+или образования задиров на поршнях и
 
 0-20
 
-Troubleshooting
+Устранение неполадок
 
-Tings. Top end overhaul is necessary (Chapter 2)
+Тингс. Необходим капитальный ремонт верхней части (глава 2)
 6
 
-Piston
+Поршень
 
-excessive
+чрезмерный
 
-ringto-groove
-wear of
+рингтон-грув
+износ
 
-‘without fouling
+'без загрязнения
 
-clearance ex
+разрешение ex
 
-the piston
+поршень
 
-ring
+кольцо
 
-necessary (Chapter 2).
+необходимо (глава 2).
 
-7 Oyfinder ead gasket damaged.
+7 Прокладка крышки Oyfinder повреждена.
 
-This
+Это
 
-lands.
+земли.
 
-Piston
+Поршень
 
-is caused
+вызвано
 
-by
+по
 
-replacement is
+замена
 
 6
 
-Spark unit(s) defective. See Chapter
+Блок(и) зажигания неисправен. См. главу
 5.
 
 7
 
-Pulse generator defective. See Chapter
+Генератор импульсов неисправен. См. главу
 5.
 
 8
 
-Ignition coils) defective. See Chapter 5.
+Катушки зажигания) неисправны. См. главу 5.
 
-If the head is allowed to become
+Если голове позволить стать
 
-loose, or if excessive carbon build-up on the piston crown and
+ослаблены или если на днище поршня и
 
-‘chamber causes
+'Камера причин
 
-high
+высокий
 
-. the head
+. голова
 
-Retorquing the head is not always sufficient to
+Повторной затяжки головки не всегда достаточно.
 
-gasket may leak.
+прокладка может протечь.
 
-restore the seal, so gasket replacement is necessary (Chapter 2)
-8 Cylinder head warped. This is caused by overheating or improperty
+восстановить уплотнение, поэтому необходима замена прокладки (глава 2)
+8 Головка блока цилиндров деформирована. Это вызвано перегревом или неправильной эксплуатацией.
 
-tightened head bolts. Machine shop resurfacing
-or head replacement is
-necessary (Chapter 2)
-{9 Valve spring broken or weak. Caused by component failure or wear;
-the spring(s) must
-be replaced (Chapter 2)
+затянул болты головки. Ремонт механического цеха
+или замена головы
+необходимо (глава 2)
+{9 Пружина клапана сломана или ослабла. Вызвано неисправностью или износом компонента;
+пружина(и) должна(и)
+заменить (глава 2)
 
-10 Valve not seating property. This is caused by a bent valve (trom
-‘over-rewing or improper valve adjustment), burned valve or seat
+10 Клапан не сидит на месте. Это вызвано искривлением клапана (тром
+«чрезмерное перекручивание или неправильная регулировка клапана), сгоревший клапан или седло.
 
-(improper carburation) or an accumulation of carbon deposits on the
-seat (from carburation or lubrication problems).
+(неправильная карбюрация) или накопление нагара на
+седло (из-за проблем с карбюрацией или смазкой).
 
-The valves must be
+Клапаны должны быть
 
-cleaned and/or replaced and the seats serviced if possible (Chapter 2).
+очистить и/или заменить и, если возможно, провести обслуживание сидений (глава 2).
 
 11
 
-FuelVair mixture incorrect
+Неправильная смесь топлива и воздуха
 
 1
 
-Pilot screw(s) out of adjustment (Chapter 4).
+Пилотный винт(ы) не отрегулирован (Глава 4).
 
-2 __ Pilot
-jet or air passage clogged. Remove and overhaul the
-carburetors (Chapter 4).
+2 __ Пилот
+Засорен жиклер или воздушный канал. Снимите и отремонтируйте
+карбюраторы (глава 4).
 3
 
 7
 
-‘stroke
+'инсульт
 
 2
 
-Make sure the choke rod is getting @ full
+Убедитесь, что воздушная заслонка полностью заполнена.
 
-and staying
-in the out position
+и остаюсь
+в исходном положении
 
-Ignition maifunction. See Chapter 5.
+Неисправность зажигания. См. главу 5.
 
-3 _ Carburetor maifunction. See Chapter 4
-4 Fuel contaminated. The fuel can be contaminated with either dirt or
-water, or can change chemically if the machine is allowed to sit for
-‘Several months or more. Drain the tank and float bowis (Chapter 4).
-5 Intake air leak,
-Check for loose carburetor-tointake manifold
-connections, loose or missing vacuum gauge access port cap or hose,
+3 _ Неисправность карбюратора. См. главу 4.
+4 Топливо загрязнено. Топливо может быть загрязнено грязью или
+воды или может измениться химически, если машине дать постоять некоторое время.
+«Несколько месяцев или больше. Слейте воду из бака и спустите боуи на воду (глава 4).
+5 Утечка воздуха на впуске,
+Проверьте наличие крепления карбюратора к впускному коллектору.
+соединения, ослаблена или отсутствует крышка или шланг отверстия для доступа к вакуумному манометру,
 
-‘loose carburetor top (Chapter 4),
-6 Engine idle speed incorrect. Turn throttle stop screw until the engine
-Ides at the specified rpm (Chapters 1 and 4).
+«незакрепленная верхняя часть карбюратора (глава 4),
+6 Неправильная частота вращения холостого хода двигателя. Поворачивайте стопорный винт дроссельной заслонки до тех пор, пока двигатель
+Иды на указанных оборотах (главы 1 и 4).
 
 9
 
-Fuel tank air vent obstructed
-(not later
+Засорено вентиляционное отверстие топливного бака
+(не позже
 
-California models). Make
+Калифорнийские модели). Сделать
 
-sure that the air vent passage in the filer cap is open.
-Carburetor intake manifolds loose. Check for cracks, breaks, tears
+Убедитесь, что вентиляционное отверстие в крышке фильтра открыто.
+Ослаблены впускные коллекторы карбюратора. Проверьте на наличие трещин, разрывов, разрывов
 
-cr loose clamps or batts.
-Repair
-or
-replace the rubber boots.
+cr свободные зажимы или планки.
+Ремонт
+или
+заменить резиновые сапоги.
 
-Stalls after starting
+Глохнет после запуска
 
-1 Improper choke action.
+1 Неправильное действие дросселя.
 
-Aircleaner clogged, poorly sealed or missing (Chapter 1)
+Воздухоочиститель засорен, плохо герметичен или отсутствует (Глава 1)
 
-5 _ Air cleaner housing poorly sealed. Look for cracks, holes
-or loose
-clamps and replace or repair defective parts,
+5 _ Корпус воздухоочистителя плохо герметизирован. Ищите трещины, дыры
+или свободный
+зажимы и заменить или отремонтировать неисправные детали,
 6
-Fuel level too high or too low. Check the float height (Chapter 4)
+Уровень топлива слишком высокий или слишком низкий. Проверьте высоту поплавка (глава 4)
 
 8
 
 8
 
-Air bleed holes clogged. Remove carburetor and blow out all
+Засорены отверстия для выпуска воздуха. Сними карбюратор и продуй все
 
-passages (Chapter 4),
+отрывки (глава 4),
 
 4
 
-12 Compression
-low
-4 Spark plug loose. Remove the plug
+12 Сжатие
+низкий
+4 Свеча зажигания ослаблена. Снимите заглушку
 
-and inspect the threads. Reinstall
+и осмотрите резьбу. Переустановить
 
-and tighten to the specified torque (Chapter 1).
-2 Cylinder heads not sufficiently tightened down. If either cyinder head
-{is suspected of being loose, then there's a chance that the gasket and
-hhead are damaged if the problem has
+и затяните указанным моментом (глава 1).2 Головки цилиндров недостаточно затянуты. Если любая головка блока цилиндров
+{подозревается, что она ослаблена, тогда есть вероятность, что прокладка и
+hhead повреждены, если проблема возникла
 
-persisted for any length of time.
+сохранялось какое-то время.
 
-The head batts should be tightened to the proper torque in the correct
+Шайбы головки следует затягивать с нужным моментом в правильном месте.
 
-sequence (Chapter 2).
+последовательность (глава 2).
 
-3 Improper valve clearance. This means that the valve Is not closing
-completely and compression pressure is leaking past the valve, Check
+3 Неправильный зазор клапанов. Это означает, что клапан не закрывается.
+полностью, и давление сжатия выходит за пределы клапана. Проверьте
 
-‘and adjust the valve clearances (Chapter 1).
-4 Cylinder andior piston wom. Excessive wear will cause compression
-pressure to leak past the rings.
+и отрегулируйте зазоры клапанов (глава 1).
+4 цилиндра и поршень, жен. Чрезмерный износ приведет к сжатию
+давление утекает через кольца.
 
-Rough idle
+Грубый холостой ход
 
-This is usually accompanied by worn
+Обычно это сопровождается изношенностью
 
-rings as wel. Atop end overhaul is necessary (Chapter 2)
+кольца тоже. Необходим капитальный ремонт верхнего конца (глава 2)
 
-5 Piston rings wom, weak, broken, of sticking. Broken or sticking piston
+5 Поршневые кольца изношены, слабые, сломанные, залипшие. Сломанный или застрявший поршень
 1.
 
-‘ings usually indicate @ lubrication or carburation problem that causes
+Эти сообщения обычно указывают на проблему со смазкой или карбюрацией, которая вызывает
 
-Ignition malfunction. See Chapter 5,
+Неисправность зажигания. См. главу 5,
 
-2 _ Idle speed incorrect. See Chapter 1
-3 Carburetors not synchronized. Adjust carburetors with vacuum
+2 _ Неправильная скорость холостого хода. См. главу 1.
+3 Карбюраторы не синхронизированы. Регулировка карбюраторов вакуумом
 
-set as described in Chapter 1
-(Qauge or manometer
+установите, как описано в главе 1.
+(Калибр или манометр
 
 4
 
-Carburetor malfunction.
+Неисправность карбюратора.
 
-5 Fuel contaminated.
+5 Топливо загрязнено.
 
-See Chapter 4.
+См. главу 4.
 
-The fuel can be contaminated with either dit or
+Топливо может быть загрязнено либо дитамином, либо
 
-water, or can change chemically if the machine is allowed to sit for
+воды или может измениться химически, если машине дать постоять некоторое время.
 
-see ci
+см. ци
 6
 
-Intake
+Впуск
 
-air
+воздух
 
-cre Ora
+Кре Ора
 
-leak.
+утечка.
 
-Check
+Проверить
 
-for
+для
 
-nk el Boa
+нк-эль-боа
 
-bee fp)
+пчела ФП)
 
-loose
+свободный
 
-connections, loose or misang vacuum gauge sccess port cap or hose,
-oF loose carburetor top (Chapter 4)
-7 Air cleaner clogged. Service or replace air fiter element (Chapter 1)
+соединения, ослаблена или неправильно закреплена крышка или шланг отверстия для доступа к вакуумному манометру,
+Незакрепленная верхняя часть карбюратора (Глава 4)
+7 Воздушный фильтр засорен. Обслуживание или замена элемента воздушного фильтра (Глава 1)
 
-‘excess carbon deposits or seizures to form on the pistons and rings.
+«На поршнях и кольцах образуются чрезмерные нагары или задиры.
 
-Top end overhaul is necessary (Chapter 2).
+Необходим капитальный ремонт верхней части (глава 2).
 
-6 Piston ringto-groove clearance excessive. This is caused by
-excessive wear of the piston ring lands. Piston replacement Is
-necessary (Chapter 2.
-7 Oyfinder head gasket damaged. If the head is allowed to become
-loose,
+6 Слишком большой зазор между поршневым кольцом и канавкой. Это вызвано
+чрезмерный износ поршневых колец. Замена поршня Есть
+необходимо (глава 2.
+7 Прокладка головки Oyfinder повреждена. Если голове позволить стать
+свободный,
 
-oF if excessive carbon build-up
+oF, если чрезмерное накопление углерода
 
-chamber causes
+причины камеры
 
-on
+на
 
-high
+высокий
 
-the piston
+поршень
 
-crown.
+корона.
 
-and
+и
 
-. the head
+. голова
 
-‘gasket may leak. Retorquing
-the head is not always sufficient to restore
+«Прокладка может протечь. Повторная затяжка
+головы не всегда хватает восстановить
 
-the seal, so gasket replacement is necessary (Chapter 2)
+уплотнение, поэтому необходима замена прокладки (глава 2)
 
-8 Cylinder head warped.
+8 Головка блока цилиндров деформирована.
 
-This is caused by overheating or improperly
+Это вызвано перегревом или неправильным
 
-tightened head bolts. Machine shop resurfacing or head replacement is
-necessary (Chapter 2).
+затянул болты головки. Ремонт механического покрытия или замена головки
+необходимо (глава 2).
 
-9 Valve spring broken or weak. Caused by component failure or wear;
+9 Пружина клапана сломана или слаба. Вызвано неисправностью или износом компонента;
 
-Poor running at low speed
+Плохая работа на низкой скорости.
 
-the spring(s) must be replaced (Chapter 2)
+пружину(ы) необходимо заменить (Глава 2)
 
-410 Valve not seating property. This is caused by a bent valve (trom
+410 Клапан не сидит на месте. Это вызвано искривлением клапана (тром
 
-over-rewing or improper valve adjustment),
+перекручивание или неправильная регулировка клапана),
 
-40 Spark weak
+40 Искра слабая
 1
 
-Battery voltage low. Check and recharge battery (Chapter 8).
+Низкое напряжение аккумулятора. Проверьте и зарядите аккумулятор (глава 8).
 
-bumed valve or seat
+загорелся клапан или седло
 
-(improper carburetion) or an accumulation of carbon deposits on
-the
-seat (from carburation, lubrication problems). The valves must be
-Cleaned andlor replaced and the seats serviced if possible (Chapter 2)
+(неправильное смесеобразование) или скопление нагара на
+тот
+седло (из-за карбюрации, проблем со смазкой). Клапаны должны быть
+Очистка и/или замена сидений и, если возможно, техническое обслуживание (Глава 2).
 
-2 Spark plug fouled, defective or worn out.
-Refer
-to
-Chapter 1 for spark
+2 Свеча зажигания загрязнена, неисправна или изношена.
+Обратитесь
+чтобы
+Глава 1 для искры
 
-plug maintenance.
+обслуживание вилки.
 
-3 Spark plug cap or high tension wiring defective. Refer
-to Chapters 1
+3 Колпачок свечи зажигания или провод высокого напряжения неисправен. Обратитесь
+к главам 1
 
-‘and 5 for details on the ignition system.
+«и 5 для получения подробной информации о системе зажигания.
 4
-Spark plug cap not making contact
-5 Incorrect spark plug. Wrong type, heat range or cap
-Check and install correct plugs listed in Chapter 1. A cold plug or one
-with a recessed firing electrode will not operate at low speeds
+Колпачок свечи зажигания не контактирует
+5 Неправильная свеча зажигания. Неправильный тип, диапазон нагрева или крышка.
+Проверьте и установите правильные вилки, перечисленные в главе 1. Холодная вилка или однас утопленным поджигающим электродом не будет работать на малых оборотах
 
 13.
 1
 
 2
 
-Poor acceleration
-Carburetors leaking or dirty. Overhaul the carburetors (Chapter 4),
+Плохое ускорение
+Карбюраторы негерметичны или загрязнены. Произведите капитальный ремонт карбюраторов (глава 4),
 
-Timing not
+Время не
 
-The pulse
+Пульс
 
-‘or the spark unit(s)
+'или искровой блок(и)
 
-may be defective. Ifso, they must be replaced with new ones, as they
+может быть неисправен. Если да, то их необходимо заменить новыми, так как они
 
 0-21
 
-Troubleshooting
-cantt be repaired.
-3 Carburetors not synchronized. Adjust them with a vacuum gauge set
-(or manometer (Chapter 1)
+Устранение неполадок
+не подлежит ремонту.
+3 Карбюраторы не синхронизированы. Отрегулируйте их с помощью набора вакуумметров.
+(или манометр (глава 1)
 4
 
-Engine oil
+Моторное масло
 
-viscosity too
+вязкость тоже
 
-high.
+высокий.
 
-Using
+Использование
 
 @
 
-heavier
+тяжелее
 
-oil than
+нефть, чем
 
-that
+что
 
-recommended in Chapter 1 can damage the ail pump or lubrication
+рекомендованные в Главе 1, могут повредить воздушный насос или смазочную систему.
 
-system and cause drag on the engine.
-5 Brakes dragging.
+системы и вызвать торможение двигателя.
+5. Тормоза тянутся.
 
-Usually caused by debris which has entered the
+Обычно возникает из-за попадания мусора в
 
-brake piston seals, or from a warped disc or bent axle.
+сальники тормозных поршней, искривленный диск или погнутая ось.
 
-Repair as
+Восстановить как
 
-necessary (Chapter 7).
+необходимо (глава 7).
 
-‘accompanied by worn rings as well.
-(Chapter 2)
+'в сопровождении изношенных колец.
+(Глава 2)
 
 5
 
-Piston rings wom, weak,
+Поршневые кольца изношены, слабые,
 
-A top end overhaul is necessary
+Нужен капитальный ремонт верхней части
 
-broken, oF sticking.
+сломано, залипло.
 
-Broken or sticking
+Сломан или залип
 
-piston rings usually indicate a lubrication or carburation problem that
+поршневые кольца обычно указывают на проблему со смазкой или карбюрацией, которая
 
-‘causes excess carbon deposits or seizures to form on the pistons and
+«вызывает образование избыточного нагара или заеданий на поршнях и
 
-rings. Top end overhaul is necessary (Chapter 2).
+кольца. Необходим капитальный ремонт верхней части (глава 2).
 &
 
-Piston
+Поршень
 
-ring-to-groove clearance excessive.
+Зазор между кольцом и канавкой слишком велик.
 
-‘excessive wear of the
+«чрезмерный износ
 
-piston
+поршень
 
-ring lands.
+кольцевые земли.
 
-This
+Это
 
-Piston
+Поршень
 
-is
+есть
 
-caused
+вызвало
 
-by
+по
 
-replacement is
+замена
 
-necessary (Chapter 2)
-7 Cylinder head gasket damaged.
+необходимо (глава 2)
+7 Повреждена прокладка головки блока цилиндров.
 
-If the head is allowed to become
+Если голове позволить стать
 
-loose, or if excessive carbon build-up on the piston crown and
-chamber causes
-high
-compr
-the head
+ослаблены или если на днище поршня и
+причины камеры
+высокий
+компр
+голова
 
-Poor running or no power at high speed
+Плохая работа или отсутствие мощности на высокой скорости.
 
-‘gasket may leak. Retorquing the head is not always sufficient to
+«Прокладка может протечь. Повторной затяжки головки не всегда достаточно.
 
-restore the seal, so gasket replacement is necessary (Chapter 2),
-8 Cylinder head warped. This is caused by overheating or improperly
+восстановить уплотнение, поэтому необходима замена прокладки (глава 2),
+8 Головка блока цилиндров деформирована. Это вызвано перегревом или неправильным
 
-44 Firing incorrect
+44 Неправильная стрельба
 
-tightened head bolts. Machine shop resurfacing or head replacement
+затянул болты головки. Ремонт механического цеха или замена головки
 
 1
 
-_Airfiter restricted. Clean or replace fiter (Chapter 1)
+_Airfiter ограничен. Очистите или замените фитер (глава 1).
 
-2 Spark plug fouled, defective or worn out.
+2 Свеча зажигания загрязнена, неисправна или изношена.
 
-See Chapter 1 for spark
+См. главу 1 относительно искры.
 
-plug maintenance.
+обслуживание вилки.
 
-3 Spark plug cap or secondary (HT) wiring defective. See Chapters 1
+3 Колпачок свечи зажигания или вторичная (HT) проводка неисправны. См. Главы 1.
 
-{and 5 for details of the ignition system.
+{и 5 для получения подробной информации о системе зажигания.
 4
-Spark plug cap not in good contact. See Chapter 5.
-§ Incorrect spark plug. Wrong type, heat range or cap configuration,
-Check and install correct plugs listed in Chapter 1.
+Колпачок свечи зажигания имеет плохой контакт. См. главу 5.
+§ Неправильная свеча зажигания. Неправильный тип, диапазон нагрева или конфигурация крышки,
+Проверьте и установите правильные заглушки, перечисленные в главе 1.
 
-A cold plug or one
+Холодная вилка или одна
 
-is necessary (Chapter 2)
-9 Valve spring broken or weak. Caused by component failure or wear;
-the spring(s) must be replaced (Chapter 2),
-10 Valve not seating property. This is caused by a bent valve (from
-‘over-revving or improper valve adjustment), burned
+необходимо (глава 2)
+9 Пружина клапана сломана или слаба. Вызвано неисправностью или износом компонента;
+пружину(и) необходимо заменить (глава 2),
+10 Клапан не сидит на месте. Это вызвано погнутым клапаном (из
+«превышение оборотов или неправильная регулировка клапанов»), сгорел
 
-(improper carburation) or an
+(неправильная карбюрация) или
 
-valve or seat
+клапан или седло
 
-accumulation of carbon deposits on
+накопление углеродистых отложений на
 
-the
+тот
 
-‘seat (from carburation or lubrication problems). The valves must be
-cleaned andlor replaced and the seats serviced if possible (Chapter 2)
+седло (из-за проблем с карбюрацией или смазкой). Клапаны должны быть
+почистить и/или заменить сиденья и, если возможно, обслужить их (глава 2)
 
-‘with @ recessed firing electrode will not operate at low speeds without
-fouling,
+‘с утопленным запальным электродом @ не будет работать на низких скоростях без
+загрязнение,
 
 6
 
-Spark unit(s) defective. See Chapter 5.
+Блок(и) зажигания неисправен. См. главу 5.
 
-17 Knocking
-or pinging
+17 Стук
+или пинг
 
 15
 
-Fuel/air mixture incorrect
+Неправильная топливно-воздушная смесь
 
-will dissolve the adhesive bonding the carbon particles to the crown
-‘and chamber is the easiest way
-to remove the build-up. Otherwise, the
+растворит клей, связывающий частицы углерода с коронкой
+'и камера - самый простой способ
+чтобы удалить нарост. В противном случае
 
 7
 
-Ignition coils) defective. See Chapter 5
+Катушки зажигания) неисправны. См. главу 5.
 
-1 Carbon build-up in combustion chamber. Use of a fuel additive that
+1 Нагар в камере сгорания. Использование присадки к топливу, которая
 
-aa ft econ Dat water or cher contaminants can cog the main
-jel tap filter, the float bow! area,
+aa ft econ Dat вода или загрязняющие вещества из черешни могут засорить главныйгель-фильтр, поплавковый бантик! площадь,
 
-and the jets and
+и самолеты и
 
-Cocurotereden charters}
+Чартеры Cocurotereden}
 
-2 Main jet wrong size. The standard jetting is for sea level atmospheric
+2 Неправильный размер главного жиклера. Стандартная струя предназначена для атмосферного воздуха на уровне моря.
 
-pressure and oxygen content
+давление и содержание кислорода
 
-‘oylinder head will have to be removed and decarbonized (Chapter 2)
-2 Incorrect or poor quality fuel. Old or improper grades of fuel can
-Cause detonation. This causes the piston torattle, thus the knocking
-or
+«Головку цилиндра придется снять и обезуглерожить (глава 2)
+2 Неправильное или некачественное топливо. Старое или неподходящее качество топлива может
+Вызвать детонацию. Это приводит к тряске поршня и, как следствие, к стуку.
+или
 
-pinging sound. Drain old fuel and always use the recommended fuel
-grade.
+звук пинг. Слейте старое топливо и всегда используйте рекомендованное топливо.
+сорт.
 
-3 Spark plug heat range incorrect.
+3 Неправильный диапазон нагрева свечи зажигания.
 
-Uncontrolled detonation indicates
+Неконтролируемая детонация указывает на
 
-3 Jet needle or needle jet worn. These can be replaced individually, but
-‘should be replaced as a pair (Chapter 4)
+3 Игла форсунки или жиклер иглы изношен. Их можно заменить по отдельности, но
+'должны быть заменены парой (глава 4)
 
-the plug heat range is too hot. The plug in effect becomes a glow plug,
+диапазон нагрева свечи слишком горячий. Свеча по сути становится свечой накаливания,
 
 4)
 
-4 Improper airfuel mixture. This will cause the cylinder to run hot,
-‘which leads to detonation. Clogged jets or an air leak can cause this
-imbalance. See Chapter 4
+4 Неправильная топливовоздушная смесь. Это приведет к перегреву цилиндра.
+«что приводит к детонации. Причиной этого могут быть засоренные форсунки или утечка воздуха.
+дисбаланс. См. главу 4.
 
-4 Air bleed holes clogged.
+4 Отверстия для выпуска воздуха засорены.
 
-Remove and overhaul carburetors (Chapter
+Снятие и капитальный ремонт карбюраторов (Глава
 
-er clogged, poorly sealed, or missing (Chapter 1).
-housing poorly sealed. Look for cracks, holes or loose
+Засорен, плохо загерметизирован или отсутствует (Глава 1).
+Корпус плохо загерметизирован. Ищите трещины, дыры или ослабленные
 
-raising cylinder
+подъемный цилиндр
 
-temperatures.
+температуры.
 
-Install
+Установить
 
-the
+тот
 
-proper heat
+правильное тепло
 
-range plug
+вилка диапазона
 
-(Chapter 1),
+(Глава 1),
 
-clamps, and replace or repair detective parts.
-7 _ Fuel level too
+зажимы, а также заменить или отремонтировать детали детектива.
+7 _ Уровень топлива тоже
 
-high or too low. Check the float height (Chapter 4)
+высокий или слишком низкий. Проверьте высоту поплавка (глава 4)
 
-8 Fuel tank air vent obstructed (not later California models). Make sure
-the air vent passage in the filler cap is open.
-‘9 Carburetor intake manifolds loose. Check for cracks, breaks, tears or
-loose clamps or bolts. Repair or replace the rubbers (Chapter 4),
-10 Fuel fter clogged. Clean or replace the fier (Chapter 1).
-11 Fuel line clogged. Pull the fuel line loose and carefully blow through
-tt
+8 Засорено вентиляционное отверстие топливного бака (кроме более поздних моделей для Калифорнии). Убедитесь, что
+Открыт вентиляционный проход в крышке заливной горловины.
+«9 Впускные коллекторы карбюратора ослаблены. Проверьте наличие трещин, разрывов, надрывов или
+ослаблены хомуты или болты. Отремонтировать или заменить резинки (глава 4),
+10 Топливо после засорения. Очистите или замените камин (глава 1).
+11 Топливопровод засорен. Отсоедините топливопровод и осторожно продуйте его.
+тт
 
-18 Miscellaneous causes
-1 Throttle valve doesn't open fully. Adjust the cable slack (Chapter 1)
-2 Clutch slipping. May be caused by loose or worn clutch components.
-Refer to Chapter 2 for clutch overhaul procedures.
+18 Разные причины
+1 Дроссельная заслонка не открывается полностью. Отрегулируйте провисание троса (глава 1).
+2 Сцепление пробуксовывает. Причиной может быть ослабление или изношенность компонентов сцепления.
+Подробную информацию о процедурах капитального ремонта сцепления см. в Главе 2.
 
 3-_
 
-Timing
-not
-advancing
-4 Engine of viscosity too high.
+Тайминг
+нет
+продвижение
+4 Слишком высокая вязкость двигателя.
 
-Using a heavier oil than the one
+Использование более тяжелого масла, чем то, которое
 
-recommended in Chapter 1 can damage the oil pump or lubrication
+рекомендованные в главе 1, могут повредить масляный насос или систему смазки.
 
-16 Compression
-low
-1 Spark plug loose. Remove the plug and inspect the threads. Reinstall
+16 Сжатие
+низкий
+1 Свеча зажигания ослаблена. Снимите заглушку и осмотрите резьбу. Переустановить
 
-‘and tighten to the specified torque (Chapter 1).
+'и затяните с указанным моментом затяжки (глава 1).
 
-2 Cylinder heads not sufficiently tichtened down. If either cylinder head
-is suspected of being loose, then there's a chance that the gasket and
-head are damaged if the problem has persisted for any length of time.
-The head bolts should be tightened to the proper torque in the correct
+2 Головки цилиндров недостаточно заточены. Если любая головка блока цилиндров
+есть подозрение на ослабление крепления, то есть вероятность, что прокладка и
+Головка повреждена, если проблема сохраняется в течение длительного времени.
+Болты головки следует затягивать с нужным моментом в правильном месте.
 
-sequence (Chapter 2)
+последовательность (глава 2)
 
-3 Improper valve clearance. This means that the valve is not closing
+3 Неправильный зазор клапанов. Это означает, что клапан не закрывается.
 
-system and cause drag on the engine.
+системы и вызвать торможение двигателя.
 
-5 Brakes dragging. Usually caused by debris which has
+5. Тормоза тянутся. Обычно вызвано мусором, который
 
-entered the
+вошел в
 
-brake piston seals, or from a warped disc or bent axle.
+сальники тормозных поршней, искривленный диск или погнутая ось.
 
-Repair
+Ремонт
 
-as
+как
 
-necessary.
+необходимо.
 
-Overheating
-49. Engine overheats
+Перегрев
+49. Двигатель перегревается.
 
-completely and compression pressure is leaking past the valve. Check
+полностью, и давление сжатия выходит за пределы клапана. Проверить
 
-‘and adjust the valve clearances (Chapter 1).
-4 Cylinder andlor piston worn, Excessive wear will cause compression
+и отрегулируйте зазоры клапанов (глава 1).
+4 Цилиндр и/или поршень изношены. Чрезмерный износ приведет к компрессии.
 
-pressure to leak past the rings. This is usually
+давление утекает через кольца. Обычно это
 
 1
 
 2
 
-Codlant level low. Check and add coolant (Chapter 1),
+Низкий уровень кодланта. Проверьте и долейте охлаждающую жидкость (глава 1),
 
-Leak in cooling system. Check cooling system hoses and radiator
+Утечка в системе охлаждения. Проверьте шланги системы охлаждения и радиатор.
 
 0-22
 
-Troubleshooting
+Устранение неполадокна предмет утечек и других повреждений.
+Ремонт
+или
+замените детали при необходимости
 
-for leaks and other damage.
-Repair
-or
-replace parts as necessary
-
-(Chapter 3).
+(Глава 3).
 
 24
 
 3
-Thermostat sticking open or closed. Check and replace as
-described in Chapter 3.
+Термостат заедает в открытом или закрытом положении. Проверьте и замените, как
+описано в главе 3.
 4
-Faulty radiator cap. Remove the cap and have it checked
-at
+Неисправная крышка радиатора. Снимите крышку и проверьте
+в
 
-{Engine all evel too how
+{Двигатель тоже на всех уровнях, как
 
-‘service station.
+'СТО.
 
-proves e defile cooing hunch in ie engine. Check theo
+доказывает воркующую догадку в двигателе. Проверьте Тео
 
 5
 
-Codiant passages clogged. Have the entire system drained and
+Кодиантные ходы забиты. Слейте воду из всей системы и
 
-‘section and change to the correct ail (Chapter 1).
+‘раздел и измените его на правильный ail (глава 1).
 
-25 Miscellaneous causes
+25 Разные причины
 
-Firing incorrect
+Неправильная стрельба
 
-Modification
+Модификация
 
-1 _ Spark plugs fouled, defective or worn out. See Chapter 1 for
+1 _ Свечи зажигания загрязнены, неисправны или изношены. См. главу 1 для
 
-When
+Когда
 
-Incorrect spark plugs.
+Неправильные свечи зажигания.
 
-ogee
+оги
 
-system.
+система.
 
-exhaust system,
+выхлопная система,
 
-Most
+Большинство
 
-aftermarket
-always
+вторичный рынок
+всегда
 
-exhaust
+выхлоп
 
-rejet the
+отклонить
 
-26 Clutch slipping
+26 Пробуксовка сцепления
 1._
 
-Piston in master cylinder or slave cylinder sticking (Chapter 2),
+Поршень в главном или рабочем цилиндре заедает (Глава 2),
 
-2 Friction
+2 Трение
 
-Air cleaner
-clogged, poorly sealed or missing (Chapter 1),
-4 ne donner housing poorly sealed. Look for cracks, holes or loose
+Воздухоочиститель
+засорен, плохо загерметизирован или отсутствует (глава 1),
+4. Корпус донера плохо герметизирован. Ищите трещины, дыры или ослабленные
 5
 
-exhaust
+выхлоп
 
-accessory
+аксессуар
 
-Clutch problems
+Проблемы со сцеплением
 
-water and other contaminants can clog the
+вода и другие загрязнения могут засорить
 
-‘main jets. Clean the fuel tap fer, the float bow! area and the jets and
-carburetor orifices (Chapter 4).
-2 Main jet wrong size. The standard jetting is for sea level atmospheric
+«главные жиклеры. Очистите топливный кран и поплавковую дужку! область и самолеты и
+отверстия карбюратора (глава 4).
+2 Неправильный размер главного жиклера. Стандартная струя предназначена для атмосферного воздуха на уровне моря.
 
-‘lamps and replace
+'лампы и заменить
 
-installing
+установка
 
-carburetors.
+карбюраторы.
 
-FueVair mixture incorrect
+Неправильная смесь FueVair
 
-1 Main jet clogged. Dirt,
+1 Главный жиклер засорен. Грязь,
 
-to
+чтобы
 
-an
+а
 
-‘systems cause the engine to run leaner, which make them run hotter.
+«Системы заставляют двигатель работать на обедненной смеси, что приводит к его перегреву.
 
-3 Faulty ignition. cal) (Chapter 5)
+3 Неисправное зажигание. кал) (глава 5)
 
-gop mi
+гоп ми
 
-oll
+все
 
-evel
+уровень
 
-‘not rated high enough for use in this engine. Check the Specifications
+«Недостаточно высокий рейтинг для использования в этом двигателе. Проверьте характеристики
 
-speek pigmantenance
+говорить уход за свиньями
 
 21.
 
-‘can cause
+'может вызвать
 
-(Chapter 1).
+(Глава 1).
 
-2 Poor quality engine of or incorrect viscosity or type. Oil is rated not
-‘only according to viscosity but also according to type. Some oils are
+2 Двигатель низкого качества, неправильная вязкость или тип. Масло имеет рейтинг не
+«только по вязкости, но и по типу». Некоторые масла являются
 
-+ pump defective. Remove the pump and check the
++ насос неисправен. Снимите насос и проверьте
 
-components (Chapter 3).
+компоненты (глава 3).
 7
-Clogged radiator fins. Clean them by blowing compressed air
-through the fins from the backside.
+Засоренные ребра радиатора. Очистите их продувкой сжатым воздухом.
+через плавники с задней стороны.
 
 20
 
 Fin couved by irkomint ack: of
 
-(from ail that is:
+(из айла, то есть:
 
-flushed, then refil with fresh coolant.
+промыть, затем залить свежую охлаждающую жидкость.
 6
 
-Lubrication inadequate
+Недостаточная смазка
 
-or repair.
+или отремонтировать.
 
-Fuel level too low. Check float height(s) (Chapter 4).
+Уровень топлива слишком низкий. Проверьте высоту поплавка (глава 4).
 
-6 Fuel tank air vent obstructed (nct later Califomia models).
+6 Засорено вентиляционное отверстие топливного бака (не более поздние модели для Калифорнии).
 
-Make sure
+Убедитесь, что
 
-that the air vent passage in the filer cap is open,
-7 Carburetor intake
-manifolds loose. Check for cracks, breaks, tears
-or
-loose clamps or bolts. Repair
-or replace
-the rubbers (Chapter 4).
+что вентиляционный проход в крышке фильтра открыт,
+7 Впуск карбюратора
+коллекторы расшатаны. Проверьте на наличие трещин, разрывов, разрывов
+или
+ослаблены хомуты или болты. Ремонт
+или заменить
+резинки (глава 4).
 
-plates wom
+тарелки жен.
 
-or warped.
+или деформированный.
 
-Overhaul the clutch assembly
+Капитальный ремонт узла сцепления
 
-(Chopter 2).
+(Вертолет 2).
 
 3°
 
-Steel plates worn or warped (Chapter 2).
+Стальные пластины изношены или деформированы (глава 2).
 
-4 Clutch spring(s) broken or weak. Old or heat-damaged (from slipping
-Clutch) springs
-should
-be
-replaced with new ones (Chapter 2)
+4 Пружина сцепления сломана или ослабла. Старый или поврежденный температурой (в результате скольжения
+Сцепление) пружины
+должен
+быть
+заменены на новые (глава 2)
 5
 
-Clutch
+Клатч
 
-center or housing unevenly wom.
+центр или жилье неравномерно, жен.
 
-engagement
+помолвка
 
-of the plates.
+пластин.
 
-This causes improper
+Это вызывает неправильное
 
-Replace the damaged or wom
+Замените поврежденный или поврежденный
 
-parts
+части
 
-(Chapter 2)
-27 Clutch not disengaging completely
+(Глава 2)
+27 Сцепление не выключается полностью.
 
-22 Compression too high
+22 Слишком высокая степень сжатия
 
-1 Air bubbles or lack or fluid in hydraulic system.
+1 Пузырьки воздуха или отсутствие жидкости в гидравлической системе.
 
-Check fluid level
+Проверьте уровень жидкости
 
-(Chapter 1) and bleed system (Chapter 7)
-1 Carbon build-up in combustion chamber. Use of a fuel additive that
-wil dissolve the adhesive bonding the carbon particles to the piston
-crown and chamber
+(Глава 1) и система прокачки (Глава 7)
+1 Нагар в камере сгорания. Использование присадки к топливу, которая
+растворит клей, связывающий частицы углерода с поршнем
+корона и камера
 
-Otherwise,
+В противном случае
 
-the
+тот
 
-is the easiest way to remove the build-up.
+Самый простой способ удалить нарост.
 
-cylinder
+цилиндр
 
-head
+голова
 
-will
+будет
 
-have
+иметь
 
-to
+чтобы
 
-be
+быть
 
-removed
+удалено
 
-and
+и
 
-decarbonized (Chapter 2),
-2 Improperly machined head surface or installation of incomect gasket
-during engine assembly,
+обезуглероженные (глава 2),2 Неправильно обработана поверхность головки или установлена входная прокладка.
+при сборке двигателя,
 
-2 Clutch plates warped or damaged.
+2 Диски сцепления деформированы или повреждены.
 
-in turn will cause the machine to creep, Overhaul the clutch assembly
+это, в свою очередь, приведет к сползанию машины. Отремонтируйте узел сцепления.
 
-(Chapter 2)
-3 Clutch spring tension uneven. Usually caused by a sagged or broken
+(Глава 2)
+3 Пружина сцепления натянута неравномерно. Обычно возникает из-за провисания или поломки
 
-‘spring. Check and replace the spring (Chapter 2)
+'весна. Проверьте и замените пружину (Глава 2).
 
-4 Engine oll deteriorated. Old, thin, worn out oil will not provide proper
-lubrication for the discs, causing the clutch to drag, Replace the ail and
+4 Двигатель ухудшился. Старое, жидкое, изношенное масло не обеспечит должного
+смазка дисков, из-за которой сцепление тянется, Замените масло и
 
-fiter (Chapter 1).
+фитер (глава 1).
 
-5 Engine ail viscosity too high.
+5 Вязкость двигателя слишком высокая.
 
 23
 
-Engine load excessive
+Чрезмерная нагрузка на двигатель
 
-1 Clutch slipping. Can be caused by damaged, loose or wom clutch
-‘components. Refer to
-Chapter
+1 Сцепление пробуксовывает. Может быть вызвано поврежденным, ослабленным или неисправным сцеплением.
+'компоненты. Обратитесь к
+Глава
 2
-for overhaul procedures.
-2 Engine oil level too high. The addition of too much olf will cause
-pressurization of the crankcase and inefficient engine operation.Check
+для процедур капитального ремонта.
+2 Слишком высокий уровень моторного масла. Добавление слишком большого количества olf приведет к
+наддув картера и неэффективная работа двигателя.Проверка
 
-‘Specifications and drain to proper level (Chapter 1).
+«Технические характеристики и слив до надлежащего уровня (глава 1).
 
-3 Engine oil viscosity too high. Using a heavier oil than the one
-recommended in Chapter 1 can damage the oil pump oF lubrication
+3 Слишком высокая вязкость моторного масла. Использование более тяжелого масла, чем то, которое
+рекомендованные в главе 1, могут повредить масляный насос смазки.
 
-This will cause clutch drag, which
+Это вызовет сопротивление сцепления, которое
 
-Using # heavier ail than recommended
+Использование # более тяжелого кода, чем рекомендуется.
 
-in Chapter 1 can cause the plates to stick together, putting a drag on
+в Главе 1, может привести к слипанию пластин, что затруднит
 
-the engine, Change to the correct weight oil (Chapter 1),
-6 Clutch housing seized on shaft.
+двигатель, Замените масло соответствующей вязкости (глава 1),
+6 Картер сцепления заклинил на валу.
 
-Lack of lubrication,
+Недостаток смазки,
 
-severe wear or
+сильный износ или
 
-‘damage can cause the housing to seize on the shaft.
+«Повреждение может привести к заклиниванию корпуса на валу.
 
-Overhaul of the
+Капитальный ремонт
 
-clutch,
+сцепление,
 
-and perhaps transmission,
+и, возможно, передача,
 
-may be necessary to repair the
+может потребоваться ремонт
 
-(Chapter 2).
+(Глава 2).
 
-7 Clutch release mechanism defective, Bent or damaged pushrod can
-stick and fail to apply force to the pressure plate.
-Overhaul the clutch
-‘cover components (Chapter 2).
+7 Механизм выключения сцепления неисправен. Погнут или поврежден толкатель.
+прилипать и не прикладывать силу к нажимной пластине.
+Капитальный ремонт сцепления
+'компоненты крышки (глава 2).
 
-well as cause drag on the engine.
-‘system as
+а также вызвать торможение двигателя.
+«система как
 
-8 Loose clutch center nut. Causes housing and center misalignment
+8 Ослабьте центральную гайку сцепления. Вызывает смещение корпуса и центра
 
-brake piston seals, from a warped disc or bent axle (disc brake), or
+уплотнения тормозного поршня, из-за деформированного диска или погнутой оси (дисковый тормоз), или
 
-‘varies. Overhaul the clutch assembly (Chapter 2),
+'меняется. Выполните капитальный ремонт узла сцепления (глава 2),
 
-4 Brakes dragging. Usually caused by debris which has entered the
-sticking operating cam (drum brake). Repair as necessary.
+4. Тормоза тянутся. Обычно возникает из-за попадания мусора в
+заедает рабочий кулачок (барабанный тормоз). Ремонт по мере необходимости.
 
-putting @ drag on the engine. Engagement adjustment continually
+поставив @ перетащить двигатель. Корректировка вовлеченности постоянно
 9
 
-Hydraulic
-system leaking. Check all hoses and connections.
+Гидравлический
+система протекает. Проверьте все шланги и соединения.
 
 10
 
-Piston in master cylinder or slave cylinder sticking (Chapter 2).
+Поршень в главном или рабочем цилиндре заедает (Глава 2).
 
-Troubleshooting
+Устранение неполадок
 
-28 Doesn't
-go into gear or lever doesn't return
-1 _ Clutch not disengaging. See Section 27.
-2 Shif fork(s) bent or seized. Often caused by dropping the machine
-(from lack of lubrication. Overhaul the transmission (Chapter 2).
-3 Gears) stuck on shat. Most often caused
-by a lack of lubrication or
-excessive wear in transmission bearings and bushings. Overhaul the
-transmission (Chapter 2),
+28 Нет
+включите передачу или рычаг не возвращается
+1 _ Сцепление не выключается. См. раздел 27.
+2 вилки переключения передач погнуты или заклинены. Часто возникает из-за падения машины.
+(от недостатка смазки. Капитальный ремонт трансмиссии (глава 2).
+3 Gears) застрял на гадости. Чаще всего вызывается
+из-за недостатка смазки или
+чрезмерный износ подшипников и втулок трансмиссии. Капитальный ремонт
+трансмиссия (глава 2),
 
-4 Shift rum binding. Caused by
+4 Переключение рома с переплетом. Вызвано
 
-failure or
+неудача или
 
-wear.
+носить.
 
-Replace the drum and bearing (Chapter 2).
-5 _ Shiftlinkage retum spring weak or broken (Chapter 2).
+Замените барабан и подшипник (Глава 2).
+5 _ Возвратная пружина рычага переключения передач слабая или сломанная (Глава 2).
 
-6 Shift lever broken. Splines stripped out of lever or shaft, caused by
-allowing the lever to get loose or from dropping the machine. Replace
-necessary parts (Chapter 2).
-7 Shift mechanism stopper arm broken or worn. Full engagement and
-‘otary movement of shift drum results. Replace the arm (Chapter 2)
-8 Paw! spring broken. Allows arm to ‘oat, causing sporadic shit
-‘operation. Replace springs (Chapter 2)
+6 Рычаг переключения передач сломан. Шлицы сорваны с рычага или вала из-за
+если рычаг ослабнет или машина упадет. Заменить
+необходимые детали (глава 2).
+7 Стопорный рычаг механизма переключения сломан или изношен. Полное вовлечение и
+'результат вращательного движения барабана переключения передач. Замените рычаг (Глава 2)
+8 Лапа! пружина сломана. Позволяет руке «овсять», вызывая спорадическую дерьмо
+'операция. Заменить пружины (Глава 2)
 
-29 Jumps
-out
-of
-gear
+29 прыжков
+из
+из
+шестерня
 1
-Shit fork(s) worn.
-Overhaul
-the
-transmission (Chapter
+Дерьмо вилка(и) изношена.
+Капитальный ремонт
+тотtransmission (Chapter
 2).
-2 _ Gear groove(s) worn. Overhaul the transmission (Chapter 2).
-3 Gear dogs or dog slots won or damaged. The gears should be
-inspected and replaced. No attempt should be made to service the
-wom parts.
+2 _ Изношены канавки шестерни. Выполните капитальный ремонт коробки передач (глава 2).
+3 Зубчатые собачки или слоты для собак выиграны или повреждены. Шестерни должны быть
+проверен и заменен. Не следует предпринимать никаких попыток обслуживания
+части жен.
 
 4.
 5
 
 0-23
 
-‘assembly. Inspect and overhaul top end parts (Chapter 2).
-2 Connecting rod bent. Caused by over-revving. trying to start a badly
-flooded engine or from ingesting a foreign object into the combustion
-chamber. Replace the damaged parts (Chapter 2).
-3 Piston pin or piston pin bore worn or seized from wear or lack of
+'сборка. Осмотрите и отремонтируйте верхние концевые детали (глава 2).
+2 Шатун погнут. Причиной является превышение оборотов. пытаюсь начать плохо
+залитый двигатель или попадание постороннего предмета в камеру сгорания
+палата. Замените поврежденные детали (глава 2).
+3 Поршневой палец или отверстие под поршневой палец изношены или заклинены из-за износа или отсутствия
 
-Gear shifting problems
+Проблемы с переключением передач
 
-Shift drum stopper arm broken, Check and replace (Chapter
+Стопорный рычаг барабана переключения передач сломан. Проверьте и замените (Глава).
 2).
-Shift drum shaft bent. Check and replace (Chapter 2),
+Shift drum shaft bent. Проверьте и замените (глава 2),
 
-30 Overshitts
+30 овершитов
 
-lubrication. Replace damaged parts (Chapter 2).
+смазка. Замените поврежденные детали (глава 2).
 
 4 Piston ring(s) worn,
-(Chapter 2).
+(Глава 2).
 5
 
-Piston
+Поршень
 
-seizure
+захват
 
-awl springs weak or broken (Chapter 2),
-Shift drum stopper arm broken (Chapter 2),
+пружины шила слабые или сломанные (глава 2),
+Стопорный рычаг барабана переключения передач сломан (Глава 2),
 
-Abnormal engine noise
+Ненормальный шум двигателя
 31
 
-Knocking or pinging
+Стук или звон
 
-Usually
+Обычно
 
-from
+из
 
-Overhaul the top end
-lack
+Капитальный ремонт верхней части
+недостаток
 
-of
+из
 
-lubrication
+смазка
 
-or
+или
 
-‘overheating. Replace the pistons and bore the cylinders,
+«перегрев». Заменить поршни и расточить цилиндры,
 
-as necessary
+по мере необходимости
 
-(Chepter 2)
-6 Cc
+(Глава 2)
+6 куб.см.
 
 Caused
-by
+по
 
-rod upper or lower end
+верхний или нижний конец стержня
 
-excessive wear or lack of lubrication. Replace wom parts.
+чрезмерный износ или недостаток смазки. Замените детали.
 
 33
 
-Valve noise
+Шум клапана
 
-1 Incorrect valve clearances. Adjust the clearances by referring to
-Chapter 1
+1 Неправильные зазоры клапанов. Отрегулируйте зазоры, обратившись к
+Глава 1
 
-2 Valve spring broken or weak. Check and replace weak valve springs
+2 Пружина клапана сломана или слаба. Проверьте и замените ослабленные клапанные пружины.
 
-(Chapter 2)
+(Глава 2)
 
-3 Camshaft or cylinder head wor or damaged. Lack of lubrication at
-high rpm is usually the cause of damage. Insufficient oil or failure to
-change the oll at the recommended intervals are the chief causes.
-‘Since there are no replaceable bearings in the head, the
-have to be replaced if there is excessive wear or damage
+3 Распредвал или головка блока цилиндров изношены или повреждены. Недостаток смазки в
+высокие обороты обычно являются причиной поломки. Недостаточное количество масла или его отсутствие
+меняйте масло через рекомендуемые промежутки времени – вот основные причины.
+«Поскольку в головке нет сменных подшипников,
+необходимо заменить в случае чрезмерного износа или повреждения
 
 34
 
 head itself will
-(Chapter 2),
+(Глава 2),
 
 Other noise
 
-1 _ Cylinder head gasket leaking.
-2 Exhaust pipe leaking at cylinder head connection. Caused by
-improper fit of pipe(s) oF loose exhaust flange. All exhaust fasteners
-should be tightened evenly and carefully. Failure to do this will lead to
-a leak
+1 _ Прокладка головки блока цилиндров протекает.
+2 Негерметичность выхлопной трубы в месте соединения головки блока цилиндров. Вызвано
+неправильная установка трубы(-ов) на незакрепленном выпускном фланце. Все крепления выхлопной системы
+следует затягивать равномерно и осторожно. Невыполнение этого требования приведет к
+утечка
 
 1
 2.
 
 broken or sticking.
 
-damage.
+повреждать.
 
 30
 
@@ -3546,590 +3516,581 @@ runout
 
 Caused by a bent
 
-over-rewing) or damage from an upper cylinder component
+чрезмерная перемотка) или повреждение верхнего компонента цилиндра.
 
-Can also be attributed to dropping the machine on either of the
-crankshatt ends.
-4 Engine mounting bolts loose. Tighten all engine mount bolts (Chapter
-2 ).
+Это также может быть связано с падением машины на любую из
+коленвал заканчивается.
+4 Болты крепления двигателя ослаблены. Затяните все болты крепления двигателя (глава
+2).
 
 5 _
-Crankshaft
-bearings
+Коленчатый вал
+подшипники
 worn (Chapter 2).
-6 Camshaft chain tensioner defective. Replace according to the
+6 Натяжитель цепи распредвала неисправен. Замените в соответствии с
 
-procedure in Chapter 2
+процедура в главе 2
 
-7__Camshatt chain,
+7__Цепь Камшатта,
 sprockets
-or
-guides wom (Chapter
+или
+направляет wom (Глава
 2)
-1 Carbon build-up in combustion chamber. Use of a fuel additive that
-will dissolve the adhesive bonding the carbon particles to the piston
+1 Нагар в камере сгорания. Использование присадки к топливу, которая
+растворит клей, связывающий частицы углерода с поршнем
 
-‘crown and chamber is the easiest way to remove the build-up.
-‘Otherwise, the cylinder head will have to be removed and decarbonized
+«Коронка и камера — самый простой способ удалить нарост.
+«Иначе ГБЦ придется снимать и обезуглероживать»
 
-(Chapter 2).
+(Глава 2).
 
 2
 Incorrect
-or
-poor quality fuel. Old or
-improper
-fuel
+или
+некачественное топливо. Old or
+неправильный
+топливо
 can cause
-detonation. This causes the pistons to rattle, thus the knocking or
+детонация. Это приводит к стуку поршней, в результате чего возникает стук или
 
-Abnormal driveline
-noise 35 Clutch noise
+Ненормальная трансмиссия
+шум 35 Шум сцепления
 
 1
 
-Clutch
+Клатч
 
-plate
+тарелка
 
-(Chapter 2)
+(Глава 2)
 
-pinging sound. Drain the old fuel and always use the
-‘grade fuel (Chapter 4).
+звук пинг. Слейте старое топливо и всегда используйте
+'сорт топлива (глава 4).
 
 2
 
-Loose or damaged clutch pressure plate and/or bolts (Chapter 2).
+Ослаблены или повреждены нажимной диск сцепления и/или болты (Глава 2).
 
-plug, raising cylinder temperatures. Install the proper heat range plug
+пробку, повышая температуру цилиндров. Установите соответствующую заглушку диапазона нагрева.
 
 36.
 
-Transmission noise
+Шум трансмиссии3 Неправильный диапазон нагрева свечи зажигания. Неконтролируемая детонация указывает на
+что диапазон нагрева свечи слишком горячий. Эффект свечения становится свечением
 
-3 Spark plug heat range incorrect. Uncontrolled detonation indicates
-that the plug heat range is too hot. The plug in effect becomes a glow
+(Глава 1).
 
-(Chapter 1).
-
-4 Improper airfuel mixture. This will cause the cylinders to run hot and
-rad to detonation. Clogged jets or an air leak can cause this
+4 Неправильная топливовоздушная смесь. Это приведет к перегреву цилиндров и
+рад до детонации. Причиной этого могут быть засоренные форсунки или утечка воздуха.
 4
-alance. See Chapter
+баланс. См. главу
 
-32. Piston slap or rattling
+32. Шлепок или дребезжание поршня.
 1
 
-Oylinder-to-piston clearance excessive.
-Caused
-by
-improper
+Слишком большой зазор между цилиндром и поршнем.
+Вызвано
+по
+неправильный
 
-1 Bearings wom. Also includes the possblty that the shafts are worn,
-‘Overhaul the transmission (Chapter 2).
+1 Подшипники жен. Также включает в себя возможность износа валов,
+«Капитальный ремонт трансмиссии (глава 2).
 
 2
-Gears wom of chipped (Chapter 2).
-3 Metal chips jammed in gear teeth. Probably pieces from a broken
-Clutch, gear or shit mechanism that were picked up by the gears. This
-will cause earty bearing failure (Chapter 2).
-4 Engine oil level too low. Causes @ how! from transmission. Also
-affects engine power and clutch operation (Chapter 1).
+Шестерни со сколами (глава 2).
+3 Металлическая стружка застряла в зубьях шестерни. Вероятно, кусочки сломанного
+Сцепление, шестерня или дерьмовый механизм, подхватившийся шестернями. Это
+приведет к преждевременному выходу из строя подшипника (глава 2).
+4 Уровень моторного масла слишком низкий. Причины @ как! от передачи. Также
+влияет на мощность двигателя и работу сцепления (глава 1).
 
-Troubleshooting
+Устранение неполадок
 
 0-24
 37
 
-2 Engine oil level low. Inspect for leak or other problem causing low oi
+2 Низкий уровень моторного масла. Проверьте наличие утечек или других проблем, вызывающих низкое масло.
 
-Final drive noise
+Шум главной передачи
 
-level and add recommended ail (Chapters 1 and 2).
+уровень и добавьте рекомендуемые аилы (главы 1 и 2).
 
-3 Engine ail viscosity
-too low. Very old, thin oil or an improper
-weight of
+3 Вязкость всех двигателей
+слишком низко. Очень старое, жидкое масло или неподходящее масло.
+вес
 
 1
-illevel too low (Chapter 1).
-2 __ Excessive backlast between pinion and ring gear (Chapter 6).
-3 Scored driven flange or wheel hub. Inspect the components (Chapter
+Уровень слишком низкий (глава 1).
+2 __ Чрезмерный зазор между шестерней и венцом (Глава 6).
+3 Ведомый фланец с насечками или ступица колеса. Осмотрите компоненты (Глава
 
 6).
-4 Worn or damaged internal components in the driveshaft
-or final drive
-unit. Have a Honda dealer overhaul the assembly.
+4 Изношены или повреждены внутренние компоненты приводного вала.
+или главная передача
+единица. Обратитесь к дилеру Honda для проведения капитального ремонта узла.
 
-‘caused by ail starvation at high rpm from low oil level or improper
+'вызвано голоданием на высоких оборотах из-за низкого уровня масла или неправильного использования
 
 6
 
-Front
-end
-noise
+Фронт
+конец
+шум
 
-Same problems as paragraph 4.
+Те же проблемы, что и в пункте 4.
 
-Clogger
-ail strainer. Clean in (Chapter 2)
+Засоритель
+все сито. Очистить (Глава 2)
 
-42 Electrical system
+42 Электрическая система
 
-1 Low fluid level or improper viscosity ol in forks. This can sound like
-spurting and is usually accompanied by iregular fork action (Chapter
+1 Низкий уровень жидкости или неправильная вязкость масла в вилке. Это может звучать как
+бьет струей и обычно сопровождается неравномерным действием вилки (гл.
 
 8).
 
-2 Spring weak x broken, Makes a ccking o scraping scund. Fok ol,
-‘when drained, willhave a lot of metal patices in it (Chapter 6).
-sleotng need bewngs loose er camoged.
+2 Пружина слабая и сломанная, издает стук или скрежет. Фок ол,
+«Когда он будет осушен, в нем будет много металлических частиц (глава 6).
+для слежки нужно быть свободным и замаскированным.
 
-Chcts when braking.
+Чт при торможении.
 
-Check and adjust or replace as necessary (Chapters 1 and 6).
-4 Fork triple clamps loose.
+Проверьте и при необходимости отрегулируйте или замените (главы 1 и 6).
+4 Тройные зажимы вилки ослаблены.
 
 1
 
-_Ollpressure switch defective. Check the switch according tothe
+_Неисправно реле давления. Проверьте переключатель в соответствии с
 
-procedure in Chapter 8. Replace itif
+процедуру, описанную в главе 8. Замените его, если
 2
 
-itis defective,
+он неисправен,
 
-Oil pressure indicator light circuit defective. Check for pinched,
+Неисправна цепь индикатора давления масла. Проверьте, нет ли защемления,
 
-shorted, disconnected or damaged wiring (Chapter 8)
+закороченная, отсоединенная или поврежденная проводка (глава 8)
 
-Excessive exhaust smoke 43
+Чрезмерный дым выхлопа 43
 
-Make sure all fork clamp pinch bolts are
+Убедитесь, что все стяжные болты зажима вилки
 
-tight (Chapter 6)
-5 Fork tube bent. Good possibilty if machine has been dropped
-Replace
-tube with a new one (Chapter 6).
-6 Front axle or axle
+плотно (глава 6)
+5 Трубка вилки погнута. Хорошая возможность, если машина упала.
+Заменить
+трубку на новую (глава 6).
+6 Передний мост или мост
 
-pressure. Replace cam and/or/cylinder head. Abnormal wear could be
-weight of type of ail (Chapter 1).
-‘5 Crankshaft and/or bearings worn.
+давление. Замените кулачок и/или головку блока цилиндров. Ненормальный износ может быть
+вес типа аил (глава 1).
+«5 Износ коленчатого вала и/или подшипников.
 
-‘Check and replace crankshaft and/or bearings (Chapter 2).
+«Проверьте и замените коленчатый вал и/или подшипники (глава 2).
 
-Abnormal frame and suspension noise 38
+Ненормальный шум рамы и подвески 38
 
 3
 
-cil used in the engine. Change to correct oil (Chapter 1)
-4 Camshaft or joumals wom. Excessive wear causing drop in oll
+цил, используемый в двигателе. Замените масло на подходящее (Глава 1)
+4 Распределительный вал или втулки wom. Чрезмерный износ, вызывающий падение производительности
 
-clamp bollnut loose. Tighten them to the specified
+болт зажима ослаб. Затяните их до указанного
 
-White smoke
-1 Piston oil ring wor. The ring may be broken or damaged, causing oil
+Белый дым
+1 Маслосъемное кольцо поршня. Кольцо может быть сломано или повреждено, что приведет к попаданию масла.
 
-from the crankcase
+из картера
 
-torque (Chapter 6).
+крутящий момент (глава 6).
 
-to be pulled past the piston into the combustion
+протягиваться мимо поршня в зону сгорания
 
-chamber. Replace
-the rings with new ones
-2 Cylinders wom, cracked, or scored.
+палата. Заменить
+кольца с новыми
+2 цилиндра повреждены, треснуты или забиты.
 
-39. Shock absorber noise
+39. Амортизатор шума
 
-Starvation.
+Голод.
 
-(Chapter 2)
+(Глава 2)Вызвано перегревом или болезнью
 
-Caused by overheating or ail
+Цилиндры придется расточить и поставить новые поршни.
 
-The cylinders will have to be rebored and new pistons
-
-installed
+установлен
 1
 
-Fluid level incorrect.
+Неправильный уровень жидкости.
 
-Indicates a leak caused by defective seal
+Указывает на утечку, вызванную дефектом уплотнения.
 
-‘Shock will be covered with oil. Replace
-shock (Chapter 6),
-2 Defective shock absorber with intemal damage. This is in the body
-of
-the shock and can't be remedied. The shock must be replaced with @
-new one (Chapter 6),
-3 Bent or damaged shock body. Replace the shock with a new one
+«Шок будет покрыт маслом. Заменить
+шок (глава 6),
+2 Неисправный амортизатор с внутренним повреждением. Это в теле
+из
+шок, и его невозможно вылечить. Амортизатор необходимо заменить на @
+новый (глава 6),
+3 Погнут или поврежден корпус амортизатора. Замените амортизатор на новый
 
-(Chapter 6),
-4 Loose shork or shock linkage fasteners on Sabre models (Chapter
+(Глава 6),
+4 Ослабленные крепления амортизатора или амортизатора на моделях Sabre (Глава
 
 6)
 
-40 Disc brake noise
+40 Шум дискового тормоза
 1
 
-Brake
+Тормоз
 
-disc-to-caliper
+диск-суппорт
 
-3 Valve of seal damaged or worn,
+3 Уплотнение клапана повреждено или изношено,
 
-(Chapter 2),
+(Глава 2),
 4
 
-Valve guide worn.
+Направляющая клапана изношена.
 
-Replace oll seals with new ones
+Замените сальники на новые.
 
-Perform a complete valve job (Chapter 2)
+Выполните полную работу клапана (глава 2).
 
-5 Engine al level too high, which causes the oil to be forced past the
-fings. Drain ail to the proper level (Chapter 1).
-‘6 Head gasket broken between ail return and cylinder. Causes oil to be
-pulled into the combustion chamber. Replace
+5 Уровень масла в двигателе слишком высок, что приводит к вытеснению масла за пределы
+пальцы. Слейте все до нужного уровня (глава 1).
+‘6 Прокладка головки блока цилиндров между возвратным клапаном и цилиндром сломана. Заставляет масло быть
+втянул в камеру сгорания. Заменить
 
-the head gasket and
+прокладка головки и
 
-‘check the head for warpage (Chapter
+«проверьте головку на предмет деформации (глава
 2),
 
-7 Abnormal crankcase pressurization, which forces oil past the rings
-Clogged breather/separator or hoses usually the cause (Chapter 4).
+7 Ненормальное давление в картере, из-за которого масло проходит через кольца.
+Причиной обычно является засор сапуна/сепаратора или шлангов (глава 4).
 
-44 Black smoke
-bracket
+44 Черный дым
+кронштейн
 
-clearance incorrect (front
+неправильный зазор (передний
 
-brake)
+тормоз)
 
-(Chapter 7)
-2 Squeal caused by dust on brake pads. Usually found in combination
-‘with glazed pads. Clean using brake cleaning solvent (Chapter 7).
-3.Contamination of brake pads. Oil, brake fluid or dirt causing brake to
-chatter or squeal. Clean or replace pads (Chapter 7).
+(Глава 7)
+2 Визг вызван пылью на тормозных колодках. Обычно встречается в сочетании
+«с глазурованными подушечками. Очистите с помощью растворителя для очистки тормозов (глава 7).
+3.Загрязнение тормозных колодок. Масло, тормозная жидкость или грязь, вызывающие отказ тормозов.
+болтовня или визг. Очистите или замените колодки (глава 7).
 
-i Sa paces Cael by eseesetes hea Foprac i or ar
-Do not use
-. emery
-ch
-Gr ony ober abrasive fo roughen the pad suraose as dashes oll
-stay in the pad material and damage the disc. A very fine flat fle can
+Я шагаю по Cael от eseesetes hea Foprac i или ar
+Не используйте
+. наждак
+ч
+Большой абразивный материал для придания шероховатости подушечке в виде штрихов
+оставайтесь в материале колодки и повредите диск. Очень хорошая плоская банка
 
 1
 2
 
-Air cleaner clogged. Clean or replace the element (Chapter 1),
-Main jet too large or loose. Compare the jet size to the Specifl-
+Засорен воздухоочиститель. Очистите или замените элемент (глава 1),
+Главный жиклер слишком большой или ослаблен. Сравните размер струи со спецификациями.
 
-‘cations (Chapter 4),
+катионы (глава 4),
 
 3.
 
-Choke stuck,
+Дроссель застрял,
 
-causing fuel to be pulled through choke circult
+вызывая прохождение топлива через дроссельный контур
 
-(Chapter 4)
+(Глава 4)
 4
 
-Fuel level too high. Check and adjust the float height(s) as
+Слишком высокий уровень топлива. Проверьте и отрегулируйте высоту поплавка, как
 
-necessary (Chapter 4)
+необходимо (глава 4)
 5
 
-Inlet needee held off needle seat. Clean
-the float bowls and fuel
+Впускное отверстие отодвинуто от седла иглы. Чистый
+поплавковые чаши и топливо
 
-line and replace the needles and seats if necessary (Chapter 4),
+выровняйте и при необходимости замените иглы и седла (глава 4),
 
-be used, but pad replacement is suggested as
-a cure (Chapter 7)
+можно использовать, но рекомендуется заменить колодку, поскольку
+лекарство (глава 7)
 
-5 Disc warped. Can cause a chattering, clicking or intermittent squeal,
-Usually accompanied by a pulsating lever and uneven braking
-Replace the disc (Chapter 7).
-6 Loose or worn wheel bearings. Check and replace as needed
+5 Диск деформирован. Может вызывать стук, щелчки или прерывистый визг,
+Обычно сопровождается пульсацией рычага и неравномерным торможением.
+Замените диск (глава 7).
+6 Ослаблены или изношены подшипники колес. Проверьте и замените при необходимости
 
-(Chepter 7).
+(Глава 7).
 
 45
 
-Brown smoke
+Коричневый дым
 
-1 Main jet too small or clogged. Lean condition caused by wrong size
-main jet or by a
+1 Главный жиклер слишком мал или засорен. Сухое состояние, вызванное неправильным размером
+главный жиклер или
 
-restricted orice.
+ограниченное отверстие.
 
-Clean float bow! and jets and
+Чистый плавучий лук! и самолеты и
 
-compare jet size to Specifications (Chapter 4).
+сравните размер струи со спецификациями (глава 4).
 
-Oil pressure indicator light comes on 41
+Загорается контрольная лампа давления масла 41
 
-Engine lubrication system
+Система смазки двигателя
 
-2 Fuel flow insufficient.
+2 Недостаточный расход топлива.
 
-‘chemical reaction with old fuel. Float height incorrect, Restricted fuel
+«Химическая реакция со старым топливом». Неправильная высота поплавка, ограничено топливо.
 
-line. Clean line and float bow! and adjust floats if necessary.
+линия. Чистая леска и плавучий лук! и при необходимости отрегулируйте поплавки.
 3.
 4
 
 1
 
-Engine oil pump defective (Chapter 2).
+Масляный насос двигателя неисправен (Глава 2).
 
-Fuel inlet needle valve stuck closed due to
+Игольчатый клапан впуска топлива застрял в закрытом положении из-за
 
-Carburetor intake manifolds loose (Chapter
+Ослаблены впускные коллекторы карбюратора (Глава
 4)
-Aircleaner
-poorly
-sealed or not installed (Chapter 1)
+воздухоочиститель
+плохо
+опломбирован или не установлен (Глава 1)
 
-Troubleshooting
+Устранение неполадок
 2
 
-or stability
-Poor handling
+или стабильность
+Плохое обращение
 
 0-25
 
-Too soft
-
-2) Fork or shock oil insufficient aetAr leaking (Chapter 6).
-) Farkol level to low (Chapter
+Слишком мягкий2) Недостаточная утечка масла в вилке или амортизаторе (глава 6).
+) Уровень фаркола низкий (Глава
 6).
-©) Fark ol viscosity too ight (Chapter 6).
-9) Fark springs weak or broken (Chapter 6).
-©) Shock internal damage or leakage (Chapter 6,
+©) Слишком высокая вязкость (Глава 6).
+9) Пружины Фарка слабые или сломанные (глава 6).
+©) Ударные внутренние повреждения или утечки (глава 6,
 
-hard to turn
-46 Handlebar
+трудно повернуть
+46 Руль
 1
-Steering stem nut too tight (Chapter 6).
-2 Bearings damaged. Roughness can be felt as the bars are tured
-{rom side-to-side. Replace bearings and races (Chapter 6),
+Гайка рулевого стержня слишком затянута (глава 6).
+2 подшипника повреждены. Шероховатость может ощущаться при загибании стержней.
+{из стороны в сторону. Замените подшипники и кольца (глава 6),
 
-3 Races dented or worn.
+3 Расы помяты или изношены.
 
-Denting resus from wear in only one
+Вмятины в результате износа только в одном
 
-position (e.9., straight-ahead), from a colision or hitting a pothole or
+положении (например, прямо), в результате столкновения или попадания в выбоину или
 
-from dropping the machine. Replace races and bearings (Chapter 6).
-4 Steering stem lubrication inadequate. Causes are grease getting
-hard from age or being washed out by high pressure car washes,
-Disassemble steering head and repack bearings (Chapter 6)
-5 Steering stem bent. Caused by a callision, hitting @ pothole or by
-‘ropping the machine. Replace damaged part. Don’ try to straighten
-the steering stem (Chapter 6)
+от падения машины. Замените кольца и подшипники (глава 6).
+4 Недостаточная смазка рулевого стержня. Причины – попадание смазки
+твердые от старения или вымываемые автомойками под высоким давлением,
+Разберите рулевую колонку и замените подшипники (глава 6).
+5 Погнут рулевой стержень. Вызвано наездом, наездом на выбоину или
+«разбивая машину». Замените поврежденную деталь. Не пытайся выпрямиться
+рулевой стержень (глава 6)
 6
-Front tire air pressure too low (Chapter 1).
+Слишком низкое давление воздуха в передних шинах (Глава 1).
 
-47 Handlebar shakes or vibrates excessively
-1 _ Tires worn or out of balance (Chapter 7).
-2 Swingarm bearings worn. Replace wom bearings by referring to
-Chapter 6.
+47 Руль трясется или сильно вибрирует.
+1 _ Шины изношены или разбалансированы (глава 7).
+Изношены 2 подшипника маятника. Замените подшипники, обратившись к
+Глава 6.
 3.
-Rim(s) warped or damaged. Inspect wheels
-for runout (Chapter
+Обод деформирован или поврежден. Осмотр колес
+по биению (Глава
 7)
 
-4 Wheel bearings worn. Worn front or rear wheel bearings can cause
-poor tracking. Worn front bearings will cause wobble (Chapter 7),
-5 _ Handlebar clamp botts loose (Chapter 6).
-6 Steering stem or fork triple clamps loose. Tighten them to the
-specified torque (Chapter 6).
-7 Engine mounting bolts loose.
+4 Изношены ступичные подшипники. Изношенные подшипники передних или задних колес могут стать причиной
+плохое отслеживание. Изношенные передние подшипники вызовут раскачивание (глава 7).
+5 _ Ослаблены зажимы руля (Глава 6).
+6 Ослаблены тройные зажимы рулевого штока или вилки. Затяните их до
+указанный крутящий момент (глава 6).
+7 Ослаблены болты крепления двигателя.
 
-Increased engine rpm (Chapter 2),
+Повышенные обороты двигателя (глава 2),
 8
-Loose axle (Chapter 7),
+Ослабленная ось (глава 7),
 
-Will cause excessive vibration with
+Вызовет чрезмерную вибрацию при
 
-Braking problems
+Проблемы с торможением
 50
 
-Disc
-brakes
-are
-spongy, don't hold
+Диск
+тормоза
+являются
+губчатый, не держи
 
-1 Air in brake line. Caused by inattention to master cylinder fluid level
-‘or by leakage. Locate problem and bleed brakes (Chapter 7)
+1 Воздух в тормозной магистрали. Причиной является невнимание к уровню жидкости в главном цилиндре.
+'или путем утечки. Найдите проблему и прокачайте тормоза (глава 7).
 2
-Pad or disc wom (Chapters 1 and 7),
+Подушечка или диск (главы 1 и 7),
 3
-Brake fluid leak. See paragraph 1
-4 Contaminated pads.
-Caused
-by
-contamination with oil, grease, brake
+Утечка тормозной жидкости. См. пункт 1.
+4 Загрязненные колодки.
+Вызвано
+по
+загрязнение маслом, смазкой, тормозами
 
-fluid, etc. Clean or replace pads. Clean disc thoroughly with brake
-cleaner (Chapter 7)
-5 Brake fluid deteriorated. Fluid is old or contaminated. Drain system,
-replenish with new fluid and bleed the system (Chapter 7)
-6 Master cylinder internal parts worn or damaged causing fluid to
+жидкость и т. д. Очистите или замените колодки. Тщательно очистите диск тормозом.
+уборщик (глава 7)
+5 Тормозная жидкость испортилась. Жидкость старая или загрязненная. Дренажная система,
+залейте новую жидкость и прокачайте систему (глава 7)
+6 Внутренние детали главного цилиндра изношены или повреждены, что приводит к вытеканию жидкости.
 
-‘bypass (Chapter 7).
+«обход» (глава 7).
 
-7 Master cylinder bore scratched by foreign material or broken spring,
+7 Отверстие главного цилиндра поцарапано посторонним предметом или сломана пружина,
 
-Repair or replace master cylinder (Chapter 7),
-8 Disc warped.
-Replace
-disc
-(Chapter 7).
+Отремонтируйте или замените главный цилиндр (глава 7),
+8 Диск деформирован.
+Заменить
+диск
+(Глава 7).
 
 51
 
-Brake lever or pedal pulsates
+Рычаг тормоза или педаль пульсируют
 
-Disc warped or drum out-ot-round (Chapter 7)
-‘Axle bent. Replace axle (Chapter 7).
-Brake caliper or bracket bolts loose (Chapter 7).
-4 Brake caliper sticking on its mounting bolt shafts, causing caliper to
-bind. Lube the shatts or replace them if they
-are corroded or bent
+Диск деформирован или барабан не круглый (Глава 7)
+«Ось погнулась. Замените ось (глава 7).
+Ослаблены болты тормозного суппорта или кронштейна (глава 7).
+4 Тормозной суппорт застревает на валах крепежных болтов, из-за чего суппорт
+связать. Смажьте детали или замените их, если они
+корродированы или погнуты
 
-(Chapter 7)
+(Глава 7)
 
-48 Handlebar pulls to one side
+48 Руль тянет в сторону
 
 5
-Wheel warped or otherwise damaged (Chapter 7).
-6 — Wheel bearings damaged or worn (Chapter 7).
+Колесо деформировано или повреждено иным образом (глава 7).
+6 — Подшипники колес повреждены или изношены (глава 7).
 
-4 Frame bent, Definitely suspect this ifthe machine has been dropped.
-‘May or may not be accompanied by cracking near the bend. Replace
+4. Рама погнута. Это определенно следует заподозрить, если машину роняли.
+«Может сопровождаться, а может и не сопровождаться треском возле изгиба. Заменить
 
-52 Brakes drag
+52 Тормоза тормозные
 
-the frame (Chapter 6),
+каркас (глава 6),
 
-2 Wheel out of alignment. Caused by improper location of axle spacers
-‘or from bent steering stem or frame (Chapter 6).
-3 Swingarm bent or twisted.
+2 Колесо не выровнено. Причиной является неправильное расположение проставок оси.«или из-за изогнутого рулевого стержня или рамы (глава 6).
+3 Маятниковый рычаг погнут или перекручен.
 
-Caused by age (metal fatigue) or impact
+Вызвано возрастом (усталостью металла) или ударом.
 
-‘damage. Replace the arm (Chapter 6).
-4 Steering stem bent. Caused by impact damage or by cropping the
-matorcycle. Replace the steering stem (Chapter 6)
-5 Fork leg bent. Disassemble the forks and replace the damaged parts
+'ущерб. Замените рычаг (глава 6).
+4 Рулевой стержень погнут. Возникло в результате удара или обрезки
+мотоцикл. Замените рулевую колонку (глава 6).
+5 Ножка вилки погнута. Разберите вилку и замените поврежденные детали.
 
-(Chapter 6).
+(Глава 6).
 
-6 Fork ol level uneven. Check and add or drain as necessary (Chapter
+6. Уровень вилки неровный. Проверьте и при необходимости долейте или слейте воду (Глава
 
 8)
 7
 
-Defective shock absorber on one side (Magna models),
+Дефектный амортизатор с одной стороны (модели Magna),
 
-1 Master cylinder piston seized. Caused by wear or damage to piston
-‘cylinder bore (Chapter 7).
-2 __ Lever balky
-or stuck. Check pivot and lubricate (Chapter 7).
-3 Brake caliper binds. Caused by inadequate lubrication or damage to
-Caliper sliders (Chapter 7).
+1 Поршень главного цилиндра заклинил. Вызвано износом или повреждением поршня.
+'отверстие цилиндра (глава 7).
+2 __ Рычаг неуклюжий
+или застрял. Проверьте шарнир и смажьте его (глава 7).
+3 Тормозной суппорт заедает. Вызвано недостаточной смазкой или повреждением
+Ползунки суппорта (глава 7).
 
-4 Brake caliper pistons seized in bore. Caused by wear or ingestion of
-it past deteriorated seal (Chapter 7).
-5 Brake pad damaged. Pad material separated from backing plate.
-Usually caused by faulty manufacturing process or from contact with
-chemicals. Replace pads (Chapter 7).
-& __ Pads improperty installed (Chapter
+4 Поршни тормозного суппорта застряли в отверстии. Вызвано износом или проглатыванием
+прошло разрушение пломбы (Глава 7).
+5 Тормозная колодка повреждена. Материал подкладки отделен от опорной пластины.
+Обычно возникает из-за неправильного производственного процесса или контакта с
+химикаты. Замените колодки (глава 7).
+& __ Неправильно установлены колодки (глава
 7).
-7 Drum brake operating cam sticking or broken/sagged shoe retumn
+7 Залип рабочий кулачок барабанного тормоза или сломана/провисла колодка возврата
 
-49_ Poor shock
+49_ Плохой шок
 1
 
-qualities
+качества
 
-strings (Chapter 7)
+струны (глава 7)
 
-8 Rearbrake pedal freeplay insuficient
+8 Недостаточный свободный ход педали заднего тормоза
 
-Toohard:
-2) Fork ol evel excessive
-(Chapter 6.
+Слишком сложно:
+2) Слишком высокий уровень вилки
+(Глава 6.
 
-too.
-b) Fork oil viscosity
-©) Fork tube bent. Causes @ harsh, sticking feeling (Chapter 6).
+тоже.
+б) Вязкость масла вилки
+©) Трубка вилки погнута. Вызывает ощущение резкости и липкости (Глава 6).
 
-) Anti<ive passages clogged (Chapter 6)
+) Антиактивные ходы засорены (Глава 6)
 
-Electrical problems
+Электрические проблемы
 53
 
-or weak
-dead
-Battery
-1 Battery faulty. Caused by sulfated plates which are shorted through
+или слабый
+мертвый
+Батарея
+1 Батарея неисправна. Вызвано сульфатированными пластинами, которые закорочены.
 
-1) Tre
-pressure
-too
-high (Chapter 1).
+1) Тре
+давление
+тоже
+высокий (глава 1).
 
-sedimentation or low electrolyte level.
+осадок или низкий уровень электролита.
 
-Also, broken battery terminal
+А еще сломана клемма аккумулятора
 
-‘making only occasional contact (Chapter 8).
+«устанавливая лишь случайные контакты (глава 8).
 2
 
-Battery cables making poor contact (Chapter
+Плохой контакт кабелей аккумуляторной батареи (Глава
 8).
 
 0-26
 
-Troubleshooting
+Устранение неполадок
 
-3 Load excessive. Caused by addition of high wattage lights or other
+3 Чрезмерная нагрузка. Вызвано добавлением ламп высокой мощности или других
 
-electrical accessories.
+электрические аксессуары.
 
-54 Battery overcharged
+54 Аккумулятор перезаряжен.
 
-4 Ignition main (key) switch defective. Switch either grounds (earths)
-intemally or fails to shut off system. Replace the switch (Chapter 8).
+4 Главный (ключевой) выключатель зажигания неисправен. Поменяйте местами любое заземление.
+Внутренне или не удается отключить систему. Замените переключатель (глава 8).
 5
-Regulatorirectitier defective (Chapter 8).
+Неисправен регулятор-выпрямитель (глава 8).
 
-1 Regulatoritectifier defective. Overcharging is noticed when battery
-gets excessively
-warm or boils over (Chapter 8).
+1 Регулятор-выпрямитель неисправен. Перезарядка заметна, когда аккумулятор
+становится чрезмерно
+теплый или закипает (глава 8).
 
 6
 
-_Attemator stator coil open or shorted (Chapter 8).
+_Обмотка статора аттенатора разомкнута или закорочена (глава 8).
 
-7 Wiring fauity. Wiring grounded (earthed) or connections loose in
-‘ignition, charging or lighting circuits (Chapter 8).
+7. Устройство проводки. Проводка заземлена или ослаблены соединения в
+«цепи зажигания, зарядки или освещения (глава 8).
 
 2
 
-Battery defective. Replace battery with a new one (Chapter
+Батарея неисправна. Замените батарею на новую (глава
 8).
-3 Battery amperage too low, wrong type or size. Install manufacturer's
+3 Слишком низкая сила тока аккумулятора, неправильный тип или размер. Установите производителя
 
-‘specified amp-hour battery
-to handle charging load (Chapter 8).
-
-
+'указанная батарея в ампер-часах
+для обработки погрузочной нагрузки (глава 8).

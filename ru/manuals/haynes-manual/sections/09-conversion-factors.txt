@@ -1,346 +1,344 @@
 8-60
 
-Chapter
-8. Electrical system
+Глава
+8. Электрическая система
 
-Conversion factors
-Length (distance)
+Коэффициенты пересчета
+Длина (расстояние)
 
-x
+х
 
-0.0394
+0,0394
 
-X
+Х
 
 3.281
 
-‘= Inches (in)
-= Feet (ft)
+'= Дюймы (дюймы)
+= Футы (футы)
 
-X
+Х
 
 0621
 
-= Miles:
+= Миль:
 
-x
+х
 xX
 xX
-X
+Х
 
-0.061
+0,061
 176
 088
 0833
 
-‘= Cubie inches (cu in; in?)
+‘= Кубические дюймы (куб. дюйм; дюйм?)
 
-X
+Х
 xX
-X
-x
+Х
+х
 
-1.087
+1,087
 022
 0833
 0264
 
-KKK
+ККК
 
-Inches (in)
+Дюймы (дюймы)
 
-Milos:
+Милош:
 
-Volume (capacity)
+Объем (емкость)
 
-Cubic inches (cu in; in’)
+Кубические дюймы (cu дюйм; дюйм)
 
-Imperial pints (imp pt)
-Imperial
-quarts (Imp qt)
-Imperial quarts (Imp qt)
-US quarts (US qt)
+Имперские пинты (imp pt)
+Империал
+кварты (имп. кварты)
+Имперские кварты (Imp qt)
+Кварты США (кварты США)
 
-Imperial gallons (imp gal)
+Имперские галлоны (imp gal)
 XXKKKKXK
 
-Imperial gallons (imp gal)
-US gallons (US gal)
+Имперские галлоны (imp gal)
+Галлоны США (галлоны США)
 
-Mass (weight)
-Ounces (oz)
+Масса (вес)
+Унции (oz)
 
-xx
+хх
 
-ind (lb)
+инд (фунты)
 
 28.35
 
-=Grams
+= Грамм
 (9)
 
-X
+Х
 
-0.035
+0,035
 
-0.454
+0,454
 
-= kilograms
-(ko)
+= килограммы
+(ко)
 
-X
+Х
 
 2205
 
-= Newtons
-(N)
+= Ньютоны
+(Н)
 
-x:
+х:
 
-a
+а
 
-= Nowtons
-(N)
+= Ноутоны
+(Н)
 
-X
+Х
 
-0.225
+0,225
 
-0.070
+0,070
 
-= Kilograms-torce
-per square.
+= Килограмм-торс
+за квадрат.
 
-X_
+Х_
 
 14.223,
 
-0.068
+0,068
 
-= Atmospheres
-(atm)
+= Атмосфера
+(атм)
 
-Xx
+хх
 
 14696
 
-0.089
+0,089
 
-= Bors
+= Борс
 
-x
+х
 
 148
 
-6.895
+6,895
 
-= Kiloposcals (kPa)
+= Килопоскали (кПа)
 
-x
+х
 
 0145
 
-0.01
+0,01
 
-= Kilograms-force
-per
+= Килограмм-сила
+за
 
-x
+х
 
-98.4
+98,4
 
 1.162
 
 =
 
-0.278
-xxx
+0,278
+ххх
 
 4448.
 
-Ry
+Рай
 
-Rilopascals (kPa)
+Рилопаскаль (кПа)
 
-Torque (moment of force)
-x55
+Крутящий момент (момент силы)
+х55
 
-ids-foree inchos
+ids-передние дюймы
 
-(orn bo
+(орн бо
 
-Pounds-force inches
+Фунты-силы-дюймы
 
-Velocity (speed)
+Скорость (скорость)
 
-Miles per hour (miles/hr; mph)
+Миль в час (миль/час; миль в час)
 
-Fuel consumption*
+Расход топлива*
 
-Degrees Fahrenheit
+Градусы Фаренгейта
 
 .
 
-contimetre
+контиметр
 
-(kgf
-ern:
-kg
-em)
+(кгс
+эрн:
+кг
+эм)
 
 =
 
-(Wen)
+(Вэнь)
 
-= Pounds-force
-feet (Wf ft: ft)
+= Фунт-сила
+футы (Wf ft: ft)
 
-9.81
+9,81
 
-(psi:
+(пси:
 
-= Kilopascals (kPa)
+= Килопаскаль (кПа)
 
-«X_—«0.868
+«Х_—«0,868
 
-= Pounds-force inches.
+= Фунты-силы-дюймы.
 
-x
+х
 
-(bt in; 1b in)
-‘= Pounds-force inches.
+(внутрь; 1в в)
+‘= Фунты-силы-дюймы.
 
 885
 
-to in)
-{oti
+чтобы войти)
+{оти
 
-X12
+х12
 
-= Pounds-forco
+= Фунт-форко
 
 xX
 
 7233
 
-= Pounds-force
-feet (Ibf ft; tb ft)
+= Фунт-сила
+футы (фунт-футы; ТБ-футы)
 
-= Newion motres (Nm)
+= Новые двигатели (Нм)
 =
 6
 
-x
-X
+х
+Х
 
 0738
 9.804
 
-= Newton metres (Nm)
+= Ньютон-метры (Нм)
 
-748.7
+748,7
 
-= Watts (W)
+= Ватты (Вт)
 
-X
+Х
 
-0.0013
+0,0013
 
-= Horsepow
-(hp)
-er
+= лошадиная сила
+(л.с.)
+эээ
 
-x
+х
 
-1.609
+1,609
 
 =
-Kilometres
-per hour
-(krvhr; kph) X
+Километры
+в час
+(крвч; км/ч) X
 
-0.621
+0,621
 
-‘= Mile
-per hour
-s (miles/hr; mph)
+'= Миля
+в час
+с (миль/час; миль в час)
 
-2.825
+2,825
 2362
 
-‘= Miles per gation, Imperial (mpg)
-‘= Miles per gallon, US (mpg)
+‘= Мили за ворот, британские (миль на галлон)
+‘= Мили на галлон, США (миль на галлон)
 
-Miles por,gallon, Imperial (mpg) x
-Miles per'gallon, US (mpg)
-x
+Мили пор, галлоны, имперские (миль на галлон) x
+Мили на галлон, США (миль на галлон)
+х
 
-Temperature
+Температура
 
-centimetre (kgt/em?; ko/em*)
+сантиметр (кгт/эм?; ко/эм*)
 
 0113 =
-0.083
+0,083
 
-Power
+Мощность
 
-‘Horsepower (hp)
+«Лошадиная сила (л.с.)
 
-‘contimetre (kgt/om’: kg/em*)
+«контиметр (кгт/ом»: кг/эм*)
 
-0.138 =
-ecumen
+0,138 =
+ойкумена
 
-Pounds-foree feot (ibf ft; Ib ft)
-Newton metres (Nm)
+Фунты-передние стопы (ibf ft; Ib ft)
+Ньютон-метры (Нм)
 
-= Kilograms-force
-(kof: ka)
+= Килограмм-сила
+(коф: ка)
 
-x
+х
 
-Albt in; tb in)
-Pounds-force
-A ino in)
-Pounds-force feot (Ibf ft; ib ft)
+Альбт внутри; ТБ в)
+Фунт-сила
+Ино в)
+Фунты-силы-футы (Ibf ft; ib ft)
 
-‘0.1
+'0,1
 
-1.356
+1,356
 0102
 
-m)
-m; kg f
-{kg
+м)
+м; кг ж
+{кг
 
-m)
-gf
-m; kg
-fk
+м)
+подруга
+м; кг
+хз
 
-0.354 =
-Kilometres
-per
-litre (kr)
-0.425 = Kilometres
-per litre (kvl)
+0,354 =
+Километры
+за
+литр (кр)
+0,425 = километры
+за литр (квл)
 
-= (Cx 1.8) + 32
+= (Сх 1,8) + 32
 
-X
-X
+Х
+Х
 
-Wo in; fb in)
+Воин; ФБ в)
 
-= Pounds-force feet (ibf ft; tb ft)
+= Фунты-силы-футы (ibf фут; tb фут)
 
-Degrees Celsius (Degrees Centigrade;
-°C)
+Градусы Цельсия (Градусы Цельсия;
+°С)
 
-to convert from miles per gallon (mpg) to litres/100 kilometres {W100km),
-ace tog timporial «1100 kon = 282 and pp 10S) x 1100 bm = 296
-‘ei common
+конвертировать мили на галлон (mpg) в литры на 100 километров {W100km),
+ace tog timporial «1100 кон = 282 и пп 10S) x 1100 bm = 296
+'эй, обычное дело
 
-= (°F - 32) x 0.56
-
-
+= (°F - 32) х 0,56

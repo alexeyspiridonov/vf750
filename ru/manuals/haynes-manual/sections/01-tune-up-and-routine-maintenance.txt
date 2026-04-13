@@ -1,210 +1,210 @@
-Chapter 1
-Tune-up and routine maintenance
-Contents.
+Глава 1
+Настройка и текущее обслуживание
+Содержание.
 
-Section
-Air fiter element - cleaning and replacement
+Раздел
+Элемент воздушного фильтра – очистка и замена
 
-Bi
+Би
 
-eck
+ок
 
-Brake padsfinings - wear check
+Тормозные колодки - проверка износа
 
-Brake system - checks.
-Carburetor
-= check and
-Clutch - checks and bleeding
-Cooling system
-check
-Cooling system- draining, fushing and refiling
+Тормозная система – проверки.
+Карбюратор
+= проверить и
+Сцепление – проверки и прокачка
+Система охлаждения
+проверить
+Система охлаждения – слив, промывка и заправка.
 
-Section
+Раздел
 
 12
 
-Final drive unt
+Конечная передача
 
-ail change.
+все перемены.
 
 14
 
 5
 
-Fuel system- checks and fiter replacement.
+Топливная система- проверка и замена фитинга.
 
 26
 
 4
 
-Fluid levels - check
+Уровни жидкости – проверьте
 
 3
 
-6 —_ Idle speed- check and adjustment
+6 —_ Холостой ход – проверка и регулировка.
 18
-totune-up and routine
+настройка и рутина
 
 7
 2
 
 9
 
-Lubrication - general
+Смазка – общая
 
 15
 
 19
 
-Routine maintenance intervals.
+Регулярные интервалы технического обслуживания.
 
-it
+это
 
-Crankcase breather - check.
+Сапун картера - проверьте.
 
 20
 21
 
-Spark plugs - check and replacement.
-Stands- check
+Свечи зажигания – проверка и замена.
+Стенды-проверьте
 
 4
 28
 
-‘Cylinder compression - check
+«Компрессия в цилиндрах – проверка».
 
 43.
 
-Steering head bearings - check and adjustment.
+Подшипники рулевой колонки – проверка и регулировка.
 
 24
 7
 
-Engine oitfiter - change
-Evaporative
+Ойтфитер двигателя - замена
+испарительный
 
 10
 
-Suspension - check.
+Подвеска - проверьте.
 
 22
 
-Throttle and choke operation/grip freeplay
-- check
+Работа дроссельной заслонки и воздушной заслонки/свободный ход рукоятки
+- проверить
 
 23
 25
 
-and adjustment.
-Valve clearances- check and adjustment
+и регулировка.
+Зазоры клапанов – проверка и регулировка
 
-emission control system and Secondary air
+система контроля выбросов и вторичный воздух
 
-‘supply system (California models only)- check.
-Exhaust system - check.
+«Система питания (только модели для Калифорнии) – проверьте.
+Выхлопная система – проверка.
 
-Fasteners - check,
+Крепления - проверьте,
 
-Tites/wheels- general check
+Титы/колеса – общая проверка
 
-Specifications
+Технические характеристики
 
-Engine
+Двигатель
 
-Spark plug type
+Тип свечи зажигания
 
-NGK DPR8EA-9 or ND X24EPR-U9
+NGK DPR8EA-9 или ND X24EPR-U9
 
-Standard.
+Стандарт.
 
-Below 41°F (5°C).
+Ниже 41°F (5°C).
 
-NGK DPR7EA-9 of ND X22EPR-U9
+НГК ДПР7ЕА-9 НД Х22ЭПР-У9
 
-Extended high speeds.
+Расширенные высокие скорости.
 
-NGK DPR9EA-9 of ND X27EPR-U9
+НГК ДПР9ЕА-9 НД Х27ЭПР-У9
 08
-to.0.9
-mm
-(0.031 to 0.035
-in)
+до.0,9
+мм
+(от 0,031 до 0,035
+в)
 
-‘Spark plug electrode gap
+«Зазор между электродами свечи зажигания»
 
-Valve clearances (COLD engine)
-1982 through 1984 700/750 Magnas and all
-700/750 Sabre models.
+Зазоры клапанов (ХОЛОДНЫЙ двигатель)
+1982–1984 гг. 700/750 Magnas и все такое.
+Модели 700/750 Sabre.
 
-0.12
-mm
-(0.0047 in)
+0,12
+мм
+(0,0047 дюйма)
 
-41985 700 Magna models.
+41985 Модели 700 Magna.
 
-0.13 mm (0.0051 in)
+0,13 мм (0,0051 дюйма)
 
-41986-on 700/750 and all 1100 models.
+41986 — на 700/750 и всех моделях 1100.
 
-0.15 mm
-(0.0059 in)
+0,15 мм
+(0,0059 дюйма)
 
-Engine idle speed
+Скорость холостого хода двигателя
 
-750 Sabre and 1982 through 1984 700/750 Magna models
-700 Sabre and 1985-on 700/750 Magna models.
-1100 Sabre models,
+Модели 750 Sabre и модели 700/750 Magna 1982–1984 годов.
+700 Sabre и 1985 г. - на моделях 700/750 Magna.
+1100 моделей Sabre,
 
 100
-to
+чтобы
 1100 0
-rpm
+об/мин
 
 1000
 +
-100 rpm
+100 об/мин
 
-1100 Magna models.
+1100 моделей Магна.
 
 41000
 +
-100 rpm.
+100 об/мин.
 
 1200
 +
-100 rpm
+100 об/мин
 
-184 +28 psi (psi)
-‘Cylinder compression pressures,
-Carburetor synchronization (maximum vacuum difference between any two cylinders
-1985 through 1988 700/750 Magna models.
+184 +28 фунтов на квадратный дюйм (фунты на квадратный дюйм)
+«Давление сжатия в цилиндрах,
+Синхронизация карбюратора (максимальная разница вакуума между любыми двумя цилиндрами
+Модели 700/750 Magna с 1985 по 1988 год.
 
-All other models
-Cylinder identifica
-Miscellaneous
+Все остальные модели
+Идентификация цилиндра
+Разное
 
-Battery
+Батарея
 
-specific gravity
+удельный вес
 
-40 mm (1.6 in) Ho
+40 мм (1,6 дюйма) Хо
 
-80 mm (24 in) Ho
-See
-4.4 in Chepter2
-1.280 at 68°F (20°C)
+80 мм (24 дюйма) Хо
+См.
+4.4 в главе 2
+1,280 при 68°F (20°C)
 
-Brake pad minimum thickness
+Минимальная толщина тормозной колодки
 
-See text
+Посмотреть текст
 
-Brake pedal treeplay (700/750 models).
+Свободный ход педали тормоза (модели 700/750).
 
-2010 30 mm (0.8 to 1.2in)
+2010 г. 30 мм (от 0,8 до 1,2 дюйма)
 
-Throttle grip freeplay.....
+Свободный ход ручки газа.....
 
-2 to 6 mm (0.08 to 0.24 in)
+От 2 до 6 мм (от 0,08 до 0,24 дюйма)
 
 5)
 
@@ -213,105 +213,103 @@ Throttle grip freeplay.....
 
 1-2
 
-Chapter1 Tune-up and routine maintenance
+Глава 1. Настройка и текущее обслуживание.
 
-Front
-110/90-18 61H
-1090-18 61H
-1090-18 61H
+Фронт
+110/90-18 61Н
+1090-18 61Ч
+1090-18 61Ч
 
-Tire sizes
-700/750 Sabre models.
-1982 through 1984 700/750 Magna models.
-1985 and 1986 700 Magna models.
+Размеры шин
+Модели 700/750 Sabre.
+Модели 700/750 Magna с 1982 по 1984 год.
+Модели 700 Magna 1985 и 1986 годов.
 
 :
 
-1987 and 1960 700/760 agra
-models.
+1987 и 1960 годы 700/760 агра
+модели.
 
-100/90-19 57H
+100/90-19 57Х
 
-1100 Sabre models.
+1100 моделей Sabre.
 
-M110/90-18
+М110/90-18
 
-150/80-15 70H
+150/80-15 70ч
 
-1.5mm (0.06 in)
+1,5 мм (0,06 дюйма)
 
-2.0 mm (0.08
-in)
-
-32psi
-
-36 psi
-
-32 psi
+2,0 мм (0,08
+в)
 
 32psi
 
-32 psi
+36 фунтов на квадратный дюйм
+
+32 фунта на квадратный дюйм
+
+32psi
+
+32 фунта на квадратный дюйм
 32psi
 
 32psi
 42psi
 
-M130/00-17
+М130/00-17
 
-M110790-18
+М110790-18
 
-1100 Magna models.
-Minimum tire tread depth*..
-Tire pressures (cold)
+1100 моделей Магна.
+Минимальная глубина протектора шины*..
+Давление в шинах (холодных)
 
-1100 Sabres.
+1100 сабель.
 
-Up to 90 kg (200 Ib) load
+Нагрузка до 90 кг (200 фунтов)
 
-Over 90 kg (200 Ib) load...
-700/750 Sabres, 1982 through 1984 700/750|Magnes, 01100 Magnes
+Нагрузка более 90 кг (200 фунтов)...
+700/750 Sabre, 1982–1984 гг. 700/750 | Магнес, 01100 Магнес
 
-Up to 90 kg (200 Ib) load
+Нагрузка до 90 кг (200 фунтов)
 
 32psi
 
 *
 
-‘Over 90 kg (200 Ib) load,
+«Нагрузка более 90 кг (200 фунтов),
 
-M140/90-16
+М140/90-16
 
-40psi
+40 фунтов на квадратный дюйм
 
 32psi
 
-‘Over 90 kg (200 Ib) load.
+«Нагрузка более 90 кг (200 фунтов).
 
-1985 through 1988 700/750 Magnas
+1985 по 1988 год 700/750 Магнас
 
-Up to 90 kg (200 Ib) load
+Нагрузка до 90 кг (200 фунтов)
 
-Rear
-130/90-17 68H
-130190-16 67H
-140/90-15 70H
+Задний
+130/90-17 68Н
+130190-16 67Н
+140/90-15 70Ч
 
-40psi
+40 фунтов на квадратный дюйм«В Великобритании глубина протектора должна составлять не менее 1 мм на 3/4 ширины протектора по всей длине протектора, без проплешин.
 
-‘In the UK, tread depth must be at least 1 mm over 3/4 of the tread breadth all the way around the tre, with no bald patches.
+Настройка крутящего момента
+Пробка сливного отверстия масляного поддона двигателя,
 
-Torque setting
-Engine oil pan drain plug,
+Сливная пробка переднего цилиндра.
+mer (используя Следовательно toc
 
-Front cylinder ol drain plug.
-mer (using Hence toc
+«Свечи зажигания...
 
-‘Spark plugs...
+Нм
 
-Nm
-
-‘ftibs
+'фтибс
 
 10t0 14
 
@@ -319,4224 +317,4190 @@ Nm
 
 121016
 
-9t0 12
+9т0 12
 
 35040,
 
-25t0 29,
+25т0 29,
 
 15t020
 
-11to14
+с 11 до 14
 
-Recommended lubricants and fluids
-Enginefransmission oil
+Рекомендуемые смазочные материалы и жидкости
+Трансмиссионное масло двигателя
 
-Type.
+Тип.
 
-Viscosity,
+Вязкость,
 
-Capacity (700/750 models)
-‘After draining
-Ater engine rebuild
-Capacity (1100 models)
-‘After draining
-‘After engine rebuild
-dive unit
+Емкость (модели 700/750)
+«После слива
+Атер ремонт двигателя
+Вместимость (1100 моделей)
+«После слива
+«После ремонта двигателя
+водолазное подразделение
 
-1982 and 1983 750 models (above
+Модели 750 1982 и 1983 годов (см. выше)
 41°F/5°C).
-1982 and 1983 750 models (below 41°F/5°C).
-‘All other models.
-Capacty*
-77082 and 1983 750 models...
-1984-on 700/750 models and all 1100 models.
+Модели 750 1982 и 1983 годов (ниже 41°F/5°C).
+«Все остальные модели.
+Емкость*
+Модели 77082 и 750 1983 года...
+1984 г. — на моделях 700/750 и всех моделях 1100.
 
-“Refi quant is greater # the final drive has been dismantled
+«Квант рефи больше # главная передача демонтирована
 
-API grade SE or SF
+Класс API SE или SF
 ‘SAE1OW/40
-2.91
+2,91
 (3.1
-US qt, 5.1 Imp pts)
-3.0 lt (3.2 US qt, 5.3 Imp pts)
+Кварты США, 5,1 имп. пункта)
+3,0 л (3,2 кварты США, 5,3 имп. балла)
 
-3.0 it (3.2 US qt, 53 Imp pts)
-3.5 lit (3.7 US qt, 6.2 imp pts)
+3,0 ит (3,2 кварты США, 53 имп. пункта)
+3,5 литра (3,7 кварты США, 6,2 имп.)
 
-110 ce (3.7 US floz, 3.9 Imp fi oz)
-130 cc (4.4 Usfl az, 4.6 Imp fl.oz)
+110 унций (3,7 жидких унций США, 3,9 ил. унций)
+130 куб.см (4,4 Usfl az, 4,6 Imp fl.oz)
 
-50% distilled water, 50% corrosion inhibited ethylene glycol antifreeze
-Radiator capacity
+50 % дистиллированная вода, 50 % антифриз на основе этиленгликоля с ингибиторами коррозии.
+Мощность радиатора
 
-2.4 lt (2.5 US a, 4.2 Imp pt)
+2,4 л (2,5 США в год, 4,2 имп.)
 
-Reservoir tank capacity (oop)
-1100 Sabre model.
+Емкость резервуара (уп)
+Модель 1100 Сабля.
 
-‘Al other models.
+«Все другие модели.
 
-Brake and clutch fluid...
+Жидкость тормозная и сцепление....
 
-Miscellaneous
+Разное
 
-2.81 (29 US qf, 49 Imp pl
-‘3.0 it (3.2 US qt, 5.3 Imp pt)
+2,81 (29 США четвертьфинал, 49 Имп пл
+'3,0 шиллингов (3,2 кварты США, 5,3 имп. пункта)
 
-06 it (0.6 US at, 1.0 Imp ph)
+06 it (0,6 США при, 1,0 имп/ч)
 
-0.4 lit (0.4 US qt, 0.7 Imp pt)
+0,4 литра (0,4 кварты США, 0,7 имп.)
 
-DOTS or 4 (see reservoir
-cap)
+DOTS или 4 (см. резервуар
+кепка)
 
-Wheel bearings...
+Колесные подшипники...
 
-Medium weight,
+Средний вес,
 
-‘Swingarm pivet bearings.
+«Подшипники маятника.
 
-Molybdenum disulfide grease
+Смазка с дисульфидом молибдена
 
-Final drive flange grease.
+Смазка для фланцев главной передачи.
 
-‘See Chapter 6
+«Смотрите главу 6
 
-multi-purpose grease
+универсальная смазка
 
-‘Suspension linkage bearings (Sabre)
+‘Подшипники рычагов подвески (Sabre)
 
-Molybdenum disulfide grease
+Смазка с дисульфидом молибдена
 
-Cables and lever pivots,
+Тросы и шарниры рычагов,
 
-Chain and cable lubricant or 10W40 motor oll
+Смазка для цепей и тросов или моторное масло 10W40.
 
-‘Stand pivots..
+«Повороты стоек..
 
-Broke pedal/shtt leverpivots.
+Сломалась педаль/дерьмовые рычаги.
 
-Throttle grip...
+Дроссельная ручка...
 
 .
 
-‘multi-purpose grease
+«универсальная смазка»
 
-Chain and cable lubricant or 10W40 motor
-oll
+Смазка для цепей и тросов или мотор 10W40
+все
 
-‘grease or dry film lubricant
+консистентная смазка или сухая пленочная смазка
 
-Chapter 41_Tune-up and routine maintenance
+Глава 41_Настройка и текущее обслуживание
 
 13
 
-Honda 700, 750 & 1100 V-Four
-Routine maintenance intervals
-Routine maintenance intervals
+Хонда 700, 750 и 1100 V-четыре
+Интервалы планового технического обслуживания
+Интервалы планового технического обслуживания
 
-Replace the spark plugs
+Замените свечи зажигания
 
-Note: The previde inspection outined in the owner's manual covers
-the checks and maintenance that should be carried out on a daily
-basis. Its condensed and included here to remind you of its
+Примечание. Предварительный осмотр, описанный в руководстве пользователя, охватывает
+проверки и техническое обслуживание, которые следует проводить ежедневно.
+основе. Он сокращен и включен сюда, чтобы напомнить вам о нем.
 
-Check the idle speed
+Проверьте скорость холостого хода
 
-‘maintenance interval (in addition tb the procedures Ksted). The intervals
+'Интервал технического обслуживания (в дополнение к процедурам Ksted). Интервалы
 
-Check the clutch fluid level
+Проверьте уровень жидкости сцепления
 
-importance.
+важность.
 
-Always
+Всегда
 
-perform
+выполнять
 
-the pre-ide inspection at every
+предварительный осмотр на каждом
 
-listed below are the shortest intervals recommended by the
-particular operation during the model years
-for each
-‘manufacturer
-‘covered in this manual. Your owner's manual may have different
-intervals
-fr
-you model
+Ниже перечислены самые короткие интервалы, рекомендованные
+особая эксплуатация в течение модельного года
+для каждого
+'производитель
+«описано в этом руководстве. В вашем руководстве пользователя могут быть другие
+интервалы
+фр.
+ты моделируешь
 
-Daily
-or before riding
-Check the engine oil level
+Ежедневно
+или перед поездкой
+Проверьте уровень моторного масла
 
-Check the fuel level and inspect for leaks
-Check the engine coolant level and look for leaks
+Проверьте уровень топлива и осмотрите его на предмет утечек.
+Проверьте уровень охлаждающей жидкости двигателя и найдите утечки.
 
-Check the operation of both brakes - also check the fluid
+Проверьте работу обоих тормозов, а также проверьте жидкость.
 
-levels and look for leakage Check the tires for
-damage, the presence of foreign objects
-and correct air pressure Check the throttle for smooth
-operation Check the operation of the clutch - make sure
-the freeplay
-is correct Make sure the steering operates
-smoothly, without
+уровни и проверьте наличие утечек. Проверьте шины на предмет
+повреждения, наличие посторонних предметов
+и правильное давление воздуха. Проверьте плавность работы дроссельной заслонки.
+работа Проверьте работу сцепления – убедитесь, что
+свободная игра
+правильно. Убедитесь, что рулевое управление работает.
+плавно, без
 
-looseness or binding Check for proper operation
+ослабление или заедание. Проверьте правильность работы.
 
-of the headlight, taillight,
+фары, задние фонари,стоп-сигнал, указатели поворота, указатели поворота, спидометр
 
-brake light, turn signals, indicator lights, speedometer
+и звуковой сигнал. Убедитесь, что боковая и основная подножки
 
-and horn Make sure the sidestand and main stand
+вернуться к своему полному состоянию
 
-return to their fully
+Вверх и оставайтесь там под давлением пружины.
 
-Up positions and stay there under spring pressure
+Убедитесь, что выключатель двигателя работает правильно.
 
-Make sure the engine stop switch works properly
+После первых 600 миль (1000 км)
+Замените моторное масло и старый фильтр
+Проверьте и отрегулируйте клапан
+зазоры Проверьте и отрегулируйте холостой ход.
+«скорость. Проверьте работу дроссельной заслонки».
+Проверьте синхронизацию карбюратора.
+Проверьте систему охлаждения Проверьте
 
-After the initial 600 miles (1000 km)
-Replace the engine oil and ol filter
-Check and adjust the valve
-clearances Check and adjust the idle
-‘speed Check the throttle operation
-Check the carburetor synchronization
-Check the cooling system Check the
+гидравлическая система тормозов Проверьте
 
-brake hydraulic system Check the
+Гидравлическая система сцепления Проверьте
 
-clutch hydraulic system Check the
+Затяжка всех креплений Проверьте
+подшипники рулевой колонки
 
-tightness of all fasteners Check the
-steering head bearings
+Каждые 4000 миль (6000 км)
+Очистите элемент(ы) воздушного фильтра (модели Sabre). Слейте воду.
+бачок сепаратора системы вентиляции картера (где
+применимо)
 
-Every 4000 miles (6000 km)
-Clean the air filter element(s) (Sabre models) Drain
-the crankcase breather separator tank (where
-applicable)
+Проверьте уровень и состояние электролита аккумулятора.
+«Проверьте уровень тормозной жидкости и износ колодок.
+Проверка износа накладок барабанного тормоза
 
-Check the battery electrolyte level and condition
-‘Check the brake fluid level and pad wear
-Check the drum brake lining wear
+Каждые 8000 миль (12 000 км)
+Замените моторное масло и фильтр
+«Проверь шланги топливной системы.
+Проверьте аккумулятор
 
-Every 8000 miles (12,000 km)
-Replace the engine oil and filter
-‘Check the fuel system hoses
-Check the battery
+Проверьте и отрегулируйте тросы дроссельной заслонки и воздушной заслонки.
 
-Check and adjust the throttle and choke cables
+Проверьте/отрегулируйте зазоры клапанов.
 
-Check/adjust the valve clearances
+Замените элемент воздухоочистителя (1982–1985 гг.).
+модели Магна)
 
-Replace the air cleaner element (1982 through 1985
-Magna models)
+Проверьте/отрегулируйте синхронизацию карбюратора. Проверьте.
+Система контроля выбросов в результате испарения (1982 г.)
 
-Check/adjust the carburetor synchronization Check
-the Evaporative emission control system (1982
+до моделей 1985 года) Проверьте вторичный воздух.
+система снабжения (с 1986 г. по
+модели 1988 года)
 
-through 1985 models) Check the Secondary air
-supply system (1986 through
-1988 models)
+«Проверьте уровень охлаждающей жидкости и проверьте систему охлаждения.
+Проверьте уровень масла в главной передаче. Смажьте главную ведущую передачу.
 
-‘Check the coolant level and check the cooling system
-Check the final drive oil level Lubricate the final driven
+фланец со свежей смазкой - 700/750
 
-flange with fresh grease - 700/750
+Sabre и 700/750 Magnas с 1982 по 1984 год (см.
 
-Sabres and 1982 through 1984 700/750 Magnas (see
+Глава 6)
 
-Chapter 6)
+Проверьте гидравлическую систему тормозов. Проверьте
 
-Check the brake hydraulic system Check the
+«Работа выключателей стоп-сигналов Проверьте
+8) Проверьте сцепление.
+корректировка фар (см. главу
+гидравлическая система Проверьте шарниры стойки. Проверьте
+работа подвески Проверьте рулевое управление
 
-‘operation of the brake light switches Check the
-8) Check the clutch
-headlight aim (see Chapter
-hydraulic system Check the stand pivots Check the
-operation of the suspension Check the steering
+люфт подшипников головки Проверьте состояние
+колеса и шины Проверьте затяжку всех гаек,
+боты и крепеж
 
-head bearings for play Check the condition of the
-wheels and tires Check the tightness of all nuts,
-bots and fasteners
-
-Every 12,000 miles (19,200 km)
-Replace the air filter element (1986 through 1988
-Magnas) Check the Evaporative emission control system
+Каждые 12 000 миль (19 200 км)
+Замените элемент воздушного фильтра (1986–1988 гг.).
+Магнас) Проверьте систему контроля выбросов в результате испарения.
 
 (1986
 
-through 1988 models) Replace the clutch and
+до моделей 1988 года) Замените сцепление и
 
-brake fluid (or every two years,
-whichever comes sooner)
+тормозная жидкость (или каждые два года,
+что наступит раньше)
 
-Every 24,000 miles (36.000 km)
-Replace the coolant
+Каждые 24 000 миль (36 000 км)
+Замените охлаждающую жидкость
 
-Replace the fuel filter (1982 through 1986 Magnas and
-1100 Sabres) Replace
+Замените топливный фильтр (Magnas и 1982–1986 гг.).
+1100 сабель) Заменить
 
-the final drive oil
+масло главной передачи
 
 1-4
 
-Chapter1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-il via the plug in the front of the right
+или через разъем спереди справа
 
-3.2 Rotate the wiper to clear the oil level inspection window
+3.2 Поверните дворник, чтобы очистить окошко контроля уровня масла.
 
-{1982750 models)
+{модели 1982750)
 2.
 
-exwine case
+футляр для вина
 
-Introduction
-to tune-up and routine maintenance
+Введение
+для настройки и текущего обслуживания
 
-This Chapter covers in detail the checks and procedures
-necessary for the tune-up and routine maintenance of your
-motorcycle. Section 1 includes the routine maintenance schedule,
-‘which is designed to keep the machine in proper running condition
+В этой главе подробно описаны проверки и процедуры.
+необходим для настройки и текущего обслуживания вашего
+мотоцикл. Раздел 1 включает график текущего технического обслуживания,
+'который предназначен для поддержания машины в надлежащем рабочем состоянии
 
-and prevent possible problems. The remaining Sections contain
-detailed procedures for carrying out the items listed on the
-maintenance schedule, as well as additional
-information designed to increase reliability.
+и предотвратить возможные проблемы. Остальные разделы содержат
+подробные процедуры выполнения пунктов, перечисленных на
+график технического обслуживания, а также дополнительные
+информация, предназначенная для повышения надежности.
 
-maintenance
+техническое обслуживание
 
-‘Since routine maintenance plays such an important role in the
-safe and efficient operation of your motorcycle, it is presented here
+«Поскольку регулярное техническое обслуживание играет такую важную роль в
+безопасная и эффективная эксплуатация вашего мотоцикла представлена здесь
 
 3
 
-Fluid levels - check
+Уровни жидкости – проверьте
 
-Engine oif
-Refer
-to
-illustrations 2.2,
+ОФ двигателя
+Обратитесь
+чтобы
+иллюстрации 2.2,3.3 и 3.7
 
-3.3 and 3.7
+1982 г. 750 моделей
+1 Проверьте уровень масла на холодном двигателе. Поставьте мотоцикл на
+его главная стойка на ровном месте,
+2 Найдите окошко для проверки моторного масла в нижней правой части
+двигатель. При необходимости используйте отвертку, чтобы повернуть стеклоочиститель в
+чтобы очистить смотровое окно (см. рисунок).
 
-1982 750 models
-1 Check the oil level with the engine cold. Place the motorcycle on
-its main stand on level ground,
-2 Locate the engine oil inspection window on the lower right side of
-the engine. If necessary, use a screwdriver to rotate the wiper in
-order to clean the inspection window (see illustration).
+в виде комплексного контрольного списка. Для гонщика, который делает все возможное
 
-as a comprehensive check list. For the rider who does all hisiher
+3 Обратите внимание, где
 
-3 Note where the
+«собственное техническое обслуживание, в этих списках описаны процедуры и проверки
 
-‘own maintenance, these lists outline the procedures and checks
+метки, расположенные по обе стороны смотрового окна. Уровень
+должно находиться между этими двумя отметками. Если уровень масла ниже отметки
+нижнюю отметку, снимите крышку заливной горловины и долейте достаточное количество масла из
+рекомендуемый сорт и тип для доведения уровня до верхнего
 
-marks located on either side of the inspection window. The level
-should be between these two marks. If the oil level is below the
-lower mark, remove the filler cap and add enough oil of the
-recommended grade and type to bring the level up to the upper
+это следует делать на регулярной основе.
+Информация по техническому обслуживанию напечатана на наклейках, прикрепленных к
+мотоцикл. Если информация на наклейках отличается от указанной
+включены здесь, используйте информацию на наклейке.
 
-that should be done on a routine basis.
-Maintenance information is printed on decals attached to the
-motorcycle. If the information on the decals differs from that
-included here, use the information on the decal.
+Решение о том, с чего начать или подключиться к плановому техническому обслуживанию
+график зависит от нескольких факторов. Если у вас есть мотоцикл
+чья гарантия недавно истекла и сохраняется ли она
+в соответствии со стандартами гарантии, вы можете забрать
+плановое техническое обслуживание, приуроченное к следующему пробегу или
+календарный интервал. Если вы владеете машиной какое-то время
+но никогда не проводили с ним никакого обслуживания, то вы можете
+хотите начать с ближайшего интервала и включить некоторые дополнительные
+процедуры, гарантирующие, что ничего важного не будет упущено из виду. Если ты
+только что прошел капитальный ремонт двигателя, тогда вы можете начать
+регламент технического обслуживания с самого начала. Если у вас есть подержанный
 
-Deciding where to start or plug into the routine maintenance
-schedule depends on several factors. If you have a motorcycle
-whose warranty has recently expired, and ifit has been maintained
-according to the warranty standards, you may want to pick up
-routine maintenance as it coincides with the next mileage or
-calendar interval. If you have owned the machine for some time
-but have never performed any maintenance on it, then you may
-want to start at the nearest interval and include some additional
-procedures to ensure that nothing importart is overlooked. If you
-have just had a major engine overhaul, then you may want to start
-the maintenance routine from the beginning. If you have a used
+уровень масла относительно верхнего и нижнего уровня
 
-oil level is in relation to the upper and lower level
+отметку (см. рисунок). Не переполняйте. Установите крышку фильтра на место.
+4 Запустите двигатель и убедитесь, что контрольная лампа давления масла
+гаснет через несколько секунд
 
-mark (see illustration). Do not overfill. Re-install the filer cap.
-4 Run the engine and check that the oil pressure warning light
-goes out after a few seconds
+Все остальные модели
+5 Дайте двигателю поработать 2–3 минуты, затем заглушите его. Внимание: Не
+запускайте двигатель в закрытом помещении, например в гараже или магазине. Место
+мотоцикл на основной подставке (попросите помощника держать его вертикально)
+'на моделях 700/750 Magna 1987 и 1988 годов) на ровной поверхности.
 
-All other models
-5 Run the engine for 2 to 3 minutes, then stop it. Caution: Do not
-run the engine in an enclosed space such as @ garage or shop. Place
-the motorcycle on its main stand (have an assistant hold it vertical
-‘on 1987 and 1988 700/750 Magna models) on level ground.
+6 Извлеките щуп уровня масла из задней части
 
-6 Remove the oil level dipstick from the rear of the
+двигатель прав
 
-engine right
+крышку и протрите ее конец. Снова вставьте щуп, но не завинчивайте.
+вставьте его, затем снимите и проверьте уровень масла.
 
-cover and wipe its end clean. Re-insert the dipstick, but don't screw
-it in, then remove it and check the oil level.
+машина и не имеют знаний о ее истории или обслуживании
 
-machine and have no knowledge of its history or maintenance
+7 Обратите внимание, где находится уровень масла по отношению к верхнему и нижнему уровню.
 
-7 Note where the oil level is in relation to the upper and lower level
+записи, вы можете захотеть объединить все проверки в одну большую
+первоначальное обслуживание, а затем внесение в график технического обслуживания
 
-record, you may desire to combine all the checks into one large
-service initially and then settle into the maintenance schedule
+отметки на щупе. Уровень должен быть между этими двумя
+отметки. Если уровень масла ниже нижней отметки, снимите крышку заливной горловины.
+и добавьте достаточно масла рекомендованного сорта и типа, чтобы обеспечить
+уровень до верхней отметки (см.
+иллюстрация). Не переполняйте.
+Установите крышку фильтра на место.
+8 Некоторые более поздние модели 700/750 сохраняют окошко для проверки уровня масла.
+(см. шаг 2), хотя рекомендуется использовать щуп.
 
-marks on the dipstick. The level should be between these two
-marks. Ifthe oil level is below the lower mark, remove the filler cap
-and add enough oil of the recommended grade and type to bring
-the level up to the upper mark (see
-illustration). Do not overfill.
-Re-install the filer cap.
-8 Some later 700/750 models retain the oil level inspection window
-(see Step 2), although the dipstick method is recommended.
+предписано.
 
-prescribed.
+Разделы, описывающие проверку и техническое обслуживание.
 
-The Sections which outline the inspection and maintenance
+процедуры написаны как пошаговые подробные руководства по
+выполнение работы. Они подробно объясняют каждый изплановые проверки и процедуры технического обслуживания в контрольном списке
 
-procedures are written as step-by-step comprehensive guides to
-the performance of the work. They explain in detail each of the
-routine inspections and maintenance procedures on the check list
+Ссылки на дополнительную информацию в соответствующих главах также указаны.
+включено и не должно быть упущено из виду.
+Прежде чем приступить к любому техническому обслуживанию или ремонту, машина
+следует тщательно очистить, особенно вокруг масляного фильтра, искры.
+свечи, крышки ГБЦ, боковые крышки, карбюраторы и т. д.
+Чистка поможет гарантировать, что грязь не загрязнит двигатель.
+«и позволит вам обнаружить износ и повреждения, которые в противном случае могли бы
 
-References to additional information in applicable Chapters is also
-included and should not be overlooked.
-Before beginning any maintenance or repair, the machine
-should be cleaned thoroughly, especially around the oil filter, spark
-plugs, cylinder head covers, side covers, carburetors, etc.
-Cleaning will help ensure that dirt does not contaminate the engine
-‘and will allow you to detect wear and damage that could otherwise
+легко остаться незамеченным.
 
-easily go unnoticed.
+$ Запустите двигатель и убедитесь, что контрольная лампа давления масла
+гаснет через несколько секунд
 
-$ Run the engine and check that the oil pressure warning light
-goes out after a few seconds
-
-Brake fluid
-Refer o ilustraton
+Тормозная жидкость
+См. иллюстрацию
 
 10
 
 3.12
 
-In order to ensure proper operation of the hydraulic disc
+Для обеспечения правильной работы гидравлического диска
 
-brakes,
+тормоза,
 
-Chapter 1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-3.12 Brakelcutch fluid level must be above LOWER mark on
+3.12 Уровень тормозной жидкости должен быть выше НИЖНЕЙ отметки на
 
-37 Olt level should le between dipstick marks
+37 Уровень масла должен находиться между отметками щупа.
 
-muster eyinder
+собрать глаз
 
-all except 1882 750 models)
+все, кроме моделей 1882 750)
 
-the fui level in the master cylinder reservoir's) must be properly
-maintained.
+уровень топлива в бачке главного цилиндра) должен быть надлежащим.
+поддерживается.
 
-21 The procedure for checking the
+21 Порядок проверки
 
-11 With the motorcycle on the main stand (or held upright), turn
-the handlebars until the top of the mas
-der
-Is as level as
+11 Поставив мотоцикл на основную подставку (или удерживая его вертикально), поверните
+руль до верха маса
+дер
+Уровень такой же, как
 
-possble. ifnecessary tt he motorcycle to make it
+возможно. если понадобится, мотоцикл, чтобы сделать это
 
-level
+уровень
 
-12 Look closely at the inspection window in the master cylinder
+12 Посмотрите внимательно на смотровое окошко в главном цилиндре.
 
-reservoir. Make sure that the fuid level, sible in the sightolass, is
-above the LOWER mark on the reservoir (see illustration}.
-13 If the level is low, the fluid must be replenished. Before
-removing the master cylinder cover. cover the fuel tank to protect it
-‘fom brake fuid spills (which wil damage the paint) and remove all
-dust and dit from the area around the cap.
+резервуар. Убедитесь, что уровень жидкости, видимый в смотровом стекле, соответствует
+выше НИЖНЕЙ отметки на бачке (см. рисунок).
+13 Если уровень низкий, жидкость необходимо долить. До
+снятие крышки главного цилиндра. закройте топливный бак, чтобы защитить его
+от разливов тормозной жидкости (которые повредят краску) и удалите все
+пыль и грязь вокруг крышки.
 
-‘V4 Unscrew the retaining screws and lif off the cover, daphragm
+‘V4 Отвинтите крепежные винты и снимите крышку, диафрагму.
 
-plate (where fitted) diaphragm and float (1988 750 Magna model).
+пластина (если имеется), диафрагма и поплавок (модель 750 Magna 1988 года).
 
-Using a good quality brake fluid of the recommended type. from 2
-ffeshiy opened container, top up the reservor to the upper level
-mark; this mark is in the form of a line, cast on the inside of the
-front face of he reservoir.
-415 When the fuid level is correct, cle
-Into is
+Использование тормозной жидкости хорошего качества рекомендованного типа. от 2
+ффеший открытый контейнер, долейте резервуар до верхнего уровня
+отметка; этот знак имеет форму линии, нанесенной на внутренней стороне
+передняя часть резервуара.
+415 Если уровень жидкости правильный, cle
+В это
 
-(Clutch fluid
-clutch fluid is identical to the
+(Жидкость сцепления
+жидкость сцепления идентична
 
-{Font brake fuid checking procedure above.
+{Процедура проверки тормозной жидкости шрифта описана выше.
 
-Front brake
+Передний тормоз
 
-fold
+сложить
 
 15
 
-and «ty the diaphragm,
+и «зажми диафрагму,
 
-compressed state
+сжатое состояние
 
-and instal
+и установить
 
-tin the reservoir
+оловянный резервуар
 
-followed by the diaphragm plate,
+за которым следует диафрагменная пластина,
 
-Install the
+Установите
 
-reservoir cover and
+крышка резервуара и
 
-securely tighten its retaining
+надежно затяните его фиксацию
 
-screws.
+винты.
 
-Coolant level
-Referto itustration 323
+Уровень охлаждающей жидкости
+См. иллюстрацию 323.
 
-22 Remove the left side cover on 700/750 Sabres, or the right side
-‘over on all other models.
+22 Снимите левую боковую крышку на моделях 700/750 Sabre или правую боковую крышку.
+«Конечно, на всех других моделях».
 
-23 Start the engine and allow it to idle until t reaches normal
+23 Запустите двигатель и дайте ему поработать на холостом ходу, пока t не достигнет нормального значения.
 
-‘operating temperature. With the engine thoroughly warmed up. the
+'рабочая температура. При полностью прогретом двигателе. тот
 
-coolant level in the reservoir should be between the Upper and
-Lower marks on the side ofthe reservoir (see illustration}.
-24 If the coolant is below the Lower mark, remove the cap from the
-reservoir tank and add coolant of the specified type (see Specifcalions) to bring the level to the Upper mark. Note: Be careful
-not
-1 spill coolant on any painted surfaces, as damage
-to the paint
-could
+Уровень охлаждающей жидкости в бачке должен находиться между Верхним и
+Нижние метки на боковой стороне резервуара (см. рисунок).
+24 Если уровень охлаждающей жидкости ниже нижней отметки, снимите крышку с
+бачок и долейте охлаждающую жидкость указанного типа (см. Технические характеристики), чтобы довести уровень до верхней отметки. Примечание: Будьте осторожны
+нет
+1 пролить охлаждающую жидкость на любые окрашенные поверхности, так как повреждение
+к краске
+мог бы
 
-25 , ers eros cap andes
-cover
-26 Ifthe coolant is significantly above th
-Tevel mark a any
-ime. ne surplus coolant shoud be siphoned ef to prevent
-om
-being
+25, Эрос-Кап-Анды
+обложка
+26 Если уровень охлаждающей жидкости значительно выше
+Тевел марка любая
+время. Избыток охлаждающей жидкости следует откачивать, чтобы предотвратить
+ом
+будучи
 
-expelled ouf
+исключен из
 
-of the
+издыхательный шланг
 
-breather hose
+когда
 
-when
+тот
 
-the
-
-engne
+двигатель
 
 27
 
-Ifthe coolant
-level
-falls
-steadily.
-check
-the
-system for leaks as
+Если охлаждающая жидкость
+уровень
+падает
+стабильно.
+проверить
+тот
+система на предмет утечек, как
 
-Rear brake (1100 models)
-416 With the motorcycle on the main stand, remove the right side
-cover and check the flud level in the rear
-brake reservar. Make
-‘sure thal the fuid level, visible through the transiucent material of
+Задний тормоз (модели 1100)
+416 Поставив мотоцикл на основную подставку, снимите правую сторону.
+крышку и проверьте уровень жидкости в задней части
+тормозной резерв. Сделать
+«Конечно, уровень жидкости виден сквозь полупрозрачный материал
 
-the reservoir, is above the LOWER mark on the reservoir.
-17 If the level is low. the
-fuid must be replenished.
-Remove any
-dust and dif from the area around the cap.
+резервуар находится выше НИЖНЕЙ отметки на резервуаре.
+17 Если уровень низкий. тот
+жидкость необходимо пополнять.
+Удалите все
+пыль и пыль в области вокруг крышки.
 
-Unscrew
-the reservoir
+Отвинтить
+водохранилище
 
-ap and remove the diaphr
-‘and diaphragm. Using
-a good
-{ually brake fuid ofthe recommended type, from a
-freshly opened
-Container, op up the reservor to the UPPER level mark.
-418 When the fluid level Is correct,
+ap и сними диафрагму
+'и диафрагма. Использование
+хороший
+{обычно тормозная жидкость рекомендованного типа из
+только что открытый
+Контейнер, откройте резервуар до отметки ВЕРХНЕГО уровня.
+418 Если уровень жидкости правильный,
 
-clean and dry the diaphragm,
+очистить и высушить диафрагму,
 
-fold i into its compressed state and install tin the reservoir
-followed by the diaphragm plate.
-install the reservor cap,
-tightening it securely, and install the right side cover.
+сложите его в сжатое состояние и установите в резервуар
+за ним следует диафрагменная пластина.
+установить крышку бачка,
+надежно затянув его, и установите правую боковую крышку.
 
-Both brakes
-19 Check the operation of both brakes before riding the
-motorcycle: f there is evidence of air in the system, i must be bled
-as described in Chapter 7
-20 Ifthe brake uid level was low, inspect the brake system for
-leaks.
+Оба тормоза
+19 Перед поездкой проверьте работу обоих тормозов.
+Мотоцикл: если в системе есть воздух, мне нужно прокачать воздух
+как описано в главе 7
+20 Если уровень тормозной жидкости низкий, проверьте тормозную систему на предмет
+утечки.
 
-is
+есть
 
-running.
+бег.
 
-‘3.23 Coolant level should le between UPPER and LOWER ines.
-‘on reservoir tank
+«3.23 Уровень охлаждающей жидкости должен находиться между ВЕРХНЕЙ и НИЖНЕЙ отметками.
+'на резервуаре-хранилище
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-3.29 Final drive unit oll filler cap (A) and drain bolt (B)
+3.29 Крышка заливной горловины узла главной передачи (А) и сливной болт (В)
 
-4,4 Battery electrolyte level should lle between level marks
-‘on casing
+4,4 Уровень электролита в аккумуляторе должен находиться между отметками.
+'на корпусе
 
-described in Section 19. If no leaks are found and the level still
-continues to fall, it is recommended that the machine be taken to @
-Honda
-service agent who will pressure test the system
+описано в разделе 19. Если утечек не обнаружено и уровень по-прежнему
+продолжает падать, рекомендуется доставить машину в @
+Хонда
+сервисный агент, который проведет испытание системы под давлением
 
-Final drive unit oif
-Reterto ilustraton 3.29
+Главная передача ОИФ
+Вернуться к иллюстрации 3.29
 
-28 If the motorcycle has just
-oil to settle before checking the level. Place the motorcycle on its
+28 Если мотоцикл только что
+масло должно отстояться перед проверкой уровня. Поставьте мотоцикл на
 
-main stand. Be sure itis on level ground.
-29 On 1982 and 1983 750 models, remove the oil filler cap (see
-illustration). Look into the aperture, using @ hand-held flashlight if
-and locate the step in the casting. Align t
-| to move the ring gear)- at this point the oil should be level
-with the top of the next tooth down on the ring gear. If the oil level
-is lower than this, add more oil ofthe correct type and grade, using
+основная стойка. Убедитесь, что он находится на ровной поверхности.
+29 На моделях 750 1982 и 1983 годов снимите крышку маслозаливной горловины (см.
+иллюстрация). Посмотрите в отверстие, используя @ ручной фонарик, если
+и найдите шаг в кастинге. Выровнять т
+| для перемещения зубчатого венца) - в этот момент масло должно быть на уровне
+вершиной следующего зуба вниз на коронной шестерне. Если уровень масла
+ниже этого значения, добавьте больше масла соответствующего типа и марки, используя
 
-a funnel, syringe or pump, to bring it to its proper level
+воронка, шприц или насос, чтобы довести его до нужного уровня
 
-filler
-hole. If the oil level is lower than this, add more oil of the correct,
+наполнитель
+дыра. Если уровень масла ниже указанного, добавьте еще масла нужного типа.
 
-46 Measuring electrolyte specific gravity with a hydrometer
+46 Измерение удельного веса электролита ареометром
 
-type
+тип
 
-and grade, using a funnel, syringe or pump, to bring it to its proper
+и отсортируйте его с помощью воронки, шприца или насоса, чтобы довести его до нужного состояния.
 
-level.
+уровень.
 31
 
 4
 
-Onall models, re-install
-the oil filer cap, tightening it secur
+На всех моделях переустановите
+крышку масляного фильтра, надежно затянув ее
 
-correctly (see Chapter 8).
+правильно (см. главу 8).
 
-Specific gravity check
+Проверка удельного веса
 
-Battery electrolyte
+Электролит аккумулятора
 
-Refer to
+Обратитесь к
 
-Caution: Take care when working with the battery thet you do not
-allow the electrolyte to contact your eyes, skin or clothing,
-Flush
+Внимание: Будьте осторожны при работе с аккумулятором, чтобы не
+допускайте попадание электролита в глаза, на кожу или одежду,
+Промывка
 
-plenty of water. Any contact with
+много воды. Любой контакт с
 
-as it
+как это
 
-any contected eree immediately with
-eyes requires promot medica
+любое спорное событие немедленно с
+глаза требуют продвижения медицины
 
-attention.
+внимание.
 
-Refer
-to itustraton 4.1
+Обратитесь
+к иллюстрации 4.1
 
-1 To check the level of the electrolyte in the battery, remove the
-right side cover (1982 through 1984 700/750 Magnas, all 700/750
-‘Sabres and all
-1100 Magnas) or left side cover (1100 Sabres). On
-1985 through 1988 700/750 Magnas, the battery must be lified out
-of its holder
-to check the level (see Chapter 8). The level should be
-between the Upper and Lower level marks printed on the outside
+1 Чтобы проверить уровень электролита в аккумуляторе, снимите
+правая боковая крышка (700/750 Magnas с 1982 по 1984 год, все 700/750
+«Сабли и все такое»
+1100 Магнас) или левая боковая крышка (1100 Сабр). Вкл.
+700/750 Magnas с 1985 по 1988 год, необходимо вынуть аккумулятор.
+его держателяto check the level (see Chapter 8). Уровень должен быть
+между отметками верхнего и нижнего уровня, напечатанными снаружи
 
-of the battery case (seeillustration}.
-2 If the electrolyte level is at or below the Lower mark, the battery
-must be removed in order to add more water (see Chapter 8).
-3 With the battery removed from the motorcycle, remove each cell
-cap and add enough distilled water to each cell to bring the level to
-the
+корпуса аккумулятора (см. рисунок}.
+2 Если уровень электролита находится на нижней отметке или ниже, аккумулятор
+необходимо снять, чтобы добавить больше воды (см. главу 8).
+3. Сняв аккумулятор с мотоцикла, извлеките каждую ячейку.
+закройте крышку и добавьте в каждую ячейку достаточное количество дистиллированной воды, чтобы довести уровень до
+тот
 
-Do not overfill. Also, do not use tap water, except in
+Не переполняйте. Также не используйте водопроводную воду, за исключением
 
-an emergency,
+чрезвычайная ситуация,
 as this will shorten the service
-life of the battery.
-The cell holes are quite small so it may help to use a plastic
-squeeze
+срок службы батареи.
+Отверстия для ячеек довольно маленькие, поэтому лучше использовать пластиковый
+сжимать
 bottle with a small spout to add the water.
-4 After filing install the battery and ensure its vent hose is routed
+4 После заправки установите аккумулятор и убедитесь, что его вентиляционный шланг проложен
 
-Battery - check
+Батарея - проверка
 
-contains sulphuric ect,
+содержит серную кислоту и т. д.,
 
-Upper mark.
+Верхняя отметка.
 
-illustration 4.6
+иллюстрация 4.6
 
 5 Remove the battery (see
 
-Chapter 8). Check the specific gravity of
+Глава 8). Проверьте удельный вес
 
-the
-electrolyte in each
-cell
+тот
+электролит в каждом
+клетка
 using a small hydrometer made
-especially for motorcycle batteries. These are available from most
-dealer parts departments.
+особенно для мотоциклетных аккумуляторов. Они доступны в большинстве
+дилерские отделы запчастей.
 6 Remove the caps, draw some
 
 electrolyte from the first cell into the
 
-hydrometer and note the specific gravty (see illustration). Compare
-the reading to the Specifications listed in this Chapter. Note: Add 0.004
+ареометра и отметьте удельный вес (см. рисунок). Сравнить
+чтение в соответствии со спецификациями, перечисленными в этой главе. Примечание: добавьте 0,004.
 
-points to the reeding for every 10°F above 68°F (20°C)-subtract 0.004
-points trom the reading for avery 10°F below 68°F (20°F), Return the
-‘electrolyte fo the
-cell
+указывает на ридинг на каждые 10°F выше 68°F (20°C) — вычитаем 0,004
+точки от показания в среднем на 10°F ниже 68°F (20°F).
+«электролит для
+клетка
 
-and repeat
+и повтори
 
-the check is complete,
+проверка завершена,
 
 the check for the remaining cells When
 
 rinse the hyarometer thoroughly with clsen water
 
-7 If the specific gravity of the electrolyte in each celll is as specified,
-the battery is in good condition and is apparently being charged by
-the motorcycle's charging system.
+7 Если удельный вес электролита в каждой ячейке соответствует указанному,
+аккумулятор в хорошем состоянии и, судя по всему, заряжается от
+система зарядки мотоцикла.
 
-Chapter 1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
 1-7
 
-52 Brake pad wear cutout (upper arrow) and wear grooves
+52 Вырез для износа тормозных колодок (стрелка вверху) и канавки для износа
 
-6.1 Brake pad wear can be checked through inspection window
-in
+6.1 Износ тормозных колодок можно проверить через смотровое окошко.
+в
 
-(lower arrow)
+(нижняя стрелка)
 
-caliper body (arrow)
+корпус суппорта (стрелка)
 
-(see illustration).
+(см. иллюстрацию).
 
-2 As a futher check. view the pads from the caliper mouth, I the
-friction material has worn down level with the base of the grooves
-‘or slots in the pad, the need for replacement is indicated (see
+2 В качестве дополнительной проверки. осмотрите колодки из устья суппорта, я
+фрикционный материал изношен на уровне основания канавок
+'или гнезда в колодке, указывается необходимость замены (см.
 
-illustration).
+иллюстрация).
 
-Refer
+Обратитесь
 
-to
+чтобы
 
-Chapter
+Глава
 
 7
 
-for
+для
 
-the
+тот
 
-pad
+подушечка
 
-replacement
+замена
 
-procedure. However. t is recommended that the pads be removed
-ol) more dae apecton
-ns 2 and 15 of Chapter 7.
-STi
+процедура. Однако. колодки рекомендуется снять
+ол) больше даэ апектона
+нс 2 и 15 главы 7.
+СТи
 
-cared ci ex Senecio
+заботился о бывшем Сенесио
 
-kmposublefo-check tno amount of pad material remaining
+kmposublefo-проверьте количество оставшегося материала колодки
 
-due to a buld-up of road dirt, remove the pads for thorough
+из-за скопления дорожной грязи снимите колодки для тщательного
 inspection and cleaning (see Chapter
 7).
 
-Drum brake linings (700/750 models)
-4 The drum brake shoes are checked by applying the brake fully
-and checking to see whether the wear indicator pointer on the
-brake lever aligns with the index mark on the brake panel (see
+Накладки барабанных тормозов (модели 700/750)
+4 Колодки барабанных тормозов проверяются при полном нажатии на тормоз.
+и проверьте, совпал ли указатель индикатора износа на
+Рычаг тормоза совместится с отметкой на панели тормоза (см.
 
-6.4 Drum brake linings are wom when indicator pointer and index
-‘mark align
+6.4 Накладки барабанного тормоза изнашиваются, когда указатель и указатель индикатора
+'отметить выравнивание
 
-8 If the specific gravty is low, the battery is not fully charged. This
-may be due to corroded battery terminals, a dirty battery case, a
-malfunctioning
+8 Если удельный вес низкий, аккумулятор заряжен не полностью. Это
+Причиной может быть коррозия клемм аккумулятора, загрязнение корпуса аккумулятора,
+неисправный
 
-charging
+зарядка
 
-system,
+система,
 
-or
+или
 
-loose
+свободный
 
-or
+или
 
-corroded wiring
+корродированная проводка
 
-‘connections. On the other hand. it may be that the battery Is wom
-‘ut, especially if the motorcycle is old, or that infrequent use of the
-motorcycle prevents normal charging from taking place.
-9 Be sure to correct any problems and charge the battery if
-necessary. Refer to Chapter 8 for additional battery maintenance
-and charging procedures.
+'связи. С другой стороны. возможно аккумулятор разряжен
+но, особенно если мотоцикл старый или нечастое использованиемотоцикл препятствует нормальной зарядке.
+9 Обязательно устраните все проблемы и зарядите аккумулятор, если
+необходимо. Дополнительную информацию по техническому обслуживанию батареи см. в Главе 8.
+и процедуры зарядки.
 
-illustration).
-5 ifit aligns with the index mark or exceeds it, the brake shoes are
-wom and must be replaced with new ones (see Chapter 7). If in
-any doubt about the amount of lining material remaining on the
-shoes, or if brake action is poor. remove the wheel for
-measurement of the lining thickness (see Chapter 7).
+иллюстрация).
+5, если она совпадает с отметкой или превышает ее, тормозные колодки
+wom и должны быть заменены новыми (см. главу 7). Если в
+любые сомнения относительно количества футеровочного материала, оставшегося на
+колодки или если тормозное действие плохое. снять колесо для
+измерение толщины футеровки (см. главу 7).
 
 6
 
-Brake system -
+Тормозная система -
 
-checks Brake checks
-1A routine general check of the brakes will ensure that any
+проверки Проверки тормозов
+1Регулярная общая проверка тормозов гарантирует, что все
 
-problems are discovered and remedied before the rider's safety is
+проблемы обнаруживаются и устраняются до того, как будет обеспечена безопасность водителя.
 
 10
 
-Install the battery (see Chapter 8)
+Установите аккумулятор (см. главу 8)
 
-jeopardized.
+находится под угрозой.
 
 5
 
-Brake pads/linings - wear check
+Тормозные колодки/накладки – проверка износа
 
 3
 
-2 Check the brake lever and pedal for loose connections,
-excessive play, bends, and other damage. Replace any damaged
-parts with new ones (see Chapter 7).
-Make
+2 Проверьте тормозной рычаг и педаль на предмет ослабления соединений,
+чрезмерный люфт, изгибы и другие повреждения. Замените все поврежденные
+детали на новые (см. главу 7).
+Сделать
 
-sure
+конечно
 
-all
+все
 
-brake
+тормоз
 
-fasteners
+крепежные детали
 
-are tight.
+тесны.
 
-Padsfiinings for wear (see Section 5) and on
-Disc brake pads
-1A quick check of the brake pads can be made without removing
-them from the caliper. Pad wear can be judged by viewing the pad
-material through the inspection slot indicated by the cast arrow on
-aliper body; the use of a hand-held flashlight will aid visibility
-The original equipmert pads have a cutout between the pad metal
+Накладки на износ (см. раздел 5) и на
+Дисковые тормозные колодки
+1Быструю проверку тормозных колодок можно выполнить, не снимая
+их из суппорта. Износ колодок можно оценить, осмотрев колодку.
+материал через контрольное отверстие, указанное литой стрелкой на
+корпус алипера; использование ручного фонарика улучшит видимость
+Оригинальные колодки Equimert имеют вырез между металлическими колодками.
 
-backing and the friction material which denotes the wear limit
-the friction material of either pad has wor down to expose the
-cutout, the pads
+основа и фрикционный материал, обозначающий предел износа
+фрикционный материал любой колодки изнашивается и обнажает
+вырез, подушечки
 
-Check the
+Проверьте
 
-brake
+тормоз
 
-disc brake models,
+модели дисковых тормозов,
 
-make sure the fluid level in the reservoirs is correct (see Section
+убедитесь, что уровень жидкости в бачках правильный (см. раздел
 3.
 
-4 On disc brakes, look for leaks at the hose connections and check
-for cracks in the hoses. If the lever or pedal is spongy. bleed the
-brakes as described in Chapter 7. Drain and replace the brake fluid
-at the specified interv
+4 На дисковых тормозах найдите утечки в соединениях шлангов и проверьте
+на наличие трещин в шлангах. Если рычаг или педаль хлипкие. истекать кровью
+тормоза, как описано в главе 7. Слейте и замените тормозную жидкость.
+в указанный интервал
 
-Brake lever freeplay (1985 1100 Sabre and
-1985/86 1100 Magna)
-5 Measure the freeplay at the ball end of the front brake lever.
-‘Assuming that there is no air in the hydraulic system, resulting in a
+Свободный ход тормозного рычага (1100 Sabre и 1985 г.)
+1985/86 1100 Магна)
+5 Измерьте свободный ход на шаровом конце рычага переднего тормоза.
+«Предполагая, что в гидравлической системе нет воздуха, что приводит к
 
-Chapter 1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-6 Brake pedal height adjustment
-bolt on 700/750
-models (arrow)
+6 Регулировка высоты педали тормоза
+болт на 700/750
+модели (стрелка)
 
-6.10 Adjust brake pedal freeplay using nut at end of brake
-tod (arrow)
+6.10 Отрегулируйте свободный ход педали тормоза с помощью гайки на конце тормоза.
+Тод (стрелка)
 
-ould move 20 to 30
+мог бы переместиться с 20 на 30
 
-> the lever (see below), the lever
-ont brake comes on.
+> рычаг (см. ниже), рычаг
+включается тормоз.
 
-f this measurement,
-lever pivot,
+f это измерение,
+шарнир рычага,
 
-Brake pedal freeplay
+Свободный ход педали тормоза
 
-adjust using the knurled ring at the
+отрегулируйте с помощью кольца с накаткой на
 
-the pedal and measure
+педаль и измерить
 
-noting that one of the index marks on the nin
+отметив, что один из индексов на нин
 
-with the arrow stamped
+со стрелкой, отпечатанной
 
-he drum.
+он барабанит.
 
-in th
+в го
 
-Specifications.
+Технические характеристики.
 
-front brake and check that t
+передний тормоз и проверьте, что t
 
-Brake stoplights
+Тормозные стоп-сигналы
 
-Refer fo ilust
+См. рисунок
 
-1S
+1С
 
-important
+важный
 
-Incorrect height
+Неправильная высота
 
-can cause
+может вызвать
 
-to
+чтобы
 
-ensure
+обеспечить
 
-maximum
+максимум
 
-breke drag
+брейк-брейк
 
-or
+или
 
-braking
+торможение
 
-prevent
+предотвратить
 
-erates when the front brake lever is
+срабатывает, когда рычаг переднего тормоза
 
-full
+полный
 
-front brake light switch
+выключатель переднего стоп-сигнала
 
-b
+б
 
-nd 1982 through 1984 700/750 M
-mm (03 in) b
+с 1982 по 1984 год 700/750 М
+мм (03 дюйма) б
 
-}9nas, the
+}9nas,
 
-top
+топ
 
-operate
+действовать
 
 1
 
-locknut on the adjusting screw
+контргайка на регулировочном винте
 
-pedal
+педаль
 
-height
+высота
 
 js
 
-the
+тот
 
-correct,
+правильно,
 
-is not adjustable.
+не регулируется.
 
-If & fails to
+Если & не удается
 
-properly, replace & with a new one (see Chapter 8)
+правильно, замените & на новый (см. главу 8)
 
-w the top of the rider's
+с верхом наездника
 
-12 Make sure
+12 Убедитесь, что
 
-the brake
+тормоз
 
-op of the brake pedal
+работа педали тормоза
 
-pedal takes
+педаль берет
 
-ct.
+КТ.
 
-ing ring
+кольцо
 
-loosen the
+ослабить
 
-how far t
-results to the
+как далеко т
+результаты для
 
-rake rod end (see illustration).
+конец тяги граблей (см. рисунок).
 
-Brake pedalheight
-it
+Высота педали тормоза
+этоСравните
 
-Compare the
+Регулировка производится поворотом регулировочной гайки на
 
-Adjustment is made by turing the adustng nut on the
+свет
 
-light
+активируется просто
 
-is activated just
+перед
 
-before the
+люстрация).
 
-lustration).
+и
 
-and
+тугой
 
-tight
+Если переключатель не работает
 
-If the switch doesn't operate the
-
-cribed in Chapter
+записано в главе
 
 8
 
-(0.6 in} below the top of the
+(0,6 дюйма} ниже верхней части
 
-top of the brake pedal should be 15 mm
+высота педали тормоза должна быть 15 мм.
 
 0
 
-the brake p:
-footpeg,
-height,
+тормоз р:
+подножка,
+высота,
 
-in) above the top of the
+в) над верхушкой
 
-Make adjustment at the master cylinder pushrod by loosening.
+Отрегулируйте толкатель главного цилиндра, ослабив его.
 
-the locknut
+контргайка
 
-on
+на
 
-the clevis and rotating the pushrod
-to
+вилка и вращение толкателя
+чтобы
 
-tighten the
+затянуть
 
-alter the
+изменить
 
-mpletion
+завершение
 
-(6:12 Rear brake stop light svatchadjuster nut (arow)
+(6:12 Гайка регулировочной гайки заднего стоп-сигнала (стрелка)
 
-pedal
+педаль
 
-Refer to itistrat
+Обратитесь к итистрату
 1
 
-Routine tire and
+Обычная шина и
 
-tum
+повернуться
 
-ie switch body until the brake light is activated
+т.е. переключайте кузов до тех пор, пока не включится стоп-сигнал
 
-illustration).
+иллюстрация).
 
-9 On 1100 Sabre models the
+9 На модели 1100 Sabre
 
-rear brake
+задний тормоз
 
-If adjustment is necessary, hold the switch and
-on
+Если необходима регулировка, удерживайте переключатель и
+на
 
-wheel chec
+проверка колес
 
-jould
+мог бы
 
-be made with the
+быть сделано с
 
-7.2 Measuring tire tread depth
+7.2 Измерение глубины протектора шины
 
-Chapter1 Tune-up and routine maintenance
+Глава 1. Настройка и текущее обслуживание.
 
 1-9
 
-to
-8.3a With the throttle at rest, mark the relationship of the grip
-the right switch assembly...
+чтобы
+8.3а При неработающем дросселе отметьте положение рукоятки
+правый переключатель в сборе...
 
-nds to a on
+nds на включение
 
-Throttle and choke operation/grip freeplay- check and
+Работа дроссельной заслонки и воздушной заслонки/свободный ход рукоятки – проверьте и
 
-smage
+смаж
 
-is noted.
+отмечается.
 
-liability
+ответственность
 
-Do
+Делай
 
-ma}
+ма}
 
-k the tire pressures when the tires are eold and keep them
-pressure will increas
-ity inflated (see illustration). Proper air
-fort. Keep in mi
-stability and
-maximum
-fe and provide
-n the rim or come
-ise thet
-that lovr tire pressure
-ile
+k давление в шинах, когда шины старые, и поддерживайте его
+давление увеличится
+ность надута (см. рисунок). Правильный воздух
+форт. Держи в ми
+стабильность и
+максимум
+фе и предоставить
+на ободе или приходи
+Исе Тет
+этот любитель давления в шинах
+Иль
 
-high
+высокий
 
-tire pressures
+давление в шинах
 
-wil cause abnormal
+вызовет ненормальное
 
-tread wear
-ily
+износ протектора
+Или
 
-andu
+Анду
 
-maintenance
+техническое обслуживание
 
-84 and 85
-sure th
+84 и 85
+конечно, да
 
-n with the
+п с
 
-return automatically from
+автоматически вернуться из
 
-ip rotates ©:
-tumed at vari
+ip вращается ©:
+вращался по-разному
 
-to fully
-fully open
-toa
+полностью
+полностью открыт
+тоа
 
-2 Ifthe throttle sti
+2 Если дроссельная заслонка
 
-is probs
+это проблемы
 
-ables as des:
+способен как задумано:
 
-apter
-4 and
+аптер
+4 и
 
-cable fault. Rem
-them as desen
+неисправность кабеля. Рем
+они как задуманы
 
-lubricat
-they
+смазка
+они
 
-fails to improvet
+не удается улучшить
 
-d_ Note that
+d_ Обратите внимание, что
 
-in
+в
 
-take the
+возьми
 
 1
 
-sm:
+см:
 
-the thr
+тро
 
-the fault
+вина
 
-free,
+бесплатно,
 
 unt
-of
-freeplay
+из
+свободная игра
 
-8.4 Throttle cable upper adjuster (arrow).
+8.4 Верхний регулятор троса дроссельной заслонки (стрелка).
 
 1-10
 
-Chapter1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-9.4 When bl
-the
+9.4 Когда бл.
+тот
 
-locknut (see illustration). if it
+контргайка (см. рисунок). если это
 
-freeplay with the upper
+свободная игра с верхом
 
-is not possible to
+невозможно
 
-adjuster,
+наладчик,
 
-i
+я
 
-will
+будет
 
-st ment at the lower adjuster, situated
+положение на нижнем регуляторе, расположенном
 
-also be necessary to make
-remove the
+также необходимо сделать
+удалить
 
-on earty Magnas (see Chapter 4) (see
-to obtain the
+на земляных Магнах (см. главу 4) (см.
+чтобы получить
 
-fuel
+топливо
 
-tankor trig it up
+танкор, запусти это
 
-maximum possible freeplay, then
+максимально возможный свободный ход, тогда
 
-if necessary,
+если необходимо,
 
-the
+тот
 
-freeplay
-is correct tighten the locknuts
-6 Check
+свободная игра
+правильно, затяните контргайки
+6 Проверить
 
-that the throttle twistgnp
+что дроссельная заслонка
 
-quickly when
+быстро, когда
 
-released.
+выпущен.
 
-through their travel
-change.
+через их путешествие
+изменить.
 
-Mt it does,
+Да, это так,
 
-smoothly
+плавно
 
-and
+и
 
-may
+может
 
-Idle speed
+Скорость холостого хода
 
-snaps
+щелкает
 
-shut
+закрыть
 
-should
+должен
 
-be routed incorrectly.
+быть проложены неправильно.
 
-not
+нет
 
-Correct thi
+Исправьте это
 
-the
+тот
 
-move the choke lever
+переместить рычаг воздушной заслонки
 
-japter7,
+глава7,
 
-any binding
+любая привязка
 
-up
+вверх
 
-and down mak
+и вниз Мак
 
-engine warm
+двигатель теплый
 
 9
 
-it
+это
 
-su
+Су
 
-moves
+движется
 
-or drag in the
+или перетащите
 
-lever’s
+рычаг
 
-operation,
+операция,
 
-the
+тот
 
-cable
+кабель
 
-should be checked for kinks or damage to the cable casing end then
-removed (see
+следует проверить на наличие перегибов или повреждений конца оболочки кабеля, затем
+удалено (см.
 
-Chapter 4) and lubriceted
+Глава 4) и смазаны
 
-spongy,
+губчатый,
 
-bleed
+истекать кровью
 
-the
+тот
 
-Section 11.
+Раздел 11.
 
-ine Seton
+ине Сетон
 
 3)
 
-line
+линия
 
-of
+из
 
-air.
+воздух.
 
-The
 
-bleeding
 
-Remove the slave cylinder bleed valve cap, and
-illustration),
+кровотечение
 
-40. Engine oilfiter
-- change
-Refer to itustrations 10.4@ and 10.46
+Снимите крышку клапана прокачки рабочего цилиндра и
+иллюстрация),
+
+40. Маслофитер двигателя
+- изменить
+См. иллюстрации 10.4@ и 10.46.
 1
 
-Consistent routine oil and fiter
+Регулярное использование масла и фитера
 
-procedure you
+процедура с тобой
 
-as @ coolant,
+как @хладагент,
 
-Because
-of these demands,
-should be
+Потому что
+из этих требований,
+должно быть
 
-Note thal in
+Обратите внимание, что в
 
-very rare
+очень редко
 
-cases the fault
+дела по вине
 
-could
+мог бы
 
-lie
+ложь
 
-10 With the choke mechanism operating smoothly,
+10 При плавной работе механизма воздушной заслонки
 
-check
+проверить
 
-the choke
+дроссель
 
-11 Onesthe choke mechanism is comectly adjusted,
+11 Механизм воздушной заслонки точно отрегулирован,
 
-install the air filter
+установить воздушный фильтр
 
-housing and fuel tank as descnbedin Chapter
+Корпус и топливный бак, как описано в главе.
 4
 
-important
+важный
 
-The oil
+Масло
 
-not
+неттрансмиссия и сцепление,
 
-transmission and clutch,
+очиститель, герметик,
 
-cleaner, a sealant,
+и защитник.
 
-and a protectant.
+новый
 
-new
+масло рекомендованного сорта и
 
-oil of the recommended grade and
+немного денег
+о жизни
 
-a little money
-on the life
+@ молодец
 
-@ good oll
+ярче, разогрей
+олл,
 
-fier, warm up the
-oll,
+Энги
 
-engi
+КЛ будет
 
-cll wil
+как выхлоп
 
-as the exhaust
+пес. тот
 
-pes. the
+если может вызвать сев
 
-ifcan cause sev
+3 Поставьте мотоцикл на основную подставку (если она имеется) и расположите
+Джин сливной поддон под
+картер и действовать как
 
-3 Put the motorcycle on the main stand (where fitted) and position
-Jean drain pan below the
-crankcase and act as
+4 Далее,
 
-4 Next,
+свободный ход кабеля, как описано в главе 4.
 
-cable freeplay as described in Chapter 4
+самый единственный
 
-single most
+мотоцикл.
 
-a motorcycle.
+масла уходит колоссальное количество
 
-the oil takes a terrific amount of
+2 Перед заменой масла и
 
-2 Before changing the oil and
+что требует удаления
 
-necessitating the removal of
-
-Chapter
+Глава
 4
 
-on
+на
 
-and
-a cheap oil wont pay off ifthe engine is d
+и
+дешевое масло не окупится, если двигатель сломан
 
-the
+тот
 
-inspection of the choke plungers as described in
+осмотр дроссельных плунжеров, как описано в п.
 
-are the
+являются
 
-of the engine,
+двигателя,
 
 @
 
-replaced often with
+часто заменяется на
 
-Saving
+Сохранение
 
-changes
+изменения
 
-cen perform
+цен выступить
 
 @
 
-the operation of the choke,
+работа дросселя,
 
-the carburetors rather than the cable,
-carburetors and
+карбюраторы, а не трос,
+карбюраторы и
 
-dutch
+голландский
 
-as descnbed in Section 15
+как описано в разделе 15
 
-@ If cable lubncation fails to improve
-Cable must be replaced.
+@ Если смазка кабеля не улучшается
+Кабель необходимо заменить.
 
-rots
+гниет
 
-ns and check for cracks in the
+ns и проверьте наличие трещин в
 
-connect
-the bleed tube to the valve (see
+подключить
+сливную трубку к клапану (см.
 
-type.
+тип.
 
-8 If there is
+8 Если есть
 
-lever is
+рычаг
 
-but it also acts
+но оно также действует
 
-smoothly,
+плавно,
 
-Ye
+да
 
-If
+Если
 
-nly lubricates the internal parts
+смазывает только внутренние части
 
-7 Proper choke operation will ensure fast starts and a
-Initally,
+7 Правильная работа воздушной заслонки обеспечит быстрый запуск и
+Первоначально,
 
-Tope vr
+Топе вр
 
-peration is exactly the same as described for bleeding the braka
+Операция точно такая же, как описана при кровотечении из брака.
 
-maintenance
+техническое обслуживание
 
-Choke cable
-Up.
+Дроссельный кабель
+Вверх.
 
-a
+а
 
-Turn the handlebars all the way
+Поверните руль до упора
 
-the engine idling.
+двигатель работает на холостом ходу.
 
-the cables
+кабели
 
-deol
+деол
 
-for leaks at the hose cone
+на предмет утечек в конусе шланга
 
-Once the
+Как только
 
-ing the bike (see Chapter 4)
+езда на велосипеде (см. главу 4)
 
-condition before
+состояние до
 
 4
 
-loosen
+ослабить
 
-securely.
+надежно.
 
-Warning:
+Предупреждение:
 
-with
+с
 
-upper adjuster
+верхний регулятор
 
-operates
+действует
 
-ing te chit connect tube to bleed valve
+ing te chit подсоединить трубку к выпускному клапану
 
-Check that
+Проверьте это
 
-Look
+Смотри
 
-illustration). Screw the upper
+иллюстрация). Прикрутите верхнюю часть
 
-the lower adjuster locknut and set the cable freeplay using first the
+нижнюю контргайку регулятора и установите свободный ход троса, используя сначала
 
-lower adjuster and then,
+нижний регулятор, а затем,
 
 3
 
-hoses
+шланги
 
-on
-tl
+на
+ТЛ
 
-5 To gain access
-to the lower adjuster
+5 Чтобы получить доступ
+к нижнему регулятору
 
-cable aduster in
+кабельный адаптер в
 
-obtain the correct
+получить правильный
 
-engine.
+двигатель.
 
-Unscrew the oil filer
+Откручиваем масляный фильтр
 
-cap to
+ограничиться
 
-from the front
+спереди
 
-cylinder head and
+головка блока цилиндров и
 
-allow the oil
+позвольте маслу
 
-that the oil
+что масло
 
-drains fully)
-(see
+сливается полностью)
+(см.
 
-drain plugs;
+сливные пробки;
 
-plug
+вилка
 
-to drain into the pan (on
+слить в кастрюлю (на
 
-1987 and 1988 700/750 Magnas hold the motorcycle upright
-on the
+700/750 Magnas 1987 и 1988 годов держат мотоцикл вертикально.
+на
 
-vent the
+выпустить
 
-@ reminder that there is no oil in the engine,
+@ напоминаем, что в двигателе нет масла,
 
-remove the drain plug from the oll pan, as well as the drain
+снимите сливную пробку с поддона, а также сливную пробку
 
-to ensure
+чтобы обеспечить
 
-Illustrations). Discard the sealing washers
+Иллюстрации). Выбросьте уплотнительные шайбы.
 
-they should
+они должны
 
-be
+быть
 
-replaced whenever the
+заменяется всякий раз, когда
 
-plugs
+пробки
 
-are
+являются
 
-removed
+удалено
 
 9
 
--ertain California models, the emission
+-некоторые модели для Калифорнии, выбросы
 
-Clutch - checks and bleeding
+Сцепление – проверки и прокачка
 
-tothe oil fiter. Disconnect its hoses and remove it from
+к маслосборнику. Отсоедините его шланги и снимите его с
 
-and
-wed
+и
+свадьба
 
-Refer to illustration
+См. рисунок
 9.4
-1 Check the clutch leverfor loose connections,
+1 Проверьте рычаг сцепления на наличие ослабленных соединений,
 
-and other damage.
+и другие повреждения.
 
-excessive play,
+чрезмерная игра,
 
-bends,
+изгибы,
 
-Replace any damaged parts with new ones (see
+Замените все поврежденные детали новыми (см.
 
-Chapter 2).
-2 On
+Глава 2).
+2 Вкл.
 
-1985
+1985 год
 
-1100 Sabres and
+1100 сабель и
 
-1985/88 1100 Magna models,
+1985/88 модели 1100 Magna,
 
-measure
+мера
 
-the freeplay at the ball end of the clutch lever. Assuming that there is
-no air in the hydraulic system,
+свободный ход шаровой части рычага сцепления. Предполагая, что существует
+отсутствие воздуха в гидросистеме,
 
-resulting
+в результате
 
-in @ spongy feel to the
+в @ губчатом ощущении
 
-lever
+рычаг
 
-(see below),
+(см. ниже),
 
-the lever should move 20 to 20 mm before the clutch
+рычаг должен переместиться на 20-20 мм перед включением сцепления.
 
-disengages.
+отключается.
 
-If outside of this measurement,
+Если за пределами этого измерения,
 
-ring at the lever pivot,
+кольцо на шарнире рычага,
 
-noting thet
+отмечая это
 
-adjust using the knurled
+отрегулируйте с помощью рифленой
 
-the index mark on the ring must align
+указательная отметка на кольце должна совпадать
 
-with the arrow stamped in the top of the lever.
+со стрелкой, выбитой в верхней части рычага.
 
-Start the engine and
+Запустите двигатель и
 
-‘check that the clutch disengages and engages smoothly, without sip or
-drag
+«Проверьте, чтобы сцепление выключалось и включалось плавно, без рывков или
+перетащить
 
-control system canister will
+система управления канистрой будет
 
-Chapter 6).
+Глава 6).
 
 198
 
-700/750
+700/750Модели Магна
 
-Magna models
+снят ли брюшной обтекатель
 
-is the belly fairing is removed
+Убедитесь, что сливной поддон находится под фильтром, затем
 
-Make sure the drain pan is under the filter, then
+иль фитер использует
 
-il fiter using
+ременный ключ или сервисный инструмент Honda.
 
-a strap wrench or the Honda service tool.
+(см.
 
-(see
+ослабить
 
-loosen the
+Потепление:
 
-Warming:
+Возьми
 
-Take
+будьте осторожны, чтобы не обжечь руки о выхлопную систему. Открутите
+фильтр из
 
-great care not to burn your hands on the exhaust system Unscrew the
-filter from the
+блок двигателя и опорожните его содержимое
 
-engine unit and empty its contents
+планируется дополнительное обслуживание
+для
 
-additional maintenance is planned
-for
+в сливной поддон.
 
-into the drain pan.
+этот период времени,
 
-this time period,
+Если
 
-If
+чек или обслуживание
 
-check or service
+другой компонент, пока масло полностью стечет
 
-another component while the oil is allowed to drain completely
+6 Очистите установочную резьбу и корпус картера растворителем или
+чистый магазин
 
-6 Clean the fiter thread and housing on the crankcase with solvent or
-clean shop
+полотенца.
 
-towels.
+Вытрите остатки грязи с области уплотнения фильтра.
 
-Wipe any remaining oll off the filter sealing area of
-
-the crankcase,
+картер,
 
 7
 
-Slip
+Скольжение
 
-a:new sealing washer over the drain plugs.
+а: новая уплотнительная шайба над сливными пробками.
 
-Fit them to the oil
+Прикрепите их к маслу
 
-Chapter1. Tune-up and routine maintenance
+Глава1. Настройка и текущее обслуживание
 
-10.4b Engine ol
+10.4b Двигатель
 
-an and front
+и фронт
 
-eying
+глазеть
 
-bvertightening,
+бвертить,
 
 2
 
-Lit
+Горит
 
-drain plug in front cylinder bank
+сливная пробка в переднем ряду цилиндров
 
 11
 
-Final drive unit oll change
+Замена главной передачи
 
 12.
 
-Airfiter element - cleaning and replacement
+Элемент Airfiter – чистка и замена
 
-8 Apply a smear
-sere i
+8 Нанесите мазок
+Сережа, я
 
-into post
-ne,
-yf
+в пост
+нэ,
+да
 
-orasbcaly
+орасбалий
 
-is
-something
+есть
+что-то
 
-and
-intemally
+и
+внутренне
 
-the i
+я
 
-the
-oll wa:
+тот
+олл ва:
 
-ta be
-will nave
+так быть
+будет неф
 
-the
+тот
 
-disassembled
-for inspecton end rept
+разобранный
+для инспекционного представителя
 
-0 IF there.
+0 ЕСЛИ ЕСТЬ.
 
-expenencing
+расходы
 
 11
 
-0 the proper lovel
+0 настоящий любовник
 
-he ol tums
+он старый
 
-wath
+что
 
-disposed
-accept
+распоряжаться
+принять
 
-rto
+рто
 
-Sutable
+Сутабле
 
-Ste
+Сте
 
-‘envrormental
-Cheek
+'окружающая среда
+Щека
 
-f
+ж
 
-the gfound
-contaner
+найденный
+контейнер
 
-ur
+ты
 
-is
+есть
 
-i the erankease
+я эранкейс
 
-unt of ol end
+до старого конца
 
-‘engine and Ist
+'двигатель и Ist
 
-ompary,
+омпари,
 
 6
 
-up nothing
+ничего не придумал
 
-the recommended type
+рекомендуемый тип
 
-the filer
+файлер
 
-wall
+стена
 
-dutch
+голландский
 
-excessive wear end should
+конец чрезмерного износа должен
 
-Hf inspection of
+Hf-инспекция
 
-install
+установить
 
-the
+тот
 
-material
+материал
 
-feria
+Ферия
 
-are
+являются
 
-wath
+что
 
-we
+мы
 
 0
 
-28 nether they
+28 внизу они
 
-your
+твой
 
 3
 
-ito
+это
 
-san
+Сан
 
-be
+быть
 
-totes.
+сумки.
 
-drains
+стоки
 
-drained Io
-milk
+осушенный Ио
+молоко
 
-oF
+ОФ
 
 @
 
-cartons,
+коробки,
 
-| or vans
+| или фургоны
 
-412.1 Pry out caps to reveal srfiter cover screws on 1962 Sabre
+412.1 Подденьте крышки, чтобы увидеть винты крышки srfiter на Sabre 1962 года.
 
-1982 750 Sabre
+1982 750 Сабля
 
-it
+это
 
-je the nuts end
-Remove the
-ouf.
+да, орехи закончились
+Удалите
+уф.
 
-Fem
+фем
 
-istration,
-lean
+истрация,
+худой
 
-solvent,
+растворитель,
 
-then
+тогда
 
-lean rag
+тощая тряпка
 
-123 Separate element from frame for cleaning
-on 1982 Sabre
+123 Отделить элемент от рамы для очистки
+на Сэйбер 1982 года
 
 1-12
 
-Chapter1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-5 Soak the clean elements in SAE 80-90 gear oll, then squeeze
-‘out as much of the oil as possible (do not wring the element). Hang
-the elements up and allow any excess oll to drip out- they must
-not be saturated with oll.
-6 Install the fiers by reversing the removal steps. Ensure the
-cover sealing rings are in place and
+5 Опустите чистые элементы в масло SAE 80-90, затем сожмите.
+«Удалите как можно больше масла (не выкручивайте элемент). Повесить
+элементы вверх и дайте стечь излишкам масла – они должны
+не насыщаться оллом.
+6 Установите вентиляторы, выполнив действия по снятию в обратном порядке. Обеспечить
+Уплотнительные кольца крышки на месте и
 
-apply
-a light
-smear
-of
-grease
+применять
+свет
+мазать
+из
+жир
 
-to them.
+им.
 
-1983-0n 700/750
-and all 1100 Sabre models
-7 __ Remove the fuel tank (see Chapter
+1983-0н 700/750
+и все модели 1100 Sabre
+7 __ Снимите топливный бак (см. главу
 4),
-& Remove the two air fiter cover screws, lit off the cover with its
-sealing ring and lit out the element together with its support
+& Отверните два винта крышки воздухопровода, снятые с крышки
+уплотнительное кольцо и зажгли элемент вместе с его опорой
 
-frames. Separate the support frames from the element.
-‘9 Wash the element thoroughly in clean solvent, then cry it with
-clean rags. Wipe out the housing with a clean rag.
-10 Soak the clean element in SAE 80-90 gear oll, then squeeze
-‘out as much of the oll as possible
+рамки. Отделите опорные рамы от элемента.
+‘9 Тщательно промойте элемент в чистом растворителе, затем промойте его
+чистые тряпки. Протрите корпус чистой тряпкой.
+10 Опустите чистый элемент в масло SAE 80-90, затем сожмите.
+'из всех, насколько это возможно
 
-(do not wring
-the element). Hang
+(не выкручивать
+элемент). Повесить
 
-the element up and allow any excess al to drip out - it must not be
-saturated with oil
+элемент вверх и дайте стечь лишнему веществу – его нельзя
+насыщенный маслом
 11
 
-Install the fier by reversing the removal steps.
+Установите камин, выполнив действия по снятию в обратном порядке.
 
-Ensure the
+Обеспечить
 
-cover sealing ring Is In place and apply a light smear of grease to
-it
+Уплотнительное кольцо крышки установлено на место и слегка смажьте его смазкой.
+это
 
-Magna models
-lustraton 12 14
-to
-eter
+Модели Магна
+люстратон 12 14
+чтобы
+эфир
 
-12 Remove the fuel tank (see Chapter 4); on 1100 models and
-early 700/750 models, it can be raised on its support rod if less
-than half full.
-13 On 1985 through 1988 700/750 models, release their retaining
-‘screws and remove the plastic covers from each side of the frame
-deadstock. On 1985/86 700 models remove the fresh air intake
-cover from the front of the air filter.
-44 Remove the air cleaner cover screws, lift off the cover and its
-‘sealing ring (see illustration). Lift out the paper filter and tap it on
-a solid surface to dislodge any dirt and dust.
-from the element by blowing from the inside outwards. Wipe out
-the housing with a clean rag,
-16 Replace the paper element with a new one at the required
-intervals, regardiess ofits apparent condition.
-17 Install the new fiter by reversing the removal steps. Ensure the
-‘cover sealing ring Is in place and apply a smear of grease to it. If
-femoved. install the fuel tank as described in Chapter
+12 Снимите топливный бак (см. главу 4); на моделях 1100 и
+ранние модели 700/750, если меньше, его можно поднять на опорной штанге
+заполнен более чем наполовину.
+13 На моделях 700/750 1985–1988 годов снимите фиксаторы.закрутите винты и снимите пластиковые крышки с каждой стороны рамы.
+мертвый запас. На моделях 700 1985/86 годов снимите воздухозаборник свежего воздуха.
+крышку спереди воздушного фильтра.
+44 Выверните винты крышки воздушного фильтра, снимите крышку и ее
+«уплотнительное кольцо (см. рисунок). Поднимите бумажный фильтр и постучите по нему.
+твердая поверхность для удаления грязи и пыли.
+из элемента путем выдувания изнутри наружу. Вытереть
+корпус чистой тряпкой,
+16 Замените бумажный элемент на новый в нужном месте.
+интервалы, независимо от его кажущегося состояния.
+17 Установите новый фитинг, выполнив действия по снятию в обратном порядке. Обеспечить
+«Уплотнительное кольцо крышки на месте и смажьте его смазкой. Если
+тронута. установите топливный бак, как описано в главе
 4.
 
-12.14 Remove air cleaner cover (1) screws (2)
-to acce:
+12.14 Снимите крышку воздушного фильтра (1), винты (2)
+чтобы получить доступ:
 
-on Magna models
+на моделях Магна
 (3)
 
-13 Cylinder compression - check
-‘1 Among other things, poor engine performance may be caused by
-leaking valves, incorrect valve
-clearances, a leaking head gasket,
-‘or worn pistons, rings and/or cylinder walls.
-A cylinder
-‘compression check will help pinpoint these conditions and can also
-indicate the presence of excessive carbon deposits in the cylinder
-heads.
+13 Компрессия цилиндра – проверка
+‘1 Помимо прочего, плохая работа двигателя может быть вызвана
+негерметичные клапаны, неправильный клапан
+зазоры, течь прокладки ГБЦ,
+«или изношены поршни, кольца и/или стенки цилиндров.
+Цилиндр
+«Проверка компрессии поможет точно определить эти условия, а также может
+указывают на наличие чрезмерных нагарных отложений в цилиндре
+головы.
 
-to the specified amount, you can assume the engine upper end is
-in reasonably good mechanical condition.
+до указанной суммы, вы можете предположить, что верхняя часть двигателя
+в достаточно хорошем механическом состоянии.
 
-Worn or sticking piston
+Изношен или заедает поршень
 
-rings and worn cylinders will produce very little intial movement of
-the gauge needie, but compression will tend to build up gradually
-as the engine spins over. Valve and valve seat leakage, or head
-gasket leakage. is indicated by low initial compression which does
+кольца и изношенные цилиндры будут производить очень незначительное начальное движение.
+манометр нуждается, но компрессия будет иметь тенденцию нарастать постепенно
+как двигатель раскручивается. Утечка клапана и седла клапана или головка
+течь прокладки. на это указывает низкое начальное сжатие, которое не
 
-2 The only tools required are a compression gauge and a spark
-plug wrench. Depending on the outcome of the initial test, a squirttype all can may also be needed.
-3 Start the engine and allow it to reach normal operating
-temperature, then stop it.
+2 Единственные необходимые инструменты — это компрессометр и искровой разрядник.
+пробковый ключ. В зависимости от результатов первоначального теста может также потребоваться использование шприца all.
+3 Запустите двигатель и дайте ему достичь нормальной рабочей
+температуру, затем остановите ее.
 
-Not tend to build up.
-10 To further confirm your findings, add a small amount of engine
-ail to each cylinder by inserting the nozzle of a squirt-type oll can
-through the spark plug holes. The oll will tend to seal the piston
+Не склонен к наращиванию.
+10 Для дальнейшего подтверждения ваших выводов добавьте небольшое количество двигателя
+подсоедините воздух к каждому цилиндру, вставив насадку шприцевого баллончика.
+через отверстия для свечей зажигания. Олл будет стремиться загерметизировать поршень.
 
 4
 
-11 if the compression increases significantly after the addition of
-the ail, the piston rings and/or cylinders are definitely worn. If the
+11, если сжатие значительно увеличивается после добавления
+Все, поршневые кольца и/или цилиндры определенно изношены. Если
 
-Place the motorcycle on its stand.
+Поставьте мотоцикл на подставку.
 
-5 Remove the spark plugs #5 described in Section
+5 Снимите свечи зажигания №5, описанные в разделе
 
 14.
 
-Caution: Work
+Внимание: работа
 
-rings if they are leaking. Repeat
+кольца, если они текут. Повторить
 
-the test for the other cylinders.
+проверка остальных цилиндров.
 
-carefully - don't stip the spark plug hole threads and don't burn your
+осторожно – не перепутайте резьбу отверстий свечей зажигания и не обожгите
 
-compression does not increase, the pressure is leaking past the
+компрессия не увеличивается, давление уходит за пределы
 
-hands on the hot cylinder head.
+руки на горячую головку блока цилиндров.
 
-valves or the head gasket. Leakage past the valves may be due to
-insufficient valve clearances, burned, warped or cracked valves or
+клапаны или прокладку головки. Утечка через клапаны может быть вызвана
+недостаточные зазоры клапанов, прогоревшие, деформированные или треснутые клапаны или
 
-6 _ Disable
-the ignition by switching the kill switch to OFF.
-7 Install the compression gauge in one of the spark plug holes and
-place a rag over the other three plug holes as a precaution against
-fire risk.
+6 _ Отключить
+зажигание, переключив аварийный выключатель в положение OFF.
+7 Установите компрессометр в одно из отверстий для свечей зажигания и
+накройте тряпкой остальные три отверстия для заглушек в качестве меры предосторожности против
+риск пожара.
 
-8 Hold the throttle wide open and crank the engine over a
-‘minimum of four or five revolutions (or until the gauge reading
-stops increasing) and observe the initial movement of the
-‘compression gauge needle as well as the final total gauge reading.
-Repeat the procedure for the other cylinders and compare the
-results to the value listed in this Chapters
-S.
+8 Держите дроссельную заслонку широко открытой и проверните двигатель
+«минимум четыре или пять оборотов (или до тех пор, пока показания манометра не
+перестает увеличиваться) и наблюдайте за начальным движением
+«стрелка манометра компрессии, а также окончательное общее показание манометра.Повторите процедуру для остальных цилиндров и сравните
+результаты до значения, указанного в этой главе
+С.
 9
 Ifthe compression in all four cylinders built up quickly and
-evenly
+равномерно
 
-valve seats, or valves that are hanging up in the guides.
-12 If the compression
+седла клапанов или клапаны, висящие в направляющих.
+12 Если сжатие
 
-readings are considerably
+показания значительно
 
-higher than
+выше, чем
 
-specified, the combustion chambers are probably coated with
-excessive carbon deposits. It is possible (but not very likely) for
-carbon deposits to raise the compression enough to compensate
-for the effects of leakage past rings or valves. Use of a fuel addttive
+указано, что камеры сгорания, вероятно, покрыты
+чрезмерные отложения углерода. Это возможно (но не очень вероятно) для
+нагар, чтобы поднять компрессию настолько, чтобы компенсировать это
+на последствия утечек через кольца или клапаны. Использование топливной присадки
 
-that will dissolve the achesive bonding the carbon particles to the
-crown and chamber is the easiest way to remove the build-up.
-Otherwise,
+который растворит клей, связывающий частицы углерода с
+коронка и камера – самый простой способ удалить нарост.
+В противном случае
 
-the cylinder heads) will have to be removed and
+головки цилиндров) придется снять и
 
-ecarbonized (Chapter 2)
+карбонизированный (глава 2)
 
-Chapter1 Tune-up and routine maintenance
+Глава 1. Настройка и текущее обслуживание.
 
-148a
+148а
 
-142 Use the correct size tool when removing spark plugs
+142 Используйте инструмент подходящего размера при снятии свечей зажигания.
 
 143
 
-Using owire type gauge to measure
-the spark plug gap
+Использование манометра типа OW для измерения
+зазор в свече зажигания
 
-414 Spark plugs -check and replacement
+414 Свечи зажигания – проверка и замена
 
-14.60 Bend
-the side electrode only to adjust spark plug gap
+14.60 Изгиб
+боковой электрод только для регулировки зазора свечи зажигания
 
-ut wil start
+но начнётся
 
-ight (ntl the washers
+правый (без шайб
 
-a
+а
 
-thy
-wrenchto tighten
+твой
+ключчтобы затянуть
 
-bottom
+дно
 
-Chapter1 Tune-up and routine maintenance
+Глава 1. Настройка и текущее обслуживание.
 
 1-14
 
-16.6 Align TDC mark with crankcase rear joint when checking
+16.6 При проверке совместить метку ВМТ с задним шарниром картера.
 
-15.3 Lubricating a cable with a pressure lube adaptor (re sure
-tool seats around the inner cable)
+15.3 Смазка троса с помощью адаптера для смазки под давлением (обязательно
+гнезда инструмента вокруг внутреннего троса)
 
-Ubricate
+Распространять
 
-the cables,
+кабели,
 
-disconnect the
+отключить
 
-relevant
+актуальный
 
-valve clearances (marcfor eyinders 1 and3 shown)
+зазоры клапанов (показаны отметки для глаз 1 и 3)
 
-ca
+Калифорния
 
-nnect
+подключение
 
-the
+тот
 
-te
+тэ
 
-mou
+Моу
 
-ut its top
-ylinder
+но это вершина
+цилиндр
 
 4
 
-(se
+(видеть
 
-Section
+Раздел
 
-Remove all
+Удалить все
 
-5 Remove
+5 Удалить
 
-the
+тот
 
 20),
 
-four spark plug
+четыре свечи зажигания
 
-valve
+клапан
 
-cover
+обложка
 
-bolt
+болт
 
-Rotate
+Поворот
 
-r,
+р,
 
-the
+тот
 
-46 Valve clearances -check and adjustment
-s
+46 Зазоры клапанов – проверка и регулировка
+с
 
-a
+а
 
-maintenance
+техническое обслуживание
 
-the rear
+тыл
 
-procedure
+процедура
 
-/emightb
+/eightb
 
-the
+тот
 
-rotor aligns ¢
+ротор выравнивается ¢
 
-on
+на
 
-that
+что
 
-one
+один
 
 (
-compression
+сжатие
 
-ful
+полный
 
-turn
+повернуть
 
-Moores
+Мурс
 100
 
-Magna
+Магна
 
-mi
+ми
 
-16.8 Measuring the valve clearances (both valves should be
-check
-at the same
-ed
-time}
+16.8 Измерение зазоров клапанов (оба клапана должны быть
+проверить
+в то же время
+Эд
+время}
 
-16.9 Adjusting the valve clearances
+16.9 Регулировка клапанных зазоров
 
-y with
+ты с
 
-cyl
+цилиндр
 
 4
 
-Common spark plug conditions
-NORMAL
-Symptoms: Brown to grayish-tan color and slight
-electrode wear. Correct heat range for engine and
+Общие условия свечей зажигания
+НОРМАЛЬНЫЙ
+Симптомы: цвет от коричневого до серовато-коричневого, легкая
+износ электродов. Правильный тепловой диапазон двигателя и
 
-‘operating conditions.
+'условия эксплуатации.
 
-Recommendation: When new spark plugs are
-installed, replace with plugs of the same heat
-range.
+Рекомендация: При установке новых свечей зажигания
+установлены, замените свечами той же нагрева
+диапазон.
 
-cng vawes andsat
-PREIGNITION
-Sympto ms:
+cng vaves andsat
+ПРЕДВАРИТЕЛЬНОЕ ЗАЖИГАНИЕ
+Симптом мс:
 
-Mel
-are
+Мел
+являются
 
-‘to_misting
+'запотевать
 
-“due
+«из-за
 
-vite,
+Вите,
 
-electrodes.
+электроды.
 
-inculators
+инкубаторы
 
-dirty
+грязный
 
-but may be
+но может быть
 
-or
+или
 
-fying
+летать
 
-debris in the combustion chamber.
+мусор в камере сгорания.
 
-Can’ lead to engine damage
-Recommendation: check fer the
-correct
+Может привести к повреждению двигателя
+Рекомендация: проверьте
+правильный
 
-plug
+вилка
 
-heat
+тепло
 
-range,
+диапазон,
 
-over
+закончилось
 
-HIGH SPEED GLAZING
-sh,
+ВЫСОКОСКОРОСТНОЕ ОСТЕКЛЕНИЕ
+ш,
 
-insite has yelone
+на сайте есть желтый цвет
 
-motor:
+двигатель:
 
-fist
+кулак
 
-glazed
+застекленный
 
-appearance.
+внешний вид.
 
-Indic
+Индийский
 
-Conbusion chamber terrper-
+Камера контузии террпер-
 
-Causes misning at high speeds.
+Вызывает пропуски на высоких скоростях.
 
-Recommendation:
+Рекомендация:
 
-\n:tai
+\n:тай
 
-new
+новый
 
-Blogs.
+Блоги.
 
-2 colder
+2 холоднее
 
-plug
+вилка
 
-Consider
+Рассмотрим
 
-Reconmer
+Реконмер
 
-fuel ant-knock
-rements.
+топливный антидетонатор
+замечания.
 
-using
+используя
 
-values meet
-Use care wt
+ценности соответствуют
+Будьте осторожны
 
-ma fe ga0s on new plus. Aved
-lagging the engne
+ma fe ga0s на новом плюсе. Авед
+тормозит двигатель
 
-MECHANICAL DAMAGE
-Symptoms:
+МЕХАНИЧЕСКИЕ ПОВРЕЖДЕНИЯ
+Симптомы:
 
-Nay
-be caused by
+Нет
+быть вызвано
 
-‘mechanical
+'механический
 
-damace.
+повреждение.
 
-feign
+притворяться
 
-objec
+возражать
 
-from
+из
 
-andlor
+илор
 
-instal
+установить
 
-the
+тот
 
-plug,
+вилка,
 
-the
+тот
 
-enghe
+энге
 
 1-16
 
-Chapter1 Tune-up and routine maintenance
+Глава 1. Настройка и текущее обслуживание.
 
-Tot altered (see illustration). Note: A Honda service tool & available
-which allows the adjuster screw fo be held securely while the locknut is
+Всего изменено (см. иллюстрацию). Примечание. Доступен сервисный инструмент Honda.
+что позволяет надежно удерживать регулировочный винт fo, пока контргайка
 
-tightened.
+затянуто.
 
-Carry out the check on the
-other
-pair
-of valves
+Проведите проверку на
+другой
+пара
+клапанов
 
-10 Rotate the crankshaft clockwise until the T2.4 mark is aligned
+10 Проворачивайте коленчатый вал по часовой стрелке до совмещения метки Т2,4.с задним шарниром картера, затем все зазоры на цилиндре №2.
+11 Поверните коленчатый вал по часовой стрелке, чтобы
 
-with the rear crankcase joint, then all clearances on No 2 cylinder.
-11 Rotatethe crankshaft clockwise to
+совместите отметку T1.3 один раз
 
-align the T1.3 mark once
+«Еще раз и проверьте клапаны третьего цилиндра.
+12 Проверните коленчатый вал дальше по часовой стрелке и совместите T24.
+отметку, затем проверьте клапаны цилиндра № 4.
+13 Когда все зазоры проверены и
 
-‘again and check the vaives of No 3 cylinder.
-12 Rotate the crankshaft further clockwise and align the T24
-mark, then check the valves of No 4 cylinder.
-13 When all clearances have been checked and
+если необходимо
 
-if necessary
-
-adjusted,
-install the valve covers (see Chapter
+скорректированный,
+установите клапанные крышки (см. главу
 2).
-14 Fit @ new gasket to the left side engine cover. install the cover
-and tighten
-its bolts securely. Top up the engine oil
-15._ Install the spark plugs.
-16 Install the radiator (see
-Chapter 3) and refill the cooling system
-with fresh
+14 Установите новую прокладку на левую крышку двигателя. установить крышку
+и затянуть
+его болты надежно закреплены. Долейте моторное масло
+15._ Установите свечи зажигания.
+16 Установите радиатор (см.
+Глава 3) и заправьте систему охлаждения.
+со свежим
 
-coolant and
+охлаждающая жидкость и
 
-bleed if of air
+истекать кровью, если есть воздух
 
-(see Section 20).
+(см. раздел 20).
 
-1100 Magna models, reconnect the radiator (see
+Модели Magna 1100, подсоедините радиатор (см.
 
-On 1986
+В 1986 году
 
-Chapter 3) and
+Глава 3) и
 
-check that its hoses are securely clamped. Tum the radiator tap
-to
-ON. Check the level of coolant, topping it up if necessary. Bleed
-the cooing system ofa (ose Sacton 20)
+убедитесь, что его шланги надежно закреплены. Поверните кран радиатора
+чтобы
+ВКЛ. Проверьте уровень охлаждающей жидкости, при необходимости долив ее. Кровотечение
+система воркования (ose Sacton 20)
 7
-18 star the engine end check thal there Is no sign of ol
-leakage
+18 звезд, проверьте конец двигателя, нет ли следов старого
+утечка
 
-17.3 Idle speed adjuster (arrow)
+17.3 Регулятор холостого хода (стрелка)
 
-from the valve covers.
+из клапанных крышек.
 
 17
 
-Idle speed - check and adjustment
+Холостой ход – проверка и регулировка
 
-1986 through 1988 700/750 Magna models
-19 Shut off the tap at the radiator bottom hose union and release
-coolant pressure by momentarily loosening the coolant drain plug
+Модели 700/750 Magna с 1986 по 1988 год.
+19 Закройте кран на штуцере нижнего шланга радиатора и отпустите его.
+давление охлаждающей жидкости, на мгновение ослабив пробку слива охлаждающей жидкости
 
-Reterto Mustraton 17:3
+Ретерто Мустратон 17:3
 
-set in the subframe, Disconnect the radiator side mountings and its
+Установите в подрамник, отсоедините боковые крепления радиатора и его
 
-the carburetors
-are synchronized and when it is obviously too high
-oF too low. Before adjusting the idle speed, make sure the valve
-clearances and
-spark plug gaps are correct. Also, tum
-the
-handlebars back-and-forth and see if the idle speed
-changes as
-this is done. If it does, the throttle cables may not be adjusted
+карбюраторы
+синхронизированы и когда оно явно слишком велико
+или слишком низко. Перед регулировкой холостого хода убедитесь, что клапан
+разрешения и
+Зазоры свечей зажигания правильные. Кроме того,
+тот
+руль вперед-назад и проверьте, снижаются ли обороты холостого хода.
+меняется как
+это сделано. Если это так, возможно, тросы дроссельной заслонки не отрегулированы.
 
-top and bottom hoses, disconnect its wiring, then pivot the radiator
+верхний и нижний шланги, отсоедините проводку, затем поверните радиатор
 
-forwards about its top mounting point; tie It to the forks out of the
-way of the front cylinder (see Section 20).
-20 On 1987 and 1988 models, pull off its wires and unbolt the horn
-from the left frame tube.
+вперед относительно верхней точки крепления; привяжите его к вилкам из
+пути переднего цилиндра (см. раздел 20).
+20 На моделях 1987 и 1988 годов отсоедините провода и открутите звуковой сигнал.
+из левой трубы рамы.
 
-‘1 The idle speed
+'1 Скорость холостого хода
 
-should be checked and adjusted before and after
+должны быть проверены и отрегулированы до и после
 
-correctly, or may be worn out.
+правильно или может быть изношен.
 
-This is @ dangerous condition that
+Это @ опасное состояние, которое
 
-22 Remove the valve cover bolts and lif off both vaive covers, plus
-the
-rear cylinder vaive cover base (see Chapter
+22 Отверните болты клапанной крышки и снимите обе крышки клапанов, а также
+тот
+Основание крышки клапана заднего цилиндра (см. главу
 2)
-23 Remove the alternator cover from the left side of the engin
-Note that oil will run from the cover so have a drain tray positioned
+23 Снимите крышку генератора с левой стороны двигателя.
+Обратите внимание, что масло будет вытекать из крышки, поэтому установите сливной поддон.
 
-can cause loss of control of the bike, Be sure to correct this,
-ding.
-jine should be at normal operating temperature, which is
-Usualy reached efler 1010.18 minutes of slop end go rang. Place
-the motorcycle on its stand and make sure the transmission is in
+может привести к потере контроля над велосипедом. Обязательно исправьте это,
+динь.
+Jine должен иметь нормальную рабочую температуру, т.е.
+Обычно эфлер достигал 10:10,18 минут, раздался звонок. Место
+мотоцикл на подставке и убедитесь, что коробка передач включена.
 
-to catch the ol.
+поймать ол.
 
-Neutral.
+Нейтрально.
 
-24 Rotate the crankshaf by turning the altemator rotor bolt in a
-Clockwise direction until the intake cam lobes of No 3 cylinder (see
-illustration 1.1 in Chapter 2 for cylinder identification) are at
-maximum lit (valves fully depressed). In this position, check the
-ances on the intake
-valves of cylinder No 1.
+24 Проверните коленчатый вал, повернув болт ротора альтематора в
+По часовой стрелке до тех пор, пока кулачки впускного кулачка цилиндра № 3 (см.
+рисунок 1.1 в главе 2 для идентификации цилиндра) находятся на
+горит максимально (клапаны полностью опущены). В этом положении проверьте
+ставки на прием
+клапана цилиндра №1.
 25
-Check and adjustthe valve
-clearances as described in Steps 8
-and 9 above.
-26 Rotate the alternator bolt further clockwise until the Intake cam
-lobes of No 1 cylinder are at maximum tit, then check the
-clearances of No 3intake valves.
+Проверьте и отрегулируйте клапан
+зазоры, как описано в шаге 8.
+и 9 выше.
+26 Поворачивайте болт генератора дальше по часовой стрелке, пока впускной кулачок
+кулачки первого цилиндра находятся в максимальном положении, затем проверьте
+зазоры впускных клапанов №3.3 Поверните винт регулировки холостого хода, расположенный в основании клапана № 1.
+цилиндра карбюратора до тех пор, пока скорость холостого хода не станет указанной в этой главе.
+Технические характеристики получены (см. иллюстрацию).
+4 Несколько раз резко откройте и закройте дроссельную заслонку, затем еще раз проверьте
+Скорость холостого хода. при необходимости повторите процедуру регулировки.
+5 Если удалось добиться плавного и устойчивого холостого хода, топливно-воздушная смесь
+может быть Неверным. Дополнительную информацию о карбюраторе см. в главе 4.
+Информация.
 
-3 Tum the idle speed screw, located at the base of the No 1
-cylinder carburetor until the idle speed listed In this Chapter's
-Specifications is obtained (see ilustration).
-4 Snap the throttle open and shut a few times, then recheck the
-Idle speed. ifnecessary, repeat the adjustment procedure.
-5 If a smooth, steady idle cart be achieved, the fueVair mixture
-may be Incorrect. Refer to Chapter 4 for additional carburetor
-Information.
+27 Поверните
 
-27 Rotate the
-
-48 Carburetor synchronization - check and adjustment
+48 Синхронизация карбюратора – проверка и регулировка
 
 21
 
-Remove all four spark plugs.
+Снимите все четыре свечи зажигания.
 
-alternator bolt clockwise until
-the
+болт генератора по часовой стрелке, пока
+тот
 
-exhaust cam lobes
+кулачки выпускного кулачка
 
-of No 3 cylinder are at maximum lif, then check the clearances of
-No 1 exhaust valves. Further rotate the crankshaft until the No 1
-exhaust cam lobes are a maximum lif and check the clearances of
-No 3 exhaust valves.
-28 Repeat the same procedure to check the clearances of the front
-cylinders (Nos 2
+цилиндра № 3 имеют максимальный ресурс, затем проверьте зазоры
+Выпускные клапана №1. Далее вращайте коленчатый вал до положения №1.
+Кулачки выпускного кулачка имеют максимальный срок службы и проверьте зазоры
+Выпускных клапанов нет 3.
+28 Повторите ту же процедуру, чтобы проверить зазоры передней
+цилиндры (№2
 
-and 4).
+и 4).
 
-29 When all clearances have been checked and if necessary
-adjusted, install the valve covers (see Chapter
+29 После проверки всех зазоров и при необходимости
+отрегулированы, установите клапанные крышки (см. главу
 2).
-30 Fit a new gasket to the left side engine cover. install the cover
-and tighten its bolts securely. Top up the engine oil
-31__Install
+30 Установите новую прокладку на левую боковую крышку двигателя. установить крышку
+и надежно затяните болты. Долейте моторное масло
+31__Установить
 
-the spark plugs.
+свечи зажигания.
 
-32 Reconnect the radiator (see
+32 Подсоедините радиатор (см.
 
-Chapter
+Глава
 
-3) and check that its
+3) и проверьте, что это
 
-hoses are securely clamped. Tum the radiator tap to ON. Check
-the level of coolant. topping it up if necessary. Bleed the cooling
+шланги надежно закреплены. Поверните кран радиатора в положение ВКЛ. Проверить
+уровень охлаждающей жидкости. пополнив его при необходимости. Прокачать охлаждение
 
-system of air (see
+система подачи воздуха (см.
 
-Section 20).
+раздел 20).
 
-33 _ Install
+33 _ Установить
 
-fuel tank (see Chapter 4),
+топливный бак (см. главу 4),
 
-the
+тот
 
-34 Start the engine
-from the valve covers.
+34 Запустите двигатель
+из клапанных крышек.
 
-and check that there is no sign of oll leakage
+и убедитесь, что нет никаких признаков утечки масла.
 
-Waring:
+Уоринг:
 
-Gasoline (petrol)
+Бензин (бензин)
 
-is
+есть
 
-extremely flammable,
+чрезвычайно легковоспламеняющийся,
 
-so
+так
 
-take
+взять
 
-exta
+экстра
 
-when you work on any part ofthe fuel system. Don't smoke or
-_precautons
-Sor bare light bulbs
+при работе с какой-либо частью топливной системы. Не курите или
+_меры предосторожности
+Сор голые лампочки
 
-near the work area, and dont work
+рядом с местом работы и не работайте
 
-@ natural gas-type appliance (such as a water heater
-or cbthes dryer) is present it you spil any tue! on your skin,
-ately wit
+@ прибор, работающий на природном газе (например, водонагреватель
+или сушилку) присутствует, если вы прольете любой вторник! на твоей коже,
+остроумие
 
-soap and water.
+мыло и вода.
 
-(on the fuel system,
+(по топливной системе,
 
-wear safety
+безопасность ношения
 
-When you perform any
+Когда вы выполняете какое-либо
 
-rinse it off
+смыть это
 
-kind of work
+вид работы
 
-glasses and have a fire extinguisher
+очки и иметь огнетушитель
 
-suitable fora Class B type fire (Hammable iquidis)
+подходит для пожара класса B (Hammable iquidis)
 
-on hand.
+под рукой.
 
-1 Carburetor synchronization is simply the process of adjusting the
-carburetors so they pass the same amount of fuel/air mixture to
-each cylinder. This is done by measuring the vacuum produced in
+1 Синхронизация карбюратора – это просто процесс регулировки
+карбюраторы, чтобы они пропускали одинаковое количество топливно-воздушной смеси в
+каждый цилиндр. Это делается путем измерения вакуума, создаваемого в
 
-each
-cylinder.
-Carburetors that are out of synchronization will result
-In decreased fuel mileage,
-increased engine temperature. less than
-ideal throttle response and higher vibration levels.
-2 To properly synchronize the carburetors, you will need some sort
-of vacuum gauge setup, preferably with a gauge for each cylinder,
-or a mercury manometer, which is a calibrated tube arrangé
+каждый
+цилиндр.
+Карбюраторы, которые не синхронизированы, могут привести к
+При уменьшении расхода топлива,
+повышенная температура двигателя. меньше чем
+идеальный отклик дроссельной заслонки и более высокий уровень вибрации.
+2 Чтобы правильно синхронизировать карбюраторы, вам понадобится какой-нибудь
+установки вакуумметра, желательно с манометром для каждого цилиндра,
+или ртутный манометр, представляющий собой калиброванную трубку.
 
-that utilizes columns of mercury to indicate
-engine vacuum.
-3A manometer can be purchased from a motorcycle dealer or
-accessory shop and should have the necessary screw+in adaptors
+который использует столбики ртути для обозначения
+вакуум двигателя.
+3А манометр можно приобрести у дилера мотоциклов или
+магазин аксессуаров и должен иметь необходимые переходники с винтами.
 
-Chapter1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-418.12 Synchronization screw forNo3 carburetor (arow)
+418.12 Винт синхронизации карбюратора №3 (стрелка)
 
-18.8 Carburetor synchronization adapter plugs are located in
-intake tracts (arrow)
+18.8 Заглушки адаптера синхронизации карбюратора расположены в
+впускные тракты (стрелка)
 
-the mercury used in the manometer is a liqud, and extremely toxic,
+ртуть, используемая в манометре, является жидкостью и чрезвычайно токсична.
 
-the vacuum readings vary, adjust as necessary. First locate the
-adjusting screws: the adjusting screw for No 3 carburetor
-is next to the
-throttle stop screw, whereas those for Nos 2 and 4 carburetors are
-located in-between the carburetor bodies - all are accessed from
-undemeath (see
-illustration). Note:
-Wo 1 carburetor has no
-adjustment screw and shoul! be regarded as the base setting
-13 Adjust each screw until all carburetors are synchronized, then open
+Показания вакуума меняются, при необходимости отрегулируйте. Сначала найдитерегулировочные винты: регулировочный винт карбюратора №3
+находится рядом с
+стопорный винт дроссельной заслонки, тогда как для карбюраторов № 2 и 4
+расположены между корпусами карбюраторов – все доступны из
+бессмертие (см.
+иллюстрация). Примечание:
+Карбюратора Wo 1 нет.
+регулировочный винт и плечо! рассматриваться как базовая установка
+13 Отрегулируйте каждый винт до тех пор, пока все карбюраторы не будут синхронизированы, затем откройте
 
-extra
+дополнительный
 
-‘supplied with it for hooking into the intake tract of the engine,
-4A vacuum gauge setup can also be purchased fom a dealer or
-fabncated from commonly available hardware and automotive vacuum
-gauges,
+'поставляется в комплекте для подсоединения к впускному тракту двигателя,
+Установку вакуумметра 4А также можно приобрести у дилера или
+создан из общедоступного оборудования и автомобильного пылесоса.
+датчики,
 
-5 The manometer is the more reliable end accurate instrument, and for
-that reason is prefered over the vacuum gauge selup, however, since:
-of the
+5 Манометр является более надежным и точным прибором, и для
+Однако эта причина предпочтительнее, чем установка вакуумметра, поскольку:
+из
 
-and close the throttle quickly to settle the linkage and recheck the
+и быстро закройте дроссельную заслонку, чтобы установить связь, и еще раз проверьте
 
-6 Because of the nature of the synchronization procedure and the need
+6 Из-за особенностей процедуры синхронизации и необходимости
 
-gauge readings. re-adjusting ifnecessary. Note: Do not press down on
-the screws while adustng them, otherwise @ fake reading wif be
+показания манометра. повторная регулировка при необходимости. Примечание. Не нажимайте на
+винты при их настройке, иначе @ будет фальшивое чтение.
 
-for special instruments,
+для специальных инструментов,
 
-obtained
+получено
 
-precautions must
+меры предосторожности должны
 
-be
+быть
 
-taken
+взято
 
-during use
+во время использования
 
-and
+и
 
-storage
+хранение
 
-instrument.
-most owners
+инструмент.
+большинство владельцев
 
-leave the task to a dealer service
+оставьте эту задачу дилерскому сервису
 
-department or a reputable motorcycle repair
+отдел или авторитетный сервис по ремонту мотоциклов.
 
-shop,
+магазин,
 
-7 Start the engine and let & run until it reaches normal operating
+7 Запустите двигатель и дайте ему поработать, пока он не достигнет нормального режима работы.
 
-temperature, Check the idle speed and adjust if necessary, then shut
-off
+температуры, проверьте скорость холостого хода и при необходимости отрегулируйте, затем закройте
+выкл.
 
-14 When the adjustment
-is complete, recheck
-the idle speed, then stop
-the engine. Remove the vacuum gauge or manometer and adaptors,
-then install the intake tract plugs. On 700/750 Sabres and 1987 and
-1988 700/750 Magnas, remove the clamp from the fuel valve line and
-reconnect the
+14 Когда регулировка
+завершено, проверьте еще раз
+обороты холостого хода, затем остановитесь
+двигатель. Снимите вакуумметр или манометр и адаптеры,
+затем установите заглушки впускного тракта. На 700/750 Сэйбрз и 1987 г.в.
+1988 700/750 Magnas, снимите хомут с топливопровода и
+повторно подключите
 
-700/750 Sabres, 1987 and 1988 700/750
+700/750 Сэйбрз, 1987 и 1988 гг. 700/750
 
-line to the fitting on the No 1 (Sabre) or No 2 (Magna)
+линия к штуцеру № 1 (Sabre) или № 2 (Magna)
 
-carburetor.
+карбюратор.
 
-Magna models
-Refer
-to
-ilstraton 18.8
-8 On Sebre models, remove the plugs from the No 2, 3 end 4 cylinder
-intake
-tracts, and on Magna models removethe plugs from the
-No 1, 3
-‘and cyinder intake tracts (see illustration). Install the vacuum gauge
-‘or manometer adaptors into the intake tract plug holes,
+Модели Магна
+Обратитесь
+чтобы
+илстратон 18.8
+8 На моделях Sebre снимите заглушки с цилиндров № 2, 3 и 4.
+прием
+тракта, а на моделях Magna снимите заглушки с
+№ 1, 3
+'и впускные тракты цилиндров (см. рисунок). Установите вакуумметр
+'или переходники манометра в заглушки впускного тракта,
 
-the
+тот
 
-vacuum
+вакуум
 
-gauge
+манометр
 
-set
+набор
 
-or
+или
 
-the
+тот
 
-manometer
+манометр
 
-49. Cooling system - check
-Waring: The engine must
-be coo! before beginning this procedure
+49. Система охлаждения – проверка
+Внимание: Двигатель должен
+будь крут! перед началом этой процедуры
 
-neck the coolant level as descnbed in Section 3
+Проверьте уровень охлаждающей жидкости, как описано в разделе 3.
 
-then hook up
+тогда подключайся
 
-according
+согласно
 
-to
+чтобы
 
-the
+тот
 
-manufacturers instructions. Make sure there are no air leaks in the set
-up, 2s false readings will esut
+инструкции производителей. Убедитесь, что в комплекте нет утечек воздуха.
+вверх, будут ложные показания в течение 2 с.
 
-9 Start the engine end clamp the vacuum line running between the
-automatic fuel valve and the No 1 (Sebre) or No 2 (Magna) cyknder
-head intake tract, then stop the engine and disconnect the vacuum line
+9 Запустите двигатель. Со стороны двигателя зажмите вакуумную линию, проходящую между
+автоматический топливный клапан и цилиндр № 1 (Sebre) или № 2 (Magna).
+прокрутите впускной тракт, затем заглушите двигатель и отсоедините вакуумную магистраль
 
-he entire cooling system
+вся система охлаждения
 
-leakage.
+утечка.
 
-should
+должен
 
-be checked
+быть проверенным
 
-Examine each rubber coolant hose
+Осмотрите каждый резиновый шланг охлаждающей жидкости.
 
-Look for cracks,
+Ищите трещины,
 
-for evidence of
+для доказательства
 
-along @s
+вдоль @s
 
-entire length.
+всю длину.
 
-abrasions and other damage. Squeeze each hose at
+ссадины и другие повреждения. Сожмите каждый шланг в
 
-various points. They should feel firm,
-onginal shape when released.
+различные точки. Они должны чувствовать себя твердыми,
+первоначальную форму при освобождении.
 
-yet pliable, and retum to their
+но податливы и возвращаются к своим
 
-If they are dried out or hard,
+Если они высохли или затвердели,
 
-replace
+заменить
 
-them with new ones
+их с новыми
 
-from the fing on the evinder heed. Connect the remaning ine from
-the vacuum gauge or menometerto tis fiting.
+с пальца на видное внимание. Подключите оставшуюся линию от
+вакуумметр или менометр.
 
-3 Check for evidence of leaks at each cooling system joint Tighten the
-hose dips carefully
-to
-prevent future leaks. Similarty, check the coolant
-crossover pipes between the cylinder banks, the coolant inlet pipe on
+3 Проверьте наличие утечек в каждом соединении системы охлаждения. Затяните
+Шланг осторожно погружается
+чтобыпредотвратить будущие утечки. Аналогия, проверка охлаждающей жидкости
+перепускные трубы между рядами цилиндров, впускной патрубок охлаждающей жидкости на
 
-All other models
+Все остальные модели
 
-the left side of the engine,
+левая сторона двигателя,
 
-0 Remove the plugs from the intake tracts on all cylinders, install the
-adaptors into the plug
+0 Снимите заглушки с впускных трактов всех цилиндров, установите
+переходники в вилку
 
-holes end connect up the vacuum gauges or
+Концы отверстий подсоедините вакуумметры или
 
-manometer
-to the adaptors.
-up.
+манометр
+к адаптерам.
+вверх.
 
-as
+как
 
-Make sure there ere
+Убедитесь, что здесь
 
-no air leaks in the set
+в комплекте нет подсоса воздуха
 
-false readings will resut
+ложные показания будут отменены
 
-All models
+Все модели
 
-and the subframe connections with the
+и соединения подрамника с
 
-pump short hose
+короткий шланг помпы
 
-4 Check the radiator for leaks and other damage. Leaks in the radiator
-leave telitale scale deposts orcoolant stains on the outside of the core
+4 Проверьте радиатор на предмет утечек и других повреждений. Утечки в радиаторе
+оставлять отложения накипи или пятна охлаждающей жидкости на внешней стороне активной зоны
 
 3)
-(see Chapter
-below the leak. If leaks are noted, remove the radiator
-‘and have it repaired at a radiator shop or replace it with a new one.
-Caution: Do not use 2 squid feak stopping compound 1
-ty to repair
-feats
+(см. главу
+ниже утечки. Если обнаружены утечки, снимите радиатор.
+«И отремонтируйте его в радиаторной мастерской или замените на новый.
+Внимание: не используйте 2 средства для остановки кальмара 1.
+пора ремонтировать
+подвиги
 
-Refer to ilustration 18.
+См. рисунок 18.
 
-11 Start the engine and check
-thet the idle speed is correct, adjusting it
-If necessary. If the gauges are fitted with damping adjustment, set this
-0 that the needle futter is just eliminated but so that they can sti
-respond to small changes in pressure.
+11 Запустите двигатель и проверьте
+значит скорость холостого хода правильная, отрегулируйте ее
+Если необходимо. Если манометры оснащены регулировкой демпфирования, установите это значение.
+0, что игольчатые только что устранены, но чтобы они могли остаться
+реагировать на небольшие изменения давления.
 
-12 The vacuum readings for all
+12 Показания вакуума для всех
 
-radiator and water
+радиатор и вода
 
-of the cylinders should be the same. or
+Цилиндры должны быть одинаковыми. или
 
-least within the tolerance listed in this Chepter’s Specifications. If
+как минимум в пределах допуска, указанного в Спецификациях данной главы. Если
 
-5 Check the radiator fins for mud, ditt and insects, which may impede
-the flow of air through theradiator. If the fins are dirty, force
-water or
-low pressure compressed air through the fins from the backside. Ifthe
+5 Проверьте ребра радиатора на наличие грязи, грязи и насекомых, которые могут помешать
+поток воздуха через радиатор. Если плавники загрязнены, примените силу.
+вода или
+Сжатый воздух низкого давления через ребра с задней стороны. Если
 
-fins are bent or distorted, straighten
+плавники согнуты или искривлены, распрямите
 &
 
-Remove
+Удалить
 
-the
+тот
 
-radiator
+радиатор
 
-them carefully with a screwdaver.
-cep
+их осторожно отверткой.
+белый гриб
 
-by
+по
 
-tuming
+поворот
 
-t
+т
 
-counterclockwise
+против часовой стрелки
 
-(anticloclovise) until it reaches a stop. If you hear a hissing sound
+(антикло-кловичный поворот) до упора. Если вы слышите шипящий звук
 
-Chapter1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-20.2 Coolant drain plug in subframe (right arrow) and in water
+20.2 Пробка слива охлаждающей жидкости в подрамнике (стрелка вправо) и в воде
 
-204 Coolant drain plugs in engine case (arrows)
+204 Пробки слива охлаждающей жидкости в картере двигателя (стрелки)
 
-Pump cover (left arrow)
-(indicat
+Крышка насоса (стрелка влево)
+(указать
 
-at until
+до тех пор, пока
 
-press di
+нажмите ди
 
-the cap until
+кепка до тех пор, пока
 
-Now
+Сейчас
 
-it stops.
+оно останавливается.
 
-t can be
+это может быть
 
-the subframe n
+подкадр n
 3
 
-Remove
+Удалить
 
-system wi
-racks
+система Wi
+стеллажи
 
-tuming
+поворот
 
-end
+конец
 
-ion,
+ион,
 
-other
+другой
 
-damage.
+ущерб.
 
-If
+Если
 
-in
+в
 
-doubt
+сомнение
 
-about
+о
 
-have it tested by a dealer service
+проверьте его в дилерском сервисе
 
-@ new one.
+@ новый.
 
-the
+тот
 
-pressure
+давление
 
-department or
+отдел или
 
-cap's
+кепка
 
-joved.
+веселился.
 
-As the
+Как
 
-pared
+урезанный
 
-for this
+для этого
 
-the water pump and
+водяной насос и
 
-offer
+предложение
 
-of the
+из
 
-adequateprotecton.
+адекватная защита.
 
-2 engine
+2 двигателя
 
-let it reach
+пусть это достигнет
 
-and
+и
 
-leaks again.
-on
+снова течет.
+на
 
-normal
+нормальный
 
-opé
+опэ
 
-As the coolant temper
+По температуре охлаждающей жидкости
 
-automatically
+автоматически
 
-and the
+и
 
-t
+т
 
-crop. If 8 does not. ref
+урожай. Если 8 нет. ссылка
 
-(see
+(см.
 
-Section
+Раздел
 
-ing temperature,
+температура,
 
-ture
+тура
 
-increases,
+увеличивается,
 
-Man
+Мужчина
 
-caretuly.
+осторожно.
 
-and no evidence of leaks can
+и никакие доказательства утечек не могут
 
-ed
+Эд
 
-by a Honda dealer
-ation
+у дилера Хонды
+ация
 
-the painted surfaces
-of the motorcycle. Rinse off spits
-of water
-Antfreeze
-is highly toxic if mgested.
-Ind in an open container or jn puddles
-oF
+окрашенные поверхности
+мотоцикла. Смывать слюны
+воды
+Анфриз
+очень токсичен при проглатывании.
+Инд в открытой таре или в лужах
+ОФ
 
-and may dink
+и может подумать
 
-loca! authonties (councils) about disposing of antimeze
+лока! авторитеты (советы) по утилизации антимезы
 
-Many communites
-have colecton centers which
-wil
+Многие сообщества
+имеют колектонные центры, которые
+будет
 
-See that antifreeze is
+Посмотрите, антифриз
 
-so dont store it near
+так что не храни его рядом
 
-open flames
+открытое пламя
 
-clean
+чистый
 
-is dear and
+дорогой и
 
-Refer
-to ilustratons
-11 With the engine
+Обратитесь
+к иллюстрациям
+11 С двигателем
 
-extremely comoded,
-cleaned at a radiator
+чрезвычайно комодный,
+чистил на радиаторе
 
 8
 
-cleanly
+чисто
 
-tap water by inserting
+водопроводную воду, вставив
 
-@ garden hose in
+@ садовый шланг в
 
-out
+из
 
-of both
+обоих
 
-drain holes.
+сливные отверстия.
 
-If
+Если
 
-system until
+система до тех пор, пока
 
-it
+это
 
-the radiator is
+радиатор
 
-remove it by referring to Chapter 3 and have it
-shop
+удалите его, обратившись к главе 3, и получите его
+магазин
 
-Clean the holes then
+Затем очистите отверстия
 
-the
+тот
 
-cooling
+охлаждение
 
-tal the
+тал
 
-Make
+Сделать
 
-system
+система
 
-with
+ссливные болты и уплотнительные шайбы
 
-drain bolts and sealing washers
+конечно
 
-sure
+тот
 
-the
+компоненты,
 
-components,
+и
 
-and
+чистая вода, смешанная с
 
-clean water mixed with
+Фуст
 
-fust
+следовать
 
-follow
+соединение
 
-compound
+тот
 
-the
+есть
 
-is
+а
 
-a
+смывка
 
-fushing
+совместимый
 
-compatible
+производители
 
-manufacturers
+с
 
-with
+инструкции
 
-instructions
+10 Запустите двигатель и дайте ему повторно:
 
-10 Start the engine and allow it re:
+ч нормальный
 
-ch normal
+рабочая температура
 
-operating temperature
+Давай побежим минут десять
+11 Остановите двигатель. Дайте ему немного остыть,
+затем покрыть давление
+с тяжелым полотенцем и поверните его против часовой стрелки.
+(антитактический
+тот
 
-Lett run for aboutten minutes
-11 Stop the engine. Let it cool for @ while,
-then cover the pressure
-with @ heavy shop towel and tum it counterclockwise
-(anticlocky
-the
+кулак
 
-fist
-
-system.
+система.
 2
 
-stop,
+остановись,
 
-releasing
+выпуск
 
-any
+любой
 
-pressure
+давление
 
-Once the hissing stops,
+Как только шипение прекратится,
 
-fat
+толстый
 
-may
+может
 
-be
+быть
 
-present
+настоящий
 
-in
+в
 
-the
+тот
 
-push down on the cap and remove
+надавите на крышку и снимите
 
-it
+это
 
-pletely,
+полностью,
 
-Drain the system once agai
+Слейте систему еще раз
 
-13 Fill the system with clean water and repeat the procedure in Steps
+13 Заполните систему чистой водой и повторите процедуру, описанную в шагах.
 
-Oto 12.
+Ото 12.
 
-14 Fit new sealing washers to the drain bolts and install them in the
+14 Установите новые уплотнительные шайбы на сливные болты и установите их в
 
-20.2 and 20.4
-cold place
+20,2 и 20,4
+холодное место
 
-fenaine
+фенаин
 
-the matorcycte on the main stand on leve
+матоцикл на главной трибуне на уровне
 
-Where no main stand is fitted,
+Если основная подставка не установлена,
 
-ensure that the motorcycle
+убедитесь, что мотоцикл
 
-supported in an upright position. Remove
+поддерживается в вертикальном положении. Удалить
 
 700/750
 
-flows
+потоки
 
-Refilling
+Заправка
 
-Draining
+Слив
 
-ground.
+земля.
 
-it
+это
 
-carefully
+тщательно
 
-completely before performing this
+полностью, прежде чем выполнять это
 
-disposed of safely. Antirseze & also combustible,
+утилизировать безопасно. Антирсезе, а также горючее,
 
-in the front of the engin
+в передней части двигателя
 
-replace all drain bolts,
+заменить все сливные болты,
 
-the radiator filer neck.
-Allow
-the
-water to run through the
+горловина фильтра радиатора.
+Разрешить
+тот
+вода, протекающая через
 
-aluminum
+алюминий
 
-allow antifreeze to come into contact
+допустить попадания антифриза
 
-the floor, chidren and pets are attracted by its sweet smell
+пол, детей и домашних животных привлекает его сладкий запах
 
-rained,
+дождь,
 
-tightening them securely
+надежно затягивая их
 
-20 Cooling system - draining, flushing and refilling
-engine t coo!
+20 Система охлаждения – слив, промывка и заправка
+двигатель крут!
 
-its
+это
 
-be
+быть
 
-Drain the coolant reservoir Refer to Chapter 3 for reservoir removal
+Слейте бачок охлаждающей жидкости. Подробную информацию о снятии бачка см. в главе 3.
 
-smpound,
+паунд,
 
-maintenance operation. Also, don’t
+операции по техническому обслуживанию. Кроме того, не
 
-Now
+Сейчас
 
-coolant drain bolt
+болт слива охлаждающей жидкости
 
-Procedure. Wash out the reservoir with water and install
+Процедура. Промойте резервуар водой и установите
 
-9 Fill
+9 Заполнить
 
-‘Waming: Albw the
+'Ваминг: Хотя
 
-sound
+звук
 
-coolant will increase,
+охлаждающая жидкость увеличится,
 
-y removing the
+убираю
 
-the two drain
+эти двое истощают
 
-ite
+ите
 
-the fan
+вентилятор
 
-heck the fan and fan circuit
+проверь вентилятор и его цепь
 
-Ifthe coolant level is consistently lov
+Если уровень охлаждающей жидкости постоянно находится на низком уровне.
 
-hissing
+шипение
 
-then
+тогда
 
-rature should begin to
+зрелость должна начать
 
-service department, motoreycle
-repair shop or servic
+сервисный отдел, моторейкл
+ремонтная мастерская или сервис
 
-counterclockwise
+против часовой стрелки
 
-watt until it Stops,
+ватт, пока он не остановится,
 
-iNustration).
+Инстрация).
 
-but
+но
 
-If the hydromet
+Если гидромет
 
-n and refill the system
+n и заправьте систему
 
-Check with
+Проверьте с
 
-fed the flow of
+питал поток
 
-4 Drain coolant from the engine
+4 Слейте охлаждающую жидкость из двигателя.
 
-tent
+палатка
 
-it
+это
 
-If you hear a
+Если вы слышите
 
-pressure in the system),
+давление в системе),
 
-press down on the cap and continue turning the cap untilt can
+нажмите на крышку и продолжайте поворачивать ее до тех пор, пока она не
 
-place it
+помести это
 
-jant looks lke its in good condtion,
+Джант выглядит так, будто он в хорошем состоянии,
 
-come
+приди
 
-there is stil
+еще есть
 
-Install the cap by turing it cloc
+Установите крышку, повернув ее
 
-can turn further
+можно повернуть дальше
 
-should
+должен
 
-top.
+верх.
 
-). Check the cap seal for
+). Проверьте уплотнение крышки на предмет
 
 .
 
-the first stop then push d
+первая остановка, затем нажмите d
 
-1988
+1988 год
 
-tt
+тт
 
-refi th
-flush and
+рефи-й
+промыть и
 
-color
+цвет
 
 &
 
-the gearshift lever and remove the drain bolt todrain
+рычаг переключения передач и выверните сливной болт для слива
 
-the coolant from the rediator (see illustration).
+охлаждающая жидкость из редиатора (см. рисунок).
 
-Magna models
+Модели Магна
 
-move
-the engine
+двигаться
+двигатель
 
-(see Chapter
+(см. главу
 
-rear cover on
-the
+задняя крышка включена
+тот
 
-Place a suitable container under
+Поставьте подходящую емкость под
 
-the belly fairing on 1987 and
+брюшной обтекатель 1987 года и
 
 6)
 
-and
+и
 
-on all
+на всех
 
-left side
-(see Chapter
+левая сторона
+(см. главу
 
-models
+модели
 
 2).
 
-the coolant drain bol located in
+Болт слива охлаждающей жидкости, расположенный в
 
-Boece
+Боэсе
 
-case,
+случай,
 
-pump cover and subframe,
+крышка насоса и подрамник,
 
-tottening ach one securely
+надежно фиксируя каждого
 
-it is level with the lower edge of the filer neck
-mixture (see this
+он находится на уровне нижнего края горловины фильтра
+смесь (см.
 
-Filing t slowly will reduc
+Медленная подача t приведет к уменьшению
 
-Chapter’
+Глава'
 
-ir trapped in the system and
+Я попал в ловушку системы и
 
-lessen the time required to
-16 Remove
-the
+сократить время, необходимое для
+16 Удалить
+тот
 
-rubber cap from the bleed nipple on t
+резиновый колпачок со штуцера для прокачки на t
 
-housing and attach a clearplastic
-hose to t
+корпус и прикрепите прозрачный пластик
+шланг к т
 
-@ thermostat
-Place the other end into a
+@ термостат
+Поместите другой конец в
 
-Chapter 1
+Глава 1
 
-Tune-up and routine maintenance
+Настройка и текущее обслуживание
 
-20.22 1986 through 1988 models have tap in radiator outlet
+20.22 Модели 1986–1988 годов имеют кран на выпускном отверстии радиатора.
 
-1-19
+1-1921.2 Снимите пробку для слива жидкости из бачка сепаратора картера.
+более поздние модели
 
-21.2 Remove plug to drain crankcase separator tank on
-later models
-
-lean container, st
+постный контейнер, ул.
 17
 
-Start the
+Запустите
 
-temperature.
+температура.
 
-and remove
+и удалить
 
-he one used for draining
-the coolant
+он один использовал для слива
+охлаждающая жидкость
 
-engine
+двигатель
 
-and
+и
 
-let it idle
+пусть простаивает
 
-until
+пока
 
-it
+это
 
-reaches
+достигает
 
-Watch the level of the coolant
+Следите за уровнем охлаждающей жидкости
 
-normal
+нормальный
 
-operating
+действующий
 
-in the radiator and
+в радиаторе и
 
-if it
+если это
 
-Loosen the bleed nipple and
+Ослабьте штуцер для прокачки и
 
-the hose for air bubbles.
-can
+шланг для пузырьков воздуха.
+может
 
-be seen in the
+быть замеченным в
 
-ripple.
+пульсация.
 
-Keep
+Держите
 
-observe the
+наблюдать за
 
-coolant running
+охлаждающая жидкость течет
 
-through
+через
 
-Let the engine nun until no more air bubbles
+Дайте двигателю поработать до тех пор, пока не исчезнут пузырьки воздуха.
 
-coolant escaping
+охлаждающая жидкость выходит
 
-checking the
+проверка
 
-when necessary. The
+когда это необходимо.
 
-the
+тот
 
-coolant level
+уровень охлаждающей жидкости
 
-tube,
+трубка,
 
-then tighten the bleed
+затем затяните кровотечение
 
-complete,
+полный,
 
-When the bleeding
+Когда кровотечение
 
-engine and fil the radiator to
+двигатель и наполните радиатор
 
-procedure is
+процедура
 
-the bottom
+дно
 
-stop the
+остановить
 
-of the filer neck one more
+горловины фильтра еще один
 
-Check the level of coolant in the reservoir tank and, withthe
-Upper
+Проверьте уровень охлаждающей жидкости в расширительном бачке и с помощью
+Верхний
 
-mark.
+отметка.
 
-As a final step,
+В качестве последнего шага
 
-coolant
+охлаждающая жидкость
 
-install the belly fairing
+установить нижний обтекатель
 
 20
 
-_Check the system for leaks and rectify them immediately,
-of the old coolant by pouring it down the drain
-@ heavy plastic container. cap it tightly and take it
+_Проверьте систему на наличие утечек и немедленно устраните их,
+старой охлаждающей жидкости, вылив ее в канализацию
+@ тяжелый пластиковый контейнер. закрой плотно и возьми
 
-an authonzed disposal site or service station - see Warning at the
-beginning of this Section
+авторизованный пункт утилизации или станцию технического обслуживания — см. Предупреждение на
+начало этого раздела
 
-on
+на
 
-the
+тот
 
-crankcase
+картер
 
-maintenance.
+техническое обслуживание.
 
-For
+Для
 
-there is no drain hose
+нет сливного шланга
 
-the
+тот
 
-purpose
+цель
 
-If
+Если
 
-the separator tank
-is suspected of
+резервуар сепаратора
+подозревается в
 
 22
 
-Evaporative emission control system and Secondary
-air
+Система контроля выбросов в результате испарения и вторичная
+воздух
 
 1
 
-The Evaporative emission
+Испарительные выбросы
 
-routes fuel
+маршруты топлива
 
-control system
+система управления
 
-vapors from the fuel s:
+пары топлива:
 
-of
+из
 
-letting
+сдача в аренду
 
-them
+они
 
-vapors
+пары
 
-(installed
+(установлен
 
-into
+в
 
-the
+тот
 
-are stored
+хранятся
 
-in
+в
 
-system (installed from
+система (установлена из
 
-a
+а
 
-o:
+о:
 
-1986
+1986 год
 
-If the
+Если
 
-radiator
+радиатор
 
-requires removal
+требует удаления
 
-for
+для
 
-present in the exhaust gases, reducing that which
-atmosphere.
+присутствует в выхлопных газах, уменьшая то, что
+атмосфера.
 
-Both
+оба
 
-systems
+системы
 
-in Chapter4
+в главе 4
 
-to the
+к
 
-front eyinder components, full draining of the radiator
-and
+передние компоненты, полный слив радиатора
+и
 
-greater detail
+более подробная информация
 
-coolant
+охлаждающая жидкость
 
-pipes
+трубы
 
-2 Refer to Chapter
-4 for component location details,
+2 См. главу
+4 для получения подробной информации о расположении компонентов,
 
-can
+может
 
-be
+быть
 
-avoided
+избегал
 
-by shutting
+закрывая
 
-off
+выкл.
 
-the
+тот
 
-tap
+нажмите
 
-in the
+в
 
-direction indicated by its arrows
+направление, указанное стрелками
 
-hoses
+шланги
 
 23
-Having
-shut
-the tap, loosen and then
+Имея
+закрыть
+кран, ослабьте и затем
 
-tighten the coolant drain bolt in
+затяните болт слива охлаждающей жидкости
 
-the subtrame (see illustration 20.2) to release pressure.
+субтрам (см. рисунок 20.2), чтобы сбросить давление.
 
-The radiator
+Радиатор
 
-can be pivoted forwards about its top mounting
-disconnection of the radiator
+можно повернуть вперед относительно верхнего крепления
+отключение радиатора
 
-24 On installation,
+24 При установке
 
-ensure that
+убедиться, что
 
-and open the radiator
+и открой радиатор
 
-tap
+нажмите
 
-al
+аль
 
-system
+система
 
-component,
+компонент,
 
-If any require replacement,
+Если что-то требует замены,
 
-and connections
+и связи
 
-before removal.
+перед удалением.
 
-and inspect the
+и осмотреть
 
-replacing them if spit or
+замена их, если плюнуть или
 
-take note
+принять к сведению
 
-of their
+их
 
-exact routing
+точная маршрутизация
 
-Check the emission system canister
+Проверьте канистру системы выброса
 
-hoses.
+шланги.
 
-hose connections are securely
+шланговые соединения надежно закреплены
 
-made.
+сделал.
 
 23.
 
-1982 through 1984 700/750 Magnas,
+1982–1984 гг. 700/750 Магнас,
 
-Exhaust system -check
+Выхлопная система – проверка
 
-1 Periodically check all
+1 Периодически проверяйте все
 
-ilustration 21.2
+иллюстрация 21.2
 
-any sludge from the crankcase breather tank
-at the specified
+осадок из бачка вентиляции картера
+в указанном
 2.
 
-cracked.
+треснул.
 
-each
+каждый
 
-located on the subframe crosstube for cracks or damag
+расположен на поперечине подрамника на наличие трещин или повреждений
 
-Crankcase breather - check
+Сапун картера - проверка
 
-1On 700/750 Sabres and
+1На 700/750 Саблях и
 
-between
+между
 
-passes into the
+переходит в
 
-and their components are described in
+и их компоненты описаны в
 
-lower
+ниже
 
-Refer
-to
+Обратитесь
+чтобы
 
-1984-on)
+1984-по)
 
-atmos
+атмосфера
 
-access
+доступ
 
 24.
 
-fom
+из
 
-he engine to be bumed,
+он двигатель, чтобы сгореть,
 
-evaporate
+испаряться
 
-air into the exhaust ports to promote the buming of any excess fuel
+воздух в выхлопные отверстия, чтобы способствовать сжиганию лишнего топлива
 
-illustration).
+иллюстрация).
 
-mounting bolts and
+крепежные болты и
 
-routine
+рутина
 
-disconnect its hoses and drain off any fluid
+отсоедините шланги и слейте всю жидкость
 
-Secondary air supply
+Подача вторичного воздуха
 20.2
 
-22 1986 through 1988 models are equipped with @ tap at the radiator
+22 модели 1986–1988 годов оснащены краном @ на радиаторе.
 
-side
+сторона
 
-of
+из
 
-not cracked or deteriorated and thet they are
+не треснутые и не испорченные, и тогда они
 
-blockage at any time,
+блокировка в любое время,
 
-engine isn't running,
+двигатель не работает,
 
-Refer
-o Hustraton
+Обратитесь
+о Густратонпередышка
 
-breather
+что шланги от сапуна
+в картер
 
-that the hoses from the breather
-to the crankcase
+и корпус воздушного фильтра
 
-and air fiter housing are
+вместо этого
 
-instead
+Кран радиатора
+{см.
 
-Radiator tap
-{see
+модели и позже 700/750 Magnas,
+объект
 
-odels and later 700/750 Magnas,
-facility
+система подачи (только модели для Калифорнии) – проверьте
 
-supply system (Califomia models only) -check
+Не выбрасывайте
 
-Do not dispose
+Вместо этого налейте
+т в
 
-Instead pour
-t into
+союз
 
-union
+чтобы было видно с первого взгляда,
 
-up to be seen at a glance,
+Установить
 
-Install
+Модели 700/750 Magna 1987 и 1988 годов.
 
-1987 and 1988 700/750 Magna models
+также
 
-also
+выход
 
-outlet
+любая сборка
 
-any build
+картер к баку сепаратора и от сепаратора
 
-crankcase to the separator tank and from the separator
+покататься на мотоцикле
 
-ride the motorcyclefor a
-
-couple of miles and then recheck the coolant level one last time.
-the engine rear cover and on
+пару миль, а затем еще раз проверьте уровень охлаждающей жидкости.
+заднюю крышку двигателя и на
 
 21
 
-Note
+Примечание
 
-3 Check the crankcase breather hoses which run from
+3 Проверьте шланги вентиляции картера, идущие от
 
-securely fastened to their unions.
+надежно закреплены на своих соединениях.
 
-then reinstall the radiator cap.
-fil it to the
+затем установите крышку радиатора на место.
+запишите это в
 
-its bracket.
+его кронштейн.
 
-to require draining more often
-if the
+требовать более частого слива
+если
 
-ing. Replace them if cracked or damaged
+инж. Замените их, если они треснуты или повреждены.
 
-this is being done.
+это делается.
 
 19
 
-hose will
+шланг будет
 
-in
-tt
-tightened while
+в
+тт
+затянуто, пока
 
-hot,
+горячий,
 
-that the crankcase breather is likely
+что скорее всего сапун картера
 
-coolant emptied into the container
-can be poured
+охлаждающая жидкость слилась в емкость
+можно налить
 
-back into the radiator
-if the bleed nipple is temporanly
+обратно в радиатор
+если кровоточащий сосок временный
 
-time,
+время,
 
-plug from its end (see illustration). Atter the deposits
-install the plug and secure the hose in
+заглушку с его конца (см. рисунок). Атер депозиты
+установите заглушку и закрепите шланг
 
-motorcycle is used at high speeds or in the rain. The transparent drain
+Мотоцикл используется на высоких скоростях или под дождем. Прозрачный слив
 
-drops, add more co!
+капли, добавьте еще со!
 
 48
 
-the
+тот
 
-have drained,
+осушили,
 
-drain
-interval
+дренаж
+интервал
 
-Disengage the drain hose from its bracket. hold it over @ container
+Отсоедините сливной шланг от кронштейна. подержите его над @ контейнером
 
-fasteners.
+крепежи.
 
-The
 
-on
 
-and
+на
 
-1987
+и
 
-belly
+1987 год
 
-of the
+живот
 
-exhaust system joints for leaks and loose
+из
 
-fairing will have to be removed to do this properly
+Соединения выхлопной системы на герметичность и ослабление
 
-1988
+чтобы сделать это правильно, обтекатель придется снять
+
+1988 год
 
 700/750
 
-Magna
+Магна
 
-models
+модели
 
-tightening the fasteners fails to stop any leaks,
+затягивание крепежных элементов не может остановить утечку,
 
-(see
+(см.
 
-Chapter
+Глава
 
 6).
 
-It
+Это
 
-replace the gaskets with
+заменить прокладки на
 
 4)
-new ones (see Chapter
-2 The exhaust pipe flange nuts at the cylinder
-prone to
+новые (см. главу
+2 Гайки фланца выхлопной трубы на цилиндре.
+склонен к
 
-loosening,
+ослабление,
 
-heads are especially
+головы особенно
 
-which could cause damage to the head.
+что может привести к повреждению головы.
 
-them frequently
-and keep them tioht
+их часто
+и держи их при себе
 
-Check
+Проверить
 
 1-20
 
-Chapter1 Tune-up and routine maintenance
+Глава 1. Настройка и текущее обслуживание.
 
-24.4 Feeling for play in the steering head bearings
+24.4 Ощущение люфта в подшипниках рулевой колонки
 
-26:13 Fuel fitter takes the form of a gauze element on 700/750
+26:13 Топливопровод принимает форму сетчатого элемента на 700/750
 
-‘Sabres and 1987/88 Magnas
+«Сэйбрз» и «Магнас» в сезоне 1987/88.
 
-24 Steering head bearings
-- check and adjustment
-jearshit
+24 Подшипники рулевой головки
+- проверка и регулировка
+чушь
 1
 
-This vehicte is equipped with caged taper-rolier or caged ball
+Данное транспортное средство оснащено коническим роликом с сепаратором или шариковым сепаратором.
 
-steering head bearings
+подшипники рулевой колонки
 
-which can become dented,
+которые могут помяться,
 
-during normal use of the machine. In extreme cases,
-steering wobble~
-steering head bearings can cause
+при обычном использовании машины. В крайних случаях,
+рулевое управление шатается~
+Подшипники рулевой головки могут стать причиной
 
-lever
+рычаг
 
-Footegs stand bots
+Боты-стойки Footegs
 
-type
+тип
 
-Engne mounting bolts
-‘Shock absorber mounting bolts
+Болты крепления двигателя
+«Болты крепления амортизатора
 
-rough or loose
-wom or loos
+грубый или рыхлый
+женщина или туалет
 
-Handlebar
-and triple clamp pinch bolts
+Руль
+и тройные стяжные болты
 
-potentially dangerous.
+потенциально опасен.
 
-‘Rear suspension linkage bolts (Sabres)
+‘Болты крепления задней подвески (Sabres)
 
-Check
+Проверить
 
-Rear axis nut and clamp bolt
+Гайка задней оси и зажимной болт
 
-Refer
+Обратитесь
 
-Front axte and clamp bot
+Передняя ось и зажимной бот
 
-Exhaust system borsinuts
+Борсинуты выхлопной системы
 
-to tlustration
-24.4
+к люстрации
+24,4
 
-2 To check the bearings,
+2 Чтобы проверить подшипники,
 
-place the motorcycle on its main stand and
+поставьте мотоцикл на основную подставку и
 
-block the machine so the front wheel is in the ar. On 1987 and 1988
+заблокируйте машину так, чтобы переднее колесо оказалось в арке. В 1987 и 1988 годах
 
 2
 
-Ifa torque wrench is available,
+Если имеется динамометрический ключ,
 
-use it along with the torque speci
+используйте его вместе со спецификацией крутящего момента
 
-cations at the beginning of this, or other, Chapters.
+катионы в начале этой или других глав.
 
-700/750 Magna models, block the vehicle under
-th
-the front wheel
+Модели 700/750 Magna, заблокируйте автомобиль под
+й
+переднее колесо
 
-is raised off the ground
+поднят над землей
 
-3 Point the wheel straight-ahead and slowly move the handlebars from
+3 Направьте руль прямо вперед и медленно переместите руль из
 
-Side-to-side. Dents or roughness in the bearing races will
+Из стороны в сторону. Вмятины или неровности на обоймах подшипников
 
-be felt and
+чувствоваться и
 
-the bars will not move smoothly.
-Nes,
+стержни не будут двигаться плавно.
+Нес,
 
-gery te)
+гери тэ)
 
-backward (see
+назад (см.
 
-ak star it ty to maze Wm,
+АК звезда, это ты в лабиринте Wm,
 
-illustration). Any looseness
+иллюстрация). Любая неплотность
 
-in the
+вподшипники будут учитываться как движение вперед-назад
 
-bearings will be fet as frontto-rear movement of the
+там
 
-yond
+SD
 
-sd
-
-steenng
-forks,
+Стеннг
+вилки,
 
 90
 
-take extra
+взять дополнительно
 
-oF Chthes dryer)
+сушилки)
 
-is present If you spi any fuel on your skin,
+присутствует Если вы выплеснете топливо на кожу,
 
-inse it off mmediately with soap and water When you perform any
-on the fuel system, wear safety glasses and have, @ fire
+немедленно промойте его водой с мылом. При выполнении любых
+топливной системы, наденьте защитные очки и будьте осторожны при пожаре.
 
-5 Refer to Chapter 6 ‘Steering stom - removal and
-remove the upper triple lamp from the forks and
+5 См. главу 6 «Рулевая трубка – снятие и
+снимите верхний тройной фонарь с вилки и
 
-forks can remain in place.
+вилки могут оставаться на месте.
 
-removed.
+удаленный.
 
-Gasoline (petro) is extremely flammable,
+Бензин (netro) чрезвычайно легко воспламеняется.
 
-precautions when you work on any part of the fuel system. Don't smoke or
+меры предосторожности при работе с любой частью топливной системы. Не курите или
 
-Kd of work
+Кд работы
 
-Adjustment
+Регулировка
 
-be
+быть
 
-Warning:
+Предупреждение:
 
-work in 2 garspe where 2 natural as-type appliance (such as
-4 water
+Работайте в 2 гарспе, где 2 натуральных типа прибора (например,
+4 воды
 
-bearings, adjust the steering head as follows.
+подшипники, отрегулируйте рулевую головку следующим образом.
 
-suffciently
+достаточно
 
-Fuel system
-- checks and filter replacement
+Топливная система
+- проверка и замена фильтров
 
-‘alow open flames or bare ight bulbs near the work area, and don't
+«Оставляйте открытый огонь или лампочки с незажженным светом вблизи рабочей зоны и не
 
-althe
+все
 
-make sure that this is not due to wom fork bushings. If play
-is
+убедитесь, что это не из-за втулок вилки. Если играть
+есть
 
-must
+должен
 
 26
 
-The
 
-instalation’ and
 
-steering stem.
+установка» и
 
-although the handlebars and
+рулевой стержень.
 
-upper tnple
+хотя руль и
 
-clamp need
+верхний тройник
 
-‘extnguister sutatie for
-@ Class
-B type fre (fammabie liquids) on hand,
+зажим нужен
 
-The
+'огнетушитель для
+@ Класс
+Тип B (пищевые жидкости) под рукой,
 
-inst
 
-only
 
-fuel tank,
+инст
 
-the tank breather hose (not Califomia models)
+только
 
-lines and the carburetors for leaks and evidence of
+топливный бак,
 
-to access the steering stem locknut and adust
+шланг вентиляции бака (кроме моделей для Калифорнии)
 
-the ignition switch (1982 through 1986 models) can remain attached to
-the tnple clamp ifthe wring wall alow
+трубопроводов и карбюраторов на наличие утечек и признаков
 
-6 Free the lockwasher tabs from the steering stem locknut and adjuster
-rut,
+для доступа к контргайке рулевого стержня и его регулировки
 
-‘ightening the
+замок зажигания (модели с 1982 по 1986 годы) можно оставить прикрепленным к
+зажим tnple, если отжать стену внизу
 
-remove the lockrut and lockwasher, then carry out adjustment
+6 Освободите выступы стопорной шайбы от контргайки рулевого штока и регулятора.
+колея,
 
-the adjuster nut as described under the
+'усиление
 
-s,
+снимите стопорную колею и стопорную шайбу, затем выполните регулировку
 
-the tap
+регулировочную гайку, как описано в разделе
 
-retaining nut may help but if
+с,
 
-should be disassembled and
+кран
 
-repaired or
+стопорная гайка может помочь, но если
 
-Section 10, Chapter 6
-7 After adjustment,
+следует разобрать и
 
-check thet all steering play hes been removed as
+отремонтированный или
 
-described above
+Раздел 10, Глава 6
+7 После регулировки
 
-25 Fasteners -check
+проверьте, все ли люфты в рулевом управлении удалены, так как
+
+описано выше
+
+25 Крепежные детали – проверьте
 1.
 
-Since
+Поскольку
 
-bolts, screws, etc. should
-be periodically
+болты, винты и т. д. должны
+быть периодически
 2
 
-th @ new one.
+й @ новый.
 
-vibration
-of the
-machine tends to loosen fasteners, al nuts,
-checked
-for
-proper tightness
+вибрация
+из
+машина имеет тенденцию ослаблять крепления, все гайки,
+проверено
+для
+надлежащая герметичность
 
-Pay particular attention to the following:
+Обратите особое внимание на следующее:
 
-Spark plugs Engine oil drain plugs
+Свечи зажигания Пробки для слива моторного масла
 
-Filter replacement (1982 through 1986 Magnas
-and 1100 Sabres)
-Line fuel fiter is ftted,
+Замена фильтра (Магнас 1982-1986 гг.)
+и 1100 сабель)
+Установлен трубопроводный топливный фильтр,
 
-which must be replaced at the specified
+который необходимо заменить в указанное время.
 
 1-21
 
-Chapter1 Tune-up and routine maintenance
-style and load cared.
+Глава 1. Настройка и текущее обслуживание.
+стиль и нагрузка заботятся.
 
-700/750 Magna models
-7 On 1982 through 1984 Magnas, remove the right side cover and tum.
-the fuel valve Off, the filter is located Detow the valve and to the rear of
-the battery. On later models tum the fuel valve on the tank Off, then:
-remove the left side cover, the fuel filter is located just above the fuel
-pump.
+Модели 700/750 Магна
+7 На автомобилях Magnas 1982–1984 годов снимите правую боковую крышку и поверните ее.
+Топливный клапан выключен, фильтр расположен Отсоедините клапан и заднюю часть
+аккумулятор. На более поздних моделях выключите топливный клапан на баке, затем:
+снимаем левую боковую крышку, топливный фильтр расположен чуть выше топливного
+насос.
 
-8 Release the fier from its holder, clamp the fuel lines each side of the
-fiter, then release the hose clips and pull the hoses off the filter
-9 Install the new filter in the same
-position
-as
-the onginal, push
-on the
-hoses and secure with the clips. Clamp the fiter in place, tum the fuel
-valve On and check that there are no leaks.
+8 Высвободите топливопровод из держателя, зажмите топливопроводы с каждой стороны
+фитер, затем освободите хомуты и снимите шланги с фильтра.
+9 Установите новый фильтр в то же место.
+позиция
+как
+начало, толчок
+на
+шланги и закрепите их хомутами. Зафиксируйте фитер на месте, поверните топливо
+Включите клапан и проверьте отсутствие утечек.
 
-6 Fork ol replacement is not specified as a maintenance item, but fork
-cil wil degrade in time with loss of damping performance. Renew the
-il periodically (see Chapter 6)
+6 Замена вилки не является предметом технического обслуживания, но вилка
+Цил со временем ухудшится, потеряв эффективность демпфирования. Обновить
+иль периодически (см. главу 6)
 
-Rear:
-7 Inspect the rear shock(s) for fluid leakage and tightness of the
+Задняя часть:
+7 Осмотрите задний амортизатор(ы) на предмет утечки жидкости и герметичность.
 
-mounting nits. Ifleakage
-is found, the shock should be replaced.
-8 Set the bike on its main stend, or suppot it securely where no mein
-stand is fitted. Grab the swingarm on each side, just ahead of the axle
-Rock the swingarm from side to side - there should be no discernible
+монтаж гнид. Если утечка
+обнаружен, амортизатор следует заменить.8 Установите велосипед на основную подножку или надежно закрепите его в недоступном для меня месте.
+подставка установлена. Возьмите маятник с каждой стороны, прямо перед осью.
+Покачайте маятник из стороны в сторону – не должно быть заметных
 
-movement at the rear. If there's @ litle movement or @ slight clicking
+движение сзади. Если @ небольшое движение или @ легкий щелчок
 
-1100 models
+1100 моделей
 
-con be heard, make sure the pwot shaft locknut is tiot (see Chapter
+Если вас не слышно, убедитесь, что контргайка вала привода затянута (см. главу
 
-10 On Sabre models, remove the night side cover (see Chapter
-6) and
-tum the fuel valve Off, On Magna models, remove the seat and left
-side cover (see Chapter
-6). Tum the fuel valve Of
-11 Release the single screw which retains the fiter clamp to the fuel
-or frame (Magna). Clamp the fuel ines
-valve mounting bracket (Sabre)
-‘each side of the filter, then release the hose cips and pull the hoses
-off the fier.
+10 На моделях Sabre снимите ночную боковую крышку (см. главу
+6) и
+выключите топливный клапан. На моделях Magna снимите седло и оставьте
+боковая крышка (см. главу
+6). Поверните топливный кран
+11 Ослабьте единственный винт, который удерживает зажим крепления к топливному баку.
+или рама (Магна). Зажмите топливные трубки
+Кронштейн крепления клапана (Sabre)
+«с каждой стороны фильтра, затем освободите хомуты шлангов и потяните шланги
+с огня.
 
 6).
 
-If the
+Если
 
-pivot nut is tight
+гайка крепления затянута
 
-but movement is stil
+но движение все еще
 
-notiogable,
+недопустимо,
 
-the
+тот
 
-singer wil have to be removed and the bearings replaced as
-described in Chapter 6
+придется снимать пеленку и менять подшипники
+описано в главе 6
 
-9 Inspect the tightness of the rear suspension linkage nuts and bolts
-on Sabre models.
+9 Проверьте затяжку гаек и болтов рычагов задней подвески.
+на моделях Sabre.
 
-10 Where applicable, check the preload and damping settings to
-censure
-that
-they sut the riding stye and load carried (see Chapter 6).
+10 Если применимо, проверьте настройки предварительной нагрузки и демпфирования, чтобы
+порицание
+что
+закрывают стойла и перевозят груз (см. главу 6).
 
-12 Install the new fiter in the same postion as the onginal. push on the
+12 Установите новый фитер в то же положение, что и оригинальный. нажать на
 
-hoses and secure wth the clips. Clamp the fiter in place, tu the fuel
-valve On and check that there are no leaks
+шланги и закрепите зажимами. Зафиксируйте фитер на месте и подайте топливо.
+Включите клапан и проверьте отсутствие утечек.
 
-28 Stands
-- check
+28 стендов
+- проверить
 
-Filter cleaning (700/750 Sabres, 1987 and 1988
+Чистка фильтра (700/750 Sabre, 1987 и 1988 гг.)
 
-Refer to tustration
+Обратитесь к настройке
 282
 
-700/750 Magnas)
-Refer
+700/750 Магнас)
+Обратитесь
 
-straton 26 13
+Стратон 26 13
 
-13 A gauze type stack titers fited inside the fusl tank as part ofthe
-fuel valve. Cleaning is not specified as a maintenance tem, but if
+13 Титровый пакет марлевого типа, установленный внутри резервуара для фузлей как часть
+топливный клапан. Очистка не является процедурой технического обслуживания, но если
 
-problems vith ful rostncton orfuel contaminaton are noted should
+проблемы с полным выбросом топлива или загрязнением топлива должны быть отмечены.
 
-1 Check that the side and main stands are mounted securely and that
-their etum springs are not stretched or damaged.
-2 The side stand has a wear pad attached to its foot which must be
-replaced when wom down to the wear line indicated by the moulded
-row (see illustration).
+1 Убедитесь, что боковые и основные стойки надежно закреплены и что
+их пружины Etum не растянуты и не повреждены.
+2 К ножке боковой подставки прикреплена износостойкая накладка, которую необходимо
+заменяется при достижении линии износа, обозначенной литой
+ряд (см. рисунок).
 
-be removed for clearing (see illustration).
+снять для очистки (см. рисунок).
 14.
-Remove the fuel vaWe and clean the iter (see Chapter 4)
+Снимите топливный бак и очистите его (см. главу 4).
 
 27
 
-Suspension - check
+Подвеска - проверка
 
-Front suspension
-1 The suspension components must be maintained in top operating
+Передняя подвеска
+1 Компоненты подвески должны поддерживаться в оптимальном рабочем состоянии.
 
-condition to ensure rider safety Loose, wom or damaged suspension
+состояние, обеспечивающее безопасность водителя. Ослабленная, неисправная или поврежденная подвеска.
 
-parts decrease the vehicie's stability and control
+детали снижают устойчивость и управляемость автомобиля.
 
-2 While standing alongside the motorcycle, apply the front brake and
+2 Стоя рядом с мотоциклом, зажмите передний тормоз и
 
-push on the handlebars to compress the
+нажмите на руль, чтобы сжать
 
-forks several times. See if
+вилки несколько раз. Посмотрите, если
 
-they move up-and-down smoothly without binding. If binding is fet. the
+они плавно перемещаются вверх и вниз, без заеданий. Если привязка фет. тот
 
-forks should be disassembled and inspected
-as described in Chapter
+вилку следует разобрать и осмотреть
+как описано в главе
 6
-3 Corefully inspect the area around the fork seals for any signs of fork
-oil leakage. If leakage is evident, the seals must be replaced as
-described in Chapter
+3 Тщательно осмотрите область вокруг уплотнений вилки на предмет каких-либо признаков вилки.
+утечка масла. Если утечка очевидна, уплотнения необходимо заменить в соответствии с
+описано в главе
 6
-4 Check the tightness of all suspension nuts and bolts to be sure none
-have worked loose
+4 Проверьте затяжку всех гаек и болтов подвески, чтобы убедиться, что ни один из них не затянут.
+работали свободно
 
-5 Where applicable, check the fork air pressure, ant-dive setting and
-damping setting (586 Chapter 6)to ensure that they sut the ning
+5 Если применимо, проверьте давление воздуха в вилке, настройку защиты от погружения и
+настройки демпфирования (586 Глава 6), чтобы убедиться, что они соответствуют
 
-28.2 Side stand
-rubber
-wear
-limit is indicated by arrow
-
-
+28.2 Боковая подставка
+резина
+носить
+предел указан стрелкой

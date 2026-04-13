@@ -1,1423 +1,1410 @@
 5-1
 
-Chapter 5 Ignition
-system
+Глава 5. Зажигание
+система
 
-Note: Unless specifically mentioned in this Chapter, the information given for the 1982 750 Sabre applies to the UK VF750S-C, and that for the 1987 and
+Примечание. Если не указано иное в этой главе, информация, приведенная для модели 750 Sabre 1982 года, применима к британскому VF750S-C, а также к модели 1987 и 1987 годов.
 
-1988 700/750 Mi
+1988 700/750 Ми
 
-and C-J re:
-4 to the UK VETSOC-H
+и CJ о:
+4 в Великобританию VETSOC-H
 
-Contents
+Содержание
 
 1
 
-Genera information
+Общая информация
 
-Ignition HT coils - check, removal and installation
+Катушки зажигания HT – проверка, снятие и установка
 
-Igntion (main key swich - removal and instalation...
+Зажигание (главный ключ - снятие и установка...
 
-Ignition kill (stop) switch - removal and installation.
-Ignition system- check.
+Выключатель зажигания (стоп) – снятие и установка.
+Система зажигания-проверка.
 
-genera information and check
-ming
-Ignition
+общая информация и проверка
+Мин
+Зажигание
 
-‘Section
+«Раздел
 
-check and
-switch
-GearehangeMevtralOD
-replacement.
+проверьте и
+переключатель
+Переключение передачMevtralOD
+замена.
 
 3
 
-Pulse generators check removal end instalation,
+Генераторы импульсов проверяют снятие и установку,
 
-See Chapter8
+См. главу 8.
 
-‘Spark plug replacement.
-‘Spark unit(s)- check, removal and installation.
+«Замена свечей зажигания.
+«Блок(ы) зажигания – проверка, снятие и установка.
 
-‘See Chapter 8
+«Смотрите главу 8
 2
 6
 
-‘Specifications
+«Технические характеристики
 
 1-234
 
 2
 
-Firing order.
+Порядок стрельбы.
 
-See ilustration 1.1 in Chapter2
+См. иллюстрацию 1.1 в главе 2.
 
-Cylinder identification
-Ignition timing
-‘nail (at mark)
+Идентификация цилиндра
+Момент зажигания
+'гвоздь (на отметке)
 
-1982 and 1983 750 Sabres, 1982 through 1964 700/750 Magna models
+750 Sabres 1982 и 1983 годов, модели 700/750 Magna с 1982 по 1964 год.
 
-1984 and 1985 700 Sabres, 1985 through
+1984 и 1985 годы, 700 Sabre, с 1985 по
 
-@ idle speed
-10° BTOC
+@ скорость холостого хода
+10° БТОК
 
-15° BTDC @ ide speed
-ide speed
+15° ВМТ при скорости холостого хода
+скорость язя
 @
-BTDC
+БТДК
 10°
 
-4988 700/750 Magne models
-1100 modes,
+4988 Модели 700/750 Магне
+1100 режимов,
 
-Full advance
+Полный аванс
 
-Ser 1985 700/750 Sabres, 1982 through 1984 700/750 Magna
+Сер 1985 г. 700/750 Sabres, с 1982 по 1984 г. 700/750 Magna
 
-model:
+модель:
 
-4985 and 1986 700 Magna models.
+Модели 700 Magna 4985 и 1986 годов.
 
-@ 3,300 pm
-37° BTOC
+@ 15:300
+37° БТОК
 
-‘37° BTOC @ 3,500 pm
+‘37° BTOC в 15:00
 
-3.500 mpm
+3500 миль в минуту
 @
-BTDC
+БТДК
 40°
 
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna 1987 и 1988 годов.
 
-3,800 pm
+15:00
 @
-BTDC
-‘37°
+БТДК
+'37°
 
-1100 models..
+1100 моделей..
 
-Pulse generators
-Resistance
+Генераторы импульсов
+Сопротивление
 
-480 ohms 10%
+480 Ом 10%
 
-1982 trough 1986 models...
+Модели 1982-1986 годов...
 
-450 to 550 ohms
+от 450 до 550 Ом
 
-1987 and 1988 700/750 models
+Модели 700/750 1987 и 1988 годов
 
-Ai gap (1100 models
+Ай разрыв (1100 моделей)
 
-0410 0.6mm (0.016 00.024 i)
+0410 0,6 мм (0,016 00,024 я)
 
-HT coils
-Ignition
-Primary resistance
+Высокотемпературные катушки
+Зажигание
+Первичное сопротивление
 
 -
 
-1985 and 1986 700 Magna models...
+Модели 700 Magna 1985 и 1986 годов...
 
-4967 end 1988 7001750 Magna models
-Allene models
+4967 конец 1988 г. 7001750 Модели Magna
+Алленовые модели
 
-Secondary resistence (wth pivg caps on)
+Вторичное сопротивление (с установленными колпачками PivG)
 
-K onms
+К онмс
 21t029
-21 to 28 K ohms:
+От 21 до 28 кОм:
 
-Secondary resistance (wth plug caps removed)
+Вторичное сопротивление (со снятыми колпачками)
 
-27.4 K ohms
-to
-20.6
-13t017 Kohms
-13610 155K ohms
+27,4 кОм
+чтобы
+20,6
+13t017 Ком
+13610 155 кОм
 
-1985 and 1986 700 Magna models.
-Magna models
-1987 and 1988 700750
-Alother models
+Модели 700 Magna 1985 и 1986 годов.
+Модели Магна
+1987 и 1988 700750
+Другие модели
 ——
 
 2610320hms
 
-K ohms:
+Ком:
 40
-‘29to
+'29to
 
-1985 and 1986 700 Magna models..
+Модели 700 Magna 1985 и 1986 годов.
 
-Megne models
-1887 and 1988 700/750
-All other models
+Модели Менье
+1887 и 1988 700/750
+Все остальные модели
 
-Spark plugs.
+Свечи зажигания.
 
-2.00hms:
-2Bohms
+2.00ч:
+2Бом
 
 :
 
 -
 
-‘See Chapter 1
+«Смотрите главу 1
 
-‘Section
+«Раздел
 
-‘See Chapter8
-‘See Chapter 1
+«Смотри главу 8.
+«Смотрите главу 1
 5
 
 5-2
 
-Chapter 5 Ignition system
+Глава 5 Система зажигания
 
-ON
+ВКЛ.
 
 4.28203,
 
-1.Aa Ignition system circuit diagram - 700/760 Sabres, 1982 through 1984 700/760 Magnas and all 1100 models
+1.Aa Принципиальная схема системы зажигания — 700/760 Sabre, 1982–1984 гг., 700/760 Magnas и все модели 1100.
 
-7 Batery
+7 Батарея
 
-4 ieee
+4 года
 
-3 Engine kil(stop) switch
+3 Выключатель остановки двигателя
 2
 1
 
 5
 
-General information
+Общая информация
 
-models
+модели
 
-ignition system,
+система зажигания,
 
-are
+являются
 
-fitted
+встроенный
 
-Totachometer
+Тотахометр
 
-Each igntion HT coil supplies two spark plugs
+Каждая катушка зажигания HT питает две свечи зажигания.
 
-with
+с
 
-cylinders (2 and 4) off the other. For any given cylinder, the plug is fired
+цилиндры (2 и 4) с другого. Для любого данного цилиндра свеча зажигается.
 
 1.10
-a
+а
 
-twice for every engine cycie, but one of the sparks occurs during the
+дважды за каждый цикл работы двигателя, но одна из искр возникает во время
 
-magnetically-tiggered
+с магнитным приводом
 
-electronic
+электронный
 
-which due to its lack of mechanical parts is totally
+который из-за отсутствия механических частей полностью
 
-maintenence-tree.
+дерево обслуживания.
 
 8
 
-The rear cylinders (1 and 3) operate off one col and the front
+Задние цилиндры (1 и 3) работают на один цилиндр, а передние
 
-Reforto ilustrations 1.1@, 1.1b and
-All
+Иллюстрации Рефорто 1.1@, 1.1b и
+Все
 
-7 Spark plugs
+7 Свечи зажигания
 
-6 etn Ht cots
+6 детских кроваток
 
-Ignton
-main
-(key) switch
+Игнтон
+главный
+(ключевой) переключатель
 
-The system comprises a
+Система включает в себя
 
-trigger on the starter clutch
+курок на муфте стартера
 
-exhaust stroke and therefore performs no useful function. This
-‘arrangement is usually known as a 'spare spark’ or "wasted spark’
+такт выпуска и поэтому не выполняет никакой полезной функции. Это
+Композицию обычно называют «запасной искрой» или «потерянной искрой».
 
-system Because
+система, потому что
 
-of
+из
 
-their
+их
 
-nature,
+природа,
 
-the
+тот
 
-individual
+индивидуальный
 
-ignition
+зажигание
 
-system|
+система|
 
-body, two pulse generator coils, two spark units (single unit on 1985-on
+корпус, две катушки генератора импульсов, два искровых блока (один блок на 1985-наКомпоненты можно проверить, но отремонтировать. Если неисправна система зажигания
 
-components can be checked but nat repaired. If ignition system troubles
+700/750 Magnas) и две HT-кабели зажигания (см. рисунки).
 
-700/750 Magnas) and two ignition HT cails (see illustrations).
+«происходит, и неисправный компонент можно изолировать, это единственное лекарство от неисправности».
 
-‘occur, and the faulty component can be isolated, the only cure for the
 
-The
 
-raised
+поднятый
 
-tngger
+тнггер
 
-on
+на
 
-the
+тот
 
-starter
+стартер
 
-clutch
+сцепление
 
-body
+тело
 
-magnetically
+магнитно
 
-‘operates the pulse generator colls as the crankshaft rotates.
+«срабатывает сальники генератора импульсов при вращении коленчатого вала.
 
-The pulse
+Пульс
 
-problem is to replace the part with anew one, Keep id mind that most
+Проблема в том, чтобы заменить деталь на новую. Имейте в виду, что большинство
 
-lectrical parts, once purchased,
-can't
-be
-retumed. To avoid unnecessary
+электрические детали после покупки,
+не могу
+быть
+вернулся. Чтобы избежать ненужного
 
-generators transmit a signal to the spark unit(s) which then supplies the
+Генераторы передают сигнал искровому блоку(ам), который затем подает
 
-‘expense, make very sure the faulty component has been positively
+«расходы, убедитесь, что неисправный компонент был положительно
 
-ignition cols with the power necessary to produce the spark at the plugs.
+зажигания с мощностью, необходимой для образования искры на свечах.
 
-‘dentitied before buying a replacement part
+«проверка зубов перед покупкой запасной части
 
-The spark unit(s) advances the ignition electronically
+Искровой блок(ы) опережает зажигание электронным способом.
 
 ©
-1.1b Ignition system circuit diagram -1985 and 1986 700 Magna models.
+1.1b Принципиальная схема системы зажигания - модели 700 Magna 1985 и 1986 годов.
 
 7
 2.
 3.
 
-Batiory
-Igntion
-main
-(hey) switch
-Engine
-kil
-(stop) sutch
+Батиоры
+Зажигание
+главный
+(эй) переключись
+Двигатель
+убить
+(стоп) так
 
 4
 5
 6
 
-Pulse:
-Sparkuniés
-Igntion
-HT cols
+Пульс:
+Спаркуниес
+Зажигание
+HT-столбцы
 
 7
 8
 9
 
-Spek plugs
-Totachometer
-Tofuelpump
+Спек вилки
+Тотахометр
+Топливный насос
 
-Chapter 5
+Глава 5
 
-Ignition system
+Система зажигания
 
 5-3
 
 4®
 
-al
+аль
 
-Se
+Се
 }®
 
 1)
 
-(de|S ee]
+(де|Си]
 ©)
-41.1 Ignition system circuit diagram - 1987 and 1988 700/750 Magna models
+41.1 Принципиальная схема системы зажигания — модели 700/750 Magna 1987 и 1988 годов
 1
 
-Battery
+Батарея
 
-Pulse generators
+Генераторы импульсов
 
 7
 
-Spark plugs
+Свечи зажигания
 
 2.
 
-Jgniton mats (key) switch
+Маты Jgniton (ключ) переключатель
 
 5°
 
-Spark
+Искра
 
 8
 
-To tachometer
+К тахометру
 
 3
 
-Enginekill(stop) switch
+Переключатель отключения двигателя (стоп)
 
 6
 
 4
 
-Igniton
-HT cots
+Игнитон
+HT детские кроватки
 
-unis
+универы
 
-3 Having observed the above precautions.
-the RUN position,
+3 Соблюдая вышеуказанные меры предосторожности.
+положение «БЕГ»,
 
-ch
+ч
 
-ck that the kil switch is in
+проверяю, что выключатель включен
 
-turn the ignition switchOn and turn the
+включите зажигание и включите
 
-engine over
-on
+двигатель закончился
+на
 
-the starter motor. If the system is in good condition a reguler, strong blue
-spark should be evident at each plug electrode,
+стартер. Если система в хорошем состоянии, регулятор ярко-синего цвета.
+искра должна быть заметна на каждом электроде свечи,
 
-If the spark appears thin
+Если искра кажется тонкой
 
-or yellowish, or is non-existent, furt
-will be necessary.
-Before proceeding further, turn the ignition off and remove the key as @
-safety measure
-4 Note that there are essentially two ignition circuits,
+или желтоватый, или его нет, мех
+будет необходимо.
+Прежде чем продолжить, выключите зажигание и выньте ключ, как @
+мера безопасности
+4 Обратите внимание, что по существу имеется две цепи зажигания,
 
-one
+один
 
-for cyinders 1
+для цилиндров 1
 
-and
-3, and another
+и
+3 и еще один
 
-for cylinders
-2 and 4. If one pair of cylinders is fing wel
+для цилиндров
+2 и 4. Если одна пара цилиндров в порядке
 
-but the other isnt,
+а другой нет,
 
-only the
+только
 
-ne plug
+хорошая вилка
 
-components
-of that circuit must be tested.
+компоненты
+этой цепи необходимо проверить.
 
-in a circuit is not fring corres
+в схеме нет пограничных проводов
 
-will probably ie in the
+вероятно, т.е. в
 
-If
+Если
 
-8 other one is, the problem
+8 другой, проблема
 
-plug cap or
+заглушка или
 
-problem is occurring in all
+проблема возникает во всех
 
-four plugs, the fault may be in the ignition switch, engine stop switch or the
-an be divided into two
+четырех свечей, неисправность может быть в замке зажигания, выключателе двигателя или в
+разделить на две части
 
-namely
-completely,
+а именно
+полностью,
 
-2.2 Position the test spark plug so that its threads touch the
+2.2 Расположите проверочную свечу зажигания так, чтобы ее резьба касалась
 
-where
+где
 
-the
+тот
 
-jgntion
+шутка
 
-system
+система
 
-and those which are due to 2 pattial falure.
+и те, которые происходят из-за 2-частичного отказа.
 
-are listed below,
+перечислены ниже,
 
-startng with the
+начиная с
 
-through the list
+через список
 
-systematically,
+систематически,
 
-full details
+полная информация
 
-cylinder head -hold it there with insulated pliers if necessary
+головка блока цилиндров — при необходимости удерживайте ее изолированными плоскогубцами.
 
-those
+те
 
-has
+имеет
 
-failed
+не удалось
 
-The tkely faults
+Текущие недостатки
 
-most probable source of failure.
+наиболее вероятный источник неисправности.
 
-referring
+ссылаясь
 
-Work
+Работа
 
-to the subsequent sections for
+в последующие разделы для
 
-of the necessary checks end tests. Note: Before checking
-the
+необходимые проверки заканчиваются испытаниями. Примечание: перед проверкой
+тот
 
-following ems ensure that the battery is fully-chamed and that all fuses
-are
+После следующих аварийных ситуаций убедитесь, что аккумулятор полностью зажат и все предохранители
+являются
 
-in good conditor
+в хорошем состоянии
 
 2
 
-Ignition system - check
+Система зажигания – проверка
 
-Warning: The eneray levels in elect
+Внимание: уровни enray в избранном
 
 2)
 
-ic systems
-can toe very high. On no
-he plug
-or s
-plug caps
+IC системы
+может поднять ногу очень высоко. Нет
+он подключит
+или с
+заглушки
 
-are being heli
-unpleasant
+летят
+неприятный
 
-it i
+это я
 
-vital that
+жизненно важно, чтобы
 
-lead to @ spare spark plug.
+привести к @ запасной свече зажигания.
 
-cylinder spark plugs and
+свечи зажигания цилиндров и
 
-Lay each plug on the engine
+Положите каждую свечу на двигатель
 
-with the threads contacting the engine (see illustration). If necessary
-hold each spark plug with an insulated tool
+так, чтобы резьба соприкасалась с двигателем (см. рисунок). При необходимостиудерживайте каждую свечу зажигания изолированным инструментом
 
-Waming: Don't remove one
+Ваминг: Не удаляйте ни одного
 
-from the engine to perfonn this check -atomized
+от двигателя для выполнения этой проверки - атомизировано
 
-‘being pumped out of the open spark plug hole could
-severe injury!
+«Выкачивание из открытого отверстия для свечи зажигания может
+тяжелая травма!
 
-broken
+сломанный
 
-or
+или
 
-1) Fauty spark units).
+1) Неисправность искровых блоков).
 
-Ignition HT coils- check, removal and installation
+Катушки зажигания HT – проверка, снятие и установка
 
-Check
+Проверить
 
-fa
+фа
 
-2 Disconnect the
-wires from No.1 and No.2
+2 Отключите
+провода от №1 и №2
 
-spark plugs
+свечи зажигания
 
-connections,
+связи,
 
-©) Faulty initon HT coils)
+©) Неисправные катушки initon HT)
 
 3.
 
-of the
+из
 
-wiring
+проводка
 
-0) Faulty pulse
-generators
-or
-damaged troger
+0) Неправильный импульс
+генераторы
+или
+поврежденный трогер
 
-circuit
+схема
 
-bwo possibilities,
+две возможности,
 
-logical
+логичный
 
-damaged
+поврежден
 
-system (see Chapter 8)
+система (см. главу 8)
 
-The gnition system
+Система зажигания
 
-aged @ the secondary (HT)
+в возрасте средней школы (HT)
 
-check the system in @
+проверьте систему в @
 
-or
+или
 
-igntion
-or engine kill sw fch (see Chapter 8)
-©) Faulty gearchangeneutraVOD switch(see Chapter
+воспламенение
+или переключатель аварийного отключения двигателя (см. главу 8)
+©) Неисправен переключатель переключения передач, нейтраVOD (см. главу).
 8)
 
-the plugs are soundly grounded
+вилки надежно заземлены
 
-(earthed) vihen the system is checked for sparking.
+(заземлено) Когда система проверяется на искрение.
 
-connect each
+соединить каждый
 
-corroded
+разъеденный
 
-) Fauity
+) Фауити
 
-Shocks from the secondary (H7) crcut can be most
+Потрясения от вторичного (H7) перелома могут быть наиболее сильными.
 
-Secondly,
+Во-вторых,
 
-Loose,
+Свободный,
 
-shorted wiring between any of the component parts of the inition
+короткое замыкание проводки между любой из составных частей инициатора
 
-ignite,
+зажечь,
 
-fuel
-causing
+топливо
+вызывая
 
-Refer
-to
-ilustrations
-3.5, 3.72,
+Обратитесь
+чтобы
+иллюстрации
+3,5, 3,72,
 
-to
+чтобы
 
-3.7b and 3.8
+3.7б и 3.8
 
-te
+тэ
 
-‘onclusively that the ignition
+«только то, что зажигание
 
-cols are
+столбцы
 
-detective, they should be tested by an authorized Honda dealer
+детектив, их следует проверить у официального дилера Honda.
 
-department
-required
+отдел
+требуется
 
-which
+который
 
-is
+есть
 
-equipped
+оборудованный
 
-with
+с
 
-the
+тот
 
-special
+особенный
 
-service
+услуга
 
-electncal
+электронный
 
-test
+тест
 
-forthis
-ch
+для этого
+ч
 
-2 However,
-damage)
+2 Однако
+ущерб)
 
-the
+тот
 
-and
+и
 
-coils
-the
+катушки
+тот
 
-can
+может
 
-primary
+первичный
 
-measured with en ohmmeter
+измерено эномметром
 
-be
+быть
 
-checked visually
+проверил визуально
 
-and
+и
 
-the
+тот
 
-secondary
+вторичный
 
-col
+столбец
 
-(for crac
+(для трещины
 
-and
+и
 
-resistances
+сопротивления
 
-other
+другой
 
-can
+может
 
-coils are undamaged. end
-if the
+катушки не повреждены. конец
+если
 
-be
+быть
 
-Chapter 5 Ignition system
+Глава 5 Система зажигания
 
 5-4
 
-3.7a Unscrew the metal insert from ins
+3.7а Отвинтить металлическую вставку от вкладышей
 
-35 Measure the coll’s primary resistance between
-the low tension terminals,
+35 Измерьте первичное сопротивление провода между
+клеммы низкого напряжения,
 
-H-282i6
-coil resistance can be
-38 On 1987 and 1988 models, the secondary
-‘measured directly at the high tension terminals
+Н-282и6
+сопротивление катушки может быть
+38 На моделях 1987 и 1988 годов вторичный
+'измеряется непосредственно на клеммах высокого напряжения
 
-3.7b...
+3.7б...
 
-to free the resistor (arrow) on 1982 through 1986 models
+чтобы освободить резистор (стрелка) на моделях с 1982 по 1986 годы
 
-Gitfer greatly from
+Гитфер в значительной степени из
 
-Note: i onlythe frst
+Примечание: я только первый
 
-that
+что
 
-fi
+фи
 
-, then the fault les
+, то неисправность
 
-the spark plug cap resistor rather than the coi or HT leads itso
+резистор колпачка свечи зажигания, а не провода катушки или HT.
 
 8
 
-d, they are probably capable of proper
+г, они, вероятно, способны на надлежащее
 
 :
 
-Unscrew the
+Отвинтите
 
-ads
+реклама
 
-s not produce
-or
-da dealer
+не производить
+или
+да дилер
 
-the expected
-auto-c!
+ожидаемый
+авто-с!
 
-firmed to be faulty,
+признан неисправным,
 
-d,
+д,
 
-from the ignition
+от зажигания
 
-Mecsuret
+Мексурет
 
-it mus
+это должно быть
 
-Mark the
+Отметьте
 
-fer to the
+для
 
-ohms x
+Ом х
 
-resistance reading of
-low tension terminals. This wil give a
-windings and should be within the imts given in the
+чтение сопротивления
+клеммы низкого напряжения. Это даст
+обмоток и должно находиться в пределах значений, указанных в
 
-ons (see illus
+оны (см. илл.
 
 ).
 
-models the
+моделирует
 
-t side of the machine (n
+t сторона машины (n
 
-screwdriver, unset
+отвертка, не установленная
 
-resistor, then side the rubber body of the
+резистор, затем отодвиньте резиновый корпус
 
-cap back elon
+кепка сзади Илон
 
-expose the end of the lead (see illustrations). Measure
-between each HT lead end. Ifboth valu
+обнажьте конец провода (см. иллюстрации). Мера
+между каждым концом вывода HT. Значение Ifboth
 
-the resi
+рези
 
-Chapter 5
+Глава 5
 
-Ignition system
+Система зажигания
 
 5-5
 
-3.45b ... and rear cylinder bank coil location on 1987
-and 1988 700/750 Magnas
+3.45b ... и расположение катушки заднего ряда цилиндров на 1987 г.
+и 700/750 Магнас 1988 года.
 
-3.16 When removing the coil, unscrew the terminal nuts (arrows) to
-release
-the
-HT leads
-on
+3.16 При снятии катушки открутите клеммные гайки (стрелки), чтобы
+выпуск
+тот
+HT лидирует
+на
 
-Magna
+Магна
 
-models
+модели
 
-the
+тот
 
-de of the steering he
+де рулевого управления он
 
-itustraions)
+илюстрации)
 16
 
-Disconnect the
+Отсоедините
 
-spark
+искра
 
-plug
+вилка
 
-terminal ruts (see illustration).
+конечные колеи (см. рисунок).
 17
 
-Disconnect the wires from the
+Отсоедините провода от
 
-coil
+катушка
 
-primary terminals,
+первичные терминалы,
 
-having made
+сделав
 
-nacte oftheir onginal posttior
-he mounting bolts
+на момент их первоначального посттиора
+он крепёжные болты
 
-s
+с
 
 4
 
-the
+тот
 
-anc
+анк
 
-reve
+реветь
 
-ut
+ут
 
-fe
+фе
 
-the
+тот
 
-wiring
+проводка
 
-Pulse generators - check, removal and installation
+Генераторы импульсов – проверка, снятие и установка
 
-Check
-to ilustrations
-42a
-and
-1 Remove the right side cov
+Проверить
+к иллюстрациям
+42а
+и
+1 Снимите правый боковой кожух
 
-4.2b Pulse generator connector is located in electrical connector
+4.2b Разъем генератора импульсов расположен в электрическом разъеме.
 
-Refer
+Обратитесь
 
-700/750 models
+Модели 700/750и топливный бак
 
-and the fuel tank
+кронштейн
+на
+1985-на моделях
 
-bracket
-on
-1985-on models
-
-4100 models
+4100 моделей
 
 2
 
-Trace
+След
 
-crankcase
+картер
 
-the
-cover,
+тот
+обложка,
 
-in models.
-ai
+в моделях.
+ай
 
-{see ilustration). Note thatthe
+(см. иллюстрацию). Обратите внимание, что
 
-will
+будет
 
-be
+быть
 
 1
 
-found pressed intot
+нашел вдавленным в
 
-ct (see illustration),
+КТ (см. иллюстрацию),
 
-Chapter
-5 Ignition system
-models
+Глава
+5 Система зажигания
+модели
 
-8 On all models remove the rear brake pedal
+8 На всех моделях снимите педаль заднего тормоза.
 
-the
-right footpeg. Drain
+тот
+правая подножка. Слив
 
-‘also remove the
+'также удалите
 
-9 Remove the night crankcase cover bolts.
+9 Отверните болты ночной крышки картера.
 
-bolts.
+болты.
 
-so make a note of their location or store them in the old gasket
+поэтому запишите их расположение или храните их в старой прокладке.
 
-when this has been removed
+когда это будет удалено
 
-10 Tap the crankcase cover gently with a soft-faced hammer to break
-the gasket seal, then pull it away from the engine, Do not pry between
-gasket sealing surtaces, as damage and eventually oil leaks will
-the
-i. Discard the old gasket and remove the dowels for safekeeping it
-they are loose.
+10 Аккуратно постучите по крышке картера молотком с мягким бойком, чтобы сломать ее.
+уплотнительную прокладку, затем снимите ее с двигателя. Не поддевайте между
+уплотнительные поверхности прокладок, так как повреждение и, в конечном итоге, утечка масла могут
+тот
+я. Выбросьте старую прокладку и снимите дюбели для ее сохранности.
+они свободные.
 
-‘11 Remove the pulse generator mounting bolts and then lft the pulse
+‘11 Снимите крепежные болты импульсного генератора, а затем поднимите импульсный
 
-generator and wiring hemes out of postion (see iilustration). Note: On
-700/750 models, do not remove the screvis marked vith wihte paint:
+Генератор и проводка вышли из строя (см. иллюстрацию). Примечание: Вкл.
+На моделях 700/750 не снимайте отмеченную краской резьбу:
 
-these attach the
+они придают
 
-fo ther brackets and shoukd only be
+за скобки и должно быть только
 
-unscrewed
-F
-replacement is required.
+отвинчен
+Ф
+требуется замена.
 
-Installation
+Установка
 12
 
-Installation
+Установка
 
-is
+есть
 
-the
+тот
 
-reverse of the
+обратная сторона
 
-removal
+удаление
 
-procedure,
+процедура,
 
-noting
+отмечая
 
-the
+тот
 
-following
+следующий
 
-4.11 Pulse generator coils are
-retained
-by four
-bolts (arrows)
+4.11 Катушки генератора импульсов
+сохранен
+на четыре
+болты (стрелки)
 
-€@) If the pulse generators were removed on 1100 models, use feoker
-‘blades to measure the air gap between each coil face and the
+€@) Если на 1100 модели убрали генераторы импульсов, используйте фейкер
+«лезвия для измерения воздушного зазора между каждой поверхностью катушки и
 
-starter cltch body. If outside of that specified (see Specifications
-‘section
-of
-this Chapter), Joosen the col bots and repostion them
+корпус сцепления стартера. Если за пределами указанного (см. Технические характеристики
+'раздел
+из
+эту главу), поднимите col-ботов и репостите их
 
-2 .On all models except the 1985/86 700 Magnas, use @ multimeter set to
-the
+2. На всех моделях, кроме 700 Magnas 1985/86 года выпуска, используйте мультиметр @, установленный в положение
+тот
 
-ohms
+Ом
 
-x
+х
 
 100
 
-scale
+масштаб
 
-to
+чтобы
 
-measure
+мера
 
-the
+тот
 
-resistance
+сопротивление
 
-between
+между
 
-accordingly
-‘b)
-Ensure
-that
-the pulse generator virhg is routed aviay from the
-starter citch gear and press the vating grommet info the engine
+соответственно
+б)
+Обеспечить
+что
+Импульсный генератор virhg выведен из
+включите шестерню стартера и нажмите на втулку выпускного отверстия двигателя.
 
-the
+тот
 
-wihite/yellow and yellow wires (cylinders 1 and 3) or white/blue and blue
-wires (cylinders 2 and 4) on the generator side of the connector.
-the
+с бело-желто-желтыми проводами (цилиндры 1 и 3) или бело-сине-синим
+провода (цилиндры 2 и 4) со стороны разъема генератора.
+тот
 
-seme
+семе
 
-test
+тест
 
-on
+на
 
 1985/86
 
-whitelyellow and yellow/blue
+бело-желтый и желто-синий
 
 700
 
-Magnes,
+Магнес,
 
-but
+но
 
-wires (cylinders
+провода (цилиндры
 
-blueiyellow wires (cylinders 2 and 4),
+сине-желтые провода (цилиндры 2 и 4),
 
-Carry out
+Провести
 
-4 Compare
-the reading
+4 Сравнить
+чтение
 
-obtained
+получено
 
-with that given in the Specifications at
+с указанным в Спецификациях на
 
-the start
+начало
 
-Either
+Либо
 
-coil
+катушка
 
-of
+из
 
-this
+это
 
-Chapter.
+Глава.
 
-case.
+случай.
 
-measure between the
+мера между
 
-©) Be sure to use @ new gasket vihen instaling the engine side cover
-‘and check thet the two doves are in place.
+©) При установке боковой крышки двигателя обязательно используйте новую прокладку.
+— И проверь, что два голубя на месте.
 
-1 and 3) or whitefblue and
+1 и 3) или бело-голубой и
 
-must be replaced
+должен быть заменен
 
-@) Filthe engine vith oilto the proper kevel (see Chapter
+@) Заправьте двигатель маслом до нужного уровня (см. главу
 1).
 ©)
 
-if the reading
+если чтение
 
-if the pulse generator coils vere disturbed, check the ignkion
-timing (see Chapter 1)
+Если катушки генератора импульсов повреждены, проверьте зажигание.
+время (см. главу 1)
 
-obtained differs greatly trom that given, particularly ifthe meter indicates a
-short
+Полученное значение сильно отличается от заданного, особенно если счетчик показывает
+короткий
 
-cituit (no measurable resistence)
-or an open
-circuit (nfinte,
+cituit (нет измеримого сопротивления)
+или открытый
+схема (нфинте,
 
-or very
+или очень
 
-high resistance)
+высокое сопротивление)
 
-5 Before replacing @ pulse generator coll,
-dueto @ damaged of broken wire
+5 Перед заменой генератора импульсов @,
+из-за @ повреждения обрыва провода
 
-from the
+из
 
-fist check that the fault is not
-coil
+сначала проверьте, нет ли неисправности
+катушка
 
-to the connector, pinched
+к разъему, защемлен
 
 5
 
-Spark unit(s) - check, removal and installation
+Блок(и) зажигания – проверка, снятие и установка
 
-‘or broken wires can usually be reparred.
+«Или сломанные провода обычно можно отремонтировать.
 
-Cheok
+Чеок
 
-Removal
+Удаление
 
-1 If the tests shown in the preceding Sections have failed to isolate the
+1 Если тесты, показанные в предыдущих разделах, не смогли изолировать
 
-Referto Mustraton 4.11
+См. Мустратон 4.11.
 
-cause of an ignition
+причина возгорания
 
-{6 Remove the right side caver on
-1100 models,
+{6 Снимите правую боковую накладку
+1100 моделей,
 
-700/750 models or the fuel tank on
+Модели 700/750 или топливный бак наи отсоедините проводку генератора импульсов на мульти
 
-and disconnect the pulse generator wiring at the mult
+7 Освободите генератор импульсов
 
-7 Free the pulse generator
+проводка, замкнувшая любые связи,
 
-wiring trom any ties,
+отмечаю это
 
-ncting that
+необходимо отсоединить провод датчика давления масла на
 
-necessary to disconnect the oil pressure switch wire on
+может быть
 
-may be
+уверенный
 
-certain
+детали
 
-details are
+неверно, вполне вероятно, что искровые блоки
 
-faut, itis hkely that the spark unit(s) is
+неисправен. Нет теста
 
-faulty. No test
+предоставлены производителем, поэтому устройство(а) может быть только
 
-provided by the manutacturer so the unit(s) can only be
+проверено заменой на заведомо исправный заменитель
 
-checked by the substtution of a known good replacement
+Удаление
+Все модели Sabre 700/750, 1982–1984 гг. 700/750
 
-Removal
-All 700/750 Sabre models, 1982 through 1984 700/750
+Модели Magna и все 100 моделей Magna
 
-Magna models and all 100 Magna models
-
-to Rustration 84
-Refer
+к ржавчине 84
+Обратитесь
 2
 
-Remove the seat and disconnect the battery negative lead
+Снимите сиденье и отсоедините отрицательный провод аккумуляторной батареи.
 
-3 The spark units are mounted on the rear fender. Free the spark unt
-wiring from any
+3 Искровые блоки установлены на заднем крыле. Освободите искру
+проводка от любой
 
-clamps
-or ies and separate
+зажимы
+или ies и отдельные
 
-0/750 Sebre models,
+Модели Себре 0/750,
 
-ts mult-pin connectors
+многоконтактные разъемы ts
 
-remove the screw that retains the spark
+выверните винт, удерживающий искру
 
-unit upper bracket (4ee illustration).
-Note thet onthe 1985 700 Sebre
+верхний кронштейн агрегата (иллюстрация 4ee).
+Обратите внимание на 700 Sebre 1985 года.
 
-one
+один
 
-of the spark unts
-is Stuated under the right side cover
+искры
+Расположен под правой боковой крышкой
 
 5
 
-Maneuver the spark units free
+Свободно маневрируйте искровыми блоками
 
-1985 and 1986 700 Magna models
-6 Remove the seat and the side covers. Disconnect the battery negative
-lead.
+Модели 700 Magna 1985 и 1986 годов
+6 Снимите сиденье и боковые крышки. Отсоединить минусовую клемму аккумулятора
+вести.
 
 7
 
-Separate the
+Отделите
 
-G-pin
+G-контактный
 
-and
+и
 
-4pin
+4-контактный
 
-connectors
+разъемы
 
-components connector bracket. On the
+Кронштейн разъема компонентов. На
 
-housed
+размещенный
 
-in
+в
 
-the
+тот
 
-electrical
+электрический
 
-other side of the motorcycle,
+другая сторона мотоцикла,
 
-the fuel pump from its mounting rubber end remove the screw to
+топливный насос с резинового крепления его конца открутите винт, чтобы
 
-free
-release
+бесплатно
+выпуск
 
-the fuel fiter retaining bracket (there's no need to dsconnect the pump or
-fiter)
+кронштейн крепления топливного фильтра (отсоединять насос или
+фитер)
 
-8 Remove the toolbox mounting bott and withdraw it together with the
+8 Снимите нижнюю часть ящика для инструментов и вытащите ее вместе с
 
-5.4 Spark units (arrow) are mounted on rear fender on 700/750
-‘Sabres, 1100 Magnas and early 700/750 Magnas
+5.4 Искровые блоки (стрелка) установлены на заднем крыле на моделях 700/750.
+«Сабли», 1100 Магна и ранние 700/750 Магна
 
-spark unit.
+искровой блок.
 
-Chapter 5 Ignition system
-1987 and 1988 700/750 Magna models
-Referto Mstraton
+Глава 5 Система зажигания
+Модели 700/750 Magna 1987 и 1988 годов.
+Обратитесь к Мстратону
 5 10
 
 )
 
-Remove the seat and the side covers. Disconnect the battery
+Снимите сиденье и боковые чехлы. Отсоедините аккумулятор
 
-10 Separate the 6-pin and 4-pin connectors housed in the electrical
-components connector bracket ang it the spark unit free (Its located at
-the front of the battery} (see illustration).
+10 Разделите 6-контактный и 4-контактный разъемы, расположенные в электрической
+Кронштейн разъема компонентов, свободный от искрового блока (он расположен на
+передняя часть аккумулятора} (см. рисунок).
 
-1100 Sabre models
-11 Remove the seat and side covers. Disconnect the battery cagatrt
-lead
+1100 моделей саблей
+11 Снимите сиденье и боковые крышки. Отсоедините аккумуляторную батарею
+вести
 
-12 The spark units are mounted just to the rear of the fuel tank
-mounting point. Free
+12 Блоки зажигания установлены непосредственно в задней части топливного бака.
+точка крепления. Бесплатно
 
-rear
+задний
 
-the spark unt wiring from any clamps or tes and
+проводку зажигания от каких-либо зажимов или тестеров и
 
-‘separate its muti-pin connectors, Maneuver
-the spark unts tree.
+«Отсоедините многоконтактные разъемы, Маневрируйте
+искра разжигает дерево.
 
-Installation
-13 Installation is the reverse of removal ensuring that all wiring
-connections are correctly made. Reconnect
-the battery negative lead
-lat
+Установка
+13 Установка производится в порядке, обратном снятию. При этом вся проводка
+соединения выполнены правильно. Восстановить соединение
+отрицательный провод аккумулятора
+лат.
 
-5.10 Spark unit location on 1987 and 1988 700/750 Magnas
+5.10 Расположение блока зажигания на автомобилях 700/750 Magnas 1987 и 1988 годов
 
-6 Ignition timing - general information
-and check.
-Ties bebween
+6 Момент зажигания – общая информация
+и проверьте.
+Связи между
 
-General information
-1 No provision exists for adjusting the ignition timing
+Общая информация
+1 Не предусмотрена регулировка угла опережения зажигания.
 
-and since no
+и поскольку нет
 
-component is subject to mechanical wear, there is no need for reguier
-checks; only # investigating a faut such as a loss of power or a misfire,
-‘should the ignition timing be checked.
+Деталь подвержена механическому износу, необходимости в ремонте нет.
+чеки; только # расследование ошибок, таких как потеря мощности или осечка зажигания,
+«Нужно ли проверить момент зажигания.
 
-2 The ignition timing can only be checked while the engine is mining
-using a stroboscopic (timing) light. The
+2 Момент зажигания можно проверить только во время работы двигателя
+с использованием стробоскопического (хронометрирующего) света.
 
-inexpensive neon amps should
+недорогие неоновые усилители должны
 
-in practice may produce a pulse of such low
-be adequate in theory, but
-possible, one of the
-mark remains indistinct. If
-intensity that the timing
-‘source of the appropriate
+на практике может производить импульс такой низкой
+быть адекватным в теории, но
+возможно, один из
+знак остается нечетким. Если
+интенсивность, что время
+«источник соответствующего
 
-own
-voltage. Note: Do not use the machine's
+собственный
+напряжение. Примечание. Не используйте машину
 
-battery as an incorrect reading may result rm stray impulses within the
+батареи, так как неправильные показания могут привести к появлению постоянных случайных импульсов внутри батареи.ХВО с полным выдвижением Инеса на ротор. Примечание:
 
-the hvo full advance Ines on the rotor. Note:
+Не запускайте
 
-Do not run the
+— дольше, чем необходимо для завершения этой проверки. если
+происходит значительное повреждение (из-за отсутствия сменной крышки).
+б/у) заглушите двигатель и долейте бензин.
+11 Остановите двигатель,
+затем подключите индикатор синхронизации к любому из передних
+выводы свечей цилиндров. Выполните ту же проверку, что описана в шаге 10.
 
-‘any longer than Is necessary to complete this check. if
-signticant oll foss occurs (due to the replacement cover not being
-used) stop the engine and top up the offfevel
-11 Stop the engine,
-then connect the timing light to either of the front
-cyinder plug leads. Cary out the same check as described in Step 10,
+но обратите внимание, что отметка F и линии полного опережения для цилиндров 2 и 4
+должно совпадать с индексной отметкой
 
-but note that the F mark and full advance lines for cyinders 2 and 4
-shoul align withthe index mark
-
-12 Stop the engine, disconnect the timing light and install the
-ator cover using a new gasket. Top up the engine oll see Chapter
+12 Остановите двигатель, отсоедините контрольную лампу и установите
+крышку вентилятора, используя новую прокладку. Заправьте двигатель, см. главу.
 1).
 
-1987 and 1988 700/750 Magna models.
+Модели 700/750 Magna 1987 и 1988 годов.
 
-machine's electrical system.
+электрическая система машины.
 
-Refer
-to iiustration 6.16
+Обратитесь
+к иллюстрации 6.16
 
-Check
+Проверить
 
-13 Run the engine up to normal operating temperature then stop it. Note:
-The kile speed must be correct for this check (see Chapter 1).
-‘4 Using a box wrench or socket, remove the circular inspection cover
+13 Запустите двигатель до нормальной рабочей температуры, затем остановите его. Примечание:
+Для этой проверки скорость в километрах должна быть правильной (см. главу 1).
+‘4 Используя накидной ключ или торцевую головку, снимите круглую смотровую крышку.
 
-All 1982 through 1986 models
-Note: Access to the gnition timing marks necesstates removal of the
+Все модели 1982–1986 годов.
+Примечание. Для доступа к меткам момента зажигания необходимо снять
 
-ifemator cover and some foss of engine oll Honda supply @ cover for
+крышка ifemator и немного деталей для двигателя, которые поставляются Honda @ крышка для
 
-certain models vihich has an inspection aperture for access to the
+некоторые модели имеют смотровое отверстие для доступа к
 
-ftom the right crankcase
+из правого картера
 
-cover (it may
-be very tight)
+обложка (может быть
+будь очень напряженным)
 
-plug leads and
-15 Connect the timing ight to either of the rear cylinder
-start the engine. Aim the Eight atthe index mark on the periphery of
+подключите провода и
+15 Подсоедините распределительную коробку к любому из задних цилиндров.
+запустите двигатель. Направьте Восьмёрку на указательную отметку на периферии
 
-timing marks and allows the task to be carred out without oll bss; ts
+отметки времени и позволяют выполнить задачу без олл-басс; тс
 
-for
-for 1100 Magnas, 07998-MIB40000
-art number is 07998-MBOOOOO
-100 Sabres
-and 1985/86 700 Magnas, Refer to iustration
+для
+для 1100 Магнас, 07998-MIB40000
+арт номер 07998-MBOOOOOO
+100 сабель
+и 700 Magnas 1985/86, см. иллюстрацию.
 6.7
 
-Run the engine up to normal operating temperature then stop @.
+Запустите двигатель до нормальной рабочей температуры, затем остановите @.
 
-‘be:
+'быть:
 
-check (see Chapter 1).
+проверьте (см. главу 1).
 
-retaining bolts and remove the
-alternator
-cover. Recover its gasket,
-Wipe any
-off off
-the outside of the aternator rotor.
+болты крепления и снимите
+генератор переменного тока
+крышка. Восстановите его прокладку,
+Сотрите любой
+выкл. выкл.
+внешняя сторона ротора генератора.
 8
-Remove the crankcase rear let cover.
-7 Identify the timing marks on the rotor and casing (see
-illustration}.
+Снимите заднюю крышку картера.
+7 Найдите установочные метки на роторе и корпусе (см.
+иллюстрация}.
 
-‘The casing index mark is formed by the crankcase joint. tis advisable to
+«Отметка на корпусе образуется соединением картера. желательно
 
-highlight the timing marks with white paint to make them more distinct
-under the timing ight.
-8 Hf using the Honda replacement cover described above, instal it at this
+выделите метки времени белой краской, чтобы они были более четкими
+под индикатором времени.
+8 Hf, используя описанную выше сменную крышку Honda, установите ее в этом месте.
 
-stage. Note that the replacement cover has an index mark stamped in
-its aperture
+этап. Обратите внимание, что на сменной крышке имеется отштампованная указательная метка.
+его апертура
 
-9 Connect the timing lighto either
-of the rear cyinder plug leads. Start
-timing light at the index mark on the casing,
-the
-ed the
+9. Подключите индикатор синхронизации либо
+выводов разъема заднего цилиндра. Старт
+индикатор времени на отметке на корпусе,
+тот
+Ред.
 
-F mark on the rotor should align with
+Метка F на роторе должна совпадать с
 
-rease
-engine speed
-to 3,500 rpm (1985 and 1986 700
-or 3,300 rpm (all 700/750 Sabres and earlier Magnas) or 3,800
-Magnas)
+освободить
+частота вращения двигателя
+до 3500 об/мин (1985 и 1986 гг. 700
+или 3300 об/мин (все 700/750 Sabre и более ранние модели Magnas) или 3800 об/мин (все 700/750 Sabre и более ранние версии Magnas)
+Магнас)
 
-rpm (all 1100 models) and check that the index mark
+об/мин (все модели 1100) и убедитесь, что указатель
 
-on 1982 through 1986
-6.7 Timing marks are on altemator rotor
-models -F mark at idle (upper arrow) and full
-advance mark (lower arrow)
+с 1982 по 1986 год
+6.7 Метки времени находятся на роторе альтематора.
+модели - отметка F на холостом ходу (верхняя стрелка) и при полной нагрузке.
+отметка продвижения (нижняя стрелка)
 
 58
 
-Chapter Ignition system
+Глава Система зажигания
 
-the cover aperture.
+отверстие крышки.
 
-16 Vith the engine at idle speed,
-the F mark on the starter clutch body
-should align exactly with the cover Index mark (see illustration).
+16 При работе двигателя на холостом ходу,
+метка F на корпусе муфты стартера
+должен точно совпадать с индексной отметкой на крышке (см. рисунок).
 
-17 Raise engine speed to 3,500 rpm to check the advance function. At
-this speed the index mark should lle between the two paralel ines to the
+17 Увеличьте скорость двигателя до 3500 об/мин, чтобы проверить функцию опережения. В
+при этой скорости указательная метка должна находиться между двумя параллельными линиями.
 
-left of theF mark. Note: Do not run the engine any tanger than
-necessary
-to compete
-this check.
-18 Stop the engine, then connect the timing light to either of the front
+слева от отметки F. Примечание. Не запускайте двигатель дольше, чем
+необходимо
+конкурировать
+этот чек.
+18 Остановите двигатель, затем подсоедините индикатор времени к любому из переднихпровода искателя. Выполните ту же проверку, как описано в шаге 16.
+и 17, но обратите внимание, что отметка F и полное продвижение для цилиндров 2 и
+4 должна совпадать с индексной отметкой.
+19 Остановите двигатель,
+отсоедините лампочку времени и установите
+инспекционная крышка.
 
-finder plug leads. Carry out the same check as described in Steps 16
-and 17, but note that the F mark and ful advance ines for cyinders2 and
-4 should align vith the index mark.
-19 Stop the engine,
-disconnect the timing light and install the
-inspection cover.
-
-Allmodels
-20 As akeady stated, there is no means of adjustment of the ignition
-timing on these machines. If the ignition timing is incorrect one ofthe
-ignition system components is at fault, and system must be tested as
-described in the preceding Sections ofthis Chapter.
+Всемодели
+20 Как уже говорилось, средств регулировки зажигания нет.
+ГРМ на этих машинах. Если момент зажигания неправильный, один из
+Компоненты системы зажигания неисправны, и систему необходимо проверить как
+описанные в предыдущих разделах данной главы.
 
 ©
-6.16 Ignition timing F mark aligned with casing index
+6.16 Метка момента зажигания F совмещена с индексом на корпусе.
 
-mark on 1987 and 1988 700/750 models
-
-
+Марка на моделях 700/750 1987 и 1988 годов

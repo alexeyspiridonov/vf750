@@ -1,205 +1,205 @@
 441
 
-Chapter 4
+Глава 4
 
-Fuel and exhaust systems
+Топливная и выхлопная системы
 
-Note: Unless
+Примечание: если только
 
-in this Chapter,
+в этой главе,
 
-‘or the 1982 750 Satre apples to the UK VFT5OS-C, and that for the 1987 and
+«или яблоки 750 Satre 1982 года для британского VFT5OS-C, и это для 1987 и 1987 годов».
 
-1988 700/750 Magnas applies to the UK VF750C-H and C-J respectively.
+1988 г. 700/750 Magnas применяется к британским VF750C-H и CJ соответственно.
 
-Contents
+Содержание
 
-components check.
+проверка компонентов.
 
-‘Section
+«Раздел
 
 eyChapter
-Sas 1petete eer
+Сас 1 петете лет
 
-me
+я
 
-Air filter housing- removal and Installation,
+Корпус воздушного фильтра – снятие и установка,
 14
-Carburetor overhau- general formation
+Капитальный ремонт карбюратора- общее формирование
 
-general information.
+общая информация.
 7
 
-ete
+этэ
 
-Chapter1
+Глава 1
 
-wyandl
-Carburetors .isassemby,
-clearing
-and inepecton
+вандл
+Карбюраторы .в сборе,
+очистка
+и нелептон
 
-ee
+эээ
 19
 
-‘Carburetors - reassembly and float height check.
+«Карбюраторы – сборка и проверка высоты поплавка.
 9
-Carburetors - removal and installation.
+Карбюраторы - снятие и установка.
 7
 
-Carburetors - separation and joining
+Карбюраторы - разделение и соединение
 10
-Carburetors - synchronization.
-Chapter 1
+Карбюраторы - синхронизация.
+Глава 1
 
-Choke cable - removal, installation and treeplay check.
+Трос дросселя – снятие, установка и проверка люфта.
 12
-Crankcase breather - general information and
-system
+Сапун картера – общая информация и
+система
 
 16
 
-Evaporative
-vd emission control system (1984-0n Califomia
+испарительный
+система контроля выбросов vd (1984-0n, Калифорния)
 
-See
+См.
 
-aes:
-aes aie Gar Sail
+аес:
+да да Гар Сейл
 
 5
 
-Fuel pump
-- check, removal and installation...
+Топливный насос
+- проверка, снятие и установка...
 13
 
-Fuel pump
-relay
-check and reptacement.
+Топливный насос
+реле
+проверка и замена.
 
-See
+См.
 
-Chapter 8
-Fuel sender
-- removal and installation
+Глава 8
+Датчик топлива
+- снятие и установка
 5
 
-Fuel sender test.
+Проверка датчика топлива.
 
-ee
+эээ
 
-Chapter 8
+Глава 8
 
-Fuel system -fiter cleaning or replacement.
+Топливная система – чистка или замена.
 
-‘See
-See
+«Смотри
+См.
 
-Chapter 1
-Fuel tank - cleaning and repair...
-Fuel tank - removal and installation...
+Глава 1
+Топливный бак - чистка и ремонт...
+Топливный бак – снятие и установка...
 2
 
-Fuel valve- removal and installation.
-General information and precautions.
+Топливный клапан – снятие и установка.
+Общая информация и меры предосторожности.
 1
-Idle fueVair mixture adjustment- general information . .
+Регулировка смеси топлива на холостом ходу — общая информация. .
 5
 
-Idle speed - check and adjustment.
+Холостой ход – проверка и регулировка.
 
-See
+См.
 
-‘Chapter 1
+«Глава 1
 
-‘Secondary air supply system (1986-on 700/750
-California models)- general information.
+'Система вторичной подачи воздуха (1986-на 700/750
+Модели Калифорнии) – общая информация.
 18
 
-‘Throttle cables - removal and installation.
-ca
+«Тросики газа – снятие и установка.
+Калифорния
 
-‘Throttle operationytreeplay - check and adjustment...
-Chapter 1
+«Работа дроссельной заслонки – люфт – проверка и регулировка…»
+Глава 1
 
-See
+См.
 
 42
 
-Chapter
-4 Fuel and exhaust systems.
+Глава
+4 Топливная и выхлопная системы.
 
-‘Specifications
-Fuel grade.
+«Технические характеристики
+Класс топлива.
 
-Unleaded or leaded (according to local regulations),
+Неэтилированный или этилированный (согласно местным нормам),
 
-‘minimum $1 octane (research method)
+«октановое число минимум $1 (метод исследования)
 
-Fuel tank capacity
-1982 through 1985 700/750 Sabre models
+Емкость топливного бака
+Модели 700/750 Sabre с 1982 по 1985 год.
 
-Toa
-Rese
+Тоа
+Резе
 
-18Iit (4.8 US gal, 4.0 Imp gal)
+18Iit (4,8 галлона США, 4,0 галлона имп.)
 4:18
-(1.1 US gal, 09 imp gal)
+(1,1 галлона США, 09 имп галлонов)
 
-1982 tough 1964 700/780 Magna models
-Total (including auxiliary tank).
+Жесткие модели 1982 года 700/780 Magna 1964 года
+Итого (включая вспомогательный бак).
 
-Reserve.
+Резерв.
 
-1985 and 1986 700 Magna models.
-Total...
+Модели 700 Magna 1985 и 1986 годов.
+Итого...
 °
-RESEVE soe
-n es
-1987 and 1988 700/750 Magna models
+РЕЗЕВЕ соэ
+нет
+Модели 700/750 Magna 1987 и 1988 годов.
 
-14 Ik (3.7 US gal, 3.1 Imp gal)
+14 Ik (3,7 галлона США, 3,1 галлона США)
 
-418 (1.1 US gal, 0.9 Imp gal)
-1.5 it (3.6 US gal, 3.0 imp gal)
+418 (1,1 галлона США, 0,9 галлона США)
+1,5 (3,6 галлона США, 3,0 имп галлона)
 
-3.5 lit (0.9 US gal, 0.8 Imp gal)
-13 lit (3.4 US gal, 2.9 Imp gal)
+3,5 литра (0,9 галлона США, 0,8 галлона США)
+13 литров (3,4 галлона США, 2,9 галлона США)
 
-Total
+Итого
 
-2.8 lit (0.7 US gal, 0.6 Imp gal)
+2,8 литра (0,7 галлона США, 0,6 галлона США)
 
-Reserve
+Резерв
 
-1100 Sabre models
-Total
+1100 моделей саблей
+Итого
 
-Reserve
-1100 Magna models
-Total (including auxiliary tank).
+Резерв
+1100 моделей Магна
+Итого (включая вспомогательный бак).
 
-Reserve ..
+Резерв..
 
-22.it (58 US gal, 4.8 Imp gal
+22.it (58 галлонов США, 4,8 галлонов имп.
 4it(4.4
-US gal, 08 Imp gal)
+Американские галлоны, 08 имп галлонов)
 
-17 It (4.5 US gal, 3.7 Imp gal)
+17 It (4,5 галлона США, 3,7 галлона США)
 
-3 t (0.8 US gal, 0.7 imp gal)
+3 т (0,8 галлона США, 0,7 имп галлона)
 
-Carburetor jet sizes
+Размеры жиклера карбюратора
 
-‘Main jet
-1982 750 Sabre model.
+«Главный реактивный самолет
+Модель 750 Sabre 1982 года.
 
-1983 750 Sabre model
-1964 and 1985 700 Sabre models
-UK VF750S model
-4982 750 Magne model
+Модель 750 Sabre 1983 года
+Модели 700 Sabre 1964 и 1985 годов.
+Британская модель VF750S
+4982 Модель 750 Магне
 
-Front cylinders
+Передние цилиндры
 132
 
 135
@@ -207,7 +207,7 @@ Front cylinders
 132
 128
 
-Rear cylinders
+Задние цилиндры
 132
 
 138
@@ -215,8 +215,8 @@ Rear cylinders
 132
 128
 
-1983 750 Magna model.
-1984 through 1986 700 Magna models.
+Модель 750 Magna 1983 года.
+700 моделей Magna с 1984 по 1986 год.
 
 128
 95
@@ -224,28 +224,28 @@ Rear cylinders
 132
 98
 
-1987 700 Magna
+1987 700 Магна
 
 108
 
 105
 
-1987 700 Magna California model.
+Модель 700 Magna California 1987 года выпуска.
 
-model except California.
-
-105
+модель, кроме Калифорнии.
 
 105
 
-1988 750 Magna model.
+105
+
+Модель 750 Magna 1988 года.
 
 110
 
 108
 
-UK VF750C-H model,
-UK VF750C-J model.
+Модель VF750C-H для Великобритании,
+Британская модель VF750C-J.
 
 110
 112
@@ -253,11 +253,11 @@ UK VF750C-J model.
 108
 110
 
-1983 1100 Magna models.
+1983 г. Модели 1100 Magna.
 
 140
 
-1100 Sabre models.
+1100 моделей Sabre.
 
 120
 
@@ -265,215 +265,214 @@ UK VF750C-J model.
 
 140
 
-41984end
-1985
-1100 Magna models.
+41984конец
+1985 год
+1100 моделей Магна.
 
 118
 
 120
 
-1986 1100 Magna models.
+1986 г. Модели 1100 Magna.
 
 115
 
 118
 
-Pilot jet (slow jet)
-1982 750 Sabre model.
-1983 through 1985 700/750 Sabre models.
+Пилотный реактивный самолет (медленный реактивный)
+Модель 750 Sabre 1982 года.Модели 700/750 Sabre с 1983 по 1985 год.
 
 38
 40
 
-UK VE750S mode!
+Британский режим VE750S!
 
-Not available
+Недоступно
 
-1982, and 1984 through 1986 700/750 Magna models.
-1987 and 1988 700/750 Magna models.
-UK VE750 C-H model.
+Модели 700/750 Magna 1982 и 1984–1986 годов.
+Модели 700/750 Magna 1987 и 1988 годов.
+Модель VE750 CH для Великобритании.
 
 3
 35
 35
 
-1983 750 Magna model.
+Модель 750 Magna 1983 года.
 
 40
 
-UK VF750 C-J model.
+Британская модель VF750 CJ.
 
-3B
+3Б
 
-1100 model
+Модель 1100
 
 38
 
-Pot sco
+Пот ско
 
 — intel etng fs ut)
 
-1982 750 models.
-1983 750 Sabre models...
-1984 and 1985 700 Sabre models
-UK VF750S-C model.
+1982 г. 750 моделей.
+Модели 750 Sabre 1983 года...
+Модели 700 Sabre 1984 и 1985 годов.
+Британская модель VF750S-C.
 
 234
 212
 3
 212
 
-41983 through 1986 700/750 Magna models
+Модели 700/750 Magna с 41983 по 1986 год.
 
 212
 
-1987 700 Magna models,
+1987 модели 700 Magna,
 
-UK VE750C-H model
-UK VE750C-J model
-1100 Sabre models.
-1100 Magna
+Модель VE750C-H для Великобритании
+Модель VE750C-J для Великобритании
+1100 моделей Sabre.
+1100 Магна
 
-1 718 (2 1/8 Califomia
+1 718 (2 1/8 Калифорния
 
-1983 model
+модель 1983 года
 
 3
 
-1986 models.
+Модели 1986 года.
 
 212
 
-1984 and 1985 models.
+Модели 1984 и 1985 годов.
 
-models)
+модели)
 
-1 44 (2 1/8 California models)
+1 44 (модели 2 1/8 для Калифорнии)
 212
 214
-3.4/8 (2 California modets)
+3,4/8 (2 мода «Калифорния»)
 
-2.3/4 (3 Califomia models)
+2,3/4 (3 модели для Калифорнии)
 
 43
 
-Chapter
-4 Fuel and exhaust systems
-Carburetor adjustments:
-Float height (all models)
-1982 750 Sabre model.
-1983 750 Sabre model
-1984 and 1985 700 Sabre models.
-UK VF750S model...
+Глава
+4 Топливная и выхлопная системы
+Регулировка карбюратора:
+Высота поплавка (все модели)
+Модель 750 Sabre 1982 года.
+Модель 750 Sabre 1983 года
+Модели 700 Sabre 1984 и 1985 годов.
+Британская модель VF750S...
 
-1982 through 1984 700/750 Magna models.
-1985 700 Magna model...
-1986 700 Magna model.
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna с 1982 по 1984 год.
+Модель 700 Magna 1985 года...
+Модель 700 Magna 1986 года.
+Модели 700/750 Magna 1987 и 1988 годов.
 
-UK VF750C-H model.
-UK VF750C-J model.
-1983 1100 Magna model...
+Британская модель VF750C-H.
+Британская модель VF750C-J.
+Модель 1100 Magna 1983 года...
 
-1984 and 1985 1100 models.
-1986 1100 Magna model.
-Ide speed.
+Модели 1100 1984 и 1985 годов.
+Модель 1100 Магна 1986 года.
+Скорость язя.
 
-Torque settings
+Настройки крутящего момента
 
-Exhaust system — 1982 through 1986 700/750 and all 1100 models
-‘Muller mounting nuts.
-Front pipe-to-cyinder head nuts
-Exhaust chamber mounting bots.
+Выхлопная система — 700/750 и все модели 1100 с 1982 по 1986 год.
+«Крепежные гайки Мюллера.
+Гайки крепления передней трубы к головке блока цилиндров
+Боты для крепления выхлопной камеры.
 
-Rear headpipe-to-exhaust chamber clamp bot.
-Exhaust system — 1987 and 1988 700/750 Magna models
-‘Muller mounting nuts.
-Front pipe-to-cylinder head nuts
+Зажим задней трубы для выхлопной камеры.
+Выхлопная система — модели 700/750 Magna 1987 и 1988 годов.
+«Крепежные гайки Мюллера.
+Гайки крепления передней трубы к головке блока цилиндров
 
-Rear headpipe-to-exhaust chamber clamp bolts.
+Болты крепления задней головной трубы к выхлопной камере.
 
 1
 
-General information and precautions
+Общая информация и меры предосторожности
 
-General information
-‘On 700/750 Sabre models fuel is fed to the carburetors in a
-conventional gravity-feed system from the fuel tank. The 1100 Sabre
-model has a pump-fed fuel supply.
-Early 700/750 ond all 1100 Magnas are fitted with en auxiliary fuel
+Общая информация
+«На моделях Sabre 700/750 топливо подается в карбюраторы по
+обычная система гравитационной подачи из топливного бака. Сабля 1100
+Модель имеет насосную подачу топлива.
+Ранние модели 700/750 и все 1100 Magna оснащены дополнительным топливом.
 
-tank under the seat in addition to the main fuel tank, which is of
-felatively small capacity. Fuel is pumped from the auxiliary tank to the
-carburetors, The auxiliary tank was discontinued on the 1985-on
-700/750 Magnas, although the fuel system remained pump-fed through
+бак под сиденьем в дополнение к основному топливному баку, который имеет
+относительно малая мощность. Топливо перекачивается из дополнительного бака в
+карбюраторы, Дополнительный бак снят с производства в 1985-на
+700/750 Magnas, хотя топливная система оставалась насосной.
 1986,
 
-Keinn CV carburetors are fied tol! modes in the range, The
-while the rear
-are
-front two ca
-Sua The carburetors etould hol be nlerchanged fem Got
-original positions. The butterflytype choke valves are cable-operated
-bya
+Карбюраторы Keinn CV заправлены! режимы в диапазоне, The
+в то время как тыл
+являются
+передние два ок.
+Sua Карбюраторы должны быть заменены лучше, чем у женщин.
+исходные позиции. Дроссельные клапаны типа «бабочка» имеют тросовое управление.
+пока
 
-lever on the left side of the handlebars,
+рычаг на левой стороне руля,
 
-Air is draw to the carburetors from a moulded plastic air fiter
-housing containing an oiled foam element on Sabre models and @
+Воздух подается в карбюраторы из формованного пластикового воздушного патрубка.
+корпус с промасленным пенопластовым элементом на моделях Sabre и @
 
-pleated paper type element on Magna models.
+Элемент типа плиссированной бумаги на моделях Magna.
 
-The exhaust system is a four-into-two design on all models except
+Выхлопная система на всех моделях, кроме
 
-the 1987 and 1988 700/750 Magnas, where itis a four-into-four design.
-Many of the fuel system service procedures are considered
-routine maintenance items and for that reason are included in Chapter
+700/750 Magnas 1987 и 1988 годов, где это конструкция четыре на четыре.
+Многие процедуры обслуживания топливной системы рассмотрены
+элементы текущего технического обслуживания и по этой причине включены в главу
 1
 
-Precautions
+Меры предосторожности
 
-8:3 mm (0.327
-in)
-in)
-7.0 mm (0.276
-in)
-7.5 mm (0.300
-6.8 mm (0.268
-in)
-7.2 mm (0.283
-in)
-7.0. mm (0.276
-in)
+8:3 мм (0,327
+в)
+в)
+7,0 мм (0,276
+в)
+7,5 мм (0,300
+6,8 мм (0,268
+в)
+7,2 мм (0,283
+в)
+7.0. мм (0,276
+в)
 
-7.5 mm (0.300
-in)
-9.8 mm (0.386
-in)
-7.5 mm (0.300
-in)
+7,5 мм (0,300
+в)
+9,8 мм (0,386
+в)
+7,5 мм (0,300
+в)
 
-8.5 mm (0.335
-in)
-6.0 mm (0.236
-in)
-in)
-7.5 mm (0.300
+8,5 мм (0,335
+в)
+6,0 мм (0,236
+в)
+в)
+7,5 мм (0,300
 8.0 mm (0.315
-in)
-‘See Chapter 1
+в)
+«Смотрите главу 1
 
-Nm
+Нм
 
 ft-ibs
 
 181028
-8t0 14
-8to 12
+8т0 14
+с 8 до 12
 
 13020
-6to 10
+с 6 до 10
 6to9
 13020
 
@@ -481,454 +480,447 @@ ft-ibs
 
 241030
 
-1710.22
+1710,22
 
-Bto
+Бто
 12
 181028
 
-6t09
-130.20
+6т09
+130,20Всегда выполняйте процедуры обслуживания в хорошо проветриваемом помещении, чтобы
 
-Always perform service procedures in a well-ventilated area to
+Предотвратите накопление дыма.
 
-Prevent a build-up of fumes.
+Никогда не работайте в здании, где есть газовое оборудование с пилотом.
+свет или любой другой вид открытого огня. Обеспечить
+что здесь нет голых
 
-Never work in a building containing @ gas appli ce with a pilot
-light, or any other form of naked flame. Ensure
-that the re are no naked
+лампочки или любые источники пламени или искр поблизости.
 
-light bulbs or any sources of flame or sparks nearby.
+(или позволить кому-либо курить), находясь поблизости
+Донет дым
 
-(or allow anyone else to smoke) while in the vicinity
-Donet smoke
+бензина (бензина) или содержащих его компонентов. Помните
+возможное присутствие пара из этих источников и перемещение на достаточном расстоянии
+перед курением.
 
-of gasoline (petrol) or of components containing it. Remember
-possible presence of vapor from these sources and move well clear
-before smoking.
+Проверьте все электрооборудование, принадлежащее дому, гаражу или
+‘цех, в котором проводятся работы (см. раздел «Безопасность прежде всего!»)
+данного руководства). Помните, что некоторые электроприборы, такие как
 
-Check all electrical equipment belonging to the house, garage or
-‘workshop where work is being undertaken (see the Safety frst! section
-of this manual). Remember that certain electrical appliances such as
+iil, фрезы и т. д. создают искры в ходе нормальной работы и
+нельзя использовать рядом с бензином (бензином) или любым компонентом, содержащим
+это. Опять же, помните о возможном наличии паров перед использованием.
+электрический
 
-iil, cutters etc create sparks in the normal course of operation and
-must not be used near gasoline (petrol) or any component containing
-it. Again, remember the possible presence of fumes before using
-electrical
+«Всегда вытирайте пролитое топливо и безопасно выбрасывайте бумажное полотенце.
 
-‘Always mop up any spilt fuel and safely dispose of the shop towel
+или тряпка использовалась.
 
-or rag used.
+«Любое хранящееся топливо, слитое во время работ по техническому обслуживанию, должно быть
 
-‘Any stored fuel that is drained off during servicing work, must be
+храниться в герметичных емкостях, пригодных для хранения бензина (бензина)
 
-kept in sealed containers that are suitable for holding gasoline (petrol)
+«и четко обозначены как таковые; сами контейнеры следует хранить
+В безопасном месте. Обратите внимание, что этот последний пункт в равной степени относится и к топливному баку.
+если он снят с машины; также не забудьте сохранить колпачок
+«Всегда закрыто».
 
-‘and clearly marked as such; the containers themselves should be kept
-ln a safe place. Note that this last point epplies equally to the fuel tank,
-if it Is removed from the machine; also remember to keep its cap
-‘closed at all times.
+«Обратите внимание, что топливная система состоит из топливного бака с крышкой
+«и соответствующие вентиляционные шланги, топливный насос и горелки. В Калифорнии, США
 
-‘Note that the fuel system consists of the fuel tank, with its cap
-‘and related vent hoses, the fuel pump and fiers. On US California
+моделей, сюда входит система контроля выбросов в результате испарения (EVAP).
+«Компоненты системы.
+Сначала прочтите «Безопасность»! раздел данного руководства, прежде чем
 
-models, this includes the Evaporative Emission Control (EVAP)
-‘System components.
-Read the Safety first! section of this manual carefully before
+«Предупреждение: бензин (петро/) чрезвычайно легко воспламеняется, поэтому возьмите с собой дополнительно
 
-‘Warning: Gasoline (petro/) is extremely flammable, so take extra
+начало работы.
 
-starting work.
+«При работе с топливной системой надевайте защитные очки и имейте при себе огнетушитель.
 
-‘on the fuel system, wear safety glasses and have a fre extinguisher
+могут излучаться этими машинами. Все транспортные средства, предлагаемые к продаже, должны
+действительны на дату изготовления и не должны
+соблюдать законодательство
+«впоследствии быть изменены любым способом, который повлияет на их эмиссию
 
-can be emitted by those machines. All vehicies offered for sale must
-in force at the date of manufacture and must not
-comply with legislation
-‘subsequently be altered in any way which will affect their emission of
+«Меры предосторожности при работе с любой частью топливной системы». Не курите или
+допускайте наличие открытого огня или голых лампочек рядом с рабочей зоной и не работайте
+в гараже, где установлен прибор, работающий на природном газе (например, водонагреватель).
+присутствует. если вы пролили топливо на кожу, отключитесь
+сушилка)
+одежда
+или
+мыло и вода. Когда вы выполняете какую-либо работу
+с
+немедленно
 
-‘precautions when you work on any part of the fuel system. Dont smoke or
-allow open flames or bare light bulbs near the work area, and don't work
-in a garage where a natural gas-type appliance (such as a water heater
-is present. if you spill any fuelon your skin, nse off
-dryer)
-clothes
-or
-soap and water. When you perform any kind of work
-with
-immediately
+подходящие для легковоспламеняющихся жидкостей класса B) под рукой.
 
-suftable fora class B type fre flammable iquids) on hand.
+«Владельцы машин, используемых в США, особенно в Калифорнии,
+следует отметить, что их машины всегда должны соответствовать федеральным
+© Государственное законодательство, регулирующее допустимые уровни шума и
 
-‘Owners of machines used in the US, particularly California,
-should note that their machines must comply at all times with Federal
-© State legislation governing the permissible levels of noise and of
+например, необожженный
 
-such as unbumt
+шума или загрязняющих веществ.
 
-noise or of pollutants.
+углерод
 
-carbon
-
-etc that
+и т. д., что
 
 44
 
-Chapter4 Fuel and exhaust systems
+Глава 4 Топливная и выхлопная системы
 
-2.2 Fuel valve connections on 700/70 Sabre models
+2.2 Соединения топливного клапана на моделях 700/70 Sabre
 
 1
 
-Vent hose
+Вентиляционный шланг
 
 2
 
-Vacuum hose
+Вакуумный шланг
 
 3
 
-2.3 Disconnect the fuel sender wiring at the connector
+2.3 Отсоедините проводку датчика топлива от разъема.
 
-Fuethose
+Фуэтосе
 
-1982 through 1984 700/750 Magna models and all 1100
-Magna models
+Модели Magna 700/750 и все 1100 с 1982 по 1984 год.
+Модели Магна
 
-In practice, this means that adjustments may not be made to
-any part of the fuel, ignition or exhaust systems by anyone who Is
-not authorized or mechanically qualified to do so, or who does not
-have the tools, equipment and data necessary to properly carry out
-the
+На практике это означает, что корректировки не могут быть внесены в
+любую часть топливной системы, системы зажигания или выхлопной системы любым лицом,
+не уполномочен или не имеет механической квалификации для этого, или кто не имеетиметь инструменты, оборудование и данные, необходимые для надлежащего выполнения
+тот
 
-task. Also if any part of
+задача. Также, если какая-либо часть
 
-these systems is to be replaced it must
+эти системы должны быть заменены, они должны
 
-be replaced with only genuine Honda components or by
-components which are approved under the relevant legislation.
-The machine must never be used with any part of these
-systems
-removed, modified or damaged,
+заменяться только оригинальными компонентами Honda или
+компоненты, одобренные соответствующим законодательством.
+Никогда не используйте машину с какой-либо частью этих
+системы
+удалены, изменены или повреждены,
 
-Referto ikustration 2.8
+См. икустрацию 2.8.
 
-& _ Remove the seat (se
-Chapter 6)
-7 Prior to removing the fuel tank, it must be drained. Remove the
-right (700/750 models) or left (1100 model) side
-cover and switch
-the fuel vaive to the OFF position. Have
+& _ Снимите сиденье (см.
+Глава 6)
+7 Прежде чем снимать топливный бак, его необходимо слить. Удалите
+правая (модели 700/750) или левая (модель 1100) сторона
+крышка и переключатель
+подача топлива в положение ВЫКЛ. Иметь
 
-main fuel tank.
+основной топливный бак.
 
 2
 
-Fuel tank -removal and installation
+Топливный бак – снятие и установка
 
-Warning:
+Предупреждение:
 
-a rag ready to catch any
+тряпка, готовая поймать любого
 
-spilt fuel and disconnect the fuel pump supply hose from the vaive
-of tank stub, Attach a
-length of hose of the proper diameter
-to th
-valve and piace the other end of the hose in a clean container.
-such as a multi-gallon gas (petrol) can. Tum the valve to the ON
-Position and drain enough fuel from the auxiliary tank to empty the
-Note:
+пролил топливо и отсоедините шланг подачи топливного насоса от вайва.
+заглушки бака, прикрепите
+длина шланга нужного диаметра
+к этому
+клапан и поместите другой конец шланга в чистую емкость.
+например, канистра для газа (бензина) на несколько галлонов. Поверните клапан в положение ВКЛ.
+Расположите и слейте достаточное количество топлива из вспомогательного бака, чтобы опорожнить
+Примечание:
 
-Raise the tank up on ts support rod as
+Поднимите бак на опорной штанге, как
 
-described below
-to drah as much fuel as possibie. Tur the valve OFF
-and
-reconnect the fuel pump supply hose when draining is
+описано ниже
+чтобы забрать как можно больше топлива. Выключите клапан
+и
+подсоедините подающий шланг топливного насоса, когда произойдет слив.
 
-efer
-to the precautions given in Section 1 before starting
+эфер
+перед началом работы соблюдайте меры предосторожности, указанные в разделе 1.
 
-wok,
+вок,
 
-complet
-8 Remove the two front mounting bolts, then hinge the tank up on
+завершение
+8 Снимите два передних крепежных болта, затем поднимите бак на
 
-its support rod. With a rag handy to absorb any remaining fuel
-disconnect the fuel and breather hoses from the rear underside of
+его опорный стержень. С тряпкой, чтобы впитать остатки топлива.
+отсоедините топливный и вентиляционный шланги от задней нижней части автомобиля.
 
-Main fuel tank
-Sabre models
+Основной топливный бак
+Модели сабель
 
-the fuel tank. On 1984-on California models, disconnect the
-evaporative emission control system hose from the tank (see
+топливный бак. На моделях California 1984 года выпуска отсоедините
+шланг системы контроля выбросов в результате испарения от бака (см.
 
-Referto lustrations 2.2 and 2.3
+См. люстрации 2.2 и 2.3.
 
-illustration).
+иллюстрация).
 
 1_
 
-Remove the side covers and seat(see Chapter
+Снимите боковые крышки и сиденье (см. главу
 6).
 
-2 Tum the fuel vaive fo the OFF position.
+2 Переведите клапан подачи топлива в положение ВЫКЛ.
 
-Have
+Иметь
 
-a rag handy to
+тряпка под рукой
 
-‘catch any spilled fuel and disconnect the fuel hose from
-the valve
-‘On 700/750 models also disconnect the vacuum and vent hoses
-from the vaive (see iltustration).
-3 On 700/750 models,
+«Соберите пролитое топливо и отсоедините топливный шланг от
+клапан
+«На моделях 700/750 также отсоедините вакуумный и вентиляционный шланги.
+от вайва (см. иллюстрацию).
+3 На моделях 700/750
 
-remove the fuel tank mounting bolt and
+отверните болт крепления топливного бака и
 
-collar located at the rear of the
+воротник, расположенный в задней части
 
-tank, followed on 1983-on models
+танк, последовавший за моделями 1983 г.
 
-by the mounting bolt and collar on each side
+крепежным болтом и воротником с каждой стороны
 
-at the tank front
+на танковом фронте
 
-mounting. Locate the fuel sender wiring connector and disconnect
-it (see illustration). Lift the rear of the tank and pull it rearwards
-off the motorcycle (on 1982 models this is necessary to disengage
+монтаж. Найдите разъем проводки датчика топлива и отсоедините его.
+это (см. иллюстрацию). Поднимите заднюю часть бака и потяните его назад.
+с мотоцикла (на моделях 1982 года это необходимо для отключения
 
-its front_mounting rubbers). On 1984-on California models
-disconnect the evaporative emission control system hose from the
-tank.
+его передние резинки крепления). На моделях California 1984 года выпуска
+отсоедините шланг системы контроля выбросов в результате испарения от
+танк.
 
-4 On 1100 models, remove the two front mounting bolts and the
-single rear mounting bolt, noting their collars. Locate the fuel
-‘sender wiring connector and disconnect it, then lif the tank off the
+4 На моделях 1100 снимите два передних крепежных болта и
+одиночный задний крепежный болт, учитывая их буртики. Найдите топливо
+Разъем проводки датчика и отсоедините его, затем снимите бак с
 
-motorcycle. On California models disconnect
-‘emission control system hose from the tank.
+мотоцикл. На моделях для Калифорнии отключите
+«Шланг системы контроля выбросов из бака.
 
-the
+тот
 
-evaporative
+испарительный
 
-5 Installation is a reverse of the removal procedure. Ensure that all
+5 Установка осуществляется в порядке, обратном процедуре снятия. Убедитесь, что все
 
-mounting rubbers and collars are correctly positioned, and that the
-tank does not trap any cables, wiring or hoses. Check that there
-are no fuel leaks when the fuel valve is turned ON.
+монтажные резинки и манжеты расположены правильно и что
+бак не защемляет кабели, проводку или шланги. Проверьте, что там
+нет ли утечек топлива при открытом топливном кране.
 
-9 Disconnect the support rod hinge at the frame or tank end, and
-lower the tank onto the frame. Remove the throughbol, collar and
-nut at
+9 Отсоедините шарнир опорной тяги со стороны рамы или бака и
+опустите бак на раму. Снимите сквозной болт, воротник и
+орех в
 
-the rear mounting and lif the
+заднее крепление и поднимитеосновной бак от мотоцикла
 
-main tank off the motorcy
+10 Установка осуществляется в порядке, обратном процедуре снятия. Убедитесь, что
+все монтажные резинки и манжеты расположены правильно и что
+в резервуаре не зажаты кабели, проводка или шланги.
 
-10 Installation is a reverse of the removal procedure. Ensure that
-all mounting rubbers and collars are correctly positioned, and that
-the tank does not trap any cables, wiring or hoses.
+Проверьте это
 
-Check that
+при открытом топливном кране утечек топлива нет.
 
-there are no fuel leaks when the fuel valve is turned ON.
-
-1985 through 1988 700/750 Magna models
+Модели 700/750 Magna с 1985 по 1988 год.
 11.
-_Remove
-the seat (see
-Chapter
+_Удалить
+сиденье (см.
+Глава
 6).
-12 Switch the fuel valve to OFF and have a rag handy to catch
-any drops of fuel as the hose is disconnected from i.
-13 On 1985 and 1986 700 models, remove the two mounting bolts
-at the front of the tank and the single bolt at the rear, noting their
-collars.
+12 Переключите топливный клапан в положение ВЫКЛ и подготовьте тряпку, чтобы поймать
+любые капли топлива при отсоединении шланга от i.
+13 На моделях 700 1985 и 1986 годов отверните два болта крепления.
+в передней части бака и одиночный болт сзади, отметив их
+воротники.
 
-Raise the tank sufficiently to disconnect the sender unit
+Поднимите бак настолько, чтобы отсоединить передающий блок.
 
-wiring at the two-pin connector, then lif it off the motorcycle. On
-California models, disconnect the evaporative emission control
+проводку к двухконтактному разъему, затем снимите его с мотоцикла. Вкл.
+Модели для Калифорнии: отключите систему контроля выбросов в результате испарения.
 
-system hose from the tank.
+системный шланг от бака.
 14
 
-On
+Вкл.
 
-1987
+1987 год
 
-and
+и
 
-1988
+1988 год
 
 700/750
 
-models
+модели
 
-remove the
+удалить
 
-single
+одинокий
 
-mounting bolt at the front and rear of the tank, noting their collars.
+болт крепления спереди и сзади бака, отметив их хомуты.
 
-Lif the tank off the motorcycle. On California models, disconnect
-the evaporative emission control system hose from the tank.
+Снимите бак с мотоцикла. На моделях для Калифорнии отключите
+шланг системы контроля выбросов в результате испарения от бака.
 15__
 
-Installation
-is a reverse of the removal procedure. Ensure
+Установка
+это обратная процедура удаления. Обеспечить
 
-that all
+это все
 
-Chapter4 Fuel and exhaust systems
+Глава 4 Топливная и выхлопная системы
 
 45
 
-2.8 Main and auxiliary fuel tanks - 1962 through 1984 700/750 Magnas shown (1100 Magnas sit
+2.8 Основные и вспомогательные топливные баки – 1962–1984 гг. Показаны 700/750 Magnas (1100 Magna сидят
 
-‘mounting rubbers and collars are correctly positioned, and that the
-tank does not trap any cables, wiring or hoses. Check that there are
+«Монтажные резинки и манжеты расположены правильно и что
+бак не защемляет кабели, проводку или шланги. Проверьте наличие
 
-natural gas-type appliance is located, because the pilot ight could
-cause an explosion,
+находится прибор, работающий на природном газе, поскольку пилотная лампа может
+вызвать взрыв,
 
-no fuel leaks when the fuel valve is tumed ON.
+при открытом топливном кране утечек топлива нет.
 
-Auxiliary fuel tank- 1982 through 1984 700/750
-Magna models and all 1100 Magna models
-16 Remove the seat and both side covers (see Chapter 6)
-17_Disconnect
-the battery (negative lead frst) and remove it
+Вспомогательный топливный бак — 1982–1984 гг. 700/750
+Модели Magna и все модели Magna 1100.
+16 Снимите сиденье и обе боковые крышки (см. главу 6).
+17_Отключиться
+аккумулятор (сначала отрицательный провод) и извлеките его.
 
-48 Fully drain the main and auxiliary fuel tanks, then remove the main
-‘uel tank as described above,
+48 Полностью слейте воду из основного и вспомогательного топливных баков, затем снимите основной
+'топливный бак, как описано выше,
 
 4
 
-Fuel valve -removal and installation
+Топливный клапан – снятие и установка
 
-‘Waring: Refer to the precautions given in Section 1 before starting
-work,
+«Внимание: перед началом работы ознакомьтесь с мерами предосторожности, указанными в разделе 1.
+работа,
 
-700/750 Sabre models
+Модели 700/750 Sabre
 
-19 Disconnect the fuel level sender wiring from the sender in the tank
+19 Отсоедините проводку датчика уровня топлива от датчика в баке.
 
-Fuel valve
+Топливный клапан
 
-top surface
+верхняя поверхность
 
-Referto istration 4.10
+См. версию 4.10.
 
-20 Remove the regulatorirectifier unit end its wiring tie from the side of
+20 Снимите проводку блока регулятора-выпрямителя со стороны
 
-the tank
-on 700/750 models (see Chapter 8)
+танк
+на моделях 700/750 (см. главу 8)
 21
-Remove the rear wheel (see Chapter 7)
-22 Remove the rear fender sections.
-23 Have a rag ready to catch any drops of fuel and disconnect the
-‘auxiliary fuel tank hose from the fuel pump
-24 Remove the auxiliary fuel tank mounting bot and withdraw the tank:
-reenwards trom the motoroycle
+Снимите заднее колесо (см. главу 7).
+22 Снимите секции заднего крыла.
+23 Подготовьте тряпку, чтобы собрать капли топлива, и отсоедините
+'дополнительный шланг топливного бака от бензонасоса
+24 Снимите бот крепления дополнительного топливного бака и снимите бак:
+возвращается на мотоцикле
 
-25 The 1100 Magna has a drain bot fitted in the base of the tank
-which provides @ useful means of draining any sludge or dit which has
-settled in the bottom of the tank. Ifit is ever removed, always fit anew
-sealing washer on installation.
-26 Installation is @ reverse of the removal procedure. Ensure that the
-tank mounting bolt rubber grommet and collar are correctly positioned,
+25 Модель 1100 Magna имеет сливной бот, установленный в основании бака.
+который обеспечивает @ полезные средства для слива любого осадка или сточных вод, которые
+поселился на дне бака. Если его когда-либо удалят, всегда устанавливайте заново
+уплотнительная шайба при установке.
+26 Установка производится в порядке, обратном процедуре снятия. Убедитесь, что
+Резиновая втулка и манжета крепежного болта бака расположены правильно,
 
-and that the tank front edge engages the lower rubber mounting
-Check that the tank does not trap any cables, wiring or hoses and that
-there are no fuel leaks when the fuel vaive is tumed ON,
+и чтобы передняя кромка бака зацепилась за нижнюю резиновую опору
+Убедитесь, что в резервуаре не зажаты кабели, проводка или шланги и что
+при включенной подаче топлива нет утечек топлива,
 
-3.
+3.1 Прежде чем снять клапан, необходимо слить все топливо из
+танк.
 
-1 Before the valve can be removed, all fuel must be drained from the
-tank.
+2 Переведите топливный клапан в положение ВЫКЛ. Приготовьте тряпку
+поймать
+пролитое топливо и отсоедините топливный, вентиляционный и вакуумный шланги от
+заглушки мембранных клапанов
+3 Присоедините @ длину шланга подходящего диаметра к патрубку выхода топлива.
 
-2 Switch the fuel valve to the OFF position. Have a rag ready
-to catch
-any spilt fuel and disconnect the fuel, vent and vacuum hoses from the
-diaphragm valve stubs
-3 Attach @ length of hose of the proper diameter to the fuel outlet stub
+(диаметр большего из трех) и поместите другой конец шланга в @
 
-(larger diameter of the three) and place the other end of the hose in @
-
-clean container, such as @ muti-galion gas (petrol) can. Tum the valve
-to the RES position end drain all fuel. Tum the valve OFF when
-draining is complete and disconnect the drain hose.
+чистый контейнер, например, канистра с бензином @ muti-galion. Поверните клапан
+до конца положения RES слейте все топливо. Выключите клапан, когда
+слив завершен, отсоедините сливной шланг.
 4
-Remove the fuel tank (see Section 2)
-5 Unscrew the fuel valve's gland nut and remove the valve and internal
-gauze fiter from the tank Recover the O-ning
+Снимите топливный бак (см. раздел 2).
+5 Отвинтите гайку сальника топливного клапана и снимите клапан и внутреннюю
+марлевый фитер из бака Восстановить уплотнение
 
-6 Taking suitable precautions against fire, rinse the fiter gauze in fresh
-fuel to clean it
+6 Приняв соответствующие меры предосторожности против возгорания, промойте марлю фитера свежей
+топливо для его очистки
 
-7 Installation is @ reverse of the removal procedure, noting that 2 new
-‘O-ring should be Sted at the valve-to-tank joint.
+7 Установка производится в порядке, обратном процедуре снятия, с учетом того, что 2 новых
+«Уплотнительное кольцо должно быть установлено в месте соединения клапана с баком.
 
-Diaphragm unit
+Мембранный блок
 
-Fuel tank - cleaning and repair
+Топливный бак – чистка и ремонт
 
-8 The diaphragm valve housing forms part of the fuel valve body. The
-diaphragm
+8 Корпус мембранного клапана является частью корпуса топливного клапана.
+диафрагма
 
-1 All repairs to the fuel tank should be camed out by a professional
-who has experience in this critical and potentially dangerous work
+1 Любой ремонт топливного бака должен выполняться профессионалом.
+кто имеет опыт выполнения этой ответственной и потенциально опасной работы
 
-can
+может
 
-be
+быть
 
-inspected
+проверено
 
-by removing the
+путем удаления
 
 four screws
 
-end
+конец
 
-withdrawing the cover. if operating correctly i should only ellow fuel to
-flow when the engine is running
+снимая крышку. при правильной работе я должен подавать топливо только до
+расход при работающем двигателе
 
-‘can remain and ignite during repair of the tank.
+«Может остаться и воспламениться во время ремонта танка.
 
-9 To check its operation, disconnect the vacuum hose from the no. 1
-cylinder intake manifold and the fuel outlet pipe (to the carburetors)
-from the lower stub on the valve. Install a substitute length of hose on
-the outlet stub union and place its other end in a jer
+9 Чтобы проверить его работу, отсоедините вакуумный шланг от №1. 1
+впускной коллектор цилиндра и топливоотводящая трубка (к карбюраторам)
+от нижнего патрубка клапана. Установите сменный шланг на
+выходной штуцер и поместите его другой конец в канистру
 
-Coming out of the tank. Be especially careful inside garages where a
+Выходим из танка. Будьте особенно осторожны внутри гаражей, где
 
 10.
 
-Even after cleaning and flushing of the fuel system,
+Даже после чистки и промывки топливной системы,
 
-explosive fumes
+взрывоопасные пары
 
-2 If the fuel tank is removed from the motorcycle, it should not be
-placed in an area where sparks or open flames could ignite the fumes
+2 Если топливный бак снят с мотоцикла, его нельзя
+размещать в месте, где искры или открытое пламя могут воспламенить дым.
 
-With the fuel valve in the ON positon there should be no fuel flow
+При положении топливного крана в положении «ВКЛ» потока топлива быть не должно.
 
 46
 
-Chapter4 Fuel and exhaust systems
+Глава 4 Топливная и выхлопная системы
 
-4:10 Checking the fet valve diaphragm unt on 70780 Sabres
+4:10 Проверка диафрагмы фетового клапана на 70780 Sabre
 
-Fuel valve
+Топливный клапан
 
-hose to simulat
-fuel
+шланг для имитации
+топливо
 
-aive can be removed, al fuel must be drained from the
+aive можно снять, все топливо необходимо слить из
 
 should flow fromt
 
@@ -936,1261 +928,1250 @@ and stop
 
 Sorrectiy
 
-1987
-and
+1987 год
+и
 1988 700/750 Magnas
 
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna 1987 и 1988 годов.
 
-through the
-be
+через
+быть
 
-thumb
+большой палец
 -
 
-4.33 Fuel valve diaphragm unt location on air chamber -
+4.33 Расположение диафрагмы топливного клапана на воздушной камере -
 
-when
+когда
 
-the
+тот
 
-e
+е
 
 1 IF fuel
 
-v:
+в:
 is not flowing from the
 
-sure that
+уверен, что
 
-the vacuum line is not
+вакуумная линия не
 
 meter to
 
-If the
+Если
 
-valve
+клапан
 
-fails to
+не в состоянии
 
-s
+с
 
-to
+чтобы
 
-de
+де
 
-check with your dealer if the diaph
+уточните у своего дилера, есть ли диафрагма
 
-although
+хотя
 
-the valve and
+клапан и
 
-tains
+портит
 
-from the tank and make sure that the
+из бака и убедитесь, что
 
 2
 
-a rag ready to
+тряпка готова
 
-from the valve stub
+из патрубка клапана
 
-asa mult
+как мульт
 
-the RES position and drain
-complete and disconnect
+положение RES и слив
+завершить и отключить
 
-can be purchased separately.
+можно приобрести отдельно.
 
-1982 through 1984 700/750 Magna models
+Модели 700/750 Magna с 1982 по 1984 год.
 can be removed
 
-13 Before the valve
-main and atwdliary
+13 Перед клапаном
+главный и дополнительный
 
-44 Remove
+44 Удалить
 
-position.
+позиция.
 
-| must
-be drained from the
+| должен
+быть истощен из
 
 tart
 
-the right
+право
 
-Have a rag re:
+Возьмите тряпку:
 
-fuel outlet
+выход топлива
 
-hose
+шланг
 
-of
+из
 
-the
+тот
 
-d at the
+д в
 
-ff
+фф
 
-removal
+удаление
 
-ent parts are avai
-must
-be
-replaced
+все детали доступны
+должен
+быть
+заменен
 18
 
-procedk
+процедура
 
 valve-to-tank jot
 
-from the no, 2
-carburetore]
+с нет, 2
+карбюратор]
 
-as
+как
 
-Anirvline fuel fiters fittedt
+Установлены топливные фитинги Anirvline
 
-1985 and 1986700 Magna models
+Модели Magna 1985 и 1986700 годов
 
-10 fuel flow
-er
+10 расход топливаэээ
 
-19 Before the valve can be removed,
+19 Прежде чем снять клапан,
 
-vacuum,
+вакуум,
 
-tank.
+танк.
 
-m the ote stub if the v
+m заглушка, если v
 
-20 Switch the fuel valve to the OFFp
+20 Переведите топливный кран в положение ВЫКЛp.
 
-uum is releasec
+уум это релизc
 
-any spit fuel and dis
+любой плевок топлива и дис
 
-hos
-21 Attach a length of
-place the other end of the
+шлюха
+21 Прикрепите отрезок
+поместите другой конец
 
-end of the
+конец
 
-then quickly cover the end
+затем быстро закройте конец
 
-lve with vacuum applied,
-@is not clogged,
+жить с применением вакуума,
+@не засорен,
 
-hose
+шланг
 
-frst make
+сначала сделать
 
-then remove the fuel valve
+затем снимаем топливный клапан
 
-gallon gas (petr
-uel,
+галлон газа (петр.
+уэль,
 
-Tum the valve
+Поверните клапан
 
-drain hose
+сливной шланг
 
 22
 
-fuel tank (see
-theve
-Rema
+топливный бак (см.
+они
+Рема
 
-23 Unscrew
+23 Отвинтить
 
-at
+в
 
-nineline
+девятистрочный
 
-the fuel
+топливо
 
-from t
-valve
-the
+от т
+клапан
+тот
 
-vaive's
+уклоняться от
 
-the valve-to-tank
+клапан-бак
 
-joint
+совместный
 
-fuel fiter is fited t
+установлен топливный фильтр t
 
-rage
+ярость
 
-Chapter
-4 Fuel and exhaust systems
+Глава
+4 Топливная и выхлопная системы
 
 47
 
-‘equipped with an exhaust gas analyzer. They will be able to property
+«оснащен анализатором выхлопных газов. Они смогут владеть имуществом
 
-adjust the idie fuel/air mixture to achieve a smooth idle and restore low
-speed perfomance
-4 If the motorcycle is operated continuously at high altitudes (above
+отрегулируйте состав топливно-воздушной смеси, чтобы добиться плавного холостого хода и восстановить низкие частоты.
+быстродействие
+4 Если мотоцикл постоянно эксплуатируется на большой высоте (выше
 
-2000 meters, 6,500 feet) alteration of the pilot screw setting will be
-required - refer to @ Honda dealer for details.
+2000 метров, 6500 футов) изменение настройки направляющего винта будет
+требуется — за подробностями обратитесь к дилеру @ Honda.
 
 6
 
-Carburetor
-overhaul
-- general information
+Карбюратор
+капитальный ремонт
+- общая информация
 
-1 Poor engine performance, hesitation, hard starting,
+1 Плохая работа двигателя, неуверенность в работе, трудный запуск,
 
-stalling,
+остановка,
 
-flooding
+наводнение
 
-‘and backfinng are all signs that major carburetor maintenance may be
-required.
+«и задние ребра — все это признаки того, что капитальное обслуживание карбюратора может быть
+требуется.
 
-2 Keep in mind that many so-called carburetor problems are really not
-Carburetor problems at all, but mechanical problems within the engine
-OF ignition system malfunctions.
+2 Имейте в виду, что многие так называемые проблемы с карбюратором на самом деле не являются
+Проблемы с карбюратором вообще, но механические проблемы внутри двигателя
+неисправность системы зажигания.
 
-Try to establish for certain that the
+Попытайтесь достоверно установить, что
 
-carburetors are in need of maintenance before beginning
+карбюраторы нуждаются в техническом обслуживании перед началом работы
 
-a major
+майор
 
-overhaul
+капитальный ремонт
 
-3 Check the fuel filter, the fuel lines,
-5.1 Metal limiter caps (arrow)
+3 Проверьте топливный фильтр, топливопроводы,
+5.1 Металлические ограничительные колпачки (стрелка)
 
-Califomia
+Калифорния
 
-seal the pilot screws in
+зафиксируйте пилотные винты
 
-hoses,
+шланги,
 
-certain markets
+определенные рынки
 
-models),
+модели),
 
-the’ intake
+’ потребление
 
-the air fiter element,
+элемент воздушного фильтра,
 
-the tank cap vent (except
+вентиляционное отверстие крышки бака (кроме
 
-manifold hose
+шланг коллектора
 
-clamps,
+зажимы,
 
-the
+тот
 
-vacuum
+вакуум
 
-the cyinder compression, the spark plugs
+компрессия цилиндров, свечи зажигания
 
-‘and carburetor synchronization before assuming
+'и синхронизацию карбюратора, прежде чем предположить
 
-that
+что
 
-a
+а
 
-carburetor
+карбюратор
 
-overhaul is required,
+требуется капитальный ремонт,
 
-4 Most carburetor problems are caused by ditt particles,
+4 Большинство проблем с карбюратором вызвано частицами
 
-the rear of the tank Recover the valve gasket
+задняя часть бака Восстановите прокладку клапана
 41
 
-Installation
+Установка
 
-is @
+это @
 
-reverse of
+обратная сторона
 
-removal,
+удаление,
 
-noting that a
+отмечая, что
 
-new gasket
+новая прокладка
 
-should be fitted at the valve-to-tank
-joint
+должен быть установлен на соединении клапана с баком.
+совместный
 42.
 
-Animline fuel fiteris ftted to this model (see Chapter 1),
+В данной модели установлен топливный фильтр Animline (см. главу 1),
 
-1100 Magna models
+1100 моделей Магна
 
-vamish and
+Вамиш и
 
-other deposits which build up in and block the fuel and air passages
-Also, in time, gaskets and O-rings shrink or deteriorate and cause fuel
-and air leaks which lead to poor performance
-5 When the carburetor is
+другие отложения, которые накапливаются и блокируют топливные и воздушные каналы.
+Кроме того, со временем прокладки и уплотнительные кольца сжимаются или портятся, вызывая утечку топлива.
+и утечки воздуха, которые приводят к снижению производительности
+5 Когда карбюратор
 
-overhauled,
+капитальный ремонт,
 
-completely and the parts
+полностью и по частям
 
-are cleaned thoroughly with
+тщательно очищаются с помощью
 
-it is generally disassembled
-a carburetor
+он вообще разобран
+карбюратор
 
-43 Before the valve can be removed, all fuel must be drained from the
+43 Прежде чем снять клапан, необходимо слить все топливо из
 
-leaning solvent and dried with fitered, uniubricated compressed air
-The fuel and air passages are also blown through with compressed air
+обедненный растворителем и высушенный очищенным сжатым воздухом без смазки
+Топливные и воздушные каналы также продуваются сжатым воздухом.
 
-tank
+танк
 
-to force out any dit that may have been loosened but not removed by
+чтобы выдавить любые канавки, которые могли быть ослаблены, но не удалены
 
-‘44 Remove the left side cover and switch the fuel valve to the OFF
+'44 Снимите левую боковую крышку и переведите топливный клапан в положение ВЫКЛ.
 
-the solvent.
+растворитель.
 
-position
+позиция
 
-Once the cleaning process is complete,
+После завершения процесса очистки
 
-45 Have a rag ready to catch any spit fuel and disconnect the fuel
+45 Подготовьте тряпку, чтобы собрать выплеснутое топливо и отсоединить топливо.
 
-reassembled using new gaskets and O-rings
-8 Before disassembling the carburetors, make
+собран с использованием новых прокладок и уплотнительных колец.
+8 Прежде чем разбирать карбюраторы, сделайте
 
-outlet hose from its tank
+сливной шланг из бака
 
-carburetor rebuild Kit (which will
+Комплект для ремонта карбюратора (который
 
-stub.
+заглушка.
 
-Altach a length hose of the proper
+Подсоедините длинный шланг подходящей длины.
 
-diameter to the stub and place the other end of the hose in a dean,
+диаметра до патрубка и поместите другой конец шланга в декан,Емкость, например канистра емкостью несколько галлонов (бензина). Поверните клапан в положение
+Положение RES и слив всего во вторник! из вспомогательного бака.
+ВЫКЛ.
 
-Container, such as a mutti-gallon gas (petrol) can, Turn the valve to the
-RES position and drain all tue! rom the auxiliary tank.
-OFF
+и
 
-and
+повторно подключиться
 
-reconnect
+тот
 
-the
+выход
 
-outlet
+шланг
 
-hose
+когда
 
-when
+Поверните клапан
 
-Tum the valve
+дренаж
 
-draining is
+полный
 
-complete
+карбюратор 1с
 
-the carburetor 1s
+конечно
 
-sure
+ты
 
-you
-
-have
+иметь
 
 @
 
-include all necessary O-rings and
+включить все необходимые уплотнительные кольца и
 
-other parts), some carburetor cleaner, a supply
-of rags, some means
-of
+другие детали), немного очистителя карбюратора, запасной
+тряпок, каких-то средств
+из
 
-blowing out the carburetor passages and @ clean place to work It is
-Fecommended that only one carburetor be overhauled at a time to
-‘avoid mixing up parts.
+продувка каналов карбюратора и @ чистое место работы.
+Рекомендуется проводить капитальный ремонт только одного карбюратора за один раз.
+«Избегайте путаницы частей.
 
-Complete draining can be achieved by removing the drain bot from
-the base of the tank
-46 Remove the two screws to free the fusl valve and its gasket from
+Полного слива можно добиться, сняв сливной бот с
+основа танка
+46 Выверните два винта, чтобы освободить клапан фузла и его прокладку от
 
 7
 
-Carburetors
-- removal
-and installation
+Карбюраторы
+- удаление
+и установка
 
-the fuel tank
+топливный бак
 
-47 Installation is a reverse of removal, noting that a new gasket should
-be fitted at the valve-to-tank joint and a new sealing washer fitted to
-the tank drain bolt ifremoved
+47 Установка производится в порядке, обратном снятию, при этом следует учитывать, что новая прокладка должна быть установлена.
+установить на стыке клапана с баком и установить новую уплотнительную шайбу на
+сливной болт бака, если он снят
 43.
 
-Animine fuel fiteris ftted to this model (see Chapter 1),
+В данной модели установлено анимовое топливо (см. главу 1),
 
 5.
 
-Idle fueV/air mixture adjustment - general information
+Регулировка топливно-воздушной смеси холостого хода – общая информация
 
-‘Warning: Refer fo the precautions given in Section 1 before starting
-Work Disconnect the battery negative lead
+«Предупреждение: перед запуском ознакомьтесь с мерами предосторожности, указанными в разделе 1.
+Работа Отсоедините отрицательный провод аккумуляторной батареи.
 
-Removal
-‘Sabre models
+Удаление
+«Модели сабель»
 
-1 Due to the increased emphasis on controlling motorcycle exhaust
-certain
+1 В связи с повышенным вниманием к контролю выхлопных газов мотоциклов.
+уверенный
 
-governmental regulations have
+правительственные постановления имеют
 
-been formulated
+был сформулирован
 
-which directly affect the carburetion of this machine.
+которые напрямую влияют на карбюрацию этой машины.
 
-In order to comply
+Чтобы соблюсти
 
-with the regulations,
+с правилами,
 
-the carburetors on many models have @ metal
+карбюраторы на многих моделях имеют @металлический
 
-limiter cap stuck onto the end of the pilot screw (which controls the idle
-fueVair mixture) on each carburetor.
+колпачок ограничителя приклеен к концу направляющего винта (который контролирует холостой ход).
+смесь fueVair) на каждом карбюраторе.
 
-so they cant be tampered with
+поэтому их нельзя подделать
 
-{see illustration). These should only be removed in the event of a
-‘complete carburetor ovethaul,
+(см. иллюстрацию). Их следует удалять только в случае
+«полный ремонт карбюратора,
 
-and even then the screws should be
+и даже тогда винты должны быть
 
-returned to their original settings.
+вернулись к исходным настройкам.
 
-If
+Если
 
-a new pilot screw is fitted,
+установлен новый направляющий винт,
 
-set it to
+установите его на
 
-the basic setting given in the Specifications section ofthis chapter and
+базовые настройки, указанные в разделе «Технические характеристики» данной главы, и
 
-have its setting checked with the use of an exhaust gas analyzer; this,
-Is the only accurate way to adjust the idle fuel/air mixture and be sure
-the machine doesn't exceed the emissions regulations
+проверить его настройку с помощью анализатора выхлопных газов; это,
+Это единственный точный способ отрегулировать топливно-воздушную смесь на холостом ходу и убедиться в этом.
+машина не превышает нормы выбросов
 
 2.
 
-Remove the fuel tank (see Section 2)
+Снимите топливный бак (см. раздел 2).
 
-Remove the air fter housing (see Section 14),
+Снимите корпус воздушного фильтра (см. раздел 14),
 
-3 Disconnect the crankcase breather hose from its stub on the air
+3 Отсоедините шланг вентиляции картера от патрубка на воздушной
 
-Reterto dlustraton 5 1
+Ретерто Длустратон 5 1
 
-‘emissions,
+'Выбросы,
 
 1
 
 2
 
-Reterto Sections 8 and 3 for pilot screw removal and installation.
+См. разделы 8 и 3 по снятию и установке направляющего винта.
 
-3 Ifthe engine runs extremely rough at idle or continually stalls, and if
-acarburetor overhaul does nat cure the problem, take the motorcycle
-toa Honda dealer service department or otherrepair
-shop
+3 Если двигатель работает очень неровно на холостом ходу или постоянно глохнет, а также если
+Капитальный ремонт карбюратора не решает проблему, возьмите мотоцикл
+в сервисный центр дилера Honda или в другой ремонт.
+магазин
 
-chamber
+палата
 
-4 On the 1982 750 model, remove the right ignition coil mounting bolts
-50 that the coll can be maneuvered to one side for access to the air
-chamber screws. Also remove the bolt which attaches the water pipe to
-the air chamber.
-5 On
+4 На модели 750 1982 года отверните правые болты крепления катушки зажигания.
+50, что стойку можно отвести в сторону для доступа воздуха.
+камерные винты. Также открутите болт, крепящий водопроводную трубу к
+воздушная камера.
+5 Вкл.
 
-1983 through 1985
+1983–1985 гг.
 
-700/750 models,
+модели 700/750,
 
-covers and remove the ignition coil
+крышки и снимите катушку зажигания
 
-remove both
+удалить оба
 
-front side
+передняя сторона
 
-mounting bracket, complete with
+монтажный кронштейн в комплекте
 
-coils from the left side (right side on California models)
-6 Remove the bolt that attaches the thermostat to the air chamber (it
+катушки с левой стороны (справа на моделях для Калифорнии)
+6 Выверните болт, крепящий термостат к воздушной камере (он
 
-also secures the ground/earth cable)
-7 Remove the air chamber cover screws and slide the chamber out of
+также фиксирует кабель заземления)
+7 Выверните винты крышки воздушной камеры и выдвиньте камеру из
 
-Position.
-
-8 On 1982 750 Sabre models remove the radiator side mounting bots.
-9 Disengage the choke cable outer from its retainer clamp and then
-disengage the end of the cable from the lever.
+Позиция.8 На моделях 750 Sabre 1982 года снимите боты крепления сбоку радиатора.
+9 Освободите трос воздушной заслонки снаружи из фиксатора, а затем
+отсоедините конец троса от рычага.
 10
 
-Loosen the throttle cable locknuts then free each outer cable from
+Ослабьте контргайки троса дроссельной заслонки, затем освободите каждый внешний трос от
 
 48
 
-Chapter 4 Fuel and exhaust systems
+Глава 4 Топливная и выхлопная системы
 
-its mounting bracket. Detach the inner cables from the throttle pulley.
-‘f Unbend the retainers that secure the front two spark plug wires and
+его монтажный кронштейн. Отсоедините внутренние тросы от шкива дроссельной заслонки.
+‘f Отогните фиксаторы, которые крепят два передних провода свечей зажигания и
 
-33 Remove the air chamber side covers from both sides of the
+33 Снимите боковые крышки воздушной камеры с обеих сторон
 
-any wiring tothe air chamber heat shield,
+любая проводка к тепловому экрану воздушной камеры,
 
-thermostat housing to the
+корпус термостата к
 
-12 Label and then disconnect the fuel and emission hoses from the
+12 Пометьте, а затем отсоедините топливный и выпускной шланги от
 
-On
+Вкл.
 
-‘carburetors. On 1984-on California models,
-it may be necessary to
-disconnect the purge control valve from the frame to permit carburetor
-‘emoval. On 1100 models, disconnect the air vent control valve hoses
-from the valve. If the valve hoses are disconnected, label them
+«карбюраторы». На моделях Калифорния 1984 года выпуска,
+может быть необходимо
+отсоедините клапан управления продувкой от рамы, чтобы позволить карбюратору
+'удаление. На моделях 1100 отсоедините шланги клапана управления воздухоотводчиком.
+из клапана. Если шланги клапана отсоединены, промаркируйте их.
 
-connectors and disconnect them,
+разъемы и отсоедините их,
 
-motorcycle.
+мотоцикл.
 
-On the right side remove the bolt which retains the
+С правой стороны открутите болт, удерживающий
 
-the left
+левый
 
-side,
+сторона,
 
-air chamber, noting the ground (earth) wire
+воздушная камера, обращая внимание на провод заземления
 
-remove the cover over the electrical multipin
+снимите крышку над электрическим многоконтактным разъемом
 
-34 _ Remove the radiator (see Chapter 3).
+34 _ Снимите радиатор (см. главу 3).
 
-35 Disconnect the crankcase breather hose from the rear of the air
+35 Отсоедините шланг вентиляции картера от задней части воздушного
 
-‘chamber.
+‘камера.
 
-carefully as a guide to reinstallation
+внимательно в качестве руководства по переустановке
 
-36 Remove its retaining screws and withdraw the air chamber top
+36 Выверните крепежные винты и снимите верхнюю часть воздушной камеры.
 
-413 Loosen all hose clamps that secure the carburetor-to-cyinder head
+413 Ослабьте все хомуты, крепящие карбюратор к головке блока цилиндров.
 
-cover.
+крышка.
 
-boots.
+ботинки.
 
-14 Using
-a long
+14 Использование
+длинный
 
-carefully pry the
+осторожно подденьте
 
-out
-of
-their
+из
+из
+их
 
-37 Disengage the choke cable outer from its retainer clamp and then
-the end of the cable from the lever.
+37 Освободите трос воздушной заслонки снаружи из фиксатора, а затем
+конец троса от рычага.
 
-connecting boots, then carefully remove the carburetor and air
-chamber assembly through the left side of the motorcycle. Note:
+соединительные пыльники, затем осторожно снимите карбюратор и проветрите
+Камера в сборе через левую сторону мотоцикла. Примечание:
 
-‘boots from
+'сапоги из
 
-'38 Loosen the throttle cable locknuts then free each outer cable from
-its mounting bracket. Detach the inner cables trom the thrattle pulley
-39 On all Califomia models, label and disconnect the purge control
+'38 Ослабьте контргайки троса дроссельной заслонки, затем освободите каждый внешний трос от
+его монтажный кронштейн. Отсоедините внутренние тросы от шкива дроссельной заслонки.
+39 На всех моделях Califomia промаркируйте и отсоедините регулятор продувки.
 
-the cylinder
+цилиндр
 
-15 With the carburetors removed, place a suitable container below the
+15 Сняв карбюраторы, поместите подходящую емкость под
 
-<sconnect the ar injection control valve and airvent contro valve, On
+<подсоедините клапан управления впрыском AR и клапан управления воздушным клапаном, Вкл.
 
-carburetor float chambers then loosen the drain screws and drain all
+поплавковые камеры карбюратора, затем ослабьте сливные винты и слейте все
 
-valve from the let side of the motorcycle,
-all models,
+клапан с левой стороны мотоцикла,
+все модели,
 
-the fuel from the carburetors.
+топливо из карбюраторов.
 
-from the carburetors.
+от карбюраторов.
 
-is gained
+приобретается
 
-Once all the fuel has been drained,
+После того, как все топливо будет слито,
 
-then on
+затем дальше
 
-disconnect the fuel supply hose end all
+отсоединяем шланг подачи топлива и все
 
-1986 models
+модели 1986 года
 
-emission hoses
+шланги для выбросов
 
-tighten all the drain screws securely.
+Надежно затяните все сливные винты.
 
-40 Loosen all hose clamps that secure the carburetor-to-cylinder head
+40 Ослабьте все хомуты, крепящие карбюратор к головке блока цилиндров.
 
-1982 through 1984 700/750 Magna models
+Модели 700/750 Magna с 1982 по 1984 год.
 
-441 Using a long screwdriver, carefully pry the carburetors out of their
+441 Длинной отверткой осторожно вытащите карбюраторы из
 
-16 Remove the main
+16 Снимите главный
 
-connecting
+подключение
 
-fuel tank (see Section 2). Note: if the tank is only
+топливный бак (см. раздел 2). Примечание: если бак только
 
-half full it can be trigged up on its support rod after the tank front
+наполовину полный, его можно активировать на опорной штанге за передней частью бака.
 
-boots,
+ботинки,
 
-chamber
+палата
 
-boots, then
+ботинки, затем
 
-assembly from
+сборка из
 
-carefully
-the
+тщательно
+тот
 
-let
+пусть
 
-remove
+удалить
 
-the
+тот
 
-side
+сторона
 
-the motorcycle.
+мотоцикл.
 
-of
+из
 
-carburetor
+карбюратор
 
-and
+и
 
-air
+воздух
 
-Note:
+Примечание:
 
-‘mounting bots have been removed - this will save having to drain the
-tank of fel
-17 _ Remove bath the right and left side air chamber covers,
-18 Disconnect the crankcase breather hose from its stub on the air
+'монтажные боты удалены - это избавит от необходимости сливать
+резервуар Скверны
+17 _ Снимите крышки правой и левой боковых воздушных камер ванны,
+18 Отсоедините шланг вентиляции картера от его патрубка на воздушном
 
-the cylinder ports.
-42 With the carburetors removed, place @ suitable container below the
-carburetor float chambers then loosen the drain screws and drain all
+отверстия цилиндра.42 Снимите карбюраторы и поместите @ подходящий контейнер под
+поплавковые камеры карбюратора, затем ослабьте сливные винты и слейте все
 
-chamber.
+палата.
 
-the fuel from the carburetors.
+топливо из карбюраторов.
 
 19
 
-tighten all the drain screws securely
+надежно затяните все сливные винты
 
-Remove the air fiter housing (see Section 14)
+Снимите корпус воздушного фильтра (см. раздел 14).
 
-20 Remove its retaining screws and withdraw the air chamber top
-cover,
+20 Выверните крепежные винты и снимите верхнюю часть воздушной камеры.
+обложка,
 
 21
-Remove the radiator
-(see Chapter
+Снимите радиатор
+(см. главу
 3),
-22 Remove the bolt that attaches the thermostat housing to the air
-‘chamber; this bott also secures
-the ground (earth) wire. Disconnect the
-‘coolant temperature sender unt wire. Remove the thermostat housing
+22 Выверните болт, крепящий корпус термостата к воздушному
+‘камера; этот бот также защищает
+провод заземления (земли). Отсоедините
+‘датчик температуры охлаждающей жидкости и провод. Снимаем корпус термостата
 
-‘and detach its hose from the crossover pipes.
+— И отсоедините шланг от перепускных труб.
 
-23 Disengage the choke cable outer from its retainer clamp and then
-disengage the end of the cable
-from the lever
-24 Loosen the throttle cable locknuts then free each outer cable trom
-its mounting bracket. Detach the inner cables from the throttle pulley.
-25 Unbend the retainers that secure the front two spark plug wires to
-the oir chamber heat shield
+23 Освободите трос воздушной заслонки снаружи из фиксатора, а затем
+отсоединить конец кабеля
+от рычага
+24 Ослабьте контргайки троса дроссельной заслонки, затем освободите каждый внешний тросик.
+его монтажный кронштейн. Отсоедините внутренние тросы от шкива дроссельной заслонки.
+25 Отогните фиксаторы, которыми крепятся два передних провода свечей зажигания к
+теплозащитный экран масляной камеры
 
-26 On eerly 1982 models, prior to serial number CM015298 (identified
-by all-metal air chamber covers), the carburetor assembly is removed
+26 На моделях раннего 1982 года, до серийного номера CM015298 (идентифицировано
+цельнометаллическими крышками воздушной камеры) снимается карбюраторный узел
 
-‘rom the right side. On models later than this serial number (identified
-by partly rubber air chamber covers) the carburetors are removed from
-the left side. On the earlier models, remove the coolant crossover
+'с правой стороны. На моделях после этого серийного номера (идентифицированного
+частично резиновыми крышками воздушной камеры) карбюраторы снимаются с
+левая сторона. На более ранних моделях снимите перепускной клапан охлаждающей жидкости.
 
-‘is gained by
+'достигается
 
-9 the
+9
 
-boots trom
+сапоги тром
 
-Once all the fuel has been drained,
+После того, как все топливо будет слито,
 
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna 1987 и 1988 годов.
 43 _
-Remove
-the
-fuel tank (see Section
+Удалить
+тот
+топливный бак (см. раздел
 2)
-‘44 Remove the air fiter housing (see Section 14). On the right side,
-remove the bolt which retains the thermostat
+‘44 Снимите корпус воздушного фильтра (см. раздел 14). С правой стороны,
+откручиваем болт, который держит термостат
 
-housing to the air
+жилье в воздух
 
-chamber, noting the ground (earth) wire and remove the screws which
-‘secure the side air chamber to the main chamber. On the left side
-label and disconnect the hoses from the air injection control valve,
-then remove the valve and its air chamber and detach the side air
+камере, обратите внимание на провод заземления и выкрутите винты, которые
+«Прикрепите боковую воздушную камеру к основной камере. С левой стороны
+промаркировать и отсоединить шланги от клапана управления впрыском воздуха,
+затем снимите клапан и его воздушную камеру и отсоедините боковую воздушную
 
-chamber from the main chamber.
+камера из основной камеры.
 45
-Remove
-the
-air chamber top cover screws and withdraw the cover
-46 Disengage the choke cable outer trom its retainer clamp end then
-disengage the end ofthe cable from the lever.
+Удалить
+тот
+винты верхней крышки воздушной камеры и снимите крышку
+46 Отсоедините внешний конец троса дроссельной заслонки от конца фиксатора, затем
+отсоедините конец троса от рычага.
 
-47 Loosen the throttle cable locknuts then free each outer cable from
-Its mounting bracket. Detach the inner cables from the throttle pulley.
-48 Disconnect the vacuum hose and fuel tank hose from the
-‘automatic fuel vaive on the lett side of the air chamber. Label and
+47 Ослабьте контргайки троса дроссельной заслонки, затем освободите каждый внешний трос от
+Его кронштейн крепления. Отсоедините внутренние тросы от шкива дроссельной заслонки.
+48 Отсоедините вакуумный шланг и шланг топливного бака от
+«автоматическая подача топлива на левой стороне воздушной камеры». Этикетка и
 
-blpes (see Charter 3)
+blpes (см. Устав 3)
 
-disconnect all emission system hoses from the carburetors. Label ts
+отсоедините все шланги системы выброса от карбюраторов. Этикетка ц
 
-carturcers. On 1b8t-en Caen model,
-may be necessary to
-disconnect the purge contrat valve from the frame to permit carburetor
-removal from the left side of the motorcycle. If the valve hoses are
+картуржеры. На модели 1b8t-en Caen:
+может быть необходимо
+отсоедините клапан продувки от рамы, чтобы позволить карбюратору
+снятие с левой стороны мотоцикла. Если шланги клапана
 
-boots.
-50 Using a long screwdriver, carefully pry the carburetors out of their
+ботинки.
+50 С помощью длинной отвертки осторожно вытащите карбюраторы из
 
-Label
+Этикетка
 
-and then disconnect the fuel and emission hoses from the
+а затем отсоедините топливный и выпускной шланги от
 
-disconnected, label them carefully as a guide to reinstallation
-28 Loosen
+отключены, тщательно промаркируйте их как руководство по переустановке.
+28 Ослабить
 
-the carburetor boot clamps and withdraw the carburetors
+зажимы чехла карбюратора и вытащите карбюраторы
 
-from
-the
-boots.
+из
+тот
+ботинки.
 
-A long screwdriver
-can be used to pry them out.
+Длинная отвертка
+можно использовать, чтобы их вытащить.
 
-Remove the boots from the cylinder ports.
+Снимите чехлы с портов цилиндра.
 
-This is made easier by
+Это упрощается благодаря
 
-removing
-the clamps from the boots first.
-29 Lift out the
-necessary,
+удаление
+сначала зажимы от ботинок.
+29 Поднимите
+необходимо,
 
-Note: if
+Примечание: еслиотправьте ботам опоры двигателя и переместите двигатель на рупий
 
-sen te engine mount bots and move the engine On Rs
+'монтирует.
 
-‘mounts.
+30 Сняв карбюраторы, поместите подходящую емкость под
+Поплавковые камеры карбюратора, затем ослабьте сливные винты и слейте все
+топливо из карбюраторов. Как только все топливо будет слито,
+Надежно затяните все сливные винты.
 
-30 With the carburetors removed, place a suitable container below the
-Carburetor float chambers then loosen the drain screws and drain all
-the fuel from the carburetors, Once all the fuel has been drained,
-tighten all the drain screws securely.
-
-1985 and 1986 700 Magna models
+Модели 700 Magna 1985 и 1986 годов
 31
 
-Remove the fuel tank (see Section 2),
+Снимите топливный бак (см. раздел 2),
 
 32.
 
-Remove the air fier housing (see Section 14).
+Снимите корпус воздушного фильтра (см. Раздел 14).
 
-hoses, then disconnect and remove the air vent contral valve.
-49 Loosen all hose clamps that secure the carburetor-to-cylinder head
+шланги, затем отсоедините и снимите обратный клапан воздухоотводчика.
+49 Ослабьте все хомуты, крепящие карбюратор к головке блока цилиндров.
 
-connecting boots, then
-chamber
+соединяем ботинки, затем
+палата
 
-carefully
+тщательно
 
-assembly ffom the lef
+сборка слева
 
-remove the
+удалить
 
-carburetor and
+карбюратор и
 
-side
+сторона
 
-motorcycle.
+мотоцикл.
 
-of
+из
 
-the
+тот
 
-air
+воздух
 
-Note:
+Примечание:
 
-‘Additional clearance is
-gained
-by
-removing the carburetor
-boots fom
-the cylinder ports.
-51 With the carburetors removed, place a suitable container below the
+«Дополнительное разрешение
+получил
+по
+снятие карбюратора
+ботинки ФОМ
+отверстия цилиндра.
+51 Сняв карбюраторы, поместите подходящую емкость под
 
-float
+плавать
 
-then loosen the drain screws and drain all
+затем ослабьте сливные винты и слейте все
 
-the fuel from the carburetors.
+топливо из карбюраторов.
 
-Once all the fuel has been drained,
+После того, как все топливо будет слито,
 
-tighten all the drain screws securely.
+Надежно затяните все сливные винты.
 
-4100 Magna model
-52 Remove the main fuel tank (see Section 2). Note: Ifthe tank is
-only half full it can be trigged up on its support rod after the tank front
-‘mounting bots have been removed - this wil save having to drain the
-tank
-of rel
+Модель 4100 Магна
+52 Снимите основной топливный бак (см. раздел 2). Примечание. Если бак
+только наполовину заполненный, его можно спустить на опорную штангу за передней частью бака
+'монтажные боты были удалены - это избавит от необходимости сливать
+танк
+отн.
 53
 
-Remove the air filter (see Chapter 1).
+Снимите воздушный фильтр (см. главу 1).
 
-Chapter4
+Глава 4
 
-Fuel and exhaust systems
+Топливная и выхлопная системы
 
 4-9
 
-8.2b Remove
-the chokelthro
-cable bracketttie
-(arrow)
-first
-on no.1 carburetor
+8.2b Удалить
+чокелтро
+кабельный кронштейн
+(стрелка)
+первый
+на карбюраторе №1
 
-8.2a The vacuum chamber cover is under light pressure
-fromthe spring
+8.2a Крышка вакуумной камеры находится под небольшим давлением.
+из весны
 
-54 Disconnect the crankcase breather hose from its stub on the
-air chamber.
+54 Отсоедините шланг вентиляции картера от патрубка на
+воздушная камера.
 
 8
 
-Carburetors
-disassembly, cleaning and inspection
+Карбюраторы
+разборка, чистка и осмотр
 
-‘55 Remove the screws retaining the air chamber side covers,
-followed by those retaining the ar chamber top cover. Withdraw
-the covers from the motorcycle.
-noting the ground (earth) wire.
-57 Label and disconnect the emission system hoses from the
-carburetors and on 1986 models disconnect the hoses from the air
+‘55 Снимите винты, удерживающие боковые крышки воздушной камеры,
+за ними следуют те, которые удерживают верхнюю крышку армокамеры. Вывести
+чехлы от мотоцикла.
+обратите внимание на провод заземления.
+57 Пометьте и отсоедините шланги системы выброса от
+карбюраторы и на моделях 1986 года отсоединяют воздушные шланги
 
-vent control valve on the left side; detach the valve from its
-mounting
-58 Dis
-the choke cable outer from Its retainer clamp and
-then disengage the end of the cable from the lever.
-59 Loosen the throttle cable locknuts then free each outer cable
-from its mounting bracket. Detach the inner cables from the
-throttle pulley.
-60 Loosen all hose clamps that secure the carburetor-to-cylinder
-head boots.
-61 Using a long screwdriver, carefully pry the carburetors out of
-their connecting boots, then carefully remove the carburetor and
-air chamber assembly from the left side of the motorcycle. Note:
+вентиляционный регулирующий клапан с левой стороны; отсоедините клапан от его
+монтаж
+58 Дис
+трос дроссельной заслонки снаружи от его фиксатора и
+затем отсоедините конец троса от рычага.
+59 Ослабьте контргайки троса дроссельной заслонки, затем освободите каждый внешний трос.
+из его монтажного кронштейна. Отсоедините внутренние кабели от
+шкив дроссельной заслонки.
+60 Ослабьте все хомуты, крепящие карбюратор к цилиндру.
+головные сапоги.
+61 Длинной отверткой осторожно вытащите карбюраторы из
+их соединительные пыльники, затем осторожно снимите карбюратор и
+Воздушная камера в сборе с левой стороны мотоцикла. Примечание:
 
-‘Adkitional clearance Is gained by removing
-the carburetor boots from
+«Дополнительное разрешение можно получить, удалив
+карбюратор загружается из
 
-the cylinder ports and also by lbasening the engine mount bors and
-‘mowing
-the
-engine on ts mounts.
-62 With the carburetors removed, place a sutable container below
+порты цилиндров, а также за счет укрепления отверстий крепления двигателя и
+'косить
+тот
+двигатель на опорах ts.
+62 Снимите карбюраторы и поместите под них подходящий контейнер.
 
-the carburetor float chambers then loosen the drain screws and
+поплавковые камеры карбюратора, затем ослабьте сливные винты и
 
-Refer
+Обратитесь
 
-Waming:
+Ваминг:
 
-to
+чтобы
 
-the
+тот
 
-precautons gwen
+меры предосторожности, Гвен
 
-Section
+Раздел
 
-in
+в
 
 1
 
-before
+раньше
 
-proceeding,
+разбирательство,
 
-Disassembly
-jons
-8 28, 8.2b, 8.38, 8 3b, 853, 8b, 868, 86, 87, 88,
+Разборка
+Джонс
+8 28, 8.2б, 8.38, 8 3б, 853, 8б, 868, 86, 87, 88,
 1
 
-Remove the
+Удалите
 
-previous
+предыдущий
 
-Sec
+сек.
 
-carburetors
+карбюраторы
 1.
 
-ftom
+Фтом
 
-the machine
+машина
 
-Remove the heat
+Убрать тепло
 
-of the carburetor assembly, Note:
+узла карбюратора, Примечание:
 
-@s
+@с
 
-described
+описал
 
-(where fitted)
+(где установлен)
 
-shield
+щит
 
-There
+Там
 
-trom the
+тронуть
 
-carburetors
+карбюраторы
 
-from each other or tromthe
+друг от друга или Тромтенеобходимо,
 
-necessary,
+каждый карбюратор можно разобрать, достаточно для всех
 
-each carburetor can be dismantled suftcienty for all
+уборка
 
-cleaning
+Демонтаж
 
-Dismantle
+и корректировки, которые вносятся
 
-and adjustments whi in
+карбюраторы отдельно
 
-the carburetors separately to
+в
+или
 
-in the
-or
+нет необходимости 10 отдельных
 
-no need 10 separate
+воздушная камера, если только
 
-air chamber unless
+место на
 
-place on the
+нормальный
 
-normal
+кронштейн крепления!
 
-mounting bracke!
+избегайте замены деталей. Примечание
 
-avou interchanging parts. Note
+что это необходимо
+разобрать карбюраторы, чтобы снять их
 
-that it is necessary
-to separate the carburetors to remove th
+задушить
 
-choke
+клапаны
 
-valves
+2 Удалите четыре винта, удерживающие крышку вакуумной камеры.
+'и поднимите его (см. рисунок). Если работаете по нет. 1 карбюратор,
+Прежде чем снимать дроссельную заслонку, снимите кронштейн дроссельной заслонки и дроссельной заслонки.
+крышка вакуумной камеры (см. рисунок).
+3 Снимите пружину и снимите мембрану поршня дроссельной заслонки.
+'сборка (см. рисунок). Обратите внимание, что нет. 1 и 3 карбюраторы
+(задние цилиндры) используют более короткие пружины и более тонкие жиклеры, чем
 
-2 Remove the four screws that retain the vacuum chamber cover
-‘and lift t off (see illustration). If working on the no. 1 carburetor,
-remove the choke and throttle cable bracket prior to removing the
-vacuum chamber cover (see illustration).
-3 Withdraw the spring and lift out the throttle pistorvdiaphragm
-‘assembly (see illustration). Note that the no. 1 and 3 carburetors
-(rear cylinders) use shorter springs and thinner jet needies than
+все топливо из
+карбюраторы. Как только все топливо будет
+вытащен, надежно затяните все сливные винты.
 
-all the fuel from the
-carburetors. Once all the fuel has been
-drehed, tighten all the drain screws securely.
-
-Installation - all models
-63 Installation Is basically the reverse of the removal procedure,
-with the following note:
+Установка - все модели
+63 Установка По сути, это процедура, обратная процедуре снятия.
+со следующим примечанием:
 @)
 
-Clearance is tght when instaling
+Зазор соблюдается при установке
 
-the carburetors,
+карбюраторы,
 
-so
+так
 
-it may
+это может
 
-be
+быть
 
-ease 10 install the boots on the cylinder ports with the clamps
-removed.
+Легкость 10. Установите чехлы на отверстия цилиндра с помощью зажимов.
+удален.
 
-The clamps can then be sipped over
+Затем зажимы можно потягивать.
 
-connecting the carburetors to them
-tightened securely to prevent
+подключение к ним карбюраторов
+надежно затянуты, чтобы предотвратить
 
-the boots prior to
+ботинки перед
 
-Be sure the clamps are
+Убедитесь, что зажимы
 
-possible ar leaks
+возможные утечки
 
-) On Calfornia mode's, ensure that the purge contro! valve, air
-injection contro! valve and ar vent control valve hoses are af instalied
+) В режиме Calfornia убедитесь, что контроль продувки включен! клапан, воздух
+контроль впрыска! Шланги клапана и клапана управления вентиляцией установлены.
 
-on their onginal unions
-- refer to the hose routing label
+об их первых союзах
+- см. этикетку прокладки шланга.
 
-under ether
+под эфиром
 
-‘se cover
-or on the rear fender for information. c) Don't
+это обложка
+или на заднем крыле для информации. в) Не надо
 
-omrt
-fo
-ret the
+омрт
+фо
+вернуть
 
-ground (earth) wire when reconnecting the thermostat fo the ar
+провод заземления при повторном подключении термостата к АР
 
-chamber
-@) Reconnect the battery, negatve kad frst
+палата
+@) Подключите аккумулятор, сначала отрицательный кад.
 @)
 
-Following instalation, adjust the choke cable treep
-throttle treeplay, wle Speed and carburetor synchron
+После установки отрегулируйте резьбу троса дроссельной заслонки.
+Древовидный ход дроссельной заслонки, синхронизация скорости и карбюратора
 
-ry (Section 12),
+ры (раздел 12),
 
-ton (Chapter
+тонна (глава
 
-the
+тот
 
-absolute
+абсолютный
 
-‘3a Lifting the throttle piston/diaphragm
-out of the carburetor
-the no. 2
+‘3a Подъем поршня/диафрагмы дроссельной заслонки
+из карбюратора
+нет. 2
 
-Chapter4 Fuel and exhaust systems
+Глава 4 Топливная и выхлопная системы
 
 410
 
-8.3b The front cylinder carburetors have longer springs
+8.3b Карбюраторы передних цилиндров имеют более длинные пружины.
 
-8.82 Pull the fuel hoses
+8.82 Протяните топливные шланги
 
-than the rear
-and 4 carburetors (tront cylinders) (see ilustration).
+чем сзади
+и 4 карбюратора (цилиндры Тронт) (см. иллюстрацию).
 4
 
-Insert an
-8 mm socket,
-attached
-to
-a ratchet wrench, into the
+Вставьте
+гнездо 8 мм,
+прилагается
+чтобы
+ключ с трещоткой, в
 
-throttle piston, depress
+поршень дроссельной заслонки, нажать
 
-the needle
-holder and tum it 60° to release it
+игла
+держатель и поверните его на 60°, чтобы освободить
 
-off their unions on the bi
+от своих профсоюзов на би
 
-of the carburetors
-‘The needle holder. spring end jet needie can now be removed from the
+карбюраторов
+«Иглодержатель. Теперь пружинный жиклер можно снять с
 
-valve
+клапан
 
-throttle
+дроссель
 
-5 Tum the
-the float
-body
+5 Поверните
+поплавок
+тело
 
-carburetor over and remove first the fuel hoses and then
-chamber (see
+карбюратор и снимите сначала топливные шланги, а затем
+камера (см.
 
-wth four
+с четырьмя
 
-illustrations). It is attachedto the carburetor
+иллюстрации). Он прикреплен к карбюратору.
 
-screws
+винты
 
-at pin, then lift out the
+на штифте, затем поднимите
 
-e @ neede-nose pliers to withdraw the
-float and foat valve
-(see illustrations).
+e @ плоскогубцы, чтобы вытащить
+поплавковый и масляный клапан
+(см. иллюстрации).
 
-7 Unscrew the starter jet (press fit on later models), main jet, needle jet
-Aor and pilot jot
+7 Отвинтите пусковой жиклер (на более поздних моделях запрессуйте), главный жиклер, игольчатый жиклер.
+Аор и пилот Джот
 (See
 
-illustration).
+иллюстрация).
 
-8 Remove the float valve seat and washer (see illustration). Certain
-models also
-have
-a
-gauze fiter attached
-few
+8 Снимите седло поплавкового клапана и шайбу (см. рисунок). Определенный
+модели также
+иметь
+а
+марлевый фитер прилагается
+несколько
 
-to the valve seat
+к седлу клапана
 
-removal is required the metal limiter caps must be
+необходимо снять металлические ограничительные колпачки.
 17 5).
 
-Center-punch the pilot screw cap to provide.
+Для этого проколите крышку пилотного винта.
 
-a starting point for the drill bit. Next,
+отправная точка для сверла. Далее,
 
-use a 4 mm drill it to drill through
+используйте сверло диаметром 4 мм, чтобы просверлить его насквозь.
 
-the pilot screw plug (see illustrations). Note:
-Be very carefu! not fo
-a seltapping screw into the
-Gail nto the pilot screw undemeath. Force
-dailed plug a
+заглушку пилотного винта (см. рисунки). Примечание:Будьте очень осторожны! не для
+саморез в
+Гейл подберитесь к пилотному винту под землей. Сила
+ежедневно подключил а
 
-a screwdriver to turn it until the
+отвертку, чтобы повернуть ее до тех пор, пока
 
-with the screw.
+с винтом.
 
-Grasp the head of the
+Возьмитесь за голову
 
-cap begins rotating
+крышка начинает вращаться
 
-screw with pliers and pull it out
+закручиваем плоскогубцами и вытаскиваем
 
-10 Screw the pilot screw in until it seats lightly, counting the number of
-tums necessary to achieve this,
+10 Вверните направляющий винт до легкой посадки, считая количество
+что необходимо для достижения этого,
 
-spring, flat washer and O-ring.
-way, all
+пружина, плоская шайба и уплотнительное кольцо.
+кстати, все
 11
 
-the
+тот
 
-pilot
+пилот
 
-then remove the screw
+затем выкрути винт
 
-screws must be replaced
-as
-a
-set
+винты необходимо заменить
+как
+а
+набор
 
-If the carburetors have been
+Если карбюраторы были
 
-removed
+удалено
 
-fom
+из
 
-groove in the
+паз в
 
-along with its
+вместе с его
 
-It the screw is bent or damaged in any
+Если винт погнут или поврежден в каком-либо
 
-the
+тот
 
-valve
+клапан
 
-bodies.
-end.
+тела.
+конец.
 
-separated,
+разделены,
 
-Disconnect
-unscrew
+Отключить
+отвинтить
 
-the
+тот
 
-the choke valves can be
+дроссельные заслонки могут быть
 
-the
+тот
 
-valve
+клапан
 
-linkage
+связь
 
-nut
+орех
 
-and
+и
 
-hook
+крючок
 
-8.6a Use needle-nose pliers to extract the float pin
+8.6a Для извлечения поплавкового штифта используйте плоскогубцы.
 
-86b
+86б
 
-trom
+Тром
 
-ramove the
+таранить
 
-valve and spring from the carburetor(see illustration).
+клапан и пружина карбюратора (см. рисунок).
 
-.. and lift oft the float and float valve
+.. и поднимите поплавок и поплавковый клапан
 
-the
+тот
 
-choke
+задушить
 
-Chapter4 Fuel and exhaust systems
+Глава 4 Топливная и выхлопная системы
 
-{8.8 Float and valve components - valve seat, washer and filter
+{8.8 Компоненты поплавка и клапана – седло клапана, шайба и фильтр
 
-jets:
-8.7 Location of carburetor
+струи:
+8.7 Расположение карбюратора
 
-jet
-Starterft3 Main
+реактивный самолет
+Starterft3 Главная
 
 1
 
-Plotjet
+Плотджет
 
 2
 
@@ -2198,1917 +2179,1896 @@ Plotjet
 
 411
 
-(arrows) can be unscrewed from carburetor body
+(стрелки) можно открутить от корпуса карбюратора
 
-jet hokser
-Needle
+реактивный хоксер
+Игла
 
-12 On 1987 and 1988 700/750
+12 В 1987 и 1988 годах 700/750
 
-Magna models,
+модели Магна,
 
-each carburetor body has an air cut-off valve on the side of ts throt
-spring,
+Каждый корпус карбюратора имеет клапан отсечки воздуха со стороны дроссельной заслонки.
+весна,
 
-O-ring and valve.
+Уплотнительное кольцо и клапан.
 
-Inspect al
+Осмотрите все
 
-deterioration and replace the cut-off valve assembly if ne
+износа и при необходимости замените узел запорного клапана.
 
-Cleaning
-Caution: Use only a petroleum based sovent for carburetor caning
+Очистка
+Внимание: для очистки карбюратора используйте только чистящее средство на нефтяной основе.
 
-Donttuse caustic carers.
+Donttuse едкие воспитатели.
 
-43 Submerge the metal components in the solvent for approximately
-thity minutes (orlonger, ifthe drections recommend t
+43 Погрузите металлические детали в растворитель примерно на
+тридцать минут (или дольше, если инструкции рекомендуют
 
-14 Ater the carburetor has soaked long enough for the
-osits,
-loosen and dissolve most of the varnish and other
+14 После того, как карбюратор пропитается достаточно долго,
+осиц,
+ослабить и растворить большую часть лака и других
 
-use @
+используйте @
 
-to remove the stubborn deposits. Rinse it again, then dry it with
-brush
-compressed air Blow out al of the fuel end ar passages in the main
+для удаления стойких отложений. Промойте его еще раз, затем высушите
+кисть
+Сжатым воздухом Продуйте все каналы топливного бака в главном
 
-‘and upper body. Caution: Never clean the jets or passages with ¢
+'и верхняя часть тела. Внимание: Никогда не очищайте форсунки или каналы с помощью ¢
 
-‘piece of mire ora dil ft as they wal be enlarged, causing the fuel and air
+«кусочки болота по мере их увеличения расширялись, в результате чего топливо и воздух
 
-89a Pilot screw metal limiter caps can be drilled ...
+89a Металлические ограничительные колпачки направляющего винта можно просверлить ...
 
-‘metering ratesto be upset
+'тарифы учетарасстраиваться
 
-Inspection
+Инспекция
 
 16
 
-Check the tapered portion ofthe pilot screw for wear or damage,
+Проверьте коническую часть направляющего винта на наличие износа или повреждений.
 
-the pilot screw ifnecessary.
-Replace
+направляющий винт, если необходимо.
+Заменить
 
-on the end of the choke plunger and replace the plungeri
+на конце дроссельного плунжера и замените плунжер.
 
 17
 
-Check
+Проверить
 
-body, fi
-the carburetor
+тело, фи
+карбюратор
 
-t chamber and vacuum chamber
+t-камера и вакуумная камера
 
-bent
+согнутый
 
-to extract them
-ing
-screw used
-2.9b ... and a seff-tapp
+чтобы извлечь их
+инг
+используемый винт
+2.9б... и сефф-тап
 
-‘8:11 With the choke valve nut completely unscrewed, the choke
+'8:11 Когда гайка воздушной заслонки полностью откручена, воздушная заслонка
 
-‘valve can be pulled up and disengaged from its operating hook
+'клапан можно поднять и отсоединить от его рабочего крюка
 
 412
 
-94 Install the choke valve and its spring in the carburetor bore
-and secure withthe nut
+94 Установите воздушную заслонку и ее пружину в отверстие карбюратора.
+и зафиксируйте гайкой
 
-9.7 Assemble the float valve seat, washer and filter and install
-themin
-the
-carburetor body
+9.7 Соберите седло поплавкового клапана, шайбу и фильтр и установите
+темамин
+тот
+корпус карбюратора
 
-cover for cracks, distorted sealing surfaces and other damage. If any
-defects are found. replace the faulty component, although replacement
+крышку на наличие трещин, деформаций уплотнительных поверхностей и других повреждений. Если есть
+обнаружены дефекты. замените неисправный компонент, хотя замена
 
-7 Install the fost valve seat, washer and fiter (gee
+7 Установите седло клапана Fost, шайбу и фитинг (ну и дела).
 
-of the entire carburetor will probably be necessary (check with your
+вероятно, потребуется весь карбюратор (уточните у своего
 
-the pivot pin
+шарнирный штифт
 
-parts supplier for the availabilty of separate components)
+поставщик запчастей на наличие отдельных компонентов)
 
-8 To check the float height, hold the carburetor so the float hangs
+8 Чтобы проверить высоту поплавка, держите карбюратор так, чтобы поплавок висел.
 
-illustration}. Hook
+иллюстрация}. Крюк
 
-the needee vaive over the float, then install the float and secure t with
+нуждающемуся перекиньте поплавок, затем установите поплавок и закрепите его с помощью48 Проверьте мембрану на наличие трещин, дыр и общего износа.
 
-48 Check the diaphragm for splits, holes and general deterioration
+<довмн, затем откидывайся назад, пока игла клапана не сядет на место, но не так
 
-<dovmn, then tit t back until the valve needle is just seated, but not so
+Поднесение его к светлой стене поможет выявить проблемы такого рода.
 
-Holding it up to a light wall help to reveal problems of this nature
+настолько, насколько сжимается подпружиненный кончик нуждающегося. Измерьте
 
-far that the needie's spring-loaded tip is compressed. Measure the
+19 Вставьте поршень дроссельной заслонки в корпус карбюратора и убедитесь, что он
 
-19 Insert the throttle piston in the carburetor body and check that it
+положение между поверхностью прокладки и нижней частью поплавка с
 
-stance between the gasket face and the bottom of the float with
+плавно движется вверх и вниз
 
-moves up-and-down smoothly
+Проверьте поверхность поршня на наличие
 
-Check the surface of the piston for
+носить. Если у меня слишком много женщин или я не могу плавно двигаться в канале ствола,
 
-wear. If i's wom excessively or doesnt move smoothly in the bore,
+калибр или точная линейка (см. рисунок). Правильная настройка
 
-gauge or an accurate ruler (see illustration). The correct setting
+должно быть таким, как указано в разделе «Спецификации». На ранних моделях с
 
-should be as given in the Speafications Section. On early models with
+латунные поплавки,
 
-brass floats,
+заменить карбюратор
+(например, кусок стекла). Замените его, если он погнут или наконечник сломан.
 
-replace the carburetor
-(such as a piece of glass). Replace itfit's bent or ifthe tip is wom.
+регулировку высоты поплавка можно произвести очень
+осторожно сгибая выступ, опирающийся на кончик игольчатого клапана. Вкл.
+более поздние модели с пластиковыми поплавками, высота поплавка не регулируется, если это необходимо.
 
-adjustment of the float height can be made by very
-carefully bending the tang which bears on the needle valve tip. On
-later models with plastic floats, the float height is not adjustable, if tis
+21 Проверьте кончик иглы впускного топливного клапана.
 
-21 Check the tip of the fuel inlet valve needle.
+неправильно, поплавок необходимо заменить.
 
-incorrect the float must be replaced.
+20 Проверьте прямолинейность иглы струи, прокатав ее по плоской поверхности.
+Если на нем есть канавки или
 
-20 Check the jet needle for straightness by rolling it on @ flat surface
-If it has grooves or
+на нем есть царапины, его необходимо заменить. Нажмите на стержень на другом конце
+иглы,
 
-scratches in it, it must be replaced. Push in on the rod in the other end
-of the needle,
+затем отпустите его - если он не отскочит назад,
 
-then release it - if it doesn't spring back,
+игла клапана.
 
-valve needle.
+Если седло игольчатого клапана повреждено, карбюратор
 
-If the needle valve seat is damaged the carburettor
+узел подлежит замене,
 
-assembly must be replaced,
+заменить
 
-replace the
+заменить сиденье невозможно
 
-it is not possible to replace the seat
+Повторите процедуру для всех
 
-Repeat the procedure for all
+цербюраторы.
+После проверки высоты поплавка установите новое уплотнение в поплавковую камеру.
 
-cerburetors.
-With the float height checked, install a new seal in the float chamber
+‘проточить и установить камеру на карбюратор (см. иллюстрацию)
 
-‘groove and install the chamber on the carburetor (see llustration)
+10 Подсоедините шайбу к игле форсунки и вставьте иглу в
 
-10 Fét the washer to the jet needle and insert the needle into the
+индивидуально
 
-individually
+поршень дроссельной заслонки.
 
-throttle valve piston.
+22 Проверьте прокладку поплавковой камеры и замените ее, она повреждена.
+23 Поверните вал дроссельной заслонки, чтобы убедиться, что дроссельная заслонка
 
-22 Check the float chamber gasket and replace it it's damaged
-23 Operate the throttle shaft to make sure the throttle butterfly valve
+центр поршня и поворот на 60° в направлении, противоположном снятию
 
-center of the piston and tum & 60° in the opposite direction of removal
+Вставьте пружину и иглодержатель в
 
-Insert the spring and the needle holder into the
+гаечный ключ и мм
+используя
 
-an & mm bax wrench
-using
+«Открывается и закрывается плавно. Если этого не происходит, замените карбюратор.
 
-‘opens and closes smoothly. Ifit doesn’, replace the carburetor.
+11 Вставьте узел поршень/мембрана дроссельной заслонки в карбюратор.
 
-11 Insert the throttle piston/diaphragm assembly into the carburetor
+24 Проверьте поплавки на предмет повреждений. Обычно это становится очевидным по
 
-24 Check the floats for damage. This will usually be apparent by the
+Слегка нажмите и опустите иглу, чтобы убедиться, что игла расположена правильно.
 
-ody ang lightly push & down, ensuring the needle is correctly aligned
+наличие топлива внутри одного из поплавков.
 
-presence of fuel inside one ofthe floats.
+с нуждающимся
+реактивный самолет. Вдавите внешний край диафрагмы в паз ts,
 
-with the needie
-jet. Press the diaphragm outer edge into ts groove,
+Если жир поврежден, он
 
-Ifthe foats are damaged, they
+необходимо заменить.
 
-must be replaced.
-
-ensuring the diaphragm tongue is correctly seated in the cutout on the
+убедитесь, что язычок диафрагмы правильно установлен в вырезе на
 
 9
 
-‘he daphragm fom being displaced when the cover is fited,
+«Дафрагма из-за смещения при установке крышки,
 
-cerburstor (see illustration). Check the diaphragm is not creased,
+цербурстор (см. иллюстрацию). Убедитесь, что диафрагма не помята,
 
-Carburetors - reassembly and float height check
+Карбюраторы – сборка и проверка высоты поплавка
 
-{nd thatthe piston moves smoothly up and down the bore. To prevent
+{и что поршень плавно движется вверх и вниз по отверстию. Чтобы предотвратить
 
-Up the bore wih a fnger passed through the vertun
-Note: Vien resssembing the carturetors be sure 1 use the new Ciings
+В отверстие, проведя пальцем через вертун
+Примечание. При замене картураторов обязательно используйте новые Ciings.
 
 12
 
-Insert
+Вставить
 
-the
+тот
 
-spring and ft the vacuum chamber
+пружина и опора вакуумной камеры
 
-push it
+подтолкни это
 
-cover to the
+прикрыть
 
-gaskets and other parts supplied in the rebuild kit Do not overtgtten
+прокладки и другие детали, входящие в комплект для ремонта. Не перетягивайте.
 
-cerburetor, noting that the longer springs are fitted to the front cvinder
+цербюратора, отметив, что более длинные пружины установлены на переднем цилиндре.
 
-the carburetor jets and screws as they are easily denajed. Refer
-1
+жиклеры и винты карбюратора, так как они легко выходят из строя. Ссылаться1
 
-carburetors (see illustration 8.35).
+карбюраторы (см. рисунок 8.35).
 
-sustratons9 1,97,
+сустратоны9 1,97,
 
-98, 99and.9 11
+98, 99и.9 11
 
-13 On 1987 and 1988 700/750 models, it it was removed, install the
+13 На моделях 700/750 1987 и 1988 годов, если он был снят, установите
 
-1 Install the choke valve in its bore, followed by its spring and nut (see
+1 Установите воздушную заслонку в ее отверстие, затем установите ее пружину и гайку (см.
 
-air cut-off vave, spring end O-ring. Refit the cover and secure with the
+клапан отсечки воздуха, уплотнительное кольцо на конце пружины. Установите крышку на место и закрепите ее
 
-illustration}. Tighten the nut securely
-and reconnect the operating ink
+иллюстрация}. Надежно затяните гайку
+и повторно подключите рабочие чернила
 
-two screws.
+два винта.
 
-hook in the valve groove
-2 Install the pilot screw (if removed) along with its spring, washer and
+зацеп в канавке клапана
+2 Установите направляющий винт (если он был снят) вместе с его пружиной, шайбой и
 
-14 If the carburetors were separated,
+14 Если карбюраторы были разделены,
 
-refer to Section 10 and join
+обратитесь к разделу 10 и присоединяйтесь
 
-them, then refithe assembly
-to the motorcycle (see Section 7)
+их, затем переустановите сборку
+к мотоциклу (см. раздел 7)
 
-O-ring, turning it in_unti it seats lightly. Now, tum the screw out the
-number of tums
+Уплотнительное кольцо, вворачивая его до тех пор, пока оно не сядет легко. Теперь выверните винт
+количество оборотов
 
-previously recorded.
+записано ранее.
 
-Where applicable,
+Где это применимо,
 
-metal limter caps into the pilot screw bores. If
+металлические колпачки в отверстия направляющих винтов. Если
 
-drive new
+водить новый
 
-new pilot screw has
+новый пилотный винт имеет
 
-been fited, Honda advise that the screws in he other three carburetors
-be replaced also, and that having been set to the standard number of
-tums out (see Specifications).
+был установлен, Хонда советует закрутить винты в трех других карбюраторах.
+также быть заменены, и это было установлено на стандартное количество
+Оказывается (см. Технические характеристики).
 
-out by @ dealer
+выезд у @ дилера
 
-adjustment of ther settings be cared
+регулировка этих настроек, будьте осторожны
 
-service department
+сервисный отдел
 
-before new limiter caps are
+до того, как будут установлены новые ограничительные колпачки
 
-installed
+установлен
 3°
 
-Screw the needle jet into position inthe carburetor
+Вверните игольчатый жиклер в карбюратор.
 
 4
 
-Screw the main jet into the end
-of the needle jet
+Вверните главный жиклер в конец
+игольчатой струи
 
-5 _ Screw the pilot et ito postion
-6 If the starter
-jet was removed, screw or press it into the body (as
+5 _ Завинтите пилот и это положение.
+6 Если стартер
+Жиклер был снят, вкрутите или вдавите его в корпус (как
 
-applicable).
+применимо).
 
 10
 
-Carburetors
-separation and joining
+Карбюраторы
+разделение и объединение
 
-Waring:
+Уоринг:
 
-Refer
+Обратитесь
 
-to
+чтобы
 
-the
+тот
 
-precautions given
+меры предосторожности приняты
 
-in
+в
 
-Section
+Раздел
 
 1
 
-before
+раньше
 
-proceeding
+разбирательство
 
-n
-Refer
-to
-tustrations 101, 10.63, 1066, 107, 108, 109.end 10.111
-The carburetors do not need to be separated fornormal overhaul. If
+н
+Обратитесь
+чтобы
+настройки 101, 10.63, 1066, 107, 108, 109.конец 10.111
+Карбюраторы не требуют разборки при обычном капитальном ремонте. Если
 
-‘you need to separate them (to replace a carburetor body, for
+‘нужно их разобрать (для замены корпуса карбюратора, для
 
-Chapter
+Глава
 
-Bs
+Бс
 
-nein
+нет
 
-tence raat
+напряженная крыса
 
-4_Fuel and exhaust systems
+4_Топливная и выхлопная системы
 
-9.9 Use anew seal when installing the
-float
-clhambers
+9.9 При установке используйте новое уплотнение.
+плавать
+карабкается
 
-seblelid
+себлелид
 
-10.1 Carburetor installation details -typical
+10.1 Детали установки карбюратора – типовые
 
 4-13
 
-9.11 Ensure diaphragm tab, vacuum tube
-‘and coverprotrusion align
+9.11 Убедитесь, что выступ мембраны вакуумной трубки
+'и выступ крышки выровнять
 
 4-14
 
-Chapter
-4 Fuel and exhaust systems
+Глава
+4 Топливная и выхлопная системы
 
-10a The breather ba fe plate is secured by a single screw
-example), refer to the following procedure (see illustration).
+10a Пластина сапуна крепится одним винтом.
+пример), обратитесь к следующей процедуре (см. рисунок).
 
-2 Remove the carburetors from the machine as described in
-‘Section 7. Mark the body of each carburetor with its cylinder
-‘umber to ensure that itis positioned correctly on reassembly.
-3 Remove all fuel lines from the carburetor assembly, having taken
-Tote of their
+2 Снимите карбюраторы с машины, как описано в
+«Раздел 7. Промаркировать корпус каждого карбюратора с указанием его цилиндра.
+«умбры», чтобы убедиться, что он расположен правильно при повторной сборке.
+3 Снимите все топливопроводы с узла карбюратора, сняв
+Тотализатор их
 
-original positions.
+исходные позиции.
 
-4 Remove the heat shield (where fitted) from the front of the
-carburetor assembly.
-5 On 1987 and 1988 700/750 Magna models it is advisable to
+4 Снимите теплозащитный экран (если он установлен) с передней части
+карбюратор в сборе.
+5 На моделях Magna 700/750 1987 и 1988 годов рекомендуется
 
-Temove the fuel valve diaphragm unt from the air chamber side to
-prevent damage tot.
-6 Remove the breather ba le plate (where fitted) from the center of
-the air chamber, then remove the screws that attach the ai
-chamber
+Сдвиньте диафрагму топливного клапана со стороны воздушной камеры в
+предотвратить повреждение всего.
+6 Снимите пластину сапуна (если она установлена) из центра
+воздушную камеру, затем открутите винты, крепящие искусственный интеллект
+палата
 
-(see
+(см.
 
-illustrations).
+иллюстрации).
 
-Lit
+Горит
 
-the
+тот
 
-air
+воздух
 
-chamber
+палата
 
-from
+из
 
-the
+тот
 
-assembly.
+сборка.
 
-7 Remove the choke rods from the carburetors by removing the
-choke rod lever nuts and lifting offthe rods with the levers attached
-{see ilustratc
-8 Horizontally separate first the number 3 carburetor and then the
-number 4 carburetor from their corresponding pair, taking care not
+7 Снимите дроссельные заслонки с карбюраторов, сняв
+гайки рычага дроссельной заслонки и снятие стержней с прикрепленными рычагами
+{см. иллюстрацию
+8 Горизонтально отделите сначала карбюратор номер 3, а затем
+карбюратор номер 4 из соответствующей пары, стараясь не
 
-to damage the air and fuel joint pipes. As they are separated, the
-col
+чтобы повредить соединительные трубки подачи воздуха и топлива. Поскольку они разделены,
+столбец
 
-springs
+источники
 
-between
+между
 
-the
+тот
 
-throttle
+дроссель
 
-shafts
+валы
 
-will
+будет
 
-fall
+падать
 
-out.
+вне.'
 
-‘The
+10.7 Расположение гаек рычага дроссельной заслонки (стрелки)
 
-10.7 Choke rod lever nut locations (arrows)
+Также могут выпасть винтовые пружины регулировки синхронизации (см.
 
-synchronization adjusting screw springs may also drop out (see
+иллюстрация). Если они не найдут их и не установят, как показано
+иллюстрация, поэтому они
 
-illustration). If they dont find them and instal them as shown
-the illustration so they
+10.8 При разъединении карбюраторов будьте осторожны, чтобы не потерять
 
-10.8 When separating the carburetors be careful not to loose the
+10.9 Запишите положение топливных и воздушных соединений, как
 
-10.9 Make note of the fuel and air joint positions as a
+пружина вала дроссельной заслонки (1) и синхронизирующие винтовые пружины (2)
 
-throttle shaft spring (1) and synchronizing screw springs (2)
+руководство по обратной сборке
 
-guide to reassembly
+Глава 4
 
-Chapter4
+Топливная и выхлопная системы
 
-Fuel and exhaust systems
+10.15a Установленное положение винтовых пружин вала дроссельной заслонки (стрелка)
+arertt потерян (см. иллюстрацию)
+10.15а}.
+9 Снимите соединительные трубки подачи воздуха и топлива. Они просто пресс-форма.
+тот
 
-10.15a Installed position of the throttle shaft coil springs (arrow)
-arertt lost (see illustration
-10.15a}.
-9 Withdraw the air and fuel joint pipes. They are simply a press ft in
-the
+катбюраторы (см. рисунок).
 
-catburetors (ee ilustraion).
+10 На моделях Magna 700/750 выпуска 1985–1988 годов снимите винт.
+который
 
-10 On 1985 through 1988 700/750 Magna models, remove the screw
-wich
+ртан
 
-rtane
+отмечая
 
-noting
+поставщики провизии
+нет, 3 конца нет вместе и отдельно
 
-caterelors
-no, 3 end no togebor and separate em
+топливная соединительная трубка
 
-the fuel joint pipe
+между ними,
 
-between them,
+На всех
 
-On all
+другие модели,
 
-other models,
+отделите карбюраторы и извлеките топливный шов между ними
 
-separate the carburetors and retrieve the fuel joint between them
+просто
 
-simply
+11 Отсоедините дроссельную заслонку от карбюраторов №1 и №2,
 
-11 Disconnect the throttle link from the number1 and 2 carburetors by
+удаление
+шплинты (см. рисунок).
 
-removing
-the cotter pins (see illustration).
+12 На моделях Magna 700/750 1985–198 годов выверните винт.
+который сохраняет карбюраторы нет.
 
-12 On 1985 through 198 700/750 Magna models, remove the screw
-which retains carburetors no.
+отдельный
 
-eparate
+1 и нет. 2 вместе и разделите их
 
-1 and no. 2 together and separate them
+топливный бак
+труба между ними. На всех остальных моделях просто
+карбюраторы и
+извлеките топливный шов между
+они
 
-the fuel jont
-pipe between them. On all other models, simply
-the carburetors and
-retrieve the fuel joint between
-them
+13 При отделенном карбюраторе,
 
-13 With the carburetor separated,
+дроссельные заслонки можно снять
 
-the choke valves can be removed
+и проверено. Отсоедините соединительный крюк из паза в
+со стороны клапана, отвинтите гайку клапана, снимите воздушную заслонку и
+пружина из карбюратора
 
-and inspected. Disconnect the linkage hook from the groove in the
-valve end, unscrew the valve nut and remove the choke valve and
-spring from the carburetor
+Присоединение
+10:90 Убедитесь, что все стопки (1), дюбели (2) и петли (9)
+устанавливается в карбюраторы перед установкой
 
-Joining
-10:90 Ensure all veloc stacks (1), dowels (2) and Ovings (9 are
-installed in the carburetors before installing the
+Тефер к Muistrations
 
-tefer to Muistrations
+10,169, 10 156, 10,178, 10,17 и 10,18
 
-10.169, 10 156, 10.178, 10.17band 10.18
+14 Перед повторным подключением карбюраторов проверьте воздушно-топливное соединение.
 
-14 Prior to reconnection of the carburetors, inspect the air and fuel joint
+труб на наличие трещин, засоров или повреждений и тщательно очистите их с помощью
+растворитель. Установите новые уплотнительные кольца на соединительные трубки подачи воздуха и топлива и смажьте маслом.
 
-pipes for cracks, blockage or damage and clean them thoroughly with
-solvent. Install new O-rings on the air and fuel joint pipes and apply oil
+к уплотнительным кольцам перед установкой трубок в карбюраторы.
+15 Присоединение
 
-to the O-rings prior to installing the pipes in the carburetors.
-15 Joining
+является противоположностью
 
-is the reverse of
+'все
+низация
 
-‘all
-nization
+порядок разборки,
 
-the disassembly procedure,
+отмечая
 
-noting the
-
-the fuel and vent ine fitings
+топливная и вентиляционная арматура
 150
-four carburetors are connected, foosen the synchroadjusting screws and re-install the synchronization
+подключены четыре карбюратора, ослабьте регулировочные винты синхронизатора и установите синхронизатор на место.
 
-1985 through
+с 1985 года по
 
-1968
+1968 год
 
-700/750 Magna models,
+модели 700/750 Магна,
 
-tghten
+ужесточить
 
-the
+тот
 
-at hs stage.
-for joning Screws only lightly
-
-@)
-
-The coll gorings between the throttle shafts can be installed after
-the carburetors have been bosely altached fo the air chamber
-{see illustration).
+на этапе ХС.
+для легкого соединения винтов
 
 @)
 
-Pror fo comecting the carburetors fo the air chamber, be sure the
+Цанговые кольца между валами дроссельной заслонки можно установить после
+карбюраторы были плотно прикреплены к воздушной камере
+(см. иллюстрацию).
 
-rubber veloaty stacks, grommets and dowel
-pins are afl securely in
+@)
 
-piace {see illustration).
+При подключении карбюраторов к воздушной камере убедитесь, что
 
-Tighten the air chamber screws in 2
+резиновые велоаты, втулки и дюбели
+штифты надежно закреплены
 
-(onsS-crOSs Sequence,
+piace {см. иллюстрацию).
 
-16 After reconnection is complete, @ bench synchronization procedure
+Затяните винты воздушной камеры в 2
 
-follows.
-be camied out as
-should
-17 Tum the throttle stop screw (used to adjust the idle speed) so the
+(последовательность onS-crOSs,
 
-10.17a Onno. 1 carburetor, use the throttle stop screw
+16 После завершения переподключения @ процедура синхронизации стенда
+
+следует.
+быть выставленным как
+должен
+17 Поверните стопорный винт дроссельной заслонки (используется для регулировки скорости холостого хода) так, чтобы
+
+10.17а Онно. 1 карбюратор, используйте стопорный винт дроссельной заслонки
 ..
 
-throttle vatve in the no. 1 carburetor is aligned with the rear edge of the
-pass hole,
-loceted in the carburetor bore (see
-illustrations).
+дроссельной заслонки в нет. 1 карбюратор совмещен с задним краем
+проходное отверстие,
+находится в отверстии карбюратора (см.
+иллюстрации).
 
-Chapter
-4 Fuel and exhaust systems
+Глава
+4 Топливная и выхлопная системы
 
 4-16
 
-1017b ... to set the throttle valve level with the rear edge of
+1017b...для установки дроссельной заслонки на уровень задней кромки10.18 Настройте остальные дроссельные заслонки с помощью
 
-10.18 Set up the other throttle valves using the
+переднее перепускное отверстие (стрелка)
+18 Совместите дроссельные заслонки в каждом из остальных карбюраторов в
+'таким же образом, поворачивая регулировочные винты синхронизации (см.
 
-the front bypass hole (arrow)
-18 Align the throttle valves in each of the other carburetors in the
-‘same manner by turning the synchronization adjusting screws (see
+10 Убедитесь, что кабели правильно подключены, и найдите
+регуляторы внешнего троса
+в монтажном кронштейне
 
-10 Make sure the cables are correctly connected and locate the
-outer cable adjusters
-in the mounting bracket
+иллюстрация).
 
-illustration).
+синхронизация
+винты (стрелки)
 
-synchronizing
-screws (arrows)
+11 Где необходимо. установите карбюраторы на головку блока цилиндров и
 
-11 Where necessary. fit the carburetors to the cylinder head and
+19 Слегка откройте дроссельную заслонку, нажав на тягу дроссельной заслонки.
 
-19 Open the throttle slightly by pressing on the throttle linkage,
+надежно затяните впускной патрубок
 
-securely tighten the intake
+резиновые зажимы.
 
-rubber clips.
-
-then release it and make sure it returns smoothly with no drag or
+затем отпустите его и убедитесь, что он возвращается плавно, без сопротивления или
 
 12
 
-binding. Also check the choke vaive linkage for smooth operation.
+привязка. Также проверьте тягу воздушной заслонки на плавность работы.
 
-handlebars back and forth to make sure the cables don't cause
+подвигайте руль вперед и назад, чтобы убедиться, что тросы не вызывают
 
-Adjust the
+Отрегулируйте
 
-cables
+кабели
 
-as
+как
 
-described
+описал
 
-Ifthe choke linkage arms were disconnected from each other, new
+Если рычаги воздушной заслонки были отсоединены друг от друга, новые
 
-the steering to bind.
+рулевое управление завязать.
 
-cotter pins should be used on reassembly.
-20 Install the carburetors on the motorcycle (see Section 7).
-21 On 1987 and 1988 700/750 Magna models, tighten the
+При сборке следует использовать шплинты.
+20 Установите карбюраторы на мотоцикл (см. раздел 7).
+21 На моделях Magna 700/750 1987 и 1988 годов затяните
 
-fitting the fuel tank, start the
+установив топливный бак, запустите
 
-Carburetor joining screws securely.
+Надежно зафиксируйте винты крепления карбюратора.
 
-tured.
+зрел.
 
 22.
 
-Camry out carburetor synchronization (see Chapter 1).
+У Камри отключите синхронизацию карбюратора (см. главу 1).
 
-problem before riding the motorcycle.
+проблема перед поездкой на мотоцикле.
 
 11
 
-Throttle cables - removal and installation
+Тросы дроссельной заслонки – снятие и установка
 
-13 Install the air filter housing
+13 Установите корпус воздушного фильтра
 
-Refer
+Обратитесь
 
-to
+чтобы
 
-the
+тот
 
-precautions
+меры предосторожности
 
-given
+данный
 
-in
+в
 
-Secton
+Сектон
 
 1.
 
-Tum the
+Поверните
 
-as described in Section 14. Prior to
-engine
+как описано в Разделе 14. До
+двигатель
 
-and tum the handlebars back
+и поверните руль назад
 
-If it does, the cables are incorrectly routed.
+Если это так, кабели проложены неправильно.
 
-Sort out the
+Разберитесь
 
-Install the fuel tank (see Section 2)
+Установите топливный бак (см. раздел 2).
 
-12 Choke cable - removal, installation and freeplay check
+12 Трос дроссельной заслонки – снятие, установка и проверка свободного хода
 1
 
-before
+раньше
 
-proceeding
+разбирательство
 
-Removal
-1 Remove the fuel tank (Sabre) or trig it up if less than half full
+Удаление
+1 Снимите топливный бак (Sabre) или поднимите его, если он заполнен менее чем наполовину.
 
-Removal
+Удаление
 1
 
-Chapter
+Глава
 
-and forth to make sure the idle speed doesnt rise as the bars are
+и так далее, чтобы убедиться, что обороты холостого хода не повышаются, когда планки
 
 14
 
-Warning:
+Предупреждение:
 
-in
+в
 
-Remove the air filer housing as described in Section 14.
+Снимите корпус воздушного фильтра, как описано в Разделе 14.
 
-2 Loosen the throttle cable
+2 Ослабьте трос дроссельной заслонки
 
-locknuts then free each outer cable
+контргайки, затем освободите каждый внешний трос
 
-(@agna).
+(@агна).
 
 2.
-Loosen the choke cable retainer screw, near the no. 1
-carburetor.
+Ослабьте винт крепления троса воздушной заслонки рядом с номером. 1
+карбюратор.
 
-from its mounting bracket. Detach the inner cables from the throttle
+из его монтажного кронштейна. Отсоедините внутренние тросы от дроссельной заслонки.
 
-3 Disengage the cable outer from its ret
+3 Отсоедините внешний кабель от его разъема.
 
-four retaining clips securing the carburetor intake rubbers to the
+четыре стопорных зажима, крепящие резинки впускного коллектора карбюратора к
 
 4
 
-cylinder head and dsengage the carburetors from the cylinder
+головку блока цилиндров и отсоедините карбюраторы от цилиндра.
 
-5 On early models, remove the two bolts that hold the clutch
-master cylinder to the handlebars and lift the master cylinder off
+5 На ранних моделях открутите два болта, удерживающие сцепление.
+главный цилиндр к рулю и снимите главный цилиндр.
 
-pulley. If necessary to improve access to throttle cam. loosen the
-head. Keep the carburetors upright to prevent fuel spillage.
+шкив. При необходимости улучшить доступ к кулачку дроссельной заслонки. ослабить
+голова. Держите карбюраторы вертикально, чтобы предотвратить разлив топлива.
 
-3 Unscrew the three (early models) or two (later models) right
-handlebar switch screws and free the switch from the handlebar.
+3 Открутите три (ранние модели) или две (более поздние модели) правые
+винты переключателя на руле и освободите переключатель от руля.
 
-4 Disconnect the throttle cables from the throttle grip and unscrew
-each cable from the lower half of the handiebar switch.
+4 Отсоедините тросы дроссельной заслонки от рукоятки дроссельной заслонки и открутите
+каждый трос от нижней половины переключателя на руле.
 
-Mark each
+Отметьте каждый
 
-disengage the end of the cable from the lever
+отсоединить конец троса от рычага
 
-jer clamp and then
+зажим, а затем
 
-_ Remove the rear view mirror from the left side.
+_ Снимите зеркало заднего вида с левой стороны.
 
-(keep it level to prevent fluid leakage).
+(держите его ровно, чтобы предотвратить утечку жидкости).
 
-Disengage the cable
+Отсоедините кабель
 
-trunnion from the choke lever.
-6 On later models (where the cable goes into the base of the
-handlebar
+цапфа от рычага воздушной заслонки.
+6 На более поздних моделях (где кабель входит в основание
+руль
 
-switch),
+переключатель),
 
-remove
+удалить
 
-the
+тот
 
-two
+два
 
-screws
+винты
 
-from
+из
 
-the
+тот
 
-switch
+переключатель
 
-able to ensure itis connected correctly on installation.
-
-Underside and separate the switch halves. Disengage the cable
+возможность убедиться в правильности подключения при установке.Поднимите и разделите половинки переключателя. Отсоедините кабель
 
 5
 
-trunnion from the choke lever.
+цапфа от рычага воздушной заслонки.
 
-Remove the cables from the machine noting their exact
+Отсоедините кабели от машины, запомнив их точное расположение.
 
-routing.
+маршрутизация.
 
-7 Unscrew the cable casing from the clutch
+7 Отвинтите кожух троса от сцепления.
 
-master cylinder clamp
+зажим главного цилиндра
 
-(early models) or handlebar switch lower half (later models) and
+(ранние модели) или нижняя половина переключателя на руле (более поздние модели) и
 
-Installation
+Установка
 
-then withdraw it from the motorcycle.
+затем снимите его с мотоцикла.
 
-6 Install the cables making sure they are correctly routed. The
-cables must not interfere with any other component and should not
-be kinked or bent sharply
-7 Screw the cables into the lower half of the handlebar switch,
-making sure they are correctly connected. Lubricate the end of
+6 Установите кабели, убедившись, что они проложены правильно.
+кабели не должны мешать работе других компонентов и не должны
+быть перегнутым или резко согнутым
+7 Прикрутите тросы к нижней половине переключателя на руле,
+убедившись, что они правильно подключены. Смажьте конец
 
-each cable with muit-purpose grease and aitach the cables to the
+смажьте каждый трос универсальной смазкой и прикрепите тросы к
 
-Installation and freeplay check
-2 Installation is the reverse of the removal procedure. Lubricate
-the cable inner and ensure that itis routed in its original path and
-secured with any relevant ties.
+Установка и проверка работоспособности
+2 Установка осуществляется в порядке, обратном процедуре снятия. Смазать
+кабель внутри и убедитесь, что он проложен по первоначальному пути и
+обеспечены соответствующими связями.
 
-9 Set the cable freeplay by pulling the
+9 Установите свободный ход троса, потянув
 
-choke operating lever on
+рычаг управления воздушной заслонкой включен
 
-throttle grip pulley.
+шкив ручки дроссельной заслонки.
 
-the handlebar fully back (choke on) and check for any further
+руль полностью назад (подсос включен) и проверьте, нет ли дальнейших
 
-8 Fit the switch lower haif to the handlebar. locating its peg in the
+8 Установите нижнюю часть переключателя на руль. найдя свой колышек в
 
-movement at the choke lever on the carburetors. There should be
+движение рычага воздушной заслонки на карбюраторах. Должно быть
 
-handlebar hole.
+отверстие под руль.
 
-no freeplay, if there is, loosen the outer cable clamp screw and
+нет свободного хода, если он есть, ослабьте винт внешнего зажима троса и
 
-Fit the top half of the switch and securely tighten
+Установите верхнюю половину переключателя и надежно затяните
 
-the screws (forward screws must be tightened firs).
+винты (передние винты должны быть затянуты в первую очередь).
 
-reposition the outer cable
+переставьте внешний трос
 
-9 Lubricate the end of each cable with multi-purpose grease and
+9 Смажьте конец каждого троса универсальной смазкой и
 
-lever fully forward (choke off) and check for a small amount of
+рычаг полностью вперед (отключение дроссельной заслонки) и проверьте наличие небольшого количества
 
-attach them to the carburetor throttle cam
+прикрепите их к кулачку дроссельной заслонки карбюратора
 
-accordingly. Push the choke operating
+соответственно. Нажмите на воздушную заслонку, работающую
 
-slack in the carburetor linkage, indicating that the choke is fully
-of.
+слабина тяги карбюратора, указывающая на то, что воздушная заслонка полностью закрыта.
+оф.
 
-Chapter4 Fuel and exhaust systems
+Глава 4 Топливная и выхлопная системы
 
 417
 
-11 Measure the amount of fuel in the jar and multiply it by 12 to
-arrive at the output per minute. If the pump is operating correctly
-it
-‘should produce approximately 800 cc (27 US fl oz, 28 Imp f cz).
-12 Remove the testing equipment and reconnect the wiring and
+11 Измерьте количество топлива в канистре и умножьте его на 12, чтобы получить
+получить производительность в минуту. Если насос работает правильно
+это
+«должен производить примерно 800 куб.см (27 жидких унций США, 28 имп.ф.ч.).
+12 Снимите испытательное оборудование и снова подсоедините проводку и
 
-4100 Magna models
-13. Remove the seat and side covers (see Chapter 6).
-14 Make sure the ignition switch is OFF. then disconnect the fuel
-pump relay connector. Using a jumper
-wire, short the black and
-‘white wire terminals on the hamess side of the connector together.
-1 Disconnect the fuel supply hose from the carburetors and pla
-is open end in a glass jar. Turn the igntion ON for 5 seconds, then
-tum it OFF
+4100 моделей Магна
+13. Снимите сиденье и боковые чехлы (см. главу 6).
+14 Убедитесь, что зажигание выключено. затем отключите подачу топлива
+разъем реле насоса. Использование перемычки
+провод, закоротите черный и
+«Контакты белых проводов на небезопасной стороне разъема вместе.
+1 Отсоедините шланг подачи топлива от карбюраторов и замените его.
+открытый конец в стеклянной банке. Включите зажигание на 5 секунд, затем
+выключи это
 
 3
 
-16 Measure the amount of fuel in the jar and multiply it by 12 to
-arrive at the output per minute. If the pump is operating correctly It
-should produce
-approximately
-614 cc (21 US
-fl oz, 22 Imp
-fl oz).
-17 Remove the
-testing equipment and reconnect the wiring and
+16 Измерьте количество топлива в канистре и умножьте его на 12, чтобы получить
+получить производительность в минуту. Если насос работает правильно
+должен производить
+примерно
+614 куб.см (21 США
+жидкая унция, 22 имп.
+жидкая унция).
+17 Снимите
+испытательное оборудование, повторно подключите проводку и
 
-fuel hose.
+топливный шланг.
 
-13.3 When checking the fuel pump output, route the carburetor
-fuel supply hose into a glass jar or measuring vessel
+13.3 При проверке мощности топливного насоса проведите карбюратор
+шланг подачи топлива в стеклянную банку или мерный сосуд
 
 19
 20
-1 before
+1 раньше
 
-proceeding
+разбирательство
 
-Refer
-to ilustration 13.3.
+Обратитесь
+к иллюстрации 13.3.
 
-1 Make sure there is adequate fuel in the fuel tank and that the
-battery is fully charged.
+1 Убедитесь, что в топливном баке достаточно топлива и что
+аккумулятор полностью заряжен.
 
-2.With the engine runing
+2.При работающем двигателе
 
-imine all fuel lines between the fuel
+иминируйте все топливопроводы между топливными
 
-tank
-and
-fuel pum
-loose connections, kinks or crimps.
-Inthe rubber Roses. Al leaks before ine fuel pup ean seriously
-affect the pump's output.
-3 Disconnect the fuel supply hose from the carburetors. Place a
+танк
+и
+топливный насос
+ослабленные соединения, перегибы или обжимы.
+В резиновых розах. Эл протекает еще до того, как топливозаборник серьезно
+влияют на производительность насоса.3 Отсоедините шланг подачи топлива от карбюраторов. Поместите
 
-clean container such as a glass jar at the end of the detached fuel
+чистый контейнер, например стеклянную банку, в конце отделенного топлива
 
-hhose and tum the ignition switch on for several seconds (see
+шланг и включите зажигание на несколько секунд (см.
 
-illustration). There should be strong, regular spurts of fuel from
+иллюстрация). Должны быть сильные, регулярные струи топлива из
 
-the line until the ignition switch is tumed off
-If litle or no fuel emerges from the line during the test. then
-either the line or fuel fiter
-Is clogged or the fuel pump is not
+линии до тех пор, пока замок зажигания не будет выключен
+Если во время проверки из топливопровода вытекает мало топлива или оно вообще не поступает. тогда
+либо магистраль, либо топливный фильтр
+Засорен или топливный насос не работает
 
-working property. Disconnect
+рабочее имущество. Отключить
 
-all fuel lines and blow them out.
+все топливопроводы и продуйте их.
 
-Replace
-the fuel fiter (see Chapter
-1). If the lines and fiter are not
-clogged, then the pump is faulty and should be replaced.
+Заменить
+топливный фильтр (см. главу
+1). Если линии и фитер не
+засорился, значит насос неисправен и его следует заменить.
 
-5A more accurate method of testing fuel pump flow capacity is to
+5 Более точный метод проверки производительности топливного насоса заключается в
 
-perform the previous test using a measuring container and a
-‘watch according to the following sub-Section.
+выполните предыдущий тест, используя мерный контейнер и
+«смотреть в соответствии со следующим подразделом.
 
-1982 through 1986 700/750 Magna models
-6 Turn the Ignition ON for § seconds, then turn it OFF. Measure
+Модели 700/750 Magna с 1982 по 1986 год.
+6 Включите зажигание на § секунд, затем выключите его. Мера
 
-the amount of fue! in the glass jar and multiply it by 12 to arrive at
-output per minute. On 1962 through 1984 models the pump
+количество топлива! в стеклянной банке и умножьте это число на 12, чтобы получить
+производительность в минуту. На моделях 1962–1984 годов насос
 
-approximately 614 cc (21 US fl.oz, 22 Imp fl.oz) of,
+примерно 614 куб.см (21 жидкая унция США, 22 жидких унции имп.),
 
-fuel, and on 1985 and 1986 models it should
-approximately 600 cc (20 US fl oz, 21 Imp floz)
-of fuel.
+топлива, а на моделях 1985 и 1986 годов он должен
+примерно 600 куб.см (20 жидких унций США, 21 жидкая жидкая унция)
+топлива.
 
-produce
+производить
 
-1100 Sabre models
+1100 моделей саблей
 7
-Remove the seat and left side cover (see Chapter 6).
-8 With the fuel supply hose connected to the carburetors, start the
-‘engine and pinch the fuel valve vacuum hose, then tum the fuel
-valve OFF and ignition switch OFF.
-{9 Discomnect the fuel pump relay connector, and using a jumper
-wire, short the blacklight green and white wire terminals on the
-hamess side of the connector together.
-40 Disconnect the fuel supply hose from the carburetors and place
-its open end in a glass jar. Tum the fuel valve ON, then tum the
-ignition ON for5 seconds, then turn the ignition OFF.
+Снимите сиденье и левую боковую крышку (см. главу 6).
+8 Подсоединив шланг подачи топлива к карбюраторам, запустите
+'двигатель и пережмите вакуумный шланг топливного клапана, затем подайте топливо
+клапан ВЫКЛ и выключатель зажигания ВЫКЛ.
+{9 Отсоединяем разъем реле топливного насоса и с помощью перемычки
+провод, закоротите клеммы черного, светло-зеленого и белого проводов на
+неровную сторону разъема вместе.
+40 Отсоедините шланг подачи топлива от карбюраторов и поместите
+его открытый конец в стеклянной банке. Откройте топливный кран, затем включите
+Включите зажигание на 5 секунд, затем выключите зажигание.
 
-Remove the seat.
+Снимите сиденье.
 
-Remove the main fuel tank as described in Section 2.
-Remove both side covers (see
-Chapter 6).
+Снимите основной топливный бак, как описано в разделе 2.
+Снимите обе боковые крышки (см.
+Глава 6).
 
-21 Disconnect the batteryI
+21 Отсоедините аккумуляторную батарею
 
-first. Remove the
+сначала. Удалите
 
-sgative lead
+отрицательное лидерство
 
-battery.
+аккумулятор.
 
 22
 23
 
-Check
+Проверить
 
-should produce
+должен производить
 
-1982 through 1984 700/750 Magna models
+Модели 700/750 Magna с 1982 по 1984 год.
 18
 
-13 Fuel pump - check, removal and installation
-Warning: Refer
-to the precautions given in Secton
+13 Топливный насос – проверка, снятие и установка
+Предупреждение: см.
+с мерами предосторожности, указанными в разделе
 
-Removal and installation
+Снятие и установка
 
-Remove the battery tray.
+Снимите лоток с аккумулятором.
 
-_Remove the starter relay (st
-Chapter 8).
-24 Tum the fuel valve OFF and clamp the fuel hoses to prevent
-fuel flow. Have a rag handy to catch fuel spills, then detach the fuel
-inlet and outlet hoses from the fuel pump.
+_Снимите реле стартера (ст.
+Глава 8).
+24 Закройте топливный кран и зажмите топливные шланги, чтобы предотвратить
+расход топлива. Имейте под рукой тряпку, чтобы собрать пролитое топливо, а затем отсоединить его.
+впускной и выпускной шланги от топливного насоса.
 
 25
 26
 
-Disconnect the wiring connectors leading to the fuel pump.
-Remove the fuel pump mounting bots and lif out the fuel
+Отсоедините разъемы проводов, идущих к топливному насосу.
+Снимите боты крепления топливного насоса и извлеките топливо.
 
-pump.
+насос.
 
 27
 
-Installation is the reverse of the removal procedure,
+Установка обратна процедуре снятия,
 
-1985 and
+1985 г. и
 28
 23
 
-1986 700 Magna models
+Модели 700 Magna 1986 года
 
-Remove both side covers (see Chapter 6).
-Disconnect the battery leads,
-negative lead first.
+Снимите обе боковые крышки (см. главу 6).
+Отсоедините провода аккумулятора,
+сначала отрицательный вывод.
 
-30 Tum the fuel valve OFF and clamp the fuel hoses to prevent
+30 Закройте топливный кран и зажмите топливные шланги, чтобы предотвратить
 
-fuel flow. Have a rag handy
-to catch fuel spills, then detach the fuel
-‘and outlet hoses from the fuel pump.
-31 Disconnect the wiring connectors leading o the fuel pump.
-32 Maneuver the fuel pump out ofits mounting rubber.
-33 _ Installation is the reverse of the removal procedure.
+расход топлива. Имейте под рукой тряпку
+чтобы поймать пролитое топливо, затем отсоединить топливо
+'и выпускные шланги от топливного насоса.
+31 Отсоедините разъемы проводов, идущие к топливному насосу.
+32 Вытащите топливный насос из резиновой опоры.
+33 _ Установка осуществляется в порядке, обратном процедуре снятия.
 
-1100 Sabre models
+1100 моделей саблей
 34
 
-Remove the seat
-and bothside covers
+Снимите сиденье
+и обе боковые крышки
 
-Chapter 6).
-
-36 Disconnect the ros enmectors forthe fal pump, fel unit
+Глава 6).36 Отсоедините рос-энмекторы масляного насоса масляного блока.
 
 35.
 
-Disconnect
+Отключить
 
-ative|
+ативный |
 
-first
+первый
 
-and both spark units.
+и оба искровых блока.
 
-37 To gain access
-to the fuel pump. remove the right side spark
-unit from its holder and the stopfail light sensor from its holder
+37 Чтобы получить доступ
+к топливному насосу. убрать правую искру
+блок из держателя и датчик стоп-сигнала из держателя
 
-(use the wring diagram at the end of this manual for component
+(используйте схему отжима в конце данного руководства для компонентов
 
-identification).
+идентификация).
 
-38 Tum the fuel valve OFF and clamp the fuel hoses to prevent
-fuel flow. Have a rag handy
-to catch fuel spills, then detach the fuel
-inet and outlet hoses from the fuel pump.
-39. Maneuver
-the fuel pump out of its rubber mounting.
-40 Installation is the reverse of the removal procedure. Refer to the
+38 Закройте топливный кран и зажмите топливные шланги, чтобы предотвратить
+расход топлива. Имейте под рукой тряпку
+чтобы поймать пролитое топливо, затем отсоединить топливо
+впускной и выпускной шланги от топливного насоса.
+39. Маневр
+топливный насос из резинового крепления.
+40 Установка производится в порядке, обратном процедуре снятия. Обратитесь к
 
-wring
+выкручивать
 
-at the end of this manual, and ensure that
+в конце данного руководства и убедитесь, что
 
-electrical connections have been made correctly.
+электрические соединения выполнены правильно.
 
-1100 Magna models
+1100 моделей Магна
 41
-Remove
-the seat and both side covers (see Chapter 6).
-42 _Disconnect the battery leads, negative lead first.
-43 Tum the fuel valve OFF and ‘clamp the fuel hoses to prevent
-fuel flow. Have a rag handy to catch fuel spils, then detach the fuel
-indet and outlet hoses from the fuel pump.
-44 Disconnect the wiring connector leading to the fuel pump.
+Удалить
+сиденье и обе боковые крышки (см. главу 6).
+42 _Отсоедините провода аккумуляторной батареи, сначала отрицательный.
+43 Закройте топливный кран и зажмите топливные шланги, чтобы предотвратить
+расход топлива. Имейте под рукой тряпку, чтобы собрать пролитое топливо, а затем отсоединить его.
+Впускной и выпускной шланги от топливного насоса.
+44 Отсоедините разъем проводки, ведущей к топливному насосу.
 
-Chapter
+Глава
 4
 
 4-18
 
-Fuel and exhaust systems
-5 Check
+Топливная и выхлопная системы
+5 Проверить
 
-the sealing ring at the housing-to-air chamber joint; i broken
+уплотнительное кольцо на стыке корпуса с воздушной камерой; я сломался
 
-to detenorated, replace
-it
+обесценить, заменить
+это
 16
 
-Installabon
+Установкабон
 
-is the reverse of removal
+это обратная процедура удаления
 
-1100 Sabre model
+Модель 1100 Сабля
 17
 
-Remove the air
+Удалить воздух
 
-18 Remove the
+18 Снимите
 
-fiter element as describedin Chapter 1
+установочный элемент, как описано в главе 1.
 
-two screws on the outside edges of the housing and
+два винта на внешних краях корпуса и
 
-detach it from the air chamber. Recover the sealing ring.
-19 Before instaling the housing, release its clip and pull the drain tube
-off the stub on the comer
-of the housing. Emply the tube and housing
+отсоедините его от воздушной камеры. Восстановите уплотнительное кольцо.
+19 Перед установкой корпуса освободите его зажим и потяните сливную трубку.
+с заглушки на углу
+жилья. Замените трубку и корпус
 
-of any sludge and reff the tube and clip.
-20 Installation is the reverse of removal.
+от осадка и очистите трубку и зажим.
+20 Установка производится в порядке, обратном снятию.
 
-Check the condition of the
+Проверьте состояние
 
-housing-to-air chamber sealing ring, if damaged replace it
+Уплотнительное кольцо корпуса к воздушной камере, в случае повреждения замените его.
 
-1100 Magna model
-21 There is no air fiter housing on this model because the element
+Модель 1100 Магна
+21 В этой модели нет корпуса воздушного фильтрующего элемента, поскольку элемент
 
-cover screws directly
-to the top of the air chamber
+винты крышки напрямую
+до верха воздушной камеры
 
-16.2 Take care not to bend the float arm when removing the fuel,
-‘sender from the tank
+16.2 Будьте осторожны, чтобы не погнуть поплавковый рычаг при сливе топлива.
+'отправитель из танка
 
 45.
 
-Fuel
-sender
-removal and installation
+Топливо
+отправитель
+снятие и установка
 
-Waring: Refer the precautions given in Section 1 before prooseding
+Внимание: ознакомьтесь с мерами предосторожности, указанными в разделе 1, прежде чем предлагать
 
-45 Remove the two mounting bolts and lit the pump upwards and out
+45 Отверните два болта крепления и поднимите насос вверх и наружу.
 
-All Sabre models and 1985/86 700 Magna
+Все модели Sabre и 700 Magna 1985/86 г.
 
-ofthe motorcycle. Note the location
+мотоцикла. Обратите внимание на местоположение
 
-models
+модели
 
-of the washer. grommet. collar and
+стиральной машины. втулка. воротник и
 
-nut.
+орех.
 
 46
 
-Installation is the reverse of the
+Установка осуществляется в обратном порядке.
 
-Refer
+Обратитесь
 
-removal procedure.
+процедура удаления.
 
 1
 
-to dustration
+пылить
 
 15.2
 
-Remove the fuel tank
+Снимите топливный бак
 
-(see
+(см.
 
-Section 2) and drain all
+Раздел 2) и слейте все
 
-fuel into a
+топливо в
 
-container suitable for the storage of gasoline (petrol)
-2 The uel
+емкость, пригодная для хранения бензина (бензина)
+2 Уэль
 
-414. Airfilter housing -removal and installation
+414. Корпус воздушного фильтра – снятие и установка.
 
-sender is secured to the tank base by four nuts.
+Датчик крепится к основанию бака четырьмя гайками.
 
-the O-nng and be
+О-нг и будь
 
-Recover
+Восстановить
 
-especially careful not to bend the float arm as the
+особенно будьте осторожны, чтобы не погнуть поплавковый рычаг, так как
 
-withdrawn through the tank base (see illustration).
+выводится через основание бака (см. рисунок).
 
-1982 750 Sabre model
+Модель 750 Sabre 1982 года
 
-3Installation
+3Установка
 
 1
 
-O-ring should be used
+следует использовать уплотнительное кольцо
 
-Remove the air iter elements
-as
-described
-in Chapt
-detach the air fiter
-2 Remove the three screws on each side and
+Снимите элементы air iter
+как
+описал
+в главе
+отсоединить воздушный патрубок
+2 Удалите три винта с каждой стороны и
 
-is a reverse of the removal procedure, nating that a
+является обратной процедуре удаления, означая, что
 
-new
+новый
 
-between the tank and sender,
+между резервуаром и отправителем,
 
-housings trom the side of the air chamber. Recover the sealing rings.
+корпуса со стороны воздушной камеры. Восстановите уплотнительные кольца.
 
-1982 through 1984 700/750 Magna models and
+Модели 700/750 Magna с 1982 по 1984 год и
 
-3Installation
-is a reverse of removal, noting thet the sealing
-rings must
+3Установкаэто операция, обратная снятию, с учетом уплотнения
+кольца должны
 
-all 1100 Magna models
+все модели 1100 Magna
 
-be replaced if damaged
+быть заменен в случае повреждения
 
 4
 5
 
-1983 through 1985 700/750 Sabre and 1982
-through 1986 700/750 Magna models
+С 1983 по 1985 год 700/750 Sabre и 1982 год.
+модели 700/750 Magna до 1986 г.
 4
 
-Remove the seat and left side cover (see Chapter
+Снимите сиденье и левую боковую крышку (см. главу
 6)
-Drain all fuel from the main fuel tank and half of the auxiliary tank
+Слейте все топливо из основного топливного бака и половины вспомогательного бака.
 
-into @ container
+в @контейнер
 
-sutable for the storage of gasoline (petrol)
+подходит для хранения бензина (бензина)
 
-6 The senderis set in the top
+6 Отправитель установлен в верхней части
 
-of the auxilary fuel tank. Disconnect its
+дополнительного топливного бака. Отключите его
 
-wires and unscrew the sender
+провода и откручиваем отправитель
 
-Remove the air fiter element as described in Chapter 1
+Снимите элемент воздушного фильтра, как описано в главе 1.
 
-5 On Magna models, remove the single screw and collar from the top
+5 На моделях Magna снимите один винт и хомут сверху.
 
-from the tank.
+из танка.
 
-Plug the tank opening
+Заткнуть отверстие бака
 
-while the sender is removed
+пока отправитель удален
 
-rear of the housing and loosen the screw clamp which secures the
+задней части корпуса и ослабьте винтовой зажим, фиксирующий
 
-T Installation is 2
+Т Установка 2
 
-housing to the carburetor air chamber. On Sabre models, remove the
-three screws which retain the housing to the air chamber.
+Корпус к воздушной камере карбюратора. На моделях Sabre снимите
+три винта, которые крепят корпус к воздушной камере.
 
-sealing ring should be installed between the tank and sender unit
+Между баком и датчиком необходимо установить уплотнительное кольцо.
 
-6 Pull the crankcase breather hose off the back of the housing and lit
-the housing up and off the motorcycle
-7 Before installing the housing,
+6 Отсоедините шланг вентиляции картера от задней части корпуса и зажгите
+корпус поднят и снят с мотоцикла
+7 Перед установкой корпуса
 
-release its clip and pull
+отпустите зажим и потяните
 
-off the stub on the base of the housing.
+от заглушки в основании корпуса.
 
-Empty
+Пустой
 
-8 On Magna models, inspect the condition of the flexible hose
+8 На моделях Magna проверьте состояние гибкого шланга.
 
-between
+между
 
-deteriorated,
+ухудшился,
 
-Ensure that the housing front
+Убедитесь, что передняя часть корпуса
 
-General information
-to dustration 16.1
-Refer
-1 The crankcase
+Общая информация
+к пылированию 16.1
+Обратитесь
+1 Картер
 
-from crankcase
+из картера
 
-end engages the air duct correctly,
+конец правильно входит в воздуховод,
 
-tank,
+танк,
 
-Remove the air fiter element as described in Chapter 1
+Снимите элемент воздушного фильтра, как описано в главе 1.
 
-11 Remove the air chamber side covers (single screvr
+11 Снимите боковые крышки воздушной камеры (одинарный винт).
 
-at lower edos)
+в нижнем эдосе)
 
-and the screws which secure the air chambers to the air fiter
+и винты, которыми воздушные камеры крепятся к воздухопроводу.
 
-hi
+привет
 
-may need to move the thermostet (night side) and air it
-remove the
+возможно придется переместить термостат (ночная сторона) и проветрить его
+удалить
 
-ed into the carburetors for rebuming (see illustration)
-2 Over
-a period oftime, sludge may build up in the separator
-tank and
-hoses to the extent that they become clogged.
+вводится в карбюраторы для прокачки (см. рисунок)
+2 больше
+в течение определенного периода времени в сепараторе может накапливаться осадок.
+танк и
+шланги до такой степени, что они засоряются.
 
-six screws
+шесть винтов
 
-3 Certain models have
-Separator
+3 Некоторые модели имеют
+Сепаратор
 
-13 Pull the crankcase breather hose off the back of the housing and lif
+13 Снимите шланг вентиляции картера с задней части картера и поднимите его.
 
-maintenance
+техническое обслуживание
 
-itup and of the motorcycle,
-14 Before installing the housing, release its clip and pull the drain tube
-housing. Empty
-the tube and housing of
+itup и мотоцикл,
+14 Перед установкой корпуса освободите его зажим и потяните сливную трубку.
+жилье. Пустой
+трубка и корпус
 
-any sludge
-and reft
-the tube and clip
+любой осадок
+и снова
+трубка и зажим
 
-through a hose to the separator
+через шланг к сепаратору
 
-and from there through another hose up to the air fiter housing
-rom there, the gases combine with fresh air and are
+а оттуда через другой шланг до корпуса воздушного фильтра
+Отсюда газы соединяются со свежим воздухом и
 
-which retain the housing
-to the air chamber on the carburetors
+которые сохраняют жилье
+в воздушную камеру карбюратора
 
-off the stub on the base of the
+от заглушки на основании
 
-prevents the discharge of hydrocarbons
+предотвращает выброс углеводородов
 
-Rough idling or @
+Неровный холостой ход или @
 
-reduced engine speed at idle are indications of this condition
+снижение частоты вращения двигателя на холостом ходу является признаком этого состояния.
 
-Control valve assembly (left side)
-to gain access to the s.
-12 Working from the top ofthe air fiter housing,
+Узел регулирующего клапана (левая сторона)
+чтобы получить доступ к s.
+12. Работая сверху корпуса воздушного фильтра,
 
-breather
+передышка
 
-vapor into the atmosphere. Gases are sucked out of
+пар в атмосферу. Газы высасываются из
 
-the crankcase via engine vacuum,
+картер через вакуум двигателя,
 
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna 1987 и 1988 годов.
 
-you
+ты
 
-‘components check
+'проверка компонентов
 
-the tube and housing of
+трубка и корпус
 
-the air chamber
-and fiter housing; replace itf spit or
+воздушная камера
+и приспособление для жилья; замените итф косу или
 
 10
 
-46 Crankcase breather - general information and system
+46 Сапун картера – общие сведения и система
 
-the drain tube
+дренажная трубка
 
-any sludge and refit the tube and cip.
+любой осадок и установите трубку и сип на место.
 
-9 Installation is the reverse of removal,
+9 Установка производится в порядке, обратном снятию.
 
-reverse of the removal procedure, noting that a new
+процедуру удаления, обратную процедуре удаления, отметив, что новый
 
-tank
+танк
 
-which
+который
 
-a drain tube or catch tank linked
+сливная трубка или сборный резервуар соединены
 
-has
+имеет
 
-to
+чтобы
 
-be
+быть
 
-emptied
+опустошен
 
-to the
+к
 
-in accordance with the
+в соответствии с
 
-schedule
-(see Chapter
-1), but on others, the system will
+график(см. главу
+1), но на других система будет
 
-have to be disassembled and cleaned out ifa blockage is suspected.
+необходимо разобрать и прочистить, если есть подозрение на засорение.
 
-‘System components check
-Refer
+«Проверка компонентов системы
+Обратитесь
 
-o
+о
 
-austraton 166
-check for proper
+австратон 166
+проверьте правильность
 
-cuum in the system,
+скуум в системе,
 
-disconnect
-the rubber
+отключиться
+резина
 
-Chapter4
+Глава 4
 
-Fuel and exhaust systems
+Топливная и выхлопная системы
 
 4-19
 
-AIR CLEANER
+ВОЗДУХООЧИСТИТЕЛЬ
 
-<< :FresH ain
+<< :FresH есть
 —
 
-:dlowsy cas
+:dlowsy кас
 
-SREATHER
+СРЕЗЕР
 
-SEPARATOR
+СЕПАРАТОР
 
-through with o
-racked h
+через о
+ломал ч
 
 47
 
-Evaporative emission control system (1984-on
-California models) - general information
+Система контроля выбросов в результате испарения (с 1984 г. по
+Модели для Калифорнии) – общая информация
 
-RB) requirements
+РБ) требования
 
-16.6 Crankease
-separator
-tankedie
-(arrow)done
-will be found in the
-aia breather
-ea: reelrea
-tales
+16.6 Кренкез
+сепаратор
+танкеди
+(стрелка) готово
+будет найден в
+айа передышка
+еа: реилреа
+сказки
 
-as
+как
 
-c
+с
 
-a
+а
 
-‘
+'
 
-ba tried ened
+ба попробовал
 
-ors are routed
+или направлены
 
-oh etiog
-wile the engine is stopped,
+ох этиог
+когда двигатель остановлен,
 
-ina carbon canister (see
+в канистре с углем (см.
 
-Chapter4
+Глава 4
 
-Fuel and exhaust systems
+Топливная и выхлопная системы
 
-| Fades tocreN ie
-iS)
+| Затухает токреN т.е.
+это)
 
-17.1b Evapora
-emissiontive
-control
+17.1b Испарителя
+излучающий
+контроль
 
-‘system
+'система
 -1100
-Sabres and
+Сабли и
 
-‘atone
+'искупить
 
 @)
 
-oe
+ой
 
-3 Purge contol vake
+3 Ваке управления продувкой
 4
 
-C
+С
 
 |
 
-Arvent contol valve
+Регулирующий клапан Арвент
 
-EACH
-CARBURETOR’
+КАЖДЫЙ
+КАРБЮРАТОР’
 
 4.28201
 
-AR
-TO OPEN
+АР
+ОТКРЫТЬ
 
 ®
 
-=i
+= я
 =
 
 ©
 
 428229
 
-‘17-1c Evaporative emission control and secondary air supply systems -1986 700
-Magna
+'17-1c Системы контроля выбросов в результате испарения и подачи вторичного воздуха -1986 700
+Магна
 
-Fseitank
-Canister
-AOA
+Фсейтанк
+Канистра
+АОА
 
-Purge contol vate
+Контрольный клапан продувки
 
-Air vent contol valve
+Регулирующий клапан воздухоотводчика
 
-Ar
+Ар
 
-injection control vave
+клапан управления впрыском
 
-wr suction valve
-Ar
+всасывающий клапан
+Ар
 
-fiter housing
+приспособление корпуса
 
-Reed valves (rear oylinders)
+Пластинчатые клапаны (задние маслосъемные колпачки)
 
-4 Fuel and exhaust systems
-Chapter
+4 Топливная и выхлопная системы
+Глава
 
 421
 
-‘17.1d Evaporative emission
+‘17.1d Выбросы в результате испарения
 
-‘control and secondary air
+'контроль и вторичный воздух
 
-‘supply systems - 1987 and
-1988 700/760 Magnas
+'системы снабжения - 1987 г. и
+1988 700/760 Магнас
 
-Fil tank
+Фильтр-бак
 
-Canister
-Purge controlvaive
+Канистра
+Контроль продувки
 
-Nooaona
+Нооаона
 
-vai
-Airventcontol
-‘Air ingecton contol valve
+вай
+Контроль вентиляции
+‘Клапан управления подачей воздуха
 
-2 The air vent control valve (fitted to all 1100 Sabre models and al
+2 Регулирующий клапан воздухоотводчика (устанавливается на все модели 1100 Sabre и другие модели).
 
-1986-0n Magna models) routes vapor from the carburetor float
-chambers to the canister. The stored fuel vapor is drawn from the
-canister when the engine is started and the purge valve opens to allow
-vapor to pass to the carburetors
+Модели Magna 1986-0n) отводит пары из поплавка карбюратора.
+камеры в канистру. Хранящиеся пары топлива отбираются из
+канистры, когда двигатель запускается и продувочный клапан открывается, чтобы позволить
+пар подается в карбюраторы
 
-2 The system hoses and canister should be checked for cracks and
+2 Системные шланги и канистру следует проверить на наличие трещин и
 
-damage in accordance wth the maintenance schedule (see Chapter
-1} Apart from the inspection and replacement of hoses, if the system
+повреждений в соответствии с графиком технического обслуживания (см. главу
+1} Помимо проверки и замены шлангов, если система
 
-is suspected of failure it must be tested by a Honda dealer. If the
-motorcycle is dificult to re-start when hot, t is lkely that the purge
-control vaive is at fault
+есть подозрение на неисправность, его необходимо проверить у дилера Honda. Если
+мотоцикл трудно перезапустить, когда он горячий, скорее всего, продувка
+виноват контроллер Vaive
 
-4 The canister is mounted on the lower frame tube brace at the front of
-the motorcycle (on 1987 and 1988 700/750 Magnas, remove the belly
-fainng for access). The purge control valve is mounted on a bracket on
-the left side of the cylinder head; removal of the front left side cover or
-ar chamber side cover wil be necessary on certain models for access
-to the valve. The air vert control valve is located above the carburetors
-and can be accessed atter removal of the main fuel tank,
+4 Канистра установлена на нижней трубчатой распорке рамы в передней части
+мотоцикл (на 700/750 Magnas 1987 и 1988 годов нужно убрать брюхо
+жажду доступа). Клапан управления продувкой установлен на кронштейне на
+левая сторона головки блока цилиндров; снятие передней левой боковой крышки или
+На некоторых моделях для доступа потребуется боковая крышка камеры.
+к клапану. Клапан управления подачей воздуха расположен над карбюраторами.
+Доступ к нему возможен после снятия основного топливного бака,
 
-5 Details of the vacuum hose connections are aiven on a label stuck to
+5 Подробная информация о соединениях вакуумного шланга указана на этикетке, приклеенной к
 
-the inside of either side cover or on the rear fender. All hoses should
-camry a label containing
+внутри боковой крышки или на заднем крыле. Все шланги должны
+camry этикетка, содержащая
 
-their number reference,
+их номер,
 
-but if not, tag them
+но если нет, отметьте их
 
-carefully when disconnecting
+осторожно при отключении
 
-6 Information relating to emission control is provided on a label stuck to
+6 Информация, касающаяся контроля выбросов, указана на этикетке, прикрепленной к
 
-the right side lower frame tube on models through 1986 or to the night
-‘side upper frame tube on models from 1987-on.
+правая нижняя труба рамы на моделях до 1986 года или до ночи
+'Боковая верхняя труба рамы на моделях начиная с 1987 года.
 
-48 Secondary air supply system (1986-on 700/750
-Californiamodels)- general information
-1 This system introduces fresh airinto the exhaust ports to promote the
-buming of any excess fuel present in the exhaust gases, resutting in
-reduction in the amount of harmful hydrocarbons released into the
-eimosphere (see illustrations 17.1¢ and 17.14).
-2 The system is not adjustable and can be tested only by a Honda
-Gealer. Routine checks which can be performed by the owner are given
-in Chapter 1
+48 Система подачи вторичного воздуха (1986-на 700/750
+Калифорниямодели) - общая информация
+1 Эта система подает свежий воздух в выхлопные отверстия, чтобы способствоватьсжигание любого излишка топлива, присутствующего в выхлопных газах, что приводит к
+снижение количества вредных углеводородов, выбрасываемых в
+эимосфера (см. иллюстрации 17.1¢ и 17.14).
+2 Система не регулируется и может быть проверена только автомобилем Honda.
+Гилер. Приведены плановые проверки, которые может выполнять владелец.
+в главе 1
 
-System components -1986 mode!
+Компоненты системы - режим 1986 года!
 
-23 The air injection control valve is mounted on the left side ofthe front
-cxlinder bank, just below the fuel system purge control valve. The air
-suction valve 's mounted on the front of the oil pan, to the rear of the
-fuel system canister
+23 Клапан управления впрыском воздуха установлен с левой стороны передней части.
+Банк cxlinder, чуть ниже клапана управления продувкой топливной системы. Воздух
+всасывающий клапан установлен на передней части масляного поддона, сзади
+канистра топливной системы
 
-4 When the engine is running,
+4 Когда двигатель работает,
 
-the depression present in the intake
+депрессия присутствует во впуске
 
-duct acts on the vacuum dieptiragm in the air injection cortrol valve
-and opens up the vate.
+Воздуховод действует на вакуумную диептирагму в клапане управления впрыском воздуха.
+и открывает вату.
 
-5 With the valve open, whenever there is @ negative pulse in the
-exhaust system (ie on the overrun), fitered air is drawn from the air
-fiter housing through the air injection control valve and into the exhaust
-ports of the reer cinders. The same system applies for the front
-cylinders, but the fitered air is drawn through the air injection control
-valve and the air suction valve before reacting the exhaust ports
+5 При открытом клапане, при наличии @ отрицательного импульса в
+выхлопная система (т.е. на перерасходе), приточный воздух забирается из воздуха
+корпус фитинга через клапан управления впрыском воздуха в выхлопную систему
+порты речных пеплов. Та же система применяется и для передней части.
+цилиндры, но очищенный воздух всасывается через регулятор впрыска воздуха.
+клапан и клапан всасывания воздуха перед реакцией на выпускные отверстия
 
 4-22
 
-Chapter
-4 Fuel and exhaust systems
+Глава
+4 Топливная и выхлопная системы
 
-19.3 Exhaust system - early fournto-two design
+19.3 Выхлопная система — ранняя конструкция «четыре-два»
 
-6 The air suction valve is fitted with a pair of one-way check vaNves
-to prevent the exhaust gases passing from the front cylinders
-through both valves and into the air filter housing. Reed valves
-mounted on the side of the rear cylinders prevent gases from the
-rear cylinders passing through the air injection control valve and
-into the air filter housing.
+6 Клапан всасывания воздуха оснащен парой односторонних обратных клапанов.
+для предотвращения выхода выхлопных газов из передних цилиндров
+через оба клапана в корпус воздушного фильтра. Пластинчатые клапаны
+Установленные сбоку задних цилиндров предотвращают попадание газов в
+задние цилиндры, проходящие через клапан управления впрыском воздуха и
+в корпус воздушного фильтра.
 
-‘System components - 1987 and 1988 modeis
-7 The air injection control valve is housed in the left side air
-chamber; remove the air chamber side cover for access. The air
-suction valve which supplies the front cylinders is mounted on the
-front of the oll pan, just behind the fuel system canister: the belly
-fairing will require removal for access. The air suction control valve
-for the rear cylinders is mounted below the coolant reservoir tank.
-8 When the engine is running, the depression present in the intake
-duct acts on the vacuum diaphragm in the air injection contro!
-valve and opens up the valve.
+«Компоненты системы — режимы 1987 и 1988 годов».
+7 Клапан управления впрыском воздуха расположен в левой части воздушного
+камера; для доступа снимите боковую крышку воздушной камеры. Воздух
+Всасывающий клапан, питающий передние цилиндры, установлен на
+перед поддоном, сразу за канистрой топливной системы: живот
+для доступа к обтекателю потребуется снять его. Клапан управления всасыванием воздуха
+для задних цилиндров установлен под бачком охлаждающей жидкости.
+8 При работающем двигателе разрежение, присутствующее во впуске
+воздуховод действует на вакуумную диафрагму в системе управления впрыском воздуха!
+клапан и открывает клапан.
 
-9 With the valve open, whenever there is a negative pulse in the
-‘exhaust system (le on the overrun), fitered air is drawn from the air
-filter housing through the air injection control valve and air suction
-valves and into the exhaust ports.
-10 The air suction valves are fitted with a pair of reed valves to
+9 При открытом клапане при появлении отрицательного импульса в
+'выхлопная система (слева на перерасходе), фильтрованный воздух забирается из воздуха
+корпус фильтра через клапан управления впрыском воздуха и всасыванием воздуха
+клапаны и в выпускные отверстия.
+10 Клапаны всасывания воздуха оснащены парой лепестковых клапанов для
 
-prevent the exhaust gases passing from the cylinders through both
-valves and into the air fier housing.
+предотвращают прохождение выхлопных газов из цилиндров через оба
+клапаны и в корпус воздушного фильтра.
 
-419 Exhaust system -removal and installation
+419 Выхлопная система –снятие и установка
 
-1982 through 1986 700/750 models and all 1100
-models
-Refer fo iltustrations 19.3,
+Модели 700/750 и все 1100 с 1982 по 1986 год.
+модели
+См. иллюстрации 19.3,
 
-19.98, 19.96 and 19.11
+19.98, 19.96 и 19.11
 
-Mufflers (silencers)
+Глушители (глушители)
 1__
 
-Place the motorcycle on its main stand.
+Установите мотоцикл на основную подставку.
 
-2 Remove the trim panel (where fitted) from the muffler-to-exhaust
-system joint. Loosen fully the clamp which retains this joint.
-3 Remove the muffler mounting nut and bolt from the passenger
-footpeg bracket, making careful note of the position of all washers,
-spacers and damping rubbers.
+2 Снимите декоративную панель (если она установлена) с соединения глушителя с выхлопной системой.
+системный стык. Полностью ослабьте хомут, удерживающий это соединение.
+3 Снимите гайку и болт крепления глушителя со стороны пассажира.
+кронштейн подножки, внимательно запомнив положение всех шайб,
+проставки и демпфирующие резинки.
 
-Pull
+Тянутьглушитель назад, поворачивая
 
-the muffler rearwards, twisting
+из стороны в сторону, чтобы освободить его от шарнирного зажима. Из-за
+Прокладки соединений плотно прилегают (см. рисунок).
 
-it from side-to-side to help release it from its joint clamp. Due to
-the joint gaskets, the fits tight (see illustration).
+4 Установка осуществляется в порядке, обратном процедуре снятия, при этом следует учитывать, что
+новые прокладки должны
 
-4 Installation is the reverse of the removal procedure, noting that
-new gaskets must
+быть
 
-be
+используется во всех суставах.
 
-used at all joints.
+Затяните все крепления
 
-Tighten all fasteners
+сначала свободно, а затем, когда система окажется в правильном положении,
+закрепите их указанным моментом затяжки (см. Технические характеристики),
 
-loosely at first, and then when the system is in its correct position,
-secure them to the specified torque (see Specifications),
+Полная система
+5 __ Установите мотоцикл на основную подставку.
+6 Снимите бот крепления глушителя (глушителя) с каждой стороны и
 
-Complete system
-5 __ Place the motorcycle on its main stand.
-6 Remove the muffier (silencer) mounting bot on each side and
+поместите деревянный брусок под
 
-place @ wood block under
+тот
 
-the
+сборку, чтобы выдержать ее вес и
 
-assembly to take its weight and
+предотвратить напряжение при отпускании основных креплений выхлопной системы.
 
-prevent strain while the main exhaust fasteners are released.
+7 Отверните гайки, удерживающие выхлопные трубы в переднем положении.
 
-7 Remove the nuts that retain the exhaust pipes to the front
+головка блока цилиндров.
 
-cylinder head.
+8 Полностью ослабьте хомуты, которыми вытяжная камера крепится к
+две задние выхлопные трубы.
+'9 На моделях 700/750 снимите два крепления выхлопной камеры.
+болты (один расположен с левой стороны двигателя, другой
+расположен
 
-8 Loosen fully the clamps that secure the exhaust chamber to the
-two rear exhaust headpipes.
-‘9 On 700/750 models remove the two exhaust chamber mounting
-bolts (one is located on the left side of the engine and one is
-located
+обезвредить двигатель)
 
-undemeath the engine)
-
-(see illustrations). On
+(см. иллюстрации). Вкл.
 
 1100
 
-models the chamber is held by a single long bot! on the left side
+модели камера удерживается одним длинным ботом! на левой стороне
 
-of the engine (remove the rear left engine cover for access).
-10 Carefully work the rear cylinder pipes out of the chamber stubs
-and lower the complete exhaust system clear of the motorcycle.
-Note that the rear cylinder pipe clamps may need to be rotated to
+двигателя (для доступа снимите заднюю левую крышку двигателя).
+10 Осторожно вытащите задние трубки цилиндра из патрубков камеры.
+и опустите всю выхлопную систему с мотоцикла.
+Обратите внимание, что хомуты труб заднего цилиндра, возможно, придется повернуть в
 
-clear the swingarm.
-11 On all models except the 1985 and 1986 700 Magnas, the rear
-cylinder headpipes can be removed after removing the
+очистить маятник.
+11 На всех моделях, кроме 700 Magnas 1985 и 1986 годов, задняя часть
+головки цилиндров можно снять после снятия
 
-exhaust
+выхлоп
 
-system. First remove the screws that attach the heat shield to
-both headpipes, then remove the nuts that attach the pipes to the
+система. Сначала открутите винты, которые крепят теплозащитный экран к
+обе насадки, затем открутите гайки, которые крепят трубки к
 
-rear cylinder head bank. Carefully work each pipe up and out the
-side of the motorcycle (see illustration). Due to lack of
-19.9a Exhaust chamber bolts are located on left side of engine
+задний блок ГБЦ. Осторожно поднимите и вытащите каждую трубку.
+сторону мотоцикла (см. рисунок). Из-за отсутствия
+19.9a Болты выпускной камеры расположены с левой стороны двигателя.
 
-clearance,
+разрешение,
 
-the
+тот
 
-heat
+тепло
 
-shield
+щит
 
-cannot
+не могу
 
-removing other components. On 1985
+удаление других компонентов. В 1985 году
 
-be
+быть
 
-removed without
+удалено без
 
-first
+первый
 
-Chapter4
+Глава 4
 
-Fuel and exhaust systems
+Топливная и выхлопная системы
 
-19.11 Rear cylinder header pipes can be maneuvered out of
-frame after exhaust system has been removed
+19.11 Задние трубки коллектора цилиндра можно вытащить из
+рама после снятия выхлопной системы
 
-REAR HEADPIPES
+ЗАДНИЕ НАСАДКИ
 
-the rear cylinder neadoi
-412 Installation is the reverse of
+задний цилиндр неадои
+412 Установка производится в обратном порядке.
 
-the
+тот
 
-Tighten all
-ts must be used atall joints.
-first, and then when the system is in its correct
-p
-(see
-ified
-torque
-the spec
+Затяните все
+Его необходимо использовать на всех суставах.
+сначала, а затем, когда система находится в правильном состоянии
+п
+(см.
+определен
+крутящий момент
+спецификация
 
-1987 and 1988 700/750 Magna models
-Refer to ilustration 19.
+Модели 700/750 Magna 1987 и 1988 годов.
+См. рисунок 19.
 
-sure that the moto
-he belly fairing
+уверен, что мото
+он обтекатель живота
 
-re
+ре
 
-3k under the
+3к под
 
-16 Loosen fully the
+16 Полностью ослабьте
 
-clamps that se
+зажимы, которые
 
-two rear cyinder exhaust headpip.
+выхлопная насадка с двумя задними цилиндрами.
 
-stubs
+заглушки
 
-off the
+с
 
-417 If required, the
+417 При необходимости
 
-the connecting
+соединяющий
 
-and
+и
 
-pipes
+трубы
 
-ilustration).
+иллюстрации).
 
-lower
+ниже
 
-right and left side mutfiers can be separated
+правые и левые глушители могут быть разделены
 
-pipe clamp bot has been fully
+бот с зажимом для труб был полностью
 
-pulled apart
-18 Installation is the
+разорванный на части
+18 Установка – это
 
-HEADPIPES
+НАПРАВЛЕНИЯ
 
-ater
+после
 
 428218
 
 ;
 
-reverst
+повернуть вспять
 
-19.16 Exhaust system -four-into-four
-design
+19.16 Выхлопная система-четыре-четыре
+дизайн
 
 19.
 
 20.
 
-Ensure
+Обеспечить
 
-ater the
-the right and lett side muttlers can be separated
+после
+правую и левую сторону муттеров можно разделить
 
-bellyfainns
-Remove the
+Беллифаинны
+Удалите
 
-21 Remove the muller (si
-'@ wood block
+21 Снимите мюллер (si
+'@ деревянный блок
 
-prevent strain while the main exhaus
-22 Remove the nuts that retain the exhaust pi
+предотвратить напряжение во время основного выхлопа
+22 Снимите гайки, удерживающие выпускной трубопровод.
 
-o
+о
 
 20
 
 25
-A
+А
 
-pipe clamp b
+хомут б
 
-Engine removal wil
-from the
+Снятие двигателя будет
+из
 
-d by a heat
+г от жары
 
-are
+являются
 
-the pipes
+трубы
 
-dure,
+время,
 
-clamp:
+зажим:
 
-d at all joints, Tighten
+d на всех соединениях, затянуть
 
-to the mutters and car
+к бормотанию и машине
 
-lower
-the
-complete exhaust system
-clear
-of
-the mot
+ниже
+тот
+полная выхлопная система
+ясно
+из
+мотнеобходимо снять задний цилиндр
 
-be necessary to remove the rear cylinder
+шлаковая голова,
+голова от Ню
 
-cinder head,
-the head by nu
+голова
 
-head
+23 Полностью ослабьте
 
-23 Loosen fully the
+это было полностью ослаблено
+и
+тот
+сустав вытянут
 
-thas been fully loosened
-and
-the
-joint pulled
+рек
 
-rque
+все
 
-all
+1 система
 
-1 system
-
-is in &s correct position,
+находится в &s правильном положении,
 
 (5%
 
-fications,
+фикации,
 
-nating
+спаривание
 
-that new
+этот новый
 
-fasteners loosé
-secure
-t!
-
-
+крепления ослабли
+безопасный
+т!

@@ -1,129 +1,129 @@
-CYLINDER HEAD COVER
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
 
-FRONT CYLINDER HEAD
+ПЕРЕДНЯЯ ГОЛОВКА ЦИЛИНДРА
 
-CONTENTS
-TITLE
+СОДЕРЖАНИЕ
+НАЗВАНИЕ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
-CAM CHAIN ...............
+ГЕНЕРАТОР .............
+КУЛАЧКОВАЯ ЦЕПЬ..........
 
-CAMSHAFT ...............
-CARBURETOR ASSY........
-CARBURETOR COMPONENT
-CARBURETOR LINK ........
-CLUTCH .. 0.0.0... cece.
-CRANKCASE COVER,
-L.
-CRANKCASE COVER, R.....
-CRANKSHAFT .............
-CROSS SHAFT ............
-CYLINDER BLOCK .........
-CYLINDER HEAD COVER
-CYLINDER HEAD, FR.......
-CYLINDER HEAD, AR ......
-GASKET KITA......00000..
-GASKET KITB.............
-GEARSHIFT DRUM .........
-OIL FILTER 2.0.00.
-OIL PAN . 2.20.00...
-OIL PUMP 2.000.000...
-PISTON .2 00000 eee
-ee
-PULSE ALTERNATOR ......
-STARTER CLUTCH .......
-STARTER MOTOR .........
+РАСПРЕДВАЛ..........
+КАРБЮРАТОР В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА........
+СЦЕПЛЕНИЕ.. 0.0.0... так.
+КРЫШКА КАРТЕРА,
+Л.
+КРЫШКА КАРТЕРА, П.....
+КОЛЕНВАЛ............
+КРЕСТОВОЙ ВАЛ............
+БЛОК ЦИЛИНДРОВ.......
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
+ГОЛОВКА ЦИЛИНДРА, ПТ.......
+ГОЛОВКА ЦИЛИНДРА, АР ......
+КОМПЛЕКТ ПРОКЛАДОК......00000..
+КОМПЛЕКТ ПРОКЛАДОК.............
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ.......
+МАСЛЯНЫЙ ФИЛЬТР 2.0.00.
+МАСЛЯНЫЙ ПОДДОН. 2.20.00...
+МАСЛЯНЫЙ НАСОС 2.000.000...
+ПОРШЕНЬ .2 00000 еее
+эээ
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ......
+СТАРТЕРНАЯ МУФТА.......
+СТАРТЕР МОТОР.......
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-v
+в
 
 .
 
 E14MBO0E01
 
-v
+в
 
-A
+А
 
 0.
 
 0
 
-A
+А
 
 4
-E-1/4
+Е-1/4
 
 8
 5
 
-Cc
-S
+Копия
+С
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-ss
+сс
 
 .
 
-4 = VF7009'84
+4 = ВФ7009'84
 
-7.7(R
-O
+7,7(Р
+О
 Of¢E
 
-v | V
+в | В
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-Q
+вопрос
 
 E14MS0E02
 
-7171R
+7171Р
 
-O:'O0]fe
+О:'O0]fe
 
-T
+Т
 
-Y
+Да
 
-s's
+s
 
-ENGINE
-SERIAL NUMBER
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
 
-R
+Р
 
 8/8 6
 &2/4
 5/90]
 
-FROM
+ОТ
 
-Q
+вопрос
 
-1 COVER A, CYLINDER HEAD ......000. 4 | 5
-2 COVER B, CYLINDER HEAD ..... eenee dl &
+1 КРЫШКА А, ГОЛОВКА ЦИЛИНДРА ......000. 4 | 5
+2 КРЫШКА B, ГОЛОВКА ЦИЛИНДРА ..... eenee dl &
 
 5
 
-Ret.
+В отставке.
 
-BLOCK NO.
+БЛОК №.
 
-HONDA
+ХОНДА
 
-Ret
+Рет
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-No.
+Нет.
 
 1
 
@@ -145,9 +145,9 @@ No.
 
 1241009
 
-4& GASKET, HEAD COVER ......cceceece 4 : 5
+4& ПРОКЛАДКА, КРЫШКА ГОЛОВКИ ......ccececece 4 : 5
 
-HEAD COMP., FR. CYLINDER .....00.
+ГОЛОВНОЙ КОМП., фр. ЦИЛИНДР .....00.
 
 3
 
@@ -155,9 +155,9 @@ HEAD COMP., FR. CYLINDER .....00.
 
 1241017
 
-HEAD COMP., FR. CYLINDER ..cccee 01455
+ГОЛОВНОЙ КОМП., фр. ЦИЛИНДР ..cccee 01455
 
-GASKET, HEAD COVER .....cesecese. | 4
+ПРОКЛАДКА, КРЫШКА ГОЛОВКИ .....cesecese. | 4
 
 5
 
@@ -167,11 +167,11 @@ GASKET, HEAD COVER .....cesecese. | 4
 
 2094035
 
-HEAD COMP., FR. CYLINDER ....cec.
+ГОЛОВНОЙ КОМП., фр. ЦИЛИНДР ....cec.
 
 4
 
-5 BOLT, SPECIAL, 6X29 ....... neseas
+5 БОЛТ СПЕЦИАЛЬНЫЙ, 6X29 ....... новый
 
 4 | 5
 
@@ -181,9 +181,9 @@ HEAD COMP., FR. CYLINDER ....cec.
 
 1243427
 
-HEAD COMP... FR. CYLINDER ....0...1 4
+ГОЛОВНОЙ КОМП... ФРАНЦ. ЦИЛИНДР ....0...1 4
 
-7 RUBBER, MOUNTING .....ccecnce wee
+7 РЕЗИНА, КРЕПЛЕНИЕ .....подробнее
 
 [4
 
@@ -193,30 +193,30 @@ HEAD COMP... FR. CYLINDER ....0...1 4
 
 1243708
 
-No.
+Нет.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-3 BASE, HEAD COVER .....cscecscscee
+3 ОСНОВАНИЕ, КРЫШКА ГОЛОВКИ .....cscecssccee
 
-4°5]/E]
+4°5]/Е]
 
 5
 
-TO
+ТО
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
 4'5|€&]
 
-R
-a
+Р
+а
 
-FROM
+ОТ
 
-Q
+вопрос
 
 8 | 12204-4B0-405
 
@@ -226,7 +226,7 @@ Q
 
 1
 
-112210-"B0-771
+112210-"Б0-771
 
 1724277
 
@@ -256,7 +256,7 @@ Q
 
 2246726
 
-HOLDER A, CAMSHAFT .ancccsecces 14/5
+ДЕРЖАТЕЛЬ A, РАСПРЕДВАЛ .anccccecces 14/5
 
 2
 
@@ -264,7 +264,7 @@ HOLDER A, CAMSHAFT .ancccsecces 14/5
 
 1853480
 
-HOLDER A, CAMSHAFT .sesccceseeeee| 4:
+ДЕРЖАТЕЛЬ A, РАСПРЕДВАЛ .sesccceseeeeee| 4:
 
 5
 
@@ -274,7 +274,7 @@ HOLDER A, CAMSHAFT .sesccceseeeee| 4:
 
 2001485
 
-—“—
+—»—
 
 2
 
@@ -282,7 +282,7 @@ HOLDER A, CAMSHAFT .sesccceseeeee| 4:
 
 1455849
 
-4 is
+4 это
 
 2
 
@@ -292,7 +292,7 @@ HOLDER A, CAMSHAFT .sesccceseeeee| 4:
 
 2
 
-112212: mB0-773
+112212: мБ0-773
 
 2016830
 
@@ -303,25 +303,25 @@ HOLDER A, CAMSHAFT .sesccceseeeee| 4:
 1260951
 1240951
 
-HOLDER B, CAMSHAFT ..scsececeseee] 6:5
-5 PiPE A, SLL PATH .osccuvecesecsen|
+ДЕРЖАТЕЛЬ B, РАСПРЕДВАЛ ..scsececee] 6:5
+5 PiPE A, SLL ПУТЬ .osccuvecesecsen|
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E~2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-£M000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
-VF700S'84 FRAME NO. 3 RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-£M000007 К EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
+VF700S'84 № РАМЫ. 3 RC221-EM000006 К EM001081
 
-Bt
+БТ
 
-VF700S"85 ENGINE NO.3 RC22E-2100001 TO 2 103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF7O0S'85 ENGINE NO.3 RC22E-2100001 16 2103285
-VF700S'85 FRAME NO. RC221-FM100001 TU FM100863
+VF700S"85 ДВИГАТЕЛЬ №3 RC22E-2100001 ДО 2 103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+VF7O0S'85 ДВИГАТЕЛЬ № 3 RC22E-2100001 16 2103285
+VF700S'85 НОМЕР РАМЫ. RC221-FM100001 ТУ FM100863
 
-4 ime]
-i 5]
+4 раза]
+я 5]
 
 :
 
@@ -331,92 +331,91 @@ VIVE
 
 oe ces c eee eeeevaee
 
-GRID
+СЕТКА
 
-Bt
+БТ
 
-HONDA
+ХОНДА
 
-2 HEAD COMP., FR. CYLINDER ....000.1
+2 ГОЛОВНОЙ КОМП., FR. ЦИЛИНДР ....000.1
 
-HOLDER B, CAMSHAFT .anseccuvenaeal
+ДЕРЖАТЕЛЬ B РАСПРЕДЕЛИТЕЛЬНОГО ВАЛА .anseccuvenaeal
 
 2
 
-TO
+ТО
 
-1 GUIDE, EX. VALVE ..ccccces woceene 4/5
+1 ГИД, УП. КЛАПАН ..ccccces woceene 4/5
 
 4
 
-BS
+БС
 
-40 C8
+40 С8
 
-Y
+Да
 
-ENGINE
-SERIAL NUMBER
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
 
-CODE
+КОД
 
-4 HOLDER B, CAMSHAFT eearer eevee nuave
+4 ДЕРЖАТЕЛЬ B РАСПРЕДВАЛА eearer eevee nuave
 
 10
 
-THERMOSTAT .............
+ТЕРМОСТАТ .............
 
-T
+Т
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
 4
 
-TENSIONER ...............
+НАТЯЖИТЕЛЬ ..............
 
-C3
-C9
-C1
-Bi
-BI
-BS
-D1
-D1
-C7
-B11
-B11
-Bli
-C3
-BB
-BS
-BI
+С3
+С9
+С1
+Би
+БИ
+БС
+Д1
+Д1
+С7
+Б11
+Б11
+Бли
+С3
+ББ
+БС
+БИ
 
-| memeen=
+| мемин=
 | wcne---
 
-36 C6
+36 С6
 
-8 Bs
+8 баллов
 
-WATE
-PUMP
-ID
-R 20 Bro
+ВОДА
+НАСОС
+идентификатор
+Р 20 Бро
 
-Q
+вопрос
 
-0:O0la~
+0:О0ла~
 
-8 B4
-44 C10
-48 C12
-44 C10
-14 B7
-20 B10
-13 B6
+8 Б4
+44 С10
+48 С12
+44 С10
+14 Б7
+20 Б10
+13 Б6
 
-30
-42
+3042
 26
 2
 3
@@ -432,79 +431,79 @@ Q
 16
 22
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
-A
+А
 
 18
-10 B5
+10 Б5
 
-@ AMERICAN HONDA MOTOR CoO, LTD. 1993
+@ АМЕРИКАНСКАЯ ХОНДА МОТОР КоО, ЛТД. 1993 год
 
 3
 
-FRONT CYLINDER HEAD
+ПЕРЕДНЯЯ ГОЛОВКА ЦИЛИНДРА
 
-‘B84
-: = ve OoS'es
+'B84
+: = пять OoS'ов
 
-F FIA
+Ф ФИА
 
-Ret.
-No.
+В отставке.
+Нет.
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-Viv
+Вив
 
 =
 
-BLOCK NO.
+БЛОК №.
 
 7
 
-7IR
+7ИР
 
 0
 
-Ola
+Ола
 
-0. O|JE
+0. О|ДЖЕ
 
-Q
+вопрос
 
-S's
+S
 
-Y
+Да
 
-gia {C|
-D
-4, 5|E|
+гия {C|
+Д
+4, 5|Е|
 
-E-2,4:(5/O]
+Е-2,4:(5/О]
 
-DESCRIPTION
+ОПИСАНИЕ
 
-___ENGINE
+___ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-FROM
+ОТ
 
-6 OlE
+6 ОЛЕ
 
-BlOKNO.
+БЛОКНО.
 
-Ret.
+В отставке.
 
-eal? 8 c
+есть? 8 с
 
-OL
-DESCRIPTION
+ПР
+ОПИСАНИЕ
 
-No.
+Нет.
 
-Q
+вопрос
 
 1
 
@@ -512,7 +511,7 @@ Q
 
 1539014
 
-17 WASHER, THRUST, SMM ...sccceneeee|
+17 ШАЙБА УПОРНАЯ, SMM ...scceneeee|
 
 2
 
@@ -520,7 +519,7 @@ Q
 
 0255224
 
-CROSS SHAFT ............ 42 C9
+КРЕСТОВОЙ ВАЛ...........42 С9
 
 1
 
@@ -528,7 +527,7 @@ CROSS SHAFT ............ 42 C9
 
 0350215
 
-CYLINDER HEAD COVER |.
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА |.
 
 6
 
@@ -541,47 +540,47 @@ CYLINDER HEAD COVER |.
 4/5
 5
 
-4 me]
+4 меня]
 
 4
 
 :
 
-51E
+51Е
 
-SERIAL NUMBER
-FROM
+СЕРИЙНЫЙ НОМЕР
+ОТ
 
-TO
+ТО
 
-E
-Q
+Э
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-> PIPE Ay OIL PATH w+eseesesereeees q ome | | DTeTe 2108S
-IS | 1 280-mB0-00
+> ТРУБА Ay OIL PATH w+eseesereeees q ome | | ДТеТе 2108С
+ЕСТЬ | 1 280-mB0-00
 2]
 
 2103533
 
-192900-06032-0E
+192900-06032-0Е
 
 2532687
 
-OL POMP
+ОЛ ПОМП
 
-TE
+ТЭ
 
 ]90063-235-000
 
 0171454
 
-PISTON
+ПОРШЕНЬ
 
-occa 90 G3
+примерно 90 G3
 
-BOLT, STUD, 6X45 ..s.seseeee weeee [om 5
+БОЛТ, ШПИЛЬКА, 6X45 ..с.сесеее вееее [om 5
 
 4
 
@@ -589,7 +588,7 @@ BOLT, STUD, 6X45 ..s.seseeee weeee [om 5
 
 0167163
 
-STARTER CLUTCH ......... 16 BB
+СТАРТЕРНАЯ МУФТА.........16 ВВ
 
 2
 
@@ -597,17 +596,17 @@ STARTER CLUTCH ......... 16 BB
 
 0331363
 
-TENSIONER
+НАТЯЖИТЕЛЬ
 
 & |94301-08140
 
 0923821
 
-THERMOSTAT
+ТЕРМОСТАТ
 
 0069310
 
-WATER PIPE... 40 CB
+ВОДОПРОВОД... 40 КБ
 
 1 |95700-06012-00
 
@@ -617,15 +616,15 @@ WATER PIPE... 40 CB
 
 2105799
 
-21 SCREW, PAN, 5X8 ...ccc-secncnseee|
+21 ВИНТ КОВОРОДНЫЙ, 5X8 ...ccc-secncnsee|
 
 4 | 5
 
-| 22 SCREW, PAN, SX2B ...eseeeeees ween [45
+| 22 ВИНТ, КОВАР, SX2B ...посмотрите [45
 
-23 PINA, DOWEL, 8X14 ....ccsececees 45
+23 PINA, ДЮБЕЛЬ, 8X14 ....ccsececees 45
 
-BOLT, FLANGE, 6X12 ...cseceeees [455
+БОЛТ, ФЛАНЕЦ, 6X12 ...cceeeees [455
 
 6 |94301-12200
 
@@ -633,9 +632,9 @@ BOLT, FLANGE, 6X12 ...cseceeees [455
 
 (2) 198069-57916
 
-oo isnes
+оо иснес
 
-PLUG, SPARK (DPRBEA-9NGK) «2... 45
+СВЕЧА ИСКРЫ (ДПРБЭА-9НГК) «2...45
 
 2 {98069-58916
 
@@ -645,7 +644,7 @@ PLUG, SPARK (DPRBEA-9NGK) «2... 45
 
 1096825
 
-PLUG, SPARK (X22EPR-U9 ND) ....0.
+СВЕЧА ИСКРЫ (X22EPR-U9 ND)....0.
 
 45
 
@@ -655,19 +654,19 @@ PLUG, SPARK (X22EPR-U9 ND) ....0.
 
 3354654
 
-PLUG, SPARK (X27EPR-U9 ND) ....0. 415
+СВЕЧА ИСКРЫ (X27EPR-U9 ND) ....0. 415
 
-PIPEB, OIL PATH .sccesceees ween
+ПИПЕБ, НЕФТЯНОЙ ПУТЬ.
 
 [455
 
 1
 
-| 12240-MNO-000
+| 12240-МНО-000
 
 2523843
 
-7 GASKET, CYLINDER HEAD ....... wee
+7 ПРОКЛАДКА ГОЛОВКИ ЦИЛИНДРА.......мл.
 
 G15
 
@@ -677,13 +676,13 @@ G15
 
 1240977
 
-8 INSULATOR, CARBURETOR ......... [455
+8 ИЗОЛЯТОР КАРБЮРАТОРА......[455
 
 2 | 16211-B0-000
 
 1242106
 
-9 BAND, INSULATOR .s.ssseseeeeeeee|
+9 ЛЕНТА, ИЗОЛЯТОР .s.ssseseeeeeeee|
 
 6/5
 
@@ -693,7 +692,7 @@ G15
 
 1312701
 
-10 BOLT, FLANGE, 6X52 ...ecceeseceee
+10 БОЛТ, ФЛАНЕЦ, 6X52 ...ecceeseceee
 
 4
 
@@ -703,7 +702,7 @@ G15
 
 1243336
 
-11 BOLT, FLANGE, 6X54 ........ weeeee
+11 БОЛТ ФЛАНЕЦ, 6X54........уееее
 
 [45
 
@@ -713,7 +712,7 @@ G15
 
 1292077
 
-12 BOLT, UBS, 8X151 .....seeeeeee wee
+12 БОЛТ, UBS, 8X151 .....посмотри-ка
 
 |
 
@@ -725,7 +724,7 @@ G15
 
 1762137
 
-13 BOLT, UBS, 9X91... sseseeeeenceee | 4 55
+13 БОЛТ, UBS, 9X91... sseseeeeenceee | 4 55
 
 |
 
@@ -735,7 +734,7 @@ G15
 
 1292085
 
-14 BOLT, UBS, 9X177 ...eceeeeeeeeeee | 6 =
+14 БОЛТ, UBS, 9X177 ...eceeeeeeeeeee | 6 =
 
 |
 
@@ -745,7 +744,7 @@ G15
 
 1243385
 
-BOLT, UBS, X17 .esesecseveessee [om 5
+БОЛТ, UBS, X17 .esesecseveeesee [om 5
 
 |
 
@@ -766,22 +765,22 @@ BOLT, UBS, X17 .esesecseveessee [om 5
 |
 
 ©
-AMERICA
-HONDA
-MOTOR CO,N
-LTD. 1993
+АМЕРИКА
+ХОНДА
+МОТОР СО,Н
+ООО. 1993 год
 
 |98069-58926
 
-3 ie
+3 т.е.
 
-TRANSMISSION 0... 26 Os
-VALVE ...... cece
+ПЕРЕДАЧА 0... 26 Ос
+КЛАПАН ...... так
 
-eee eee
-eee
+эээ ээ
+эээ
 
-WATER PUMP oo ores ones 20 B10
+ВОДЯНОЙ НАСОС оо руд 20 B10
 
 1096817
 
@@ -792,12 +791,12 @@ WATER PUMP oo ores ones 20 B10
 1096833
 
 ©
-AMERICA
-HONDA
-MOTOR CO.N
-LTD. 1993
+АМЕРИКА
+ХОНДА
+ДВИГАТЕЛЬ CO.N
+ООО. 1993 год
 
-22 B11
+22 Б11
 
 .............
 
@@ -805,69 +804,67 @@ LTD. 1993
 
 (2) 198069-59916
 
-3 ae
+3 аэ
 
-beceeeeteeeee 10 Bs
+beceeeeeeeeee 10 Bs
 
 |
 
-B2
+Б2
 
-VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TD FM102800
-VF700S"85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S"85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2Z2E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ТД FM102800
+VF700S"85 НОМЕР ДВИГАТЕЛЯ; RC22E-2100001 ДО 2103285
+VF700S"85 НОМЕР РАМКИ; RC221-FM100001 ДО FM100863
 
 (2) |98069-57926
 
-UM
+УМ
 
-STARTER MOTOR .........
+СТАРТЕР МОТОР.......
 
 0165324
 
 45
-26 PLUG, SPARK (DPR7EA-9 NGK) ......
+26 СВЕЧА ЗАЖИГАНИЯ (DPR7EA-9 NGK) ......
 
-ji 5
+Джи 5
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EN005012
-VF700S'84 ENGINE NG.; RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EN005012
+ДВИГАТЕЛЬ VF700S'84 НГ.; RC22E-2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
 4 |93500-05028-06
 
-HONDA
-CODE
+ХОНДА
+КОД
 
-PLUG, SPARK (DPR9EA-9 NGK) ...... 415
+СВЕЧА ИСКРЫ (DPR9EA-9 NGK)......415
 
 5
 
-OL ELTER
+ОЛ ЭЛЬТЕР
 
 4
 
 4780881
 
-15 BOLT, OLL ..sceseccescceecveseee | &
+15 БОЛТ, OLL ..sceseccesccceecveseee | &
 
-oe By
+oe Автор
 
-CheKEr
-ire
-ou: £2 01
+ЧеКЭр
+гнев
+вы: £2 01
 
-5
-
-|42240-nB0-870
+5|42240-nB0-870
 
 5
 
-CYLINDER
-HEAR
-RA
+ЦИЛИНДР
+СЛЫШАТЬ
+РА
 
 0156943
 
@@ -885,181 +882,181 @@ RA
 
 , ; 5
 
-PATH
+ПУТЬ
 
-26 C1
-
-4
-
-PLUG, SPARK (X24EPR-U9 ND) «+... 4 | 5
-
-OIL
-
-CYLINDER BLOCK .........
-
-13 B6
+26 С1
 
 4
 
-sees
+СВЕЧА ИСКРЫ (X24EPR-U9 ND) «+... 4 | 5
 
-PIPE 3 OILPATH
+НЕФТЬ
+
+БЛОК ЦИЛИНДРОВ.......
+
+13 Б6
+
+4
+
+видит
+
+ТРУБКА 3 МАСЛЯНЫЙ ПУТЬ
 
 3
 
 4 _
 
-losspee
-ot
+убыток
+от
 
 ,
 
 4
 
-| Seas,
+| Моря,
 
-CRANKSHAFT .............
+КОЛЕНВАЛ............
 
-4 =m
+4 = м
 
 1
 
-6 PIPEB, OIL PATH
+6 ТРУБКА, МАСЛЯНЫЙ ПУТЬ
 
-20 B10
+20 Б10
 
-CRANKCASE COVER, R......
+КРЫШКА КАРТЕРА, П.......
 
-BOLT, STUD, 6X32 .caceccccnnncene|
+БОЛТ, ШПИЛЬКА, 6X32 .caceccccnnncene|
 
-25 BOLT, FLANGE, 6X12 ...cseceseeees 4 5
+25 БОЛТ ФЛАНЕЦ, 6X12 ...cseceeeees 4 5
 
-R
+Р
 
 | ==
 
-CRANKCASE COVER,L. ....
+КРЫШКА КАРТЕРА,Л. ....
 
-BOLT 2, STUD, 6X32 .ecccseneereeel
+БОЛТ 2, ШПИЛЬКА, 6X32 .ecccseneereeel
 
-24 PINA, DOWEL, 12X20 ....csecceuee 415
+24 PINA, ДЮБЕЛЬ, 12X20 ....csecceuee 415
 
-v
+в
 
-HONDA
+ХОНДА
 
-16 BOLT, OLL CONTROL .......cccuccee | 4 ! 5
+16 БОЛТ УПРАВЛЕНИЯ OLL ......ccccccee | 4 ! 5
 
-BOLT, STUD, 6X50 ....seseseeeeees [—=.
+БОЛТ, ШПИЛЬКА, 6X50 ....seseseeeeees [—=.
 
-s 8|4
+с 8|4
 
-E
+Э
 
-CARBURETOR ASSY..-1. 2) aa G10
-CARBURETOR
-LINK
-44 C10
-CLUTCH 0. 44 BF
+КАРБЮРАТОР В СБОРЕ..-1. 2) аа G10
+КАРБЮРАТОР
+ССЫЛКА
+44 С10
+СЦЕПЛЕНИЕ 0. 44 БФ
 
-CARBURETOR COMPONENT 48 C12
+КОМПОНЕНТ КАРБЮРАТОРА 48 C12
 
-CODE
+КОД
 
-20 BOLT, STUD, 6X45 .eseeseerseeeeee|
+20 БОЛТ ШПИЛЬКИ, 6X45 .eseeseerseeeeee|
 
-cee)
+си)
 
-| R
+| Р
 
-18 B9
+18 Б9
 
-10 BS
+10 БС
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-19 WASHER, OILBOLT .....seceneeeeee | 4, 5
+19 ШАЙБА, САСЛЯНЫЙ БОЛТ .....сценеееее | 4, 5
 
-E Ela
+Э Эла
 
-TO
+ТО
 
-CAM CHAIN ...............
+КУЛАЧКОВАЯ ЦЕПЬ..........
 
-Q
+вопрос
 
-18 WASHER, SEALING, 6.5X12 ......0./4
+18 ШАЙБА УПЛОТНИТЕЛЬНАЯ, 6,5X12......0./4
 
-= E7008 ' 94
+= E7008 '94
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-THLE
-ALTERNATOR .............
+ТЛЕ
+ГЕНЕРАТОР .............
 
-T
+Т
 
 5
 
-GRID
+СЕТКА
 
-B2
+Б2
 
-REAR CYLINDER HEAD
+ЗАДНЯЯ ГОЛОВКА ЦИЛИНДРА
 
 '
 a=\Mllbes
 
-FEA
+ВЭД
 
-V:.V
+В:.В
 
-TITLE
-ALTERNATOR
+НАЗВАНИЕ
+ГЕНЕРАТОР
 
-Ref
+Ссылка
 
-BLOCK NO.
+БЛОК №.
 
-No.
+Нет.
 
-E-2-1|
+Е-2-1|
 
-CESCRIPTION
+ОПИСАНИЕ
 
-panache
+щегольство
 7
 
-Ret
+Рет
 
-ae
+ае
 
-lA
-LOCKNO.
+Лос-Анджелес
+ЛОКНО.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-99 E
+99 Е
 
 9
 
-SS
+СС
 
-v
+в
 
-Eaale 8 3
+Иале 8 3
 
-ae lo
+эй ло
 
-SERIAL NOMBER
+СЕРИЙНЫЙ НОМЕР
 
-erom
+эром
 
-To | & lpant NUMBER
+Чтобы | & лпант НОМЕР
 
-HONDA
+ХОНДА
 
-S ODE
+С ОДЕ
 
 8 | 12204-MB0-405
 
@@ -1075,7 +1072,7 @@ S ODE
 
 1243336
 
-11 BOLT, FLANGE, 6X54 ...cscseeeeeee | 4 | 5
+11 БОЛТ ФЛАНЕЦ, 6X54 ...cscseeeeeeee | 4 | 5
 
 4
 
@@ -1083,13 +1080,13 @@ S ODE
 
 1292077
 
-12 BOLT, UBS, 8X151 .ecseceeseeeeeee | 4
+12 БОЛТ, UBS, 8X151 .ecseceeeeeeee | 4
 
 5
 
 4
 
-13 BOLT, UBS, 9X91 ..ececscecescesee| &
+13 БОЛТ, UBS, 9X91 ..ececscecescesee| &
 
 190006-MB0-010
 
@@ -1109,7 +1106,7 @@ S ODE
 
 |90012-MB0-003
 
-BOLT, UBS, 9X17 eecscecsecseens (o>! 5
+БОЛТ, УБС, 9X17 eecscecseceens (o>! 5
 
 1263385
 
@@ -1127,16 +1124,16 @@ BOLT, UBS, 9X17 eecscecsecseens (o>! 5
 
 0255224
 
-16 BOLT, STUD, 6X45 ...escsesecereee|
+16 БОЛТ ШПИЛЬКИ, 6X45 ...escsesecereee|
 
-4 imo
+4 имхо
 
 &
 
 |92700-06045
 
-BOLT, STUD, 6X32 ..ecseceseeceees 4 n=
-BOLT 2, STUD, 6X32 ..seeeeeeeeees 4 je
+БОЛТ, ШПИЛЬКА, 6X32 ..ecseceseeeees 4 n=
+БОЛТ 2, ШПИЛЬКА, 6X32 ..смееееееееее 4 je
 
 0156943
 
@@ -1152,13 +1149,13 @@ BOLT 2, STUD, 6X32 ..seeeeeeeeees 4 je
 
 2532687
 
-BOLT, STUD, 6X45 .escssecseceeecs — 5
+БОЛТ, ШПИЛЬКА, 6X45 .escssecseceeecs — 5
 
 & |92700-06045-0E
 
 0167163
 
-BOLT, STUD, 6X50 ..ssseceeeseeees 5
+БОЛТ ШПИЛЬКИЙ, 6X50 ..сссекееееееес 5
 
 1
 
@@ -1180,13 +1177,13 @@ BOLT, STUD, 6X50 ..ssseceeeseeees 5
 
 1096817
 
-PLUG, SPARK (K2EPR-U9 ND)...
+СВЕЧА ИСКРЫ (К2ЭПР-У9 НД)...
 
-ots
+отс
 
 (2) |9g069-57926
 
-4s
+4 с
 
 >
 
@@ -1204,7 +1201,7 @@ ots
 
 1853480
 
-PLUG, SPARK COPRBEA-9 NEK)
+СВЕЧА ЗАЖИГАНИЯ CPRBEA-9 NEK)
 
 2
 
@@ -1212,16 +1209,16 @@ PLUG, SPARK COPRBEA-9 NEK)
 
 2001485
 
-PLUG, SPARK. CKOUEPR-UOND)
+СВЕЧА, ИСКРА. ЦКУЭПР-УОНД)
 
-4i-
+4и-
 
 2
 
 |12212~MB0-771
 
-KOLDER B, CAMSHAFT ......sesece0e 4m
-HOLDER B, CAMSHAFT ....sesececeee 45
+КОЛДЕР Б, РАСПРЕДВАЛ ......sesece0e 4m
+ДЕРЖАТЕЛЬ B РАСПРЕДЕЛИТЕЛЬНОГО ВАЛА ....sesececeee 45
 
 1455849
 
@@ -1237,7 +1234,7 @@ HOLDER B, CAMSHAFT ....sesececeee 45
 
 2016830
 
-4 HEAD COMP., RR. CYLINDER .....000[4 =-
+4 ГОЛОВКА КОМП., ЗАДН. ЦИЛИНДР .....000[4 =-
 
 4
 
@@ -1275,7 +1272,7 @@ HOLDER B, CAMSHAFT ....sesececeee 45
 
 0
 
-Lal
+Лал
 
 §
 
@@ -1286,7 +1283,7 @@ Lal
 
 |12251-MB0-003
 
-7 INSULATOR, CARBURETOR .......0../4
+7 ИЗОЛЯТОР, КАРБЮРАТОР.......0../4
 
 1240977
 
@@ -1311,70 +1308,68 @@ B JOINT, BOOST -oseeseessecssreeee | 4
 1246193
 
 |
-B3
+Б3
 
-VF700S"85 ENGINE NO.; RC22E~2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221~FM100001 TO FM100863
+VF700S"85 НОМЕР ДВИГАТЕЛЯ; RC22E~2100001 ДО 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221~FM100001 ДО FM100863
 
 1103092
 1096833
 
 :
 
-6 GASKET, CYLINDER HEAD ......200.214 ' 5
+6 ПРОКЛАДКА ГОЛОВКИ ЦИЛИНДРОВ ......200.214' 5VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220~EM000007 ДО EM005012
+VF700S "84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220~EM000007 TO EM005012
-VF700S "84 ENGINE NO.; RC22E~2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
-
-C2) 198069-599%6
-C2) 198069-59926
+С2) 198069-599%6
+С2) 198069-59926
 
 |
 
 2016863
 2016863
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
 1103076
 
-eens
+эны
 
-PLUG, SPARK CDPROEAT9 NGK) ......) 4 | 5
-PLUG, SPARK (X27EPR-UD ND) -+.+0021 4 | 5
+СВЕЧА ЗАЖИГАНИЯ CDPROEAT9 NGK) ......) 4 | 5
+СВЕЧА ИСКРЫ (X27EPR-UD ND) --+.+0021 4 | 5
 
 1240951
-z 116863
+я 116863
 
 (2) {98069-57916
 
-TENSIONER ...............
-THERMOSTAT .............
-TRANSMISSION .......-...
-VALVE...
-2.00. eee eee
-WATER PIPE ..............
-WATER PUMP .............
+НАТЯЖИТЕЛЬ ..............
+ТЕРМОСТАТ .............
+ТРАНСМИССИЯ.......-...
+КЛАПАН...
+2.00. эээ ээ
+ВОДОПРОВОД ..............
+ВОДЯНОЙ НАСОС .............
 
 0069310
 
 415
 
-21 PLUG, SPARK (DPR7EA-9 NGK) ....0. 45
+21 СВЕЧА ИСКРЫ (DPR7EA-9 NGK)....0. 45
 
 1455831
 
 4 194301-08140
 
-...sceceeeees
+...очевидно
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
-18 BS
+18 БС
 
 10
 8
@@ -1382,17 +1377,17 @@ WATER PUMP .............
 48
 44
 
-BS
-B4
+БС
+Б4
 710
-C12
-C10
-B7
-B10
-BE
-C3
-C9
-C1
+С12
+С10
+Б7
+Б10
+БЫТЬ
+С3
+С9
+С1
 61
 
 10
@@ -1402,43 +1397,43 @@ C1
 40
 20
 
-BS
-C8
-C6
-B4
-C8
-B10
+БС
+С8
+С6
+Б4
+С8
+Б10
 
-CLUTCH...
-ee, 14
-CRANKCASE COVER, L. .... 20
-CRANKCASE COVER,R..... 13
-CRANKSHAFT ............. 30
-CROSS SHAFT ............ 42
-CYLINDER BLOCK ......... 26
-CYLINDER HEAD COVER ...
+СЦЕПЛЕНИЕ...
+эээ, 14
+КРЫШКА КАРТЕРА, Л.....20
+КРЫШКА КАРТЕРА,П.....13
+КОЛЕНЧАТЫЙ ВАЛ...........30
+КРЕСТОВОЙ ВАЛ............ 42
+БЛОК ЦИЛИНДРОВ.........26
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА...
 2
-CYLINDER HEAD, FR........
+ГОЛОВКА ЦИЛИНДРА, ПТ........
 3 81
-CYLINDER HEAD, RAR ......
-6 BS
-GASKET KITA........... . §0 D1
-GASKET KITB............. 51 Di
-GEARSHIFT DRUM ......... 38 C7
-OIL FILTER 2... 02, 23 B11
-OIL PAN «200.2... eee 23 B11
-OIL PUMP |... ow. 23 Bti
-PISTON . 22.0...
-eee 30 3
-PULSE ALTERNATOR ...... 16 BB
-STARTER CLUTCH ......... 16 BB
-STARTER MOTOR ......... 22 B11
+ГОЛОВКА ЦИЛИНДРА, RAR ......
+6 БС
+КОМПЛЕКТ ПРОКЛАДОК........... . §0 Д1
+КОМПЛЕКТ ПРОКЛАДОК........... 51 Di
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ......38 С7
+МАСЛЯНЫЙ ФИЛЬТР 2...02, 23 B11
+МАСЛЯНЫЙ ПОДДОН «200.2...эээ 23 Б11
+МАСЛЯНЫЙ НАСОС |... вл. 23 Бти
+ПОРШЕНЬ. 22,0...
+эээ 30 3
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ...... 16 ВВ
+СТАРТЕРНАЯ МУФТА.........16 ВВ
+СТАРТЕР .......22 B11
 
 0171454
 
-18 SCREW, PAN, SY2B ..scesseeeeeeons 45
+18 ВИНТ, ПОДВЕРЖЕННЫЙ, SY2B ..съёмники 45
 
-20 PINA, DOWEL, 12X20
+20 ПИНА, ДЮБЕЛЬ, 12X20
 
 1390087
 
@@ -1449,114 +1444,114 @@ STARTER MOTOR ......... 22 B11
 2
 
 ~- 5]
-PIPE
-A, OIL PATH ...essesaseseeee | & m=
+ТРУБА
+А, НЕФТЯНОЙ ПУТЬ ...essesaseseeee | & м=
 
 6
 
-15 WASHER, THRUST, SIM ...sesseseee
+15 ШАЙБА, УПОРНАЯ, SIM ...сессеее
 
-HOLDER A, CAMSHAFT ......0.c0ce0e 45
+ДЕРЖАТЕЛЬ А РАСПРЕДЕЛИТЕЛЬНОГО ВАЛА ......0.c0ce0e 45
 
-S PIPEA, OIL PATH .escssceseensren]
+S PIPEA, НЕФТЯНОЙ ПУТЬ .escssceseensren]
 
-CODE
+КОД
 
-10 BOLT, FLANGE, 6X52 s.ssesssseeeee
+10 БОЛТ, ФЛАНЕЦ, 6X52 s.ssesssseeeeee
 
-4.5
+4,5
 
-HEAD COMP., RR. CYLINDER ...s.eee[—-| 5
+ГОЛОВНОЙ КОМП., RR. ЦИЛИНДР ...см.ээ[—-| 5
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
 |16219-"B0-770
 
-HOLDER A, CAMSHAFT ......cceseee
+ДЕРЖАТЕЛЬ A, РАСПРЕДВАЛ ......см.см.
 
-3 HOLDER B, CAMSHAFT .....ssecseaes
+3 ДЕРЖАТЕЛЬ B, РАСПРЕДВАЛ .....ssecseaes
 
-Q
+вопрос
 
-TO
+ТО
 
 4
 
-4m
+4м
 
 |12211-MB0-771
 
-FROM
+ОТ
 
-HONDA
+ХОНДА
 
 5
 
-2 HOLDER A, CAMSHAFT .....2..02c00
+2 ДЕРЖАТЕЛЬ А РАСПРЕДЕЛИТЕЛЬНОГО ВАЛА .....2..02c00
 
 2
 
-4:°5]E
+4:°5]Е
 
-19 PINA, DOWEL, 8X14 ....... even 4 5
+19 ПИНА, ДЮБЕЛЬ, 8Х14....четные 4 5
 
 !
 
-T GUIDE, EX. VALVE ...0.000. reeeeee #;5
+Т ГИД, EX. КЛАПАН ...0.000. реееее #;5
 
-R
+Р
 
 4
 
-17 SCREW, PAN, 5X8 .escesscececceces
+17 ВИНТ КОВОРОДНОЙ, 5X8 .escessceccecces
 
-F
+Ф
 
-ENGINE
-SERIAL NUMBER
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
 
-9 BAND, INSULATOR .eeesesessresee(
+9 ЛЕНТА, ИЗОЛЯТОР .eeesesesresee(
 
-14 BOLT, UBS, 9X17 .acecscscecseeee{
+14 БОЛТ, UBS, 9X17 .acecscscecseeee{
 
 |
 
-a alc
+алкоголь
 4 | 5 8
 
-“PAGE GRID
+«СЕТКА СТРАНИЦ
 
 .............
-CAM CHAIN ...............
-CAMSHAFT ...............
-CARBURETOR ASSY........
-CARBURETOR COMPONENT
-CARBURETOR LINK ........
+КУЛАЧКОВАЯ ЦЕПЬ..........
+РАСПРЕДВАЛ..........
+КАРБЮРАТОР В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА........
 
 7
 
-GRID
+СЕТКА
 
-B3
+Б3
 
-CAMSHAFT e VALVE
+РАСПРЕДВАЛ И КЛАПАН
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-aaa
+ааа
 
-CONTENTS
+СОДЕРЖАНИЕ
 
 6018
 0
 
 0
 
-OO],
+ОО],
 
-ie
+т.е.
 
-i
+я
 
 19
 
@@ -1564,7 +1559,7 @@ i
 
 7
 
-vl,
+вл,
 
 7,
 
@@ -1574,62 +1569,62 @@ vl,
 
 6
 
-wih
+с
 
-e~!?
+э~!?
 
 "85
 
-fT
+фут
 
 &
 
 8
 
-co
+со
 
-A
+А
 
-+ ait et "
++ эт и др "
 
-”
-we
+»
+мы
 
 "
 
 9
 
-d
+д
 
-a
+а
 
-or
+или
 
-el
+эль
 
 12
 
-Vivi,
+Виви,
 :
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
 7:7
 0
 
-BLOCK NO.
+БЛОК №.
 
-Q
+вопрос
 
-TO
+ТО
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-16 SCREW, TAPPET ADJUSTING .....e.ee 45
+16 ВИНТ РЕГУЛИРОВКИ КЛАПАНТА ....e.ee 45
 4
 
 |
@@ -1640,7 +1635,7 @@ TO
 
 |
 
-CAMSHAFT COMP., FR. IN. ...sseeee 45
+КОМПЛЕКТ РАСПРЕДВАЛА, ФР. ИН. ...посмотри 45
 
 1
 
@@ -1656,7 +1651,7 @@ CAMSHAFT COMP., FR. IN. ...sseeee 45
 
 2017085
 
-CAMSHAFT COMP., FR. IN.
+КОМПЛЕКТ РАСПРЕДВАЛА, ФР. ИН.
 
 :
 
@@ -1671,7 +1666,7 @@ CAMSHAFT COMP., FR. IN.
 1789247
 1876325
 
-CAMSHAFT COMP., RR. IN.
+КОМПЛЕКТ РАСПРЕДВАЛА, RR. ИН.
 
 [455
 
@@ -1687,19 +1682,19 @@ CAMSHAFT COMP., RR. IN.
 
 2044246
 
-..... wee
+..... пипец
 
-CAMSHAFT COMP., RR. IN. .....0046/4
+КОМПЛЕКТ РАСПРЕДВАЛА, RR. ИН. .....0046/4
 
 5
 
-—& CAMSHAFT COMP., FR. EX. weeseeeee | m=
+—& КОМПЛЕКТ РАСПРЕДВАЛА, FR. EX. нууууу | м=
 
 1 | 14131-MB0-870
 
 1789254
 
-weeeeeeee 1 4
+ууууууу 1 4
 
 5
 
@@ -1711,7 +1706,7 @@ weeeeeeee 1 4
 
 |
 
-CAMSHAFT COMP., FR. EX. ..e.s00.014
+КОМПЛЕКТ РАСПРЕДВАЛА, ФР. EX. ..e.s00.014
 
 5
 
@@ -1731,17 +1726,15 @@ CAMSHAFT COMP., FR. EX. ..e.s00.014
 
 2044253
 
-CAMSHAFT COMP., FR. EX.
+КОМПЛЕКТ РАСПРЕДВАЛА, ФР. EX.
 
-CAMSHAFT COMP., FR. EX.
-
-wseseeeee]
+КОМПЛЕКТ РАСПРЕДВАЛА, ФР. EX.всеееееее]
 
 &
 
-5 CAMSHAFT COMP., RR. EX.
+5 КОМПЛЕКТ РАСПРЕДВАЛА, ЗАД. БЫВШИЙ.
 
-weeseseee]
+ясное дело]
 
 & --
 
@@ -1749,11 +1742,11 @@ weeseseee]
 
 1789262
 
-CAMSHAFT COMP., RR. EX.
+КОМПЛЕКТ РАСПРЕДВАЛА, RR. БЫВШИЙ.
 
 |
 
-seseeeee
+увидимся
 
 [4
 
@@ -1765,11 +1758,11 @@ seseeeee
 
 1876341
 
-CAMSHAFT COMP., RR. EX.
+КОМПЛЕКТ РАСПРЕДВАЛА, RR. БЫВШИЙ.
 
 2
 
-seeseeeeey
+увидимся
 
 &
 
@@ -1783,42 +1776,42 @@ seeseeeeey
 
 |
 
-@ AMERICAN HONG MOTOR CO, LTD. 1993
+@ АМЕРИКАНСКИЙ ГОНК МОТОР КО, ЛТД. 1993 год
 
-VF7005'84 ENGINE NO.; RC2ZE-2000008 TO 2005978
-VF700S'84 FRAME NO. ; RC220-EM0C9007 TO EMO0S012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO. ; RC227~EM000006 TO EM007081
+VF7005'84 НОМЕР ДВИГАТЕЛЯ; RC2ZE-2000008 ДО 2005978
+VF700S'84 № РАМЫ. ; RC220-EM0C9007 К EMO0S012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S'84 № РАМЫ. ; RC227~EM000006 ДО EM007081
 
 16 |90002-mB1-870
 
 5
 
-19 O-RING, 21.5X2 ..cecceeeeeeecees 4 5
+19 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 21,5X2 ..cecceeeeeeeecees 4 5
 
 4
 
 |14121-mB0-872
 
-Ba
+Ба
 
-VF700S'85 ENGINE NO. ; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC2ZE-2100001 TO 2103285
-VF700S'8S FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85. ; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2ZE-2100001 ДО 2103285
+VF700S'8S № РАМЫ; RC221-FM100001 ДО FM100863
 
-8B
+8Б
 
-OL ROME
+ОЛ РИМ
 
-oa
+оа
 
-GEARSHIET DRUM!......... 38 C7
+БАРАБАН РЕДУКТОРА!.........38 C7
 
 1724301
-ESOS
+ЭСОС
 
-Te Pum
+Те Пум
 
 32 |14781-MB4-000
 
@@ -1826,67 +1819,67 @@ Te Pum
 
 |14121-mB0-870
 
-Gaseer kite
+Газирский змей
 
-| 15 COTTER, VALVE .....sseceeeese [45
+| 15 ШПИЛЬКА, КЛАПАН .....ссекеееее [45
 
 1789239
 
 1
 
-CYLINDER
-HEAp
-ag a
+ЦИЛИНДР
+Куча
+ага
 
-TENSIONER 200.222 ooo,
+НАТЯЖИТЕЛЬ 200.222 ооо,
 
 0688887
 
 1
 
-BLOCK...
+БЛОКИРОВАТЬ...
 
 1289420
 
 |14111-"B0-870
 
-4 i--
+4 я...
 
 1724293
 
-CYLINDER
+ЦИЛИНДР
 
 16 | 14776-MB0-770
 
 1
 
-4'5
+4 фута 5 дюймов
 
 1426949
 
-CYLINDER HEAD COVER |. BI
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА |. БИ
 
 5
 
 |
 
-CAMSHAFT COMP., RR. IN, ....cse0e
+КОМПЛЕКТ РАСПРЕДВАЛА, RR. ВО, ....cse0e
 
 1426915
 
-CROSS SHAFT 0) 42 Co
+КРЕСТОВОЙ ВАЛ 0) 42 Co
 
 6 |)
 
-16 SEAT, VALVE SPRING INNER ...... [4
+16 СЕДЛО, ПРУЖИНА КЛАПАНА ВНУТРЕННЯЯ ...... [4
 
-CODE
+КОД
 
-3 CAMSHAFT COMP., RR. IN. ......005
+3 КОМПЛЕКТ РАСПРЕДВАЛА, ЗАД. ИН. ......005
 
 1289271
 
-STARTER CLUTCH ......... 16 BB
+СТАРТЕРНАЯ МУФТА.........16 ВВ
 
 16 |12209-422-005
 
@@ -1895,252 +1888,252 @@ STARTER CLUTCH ......... 16 BB
 16 |14761-MB1-871
 IIIS
 
-20 B10
+20 Б10
 
 30
 
 1741347
 
-4 ine
+4 дня
 
 ...ses0e.
 
 1241595
 
-nnnlamapmee
+ннламапми
 
 16 | 14751-B1-871
 
-CRANKCASE COVER, FL bee 13 Bs
+КРЫШКА КАРТЕРА, FL пчела 13 Bs
 
-CRANKSHAFT 2000.8...
+КОЛЕНВАЛ 2000.8...
 
 0689018
 
-2 CAMSHAFT COMP., FR. IN, «.eeecese
+2 КОМПЛЕКТ РАСПРЕДВАЛА, FR. IN, «.eeecese
 
 5
 
 2044261
 
-CRANKCASE COVER,
-L
+КРЫШКА КАРТЕРА,
+л
 
 |14775-422-009
 
-1 SEAL, VALVE STEM ....seseseeeeece 415
-..e.seeeee
+1 УПЛОТНЕНИЕ ШТОКА КЛАПАНА ....seseseeeeece 415
+..э.смееее
 
-cee
+Сиэ
 
-CLUTCH ................, 4414 C10
-B7
+СЦЕПЛЕНИЕ................., 4414 C10
+Б7
 
-CARBURETOR LINK ........
+ТРУБА КАРБЮРАТОРА........
 
 16
 
-18 WASHER, WAVE, 12MM ....-.seeccees 4
+18 ШАЙБА, ВОЛНА, 12MM ....-.см. 4
 
-FROM
+ОТ
 
-fap eee
+фап эээ
 
-CODE
+КОД
 
-44 C10
+44 С10
 
-48 C12
+48 С12
 
-13 SEAT, VALVE SPRING OUTER ........|4 | 5
+13 СЕДЛО, ПРУЖИНА КЛАПАНА НАРУЖНАЯ .......|4 | 5
 
-17 NUT, TAPPET ADJUSTING ......2000.
+17 ГАЙКА РЕГУЛИРОВОЧНАЯ ТОПЛИКА ......2000.
 
-],E |
+],Э |
 
 |14611-MB0-000
 
 8 |14631-KE8-000
 
-gg
+гг
 
-CARBURETOR COMPONENT
+КОМПОНЕНТ КАРБЮРАТОРА
 
-B9
-a
+Б9
+а
 
-PISTON ....... teeter
-PULSE ALTERNATOR
+ПОРШЕНЬ ....... качели
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР
 
-y
+й
 
-4.5
+4,5
 
 8
 
-CARBURETOR ASSY........
+КАРБЮРАТОР В СБОРЕ........
 
-HONDA
+ХОНДА
 
 18
 °
 
 1477 1-MB6 -000
 
-Q
+вопрос
 
-HONDA
+ХОНДА
 
 1 | 14141-MB0-874
 
-...............
+..............
 
 16
 
 4
 
-Ole
+Оле
 
-a
+а
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
-CHAIN
+ЦЕПЬ
 
 5
 
-aaneenenee
+аанинени
 
-sis|4
+сестренка|4
 
-ENGINE
-SERIAL NUMBER
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
 
-R
+Р
 
-| Fi
+| Фи
 
 8 | 14721-MB2-000
 
 '
 
-4R
+4Р
 
 8816
-E-3| 4 5 °
+Е-3| 4 5°
 
-DESCRIPTION
+ОПИСАНИЕ
 
-CAMCHAFT COMP., FR. IN.
+КОМП.РАСПРЕДЕЛИТЕЛЬ, ФР. ИН.
 
 8
 
-Sey
+Сей
 
-RETAINER, VALVE SPRING
+ФИКСАТОР ПРУЖИНЫ КЛАПАНА
 
-CAM
+САМ
 
 8 |14711-mB2-000
 
 4/5
 
-11 SPRING, VALVE INNER ....ssecee00e/ 4 Pp 5
+11 ПРУЖИНА КЛАПАНА ВНУТРЕННЯЯ ....ssecee00e/ 4 Pp 5
 
-Cael
+Сил
 
 .
 
-Th
+че
 
-10 SPRING, VALVE QUTER -.eeeeceeeeee [4 5
+10 ПРУЖИНА ЧЕТВЕРТИ КЛАПАНА -.eeeeceeeeeee [4 5
 
-Ln
+Лн
 
-4 = VF7008'84
+4 = ВФ7008'84
 
-scssssssscecceccenene|
+scssssscecceccenene|
 
-TO
+ТО
 
-POP
+ПОП
 
-B VALVE, IN, .ssecscescenscceesene | 4 5
+КЛАПАН B, IN, .ssecscescenscceesene | 4 5
 
-9 VALVE, EX.
+9 КЛАПАН, EX.
 
 °
 
 |
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-4 | 5 ]|E | FROM
+4 | 5 ]|Е | ОТ
 
-7 SHAFT, VALVE ROCKER ARM ...eeeeee] 45
+7 ВАЛ КОЛЕНА КЛАПАНА ...eeeeee] 45
 
-ff
+фф
 
 5
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
+ГЕНЕРАТОР .............
 
-Y
+Да
 
-a|c
+а|с
 
-6 ARM, VALVE ROCKER ...sesseseeeeee| 45
+6 РЫЧАГ КОЛЕНА КЛАПАНА ...сессеееееее | 45
 
 2
 
 .;
 
-DESCRIPTION
+ОПИСАНИЕ
 
 ,
 
-a
+а
 
 £-3/4:5
 
-Poe
+По
 
-wy
+почему
 
-it
+это
 
-BLOCK NO.
+БЛОК №.
 
-5 CAMSHAFT COMP., RR. EX. secccccee| 4 | 5
+5 КОМПЛЕКТ РАСПРЕДВАЛА, ЗАД. EX. секccccee| 4 | 5
 
-ims
+имс
 
-foo,
+фу,
 3
 
-- te ‘ 10
+- Те '10
 
-No.
+Нет.
 
-wy
+почему
 
 6
 
-ait
+эйт
 
-‘
+'
 
-Ret
+Рет
 
-TME
+ТМЕ
 
-T
+Т
 
-Sis
+сестренка
 
 | -------
 
@@ -2150,115 +2143,113 @@ Sis
 
 0347815
 
--~----- | B
+--~----- | Б
 
 190602-428-000
 
 0684878
 
-8 |91310-Ke8-003
+8 |91310-Ке8-003
 
 30
-C3
-16 BB
+С3
+16 ББ
 
-STARTER MOTOR .........
+СТАРТЕР МОТОР.......
 
-22 B11
+22 Б11
 
-THERMOSTAT .............
+ТЕРМОСТАТ .............
 
 40
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
 1726319
 
 16
 
-eee
+эээ
 
-a
+а
 
-WATER
-PRE
-ee
+ВОДА
+ПРЕДВАРИТЕЛЬНО
+эээ
 
-tee
+тройник
 
-em
+эм
 
-eter
+эфир
 
-ences
+энции
 
-36 C8
+36 С8
 
-0 C8
-Ba
+0 С8
+Ба
 
-WATER PUMP ............. 20 B10
+ВОДЯНОЙ НАСОС..........20 B10
 
-1425602
+1425602© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
-
-10 Bs
+10 баллов
 
 9
 
-GRID
+СЕТКА
 
-BA
+бакалавр
 
-CAM CHAIN e TENSIONER
+РАСПРОСТРАНИТЕЛЬ ЦЕПИ И НАТЯЖИТЕЛЬ
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-bs
+бс
 
-y
+й
 
 >
 
-ola
+ола
 
-Oo
+оо
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-Of;
+Из;
 
-0 Ol,
+0 Оль,
 
-;Y
+;Д
 
-ss
+сс
 
-gig|c
+концерт|с
 
-Ret.
-No.
+В отставке.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-E-4/4
+Е-4/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
 5
 
 4
 
-3 BRACKET ASSY., CAM CHAIN
+3 КРОНШТЕЙН В СБОРЕ, РАСПРЕДЦЕПЬ
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-Vv
+Вв
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 , : ,
 0
@@ -2269,54 +2260,54 @@ Of¢E
 
 8
 
-Q
+вопрос
 
 s s|A
-Ret
+Рет
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-E-4| 4 : 5
+Е-4| 4 : 5
 
-DESCRIPTION
+ОПИСАНИЕ
 
-1 SPROCKET, CAM
+1 ЗВЕЗДОЧКА, КУЛАЧОК
 
 ..cccecececeseecee
 
-2 CHAIN, CAM .ccacccnccccccessccce
+2 ЦЕПЬ, КУЛАЧОК.ccaccccccccessccce
 
 4
 
-BRACKET ASSY., CAM CKAIN
-TENSIONER ..nnenssasese enacese
+КРОНШТЕЙН В СБОРЕ, КУЛАЧОК CKAIN
+НАТЯЖИТЕЛЬ ..nnenssasese enacese
 
-FROM
+ОТ
 
 5
 
-4.5
+4,5
 4
 
-we
-BRACKET ASSY., CAM CHAIN
-TENSIONER .....esccesececscees
+мы
+КРОНШТЕЙН В СБОРЕ, РАСПРЕДЦЕПЬ
+НАТЯЖИТЕЛЬ .....выход
 
-y
+й
 
-ENGINE
+ДВИГАТЕЛЬ
 
-Ss |SERIAL NUMBER
+СС |СЕРИЙНЫЙ НОМЕР
 
 4. 5]€/
 
-3 BRACKET ASSY., CAM CHAIN
+3 КРОНШТЕЙН В СБОРЕ, РАСПРЕДЦЕПЬ
 
-TENSIONER 2... .csaccccscccaces
+НАТЯЖИТЕЛЬ 2... .csaccccscccaces
 
-c
+с
 
 :
 
@@ -2327,35 +2318,35 @@ c
 |
 4 -- 5
 
-4.5
+4,5
 7! 5
 
-TO
+ТО
 
-A
+А
 
-HONDA
+ХОНДА
 
 4
 
 5
 
-aa be)
+аа быть)
 
-a
+а
 
-Teese
+Тиз
 
-4 SPRING, TENSIONER ....s.ssee.00014
+4 ПРУЖИНА НАТЯЖИТЕЛЯ ....s.ssee.00014
 
 5
 
-5 TENSIONER, CAMCHAIN ..ccccceeece | 4
+5 НАТЯЖИТЕЛЬ РАСПРЕДЦЕПИ ..ccccceeece | 4
 
 5 | |
-eect
-en
-eee
+эффект
+ru
+эээ
 
 2
 
@@ -2373,7 +2364,7 @@ eee
 
 2247005
 
-6 GUIDE COMP. A, CAM CHAIN .........14
+6 РУКОВОДСТВО КОМП. А, ЦЕПЬ КУЛАЧКА.........14
 
 5
 
@@ -2383,7 +2374,7 @@ eee
 
 1241488
 
-7 BOLT, CAMCHAINGUIDEA ....e.000014
+7 БОЛТ РАСПРЕДЕЛИТЕЛЯ ....e.000014
 
 5
 
@@ -2393,7 +2384,7 @@ eee
 
 1241496
 
-8 GUIDE A, CAMCHAIN ...cecececeeee | 4
+8 НАПРАВЛЯЮЩАЯ A, РАСПРЕДЕЛИТЕЛЬНАЯ ЦЕПЬ ...cecececeeeee | 4
 
 5
 
@@ -2403,7 +2394,7 @@ eee
 
 1261504
 
-9 TUBE, TENSIONER SPRING ..........]4
+9 ТРУБКА, ПРУЖИНА НАТЯЖИТЕЛЯ ..........]4
 
 5
 
@@ -2413,7 +2404,7 @@ eee
 
 1707785
 
-TUBE, TENSIONER SPRING ........- (4°55
+ТРУБКА, ПРУЖИНА НАТЯЖИТЕЛЯ .......- (4°55
 
 2
 
@@ -2429,9 +2420,9 @@ TUBE, TENSIONER SPRING ........- (4°55
 
 1261520
 
-TENSIONER ..... weesnscccsceees
+НАТЯЖИТЕЛЬ ..... weesnscccsceees
 
-4.5
+4,5
 
 1
 
@@ -2439,7 +2430,7 @@ TENSIONER ..... weesnscccsceees
 
 1261538
 
-12 PINA, ARM ..e.scssseescseaseeeee
+12 ПИНА, ARM ..e.scssseescseaseeeee
 
 45
 
@@ -2449,22 +2440,22 @@ TENSIONER ..... weesnscccsceees
 
 1241546
 
-..cccccccacnccccccce
+..ccccccacnccccccce
 
 4
 
 ~--===-
 
-2103596 | 2 | 14510-MNO-000
+2103596 | 2 | 14510-МНО-000
 2
 
 |14514-MB0-000
 
-13 HOLDER ASSY. B, CAM CHAIN
+13 ДЕРЖАТЕЛЬ В СБОРЕ. Б, ЦЕПЬ КУЛАЧКА
 
 1
 
-|14540-"BU-870
+|14540-"БУ-870
 
 1724327
 
@@ -2484,7 +2475,7 @@ TENSIONER ..... weesnscccsceees
 
 1261405
 
-15 ARM COMP., CAM CHAIN TENSIONER ...|4
+15 КОМПЛЕКТ РЫЧАГА, НАТЯЖИТЕЛЬ ЦЕПИ РАСПРОСТРАНИТЕЛЯ ...|4
 
 5
 
@@ -2498,7 +2489,7 @@ TENSIONER ..... weesnscccsceees
 
 1241413
 
-ARM COMP., CAM CHAIN TENSIONER ...|
+КОМПЛЕКТ РЫЧАГА, НАТЯЖИТЕЛЬ ЦЕПИ РАСПРОСТРАНИТЕЛЯ ...|
 
 4
 
@@ -2514,18 +2505,18 @@ ARM COMP., CAM CHAIN TENSIONER ...|
 
 1708049
 
-16 BRACKET COMP., CAM CHAIN
-TENSIONER HOLDER ...sceccceses
+16 КОМПЛЕКТ КРОНШТЕЙНА РАСПРЕДЕЛИТЕЛЬНОЙ ЦЕПИ
+ДЕРЖАТЕЛЬ НАТЯЖИТЕЛЯ ...см.
 
 4
 
-won-=-—
+выиграл-=-—
 
 2
-|14510-mK3-000
-82103596 | 2 | 14510-MK3-000
+|14510-мК3-000
+82103596 | 2 | 14510-МК3-000
 2
-114510-M80-87'4
+114510-М80-87'4
 2103596 | 2 | 14510-MB0-871
 
 2017184
@@ -2545,14 +2536,14 @@ won-=-—
 
 2246999
 
-wonmmmm § 2103596 | 2 | 14510-MB0-873
+вонмммм § 2103596 | 2 | 14510-MB0-873
 
-GASKET KITA............,
-GASKET KITB....2...00...
-GEARSHIFT DRUM .........
-OIL FILTER 000.2,
-OIL PAN 2.00.0,
-OI PUMP ...0 2.00...
+КОМПЛЕКТ ПРОКЛАДОК............,
+КОМПЛЕКТ ПРОКЛАДОК....2...00...
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ.......
+ФИЛЬТР МАСЛЯНЫЙ 000.2,
+МАСЛЯНЫЙ ПОДДОН 2.00.0,
+ОИ НАСОС ...0 2.00...
 
 5
 
@@ -2570,10 +2561,10 @@ OI PUMP ...0 2.00...
 
 2011245
 
-BRACKET COMP., CAM CHAIN
-TENSIONER HOLDER ..cececccesss
+КОМПЛЕКТ КРОНШТЕЙНА, РАСПРЕДЕЛЬНАЯ ЦЕПЬ
+ДЕРЖАТЕЛЬ НАТЯЖИТЕЛЯ ..cececccess
 
-4.5
+4,5
 
 2
 
@@ -2582,7 +2573,7 @@ TENSIONER HOLDER ..cececccesss
 2247039
 2585362
 
-.....00 ever l 4
+.....00 когда-либо л 4
 
 5
 
@@ -2590,7 +2581,7 @@ TENSIONER HOLDER ..cececccesss
 
 114560-MB0-873
 
-17 BOLT, UBS, 7X15 wesecsccnnccceees | 4:5
+17 БОЛТ, UBS, 7X15 wesecsccnnccceees | 4:5
 
 8
 
@@ -2600,24 +2591,24 @@ TENSIONER HOLDER ..cececccesss
 
 8
 
-|90026-1m8-000
+|90026-1м8-000
 
 2566990
 
-BOLT, UBS, 7X15 .eeeseeeseeseeene
+БОЛТ, УБС, 7X15 .eeeeeeseeseeene
 
 & 5
 
-18 WASHER, BMH... sesseeeceeseeseee [4 5
-19 WASHER, 6MM Wee aennne een ween aue
+18 ШАЙБА, БМХ... сессееееееееее [4 5
+19 ШАЙБА, 6 ММ.
 
 4 ! 5
 
 2737831
 
-=m Sema sn me
+=m Сема sn me
 
-mae en a
+Мэй и
 
 2
 
@@ -2627,15 +2618,15 @@ mae en a
 
 2
 
-90485-KE8-000
+90485-КЕ8-000
 
 1768571
 
 10
 
-S|
+С|
 
-| caeenn-
+| Каэнн-
 
 2103596 | 2
 
@@ -2643,14 +2634,14 @@ S|
 
 2585347
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
-VF700S ‘84 ENGINE NO.; RC2Z2E-2000008 To 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S '84 ENGINE NO.; RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO. ; RC221-EM000006 TO £M001081
+VF700S '84 НОМЕР ДВИГАТЕЛЯ; RC2Z2E-2000008 К 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S '84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S'84 № РАМЫ. ; RC221-EM000006 ДО £M001081
 
-22 PIN, LOCK, OMM .cccsseccccsevesee | 4
+22 PIN, ЗАМОК, OMM .cccssecccccsevesee | 4
 
 5
 
@@ -2660,29 +2651,28 @@ VF700S'84 FRAME NO. ; RC221-EM000006 TO £M001081
 
 0058487
 
-AMERICA
-HONDA
-MOTOR CO.N
-LTD. 1993
+АМЕРИКА
+ХОНДА
+ДВИГАТЕЛЬ CO.N
+ООО. 1993 год
 
-TENSIONER ........000....
-THERMOSTAT .............
-TRANSMISSION ...........
-VALVE ....0..........200..
-WATER PIPE ..............
-WATER PUMP .............
+НАТЯЖИТЕЛЬ........000....
+ТЕРМОСТАТ .............ТРАНСМИССИЯ............
+КЛАПАН ....0..........200..
+ВОДОПРОВОД ..............
+ВОДЯНОЙ НАСОС .............
 
 1
 
-VF?00S'85 ENGINE NO.; RCZ2Z2E-2100001 TO 2103668
+VF?00S'85 НОМЕР ДВИГАТЕЛЯ; RCZ2Z2E-2100001 К 2103668
 
-VF?00S'B5 FRAME NO.; RC220-FH100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+VF?00S'B5 НОМЕР РАМЫ; RC220-FH100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-30 C3
-42 C9
-26 C1
+30 С3
+42 С9
+26 С1
 
 2
 3
@@ -2694,61 +2684,61 @@ VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
 23
 23
 
-Bi
-BI
-BS
-Di
-Di
-C7
-B11
-Bt1
-B11
+Би
+БИ
+БС
+Ди
+Ди
+С7
+Б11
+Бт1
+Б11
 
-22 Bt
+22 Бт
 
-BRACKET ASSY., CAM CHAIN
+КРОНШТЕЙН В СБОРЕ, РАСПРЕДЦЕПЬ
 
-am
+я
 
 310
 
-13 B6
+13 Б6
 
-STARTER MOTOR .........
+СТАРТЕР МОТОР.......
 
-BRACKET COMP., CAm CHAIN
-TZNSIONER HOLDER
+КОМПЛЕКТ КРОНШТЕЙНА, ЦЕПЬ РАСПРЕДЕЛИТЕЛЯ
+ЦНИОНЕР ДЕРЖАТЕЛЬ
 
-BS
-B4
-C10
-C12
-C10
-B7
+БС
+Б4
+С10
+С12
+С10
+Б7
 
-30 C3
-16 BB
+30 С3
+16 ББ
 
-0 ee
-PULSE ALTERNATOR ......
-STARTER CLUTCH ..........
+0 ее
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ......
+СТАРТЕРНАЯ МУФТА..........
 
 .
 
-BRACKET COMP., CAM CHAIN
-TENSIONER HOLDER .......- eee
+КОМПЛЕКТ КРОНШТЕЙНА, РАСПРЕДЕЛЬНАЯ ЦЕПЬ
+ДЕРЖАТЕЛЬ НАТЯЖИТЕЛЯ.......- эээ
 
-BO
+БО
 
-PISTON...
+ПОРШЕНЬ...
 
 !
 5
 
 1708049
 
-CYLINDER HEAD, FR........
-CYLINDER HEAD, RR. ......
+ГОЛОВКА ЦИЛИНДРА, ПТ........
+ГОЛОВКА ЦИЛИНДРА, ЗАД. ......
 
 |
 
@@ -2756,215 +2746,215 @@ CYLINDER HEAD, RR. ......
 
 |14510-MB0-870
 
-CYLINDER BLOCK .........
-CYLINDER HEAD COVER...
+БЛОК ЦИЛИНДРОВ.......
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА...
 
 1241447
 
-TENSIONER ...ccccccncccccceces
+НАТЯЖИТЕЛЬ ...ccccccncccccceces
 
 |14510-MB0-870
 
-CRANKSHAFT .............
-CROSS SHAFT ............
+КОЛЕНВАЛ............
+КРЕСТОВОЙ ВАЛ............
 
 2524320
 
-14 GUIDE B, CAM CHAIN ....ccccecncse
+14 НАПРАВЛЯЮЩАЯ B, РАСПРОСТРАНИТЕЛЬНАЯ ЦЕПЬ ....ccccecncse
 
-BRACKET ASSY., CAM CHAIN
+КРОНШТЕЙН В СБОРЕ, РАСПРЕДЦЕПЬ
 
-w- 5
+ш- 5
 
-CODE
+КОД
 
-CODE
+КОД
 
 2103596 | 2
 
-wonnmmm=
+выигралнммм=
 
-HONDA
-|PART NUMBER
+ХОНДА
+|НОМЕР ДЕТАЛИ
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-BRACKET ASSY., CAM CHAIN
+КРОНШТЕЙН В СБОРЕ, РАСПРЕДЦЕПЬ
 
-TENSIONER ..ccscccsnvcnccsevec?
+НАТЯЖИТЕЛЬ ..ccscccsnvcnccsevec?
 
-Q
+вопрос
 
-Q
+вопрос
 
 -------
 
-weme=--
+мы=--
 
-le
+ле
 
-TO
+ТО
 
 |
 
-11 HOLDER ASSY. A, CAM CHAIN
+11 ДЕРЖАТЕЛЬ В СБОРЕ. А, ЦЕПЬ КУЛАЧКА
 
 0
 
 0
 
-SERIAL NUMBER
-FROM
+СЕРИЙНЫЙ НОМЕР
+ОТ
 
 18
-CAM CHAIN ............... 10
-CAMSHAFT ...............
+ЦЕПЬ КУЛАЧКА .............. 10
+РАСПРЕДВАЛ..........
 8
-CARBURETOR ASSY........ 44
-CARBURETOR COMPONENT 48
-CARBURETOR LINK ........ 44
-CLUTCH L000. 14
-CRANKCASE COVER, L.
+КАРБЮРАТОР В СБОРЕ........ 44
+КОМПОНЕНТ КАРБЮРАТОРА 48
+ТЯГА КАРБЮРАТОРА........44
+СЦЕПЛЕНИЕ L000. 14
+КРЫШКА КАРТЕРА, Л.
 .....-20
 
 :
 
 5
 
-10 PIN, 8X43.2
+10-контактный, 8X43,2
 
-A
+А
 
-ENGINE
+ДВИГАТЕЛЬ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
+ГЕНЕРАТОР .............
 
-“-
+«-
 
-TENSIONER, CAMCHAIN ..cceceseeee]
+НАТЯЖИТЕЛЬ, РАСПРЕДЦЕПЬ ..cceceseeee]
 
-E14MBOF‘04
+E14MBOF'04
 
 0
 
-5/E
+5/Е
 
-TITLE
+НАЗВАНИЕ
 
-GRID
+СЕТКА
 
-B5
+Б5
 
-16 BS
+16 БС
 
-10 BS
-40 C8
-36 Cé
-8 Ba
-40 Cé
-20 B10
+10 БС
+40 С8
+36 сентября
+8 Ба
+40 сентября
+20 Б10
 
-CAM CHAIN e TENSIONER
+РАСПРОСТРАНИТЕЛЬ ЦЕПИ И НАТЯЖИТЕЛЬ
 
-RIGHT CRANKCASE COVER
+КРЫШКА КАРТЕРА ПРАВАЯ
 
-CONTENTS
-TITLE
+СОДЕРЖАНИЕ
+НАЗВАНИЕ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
-CAM CHAIN ...............
-CAMSHAFT ...............
-CARBURETOR ASSY........
-CARBURETOR COMPONENT
-CARBURETOR LINK ........
-CLUTCH ..................
-CRANKCASE COVER. L ....
-CRANKCASE COVERLR.....
+ГЕНЕРАТОР .............
+КУЛАЧКОВАЯ ЦЕПЬ..........
+РАСПРЕДВАЛ..........
+КАРБЮРАТОР В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА........
+СЦЕПЛЕНИЕ............
+КРЫШКА КАРТЕРА. Л....
+КРЫШКА КАРТЕРА.....
 
-18 By
-10 BS
-8 B4
+18 Автор
+10 БС
+8 Б4
 
-CRANKSHAFT .............
-CROSS SHAFT ...........
-CYLINDER BLOCK .........
-CYLINDER
-HEAD COVER ....
-CYLINDER HEAD, FR... |...
+КОЛЕНВАЛ............
+КРЕСТОВОЙ ВАЛ...........
+БЛОК ЦИЛИНДРОВ.......
+ЦИЛИНДР
+ПОКРЫТИЕ ГОЛОВЫ....
+ГОЛОВКА ЦИЛИНДРА, FR... |...
 
-44 C10
-48 C12
-44 C10
-14 B7
-20 B10
-13 B6
-30 C3
-42 C9
-26 C1
-2 BI!
-3 8B
+44 С10
+48 С12
+44 С10
+14 Б7
+20 Б10
+13 Б6
+30 С3
+42 С9
+26 С1
+2 БИ!
+3 8Б
 
-GEARSHIFT ORUM ...0.
-OW FILTER... od...
-OI PAN ...30.. 8...
-OW PUMP. 330d,
-PISTON 2000.
-PULSE ALTERNATOR __
-STARTER CLUTCH.........
-STARTER MOTOR .........
-TENSIONER ...............
-THERMOSTAT .............
+ОРУМ ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ ...0.
+ОЙ ФИЛЬТР... ой...
+ОИ ПАН ...30.. 8...
+ОЙ НАСОС. 330д,
+ПОРШЕНЬ 2000.
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР __
+СТАРТЕРНАЯ МУФТА.......
+СТАРТЕР МОТОР.......
+НАТЯЖИТЕЛЬ ..............
+ТЕРМОСТАТ .............
 
-38 C7
-23 B11
+38 С7
+23 Б11
 23 811
 23 811
-20 C3
-16 Ba
-16 BB
-22 B11
-10 BS
-40 Cé
+20 С3
+16 Ба
+16 ББ
+22 Б11
+10 БС
+40 сентября
 
-CYLINDER HEAD.RR ...... 6 B3
-GASKET KITA ............. 50 01
-GASKET KITB............. 51 01
+ГОЛОВКА ЦИЛИНДРА.RR......6 B3
+КОМПЛЕКТ ПРОКЛАДОК ............. 50 01
+КОМПЛЕКТ ПРОКЛАДОК........... 51 01
 
 E14MBOE04
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-V
+В
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 7
 
 0
 0
 
-Ret.
-No.
+В отставке.
+Нет.
 
-BLOCKNO.
+БЛОКНО.
 
 7
 
-A
+А
 
 O|[€E
-Oo
-A
+оо
+А
 
-s
+с
 
-a
+а
 
-gic
+шутка
 
 4
 
@@ -2972,91 +2962,91 @@ gic
 
 9
 
-51E
+51Е
 
 E14MB0E05S
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-IR
+ИК
 
-s
+с
 
-E4/4
+Е4/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-v
+в
 
-Vov
+Вов
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-Q
-T
-
-0:0
+вопрос
+Т
 
 0:0
-Ss
-s
 
-SERIAL NUMBER
+0:0
+сс
+с
 
-R
+СЕРИЙНЫЙ НОМЕР
 
-FROM
+Р
 
-Q
+ОТ
 
-TO
+вопрос
 
-HONDA
+ТО
 
-Ret
+ХОНДА
 
-|PART NUMBER
+Рет
 
-CODE
+|НОМЕР ДЕТАЛИ
 
-No.
+КОД
 
-BLOCKNO.
-DESCRIPTION
+Нет.
 
-8|Cc
+БЛОКНО.
+ОПИСАНИЕ
+
+8|Копия
 
 4
 
-5/€E
+5/€Е
 
 5
 
 0
 
-Q
-T
+вопрос
+Т
 
-Y
+Да
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
-FROM
+СЕРИЙНЫЙ НОМЕР
+ОТ
 
-TO
+ТО
 
 /
 
-R
+Р
 
-HONDA
+ХОНДА
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 4
 
@@ -3068,9 +3058,9 @@ CODE
 
 0115527
 
-1 COVER ASSY., R. CRANKCASE .......
+1 КРЫШКА В СБОРЕ ПРАВОГО КАРТЕРА .......
 
-24 BOLT, FLANGE, 6X16 .e.cccccccccce
+24 БОЛТ, ФЛАНЕЦ, 6X16 .e.ccccccccccce
 
 4
 
@@ -3092,7 +3082,7 @@ CODE
 
 0496653
 
-2 GASKET, R. COVER ..ccecccccccuces
+2 ПРОКЛАДКА ПРАВОЙ КРЫШКИ ..ccecccccccuces
 
 45
 
@@ -3104,11 +3094,11 @@ CODE
 
 1
 
-115611-B0-000
+115611-В0-000
 
 1241728
 
-BOLT, FLANGE, 6X16 ...ccscecesecs
+БОЛТ, ФЛАНЕЦ, 6X16 ...ccscecesecs
 
 4
 
@@ -3118,15 +3108,13 @@ BOLT, FLANGE, 6X16 ...ccscecesecs
 
 195701-06016-00
 
-2410892
-
-3 CAP, OIL FILTER ...scsesceuccscee
+24108923 КРЫШКА МАСЛЯНОГО ФИЛЬТРА ...scsesceuccscee
 
 4
 
 5
 
-25 BOLT, FLANGE, 6X44 .eccccccccccee
+25 БОЛТ, ФЛАНЕЦ, 6X44 .eccccccccccee
 
 4
 
@@ -3138,13 +3126,13 @@ BOLT, FLANGE, 6X16 ...ccscecesecs
 
 0782854
 
-4 GAUGE, OIL LEVEL ....ecccecesecss
+4 ДАТЧИК УРОВНЯ МАСЛА ....ecccecesecss
 
 4
 
 5
 
-BOLT, FLANGE, 6X14 .ocecaccccccce
+БОЛТ, ФЛАНЕЦ, 6X14 .ocecaccccccce
 
 1
 
@@ -3162,7 +3150,7 @@ BOLT, FLANGE, 6X14 .ocecaccccccce
 
 2154672
 
-5 CLAMP, PULSER CORD ....ecsceveee 14
+5 ЗАЖИМ, ШНУР ИМПУЛЬСА ....ecsceveee 14
 
 5
 
@@ -3172,7 +3160,7 @@ BOLT, FLANGE, 6X14 .ocecaccccccce
 
 1243070
 
-6 O-RING, 22X3.0 ..ceveccccccccecs 4
+6 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 22X3,0 ..ceveccccccccecs 4
 
 5
 
@@ -3182,7 +3170,7 @@ BOLT, FLANGE, 6X14 .ocecaccccccce
 
 0035287
 
-O-RING, 22X3.0 ..cececcccencece 1455
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 22X3,0 ..cececcccencece 1455
 
 1
 
@@ -3196,19 +3184,19 @@ O-RING, 22X3.0 ..cececcccencece 1455
 
 1768746
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S "84 FRAME NO.; RC270-EM000007 TO EM00S012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S "84 НОМЕР РАМЫ; RC270-EM000007 ДО EM00S012
 
-VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
-VF700S'84 FRAME NO. RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
+VF700S'84 № РАМЫ. RC221-EM000006 ДО EM001081
 
 66
 
-..ccccecsceeecs 145
+..ccccecceeecs 145
 
-8 PINA, DOWEL, 8X14 ..... oteneaees
+8 ПИНА, ДЮБЕЛЬ, 8Х14 .....отенеаее
 
 4
 
@@ -3220,7 +3208,7 @@ VF700S'84 FRAME NO. RC221-EM000006 TO EM001081
 
 0069310
 
-9 BOLT, FLANGE, X28 ...ccceceseceel
+9 БОЛТ ФЛАНЕЦ X28 ...ccceceseceel
 
 4
 
@@ -3233,7 +3221,7 @@ VF700S'84 FRAME NO. RC221-EM000006 TO EM001081
 0807339
 2106011
 
-BOLT, FLANGE, 6X28 ...... weceeeeel
+БОЛТ, ФЛАНЕЦ, 6X28 ...... мыееееель
 
 &
 
@@ -3243,7 +3231,7 @@ BOLT, FLANGE, 6X28 ...... weceeeeel
 
 |96001-06028-07
 
-10 BOLT, FLANGE, 6X32 wenae veonvpueay
+10 БОЛТ ФЛАНЕЦ, 6X32 wenae veonvpueay
 
 4
 
@@ -3255,7 +3243,7 @@ BOLT, FLANGE, 6X28 ...... weceeeeel
 
 1292242
 
-BOLT, FLANGE, 6X32 ..eccceceeeess]
+БОЛТ, ФЛАНЕЦ, 6X32 ..eccceceeeess]
 
 4
 
@@ -3267,7 +3255,7 @@ BOLT, FLANGE, 6X32 ..eccceceeeess]
 
 2458750
 
-11 BOLT, FLANGE, 6X35 ...ceeseecceee | 4
+11 БОЛТ, ФЛАНЕЦ, 6X35 ...посмотрите | 4
 
 5
 
@@ -3277,7 +3265,7 @@ BOLT, FLANGE, 6X32 ..eccceceeeess]
 
 0807362
 
-BOLT, FLANGE, 6X35 ..ecccecusasee
+БОЛТ, ФЛАНЕЦ, 6X35 ..ecccecusasee
 
 5
 
@@ -3289,105 +3277,105 @@ BOLT, FLANGE, 6X35 ..ecccecusasee
 
 14
 
-@ AMERIC
-HONDA MOTOR
-AN CO. LTD. 1993
+@ АМЕРИКА
+ХОНДА МОТОР
+АН КО. ЛТД. 1993 год
 
 13
 
-VF700S'85 ENGINE NO. RC22E-2100001 TO 2103668
+НОМЕР ДВИГАТЕЛЯ VF700S'85. RC22E-2100001 К 2103668
 
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM 102800
-VF700S'8S ENGINE NO.; RC22E~-2100001 TO 2103285
-VF?00S'85 FRAME NO.; RC221-FM100001 TO FM100863
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 К FM 102800
+НОМЕР ДВИГАТЕЛЯ VF700S'8S; RC22E~-2100001 ДО 2103285
+VF?00S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-36 Cé
+36 сентября
 
-8 B4
+8 Б4
 
-WATER inPreteens een po Bo
+ВОДА в Preteens een po Bo
 
-23 PIN, LOCK, 8MM ..ccccecceccccccce
+23 PIN, ЗАМОК, 8 ММ ..ccccecceccccccce
 
-7 O-RING, 8.4X2.4
+7 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 8,4X2,4
 
 12
 
 £-5|4
 
-E
-A
+Э
+А
 
 8
 
 ...........
 
-VALVE .....0.0.00.00.00...
+КЛАПАН .....0.0.00.00.00...
 
-771k
+771 тыс.
 
-v
+в
 
-ENGINE
+ДВИГАТЕЛЬ
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
-A
+А
 
-GRID
+СЕТКА
 
-B6
+Б6
 
-CLUTCH
+СЦЕПЛЕНИЕ
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-VV
+ВВ
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-fF EIA
+ф ОВОС
 
 0
 
-Ret.
-No.
+В отставке.
+Нет.
 
-a
+а
 
-BLOCK NO.
+БЛОК №.
 
 E-6])4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-4=V
+4=В
 
 :
 
-Vv
+Вв
 
-a §aik
+§айк
 
-;Y
+;Д
 
-s
+с
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-gs
+гс
 
-B6)4
+Б6)4
 
-DESCRIPTION
+ОПИСАНИЕ
 
 4
 
-aic
+айк
 
 5
 
@@ -3395,21 +3383,21 @@ aic
 
 5{/£]
 
-ENGINE
+ДВИГАТЕЛЬ
 
-a
+а
 
-FROM
+ОТ
 
-HONDA
+ХОНДА
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-TO
+ТО
 
-1 SPROCKET, OIL PUMP DRIVE (267) ...14
+1 ЗВЕЗДОЧКА ПРИВОДА МАСЛЯНОГО НАСОСА (267) ...14
 
 5
 
@@ -3419,7 +3407,7 @@ TO
 
 1241645
 
-2 OUTER COMP., CLUTCH .......sc0se.
+2 НАРУЖНЫЙ КОМПЛЕКТ, СЦЕПЛЕНИЕ .......sc0se.
 
 5
 
@@ -3437,7 +3425,7 @@ TO
 
 2155687
 
-3 GUIDE, CLUTCH OUTER .....cseceeee
+3 НАПРАВЛЯЮЩАЯ, НАРУЖНАЯ СЦЕПЛЕНИЯ .....cseceeee
 
 4
 
@@ -3449,9 +3437,9 @@ TO
 
 1242536
 
-4 CENTER, CLUTCH
+4 ЦЕНТР, СЦЕПЛЕНИЕ
 
-.....cccceeeccees
+.....cccceeccees
 
 4
 
@@ -3461,11 +3449,11 @@ TO
 
 |22120-mB1-770
 
-oh2 146
+ох2 146
 
-CENTER, CLUTCH
+ЦЕНТР, СЦЕПЛЕНИЕ
 
-......seccceseces
+......сексекесес
 
 4
 
@@ -3473,17 +3461,17 @@ CENTER, CLUTCH
 
 1
 
-|22120-¥NO-000
+|22120-¥НО-000
 
 2525442
 
-5 DISK, CLUTCH FRICTION .....00. 14
+5 ДИСК, ТРЕНИЕ СЦЕПЛЕНИЯ .....00. 14
 
 |22201-MB0-003
 
 1242551
 
-OUTER COMP., CLUTCH ......secceee
+НАРУЖНЫЙ КОМПЛЕКТ, СЦЕПЛЕНИЕ ......см.
 
 4
 
@@ -3497,7 +3485,7 @@ OUTER COMP., CLUTCH ......secceee
 
 6
 
-|22201-mM15-000
+|22201-мМ15-000
 
 3143401
 
@@ -3511,7 +3499,7 @@ OUTER COMP., CLUTCH ......secceee
 
 2045615
 
-PLATE B, CLUTCH ...ccceusessccees | &
+ПЛАСТИНА B, СЦЕПЛЕНИЕ ...ccceusessccees | &
 
 5
 
@@ -3521,7 +3509,7 @@ PLATE B, CLUTCH ...ccceusessccees | &
 
 0075705
 
-7 PLATE, CLUTCH PRESSURE ..........14
+7 ДИСК, ДАВЛЕНИЕ СЦЕПЛЕНИЯ ..........14
 
 5
 
@@ -3531,7 +3519,7 @@ PLATE B, CLUTCH ...ccceusessccees | &
 
 1242569
 
-8 PIECE, CLUTCH JOINT ....ccceeeeee
+8 ЧАСТЕЙ, СОЕДИНЕНИЕ СЦЕПЛЕНИЯ ....ccceeeeeee
 
 14
 
@@ -3553,15 +3541,15 @@ PLATE B, CLUTCH ...ccceusessccees | &
 
 1242585
 
-DISK, CLUTCH FRICTION .....sseee,
+ДИСК, ТРЕНИЕ СЦЕПЛЕНИЯ .....смее,
 
-6 PLATE, CLUTCH
+6 ДИСК, СЦЕПЛЕНИЕ
 
-9 SPRING, CLUTCH
+9 ПРУЖИНА, СЦЕПЛЕНИЕ
 
 ....ccccecnsceracs
 
-10 ROD, CLUTCH LIFTER ....ecesesees,
+10 ТЯГА ПОДЪЕМНИКА СЦЕПЛЕНИЯ ....ecesesees,
 
 4
 
@@ -3573,7 +3561,7 @@ DISK, CLUTCH FRICTION .....sseee,
 
 1242593
 
-11 GEAR, PRIMARY DRIVE ..... wesones 14
+11 ПЕРЕДАЧА, ПЕРВИЧНЫЙ ПРИВОД ..... весоны 14
 
 5
 
@@ -3583,7 +3571,7 @@ DISK, CLUTCH FRICTION .....sseee,
 
 1781574
 
-12 NUT, LOCK, 22MM .......ccesessees
+12 ГАЙКА ЗАМОКОВАЯ, 22 ММ .......держатели
 
 5
 
@@ -3599,40 +3587,38 @@ DISK, CLUTCH FRICTION .....sseee,
 
 -
 
-€ AMERICAN HONDA MOTOR CO, LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO, LTD. 1993 год
 
-VF700S"84 ENGINE NO.; RC22E~2000008 70 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-
-VF?00S'84 ENGINE NO.; RC22E-2002575 10 2006097
-VF700S'84 FRAME NO. ; RC221-EM000006 TO £M001081
+VF700S"84 НОМЕР ДВИГАТЕЛЯ; RC22E~2000008 70 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012VF?00S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 10 2006097
+VF700S'84 № РАМЫ. ; RC221-EM000006 ДО £M001081
 
 87
 
-VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S‘85 ENGINE NO.; RC22E~2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E~2100001 ДО 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S’85; RC22E~2100001 ДО 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
 5
 
-S
+С
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-A
+А
 
-HONDA
+ХОНДА
 
-FROM
+ОТ
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-13 COLLAR, 25.2X7 vescecececeecceee|
+13 ВОРОТНИК, 25,2X7 vescecececeecceee|
 
 4
 
@@ -3644,7 +3630,7 @@ CODE
 
 1243542
 
-14 WASHER, SPRING, 22MM ..-csceseee0/
+14 ШАЙБА ПРУЖИННАЯ 22MM ..-cscesee0/
 
 4
 
@@ -3656,7 +3642,7 @@ CODE
 
 1243583
 
-WASHER, SPRING, 22MM w.eseceseeee]
+ШАЙБА ПРУЖИННАЯ 22MM с eseceseeee]
 
 4
 
@@ -3668,7 +3654,7 @@ WASHER, SPRING, 22MM w.eseceseeee]
 
 2408615
 
-15 WASHER, THRUST, 25MM ..sessceseee
+15 ШАЙБА УПОРНАЯ, 25ММ ..сессесееее
 
 4
 
@@ -3680,7 +3666,7 @@ WASHER, SPRING, 22MM w.eseceseeee]
 
 1243661
 
-16 WASHER, 6X19 ..sescecececceeeeee|
+16 ШАЙБА, 6X19 ..sescecececceeeeee|
 
 4
 
@@ -3690,7 +3676,7 @@ WASHER, SPRING, 22MM w.eseceseeee]
 
 |90481-259-000
 
-17 BEARING, RADIAL BALL, 16003 .....)4
+17 ПОДШИПНИК РАДИАЛЬНЫЙ ШАРИКОВЫЙ, 16003 .....)4
 
 0040220
 
@@ -3698,11 +3684,11 @@ WASHER, SPRING, 22MM w.eseceseeee]
 
 1
 
-197008~-kK6-000
+197008~-кК6-000
 
 2043123
 
-BEARING, RADIAL BALL, 16003 ...../4
+ПОДШИПНИК РАДИАЛЬНЫЙ ШАРИКОВЫЙ, 16003 ...../4
 
 5
 
@@ -3712,13 +3698,13 @@ BEARING, RADIAL BALL, 16003 ...../4
 
 0334854
 
-BEARING, RADIAL BALL, 16003
+ПОДШИПНИК РАДИАЛЬНЫЙ ШАРИКОВЫЙ, 16003
 
 5
 
 .....[4
 
-TO
+ТО
 
 -
 
@@ -3736,10 +3722,10 @@ TO
 
 1243807
 
-BEARING, NEEDLE, 35x42x30
-(NIPPON) ...sececscececeescecs
+ПОДШИПНИК ИГОЛЬЧАТЫЙ, 35x42x30
+(НИППОН) ...sececsceceescecs
 
-4S
+4С
 
 1
 
@@ -3747,9 +3733,9 @@ BEARING, NEEDLE, 35x42x30
 
 1263815
 
-19 CLIP, PISTON PIN, 15MM .......cee
+19 ЗАЖИМ, ПОРШНЕВЫЙ ПАЛЬЦЕВ, 15MM .......cee
 
-4.5
+4,5
 
 1
 
@@ -3757,7 +3743,7 @@ BEARING, NEEDLE, 35x42x30
 
 0156018
 
-20 BOLT, FLANGE, 6X20 ....scecesess 1405
+20 БОЛТ, ФЛАНЕЦ, 6X20 ....scecesess 1405
 
 5
 
@@ -3775,77 +3761,77 @@ BEARING, NEEDLE, 35x42x30
 
 45
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
-CAM CHAIN .
+ГЕНЕРАТОР .............
+КУЛАЧКОВАЯ ЦЕПЬ.
 
-STE
+СТЭ
 
-BOLT, FLANGE, 6X20 .....cseeeeeee
+БОЛТ, ФЛАНЕЦ, 6X20 .....смееееее
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-a|c
+а|с
 
-TILE
+ПЛИТКА
 
-Q
+вопрос
 
 4
 
-18 BEARING, NEEDLE, 35X42x30 (TOYO)
+18 ПОДШИПНИК ИГОЛЬЧАТЫЙ, 35X42x30 (TOYO)
 E14MB0E06
 
-Ole
+Оле
 
-CAMSHAFT ...............
-CARBURETOF: ASSY........
-CARBURETOR COMPONENT
-CARBURETOR LINK ........
-CLUTCH...
+РАСПРЕДВАЛ..........
+КАРБЮРАТОР: В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА........
+СЦЕПЛЕНИЕ...
 
-18 BS
+18 БС
 
 10 85
 
-8 B4
-44 C10
-48 C12
-44 C10
-14 B7
+8 Б4
+44 С10
+48 С12
+44 С10
+14 Б7
 
-CRANKCASE COVER, L.
-CRANKCASE COVER. R......
-CRANKSHAFT .............
-CROSS SHAFT
+КРЫШКА КАРТЕРА, Л.
+КРЫШКА КАРТЕРА. Р......
+КОЛЕНВАЛ............
+КРЕСТОВОЙ ВАЛ
 .
-CYLINDER BLOCK
+БЛОК ЦИЛИНДРОВ
 ........
-CYLINDER HEAD COVER
-CYLINDER HEAD. FR |...
-CYLINDER HEAD. RR... ...
-GASKET KIT A
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
+ГОЛОВКА ЦИЛИНДРА. ФР |...
+ГОЛОВКА ЦИЛИНДРА. РР... ...
+КОМПЛЕКТ ПРОКЛАДОК А
 .
-GASKET KITB.. oo...
-GEARSHIFT ORUM ........
-OM FILTER 0.0...
-OIL PAN 200002...
-OM PUMP...
-PISTON...
+КОМПЛЕКТ ПРОКЛАДОК.. оо...
+ОРУМ ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ........
+ОМ ФИЛЬТР 0.0...
+МАСЛЯНЫЙ ПОДДОН 200002...
+ОМ НАСОС...
+ПОРШЕНЬ...
 28. 2.
-PULSE ALTERNATOR ......
-STARTER CLUTCH .........
-STARTER MOTOR .........
-TENSIONER ...............
-THERMOSTAT .............
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ......
+СТАРТЕРНАЯ МУФТА.......
+СТАРТЕР МОТОР.......
+НАТЯЖИТЕЛЬ ..............
+ТЕРМОСТАТ .............
 
 20
 13
 30
 62
 
-B10
+Б10
 
 6
 50
@@ -3862,109 +3848,109 @@ B10
 40
 
 83
-D1
-Dt
-C7
-BI
-B11
-B11
+Д1
+Дт
+С7
+БИ
+Б11
+Б11
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
-36 C6
+36 С6
 
 ...
 
 .......
 
-VALVE ..... 6. eee.
+КЛАПАН..... 6. эээ.
 
-WATER PIPE
-WATER PUMP
+ВОДЯНАЯ ТРУБА
+ВОДЯНОЙ НАСОС
 
 .....
 
 ........
 .
 
-4 AMERICAN HONDA MOTOR CO, LTD. 1993
+4 АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
-GRID
+СЕТКА
 
-B7
+Б7
 
-BB
-C3
-CO
-26 C1
-2 BI
-3 BI
+ББ
+С3
+СО
+26 С1
+2 БИ
+3 БИ
 
-C3
-Ba
-BB
-B11
-BS
-C8
+С3
+Ба
+ББ
+Б11
+БС
+С8
 
-8 Ba
+8 Ба
 
-40 C8
-20 B10
+40 С8
+20 Б10
 
-PULSE ALTERNATOR e STARTER CLUTCH
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР И СТАРТЕРНАЯ МУФТА
 
-a= Vey obe 'es
+a= Очень повинуюсь
 
-roela
+Роэла
 
 6
 0
 
-s
+с
 
-Ret.
-No.
+В отставке.
+Нет.
 
-BLOCKNO.
-DESCRIPTION
+БЛОКНО.
+ОПИСАНИЕ
 
 (4
 
-10 STAY A, PULSE ALTERNATOR (TOYO...)4
+10 STAY A, ИМПУЛЬСНЫЙ ГЕНЕРАТОР (TOYO...)4
 
 ~- §
 
 > = wr70s8s
 
-66 r
+66 р
 
-F
+Ф
 
-FIA
+ФИА
 
 :
 
 .
 
-Ret.
+В отставке.
 
-Ne.
+Не.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-a a|c
-E-7/4 | 5/5]
+а а | с
+Е-7/4 | 5/5]
 
-4 SE]
+4 ЮВ]
 
-FROM
+ОТ
 
 3823937
 
-CRANKCASE COVER,
+КРЫШКА КАРТЕРА,
 
 3823937
 
@@ -3986,24 +3972,24 @@ CRANKCASE COVER,
 
 |30320-mB0~154
 
-CRANKCASE COVER, L.
+КРЫШКА КАРТЕРА, Л.
 
-R.....
+Р.....
 
-CROSS SHAFT ............
+КРЕСТОВОЙ ВАЛ............
 
-CYLINDER BLOCK .........
+БЛОК ЦИЛИНДРОВ.......
 
-CYLINDER HEAD COVER
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
 
-CYUNDER MEAD, FR.
-YLUINDER HEAD, RR
+САЙНДЕР МИД, ФР.
+ЮЛИНДЕР ХЕД, RR
 
 1243096
 
 ......
 
-GASKET KITB.............
+КОМПЛЕКТ ПРОКЛАДОК.............
 
 5
 
@@ -4013,9 +3999,9 @@ GASKET KITB.............
 
 2104685
 
-GEARSHIFT DRUM
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
 
-BOLT, FLANGE, 12x40 oeennntateonon
+БОЛТ, ФЛАНЕЦ, 12x40 oennntateonon
 
 4
 
@@ -4027,13 +4013,13 @@ BOLT, FLANGE, 12x40 oeennntateonon
 
 0684803
 
-OL FILTER 2000000.
-23 Bit
-OM.
-PAN Leen cece eecnnae 2a
-B11
+ОЛ ФИЛЬТР 2000000.
+23 бита
+ОМ.
+ПАН Лин cece eecnnae 2a
+Б11
 
-13 WASHER, THRUST .....ceceseeeeeee (4
+13 ШАЙБА УПОРНАЯ .....ceceseeeeeeee (4
 
 5
 
@@ -4043,9 +4029,9 @@ B11
 
 1243682
 
-pote BBM
+Поте ББМ
 
-14 PIN, DOWEL, BXB ....sseeeecseees
+14 ШТИФТ, ДЮБЕЛЬ, BXB ....посмотрю
 
 4
 
@@ -4057,19 +4043,17 @@ pote BBM
 
 1263724
 
-PULSE ALTERNATOR ......
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ......
 
-STARTER GTO
+СТАРТЕР ГТО
 
-16 88
-
-15 BEARING, NEEDLE, 30X35X17 ....00.
+16 8815 ПОДШИПНИК ИГОЛЬЧАТЫЙ, 30Х35Х17....00.
 
 4
 
 22
-22 BI
-Bt
+22 БИ
+БТ
 
 4
 
@@ -4083,7 +4067,7 @@ Bt
 
 0843441
 
-WATER PUMP oo. 20 B10
+ВОДЯНОЙ НАСОС оо. 20 Б10
 
 5
 
@@ -4093,12 +4077,12 @@ WATER PUMP oo. 20 B10
 
 0262964
 
-CODE
+КОД
 
-18 SCREW, PAN, 4X10 ....ccccceenccee 4
-19 WASHER, SPRING, SMM... ...ceees 4
+18 ВИНТ, КОВАР, 4X10 ....ccccceenccee 4
+19 ШАЙБА ПРУЖИННАЯ SMM... ...ceees 4
 
-20 BOLT, FLANGE, 8X14 .....scecceeee 4 5
+20 БОЛТ, ФЛАНЕЦ, 8X14 .....изображение 4 5
 
 5
 
@@ -4108,7 +4092,7 @@ CODE
 
 0346114
 
-BOLT, FLANGE, 8X14 ........0000. 14
+БОЛТ, ФЛАНЕЦ, 8X14........0000. 14
 
 5
 
@@ -4121,15 +4105,15 @@ BOLT, FLANGE, 8X14 ........0000. 14
 2611015
 1244011
 
-HONDA
+ХОНДА
 
 5
 
-1 | 13171-6S7-000
+1 | 13171-6С7-000
 
 2754323
 
-PIN, PISTON, 10X33 ......seec. veel
+ШТИФТ ПОРШНЕВЫЙ, 10X33 ......см. вель
 
 &
 
@@ -4141,7 +4125,7 @@ PIN, PISTON, 10X33 ......seec. veel
 
 0360024
 
-2 GEAR, STARTER REDUCTION (211/827) | 4
+2-ШЕСТЕРНЯ, СТАРТЕР-РЕДУКЦИЯ (211/827) | 4
 
 5
 
@@ -4151,7 +4135,7 @@ PIN, PISTON, 10X33 ......seec. veel
 
 1263013
 
-3 GEAR COMP., STARTER CLUTCH ......
+3-ШЕСТЕРНЕВЫЙ КОМПЛЕКТ, МУФТА СТАРТЕРА ......
 
 4
 
@@ -4163,8 +4147,8 @@ PIN, PISTON, 10X33 ......seec. veel
 
 1243021
 
-GEAR COMP.
-, STARTING CLUTCH (48T) | 4
+РЕДУКТОРНЫЙ КОМП.
+, ПУСКОВАЯ МУФТА (48T) | 4
 
 5
 
@@ -4180,17 +4164,17 @@ GEAR COMP.
 
 1243039
 
-5 OUTER COMP., STARTER CLUTCH .....14
+5 НАРУЖНЫЙ КОМПЛЕКТ, МУФТА СТАРТЕРА .....14
 
 5
 
 1
 
-|28120-"B1-870
+|28120-"Б1-870
 
 1724848
 
-6 SPRING, STARTING CLUTCH ROLLER ..|
+6 ПРУЖИНА ПУСКОВОГО РОЛИКА СЦЕПЛЕНИЯ ..|
 
 4
 
@@ -4208,7 +4192,7 @@ GEAR COMP.
 
 3 |28126~4 15-000
 
-21 ROLLER, 6X15 ..cscucccccnccceces
+21 РОЛИК, 6X15 ..cscucccccnccceces
 
 4
 
@@ -4218,19 +4202,19 @@ GEAR COMP.
 
 3 |95700-08014-08
 
-WATER PPE ..............
+ВОДНЫЕ СИЗ ..............
 
 0417949
 
-7 CAP, STARTING CLUTCH ROLLER
+7 КРЫШКА, ПУСКОВОЙ РОЛИК СЦЕПЛЕНИЯ
 
 -~
 
 5§
 
-ALTERNATOR ASSY., PULSE (TOYO) ..14
+ГЕНЕРАТОР В СБОРЕ, ИМПУЛЬСНЫЙ (TOYO)..14
 
-“~
+«~
 
 16
 
@@ -4248,7 +4232,7 @@ wewnem-
 
 ~-
 
-aiaatmatenal
+айаатматеналь
 
 1
 
@@ -4272,12 +4256,12 @@ aiaatmatenal
 
 1974831
 
-@ AMERICAN HONDA MOTOR 00. LTD. 1993
+@ АМЕРИКАНСКАЯ ХОНДА МОТОР 00. ЛТД. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO £M005012
-VF700S'84 ENGINE NO.; RC22E-2002575 10 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO £001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО £M005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 10 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО £001081
 
 16 88
 
@@ -4285,262 +4269,260 @@ VF700S'84 FRAME NO.; RC221-EM000006 TO £001081
 
 4
 
-Saeaaatana
+Саааатана
 
-38 C7
+38 С7
 
-17 BOLT-WASHER, 6X25 .....eecereee 14 5
+17 БОЛТ-ШАЙБА, 6X25 .....eecereee 14 5
 
-PIN, PISTON ...csccesecccssarcce
+ШТИФТ, ПОРШЕНЬ ...csccesecccssarcce
 
 -~
 
 51 01
 
-THERMOSTATAT Wo... 40
-40 ce
-C8
-VALVE...
-B BS
+ТЕРМОСТАТ Wo... 40
+40 н.э.
+С8
+КЛАПАН...
+Б БС
 
 1709106
 
-ALTERNATOR ASSY., PULSE .........14
+ГЕНЕРАТОР В СБОРЕ, ИМПУЛЬСНЫЙ ......14
 
 6
 
-GASKET KITA... 50 D1
+КОМПЛЕКТ ПРОКЛАДОК... 50 D1
 
-ST
-MOTOR
+СТ
+МОТОР
 .........
-STARTER
-MOTOR
+СТАРТЕР
+МОТОР
 «
 
 |13111-GK8-000
 
 |30300-MB0-154
-|30300-MBO-154
+|30300-МБО-154
 
-2 B1
+2 Б1
 
 38)
 
-12 BOLT, FLANGE, 12X45 .......00.000/4
+12 БОЛТ ФЛАНЕЦ, 12X45 .......00.000/4
 
-BOLT-WASHER, 6X25 2... .ceccecces
+БОЛТ-ШАЙБА, 6X25 2... .cccecces
 
 1
 2102366 | 1
 
-42 C9
+42 С9
 
-26 C1
+26 С1
 
 1243781
 
 1
 
-8 ALTERNATOR ASSY., PULSE (TOYO) ..14 --- 5
+8 ГЕНЕРАТОР В СБОРЕ, ИМПУЛЬСНЫЙ (TOYO)..14 --- 5
 
-13 B6
+13 Б6
 
-CRANKSHAFT 00... 30 63
+КОЛЕНВАЛ 00... 30 63
 
 1243799
 0192732
 
 5
 
-SPRING wcccccesssccecccecceese|
+ВЕСНА
 
-20 B10
+20 Б10
 
 191022-B0-004
 |91101-516-000
 
 4
 
-4.5
+4,5
 
-CARBURETOR
-LINK 4a
-44 C10
-CLUTCH
-Be
+КАРБЮРАТОР
+ССЫЛКА 4а
+44 С10
+СЦЕПЛЕНИЕ
+Будь
 
-|30300-Ms4-405
+|30300-Мс4-405
 
 1
 
-ASS) ae
-OR COMPONENT a Ge
+жопа) ае
+ИЛИ КОМПОНЕНТ a Ge
 
-CODE A
+КОД А
 
 2102366 | 1
 
 5
 
-ro BS
+ро BS
 
 |91022-MB0-003
 
-1 PIN, PISTON, 10X33 ...ccceeceeaes
+1 ШТИФТ, ПОРШЕНЬ, 10X33 ...ccceeeeaes
 
-4 FLANGE, STARTER CLUTCH ......00.
+4 ФЛАНЕЦ МУФТЫ СТАРТЕРА ......00.
 
 ------
 
 130300-MJ4~405
 
-CARBURETOR
+КАРБЮРАТОР
 
-HOND
+ХОНД
 
-18 BO
+18 БО
 
 1
 3
 
-Y
+Да
 
-TO | Q |PART NUMBER
+ТО | Q |НОМЕР ДЕТАЛИ
 
-ENGINE
-SERIAL NUMBER |
-E |PART NUMBER
-FROM
-TO | Q
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР |
+E |НОМЕР ДЕТАЛИ
+ОТ
+ТО | вопрос
 1
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
 2...
 
 1
 
-T
+Т
 
-ENGINE
-SERIAL NUMBER |
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР |
 
-ALTERNATOR...
+ГЕНЕРАТОР...
 
-CAM CHAIN bbe cece eee
+ЦЕПЬ КАМЕРЫ bbe cece eee
 
 5
 
-Q
+вопрос
 
-A
+А
 
 .
 
-TIME
+ВРЕМЯ
 
-T
+Т
 
-Y
+Да
 
-BEARING, NEEDLE, 30X35X17 ....... 45
-16 ROLLER, 15X13 .....sccccecetcees 4 5
+ПОДШИПНИК ИГОЛЬЧАТЫЙ, 30Х35Х17.......45
+16 РОЛИК, 15X13 .....sccccecees 4 5
 
 E14MB0E07
 
-viv
+Вив
 
-Ol,
+Ол,
 
 5
 
-11 STAY B, PULSE ALTERNATOR (TOYO .../4
+11 STAY B, ИМПУЛЬСНЫЙ ГЕНЕРАТОР (TOYO .../4
 
-oO
+оо
 
-S
+С
 
 (4
 
-9 CLIP, PULSER WIRE ...cccncecccees
+9 ЗАЖИМ, ПРОВОД ПУЛЬСЕРА ...cccncecccees
 
 ,
 
-off
+выкл.
 
-8 s|Cc
-€7(4 5/O|
+8 с | CC
+€7(4 5/О|
 4 5]E|0
 
-8 ALTERNATOR ASSY., PULSE ....ce0ee
+8 ГЕНЕРАТОР В СБОРЕ, ИМПУЛЬСНЫЙ ....ce0ee
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-VV
+ВВ
 
-BA
+бакалавр
 
-VF7008'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FTM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+VF7008'85 НОМЕР ДВИГАТЕЛЯ; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FTM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
 €
-AMERICAN
-HONDA
-MOTOR CO. LTD. 1993
+АМЕРИКАНСКИЙ
+ХОНДА
+МОТОР КО. ЛТД. 1993 год
 
 17
 
-GRID
+СЕТКА
 
-B8
+Б8
 
-40 C8
+40 С8
 
-ALTERNATOR
+ГЕНЕРАТОР
 
-4 ox~ VF700S ‘ 8s
+4 шт.~ VF700S ‘ 8 с
 
 y evEla
 
 6
 
-OQ
+ОК
 
-Ret.
+В отставке.Нет.
 
-No.
-
-4 = VF700S'84
-5 = VF700S'85
+4 = ВФ700С'84
+5 = ВФ700С'85
 
 7
 
-7IR
+7ИР
 
 0
 
-Ola
+Ола
 
 0
 
-s
+с
 
-Ret.
-No.
+В отставке.
+Нет.
 
-BLOCK NO.
-DESCRIPTION
+БЛОК №.
+ОПИСАНИЕ
 
 8
 £8/4
 4
 
-s
+с
 
 1
 
@@ -4558,7 +4540,7 @@ s
 
 1240886
 
-3 COVER, INDICATOR SWITCH .........
+3 КРЫШКА, ПЕРЕКЛЮЧАТЕЛЬ ИНДИКАТОРА.......
 
 4
 
@@ -4570,7 +4552,7 @@ s
 
 1260894
 
-4 GASKET, INDICATOR SWITCH COVER ..|4
+4 ПРОКЛАДКА, КРЫШКА ПЕРЕКЛЮЧАТЕЛЯ ИНДИКАТОРА ..|4
 
 5
 
@@ -4580,13 +4562,13 @@ s
 
 1260902
 
-S ALTERNATOR ASSY.
+S ГЕНЕРАТОР В СБОРЕ.
 
 5
 
 1
 
-131100-"B0-871
+131100-"Б0-871
 
 1876622
 
@@ -4631,7 +4613,7 @@ S ALTERNATOR ASSY.
 
 2005653 | 1
 |31120-MB0-405
-~----=- | 1 | 31120-"B0-405
+~----=- | 1 | 31120-"Б0-405
 1
 131120-B0~405
 
@@ -4647,28 +4629,28 @@ S ALTERNATOR ASSY.
 4186912
 4186912
 
-m-----=
+м-----=
 2005654
 
 131120-MB0~415
 131120-MB0-415
 131120-MB0-415
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1963
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1963 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 To 2005978
-VF700S '84 FRAME NO.; RC220-EM000007 To £M005012
-VF700S'84 ENGINE NO.; RC22E~2002575 To 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 To EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 К 2005978
+VF700S '84 НОМЕР РАМЫ; RC220-EM000007 На £M005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 До 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 К EM001081
 
-42 C9
-26 C
+42 С9
+26 С
 
-«OB
+«ОБ
 
 5
 
-11 SCREW, PAN, 6X12 .ececsessceceeee( 4
+11 ВИНТ, КОВРИНКА, 6X12 .ececsessceceee( 4
 
 1 |90023-428-000
 
@@ -4676,17 +4658,17 @@ VF700S'84 FRAME NO.; RC221-EM000006 To EM001081
 
 0684803
 
-CYLINDER Heapan
+ЦИЛИНДР Куча
 
 2
 
-|93500-06012-0A
+|93500-06012-0А
 
 0182360
 
-Gesner nite, go
+Геснер, спокойной ночи, иди
 
-12 BOLT, FLANGE, 6X12 .eesseseeseueel
+12 БОЛТ, ФЛАНЕЦ, 6X12 .eesseseeseueel
 
 &
 
@@ -4698,11 +4680,11 @@ Gesner nite, go
 
 0823666
 
-OT CHUM
+ОТ ЧУМ
 
-38 C7
+38 С7
 
-BOLT, FLANGE, 6X12 .eccsesseeeee]
+БОЛТ, ФЛАНЕЦ, 6X12 .eccsesseeeee]
 
 &
 
@@ -4711,21 +4693,21 @@ BOLT, FLANGE, 6X12 .eccsesseeeee]
 1
 
 ~~
-en
+ru
 196001-06012-00
 
 2105930
 
-OIL PAN
+МАСЛЯНЫЙ ПОДДОН
 00000000,
-Ot
-ON
+От
+ВКЛ.
 
 23
-23 B11
-BI
+23 Б11
+БИ
 
-13 BOLT, FLANGE, 6X20 ..ssccuceccece
+13 БОЛТ, ФЛАНЕЦ, 6X20 ..ssccuceccece
 
 4
 
@@ -4737,15 +4719,15 @@ BI
 
 1292226
 
-PISTONcron
+ПОРШЕНЬcron
 ..000.000......0006
-PISTON
+ПОРШЕНЬ
 
 30
-30 C3
-C3
+30 С3
+С3
 
-BOLT, FLANGE, 6X20 ...... woscnsnet
+БОЛТ, ФЛАНЕЦ, 6X20 ...... woscnsnet
 
 4
 
@@ -4757,53 +4739,53 @@ $96001-06020-07
 
 2679624
 
-STARTER CLUTCH .........
+СТАРТЕРНАЯ МУФТА.......
 
 16
 
-STARTER MOTOR .........
+СТАРТЕР МОТОР.......
 
-22 Bil
+22 миллиарда
 
-THERMOSTAT
+ТЕРМОСТАТ
 
-36 C6
+36 С6
 
-14 BOLT, FLANGE, 6X35 ...cuccseccees
+14 БОЛТ, ФЛАНЕЦ, 6X35 ...cccceccees
 
 4
 
 5
 
-BOLT, FLANGE, 6X35 ......sseceees 4 5
+БОЛТ, ФЛАНЕЦ, 6X35 ......сек 4 5
 
-15 BOLT, FLANGE, 6X40 .....se.ceeeee 4 5
+15 БОЛТ ФЛАНЕЦ, 6X40 .....se.ceeeee 4 5
 4
 
 5
 
 6
 
-Be
+Будь
 
-VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RCZ20~FM 100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM 100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2Z2E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RCZ20~FM 100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E~2100001 ДО 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM 100001 ДО FM100863
 
-BB
+ББ
 
 |96000-06035-00
 
 0799080
 
-TENSIONER aie 10 85
+НАТЯЖИТЕЛЬ aie 10 85
 
 6 |96001-06035-00
 
 2112209
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
 4 {96000-06040-00
 
@@ -4817,55 +4799,55 @@ TRANSMISSION
 
 .............
 
-WATER
-PRE IS 40 ¢8
-VE
+ВОДА
+ПРЕД 40 центов 8
+ВЕ
 
-owe
+должен
 
-eee
+эээ
 
-@AMERICA
-HONDA MOTOR CO.N
-LTD. 1993
+@АМЕРИКА
+ХОНДА МОТОР С.Н.
+ООО. 1993 год
 
 8
 
-B4
+Б4
 
-WATER PUMP ............. 20 B10
+ВОДЯНОЙ НАСОС..........20 B10
 
 ¥
 
-2 GASKET, ALTERNATOR COVER ........
+2 ПРОКЛАДКА КРЫШКИ ГЕНЕРАТОРА ........
 
-4 oo
+4 оо
 4 -- 5
 
-CROSS
-SHAFT
+КРЕСТ
+ВАЛ
 ............
-CYLINDER BLOCK .........
+БЛОК ЦИЛИНДРОВ.......
 
-BOLT, FLANGE, 12X40 ....0.e.00000]4
+БОЛТ, ФЛАНЕЦ, 12X40 ....0.e.00000]4
 
-BOLT, FLANGE, 6X40 ....eseseeeees
+БОЛТ, ФЛАНЕЦ, 6X40 ....эсееееееес
 
 1240878
 
-..ccecccccccs esceee?
+..ccecccccccs, как я понимаю?
 
-CLUTCH 44
-4a C10
-Be
+СЦЕПЛЕНИЕ 44
+4а С10
+Будь
 
 1312719
 
 111631-MB0-000
 
-STATOR COMP.
+СТАТОР КОМП.
 
-CARBURETOR LINK
+КАРБЮРАТОР ССЫЛКА
 
 135759-MB0-700
 
@@ -4873,15 +4855,15 @@ CARBURETOR LINK
 
 | ------2005654
 
-HONDA
+ХОНДА
 
 4
 
-T
+Т
 
 5
 
-CODE
+КОД
 
 5
 
@@ -4889,106 +4871,104 @@ CODE
 
 --
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
-TO
+ТО
 
-9 SWITCH ASSY., CHANGE ...ccuceeeee | 4
+9 ПЕРЕКЛЮЧАТЕЛЬ В СБОРЕ, ЗАМЕНА ...ccuceeeee | 4
 
 5
 
-..ccsccccnccaccces oL4 -]
+..ccsccccncccacces oL4 -]
 4-- 5
 
-FROM
+ОТ
 
-r
+р
 
 5
 
-STATOR COMP.
+СТАТОР КОМП.
 
-S|E|
+С|Э|
 
-20 B10
+20 Б10
 
-HONDA
-CODE
+ХОНДА
+КОД
 
 4 --|
 4-
 
 4
 
-E
+Э
 
-CRANKCASE COVER,
-L.
+КРЫШКА КАРТЕРА,
+Л.
 
 0
-A
-Q |PART NUMBER
+А
+Q |НОМЕР ДЕТАЛИ
 
-STATOR COMP. (HITACHI) .....cc005
+СТАТОР КОМП. (ХИТАЧИ) .....cc005
 
-CARBURETOR ASSY........ 44 C10
+КАРБЮРАТОР В СБОРЕ........ 44 C10
 
-R
+Р
 
-CRANKCASE COVER, R...... 13 Bs
+КРЫШКА КАРТЕРА, R...... 13 Bs
 
-ENGINE
-SERIAL NUMBER
-FROM
-TO
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
+ОТ
+ТО
 
 4~
 
-CARBURETOR! COMPONENT 48 C12
+КАРБЮРАТОР! КОМПОНЕНТ 48 C12
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
 1434752
 
-Q
+вопрос
 
-5S
+5С
 
-ENGINE
+ДВИГАТЕЛЬ
 
-5{O]
+5{О]
 
-D
+Д
 
-‘0 BS
+'0 чушь
 
 |31130-MB4-000
 
 4
 
-ROTOR COMP. ....... weececcecces wlio
+РОТОР КОМП. ....... weececcecces wlio
 
-alc
+алк
 
-18 BS
+18 БС
 
-CAM CHAIN ...............
+КУЛАЧКОВАЯ ЦЕПЬ..........
 
 1
 
-8 c
-5|Q|
-5{/€|
-
-7 STATOR COMP. (HITACHI) ..........
+8 с
+5|В|
+5{/€|7 СТАТОР КОМП. (ХИТАЧИ) ..........
 
 8
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
+ГЕНЕРАТОР .............
 
-Y
+Да
 
 5
 
@@ -4996,41 +4976,41 @@ Y
 
 4
 
-T
+Т
 
-A
+А
 
-s
+с
 
-TITLE
+НАЗВАНИЕ
 
 4
 
-COVER, ALTERNATOR ...cecccencecs
+КРЫШКА ГЕНЕРАТОРА ...cecccecs
 
 ...cccccecccuce
 
-O
+О
 
-s
+с
 
-E-8/4
+Е-8/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-a
+а
 
-8 CLAMP, ALTERNATOR CORD ...seeesee}
+8 ЗАЖИМ, ШНУР ГЕНЕРАТОРА ...см.см.}
 
-1 COVER, ALTERNATOR ..cccceccscecs
+1 КРЫШКА ГЕНЕРАТОРА ..cccceccscecs
 
-6 ROTOR COMP. ..ccccsccccccccccsce
+6 КОМП. РОТОРА. ..ccccsccccccccccsce
 
 18
 
-Ole
+Оле
 
-BLOCK NO.
+БЛОК №.
 
 08
 
@@ -5038,102 +5018,102 @@ BLOCK NO.
 
 —a_
 
-V VI,
+В ВИ,
 
 '
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-Vv
+Вв
 
 19
 
-GRD
+ГРД
 
-B9
+Б9
 
-LEFT CRANKCASE COVER e WATER PUMP
+ЛЕВАЯ КРЫШКА КАРТЕРА И ВОДЯНОЙ НАСОС
 
-‘
-or= vevoosen
+'
+или= вевоосен
 
-F FIA
+Ф ФИА
 
 6
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-Ole
+Оле
 
-a
+а
 
 0
-Ola,
-$'s
+Ола,
+$-х
 
-T
+Т
 ¥
 
-8. 8iCc
+8. 8iCC
 
-E-9/ 4 3
+Е-9/ 4 3
 
-15 BOLT, FLANGE, 6X55 ...secceeeseee|
+15 БОЛТ ФЛАНЕЦ, 6X55 ...см.см.|
 
 45
 
-peaiheoel
+пайхеоэль
 
-viva
+да здравствует
 :
 
-B
+Б
 
-Ret
+Рет
 
-BLOCK NO.
+БЛОК №.
 
-No.
+Нет.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-T COVER, RR.
+Т КРЫШКА, RR.
 
-gic
+шутка
 
-E914 °5
+Е914 °5
 
 4
 
-e
+е
 
-51€E
+51€Е
 
-Q
-y
-ENGINE
+вопрос
+й
+ДВИГАТЕЛЬ
 
-a
+а
 
-n
+н
 
-HONDA
+ХОНДА
 
-FROM
+ОТ
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-TO
+ТО
 
-essceesececsesceees
+essceeseccesceees
 
 45
 
@@ -5143,9 +5123,9 @@ essceesececsesceees
 
 1288836
 
-2 COLLAR, RR. COVER .....ccceeceees
+2 ВОРОТНИК, RR. ОБЛОЖКА .....cccceeeees
 
-4.5
+4,5
 
 1
 
@@ -5153,7 +5133,7 @@ essceesececsesceees
 
 1240837
 
-3 GROMMET A, RR. COVER 2.0.0.0...
+3 ВТУЛКА А, RR. КРЫШКА 2.0.0.0...
 
 4
 
@@ -5165,7 +5145,7 @@ essceesececsesceees
 
 1240845
 
-4 PUMP COMP., WATER .......ccecesee
+4 НАСОСНЫЙ КОМПЛЕКТ ВОДЫ ......см.
 
 4
 
@@ -5177,7 +5157,7 @@ essceesececsesceees
 
 1290659
 
-PUMP COMP., WATER .cccceccesccnes
+НАСОСНЫЙ КОМП., ВОДЯНОЙ .cccceccesccnes
 
 45
 
@@ -5187,7 +5167,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 3835972
 
-5 COVER COMP., WATER PUMP .......0.
+5 КРЫШКА КОМПЛЕКТА ВОДЯНОГО НАСОСА .......0.
 
 4:5
 
@@ -5197,7 +5177,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 1316587
 
-6 GASKET, WATER PUMP COVER ....... 14
+6 ПРОКЛАДКА КРЫШКИ ВОДЯНОГО НАСОСА....... 14
 
 5
 
@@ -5207,7 +5187,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 1262148
 
-7 CYLINDER ASSY., CLUTCH SLAVE ..../4
+7 ЦИЛИНДР В СБОРЕ, ПОДЧИНЕННЫЙ СЦЕПЛЕНИЯ ..../4
 
 5
 
@@ -5217,7 +5197,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 1291160
 
-8 INSULATOR, CLUTCH SLAVE CYLINDER
+8 ИЗОЛЯТОР РАБОЧЕГО ЦИЛИНДРА СЦЕПЛЕНИЯ
 
 (4
 
@@ -5229,7 +5209,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 1291202
 
-9 PISTON, SLAVE CYLINDER ....2.000014
+9 ПОРШЕНЬ, РАБОЧИЙ ЦИЛИНДР ....2.000014
 
 5
 
@@ -5239,7 +5219,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 1242627
 
-10 SPRING, SLAVE CYLINDER ........ i
+10 ПРУЖИНА РАБОЧЕГО ЦИЛИНДРА........i
 
 4
 
@@ -5251,7 +5231,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 1242635
 
-11 CUP, PISTON ...ccccecccoesesecee]
+11 ЧАШКА, ПОРШЕНЬ ...cccceccccoesesecee]
 
 &
 
@@ -5263,7 +5243,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 1262643
 
-12 CLIP, WIREHARNESS ..........00..14
+12 ЗАЖИМ, ЖГУТ ПРОВОДОВ..........00..14
 
 5
 
@@ -5273,7 +5253,7 @@ PUMP COMP., WATER .cccceccesccnes
 
 1323468
 
-CLAMP .cccasscsecsccccessvscssee]
+ЗАЖИМ .cccasscsecsccccessvscssee]
 
 &
 
@@ -5285,7 +5265,7 @@ CLAMP .cccasscsecsccccessvscssee]
 
 1251669
 
-13 SCREW, BLEEDER ....cccccseceeeee
+13 ВИНТ ПРОКАЧНОГО КАНАЛА ....cccccceseeeeee
 
 (4
 
@@ -5297,7 +5277,7 @@ CLAMP .cccasscsecsccccessvscssee]
 
 0505735
 
-14 CAP, BLEEDER SCREW ......sec0000014
+14 КОЛПАЧОК, ВИНТ ДЛЯ ПРОКАЧА ВОЗДУХА ......sec0000014
 
 5
 
@@ -5309,25 +5289,25 @@ CLAMP .cccasscsecsccccessvscssee]
 
 20
 
-© AMERICAN HONDA MOTOR CO. LTD. 1903
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1903 год
 
-VF700S'84 ENGINE NO. ; RC22E~2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC2ZE-2002575 TO 2006097
-VF700S'84 FRAME NO.; RC227-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ. ; RC22E~2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC2ZE-2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC227-EM000006 ДО EM001081
 
 2
 
-CARBURETOR COMPONENT 48 C12
+КОМПОНЕНТ КАРБЮРАТОРА 48 C12
 
-CODE
+КОД
 
-CLUTCH
-OR LINK ==. 44 G10
+СЦЕПЛЕНИЕ
+ИЛИ ССЫЛКА ==. 44 Г10
 
 .
 
-CRANKCASE COVER, L.
+КРЫШКА КАРТЕРА, Л.
 
 |90051~B0-000
 
@@ -5335,23 +5315,23 @@ CRANKCASE COVER, L.
 
 1 190425-300-000
 
-CRANKCASE COVER,
+КРЫШКА КАРТЕРА,
 
-20 B10
+20 Б10
 
-F. 13 88
+Ф. 13 88
 
-Chose eer
+Выбрал ээр
 
-42 C9
+42 С9
 
 1243591
 
-CYLINDER HEAD COVER
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
 
-2 BI
+2 БИ
 
-18 OIL SEAL, 8X18X5 (NISSIN) ......./4 .5
+18 САЛЬНИК, 8X18X5 (NISSIN)......./4 .5
 
 1
 
@@ -5359,11 +5339,11 @@ CYLINDER HEAD COVER
 
 1243872
 
-CYUNDER
-HEAD
-AG
+САЙНДЕР
+ГОЛОВА
+АГ
 
-19 O-RING, 32.95X2.62 (ARAI) ......./4
+19 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 32,95X2,62 (ARAI)......./4
 
 5
 
@@ -5373,9 +5353,9 @@ AG
 
 4435114
 
-CASKET KIFR
+ШКАТУЛКА КИФР
 
-20 PINA, DOWEL, 8X16 ..ssseereereee[
+20 ПИНА, ДЮБЕЛЬ, 8X16 ..сссмееее[
 
 :
 
@@ -5387,43 +5367,43 @@ CASKET KIFR
 
 0069310
 
-GEARSHIFT DRUM ......... 38 C7
-GEARSHIET
-ORUM «==. 38
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ......38 С7
+РЕДУКТОР
+ОРУМ «==. 38
 
-21 BOLT, FLANGE, 6X22 .seveeeseereee|
+21 БОЛТ ФЛАНЕЦ, 6X22 .seveeeseereeee|
 
 5
 
 1
 
-oe
+ой
 196000-06022-00
 
 0811034
 
 ~
-a
+а
 1 196001~-06022~00
 
 2112191
 
-OIL PAN
+МАСЛЯНЫЙ ПОДДОН
 ..0..
-0 ooo.
-l oe 23 B11
-OL
-PAN gocourirs
-23 Bi!
-PISTON .0000000000.0.....5
-PISTON
-ron 30 C3
+0 ооо.
+л ое 23 B11
+ПР
+ПАН-гокурьеры
+23 Би!
+ПОРШЕНЬ .0000000000.0.....5
+ПОРШЕНЬ
+рон 30 С3
 
-STARTER CLUTCH .........
+СТАРТЕРНАЯ МУФТА.......
 
 ~
 
-22 BOLT, FLANGE, 6X28 ...cccecnseeeel
+22 БОЛТ, ФЛАНЕЦ, 6X28 ...ccccnseeeeel
 
 4! 5
 
@@ -5433,9 +5413,9 @@ STARTER CLUTCH .........
 
 0799072
 
-BOLT, FLANGE, 6X28 ...00. eeeseees
+БОЛТ ФЛАНЕЦ, 6X28 ...00. eeeseees
 
-4.5
+4,5
 
 2
 
@@ -5445,8 +5425,8 @@ BOLT, FLANGE, 6X28 ...00. eeeseees
 
 !
 
-| 23 BOLT, FLANGE, 6X60 ..seseesescees 4 5
-BOLT, FLANGE, 6X60 ...secescceees 4'5
+| 23 БОЛТ ФЛАНЕЦ, 6X60 ..выходит 4 5
+БОЛТ, ФЛАНЕЦ, 6X60 ...от 4 футов 5 дюймов
 
 1 |96000-06060-07
 1
@@ -5456,200 +5436,198 @@ BOLT, FLANGE, 6X60 ...secescceees 4'5
 2 |96000-06070-00
 2 |96001-06070-00
 
-CYLINDER BLOCK .........
+БЛОК ЦИЛИНДРОВ.......
 
-GASKET KITA .............
+КОМПЛЕКТ ПРОКЛАДОК .............
 
-26 C1
+26 С1
 
-eS
-50 D1
+ЭС
+50 Д1
 
-ard
+ард
 
-16 B8
+16 Б8
 
-2106003
+2106003СТААТЕР МОТОР.......
 
-STAATER MOTOR .........
+22 Би
 
-22 Bi
-
-TENSIONER 2-20.00 10 BS
+НАТЯЖИТЕЛЬ 2-20.00 10 БС
 
 1244003
 
-THERMOSTAT
+ТЕРМОСТАТ
 
 2831659
 
-36 CE
+36 г. н. э.
 
-WATER PRE 020 40 C8
+ВОДА PRE 020 40 C8
 
 _............
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
-VE wee
-eee
+VE крошечный
+эээ
 
 0807438
 2112233
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
 8
 
-B4
+Б4
 
-WATER PUMP «2-02.20, 20 B10
+ВОДЯНОЙ НАСОС «2-02.20, 20 В10»
 
 |
 
-B10
+Б10
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220~-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221~FM100004 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220~-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221~FM100004 ДО FM100863
 
-| Q PART NUMBER
+| Q НОМЕР ДЕТАЛИ
 
-CARBURETOR ASSY........ 44 C19
+КАРБЮРАТОР В СБОРЕ........ 44 C19
 
-HONDA
+ХОНДА
 
 0189795
 
-24 BOLT, FLANGE, 6X70 .essseseeveees 415
-BOLT, FLANGE, 6X70 ..seceeseceres 4.5
+24 БОЛТ, ФЛАНЕЦ, 6X70 .essseseeveees 415
+БОЛТ, ФЛАНЕЦ, 6X70 ..seceseceres 4,5
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-TO
+ТО
 
-A
+А
 
 18 Bo
-‘0 es
+'0 ес
 
 |90439-MB0-000
 
 ;
 
-6 Ole
+6 Оле
 0:
-s 8|4
+с 8|4
 
-FROM
+ОТ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
-CAM CHAIN ...0..00000....
+ГЕНЕРАТОР .............
+ЦЕПЬ КУЛАЧКА ...0..00000....
 
 1
 
-BOLT, FLANGE, 6X22 .ssscesccecece | & ‘: 5
+БОЛТ, ФЛАНЕЦ, 6X22 .ssscescccecece | & ': 5
 
 ,
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-TITLE
+НАЗВАНИЕ
 
 5
 
-1? WASHER, RR. COVER GROMMET .......14
+1? ШАЙБА, РР. ВТУЛКА КРЫШКИ .......14
 
-se]
+се]
 
-e
+е
 
 4 51E]|
 
-16 WASHER, 11MM ..e.scesssecseseeee | 4 5
+16 ШАЙБА, 11 ММ ..e.scesssecseseeee | 4 5
 
-we
+мы
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-VV
+ВВ
 
 21
 
-GRID
+СЕТКА
 
-B10
+Б10
 
-STARTER MOTOR
+СТАРТЕР
 
-OIL FILTER e OIL PAN e OIL PUMP
+МАСЛЯНЫЙ ФИЛЬТР, МАСЛЯНЫЙ ПОДДОН и МАСЛЯНЫЙ НАСОС
 
-CONTENTS
-TITLE
+СОДЕРЖАНИЕ
+НАЗВАНИЕ
 
 12
 
 E14MB0E10
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-Vivi,
+Виви,
 
 $= VF700S'85
 
 7
 
-71h
+71 час
 
-Ret
+Рет
 
-BLOCK NO.
+БЛОК №.
 
-No.
+Нет.
 
-8 a|c
+8 а | в
 
-E-10/ 4 5
+Е-10/ 4 5
 
-DESCRIPTION
+ОПИСАНИЕ
 
 °
 
-4. 5]E]|
+4. 5]Е]|
 
-1 MOTOR ASSY., STARTER .....000. oe | 4 | 5
-MOTOR ASSY., STARTER ....ccceenes
+1 МОТОР В СБОРЕ, СТАРТЕР .....000. ой | 4 | 5
+МОТОР В СБОРЕ, СТАРТЕР ....ccceenes
 
 4 | 5
 
 0:
 
-Y
+Да
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-A
+А
 
-HONDA
+ХОНДА
 
-FROM
+ОТ
 
-Ret.
+В отставке.
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-No.
+Нет.
 
 1
 
@@ -5661,19 +5639,19 @@ No.
 
 |31200-MB0-405
 
-TO
+ТО
 
 £E-11/4
 
 55
 
-A
+А
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-1 PAN, OIL ..ccccncsccncccccccccce 4/5
+1 СКОВОРОДА, МАСЛО ..ccccncsccncccccccccce 4/5
 
 1
 
@@ -5683,7 +5661,7 @@ Q
 
 4237954
 
-PAN, OIL ...cceccnccees cevecece ~{4°5
+СКОВОРОДА, МАСЛО ...ccecncccees cevecece ~{4°5
 
 1
 
@@ -5691,9 +5669,9 @@ PAN, OIL ...cceccnccees cevecece ~{4°5
 
 2088789
 
-PAN, OIL ....... te n
+СКОВОРОДА, МАСЛО....... т. н.
 
-1 | 11210-MK3-000
+1 | 11210-МК3-000
 
 2016657
 
@@ -5701,7 +5679,7 @@ PAN, OIL ....... te n
 
 1
 
-|31201-K6?7-000
+|31201-К6?7-000
 
 17 18576
 
@@ -5713,21 +5691,21 @@ PAN, OIL ....... te n
 
 1243153
 
-2 GASKET, OIL PAN ...scnsncececnece
+2 ПРОКЛАДКА МАСЛЯНОГО ПОДДОНА ...scnsncececnece
 
-3 SPRING, CARBON BRUSH .....2c0c0021
+3 ПРУЖИНА УГЛЕРОДНОЙ ЩЕТКИ .....2c0c0021
 
 4 | 5
 
 4
 
-131206-MA6~000
+131206-МА6~000
 
 1263161
 
-3 PUMP ASSY., OIL ws eee eeseee one | 4/5
+3 НАСОС В СБОРЕ, МАСЛЯНЫЙ ws eee eeeee one | 4/5
 
-4 SCREW, PAN, SX115 ...cccecncccecs
+4 ВИНТ, ПОДВОДКА, SX115 ...cccecncccecs
 
 4
 
@@ -5739,11 +5717,11 @@ PAN, OIL ....... te n
 
 1260314
 
-PUMP ASSY., OIL .....e00. a oeene oe
+НАСОС МАСЛЯНЫЙ .....e00. оэне оу
 
-5 HOLDER SET, BRUSH ........2se0e0e
+5 НАБОР ДЕРЖАТЕЛЕЙ, ЩЕТКА ........2se0e0e
 
-4.5
+4,5
 
 1
 
@@ -5751,15 +5729,15 @@ PUMP ASSY., OIL .....e00. a oeene oe
 
 1718592
 
-HOLDER SET, BRUSH ....... secuccce
+НАБОР ДЕРЖАТЕЛЕЙ, ЩЕТКА .......последующее
 
-4 SPROCKET, OIL PUMP DRIVEN (25T) ..|
+4 ЗВЕЗДОЧКА С ПРИВОДОМ МАСЛЯНОГО НАСОСА (25T) ..|
 
 4 | 5
 
 1
 
-131206-maé-000
+131206-маэ-000
 
 9243179
 
@@ -5773,19 +5751,19 @@ HOLDER SET, BRUSH ....... secuccce
 
 1063858
 
-6 PIPE, OIL STRAINER Sue ensnenverne
+6 ТРУБКА МАСЛЯНОГО ФИЛЬТРА Sue ensnenverne
 
 1243922
 
 Sumit OTL STRAINER «+++ +00 ; ;
 
-a eeetecncacce eeseeses
+eeetecncacce eeseeses
 
-BORING .....cesececsessereeeseee {4
+СКУЧНО .....cesececsessereeeeee {4
 
 5
 
-DORING ..ceeccsecsccserececerene | &
+ДОРИНГ ..ceeccsecsccserececerene | &
 
 1
 
@@ -5793,26 +5771,26 @@ DORING ..ceeccsecsccserececerene | &
 
 5
 
-10 WASHER, SPRING, Sma Seven acenenna
+10 ШАЙБА ПРУЖИННАЯ SMA Seven Acenenna
 
 5
 
 1
 
-191320-"B0-000
+191320-"Б0-000
 
-BOLT. FLANGE, B25
+БОЛТ. ФЛАНЕЦ, B25
 ,
 
 4
 
-Gs
+Гс
 
-ns ie
+нс т.е.
 
 4/5
 
-TO
+ТО
 
 1
 
@@ -5838,7 +5816,7 @@ TO
 
 1780964
 
-5 CHAIN, OIL PUMP .....esneee ooeene | 455
+5 ЦЕПЬ МАСЛЯНОГО НАСОСА .....ещё ооэне | 455
 
 1
 
@@ -5848,13 +5826,13 @@ TO
 
 1
 
-1515 1-MB0-000
+1515 1-МБ0-000
 
 1241678
 
-tooo men-o%9
+слишком мужчины-о%9
 
-vateoea
+ватея
 
 5
 
@@ -5862,157 +5840,155 @@ vateoea
 
 1292184
 
-10 vite on. ne cuetsessee 4 ;
+10 вите дальше. ne cuetsessee 4;
 
 1
 
-|15410-mJ0-003
+|15410-мДж0-003
 
 1689611
 
-> sean 06025-00
+> Шон 06025-00
 
 =105989
 
-11 PIPE, OIL sssssesseeesensseneeee | 4:5
+11 ТРУБКА МАСЛЯНАЯ ssssesseeesensseneeee | 4:5
 
 1 |15511-mB0-000
 
 1261710
 
-ae
+ае
 
-ures ehee wee enraneaue
+урес хи, ви энрано
 
-12 BOSS, OIL FILTER ....eseeeceeeeee]
+12 НАЧАЛЬНИК, МАСЛЯНЫЙ ФИЛЬТР ....ееееееееееее]
 
-B11
-VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+Б11
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2Z2E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
 5
 |
 
-30 C3
-16 BS
+30 С3
+16 БС
 
-STARTER CLUTCH .........
-STARTER MOTOR .........
-TENSIONER ...............
-
-THERMOSTAT .............
+СТАРТЕРНАЯ МУФТА.......
+СТАРТЕР МОТОР.......
+НАТЯЖИТЕЛЬ ..............ТЕРМОСТАТ .............
 2...
 
-HONDA
+ХОНДА
 
 | 11315-MB0-010
 
 4
 
-PISTON 00.0...
-PULSE ALTERNATOR |...
+ПОРШЕНЬ 00.0...
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР |...
 
-CODE
+КОД
 
 94111-05000
 
 3
 
-«© AMERICAN HONDA MOTOR CO. LTD. 1983
+«© AMERICAN HONDA MOTOR CO. LTD. 1983 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220~EM000007 TO EM005012
-VF700S"84 ENGINE NO. ; RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221~EM000006 TO EMO0 1081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220~EM000007 ДО EM005012
+VF700S"84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221~EM000006 К EMO0 1081
 
 ce caeeennese 415
 
-20 B10
-13 B6
-30 C3
-42 C9
-26 Ct
-2 Bi
-3 BI
-6 B3
-50 D1
-51 D1
-38 C7
-23 Bit
-23 B11
-23 B11
+20 Б10
+13 Б6
+30 С3
+42 С9
+26 каратов
+2 Би
+3 БИ
+6 Б3
+50 Д1
+51 Д1
+38 С7
+23 бита
+23 Б11
+23 Б11
 
-T
+Т
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-TERMINAL SET, BRUSH .........000-
+КОМПЛЕКТ КЛЕММ, ЩЕТКА .......000-
 
 4
 
-C
+С
 
-4,5|E]
+4,5|Е]
 
-CLUTCH o.oo,
-CRANKCASE COVER, L.
-CRANKCASE COVER, R......
-CRANKSHAFT 0.0.2.0...
-CROSS SHAFT ............
-CYLINDER BLOCK .........
-CYLINDER HEAD COVER
-CYLINDER HEAD, FR...
-CYLINDER HEAD, AR ......
-GASKET KITA .............
-GASKET KITB.............
-GEARSHIFT DRUM...
-OW FILTER...
-OW PAN 2... ooo...
-OIL PUMP 0.02006...
+СЦЕПЛЕНИЕ ооо,
+КРЫШКА КАРТЕРА, Л.
+КРЫШКА КАРТЕРА, П.......
+КОЛЕНВАЛ 0.0.2.0...
+КРЕСТОВОЙ ВАЛ............
+БЛОК ЦИЛИНДРОВ.......
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
+ГОЛОВКА ЦИЛИНДРА, ПЕР...
+ГОЛОВКА ЦИЛИНДРА, АР ......
+КОМПЛЕКТ ПРОКЛАДОК .............
+КОМПЛЕКТ ПРОКЛАДОК.............
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ...
+ОЙ ФИЛЬТР...
+ОЙ ПАН 2... ооо...
+МАСЛЯНЫЙ НАСОС 0.02006...
 
-v
+в
 
-ENGINE
+ДВИГАТЕЛЬ
 
-FROM
+ОТ
 
-DESCRIPTION
+ОПИСАНИЕ
 
-2 TERMINAL SET, BRUSH ......s.0.00. 4
+2 КОМПЛЕКТ КЛЕММ, ЩЕТКА ......с.0,00. 4
 
-6 RING, SEAL
+6 КОЛЬЦО УПЛОТНИТЕЛЬНОЕ
 
 22
 
-BLOCK NO.
+БЛОК №.
 
-alg|c
+алг|c
 
-BS
-B4
-C10
-C12
-C10
-B7
+БС
+Б4
+С10
+С12
+С10
+Б7
 
-16 BB
-22 Bit
-10 BS
+16 ББ
+22 бит
+10 БС
 
-40 C8
-36 CB
+40 С8
+36 КБ
 
-B B4
+Б Б4
 
-WATER PUMP 200.0202. 20 B10
+ВОДЯНОЙ НАСОС 200.0202. 20 Б10
 
-Ola
+Ола
 
-sis
+сестренка
 
-B9
+Б9
 
 10
 8
@@ -6021,40 +5997,40 @@ B9
 44
 14
 
-VALVE
+КЛАПАН
 00.0
-ce
-cece eee
+CE
+Сесе эээ
 
-ara
+ара
 
-T
+Т
 
 18
 
-CAM CHAIN ...............
-CAMSHAFT ...............
-CARBURETOR ASSY........
-CARBURETOR COMPONENT
-CARBURETOR LINK ........
+КУЛАЧКОВАЯ ЦЕПЬ..........
+РАСПРЕДВАЛ..........
+КАРБЮРАТОР В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА........
 
-TRANSMISSION...
+ТРАНСМИССИЯ...
 
-Viv].
+Вив].
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-9: Qla
+9: Кла
 
-ss
+сс
 
 E14MBOE11
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
+ГЕНЕРАТОР .............
 
 1
 
@@ -6062,92 +6038,92 @@ ALTERNATOR .............
 
 1243435
 
-© AMERICAN HONDA MOTOR CO.,LTD. 1993
+© АМЕРИКАНСКАЯ HONDA MOTOR CO.,LTD. 1993 год
 
 23
 
-GRID
+СЕТКА
 
-B11
+Б11
 
-OIL FILTER e OIL PAN e OIL PUMP
+МАСЛЯНЫЙ ФИЛЬТР, МАСЛЯНЫЙ ПОДДОН и МАСЛЯНЫЙ НАСОС
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-FE FIA
+ИП ФИА
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-7 7 )R
+7 7 )Р
 
-o.8 E
+о.8 Е
 
 2
 
-Ret.
-No.
+В отставке.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
 8
 
-8{c
+8{с
 
 €-11/4/5[/0O]
 
-DESCRIPTION
+ОПИСАНИЕ
 
-r—|D
+р—|Д
 
-4'5]E]
-i
+4'5]Е]
+я
 
-23 PIN, DOWEL, 8X14 ...scseeeveneeee ("| 5
+23 ШТИФТ, ДЮБЕЛЬ, 8X14 ...scseeeveneeee ("| 5
 
-TITLE
+НАЗВАНИЕ
 
-a
+а
 
-Ss | a]
+сс | а]
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-| R
+| Р
 
-FROM
+ОТ
 
-| Q |PART NUMBER
+| Q |НОМЕР ДЕТАЛИ
 
-TO
+ТО
 
-E
+Э
 
-HONDA
+ХОНДА
 
-CARBURETOR
+КАРБЮРАТОР
 
-LINK
+ССЫЛКА
 44
-C10
-CLUTCH...)
-4a. By
+С10
+СЦЕПЛЕНИЕ...)
+4а. Автор
 
-CODE
+КОД
 
-CRANKCASE COVER,
-L.
+КРЫШКА КАРТЕРА,
+Л.
 
 0687830
 
-CROSS SHAFT ............ 42 C9
+КРЕСТОВОЙ ВАЛ...........42 С9
 
-CRANKSHAFT .............
+КОЛЕНВАЛ............
 
-30 C3
+30 С3
 
 5
 
@@ -6157,11 +6133,11 @@ CRANKSHAFT .............
 
 2529089
 
-CYLINDER BLOCK
+БЛОК ЦИЛИНДРОВ
 
-26 C
+26 С
 
-BOLT, FLANGE, 6X45 -.esssseeeeeee]
+БОЛТ, ФЛАНЕЦ, 6X45 -.esssseeeeeeee]
 
 5
 
@@ -6171,19 +6147,19 @@ BOLT, FLANGE, 6X45 -.esssseeeeeee]
 
 2410967
 
-CYLINDER
-eAp
-eR
-oo
+ЦИЛИНДР
+eAP
+ER
+оо
 
 8
 
-25 SOLT,
-FLANGE,
+25 СОЛТ,
+ФЛАНЕЦ,
 6X70
-..-seseseeeeeel
+..-сесеееееееель
 
-& 15
+и 15
 
 2
 
@@ -6191,28 +6167,28 @@ FLANGE,
 
 0698720
 
-Gaskerate
+Гаскерате
 
-Be
+Будь
 
 2427284
 
 OIere DRUM «oss
 
-eo
+эо
 
 3
 30
 
 4
 
-i
+я
 
-CRANKCASE COVER,
+КРЫШКА КАРТЕРА,
 
-No.
+Нет.
 
-DESCRIPTION
+ОПИСАНИЕ
 
 5
 
@@ -6228,11 +6204,11 @@ DESCRIPTION
 
 0799072
 
-OILPAN
-B11
-OL PAN ....00.0..........
-Soci 23
-2 Br
+МАСЛЕНКА
+Б11
+ОЛ ПАН ....00.0..........
+Сочи 23
+2 комн.
 
 4 : 5
 
@@ -6243,40 +6219,40 @@ Soci 23
 
 2106003
 
-PISTON
-..00 oNATOR
+ПОРШЕНЬ
+..00 оНАТОР
 000020
-PISTON
-STARTER CLUTCH
+ПОРШЕНЬ
+СТАРТЕРНАЯ МУФТА
 
-STARTER MOTOR
+СТАРТЕР
 
-THERMOSTAT .............
-VE MSSION eee eeeees
+ТЕРМОСТАТ .............
+VE MSSION ееееееее
 
-ete eee eee er eee eee
-WATER PIPE ..............
+этэ-э-э-э-э-э-э-э-э
+ВОДОПРОВОД ..............
 
 !
 
-gi Bg{c
-4 s 4
+ги Bg{c
+4 с 4
 
-ENGINE
-SERIAL NUMBER
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
 
 3
-R
+Р
 
-HONDA
+ХОНДА
 
 4°51€)]
 
-FROM
+ОТ
 
-© | PART NUMBER
+© | НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 1768290
 
@@ -6284,7 +6260,7 @@ CODE
 
 1
 
-|90021-Ke8-000
+|90021-Ке8-000
 
 4
 
@@ -6318,7 +6294,7 @@ CODE
 
 |
 
-1? O-RING, 18.5X2.4 (ARAI) ......2.6/4 55
+1? УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 18,5X2,4 (ARAI) ......2,6/4 55
 
 1
 
@@ -6328,7 +6304,7 @@ CODE
 
 |
 
-18 O-RING, 14.7X2.2 (ARAL) ....00000/4
+18 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 14,7Х2,2 (АРАЛ)....00000/4
 
 1
 
@@ -6338,9 +6314,9 @@ CODE
 
 |
 
-O-RING, 14.8X2.2
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 14,8X2,2
 
-wsssccesee nena
+wsssccesee нена
 
 5
 
@@ -6348,11 +6324,11 @@ wsssccesee nena
 
 1
 
-191313-mG7-004
+191313-мГ7-004
 
 3353620
 
-19 O-RING, 7.7X2.3 (ARAL) ...eeeee (455
+19 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 7,7X2,3 (ARAL) ...ееее (455
 
 |
 
@@ -6364,9 +6340,9 @@ wsssccesee nena
 
 |
 
-O-RING, 7.8K2.2
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 7.8K2.2
 
-weseeeseeeenenee | 4
+мысиееееененее | 4
 
 5
 
@@ -6376,7 +6352,7 @@ weseeeseeeenenee | 4
 
 0076497
 
-O-RING, 7.8X2.2 (ARAL) .eeeeeeree | 4
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 7,8Х2,2 (АРАЛ).ееееееее | 4
 
 |
 
@@ -6388,19 +6364,17 @@ O-RING, 7.8X2.2 (ARAL) .eeeeeeree | 4
 
 0446922
 
-20 BOLT, DRAIN PLUG, 12MM .......4..)4
+20 БОЛТ СЛИВНОЙ ПРОБКИ, 12ММ .......4..)4
 
 !
 
 5
 
-1
-
-{92800-12000
+1{92800-12000
 
 0053975
 
-21 WASHER, DRAIN PLUG, 12MM ........14
+21 ШАЙБА, СЛИВНАЯ ПРОБКА, 12ММ ........14
 
 |
 
@@ -6412,7 +6386,7 @@ O-RING, 7.8X2.2 (ARAL) .eeeeeeree | 4
 
 0171868
 
-22 PIN, SPLIT, 2.0X25 ..cseecesesese|
+22-контактный, РАЗДЕЛЕННЫЙ, 2,0X25 ..cseecesesese|
 
 |
 
@@ -6426,7 +6400,7 @@ O-RING, 7.8X2.2 (ARAL) .eeeeeeree | 4
 
 0058370
 
-PIN, COTTER, 2.0X32 ..esesseneene
+ШТИФТ ШПИЛЬНЫЙ, 2.0X32 ..esesseneene
 
 |
 
@@ -6440,7 +6414,7 @@ PIN, COTTER, 2.0X32 ..esesseneene
 
 0145607
 
-PIN, SPLIT, 2.0X35 .esececsesseee]
+PIN-код, SPLIT, 2.0X35 .esececsesseee]
 
 |
 
@@ -6454,7 +6428,7 @@ PIN, SPLIT, 2.0X35 .esececsesseee]
 
 0058388
 
-23 PINA, DOWEL, 8X16 .....sseeeseee | 4 ==
+23 PINA, ДЮБЕЛЬ, 8X16 .....посмотрите | 4 ==
 
 |
 
@@ -6468,40 +6442,40 @@ PIN, SPLIT, 2.0X35 .esececsesseee]
 
 24
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
-VF700S'84 ENGINE NO.; RC2ZE-2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM00S012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO. ; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC2ZE-2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 К EM00S012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S'84 № РАМЫ. ; RC221-EM000006 ДО EM001081
 
-Bi2
+Би2
 
-VF7005'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100G01 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+VF7005'85 НОМЕР ДВИГАТЕЛЯ; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100G01 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-16 BS
+16 БС
 
-22 Bit
-10 BS
+22 бит
+10 БС
 
-40 C8
-6 a
-40 CB
+40 С8
+6 а
+40 КБ
 
 |
 
 45
 
-16 O-RING, 14.6X3.7 (ARAI) .........14
+16 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 14,6X3,7 (ARAI)...........14
 
-C3
+С3
 
-WATER PUMP ............. 20 B10
+ВОДЯНОЙ НАСОС..........20 B10
 
-13 BOLT, HEX., 6X16 .escssceceescoes
+13 БОЛТ С ШЕСТИГР., 6X16 .escsceceescoes
 
 15 PIN, KNOCK, 8X14 .....eccnccusees
 
@@ -6509,148 +6483,148 @@ WATER PUMP ............. 20 B10
 
 .........
 
-TENSIONER ...............
+НАТЯЖИТЕЛЬ ..............
 
-14 WASHER, 6X2.3
+14 ШАЙБА, 6X2,3
 
 ....cecceesccecees
 
-oo
+оо
 
-> BI
+> БИ
 
 4
 
 |
 
-TO
+ТО
 
 .........
 
-13 B6
+13 Б6
 
-26 BOLT, FLANGE, 6X28 ...seeeeeeeee | 4
+26 БОЛТ ФЛАНЕЦ, 6X28 ...смееееее | 4
 
 E14MBOE11
 
-E-11|
+Е-11|
 
-R......
+Р......
 
-CYUNDER HEAD COVER 0.
+КРЫШКА ГОЛОВКИ CYUNDER 0.
 
-"s
+"с
 
-BLOCK NO.
+БЛОК №.
 
-20 B10
+20 Б10
 
 195700-06045-00
 
-BOLT, FLANGE, 6X28 ...sseeeeeeeee]
+БОЛТ, ФЛАНЕЦ, 6X28 ...смееееееее]
 
-Ret
+Рет
 
-44 C10
+44 С10
 
-CARBURETOR COMPONENT 48 C12
+КОМПОНЕНТ КАРБЮРАТОРА 48 C12
 
 1
 
-BOLT, FLANGE, 6X70 ...seseeeseeee]
+БОЛТ, ФЛАНЕЦ, 6X70 ...смееееее]
 
-rola
+Рола
 
-CARBURETOR ASSY........
+КАРБЮРАТОР В СБОРЕ........
 
 1852391
 
-BOLT, FLANGE, 6X45 ....eseeseeeee]
+БОЛТ, ФЛАНЕЦ, 6X45 ....смееееее]
 
-V | Vv
-‘FIA
+В | Вв
+«ФИА
 
-% Ey
+% Эй
 
 {90501-MB0-000
 
 :
 
-5S = VF700S'8S
+5С = ВФ700С'8С
 
-CAM CHAIN ...............
+КУЛАЧКОВАЯ ЦЕПЬ..........
 
 1
 
-24 BOLT, FLANGE, 6X45 ..-.eseeeveeee | 4/5
+24 БОЛТ ФЛАНЦЕВЫЙ, 6X45 ..-.смееееее | 4/5
 
-4 = VF700S'84
+4 = ВФ700С'84
 .
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR ............. 18 BQ
+ГЕНЕРАТОР............. 18 BQ
 
-Y
+Да
 
 .
 
-© AMERIC
-HONDA MCTOR CO,
-AN
-LTD. 1993
+© АМЕРИКА
+ХОНДА МКТОР КО,
+АН
+ООО. 1993 год
 
 25
 
-GRID
+СЕТКА
 
-B12
+Б12
 
-CYLINDER BLOCK
+БЛОК ЦИЛИНДРОВ
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-Vov
+Вов
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-Fela
+Фела
 
-an
-Ret.
-[No.
+а
+В отставке.
+[Нет.
 
-BLOCK NO.
+БЛОК №.
 
-gia|c
+гиа|с
 
-E-12] 4 A 5
+E-12] 4 А 5
 
-DESCRIPTION
+ОПИСАНИЕ
 
-10 BOLT, UBS, 9X98 ..cessssereeveeee|
+10 БОЛТ, UBS, 9X98 ..cesssereeveeeee|
 
 4
 
-o
+о
 
 S51{€E
 
-4 m=
+4 м=
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-A
+А
 
-FROM
+ОТ
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 4
 
@@ -6658,37 +6632,37 @@ CODE
 
 1243401
 
-an 5 1 |
-wnnnnne
+5 1 |
+вннннне
 5
 2108919
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-Viv
+Вив
 
-0 olf
+0 Ольф
 
-BLOCK NO.
+БЛОК №.
 
-s
+с
 
-Ss
+сс
 
-B
+Б
 
-g|Cc
+г|Кк
 
-E-12/4
+Е-12/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-1 BLOCK SET, CYLINDER ....2eeeeseee
+1 БЛОК КОМПЛЕКТ, ЦИЛИНДР ....2ееееее
 
-BLOCK SET, CYLINDER .......0.0005
-BLOCK SET, CYLINDER ......ssseeee
+КОМПЛЕКТ БЛОКА ЦИЛИНДРА .......0,0005
+БЛОК ЦИЛИНДРА ......сссмееее
 
 5
 
@@ -6704,7 +6678,7 @@ BLOCK SET, CYLINDER ......ssseeee
 
 0350215
 
-13 WASHER, RR. BRAKE ARM ....escee00
+13 ШАЙБА, ПРАВ. ТОРМОЗНОЙ РЫЧАГ ....escee00
 
 5
 
@@ -6736,7 +6710,7 @@ BLOCK SET, CYLINDER ......ssseeee
 
 0487025
 
-BOLT, FLANGE, 6X12 ..seceseeess [455
+БОЛТ, ФЛАНЕЦ, 6X12 ..seceseeess [455
 
 2
 
@@ -6764,7 +6738,7 @@ BOLT, FLANGE, 6X12 ..seceseeess [455
 
 2105856
 
-21 BOLT, FLANGE, 6X40 ....... aeaeaes 45
+21 БОЛТ ФЛАНЦЕВЫЙ, 6X40 ....... aeaeaes 45
 
 1
 
@@ -6780,7 +6754,7 @@ BOLT, FLANGE, 6X12 ..seceseeess [455
 
 2610942
 
-22 BOLT, FLANGE, 6X45 .....seceseees
+22 БОЛТ, ФЛАНЕЦ, 6X45 .....выделено
 
 415
 
@@ -6790,7 +6764,7 @@ BOLT, FLANGE, 6X12 ..seceseeess [455
 
 0687830
 
-BOLT, FLANGE, 6X45 ...csceesecare
+БОЛТ, ФЛАНЕЦ, 6X45 ...csceesecare
 
 4:5
 
@@ -6800,7 +6774,7 @@ BOLT, FLANGE, 6X45 ...csceesecare
 
 2529089
 
-HONDA
+ХОНДА
 
 4
 
@@ -6812,7 +6786,7 @@ HONDA
 
 |11000-MB1-870
 
-1 {11000-#B 1-871
+1 {11000-#Б 1-871
 
 206 1604
 
@@ -6822,7 +6796,7 @@ HONDA
 
 |11000-mB1-872
 
-4.5
+4,5
 
 1
 
@@ -6830,7 +6804,7 @@ HONDA
 
 1260753
 
-3 PLATE, OIL SEPARATE .....ssesees
+3 ПЛАСТИНЫ, МАСЛЯНЫЕ ОТДЕЛЬНЫЕ .....ssesesees
 
 4
 
@@ -6840,7 +6814,7 @@ HONDA
 
 1240761
 
-5 CLIP, BREATHER TUBE ......-.e.000 45
+5 ЗАЖИМ, САПОННАЯ ТРУБКА ......-.e.000 45
 
 1
 
@@ -6854,18 +6828,16 @@ HONDA
 
 1260264
 
-6 CLIP, HIGH TENSION CORD .........
+6 ЗАЖИМ, ШНУР ВЫСОКОГО НАТЯЖЕНИЯ .........
 
 1 [32906-06 1-000
 
 0185082
 
+54 КАП, ГЛАВНАЯ ГАЛЕРЕЯ ......0seseceeee 45
 5
 
-4 CAP, MAIN GALLERY ......0seseceee 45
-5
-
-7 SWITCH ASSY., OIL PRESSURE ....../4
+7 ПЕРЕКЛЮЧАТЕЛЬ ДАВЛЕНИЯ МАСЛА В СБОРЕ ....../4
 
 --
 
@@ -6875,7 +6847,7 @@ HONDA
 
 1087204
 
-SWITCH ASSY., OIL PRESSURE ......
+ПЕРЕКЛЮЧАТЕЛЬ ДАВЛЕНИЯ МАСЛА В СБОРЕ ......
 
 =
 
@@ -6893,7 +6865,7 @@ SWITCH ASSY., OIL PRESSURE ......
 
 ~-
 
-SWITCH ASSY., OIL PRESSURE (ND) 014
+ПЕРЕКЛЮЧАТЕЛЬ ДАВЛЕНИЯ МАСЛА (ND) 014
 
 5
 
@@ -6903,7 +6875,7 @@ SWITCH ASSY., OIL PRESSURE (ND) 014
 
 1876721
 
-SWITCH ASSY., OIL PRESSURE (ND) ..14
+ПЕРЕКЛЮЧАТЕЛЬ ДАВЛЕНИЯ МАСЛА (ND) ..14
 
 5
 
@@ -6937,9 +6909,9 @@ SWITCH ASSY., OIL PRESSURE (ND) ..14
 
 |95700-06032-00
 
-CODE
+КОД
 
-9 BOLT, UBS, 9X88 ......eceseessese de>
+9 БОЛТ, UBS, 9X88 ......eceseessese de>
 
 |91314-"B0-003
 
@@ -6947,44 +6919,44 @@ CODE
 
 2
 
-a
+а
 
 5
 
 1
 
-17 PINA, DOWEL, 8X16.
+17 ПИНА, ДЮБЕЛЬ, 8X16.
 
 2
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
 &
 
-16 O-RING, 18X2.8 ...scseceseeeseee | 4 : 5
+16 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 18X2,8 ...scceceseeeeee | 4 : 5
 
 2248359
 
-[oS
+[ОС
 
-2 TUBE A, BREATHER ....scecesenceee
+2 ТРУБКА А, ДЫХАТЕЛЬНЫЙ ....scecesenceee
 
-8 BOLT, UBS, 9X88 ......eceseeeseeed
+8 БОЛТ, UBS, 9X88 ......eseeeeeeed
 
 1260793
 
 45
 
-FROM
+ОТ
 
-SWITCH ASSY., OIL PRESSURE ......|4
+ПЕРЕКЛЮЧАТЕЛЬ ДАВЛЕНИЯ МАСЛА В СБОРЕ ......|4
 
 |91210-MB0-003
 191210-mB0-013
 
-20 BOLT, FLANGE, 6X32 ....se00 weve
+20 БОЛТ ФЛАНЕЦ, 6X32 ....se00 weve
 
-51€E
+51€Е
 
 4
 
@@ -6999,31 +6971,31 @@ SWITCH ASSY., OIL PRESSURE ......|4
 
 G5
 
-SEAL, OIL, 1GX24K6 .eseeesseeeeee | 5
+УПЛОТНЕНИЕ, МАСЛЯНОЕ, 1GX24K6 .eeeeseeeeee | 5
 
 45
 
-ENGINE
+ДВИГАТЕЛЬ
 
 5
 
 --
 
-BOLT, FLANGE, 6X28 .....seueecees
+БОЛТ, ФЛАНЕЦ, 6X28 .....пойнты
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
 4
 
 1263401
 
-BOLT, FLANGE, 6X3? ...sseeeeesess
+БОЛТ, ФЛАНЕЦ, 6X3? ...вотааааааааааааааааа
 
-BOLT, FLANGE, 6X40 ......04. seeee[
+БОЛТ, ФЛАНЕЦ, 6X40 ......04. увидимся[
 
 4
 
-BOLT, FLANGE, 6X45 ....eseceeeeee|
+БОЛТ, ФЛАНЕЦ, 6X45 ....eseceeeeee|
 
 4, 5
 
@@ -7033,7 +7005,7 @@ BOLT, FLANGE, 6X45 ....eseceeeeee|
 
 2610967
 
-23 BOLT, FLANGE, 6X45 ....... aeeeeee
+23 БОЛТ ФЛАНЕЦ, 6Х45.......аееееее
 
 45
 
@@ -7043,7 +7015,7 @@ BOLT, FLANGE, 6X45 ....eseceeeeee|
 
 0799023
 
-24 BOLT, FLANGE, 6X50 ......00 weeee[
+24 БОЛТ, ФЛАНЕЦ, 6X50 ......00 weeee[
 
 45
 
@@ -7053,7 +7025,7 @@ BOLT, FLANGE, 6X45 ....eseceeeeee|
 
 0483974
 
-BOLT, FLANGE, 6X50 ......00+ see
+БОЛТ ФЛАНЕЦ, 6Х50......00+ см.
 
 [45
 
@@ -7063,7 +7035,7 @@ BOLT, FLANGE, 6X50 ......00+ see
 
 2410975
 
-25 BOLT, FLANGE, 6X60 ......... weve
+25 БОЛТ, ФЛАНЕЦ, 6X60 ...... плеть
 
 [45
 
@@ -7073,9 +7045,9 @@ BOLT, FLANGE, 6X50 ......00+ see
 
 0687848
 
-BOLT, FLANGE, 6X60 ..essseseeeeee
+БОЛТ, ФЛАНЕЦ, 6X60 ..есссесеееее
 
-lo
+вот
 
 5
 
@@ -7085,7 +7057,7 @@ lo
 
 2791119
 
-26 BOLT, FLANGE, 6X90 ...cesesereeeel
+26 БОЛТ, ФЛАНЕЦ, 6X90 ...cesesereeeel
 
 4
 
@@ -7097,7 +7069,7 @@ lo
 
 0484014
 
-BOLT, FLANGE, 6X90 ..esecereseeee[
+БОЛТ, ФЛАНЕЦ, 6X90 ..esecereseeee[
 
 &
 
@@ -7109,7 +7081,7 @@ BOLT, FLANGE, 6X90 ..esecereseeee[
 
 2533842
 
-27 BOLT, FLANGE, 6X100 ....cesecenee
+27 БОЛТ, ФЛАНЕЦ, 6X100 ....cecenee
 
 [4
 
@@ -7121,7 +7093,7 @@ BOLT, FLANGE, 6X90 ..esecereseeee[
 
 0484022
 
-BOLT, FLANGE, 6X100 ....seceveeee] 4 5
+БОЛТ, ФЛАНЕЦ, 6X100 ....сечевееее] 4 5
 
 1
 
@@ -7137,7 +7109,7 @@ BOLT, FLANGE, 6X100 ....seceveeee] 4 5
 
 0496497
 
-BOLT, FLANGE, 8X45 ....cseseseeee | 4 | 5
+БОЛТ, ФЛАНЕЦ, 8X45 ....cseseseeee | 4 | 5
 
 1
 
@@ -7145,11 +7117,11 @@ BOLT, FLANGE, 8X45 ....cseseseeee | 4 | 5
 
 2533859
 
-28 BOLT, FLANGE, 8X45 ......0ceeeeee]
+28 БОЛТ ФЛАНЕЦ, 8X45 ......0ceeeeeee]
 
 4
 
-CRANKCASE COVER, R......
+КРЫШКА КАРТЕРА, П.......
 
 18
 10
@@ -7161,14 +7133,14 @@ CRANKCASE COVER, R......
 20
 13
 
-CROSS SHAFT ............
-CYLINDER BLOCK .........
-CYLINDER HEAD COVER
-CYLINDER HEAD, FR .......
-CYLINDER HEAD, AR ......
-GASKET KITA .............
-GASKET KITB.............
-GEARSHIFT ORUM .........
+КРЕСТОВОЙ ВАЛ............
+БЛОК ЦИЛИНДРОВ.......
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
+ГОЛОВКА ЦИЛИНДРА, ПЕР .......
+ГОЛОВКА ЦИЛИНДРА, АР ......
+КОМПЛЕКТ ПРОКЛАДОК .............
+КОМПЛЕКТ ПРОКЛАДОК.............
+ОРУМ ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ.......
 
 42
 26
@@ -7179,25 +7151,25 @@ GEARSHIFT ORUM .........
 51
 38
 
-C9
-C1
-Bi
+С9
+С1
+Би
 
 30
 16
 16
 22
 
-C3
-BB
-BS
-B11
+С3
+ББ
+БС
+Б11
 
-CRANKSHAFT .............
+КОЛЕНВАЛ............
 
 1263401
 
-19 BOLT, FLANGE, 6X28 ....sseeesseee
+19 БОЛТ ФЛАНЕЦ, 6X28 ....смееееее
 
 5
 
@@ -7206,17 +7178,17 @@ CRANKSHAFT .............
 |90015-mB0-000
 
 9
-Y
+Да
 
-TO
+ТО
 
 |90015-MB0-000
 
-12 WASHER, SEALING, 6.5X12 ....00...14
+12 ШАЙБА УПЛОТНИТЕЛЬНАЯ, 6,5X12....00...14
 
-18 BOLT, FLANGE, 6X12 ....sccecceere
+18 БОЛТ ФЛАНЕЦ, 6X12 ....см.
 
-FETA
+ФЕТА
 
 =
 
@@ -7227,142 +7199,140 @@ FETA
 
 5
 
-15 SEAL, OIL ..sevecececererererece]
+15 УПЛОТНЕНИЕ, МАСЛО ..sevecececererererece]
 
 5 = VF700S 8s
 
-TO
+ТО
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
-CAM CHAIN ...............
-CAMSHAFT ...............
-CARBURETOR ASSY........
-CARBURETOR COMPONENT
-CARBURETOR LINK ........
-CLUTCH .....
-eee.
-CRANKCASE COVER, L.
+ГЕНЕРАТОР .............
+КУЛАЧКОВАЯ ЦЕПЬ..........
+РАСПРЕДВАЛ..........
+КАРБЮРАТОР В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА........
+СЦЕПЛЕНИЕ.....
+эээ.
+КРЫШКА КАРТЕРА, Л.
 
-HONDA
+ХОНДА
 
-11 BOLT, UBS, 9X108 .eseseeseesseeee | 4
+11 БОЛТ, UBS, 9X108 .eseseeseeseeee | 4
 
-14 OIL SEAL, 12.5X25X8 CARAT) ..... [45
+14 САЛЬНИК, 12,5Х25Х8 КАРАТ)..... [45
 
 E14MB0E12
 
-TITLE
+НАЗВАНИЕ
 
 ?
 
-OW FILTER ....0 2020.22...
-OIL PAN ....2 00.2.2,
-Of, PUMP . «6...
-PISTON ......00.....-2206,
-PULSE ALTERNATOR ......
+ВЛ ФИЛЬТР ....0 2020.22...
+МАСЛЯНЫЙ ПОДДОН....2 00.2.2,
+НАСОС. «6...
+ПОРШЕНЬ......00.....-2206,
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ......
 
-STARTER CLUTCH .........
-STARTER MOTOR .........
-vac ee tee
+СТАРТЕРНАЯ МУФТА.......
+СТАРТЕР МОТОР.......
+вац и футболка
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2900008 TO 2005978
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2900008 ДО 2005978
 
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+С1
 
-C1
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+30 С3
 
-30 C3
+БИ
+Б3
+Д1
+Дт
 
-BI
-B3
-D1
-Dt
+С7
+23 Б11
+23 Б11
+23 Б11
 
-C7
-23 B11
-23 B11
-23 B11
+урожденная
 
-nee
+10 БС
 
-10 BS
+40 С8
+36 С6
 
-40 C8
-36 C6
+А
 
-A
+я
 
-i
+а
 
-a
-
-WATER PIPE ..............
-WATER PUMP .............
+ВОДОПРОВОД ..............
+ВОДЯНОЙ НАСОС .............
 
 27
 
-VF700S'85 ENGINE NO.; RC2Z2E~2100001 TO 2103668
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2Z2E~2100001 ДО 2103668
 
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E~2 100001 TO 2103285
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E~2 100001 ДО 2103285
 
-B10
-B6
+Б10
+Б6
 
-THERMOSTAT .............
-TRANSMISSION ...........
+ТЕРМОСТАТ .............
+ТРАНСМИССИЯ............
 
 |
 
 26
 
-BS
-BS
-B4
-C10
-C12
-C10
-B7
+БС
+БС
+Б4
+С10
+С12
+С10
+Б7
 
-GRID
+СЕТКА
 
-C1
+С1
 
-8 B4
+8 Б4
 
-40 C8
-20 B10
+40 С8
+20 Б10
 
-CYLINDER BLOCK
+БЛОК ЦИЛИНДРОВ
 
-oe eroos ee
+оэ эрос ээ
 
-F FIA
+Ф ФИА
 
 6 88
 
-oof
-sis|4
-Ref.
+уф
+сестренка|4
+Ссылка.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-E-12]
+Е-12]
 
 8
 
@@ -7370,52 +7340,52 @@ E-12]
 
 ;
 
-8B 6
+8Б 6
 5
 
 4
 
-4 5|E]
+4 5|Е]
 
-TITLE
+НАЗВАНИЕ
 
-e
-v
+е
+в
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-FROM
+ОТ
 
-TO
+ТО
 
-R
-E
+Р
+Э
 
-| Q |PART NUMBER
+| Q |НОМЕР ДЕТАЛИ
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR ............. 18 BS
-CAMCHAIN ........ 0... 10 BS
-CAMSHAFT ............. .
+ГЕНЕРАТОР...........18 BS
+ЦЕПЬ ........ 0... 10 БС
+РАСПРЕДВАЛ........... .
 
-CARBURETOR
-ASSY........ 44 C10
-CARBURETOR COMPONENT 48 C12
+КАРБЮРАТОР
+В СБОРЕ........ 44 C10
+КОМПОНЕНТ КАРБЮРАТОРА 48 C12
 
-CODE
+КОД
 
-CLUTCH
+СЦЕПЛЕНИЕ
 
-I
+я
 
-A IO
+И.О.
 
-CRANKCASE COVER, L.
+КРЫШКА КАРТЕРА, Л.
 
 ....
 
@@ -7426,12 +7396,12 @@ CRANKCASE COVER, L.
 2
 3
 
-BB
-C3
+ББ
+С3
 9
-C1
-BI
-Bi
+С1
+БИ
+Би
 
 6
 50
@@ -7440,87 +7410,87 @@ Bi
 23
 
 63
-D1
-D1
-C7
-Bit
+Д1
+Д1
+С7
+Бит
 
-OIL PAN 200...
+МАСЛЯНЫЙ ПОДДОН 200...
 
-23 Bil
+23 миллиарда
 
-OW PUMP ooo.
+ОЙ НАСОС ооо.
 
-23 Bit
+23 бита
 
-PISTON...)
+ПОРШЕНЬ...)
 
-30 C3
+30 С3
 
-STARTER CLUTCH...
-STARTER MOTOR .........
-TENSIONER ...0000000..0...
-THERMOSTAT .............
+СТАРТЕРНАЯ МУФТА...
+СТАРТЕР МОТОР.......
+НАТЯЖИТЕЛЬ ...0000000..0...
+ТЕРМОСТАТ .............
 
-E14MBOE 12
+Е14МБОЭ 12
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-Viv
+Вив
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
-5 = VF700S 85
+5 = ВФ700С 85
 
-z
+я
 
-WATER PIPE ............
+ВОДОПРОВОД ............
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-8. gic
+8. игра
 
 £E-12/4 5
 
-29 BOLT, FLANGE, 8X50 ......-.eees0.
-BOLT, FLANGE, 8X50 .....cecscenee
+29 БОЛТ ФЛАНЕЦ, 8X50 ......-.eees0.
+БОЛТ, ФЛАНЕЦ, 8X50 .....cecscenee
 
-30 BOLT, FLANGE, 8X80 ......cccececs
-BOLT, FLANGE, 8X80 ......cccceee
+30 БОЛТ, ФЛАНЕЦ, 8X80 ......cccececs
+БОЛТ, ФЛАНЕЦ, 8X80 ......ccccee
 
-31 BOLT, FLANGE, 6X12 ....ccccescece
+31 БОЛТ ФЛАНЕЦ, 6X12 ....ccccescece
 
-32 BEARING, RADIAL BALL, 6304 ......
+32 ПОДШИПНИК РАДИАЛЬНЫЙ ШАРИКОВЫЙ, 6304 ......
 
-e
+е
 
 4°5]€!
 4
 
 5
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-FROM
+ОТ
 
-R
+Р
 
-R
+Р
 
-To | Q [PART NUMBER
+Чтобы | В [НОМЕР ДЕТАЛИ
 1
 
 |95700-08050-00
 
-HONDA
+ХОНДА
 
-CODE
+КОД
 0687871
 
 1
@@ -7549,7 +7519,7 @@ CODE
 
 2533867
 
-4.5
+4,5
 
 3
 
@@ -7575,94 +7545,94 @@ CODE
 
 4
 
-© AMERICAN HONDA MOTOR CO. LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
-VF700S'84 ENGINE NO.z RC22E-2000008 TD 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯz RC22E-2000008 TD 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-16 BB
+16 ББ
 
-16 BB
-22 Bi1
+16 ББ
+22 Би1
 
-10 BS
-40 C8
-36 C6
+10 БС
+40 С8
+36 С6
 
-8 Bw
+8 Чб
 
-40 Cé
+40 сентября
 
-WATER PUMP |... 20 B10
+ВОДЯНОЙ НАСОС |... 20 B10
 
-7y
+7 лет
 
-4.5
+4,5
 
-BOLT, FLANGE, 6X12 .....seseeesee 4
+БОЛТ, ФЛАНЕЦ, 6X12 .....см.см. 4
 
 28
 
-7 IR
+7 ИК
 
-QO Oln
-s.s
-BLOCK NO.
+QO Олн
+с.с.
+БЛОК №.
 
 ...........
 
-VALVE 0000.0 c eee eee
+КЛАПАН 0000.0 с ееее
 
-F:.FILA
+Ф:.ФИЛА
 
-20 B10
+20 Б10
 
-CRANKCASE COVER, A...
-CRANKSHAFT .............
-CROSS SHAFT |...
-CYLINDER BLOCK .........
-CYLINDER HEAD COVER ...
-CYLINDER HEAD, FR........
-CYLINDER HEAD, RR...
-GASKET KITA .............
-GASKET KITB.............
-GEARSHIFT DRUM .........
-OIL FILTER 2.00000.
-l
+КРЫШКА КАРТЕРА, А...
+КОЛЕНВАЛ............
+КРЕСТОВОЙ ВАЛ |...
+БЛОК ЦИЛИНДРОВ.......
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА...
+ГОЛОВКА ЦИЛИНДРА, ПТ........
+ГОЛОВКА ЦИЛИНДРА, ЗАД...
+КОМПЛЕКТ ПРОКЛАДОК .............
+КОМПЛЕКТ ПРОКЛАДОК.............
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ.......
+МАСЛЯНЫЙ ФИЛЬТР 2.00000.
+л
 
-PULSE ALTERNATOR .....
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР .....
 
-’
+'
 
-8 BB
+8 ББ
 
-HONDA
+ХОНДА
 
-Ce
+Се
 
-VF700S'85 ENGINE NO.; RC2ZE~2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-F 100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2ZE~2100001 ДО 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-F 100001 ДО FM100863
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1903
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1903 год
 
 29
 
-GRID
+СЕТКА
 
-C2
+С2
 
-CRANKSHAFT e PISTON
+КОЛЕНВАЛ И ПОРШЕНЬ
 
-CRANKSHAFT e PISTON
+КОЛЕНВАЛ И ПОРШЕНЬ
 
-CCNTENTS
-TITLE
+ЦКТЕНТЫ
+НАЗВАНИЕ
 
-aon Front 143206.
+на Фронте 143206.
 
 [13207-
 
@@ -7674,141 +7644,139 @@ aon Front 143206.
 
 13201.
 
-MB1-870
+МБ1-870
 
-‘o
+'о
 
 MB1-§70
 13203-
 
-e
+е
 
-CARBURETOR COMPONENT
+КОМПОНЕНТ КАРБЮРАТОРА
 
-48 C12
+48 С12
 
-CRANNCASE COVER “30 B10
+КРЫШКА КРАНА «30 B10»
 
-ad
+реклама
 
-ad
+реклама
 
-CRANKCASE COVER,
+КРЫШКА КАРТЕРА,
 
-e
+е
 
-e
+е
 
-e
+е
 
 eebinies alg cnet ee aeae
 
-e
+е
 
-e
+е
 
 -
 
 13202-
 
-18 B9
-10 BS
-8 BA
+18 Б9
+10 БС
+8 БА
 
-CARBURETON Cookete yn cre
+КАРБЮРЕТОН Cookete yn Cre
 
-MB1-870/MB1-870|MB1-870/MB1-870|MB1-870
+МБ1-870/МБ1-870|МБ1-870/МБ1-870|МБ1-87010
 
-10
+СЕТКА СТРАНИЦ
 
-PAGE GRID
+ГЕНЕРАТОР .............
+КУЛАЧКОВАЯ ЦЕПЬ..........
+РАСПРЕДВАЛ..........
 
-ALTERNATOR .............
-CAM CHAIN ...............
-CAMSHAFT ...............
+Р...... 13 Б6
 
-R...... 13 B6
+КОЛЕНВАЛ ..000........
 
-CRANKSHAFT ..000........
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА... 2 BI
 
-CYLINDER HEAD COVER... 2 BI
+CVLIDER HEAD, FR Лоееее
 
-CVLIDER HEAD, FR Loeeeee
-
-MB1-870
+МБ1-870
 
 13204-
 
-bd
+др.
 
 -
 
 13205-
 
-e
+е
 
 °
 
-MB1-870
+МБ1-870
 -970;
 
 7%
 
-bd
+др.
 
 3
 
 38 7
 
-CW PAN
+КВ ПАН
 
 23
 
-CILFILYER................ 23 BI
+СИЛФИЛЬЕР.......... 23 BI
 
-e
+е
 |
 
-GEASMRT OFM
-OL PUMP
+ГЕАСМРТ ОФМ
+ОЛ НАСОС
 
 |
 
-fF
+фф
 
 .......0..0.0.....
 
-Tpigton
+Тпигтон
 
-E14MB0E13 C
+E14MB0E13 С
 
 4 = VE700S'B4
 
-v
+в
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 2
 
 :
 
-veceaeeees
+очень хорошо
 
-Crankshaft bearing selection
-tOd ctsarence 20°44 yn)
+Выбор подшипника коленвала
+tod ctsarence 20°44 ю.)
 
-Cranacase
+Кранакейс
 10 308
 
-ne
+пе
 
-’
+'
 
 —
 
-+0.008
++0,008
 
-rn
+р-н
 
 ;
 
@@ -7816,30 +7784,30 @@ rn
 
 2
 
-o
+о
 
-Connecting rod bearing
-(Ou selection
-cleorence 26~62
+Шатунный подшипник
+(Наш выбор
+Клиоренс 26~62
 
-A
+А
 
-VALVE
+КЛАПАН
 
-WATER PUMP ...__.__... 20 B10
-ATER
+ВОДЯНОЙ НАСОС ...__.__... 20 B10
+АТЕР
 
 4
 
-5/E]|
+5/Е]|
 
-FROM
+ОТ
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-1 RING SET, PISTON (STD.) (NIPPON) ./
+КОМПЛЕКТ 1 КОЛЬЦЕВ, ПОРШЕНЬ (СТАНД.) (НИППОН)./
 
 4
 
@@ -7851,7 +7819,7 @@ Q
 
 1780931
 
-RING SET, PISTON (STD.) (NIPPON)
+КОМПЛЕКТ КОЛЬЦ, ПОРШЕНЬ (СТАНД.) (NIPPON)
 
 .14
 
@@ -7863,7 +7831,7 @@ RING SET, PISTON (STD.) (NIPPON)
 
 2523884
 
-2 PISTON .cccccccccccaces peenenens
+2 ПОРШЕНЬ
 
 4
 
@@ -7875,7 +7843,7 @@ RING SET, PISTON (STD.) (NIPPON)
 
 1722958
 
-3 PIN, PISTON ..uccece pececsnes one
+3 ШТИФТ, ПОРШЕНЬ ..uccece pececsnes one
 
 & = 5
 
@@ -7883,96 +7851,96 @@ RING SET, PISTON (STD.) (NIPPON)
 
 .
 
--0.008
+-0,008
 
--0.008 | -0.016
+-0,008 | -0,016
 5
 
 <
 
-Crark om
+Крарк ом
 
 .
 
-cones
-Oem
+шишки
+OEM
 
-A
+А
 
-| 60.008 | evesow | Geren | teecend
+| 60.008 | вечерин | Герен | Тикенд
 
 1
 
 8
 
-*0.008 |
+*0,008 |
 0
-c
+с
 8
-+0.016 | (Green) | tBrown) | (Giack)
++0,016 | (Зеленый) | тБраун) | (Гиак)
 
 2
 
-c
+с
 
-+0.016
-c
++0,016
+с
 8
-#0.024 | (Brown) | (Bleck)
+#0.024 | (Коричневый) | (Блек)
 
 |
 
-A
-(Bue)
+А
+(Буэ)
 
 3
 
 00.388
 
-A
+А
 
 8
 
-r+)
+г+)
 
-c
+с
 
 4
 
--0.008 -0.016
+-0,008 -0,016
 
-ROD ASSY. C, FR. CONNECTING ......
+ШТОК В СБОРЕ. С, фр. ПОДКЛЮЧЕНИЕ.....
 
-1 48.008 | wvesow | Gideon | arson
-c
+1 48.008 | вессов | Гидеон | поджог
+с
 8
-| (Brown) | (Biack)
+| (Коричневый) | (Биак)
 
-+0.016
-c
-+0.024 | (Brown) |
++0,016
+с
++0,024 | (Коричневый) |
 
 8
-(Bisck)
+(Биск)
 
 |
 
-A
-(Blue)
+А
+(Синий)
 
-@ AMERICAN HONDA MOTOR CO. LTD. 1983
+@ АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1983 год
 
-VF700S '84 ENGINE NO.; RC22E~2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S '84 ENGINE NO.; RC22E~2002575 T0 2006097
-VF700S "84 FRAME NO.3 RC221-EM000006 TO EM001081
+VF700S '84 НОМЕР ДВИГАТЕЛЯ; RC22E~2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S '84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 T0 2006097
+VF700S "84 РАМКА № 3 RC221-EM000006 ДО EM001081
 
-c3
+с3
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'8S FRAME NO.; RC220-F4100001 TO FM 102800
-VF700S'85 ENGINE NO.; RCZ22E-2100001 TC 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S'8S № РАМЫ; RC220-F4100001 К FM 102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RCZ22E-2100001 ТС 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
 4
 
@@ -7980,9 +7948,9 @@ VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
 
 ..............
 
-HONDA
+ХОНДА
 
-CODE
+КОД
 
 4&
 
@@ -7992,7 +7960,7 @@ CODE
 
 4&
 
-|13111-"T3-000
+|13111-"Т3-000
 
 3482114
 
@@ -8000,7 +7968,7 @@ CODE
 
 2
 
-13201-"B 1-870
+13201-"Б 1-870
 
 1722966
 
@@ -8018,7 +7986,7 @@ CODE
 
 |13203-"81-870
 
-ROD ASSY. D, FR. CONNECTING ......14
+ШТОК В СБОРЕ. Д, фр. ПОДКЛЮЧЕНИЕ ......14
 
 1722982
 
@@ -8030,7 +7998,7 @@ ROD ASSY. D, FR. CONNECTING ......14
 
 1722990
 
-ROD ASSY. E, FR. CONNECTING ......14
+ШТОК В СБОРЕ. Э, фр. ПОДКЛЮЧЕНИЕ ......14
 
 5
 
@@ -8050,7 +8018,7 @@ ROD ASSY. E, FR. CONNECTING ......14
 
 0549493
 
-6 ROD ASSY. A, RR. CONNECTING ......14
+6 ТЯГА В СБОРЕ. А, РР. ПОДКЛЮЧЕНИЕ ......14
 
 5
 
@@ -8060,7 +8028,7 @@ ROD ASSY. E, FR. CONNECTING ......14
 
 1723014
 
-ROD ASSY. B, RR. CONNECTING ......14
+ШТОК В СБОРЕ. Б, РР. ПОДКЛЮЧЕНИЕ ......14
 
 5
 
@@ -8070,7 +8038,7 @@ ROD ASSY. B, RR. CONNECTING ......14
 
 1723022
 
-ROD ASSY. C, RR. CONNECTING ......14
+ШТОК В СБОРЕ. С, РР. ПОДКЛЮЧЕНИЕ ......14
 
 5
 
@@ -8080,7 +8048,7 @@ ROD ASSY. C, RR. CONNECTING ......14
 
 1723030
 
-ROD ASSY. D, RR. CONNECTING ......14
+ШТОК В СБОРЕ. Д, РР. ПОДКЛЮЧЕНИЕ ......14
 
 5
 
@@ -8090,7 +8058,7 @@ ROD ASSY. D, RR. CONNECTING ......14
 
 1723048
 
-ROD ASSY. E, RR. CONNECTING ......|4
+ШТОК В СБОРЕ. Э, РР. ПОДКЛЮЧЕНИЕ...|4
 
 5
 
@@ -8100,220 +8068,218 @@ ROD ASSY. E, RR. CONNECTING ......|4
 
 1723055
 
-5 NUT, CONNECTING ROD ....cecceeeee]
+5 ГАЙКА СОЕДИНИТЕЛЬНОГО ШТОКА ....cecceeeee]
 
 E14MB0E13T
 
-Ke]
+Ке]
 
-ROD ASSY. A, FR. CONNECTING eevee .
+ШТОК В СБОРЕ. А, фр. ПОДКЛЮЧЕНИЕ ИВИ.
 
-TO
+ТО
 
 5
 
-ROD ASSY. B, FR. CONNECTING eeecse . 4 5
+ШТОК В СБОРЕ. Б, фр. ПОДКЛЮЧЕНИЕ eecse . 4 5
 
--0.008 | -0.016 | -0.024
+-0,008 | -0,016 | -0,024
 
 70.008 |
-oO
-+#0.016 | (Green)
+оо
++#0.016 | (Зеленый)
 
-....ccesccces weeeeee | 4
+....ccesccces вееееее | 4
 
-Leeeeeveeeneees £ Be
+Лиееееееееее £ Будьте
 
-PIPE
+ТРУБА
 
-Yy
+Да
 
-R
-R
+Р
+Р
 
-PIN, PISTON
+ШТИФТ, ПОРШЕНЬ
 
-10 BS
+10 БС
 
-40 CB
-36 C6
+40 КБ
+36 С6
 
-IR
-ENGINE
-SERIAL NUMBER
+ИК
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
 
 .)
 
 ..... 2.0...
 
-16 BS
-22 Bil
+16 БС
+22 миллиарда
 
 7
 
-B|C
+Б|С
 5 6
 
-DESCRIPTION
+ОПИСАНИЕ
 
-THERMOSTAT .............
+ТЕРМОСТАТ .............
 
 3
 
-v
+в
 
 8
 £-13]4
 
-No.
+Нет.
 
-TENSIONER ...............
+НАТЯЖИТЕЛЬ ..............
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
-ss
+сс
 
-BLOCK NO.
+БЛОК №.
 
 811
 
-Lee ceeeeeees zs ah
+Ли сееееееет зс ах
 
-PULSE ALYERNATOR ...... 16 BS
+ИМПУЛЬСНЫЙ АЛИЕРНАТОР ...... 16 BS
 
-Ff
+фф
 
-STARTER CLUTCH .........
-STARTER MOTOR ...... _..
+СТАРТЕРНАЯ МУФТА.......
+СТАРТЕР ...... _..
 
-Ret.
+В отставке.
 
-s Bi
+с Би
 
-GASKET KIT/.. .......... 50 Df
+КОМПЛЕКТ ПРОКЛАДОК/............50 Df
 
-MB1-870
+МБ1-870
 
-’
+'
 
-30 C3
+30 С3
 
-po °
+по °
 
-€ AMERICAN HONDA MOTOR CO. 1 TD. 19083
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. 1 TD. 19083
 
-n
+н
 
-GRID
+СЕТКА
 
-C3
+С3КОЛЕНВАЛ И ПОРШЕНЬ
 
-CRANKSHAFT e PISTON
+ОС nvevoowes
 
-oS nvevoowes
+Ф Ф А
+НАЗВАНИЕ
+S
 
-F F A
-TITLE
-S's
+В отставке.
+Нет.
 
-Ret.
-No.
+БЛОК №.
 
-BLOCK NO.
+Е-13]/4
 
-E-13]/4
+ОПИСАНИЕ
 
-DESCRIPTION
+7 БОЛТ ШАТУНА (TOKAI TRW)
+БОЛТ ШАТУННЫЙ (НАГОЯ
+НЭДЖИ) ecscececscccscecececesee]
 
-7 BOLT, CONNECTING ROD (TOKAI TRW)
-BOLT, CONNECTING ROD (NAGOYA
-NEJI) ecscececscccscecececesee]
-
-Cianacone
+Цианаконе
 10.908
 
-a) +0.008
-a |0
-o
+а) +0,008
+а |0
+о
 
 ence
 
 Coneciagredbeatng siacion
 
-aft
+кормовая часть
 
-~ 0.008
-~0.008 } -0.016
+~ 0,008
+~0,008 } -0,016
 
-Connecting
+Подключение
 1001.0. 300
 
-A
+А
 
-148.008 | rvegow | teen | tence
+148.008 | рвегов | подросток | напряжение
 
 1
 
-ao
+ао
 
 [90781
 
-bem | cobu,
+бэм | кобу,
 
 2
 
-C1
+С1
 
-eOo26 | cecum | witn | cote
+эОо26 | слепая кишка | видеть | Кот
 
 3
 
 8
 
-ae0
+ае0
 
-a:
+а:
 
 6%,
 
-| wea!
+| ва!
 
 wn
 
-| 50.028 | ieeawn | ioitcn | tenes
+| 50.028 | ииион | ioitcn | десятки
 
 cvsapoeten
-a2
+а2
 
-© AMER
-HONDA MOTOR
-ICAN
-CO, LTD. 1993
+© АМЕР
+ХОНДА МОТОР
+ИКАН
+КО, ООО. 1993 год
 
-VF700S'B4 ENGINE NO.; RC22E~2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+НОМЕР ДВИГАТЕЛЯ VF700S'B4; RC22E~2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-5/7E
+5/7Е
 
 ./4
 
 5
 
-cs
+CS
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-a
+а
 
-FROM
+ОТ
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 8
 
@@ -8321,13 +8287,13 @@ CODE
 
 0725416
 
-TO
+ТО
 
-HONDA
+ХОНДА
 
 8
 
-8 BEARING A, CONNECTING ROD (BLUE) .14
+8 ПОДШИПНИК А ШАТУНА (СИНИЙ) .14
 
 |13213-422-004
 
@@ -8339,7 +8305,7 @@ HONDA
 
 1260116
 
-BEARING A, CONNECTING ROD (BLUE).| 4
+ПОДШИПНИК A, ШАТУН (СИНИЙ).| 4
 
 5
 
@@ -8347,7 +8313,7 @@ BEARING A, CONNECTING ROD (BLUE).| 4
 
 1853514
 
-BEARING A, CONNECTING ROD (BLUE).| 4
+ПОДШИПНИК A, ШАТУН (СИНИЙ).| 4
 
 5
 
@@ -8357,7 +8323,7 @@ BEARING A, CONNECTING ROD (BLUE).| 4
 
 2053999
 
-BEARING A, CONNECTING ROD (BLUE)
+ПОДШИПНИК A, ШАТУН (СИНИЙ)
 
 .|4
 
@@ -8369,7 +8335,7 @@ BEARING A, CONNECTING ROD (BLUE)
 
 3255692
 
-BEARING B, CONNECTING ROD (BLACK)
+ПОДШИПНИК B ШАТУНА (ЧЕРНЫЙ)
 
 |4
 
@@ -8383,7 +8349,7 @@ BEARING B, CONNECTING ROD (BLACK)
 
 |13224-MB0-305
 
-BEARING B, CONNECTING ROD (BLACK) | 4
+ПОДШИПНИК B, ШАТУН (ЧЕРНЫЙ) | 4
 
 5
 
@@ -8393,7 +8359,7 @@ BEARING B, CONNECTING ROD (BLACK) | 4
 
 2054005
 
-BEARING B, CONNECTING ROD (BLACK) | 4
+ПОДШИПНИК B, ШАТУН (ЧЕРНЫЙ) | 4
 
 5
 
@@ -8403,7 +8369,7 @@ BEARING B, CONNECTING ROD (BLACK) | 4
 
 3045499
 
-BEARING C, CONNECTING ROD (BROWN)
+ПОДШИПНИК C ШАТУНА (КОРИЧНЕВЫЙ)
 
 14
 
@@ -8415,7 +8381,7 @@ BEARING C, CONNECTING ROD (BROWN)
 
 1260132
 
-BEARING C, CONNECTING ROD (BROWN) | 4
+ПОДШИПНИК C, ШАТУН (КОРИЧНЕВЫЙ) | 4
 
 5
 
@@ -8423,7 +8389,7 @@ BEARING C, CONNECTING ROD (BROWN) | 4
 
 |13226-MB0-891
 
-BEARING C, CONNECTING ROD (BROWN) | 4
+ПОДШИПНИК C, ШАТУН (КОРИЧНЕВЫЙ) | 4
 
 2054013
 
@@ -8441,7 +8407,7 @@ BEARING C, CONNECTING ROD (BROWN) | 4
 
 14 = 5
 
-BEARING D, CONNECTING ROD (GREEN) | 4
+ПОДШИПНИК D, ШАТУН (ЗЕЛЕНЫЙ) | 4
 
 5
 
@@ -8451,7 +8417,7 @@ BEARING D, CONNECTING ROD (GREEN) | 4
 
 2054021
 
-BEARING D, CONNECTING ROD (GREEN) | 4
+ПОДШИПНИК D, ШАТУН (ЗЕЛЕНЫЙ) | 4
 
 5
 
@@ -8461,8 +8427,8 @@ BEARING D, CONNECTING ROD (GREEN) | 4
 
 2956621
 
-BEARING E, CONNECTING ROD
-(YELLOW) .eccesecacscavceccecs
+ПОДШИПНИК E, ШАТУН
+(ЖЕЛТЫЙ)
 
 :
 45
@@ -8471,9 +8437,9 @@ BEARING E, CONNECTING ROD
 
 1260157
 
-BEARING E, CONNECTING ROD
+ПОДШИПНИК E, ШАТУН
 
-(YELLOW) ..ccesecersceccsacecs
+(ЖЕЛТЫЙ) ..ccesecersceccsacecs
 
 |
 45
@@ -8484,8 +8450,8 @@ BEARING E, CONNECTING ROD
 
 2054039
 
-BEARING E, CONNECTING ROD
-(YELLOW) .eecesee sececesecees
+ПОДШИПНИК E, ШАТУН
+(ЖЕЛТЫЙ)
 
 45
 
@@ -8499,88 +8465,88 @@ BEARING E, CONNECTING ROD
 
 1
 
-|13300-"B1-870
+|13300-"Б1-870
 
 1723063
 
-a laswwwo-o
+лазуо-о
 
-tous
+все
 
 ...s.ccceceeees
 
-CAMSHAFT .............
-CARBURETOR ASSY......
+РАСПРЕДВАЛ.............
+КАРБЮРАТОР В СБОРЕ......
 
-CARBURETOR COMPONENT
-CARBURETOR LINK ......
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА......
 
-CLUTCH 2000000...
-CRANKCASE COVER, L.
+СЦЕПЛЕНИЕ 2000000...
+КРЫШКА КАРТЕРА, Л.
 
-CRANKCASE COVER, R......
-eee
+КРЫШКА КАРТЕРА, П.......
+эээ
 
 5
 
-w sees,’ ceawswrT iD |
-rece]
+мы видим», ceawswrT iD |
+получить]
 
-| 8.008 | evetows | (Geen | cBeSem
+| 8.008 | эветов | (Гин | cBeSem
 (73991
 
 4
 
 :
 
--0.008 | -0.016
-~ 0.008 | -0.016 | -0.024
+-0,008 | -0,016
+~ 0,008 | -0,016 | -0,024
 
 6
 
 5
 
-9 CRANKSHAFT COMP.
+9 КОМПЛЕКТ КОЛЕНВАЛА.
 
-(Oi clearance 28~-§2 pm)
+(Ой разрешение 28~-§14:00)
 
 5
 
-ENGINE
+ДВИГАТЕЛЬ
 
-CAM CHAIN ...............
+КУЛАЧКОВАЯ ЦЕПЬ..........
 
 4
 
-BEARING D, CONNECTING ROD (GREEN)
+ПОДШИПНИК D ШАТУНА (ЗЕЛЕНЫЙ)
 
-Crantche beetngnaeton
+Кранч-бетнгнетон
 
 ¥
 
-ai aic
+ай айк
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
+ГЕНЕРАТОР .............
 
-BEARING A, CRANKSHAFT (BLUE) ....14
-
-5
-
-BEARING B, CRANKSHAFT (BLACK) ...|4
+ПОДШИПНИК А КОЛЕНВАЛА (СИНИЙ) ....14
 
 5
 
-BEARING B, CRANKSHAFT (BLACK)
+ПОДШИПНИК B КОЛЕНВАЛА (ЧЕРНЫЙ) ...|4
+
+5
+
+ПОДШИПНИК B КОЛЕНВАЛА (ЧЕРНЫЙ)
 
 ...14
 
-BEARING C, CRANKSHAFT (BROWN)
+ПОДШИПНИК C КОЛЕНВАЛА (КОРИЧНЕВЫЙ)
 
 ...14
 
-8 | 13314-"B0-013
+8 | 13314-"Б0-013
 
 8
 
@@ -8592,7 +8558,7 @@ BEARING C, CRANKSHAFT (BROWN)
 
 2016970
 
-BEARING C, CRANKSHAFT (BROWN) ...14
+ПОДШИПНИК C КОЛЕНВАЛА (КОРИЧНЕВЫЙ) ...14
 
 5
 
@@ -8606,17 +8572,17 @@ BEARING C, CRANKSHAFT (BROWN) ...14
 
 2016988
 
-BEARING D, CRANKSHAFT (GREEN)
+ПОДШИПНИК D КОЛЕНВАЛА (ЗЕЛЕНЫЙ)
 
 ...[4
 
 5
 
-8 | 13317-B0-003
+8 | 13317-В0-003
 
 1260199
 
-BEARING D, CRANKSHAFT (GREEN)
+ПОДШИПНИК D КОЛЕНВАЛА (ЗЕЛЕНЫЙ)
 
 ...]
 
@@ -8626,7 +8592,7 @@ BEARING D, CRANKSHAFT (GREEN)
 
 2016996
 
-BEARING E, CRANKSHAFT (YELLOW)
+ПОДШИПНИК E КОЛЕНВАЛА (ЖЕЛТЫЙ)
 
 ..14
 
@@ -8634,7 +8600,7 @@ BEARING E, CRANKSHAFT (YELLOW)
 
 8
 
-BEARING E, CRANKSHAFT (YELLOW) ..| 4 : 5
+ПОДШИПНИК E КОЛЕНВАЛА (ЖЕЛТЫЙ) ..| 4 : 5
 
 |13318-"B0-003
 
@@ -8648,17 +8614,15 @@ BEARING E, CRANKSHAFT (YELLOW) ..| 4 : 5
 
 4 5
 
-© AMERICAN HONDA MOTOR CO. LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
-8 B4
-44 C10
-48 C12
-
-44 C10
+8 Б4
+44 С10
+48 С1244 С10
 14 87
-20 B10
-13 B6
-30 C3
+20 Б10
+13 Б6
+30 С3
 
 42
 26
@@ -8671,63 +8635,63 @@ BEARING E, CRANKSHAFT (YELLOW) ..| 4 : 5
 23
 23
 
-Co
-C1
-B1
-Bt
-B3
-D1
-Di
-C7
-Bil
-B11
+Ко
+С1
+Б1
+БТ
+Б3
+Д1
+Ди
+С7
+Бил
+Б11
 
-PISTON 000 ee.
-PULSE ALTERNATOR ._...
-STARTER CLUTCH... ....
-STARTER MOTOR .........
-TENSIONER ...............
-THERMOSTAT .............
+ПОРШЕНЬ 000 е.е.
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ._...
+СТАРТЕРНАЯ МУФТА... ....
+СТАРТЕР МОТОР.......
+НАТЯЖИТЕЛЬ ..............
+ТЕРМОСТАТ .............
 
 30
 16
 16
 22
 
-C3
-BB
-BB
-B11
+С3
+ББ
+ББ
+Б11
 
-OW PUMP...
+ОЙ НАСОС...
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
 ...........
-VALVE ..00 ee.
-WATER PIPE...
-WATER PUMP............
+КЛАПАН ..00 ее.
+ВОДОПРОВОД...
+ВОДЯНОЙ НАСОС............
 
 33
 
-VF700S'85 ENGINE NO.; RCZ2E~2100001 TO 2103668
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RCZ2E~2100001 ДО 2103668
 
-VF700S*85 FRAME NO. ; RC220-FM100001 TO F4102800
-VF700S'85 ENGINE NO.; RCZ2E~2100001 70 2103285
-VF700S"85 FRAME NO.; RC221-FM100001 TO FM100863
+VF700S*85 НОМЕР РАМЫ. ; RC220-FM100001 ДО F4102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RCZ2E~2100001 70 2103285
+VF700S"85 НОМЕР РАМКИ; RC221-FM100001 ДО FM100863
 
-10 BS
+10 БС
 
-CROSS SHAFT 1.0.00...
-CYLINDER BLOCK ........
-CYLINDER HEAD COVER
-CYLINDER HEAD. FR... |...
-CYLINDER HEAD, AR ......
-GASKET KITA...........
-GASKET KITB.............
-GEARSHIFT DRUM...
-OR FILTER 00000...
-OW PAN 20000...
+КРЕСТОВОЙ ВАЛ 1.0.00...
+БЛОК ЦИЛИНДРОВ........
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
+ГОЛОВКА ЦИЛИНДРА. ПТ... |...
+ГОЛОВКА ЦИЛИНДРА, АР ......
+КОМПЛЕКТ ПРОКЛАДОК............
+КОМПЛЕКТ ПРОКЛАДОК.............
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ...
+ИЛИ ФИЛЬТР 00000...
+ОЙ ПАН 20000...
 
 2016962
 
@@ -8735,71 +8699,71 @@ OW PAN 20000...
 
 |13316-MB0-013
 
-ee eaes
+ээээээ
 
-18 B9
+18 Б9
 
-GAID
+ГАИД
 
-C4
+С4
 
-23 B11
+23 Б11
 
-10 BS
+10 БС
 40
 36
 8
 40
 20
 
-Ce
-C6
-Ba
-C8
-B10
+Се
+С6
+Ба
+С8
+Б10
 
-CRANKSHAFT e PISTON
+КОЛЕНВАЛ И ПОРШЕНЬ
 
 =
 
 VF700S'B4
 
-$= veroos
+$= вероос
 84
 
-Ret
+Рет
 
-No.
+Нет.
 
-aan
+аан
 
-VV
+ВВ
 
-BLOCK NO.
+БЛОК №.
 
 418
 
-G
-s
+Г
+с
 
-OA
-s
+ОА
+с
 
 8
 
-8|c
+8|в
 
-E-13/4
+Е-13/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-11 KEY, WOODRUFF
+11 КЛЮЧ, ВАРАФ
 
 6
 
 J. .eccveescevncecel
 
-12 CLIP, PISTON PIN, 18M ws cececesnl
+12 ЗАЖИМ, ПОРШНЕВОЙ ПАЛЬЦЕВ, 18M ws cececesnl
 
 5
 
@@ -8808,56 +8772,56 @@ J. .eccveescevncecel
 4 5|€]
 &
 
-Q
+вопрос
 
-TME
+ТМЕ
 
-T
-v
+Т
+в
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-FROM
+ОТ
 
-TO
+ТО
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR...
-CAMCHAIN. .............
+ГЕНЕРАТОР...
+КАМШЕЙН. .............
 
-a
+а
 
-| Q |PART NUMBER
+| Q |НОМЕР ДЕТАЛИ
 
-18 BO
-10 BS
+18 БО
+10 БС
 
-CARBURETOR ASSY.. |. 44
+КАРБЮРАТОР В СБОРЕ.. |. 44
 
-HONDA
+ХОНДА
 
-CODE
+КОД
 
-CARBURETOR COMPONENT
+КОМПОНЕНТ КАРБЮРАТОРА
 
 48
 
-CARBURETOR LINK...
+ТРУБА КАРБЮРАТОРА...
 
-44 C10
+44 С10
 
-CRANKCASE COVER,L.
+КРЫШКА КАРТЕРА,Л.
 
 ....
 
 20
 
-CRANKSHAFT 00.
+КОЛЕНВАЛ 00.
 
 30
 
@@ -8867,7 +8831,7 @@ CRANKSHAFT 00.
 
 0957571
 
-CRANKCASE COVER,R.....
+КРЫШКА КАРТЕРА,П.....
 
 4
 
@@ -8875,258 +8839,256 @@ CRANKCASE COVER,R.....
 
 0317305
 
-CROSS SHAFT... ..siw“‘“asS SD
+КРЕСТОВОЙ ВАЛ... ..siw“`“ asS SD
 
 13
 
-CYLINDER BLOCK .......
+БЛОК ЦИЛИНДРОВ.......
 26
-CYLINDER HEAD COVER ...
-CYLINDER HEAD.FR
-CYLINDER HEAD.
-RR.
-GASKETKITA....0 a)
-GASKETKITB..sssCSSA
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА...
+ГОЛОВКА ЦИЛИНДРА.FR
+ГОЛОВКА ЦИЛИНДРА.
+РР.
+ПРОКЛАДКА....0 а)
+ПРОКЛАДКИTB..sssCSSA
 
-GEARSHIFT DRUM
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
 38
-OLFILTER
+ОЛЬФИЛЬТР
 ss ssi«wi«wsststé«i DB
-OW PAN...
-Ol PUMP... . 23
+ОЙ ПАН...
+Ол НАСОС... . 23
 
-PISTON...
+ПОРШЕНЬ...
 0... 30
-PULSE ALTERNATOR ... . 16
-STARTER CLUTCH
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ... . 16
+СТАРТЕРНАЯ МУФТА
 
 16
 
-STARTER MOTOR...
+СТАРТЕР МОТОР...
 
-22 BI1
+22 БИ1
 
-TENSIONER.
-i wtwwt*s
+НАТЯЖИТЕЛЬ.
+я вау*с
 
-10 B5
+10 Б5
 
-THERMOSTAT...
+ТЕРМОСТАТ...
 
-40 CB
+40 КБ
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
 36
 
 ..........
 
-VALVE ..........
+КЛАПАН..........
 
-WATER PIPE
+ВОДЯНАЯ ТРУБА
 
-WATER PUMP
+ВОДЯНОЙ НАСОС
 
-Crankshaft beating selection
+Выбор биений коленвала
 
-Connecting rod bearing selection
+Выбор шатунного подшипника
 
-(08 clearence 20~44 pm)
+(08.08.20~16:00)
 
-“oo
-eae
-A
+«оо
+еаэ
+А
 8
-c
+с
 
-wet
+мокрый
 
-+0.008 | ©
++0,008 | ©
 
-r
+р
 
 0
 
 2
 
-prs
+перс
 
-ry
+рай
 
-Cc
+Копия
 
 '
 
-ry
+рай
 
-c
+с
 
 8
 
 2
 
-A
+А
 
 3
 
-+0.016 {| iGreen) | (Grown) | (Bleck)
++0,016 {| iGreen) | (Выросший) | (Блек)
 
-+0.016
++0,016
 
-oo
-
-3
-
-+0.008 | (Yellow) | (Greent | (Brown)
-
-+0.008
-
-(Cs clearance 2862 ym)
+оо
 
 3
 
-- 0.008
++0,008 | (Желтый) | (Зеленый | (Коричневый)
 
--0.008 | - 6.016
++0,008
 
-c
+(клиренс Cs 2862 м)
+
+3
+
+- 0,008
+
+-0,008 | - 6,016
+
+с
 
 8
 
-+0.024 | (Brown) | (Bleck)
++0,024 | (Коричневый) | (Блек)
 
-(Blue)
+(Синий)
 
-sot
+пьяница
 
 0
 
 8
 
-c
+с
 
-~0.008 | -0.016
+~0,008 | -0,016
 
-~0.008 | -0.016 | -0.024
+~0,008 | -0,016 | -0,024
 0
 
-E
+Э
 
-o
+о
 
-c
+с
 
-+0.008
++0,008
 
-ry
+рай
 
-Cc
-
-8
-
-+0.016
-
-c
+Копия
 
 8
 
-+0.00B | (Veliow) | (Green) | (Bsown)
++0,016
 
-+0.016 | (Green) | (Brown) | (Black)
+с
 
-+0.024 | (Brown) | (Black)
+8
 
-A
++0,00Б | (Велиов) | (Зеленый) | (Бсоун)
 
-(Bive)
++0,016 | (Зеленый) | (Коричневый) | (Черный)
+
++0,024 | (Коричневый) | (Черный)
+
+А
+
+(Биве)
 
 E14MB0E13T
 
 34
 
-© AMERICAN HONDA MOTOR CO. LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO £4005012
-VF700S'84 ENGINE NO.3 RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO. RC221~EM000006 TO £M001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО 4005012 фунтов стерлингов
+VF700S'84 ДВИГАТЕЛЬ №3 RC22E-2002575 ДО 2006097
+VF700S'84 № РАМЫ. RC221~EM000006 ДО £M001081
 
-cs
+CS
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
 © AMERIGAN HONDA MOTOR CO.,LTD.
 
 1983-35
 
-GRID
+СЕТКА
 
 8
 
 40
-20 BI
+20 БИ
 
-C5
+С5
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
-4 = VE700S 84
-me
+4 = ВЭ700С 84
+я
 
-YY
+ГГ
 
 .
 
-VV
+ВВ
 
-CONTENTS
-TITLE
+СОДЕРЖАНИЕ
+НАЗВАНИЕ
 
-bag
+сумка
 §
 
-s
+с
 
-Ret.
+В отставке.
 
-BLOCKNO.
+БЛОКНО.
 
 3
 
 £-1414
 
-Q
+вопрос
 
 5
 
-v
+в
 
 §
 
-DESCRIPTION
+ОПИСАНИЕ
 
 4
 
-57E
+57Е
 
-FROM
+ОТ
 
-TO
+ТО
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 4
 
 {23511-"B0-000
 
-1262817
-
-16 COLLAR, SPLINE, 25X12.5 .....000616
+126281716 ВТУЛКА, ШЛИЦОВКА, 25X12,5 .....000616
 
 5
 
@@ -9136,7 +9098,7 @@ CODE
 
 1262825
 
-17 GEAR, COUNTERSHAFT SIXTH (247)
+17 ШЕСТЕРНЯ ПРОМЕЖУТОЧНОГО ВАЛА ШЕСТОЙ (247)
 
 ..14
 
@@ -9148,10 +9110,10 @@ CODE
 
 1372616
 
-CYLINDER HEAD. FR.
-CYLINDER HEAD, AR.
+ГОЛОВКА ЦИЛИНДРА. фр.
+ГОЛОВКА ЦИЛИНДРА, AR.
 
-18 WASHER K, DRIVE PINION ....00.00 4
+18 ШАЙБА K, ВЕДУЩАЯ ШЕСТЕРНЯ ....00.00 4
 
 5
 
@@ -9159,7 +9121,7 @@ CYLINDER HEAD, AR.
 
 1243310
 
-19 WASHER, THRUST, 25X34 ...... secede
+19 ШАЙБА УПОРНАЯ, 25X34 ......отходит
 
 5
 
@@ -9169,25 +9131,25 @@ CYLINDER HEAD, AR.
 
 0409136
 
-20 WASHER, THRUST, 20X1.05 ......0..
+20 ШАЙБА УПОРНАЯ, 20X1.05 ......0..
 
 4
 
 5
 
-AR
+АР
 
 |90453-mB0-770
 
 1312735
 
-WASHER, THRUST, 20X1.00 .....0+0-
+ШАЙБА УПОРНАЯ 20X1,00 .....0+0-
 
 4
 
 5
 
-AR
+АР
 
 |90454-428-000
 
@@ -9198,15 +9160,15 @@ AR
 1312743
 1312750
 
-TENSIONER .
+НАТЯЖИТЕЛЬ.
 
-WASHER, THRUST, 20X0.85 ......+0. 4 5
-21 WASHER, THRUST, 20X1.00 2.00.00 4 5
+ШАЙБА УПОРНАЯ 20X0,85 ......+0. 4 5
+21 ШАЙБА УПОРНАЯ, 20X1.00 2.00.00 4 5
 4
 
 5
 
-AR |90457-"B0-770
+АР |90457-"B0-770
 2 |90454-428-000
 1 190461-286-000
 
@@ -9225,9 +9187,9 @@ AR |90457-"B0-770
 
 1781582
 
-78 BOLT, FLANGE, 6x16
+78 БОЛТ ФЛАНЕЦ, 6x16
 
-Ls
+Лс
 
 >
 
@@ -9241,9 +9203,9 @@ Ls
 
 1242692
 
-BOLT, FLANGE, 6x16
+БОЛТ ФЛАНЕЦ, 6x16
 
-Ls
+Лс
 
 >
 
@@ -9261,8 +9223,8 @@ Ls
 
 2247674
 
-5 GEAR, MAINSHAFT SECOND & THIRD
-(24T/2UT) ceseseseee pecuseseea[
+5 ШЕСТЕРНЯ, ВТОРАЯ И ТРЕТЬЯ ГЛАВНЫЙ ВАЛ
+(24T/2UT)
 
 4
 
@@ -9284,7 +9246,7 @@ Ls
 
 1242726
 
-7 COLLAR, SPLINE, 25X9.5 ..seseee [4S
+7 ВТУЛКА, ШПЛАЙН, 25X9,5 ..см. [4S
 
 - | 2
 
@@ -9294,9 +9256,9 @@ Ls
 
 1262742
 
-6 GEAR, COUNTERSHAFT SECOND (347)
+6 ШЕСТЕРНЯ, ПРОМЕЖУТОЧНЫЙ ВАЛ ВТОРОЙ (347)
 
-8 GEAR, COUNTERSHAFT THIRD (317)
+8-ШЕСТЕРНЯ ПРОМЕЖУТОЧНОГО ВАЛА ТРЕТЬЕЙ (317)
 
 1262700
 
@@ -9310,7 +9272,7 @@ Ls
 
 |23461-mB0-000
 
-9 COLLAR, 25X10 ...e.csecececceuce
+9 ВОРОТНИК, 25X10 ...e.csecececceuce
 
 4
 
@@ -9352,7 +9314,7 @@ Ls
 
 1242783
 
-13 COLLAR, 25X12 ..eceececeeaseeese } G5
+13 ВОРОТНИК, 25X12 ..eceeceeeseeese } G5
 
 1
 
@@ -9360,7 +9322,7 @@ Ls
 
 1262791
 
-44 GEAR, COUNTERSHAFT FIFTH (267)
+44 ШЕСТЕРНЯ ПРОМЕЖУТОЧНОГО ВАЛА ПЯТОЙ (267)
 
 1
 
@@ -9368,76 +9330,76 @@ Ls
 
 1457696
 
-10 GEAR, MAINSHAFT FOURTH (27T)
+10 ШЕСТЕРНЯ, ГЛАВНЫЙ ВАЛ ЧЕТВЕРТЫЙ (27T)
 
-11 GEAR, COUNTERSHAFT FOURTH (297)
+11 ШЕСТЕРНЯ ПРОМЕЖУТОЧНОГО ВАЛА ЧЕТВЕРТОЙ (297)
 
-12 GEAR, MAINSHAFT FIFTH (297)
+12 ШЕСТЕРНЯ, ГЛАВНЫЙ ВАЛ ПЯТАЯ (297)
 
 ..14
 
 5
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'B4 FRAME NO.; RC220-£M000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'B4 № РАМЫ; RC220-£M000007 К EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-C6
+С6
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221~FM 100001 TO FM 100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2Z2E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221~FM 100001 ДО FM 100863
 
 4
 5
-Ls
+Лс
 
 4
 +
 
 191022-415-008
-|193600-06046-0a
+|193600-06046-0а
 
 0670976
 0805358
 
-29 BEARING, RADIAL BALL, 6305 ....+. 45
+29 ПОДШИПНИК РАДИАЛЬНЫЙ ШАРИКОВЫЙ, 6305 ....+. 45
 
-STARTER MOTOR
-THERMOSTAT...
+СТАРТЕР
+ТЕРМОСТАТ...
 
-TRANSMISSION
-
-.
-
-22 B11
+ТРАНСМИССИЯ
 
 .
 
-40 CB
+22 Б11
+
+.
+
+40 КБ
 
 ...
 
-40 CB
+40 КБ
 
-10 BS
+10 БС
 
-VALVE.
+КЛАПАН.
 
-WATER PIPE
-WATER PUMP
+ВОДЯНАЯ ТРУБА
+ВОДЯНОЙ НАСОС
 
-& AMERICAN HONDA MOTOR CO. LTD. 1983
+И АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1983 год
 
-GRID
+СЕТКА
 
-36 C6
-8 B4
-20 BIC
+36 С6
+8 Б4
+20 БИК
 
 0255257
 
@@ -9445,69 +9407,69 @@ GRID
 
 5
 
-23 B11
-23 Bit
-23 B11
+23 Б11
+23 бита
+23 Б11
 
 |90456-MB0-770
 
-2 PLATE, BEARING SETTING ....+.eus.
+2 ПЛАСТИНА, УСТАНОВКА ПОДШИПНИКА ....+.eus.
 
 4
 
-38 C7
+38 С7
 
-AR
+АР
 
 5
 
 1242676
 
-COLLAR, 20X11.8 .e.cececsceecaes
+ВОРОТНИК, 20X11,8 .e.cececsceecaes
 
-6 BS
-50 D1
+6 БС
+50 Д1
 §1 01
 
-GASKET KITA
-GASKET KIT
+КОМПЛЕКТ ПРОКЛАДОК
+КОМПЛЕКТ ПРОКЛАДОК
 8
-GEARSHIFT DRUM
-OW FILTER
-ON PAN
-OIL PUMP
-a
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
+ВОЙ ФИЛЬТР
+НА ПАНЕРЕ
+МАСЛЯНЫЙ НАСОС
+а
 
-AR
+АР
 
 4
 
 |23214-mB0-000
 
-4 COLLAR, ZOKTTB sseceeeeeeereees ‘3
+4 ОШЕЙНИК, ЗОКТТБ ссекееееееееееес ‘3
 
-26 C1
-2 Bi
+26 С1
+2 Би
 3 61
 
-WASHER, THRUST, 20X0.90 -e.ecesee
+ШАЙБА, УПОРНАЯ, 20X0,90 -e.ecesee
 
 1
 
 5
 
-B10
-B6
-C3
+Б10
+Б6
+С3
 09
 
-PISTON...
-«ss.
+ПОРШЕНЬ...
+«сс.
 —....
-30 C3
-PULSE ALTERNATOR
+30 С3
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР
 ..-.—=s——s«s166,s «BB
-STARTER CLUTCH ..... .ss—s«d16s«BB
+МУФТА СТАРТЕРА ..... .ss—s«d16s«BB
 
 45
 
@@ -9516,184 +9478,183 @@ STARTER CLUTCH ..... .ss—s«d16s«BB
 20
 13
 30
-£2
+2 фунта стерлингов
 
-WASHER, THRUST, 20X0.95 .....2.. [45
+ШАЙБА УПОРНАЯ, 20X0,95 .....2.. [45
 
 cecccceeesccesce
 
-3 GEAR, COUNTERSHAFT LOW (397)
+3-ШЕСТЕРНЯ, ПРОМЕЖУТОЧНЫЙ ВАЛ НИЗКОЙ ЧАСТИ (397)
 
-48 C12
-44 C10
-14 B7
+48 С12
+44 С10
+14 Б7
 
 5
 
-TO
+ТО
 
-sage | [Ratner 3] |=| osm
+мудрец | [Ратнер 3] |=| осм
 
-CODE
+КОД
 
-@4 C10
+@4 С10
 
 .....14
 
-FROM
+ОТ
 
-18 BO
-10 BS
-8 B4
+18 БО
+10 БС
+8 Б4
 
 ....
 
 2525541
 
-23 WASHER, LOCK, 250M .....ccesseeee
+23 ШАЙБА, ЗАМОК, 250M .....ccesseeee
 
-Q | PART NUMBER
+вопрос | НОМЕР ДЕТАЛИ
 
-CARBURETOR ASSY
+КАРБЮРАТОР В СБОРЕ
 
-|23501-MNO-000
+|23501-МНО-000
 
-S5TE
+С5ТЕ
 
-,
-Seeceeceerereesers
-26 BEARING, NEEDLE, 205% ...2..0se0e
-27 SCREW, FLAT, 6X16 sn
+,Seeceeereeresers
+26 ПОДШИПНИК ИГОЛЬЧАТЫЙ, 205%...2..0se0e
+27 ВИНТ ПЛОСКИЙ, 6X16 sn
 
-TMAINSHAFT (171)
+ГЛАВНЫЙ ВАЛ (171)
 
 %
 
-HONDA
+ХОНДА
 
 1
 
 4
 
-22 WASHER B, THRUST, 254M ......0.00 4 5
+22 ШАЙБА B, УПОРНАЯ, 254M ......0,00 4 5
 
-mass eat S| at |
+массовое питание S| в |
 
-No.
+Нет.
 
-A
+А
 
 5
 
-15 GEAR, MAINSHAFT SIXTH (327)
+15 ШЕСТЕРНЯ, ГЛАВНЫЙ ВАЛ ШЕСТОЙ (327)
 
-F F A
-0 9 E
+Ф Ф А
+0 9 в.д.
 
-ENGINE
+ДВИГАТЕЛЬ
 
-DL SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР ДЛ
 
 ..14
 
-DESCRIPTION
+ОПИСАНИЕ
 
-14 GEAR, COUNTERSHAFT FIFTH (267)
+14 ШЕСТЕРНЯ ПРОМЕЖУТОЧНОГО ВАЛА ПЯТОЙ (267)
 
-peavlheedes
+Павлхидес
 
 5
 
-CARBURETOR COMPONENT
-CARBURETOR LINK.
-CLUTCH ..
-an
-CRANKCASE COVER. L.
-CRANKCASE COVER. R...
-CRANKSHAFT
-sss
-CROSS SHAFT .
+КОМПОНЕНТ КАРБЮРАТОРА
+ССЫЛКА КАРБЮРАТОРА.
+СЦЕПЛЕНИЕ..
+а
+КРЫШКА КАРТЕРА. Л.
+КРЫШКА КАРТЕРА. Р...
+КОЛЕНВАЛ
+ссс
+КРЕСТОВОЙ ВАЛ.
 .
-CYLINDER BLOCK _
-CYLINDER HEAD COVER ..
+БЛОК ЦИЛИНДРОВ _
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА ..
 
-No.
+Нет.
 
-eewerers
+пивщики
 
-alc
+алк
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR...
-sdai‘i‘(‘“(‘“y
-CAM CHAIN .
-CAMSHAFT
-._—s—si
+ГЕНЕРАТОР...
+sdai'i'('"('"й
+КУЛАЧКОВАЯ ЦЕПЬ.
+РАСПРЕДВАЛ
+._—с—си
 
-y
+й
 
-C6
+С6
 
-GEARSHIFT DRUM
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-Vivi,
+Виви,
 
-5 = VF7008'85
+5 = ВФ7008'85
 
 7
 
-Ole
+Оле
 
 0
 
 0
 
-Ss
+сс
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-4 5|/E|
+4 5|/Е|
 
-17 SPRING, GEARSHIFT ARM .....eceee.(4
+17 ПРУЖИНА РЫЧАГА ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ .....eceee.(4
 
-ow
+ой
 
-5 = VE7O0S 8
+5 = ВЭ7О0С 8
 
-5 SIA
+5 ООО
 
 =
 
-vv
+вв
 
-0 OA
+0 ОА
 
-s
+с
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
 38
 
-BLOCK NO.
+БЛОК №.
 
-gs
+гс
 
-E-15/4
+Е-15/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
 ;
 
-s
+с
 
 g{C
 
@@ -9703,35 +9664,35 @@ g{C
 
 4
 
-5]E]|
+5]Е]|
 
-1 FORK, R. GEARSHIFT .......0cce00e
+1 ВИЛКА ПРАВОГО ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ .......0cce00e
 
 4
 
-2 FORK, CENTER GEARSHIFT ..........
-3 FORK, L. GEARSHIFT ......cccenene
-4 SHAFT COMP., GEARSHIFT FORK .....
+2 ВИЛКА ЦЕНТРАЛЬНОГО ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ ..........
+3 ВИЛКА Л. ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ ......cccenene
+4 КОМПЛЕКТ ВАЛА, ВИЛКА ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ .....
 
-v
+в
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-FROM
+ОТ
 
-TO
+ТО
 
-R
+Р
 
-HONDA
+ХОНДА
 
 GQ
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 5
 
@@ -9775,7 +9736,7 @@ CODE
 
 1781624
 
-5 DRUM ASSY., GEARSHIFT .......000.
+5 БАРАБАН В СБОРЕ, ПЕРЕКЛЮЧЕНИЕ ПЕРЕДАЧ.......000.
 
 4
 
@@ -9783,9 +9744,9 @@ CODE
 
 1
 
-6 DRUM, GEARSHIFT
+6 БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
 
-.......ccecesens
+.......ccesesens
 
 4
 
@@ -9797,7 +9758,7 @@ CODE
 
 1723089
 
-7 PLATE, DRUM CAM oo... ccccscnseces
+7 ПЛАСТИНА, БАРАБАННЫЙ КУЛАЧОК oo... ccccscnseces
 
 4
 
@@ -9809,7 +9770,7 @@ CODE
 
 1708304
 
-8 PLATE A, DRUM 2. cc cececnevceces [4
+8 ПЛАСТИНА A, БАРАБАН 2. cc cececnevceces [4
 
 5
 
@@ -9819,7 +9780,7 @@ CODE
 
 1242916
 
-9 PLATE B, DRUM SETTING ......5000014
+9 ПЛАСТИНА B, УСТАНОВКА БАРАБАНА ......5000014
 
 5
 
@@ -9829,7 +9790,7 @@ CODE
 
 1262924
 
-10 ARM COMP., NEUTRAL STOPPER ......14
+10 КОМПЛЕКТ РЫЧАГА, НЕЙТРАЛЬНЫЙ СТОПОР ......14
 
 5
 
@@ -9839,7 +9800,7 @@ CODE
 
 1242932
 
-11 ARM COMP., SHIFT DRUM STOPPER ....14
+11 РЫЧАГ КОМПЛЕКТА, СТОПОР БАРАБАНА ПЕРЕКЛЮЧЕНИЯ ....14
 
 5
 
@@ -9849,7 +9810,7 @@ CODE
 
 1242940
 
-12 COLLAR, GEARSHIFT DRUMSTOPPER ..14
+12 ВТУЛКА, БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ ..14
 
 5
 
@@ -9859,7 +9820,7 @@ CODE
 
 0494336
 
-13 SHAFT, SHIFT DRUM STOPPER PIVOT ..14
+13 ВАЛ, ШАРНИР СТОПОРА БАРАБАНА ПЕРЕКЛЮЧЕНИЯ ..14
 
 5
 
@@ -9869,7 +9830,7 @@ CODE
 
 1242957
 
-14 SPRING, SHIFT DRUM STOPPER ......
+14 ПРУЖИНА СТОПОР БАРАБАНА ПЕРЕКЛЮЧЕНИЯ ......
 
 4
 
@@ -9881,7 +9842,7 @@ CODE
 
 1242965
 
-15 SPRING, NEUTRAL STOPPER .........
+15 ПРУЖИНА НЕЙТРАЛЬНОГО СТОПОРА.......
 
 4
 
@@ -9893,7 +9854,7 @@ CODE
 
 1242973
 
-16 SPINDLE COMP., GEARSHIFT ........1/4
+16 ШПИНДЕЛЬНЫЙ КОМПЛЕКТ, ПЕРЕКЛЮЧЕНИЕ ПЕРЕДАЧ .......1/4
 
 5
 
@@ -9903,81 +9864,81 @@ CODE
 
 1242981
 
-€@ AMERICAN HONDA MOTOR CO. LTD. 1993
+€@ AMERICAN HONDA MOTOR CO. LTD. 1993 год
 
-VF700S'84 ENGINE NO. ; RC22E~2000008 T0 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO £M005012
-VF700S'B4 ENGINE NO.; RC22E~2002575 10 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO £M001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ. ; RC22E~2000008 T0 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО £M005012
+НОМЕР ДВИГАТЕЛЯ VF700S'B4; RC22E~2002575 10 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО £M001081
 
-c7
+с7
 
-VF700S'85 ENGINE NO.; RCZ22E~2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RCZ22E~2100001 70 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RCZ22E~2100001 ДО 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RCZ22E~2100001 70 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-Q
+вопрос
 
-TITLE
+НАЗВАНИЕ
 
-Y
+Да
 
-CAM CHAIN .
+КУЛАЧКОВАЯ ЦЕПЬ.
 
-T
+Т
 
-ENGINE
-SERIAL NUMBER
-FROM
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
+ОТ
 
-TO
+ТО
 
 5
 
-a
+а
 
-| Q |PART NUMBER
+| Q |НОМЕР ДЕТАЛИ
 1
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
+ГЕНЕРАТОР .............
 
 [2464 1-MB0-010
 
-18 Be
+18 быть
 
-10 BS
+10 БС
 
-HONDA
+ХОНДА
 
-CARBURETOR
-ASSY 48 G10
-CARBURETOR COMPONENT a8
-C12
+КАРБЮРАТОР
+В СБОРЕ 48 G10
+КОМПОНЕНТ КАРБЮРАТОРА a8
+С12
 
-CODE
+КОД
 
-COTOR LINK
+КОТОР ССЫЛКА
 
 1854047
 
-MA GIO
+МА ГИО
 
-CRANKCASE COVER. L.
+КРЫШКА КАРТЕРА. Л.
 
-20 B10
+20 Б10
 
-CRANKSHAFT ..
+КОЛЕНВАЛ..
 
-30 C3
+30 С3
 
-CRANKCASE COVER, R
+КРЫШКА КАРТЕРА, П
 
-13 B6
+13 Б6
 
-18 SPRING, GEARSHIFT RETURN ........(4
+18 ПРУЖИНА ВОЗВРАТА ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ......(4
 
 5
 
@@ -9987,9 +9948,9 @@ CRANKCASE COVER, R
 
 1243005
 
-CROSS SHAFT
+КРЕСТОВОЙ ВАЛ
 
-19 PIN, SHIFT RETURN SPRING ........ 4
+19 ШТИФТ, ВОЗВРАТНАЯ ПРУЖИНА ПЕРЕКЛЮЧЕНИЯ ПЕРЕКЛЮЧЕНИЯ ........ 4
 
 5
 
@@ -9999,9 +9960,9 @@ CROSS SHAFT
 
 0039461
 
-CYLINDER BLOCK ........
+БЛОК ЦИЛИНДРОВ........
 
-20 BOLT, SPECIAL, 7X18 ...seesereeee
+20 БОЛТ СПЕЦИАЛЬНЫЙ, 7X18 ...см.см.
 
 [4
 
@@ -10011,11 +9972,11 @@ CYLINDER BLOCK ........
 
 1263468
 
-CYLNDER
-HEAD
-ROB
+ЦИЛИНДР
+ГОЛОВА
+Роб
 
-21 WASHER, LOCK ....ceesceeeseseens
+21 ШАЙБА ЗАМОКОВАЯ ....ceesceeesesesens
 
 4
 
@@ -10027,11 +9988,9 @@ ROB
 
 1243575
 
-Cserkire
+Церкире
 0
-ee}
-
-22 WASHER, SHIFT DRUM STOPPER ......
+ээ}22 ШАЙБА СТОПОР БАРАБАНА ПЕРЕКЛЮЧЕНИЯ ......
 
 4
 
@@ -10043,12 +10002,12 @@ ee}
 
 1243666
 
-GEARSHIFT DRUM
-GEARSHF
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
+МЕХАНИЗМ
 
-| 38 C7
+| 38 С7
 
-23 WASHER, 6X2.3
+23 ШАЙБА, 6X2,3
 
 ....cesecesceececs
 
@@ -10062,13 +10021,13 @@ GEARSHF
 
 1243676
 
-OL. PAN
-PAN _
-Ol.
+ОЛ. ПАН
+ПАН _
+Ол.
 
 .
 
-24 WASHER, SPECIAL, OMM ...cscsesees
+24 ШАЙБА СПЕЦИАЛЬНАЯ, OMM ...cscsesees
 
 4
 
@@ -10080,9 +10039,9 @@ Ol.
 
 1266097
 
-PISTON
-......... an
-PSTON neon
+ПОРШЕНЬ
+.........
+ПСТОН неон
 
 ......14
 
@@ -10094,35 +10053,35 @@ PSTON neon
 
 0362855
 
-STARTER CLUTCH...
+СТАРТЕРНАЯ МУФТА...
 
-16 BB
+16 ББ
 
-STARTER MOTOR .........
+СТАРТЕР МОТОР.......
 
-22 Bil
+22 миллиарда
 
-25 BEARING, BALL, 16005 (NTN)
+25 ПОДШИПНИК ШАРИКОВЫЙ, 16005 (NTN)
 E14MBOE
 15
 
-Ss
+сс
 
-A
+А
 
-a g|C
-E-1514
-5 °
+г|С
+Е-1514
+5°
 
-DESCRIPTION
+ОПИСАНИЕ
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-71k
+71 тыс.
 
 0
 
-BEARING, 16005 .....sceeccecsoes 4
+ПОДШИПНИК, 16005 .....scecccoes 4
 
 5
 
@@ -10130,7 +10089,7 @@ BEARING, 16005 .....sceeccecsoes 4
 
 191051-719-003
 
-26 ROLLER, 4X13.8 ..... geencueeeees 4
+26 РОЛИК, 4X13,8 ..... geencueeeees 4
 
 5
 
@@ -10138,7 +10097,7 @@ BEARING, 16005 .....sceeccecsoes 4
 
 |91101-"B0-003
 
-e7 SCREW, FLAT, 6X16 Seevetravraresere
+e7 ВИНТ ПЛОСКИЙ, 6X16 Seevetravraresere
 
 4
 
@@ -10146,9 +10105,9 @@ e7 SCREW, FLAT, 6X16 Seevetravraresere
 
 2
 
-93600~-06016-0A
+93600~-06016-0А
 
-28 NUT, HEX., OMM oe see beeceereseee
+28 ГАЙКА, ШЕСТИГР., OMM oe см. beeceereseee
 
 4
 
@@ -10156,62 +10115,62 @@ e7 SCREW, FLAT, 6X16 Seevetravraresere
 
 1
 
-29 BOLT, FLANGE, BX32 ...ssesecececs
+29 БОЛТ ФЛАНЕЦ BX32 ...ssesecececcs
 
 4
 
 5
 
-BOLT, FLANGE, BX32 ..ccececeeees
+БОЛТ, ФЛАНЕЦ, BX32 ..ccecceeees
 
 4
 
-30 BOLT, FLANGE, 6X16 ..secsceeeeees
+30 БОЛТ, ФЛАНЕЦ, 6X16 ..сексеееееес
 
 4
 
-BOLT, FLANGE, 6X16 ..essecceceees
+БОЛТ, ФЛАНЕЦ, 6X16 ..присутствует
 
 4
 
-a2 Ce
+а2 Се
 
-CYLINDER HEAD COVER
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
 
 1263823
 
-2 Bs
+2 балла
 
-26 C
+26 С
 
-38 C7
+38 С7
 
-23 Bit
-BB
+23 бита
+ББ
 
 3%
-30 C3
+30 С3
 3
 
-TENSIONER.
+НАТЯЖИТЕЛЬ.
 
-- 40 BS
+- 40 БС
 
 1243831
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
-36 CB
+36 КБ
 
 0805358
 
-WATER PPE ..._.sdiwjiwjlwju.... 40 ca
+ВОДНЫЕ СИЗ ..._.sdiwjiwjlwju.... 40 шт.
 
 [94002-06200
 
 1317015
 
-WATER PUMP ooo 20 B10
+ВОДЯНОЙ НАСОС ооо 20 B10
 
 1
 
@@ -10246,70 +10205,70 @@ WATER PUMP ooo 20 B10
 —_—
 
 €
-AMERICAN
-HONDA
-MOTOR CO. LTD. 1993
+АМЕРИКАНСКИЙ
+ХОНДА
+МОТОР КО. ЛТД. 1993 год
 
-THERMOSTAT .............
-VALVE ....
+ТЕРМОСТАТ .............
+КЛАПАН....
 
-8 B4
+8 Б4
 
-K
+К
 
-GRID
+СЕТКА
 
-40 CB
+40 КБ
 
-C7
+С7
 
-Ret
+Рет
 
-BLOCKNO. E-16|4 § 3
+БЛОКНО. E-16|4 § 3
 
-15 HOSE, WATER ..... becucesareecnes
+15 ШЛАНГ ВОДЫ ..... потому что
 
 §
-P.
+П.
 
 »—¢
 
 3
 
 28
-4 = VF700S'84
+4 = ВФ700С'84
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-ara:
+ара:
 
-o
+о
 
 2
 
-Oa
+Оа
 
-v
+в
 
 3
 
-gic
+шутка
 
-E-16/4 5/5]
-4 SE]
+Е-16/4 5/5]
+4 ЮВ]
 
 |
 
-SERIA. NUMBER |
-TO
+СЕРИЯ. НОМЕР |
+ТО
 
-| @ [PART NUMBER
+| @ [НОМЕР ДЕТАЛИ
 
-HONDA
+ХОНДА
 
 4
 
@@ -10321,17 +10280,17 @@ HONDA
 
 1262155
 
-2 CASE, THERMOSTAT ............005
+2 КОРПУС ТЕРМОСТАТА ............005
 
 4
 
 5
 
-1 | 19311-4B1-000
+1 | 19311-4Б1-000
 
 1245646
 
-3 COVER, THERMOSTAT .......cceceee
+3 КРЫШКА ТЕРМОСТАТА .......cceeee
 
 4
 
@@ -10341,39 +10300,39 @@ HONDA
 
 1316595
 
-4 HOSE, CONNECTING ......s.eseeeee 45
+4 ШЛАНГ, СОЕДИНИТЕЛЬНЫЙ......см.см.45
 
 4 | 19502-#B4~-000
 
 1386887
 
-6 PIPE, CONNECTING .......0..0.00e
+6 ТРУБКА СОЕДИНИТЕЛЬНАЯ.......0..0.00е
 
 5
 
 45
 
-7 CAPA, CONNECTING ...+.++++0000 45
+7 КАПА, СОЕДИНИТЕЛЬНЫЙ ...+.++++0000 45
 
-8 CAP
-B, CONNECTING PIPE ...... +++. 43
-9 WIRE A, GUARD ........ beveeeeeees
+8 КАП
+Б, СОЕДИНИТЕЛЬНАЯ ТРУБА ...... +++. 43
+9 ПРОВОД А, ОХРАНА........ бевеееееее
 
 4
 
 -
 
-tee, ew fas
+ти, фу фас
 
-17 CLAMP, WATER HOSE ........2.c0e0e
+17 ЗАЖИМ, ВОДЯНОЙ ШЛАНГ ........2.c0e0e
 
 4
 
 --
 
-CLAMP
-A, WATER HOSE ......-...-6 5
-12 CLAMP, WATER HOSE ........0.c0e0e
+ЗАЖИМ
+А, ВОДЯНОЙ ШЛАНГ......-...-6 5
+12 ЗАЖИМ ВОДЯНОГО ШЛАНГА ........0.c0e0e
 
 1
 
@@ -10381,14 +10340,14 @@ A, WATER HOSE ......-...-6 5
 
 |19504-MB0-000
 
-|19507-mB0~000
+|19507-мБ0~000
 
 1 |19508-80-000
 
 1 119509-#B0-000
 1
 
-|19511-mB1~000
+|19511-мБ1~000
 
 1 fsias-o0s
 4
@@ -10399,11 +10358,11 @@ A, WATER HOSE ......-...-6 5
 
 4
 
-(ND) .ecesesecscescscsecascecs
+(ND)
 
 4
 
-| 23 O-RING, 18.3X2.3 (ARAL) .....0.-.
+| 23 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 18,3Х2,3 (АРАЛ) .....0.-.
 
 4
 
@@ -10431,7 +10390,7 @@ A, WATER HOSE ......-...-6 5
 
 1
 
-|37750-PC 1-006
+|37750-ПК 1-006
 
 1130780
 
@@ -10469,7 +10428,7 @@ A, WATER HOSE ......-...-6 5
 
 0422428
 
-27 WASHER, PLAIN, GMM ......-..0000614
+27 ШАЙБА ПЛАСТИЧНАЯ, GMM ......-..0000614
 
 5
 
@@ -10506,7 +10465,7 @@ A, WATER HOSE ......-...-6 5
 
 0782854
 
-BOLT, FLANGE, 6X16 ........eceee 4
+БОЛТ, ФЛАНЕЦ, 6X16 ........eceee 4
 
 5
 
@@ -10516,7 +10475,7 @@ BOLT, FLANGE, 6X16 ........eceee 4
 
 2154672
 
-‘5
+'5
 
 +
 
@@ -10526,24 +10485,24 @@ BOLT, FLANGE, 6X16 ........eceee 4
 
 1245661
 
-52 BOLT, FLINGE, 6X25 «............
+52 БОЛТ ФЛИНЦЕВЫЙ, 6X25 «............
 
 +
 
-BOLT, FLANGE, 6X22 ...sceeseeaeee 4 5
+БОЛТ, ФЛАНЕЦ, 6X22 ...смееееее 4 5
 
-as
+как
 
-uae || BET PUKE, RS oversee -
+оаэ || БЕТ ПЬЮК, РС наблюдает -
 
 2
 
-|19506-KA4~000
+|19506-КА4~000
 | 19517-MB6~000
 
 1742610
 
-13 PIPE A, WATER oo. ..cecccecsceeces
+13 ТРУБКА А, ВОДА оо. ..cecccecsceeces
 
 4
 
@@ -10551,7 +10510,7 @@ uae || BET PUKE, RS oversee -
 
 1
 
-|19520-mB0~000
+|19520-мБ0~000
 
 1262267
 
@@ -10563,11 +10522,9 @@ uae || BET PUKE, RS oversee -
 
 2
 
-0345900
+0345900БОЛТ, ФЛАНЕЦ, 6X22 .......ccccueee 4
 
-BOLT, FLANGE, 6X22 .......ccceuee 4
-
-31 BOLT, FLANGE, 6X22 ....eseeeeeeee 4 5
+31 БОЛТ ФЛАНЕЦ, 6X22 ....ееееееее 4 5
 
 5
 
@@ -10575,7 +10532,7 @@ BOLT, FLANGE, 6X22 .......ccceuee 4
 
 5
 
-1ehee13
+1хехе13
 
 --
 
@@ -10597,14 +10554,14 @@ BOLT, FLANGE, 6X22 .......ccceuee 4
 
 5
 
-+ or-eucsar
++ или -эуксар
 1
 
 |96000-06035-07
 
 259
 
-BOLT, FLANGE, 6X35 ........000 wL4
+БОЛТ ФЛАНЕЦ, 6X35 ........000 wL4
 
 5
 
@@ -10614,51 +10571,51 @@ BOLT, FLANGE, 6X35 ........000 wL4
 
 2533891
 
-33 BOLT, FLANGE, 6X35 ....... bevaees
+33 БОЛТ ФЛАНЕЦ, 6X35 ....... bevaees
 
-PAGE GRID
-18 BS
+СЕТКА СТРАНИЦ
+18 БС
 
 0807362
 
 1039635
 
-& AMERICAN HONDA MOTOR CO. LTD 1993
+И АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD 1993 г.
 
-Ce
+Се
 
-& AMERICAN
-HONDA MOTOR CO. LTD 1993
+И АМЕРИКАНСКИЙ
+ХОНДА МОТОР КО. ЛТД 1993 ГОДА
 
 41
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S "BS FRAME NO.; RC220-FM100001 TO FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S "BS НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
 
-VF700S'85 ENGINE NO.; RC2Z2E-2100001 TO 2103285
-VF700S ‘85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2Z2E-2100001 К 2103285
+VF700S ‘85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
 10
 8
 44
 48
 
-BS
-Bs
-C10
-C12
+БС
+Бс
+С10
+С12
 
-44 C10
-14 B7
+44 С10
+14 Б7
 20 810
 
 1005453
 
 1 |191307-"B0-003
 
-26 O-RING, 13X2.5 ..cecesnscecences
+26 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 13X2,5 ..cecesnscecences
 
-BOLT, FLANGE, 6X16 -ccccecececees
+БОЛТ, ФЛАНЕЦ, 6X16 -ccccececees
 
 5760222
 
@@ -10666,246 +10623,246 @@ BOLT, FLANGE, 6X16 -ccccecececees
 
 5
 
-30 BOLT, FLANGE, 6X16 .......ceeeees 4 5
+30 БОЛТ, ФЛАНЕЦ, 6X16 .......ceeeees 4 5
 
 1263328
 
-CODE
+КОД
 1242254
 
-25 SEAL, WATER PIPE ..........es000- 4
+25 УПЛОТНЕНИЕ ВОДЯНОЙ ТРУБЫ ..........es000- 4
 
-29 BOLT, FLANGE, 6X14 .......ccencee
+29 БОЛТ ФЛАНЕЦ, 6X14 .......ccencee
 
-1eeeee1
+1ееееее1
 
 4
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EMO0S012
-VF700S'B4 ENGINE NO. ; RC22E~2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221-£M000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 К EMO0S012
+НОМЕР ДВИГАТЕЛЯ VF700S'B4. ; RC22E~2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-£M000006 К EM001081
 
-18 HOSE B, WATER ......sceceecnseeee
+18 ШЛАНГ B, ВОДА ......см.сценарий
 
-28 BOLT, FLANGE, 5X22 ....eceveneeee
+28 БОЛТ ФЛАНЕЦ, 5X22 ....eceveneeee
 
 1242205
 
 --
 
-a
+а
 
 5
 
-WASHER, PLAIN, OMB ........cceeee 4 5
+ШАЙБА ПЛАСТИЧНАЯ, OMB ......cceeee 4 5
 
 1242197
 
 .........000-
 
-CLAMPB, WATER HOSE
+ЗАЖИМ, ВОДЯНОЙ ШЛАНГ
 
 5
 
 4
 
-TO | Q |PART NUMBER
+ТО | Q |НОМЕР ДЕТАЛИ
 1 |19524-mB0-000
 
 |
 
-CAMSHAFT .
-CARBURETOR ASSY
-CARBURETOR COMPONENT
-CARBURETOR LINK
-CLUTCH
-CRANKCASE COVER. L.
-CRANKCASE COVER, R.
-CRANKSHAFT
-CROSS SHAFT
-CYLINDER BLOCK
+РАСПРЕДВАЛ.
+КАРБЮРАТОР В СБОРЕ
+КОМПОНЕНТ КАРБЮРАТОРА
+КАРБЮРАТОР ССЫЛКА
+СЦЕПЛЕНИЕ
+КРЫШКА КАРТЕРА. Л.
+КРЫШКА КАРТЕРА, П.
+КОЛЕНВАЛ
+КРЕСТОВОЙ ВАЛ
+БЛОК ЦИЛИНДРОВ
 
-HONDA
+ХОНДА
 
 |19526-"B1-000
 
-WASHER, PLAIN, GMM .........cc00- 4 5
+ШАЙБА ПЛАСТИЧНАЯ, GMM ......cc00- 4 5
 
-CODE
+КОД
 
-T THERMOSTAT ....ccececeeesceceees
+T ТЕРМОСТАТ ....ccececeeesceceees
 
-> PIPE, WATER QUTLET CONNECTING ...) 4
+> ТРУБКА, ПОДКЛЮЧЕНИЕ ВОДЯНОЙ КВАЛЕТА ...) 4
 
 4
 
-17 CLAMPB, WATER PIPE ..........00.
+17 ЗАЖИМ B, ВОДЯНАЯ ТРУБА ..........00.
 
-R
+Р
 1
 
-24 O-RING, 5X2 ....-esececeeceeees 4 5
+24 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 5X2 ....-esececeeeeees 4 5
 
-ENGINE
+ДВИГАТЕЛЬ
 
-FROM
+ОТ
 
 5
 
-20 SCREW, BLEEDER .......cececeeeee 4 5
-21 CAP, BLEEDER SCREW ......csceeeee 4 5
-22 GASKET, CONNECTING CAP .......... 4 5
-erampoete|
+20 ВИНТ ПРОКАЧНОГО ВЫПУСКА .......cececeeeee 4 5
+21 КРЫШКА, ВИНТ ДЛЯ ПРОКАЧА ВОЗДУХА ......csceeeee 4 5
+22 ПРОКЛАДКА СОЕДИНИТЕЛЬНОЙ КРЫШКИ .......... 4 5
+эрампоэте|
 
-vivi.
+виви.
 
-5 = VF700S'6S
+5 = ВФ700С'6С
 
-Ret
+Рет
 
 °
 
 8
-i
+я
 
 4
 
-16 PIPE B, WATER .....c.csceeceseees
+16 ТРУБКА B, ВОДА .....c.csceeceseees
 
-19 SENDING UNIT, WATER TEMPERATURE
+19 ОТПРАВИТЕЛЬ ТЕМПЕРАТУРЫ ВОДЫ
 
 |
 
-r)
-Ey
+р)
+Эй
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-No.
-DESCRIPTION
-4 5/E| FROM
-14 CLAMP A, WATER PIPE .......0.e004 4 5
+Нет.
+ОПИСАНИЕ
+4 5/Е| ОТ
+14 ЗАЖИМ A, ВОДЯНАЯ ТРУБА .......0.e004 4 5
 
-CAM CHAIN
+КУЛАЧКОВАЯ ЦЕПЬ
 
-GRID
+СЕТКА
 
-cs
+CS
 
-o
+о
 
-“th
+«эт
 
-2 ee | oe
-he
+2 ее | ой
+он
 
-y
+й
 
-Ra SSB ertsaunBrssa
+Ра ССБ эрцаунБрсса
 
 19
 
-s|A
+с|А
 
-SELLE
+ПРОДАВАТЬ
 
-Sp
+СП
 —@p
 
 *
 
 5
 
-TITLE
-ALTERNATOR
+НАЗВАНИЕ
+ГЕНЕРАТОР
 
 @
 
-om |
+ом |
 
-e Ela
+и Эла
 
 —_
 
-Z
+З
 
-a vEvoos'es
+vEvoos'es
 
 88ans8S
 
-WATER PIPE e THERMOSTAT
+ВОДЯНАЯ ТРУБА И ТЕРМОСТАТ
 
-CROSS SHAFT
+КРЕСТОВОЙ ВАЛ
 
-5 = VF700885
+5 = ВФ700885
 
-Ret
+Рет
 
-YE
+ДА
 
-BLOCK NO.
+БЛОК №.
 
-No.
+Нет.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-9 SHIM, CROSS SHAFT (0.60)
+9 ПРОКЛАДКА, КРЕСТОВОЙ ВАЛ (0,60)
 
-4 = VF700S'84
-5 = VF700S'85
+4 = ВФ700С'84
+5 = ВФ700С'85
 
 -
 
-Fie
+тьфу
 
-KE
+КЕ
 7
 0
 
-aiockn
+айокн
 
-Q
+вопрос
 
 s s|*
-a gic
+шутка
 17|2
 2/8]
 
-y
+й
 
 261 2
 
-come ae arsenate ; ;
-nace eee nor eum Ttteteeseaes a
+приходите в арсенат; ;
+nace eee or eum Ttteteeseaes a
 
 | 8
 
-enon
+энон
 
 1&
 
-To
+Чтобы
 
 —
 
-leant NUMBER
+наклонился НОМЕР
 
-CONE
+КОНУС
 
-; vthesbo-tny
-ee met.m0
+; втесбо-тни
+эээ met.m0
 
-vocoesr
+вокоэср
 wz3087
 
 4
 
-5 GASKET, SIDE GEAR CASE .......... 4
+5 ПРОКЛАДКА БОКОВОГО КОРПУСА РЕДУКТОРА.......... 4
 
-6 HOLDER, COUNTERSHAFT BEARING ....14
-7 SHIM, COUNTERSHAFT (0.40) ......- 4
-SHIM, COUNTERSHAFT (0.45) ......./4
+6 ДЕРЖАТЕЛЬ ПОДШИПНИКА ПРОМЕЖУТОЧНОГО ВАЛА ....14
+7 ПРОКЛАДКА ПРОМЕЖУТОЧНОГО ВАЛА (0,40) ......- 4
+ПРОКЛАДКА ПРОМЕЖУТОЧНОГО ВАЛА (0,45) ......./4
 
 5
 
@@ -10926,68 +10883,66 @@ SHIM, COUNTERSHAFT (0.45) ......./4
 5
 
 1 |21301-"B0-000
-AR |21321-MB0-770
-aR |21322-"80-770
+АР |21321-MB0-770
+аР |21322-"80-770
 
-SHIM, COUNTERSHAFT (0.50) ...... 145
+ПРОКЛАДКА ПРОМЕЖУТОЧНОГО ВАЛА (0,50) ...... 145
 
-AR |21323-MB0-770
+АР |21323-MB0-770
 
-SHIM, COUNTERSHAFT (0.55) ...... 145
+ПРОКЛАДКА ПРОМЕЖУТОЧНОГО ВАЛА (0,55) ...... 145
 
-AR
+АР
 
-SHIM, COUNTERSHAFT (0.60) ...... 145
+ПРОКЛАДКА ПРОМЕЖУТОЧНОГО ВАЛА (0,60) ...... 145
 
 |21324-MB0-770
 
-Oo
+оо
 
 0
 
-T
+Т
 
-Ss
+сс
 
 §
 
 8
 
-B
+Б
 
 5
 
-Cc
+Копия
 
-e
+е
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-FROM
+ОТ
 
-TO
+ТО
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR
+ГЕНЕРАТОР
 
-Y
+Да
 
-Canaan bee
+Ханаанская пчела
 
-a
+а
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
 .
 
-ee eee
+эээээ
 
-AR
-
-|21325-MBO-770
+АР|21325-МБО-770
 
 1290881
 
@@ -10999,19 +10954,19 @@ AR
 
 1262510
 
-9 SHIM, CROSS SHAFT (0.40)
+9 ПРОКЛАДКА, КРЕСТОВОЙ ВАЛ (0,40)
 
 .....--.
 
 45
 
-AR
+АР
 
 |21381-MB0-770
 
 1290907
 
-SHIM, CROSS SHAFT (0.45)
+ПРОКЛАДКА, КРЕСТОВОЙ ВАЛ (0,45)
 
 ........
 
@@ -11019,13 +10974,13 @@ SHIM, CROSS SHAFT (0.45)
 
 5
 
-AR
+АР
 
 |21382-MB0-770
 
 1290931
 
-SHIM, CROSS SHAFT (0.50)
+ПРОКЛАДКА, КРЕСТОВОЙ ВАЛ (0,50)
 
 ......2.
 
@@ -11033,54 +10988,54 @@ SHIM, CROSS SHAFT (0.50)
 
 5
 
-AR
+АР
 
 |21383-MBO-770
 
 1290949
 
-SHIM, CROSS SHAFT (0.55)
+ПРОКЛАДКА, КРЕСТОВОЙ ВАЛ (0,55)
 
-..... wlG
+..... ВЛГ
 
 5
 
-AR
+АР
 
 |21384-MB0-770
 
 1290956
 
-© AMERICAN HONDA MOTOR CO. LTD. 1903
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1903 год
 
-CODE
+КОД
 
-CTC COR LINK
+СТС КОР ЛИНК
 
-“or
+«или
 
-CRANKCASE COVER.
-L.
+КРЫШКА КАРТЕРА.
+Л.
 
 .
 
-20 B10
+20 Б10
 
 _
 
-42 C9
+42 С9
 
 §
 
-AR
+АР
 
 |21385-"B0-770
 
 1290980
 
-CRANKCASE COVER. R
+КРЫШКА КАРТЕРА. Р
 
-10 SHAFT SET, CROSS .....ccceccnsces
+10 КОМПЛЕКТ ВАЛОВ, КРЕСТОВОЙ .....ccceccnsces
 
 4
 
@@ -11092,9 +11047,9 @@ CRANKCASE COVER. R
 
 1723105
 
-11 BOLT, UBS, 8X100 ......seceeeeeee 4
+11 БОЛТ, UBS, 8X100 ......см. 4
 
-CROSS SHAFT
+КРЕСТОВОЙ ВАЛ
 
 5
 
@@ -11102,15 +11057,15 @@ CROSS SHAFT
 
 [90004-42200
 
-12 ORIFICE, OIL CONTROL .......e000 4
+12 ДАТЧИК МАСЛЯНОГО КОНТРОЛЯ .......e000 4
 
 0690537
 
-CYLINDER neeccoven
+ЦИЛИНДР
 
 5
 
-13 BOLT, SOCKET, 8X22 ....-..0e0.. la
+13 БОЛТ ГОЛОВКИ 8X22 ....-..0e0.. la
 
 1
 
@@ -11120,7 +11075,7 @@ CYLINDER neeccoven
 
 5
 
-CYLINDER HEAD ER
+ГОЛОВКА ЦИЛИНДРА ER
 
 4
 
@@ -11128,34 +11083,34 @@ CYLINDER HEAD ER
 
 1243500
 
-GASKET KIT A
+КОМПЛЕКТ ПРОКЛАДОК А
 
-14 BOLT, ,
-FLANGE SOCKET, 8X85
+14 БОЛТ, ,
+ФЛАНЕЦ, 8X85
 
-VF700S'8S ENGINE NO.; RC2ZE-2100001 TO 2103668
-VE700S'BS FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'8S; RC2ZE-2100001 ТО 2103668
+НОМЕР РАМЫ VE700S'BS; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-13 BE
+13 лет назад
 
-8 St
+8 ул.
 
-a
+а
 50 01
 
-Gasrer «ra
+Гасрер «ра
 
-£0 OF
+0 фунтов стерлингов
 
-GEARSHIFT DRUM
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
 
 .
 
 38
 
-C7
+С7
 
 .......
 
@@ -11169,13 +11124,13 @@ C7
 
 1263518
 
-GEARSHEFT
+ПЕРЕДАЧА
 
-DFM
+ДФМ
 
-38 C7
+38 С7
 
-15 BOLT, UBS, BX60 .....ececececeees
+15 БОЛТ, UBS, BX60 .....ecececeeees
 
 4
 
@@ -11187,15 +11142,15 @@ DFM
 
 1243526
 
-OW PAN...
+ОЙ ПАН...
 |...
-Ol
-PAN
+Ол
+ПАН
 
-23 B11
-Bn
+23 Б11
+Бн
 
-16 NUT, LOCK, 304@ ......cecececeses
+16 ГАЙКА ЗАМОКОВАЯ, 304@ ......cecececeses
 
 4
 
@@ -11205,11 +11160,11 @@ Bn
 
 1243559
 
-PISTON
+ПОРШЕНЬ
 
 30 63
 
-17 NUT, LOCK, 640M oo... cece nc evnes
+17 ГАЙКА ЗАМОКОВАЯ, 640M oo... cece nc evnes
 
 4
 
@@ -11219,9 +11174,9 @@ PISTON
 
 1243567
 
-18 ORIFICE, PIN, 10X16 .......ee0e0. 4
+18 ОТВЕРСТИЕ, ШТИФТ, 10X16 .......ee0e0. 4
 
-| 19 BEARING, BALL, 5206 (TOYO) ...... 4
+| 19 ПОДШИПНИК ШАРИКОВЫЙ, 5206 (TOYO) ...... 4
 ......
 
 4
@@ -11238,7 +11193,7 @@ PISTON
 
 0315358
 
-TRANSMISSION
+ТРАНСМИССИЯ
 
 1243757
 
@@ -11261,20 +11216,20 @@ TRANSMISSION
 91204-#B0-003
 
 1243773
-i
+я
 1334099
 
 1 191206-B0-013
 
 2952943
 
-23 OIL SEAL, 25X66X8.5 (ARAL)
+23 САЛЬНИК, 25Х66Х8,5 (АРАЛ)
 
 5
 
-O-RING,
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО,
 
-ow
+ой
 
 ccc cee eeeeeenes
 
@@ -11282,16 +11237,16 @@ ccc cee eeeeeenes
 
 5
 
-Ls
+Лс
 
-“oeeeeeeceseeeseees
+«ооооооооооооооооооооооооооооооооооооооооооооооооо
 
-26 BOLT, FLANGE, BX65 ......+.+.+0+e 43
-BOLT, FLANGE, BX63 «---ss+eeereee ‘>
-27 BOLT, FLANGE, 6X28 ........+.-44. 4 5
-BOLT, FLANGE, 6X28 ...... re ee
+26 БОЛТ ФЛАНЕЦ BX65 ......+.+.+0+e 43
+БОЛТ, ФЛАНЕЦ, BX63 «---ss+eeeree '>
+27 БОЛТ ФЛАНЕЦ, 6X28 ........+.-44. 4 5
+БОЛТ, ФЛАНЕЦ, 6X28 ...... re ee
 
-40 C8
+40 С8
 
 1
 
@@ -11299,11 +11254,11 @@ BOLT, FLANGE, 6X28 ...... re ee
 
 4
 
-22 B11
+22 Б11
 
-THERMOSTAT
+ТЕРМОСТАТ
 
-TENSIONER
+НАТЯЖИТЕЛЬ
 
 '91011-"B0-003
 
@@ -11336,10 +11291,10 @@ TENSIONER
 
 |96001-06028-00
 
-ses
+сес
 
-a"; CB
-. 20 B10
+а"; ЦБ
+. 20 Б10
 
 1312776
 
@@ -11347,36 +11302,36 @@ a"; CB
 
 2
 
-WATER PIPE
-WATER PUMP
+ВОДЯНАЯ ТРУБА
+ВОДЯНОЙ НАСОС
 
-40 BS
+40 БС
 
 4562646
 1260835
 
-lowsics
+законы
 
 "
 2529193
-ores0re
+руды0ре
 2106003
 
-. AMERICAN
-HONDA MOTOR CO. LTD. 1963
+. АМЕРИКАНСКИЙ
+ХОНДА МОТОР КО. ЛТД. 1963 год
 
-16 BB
+16 ББ
 
-STARTER MOTOR .._—sdzi....
+СТАРТЕР .._—sdzi....
 
 1243732
 
 1
 .
 
-16 B8
+16 Б8
 
-STARTER CLUTCH
+СТАРТЕРНАЯ МУФТА
 
 |90703-80~000
 
@@ -11384,23 +11339,23 @@ STARTER CLUTCH
 
 ......
 
-PULSE ALTERNATOR
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР
 
 1
 
-21 BEARING, RADIAL BALL, 5206 ...... 4
+21 ПОДШИПНИК РАДИАЛЬНЫЙ ШАРИКОВЫЙ, 5206 ...... 4
 — 4
-22 OIL SEAL, BX25XB .....ececececece
+22 САЛЬНИК, BX25XB .....ececececece
 
 .
 
-ce
+CE
 
-BS
+БС
 
-% aS
+% аС
 
-CARBURETOR SOS CONENT a3 oie
+КАРБЮРАТОР SOS CONENT a3 oie
 
 1290865
 
@@ -11408,138 +11363,137 @@ CARBURETOR SOS CONENT a3 oie
 
 18
 
-RBURET RASY
+РБЮРЕТ РАСЫ
 
-HONDA
+ХОНДА
 
 4
 
-25 O-RING, 3X70...
+25 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 3X70...
 
 1290857
 
-TME
+ТМЕ
 
 .....00.
 
-OIL SEAL, 25X66X8.5 (ARAL) oo... 6 5
-24 O-RING, 5.7X2.2 (ARAL) eeesecese 4 5
+САЛЬНИК, 25Х66Х8,5 (АРАЛ) оо... 6 5
+24 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 5,7X2,2 (ARAL) eeesecese 4 5
 
 1290758
 
-A
+А
 
-5|e€]
+5|е€]
 
-OIL SEAL, 8X25X8 (ARAL) ......004 4 5
+САЛЬНИК, 8X25X8 (АРАЛ) ......004 4 5
 
 1245687
 1290824
 1290832
 
-8 HOLDER, CROSS SHAFT BEARING .....
+8 ДЕРЖАТЕЛЬ ПОДШИПНИКА КРЕСТОВОГО ВАЛА.....
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'84 FRAME NO. RC220-EM000007 TO £M005012
-VF700S'84 ENGINE NO.; RC22E-2002575 10 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO £M001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'84 № РАМЫ. RC220-EM000007 ДО £M005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 10 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО £M001081
 
-Ole
+Оле
 
 0
 
 4
 
-BEARING, BALL, 6303 (TOYO)
+ПОДШИПНИК ШАРИКОВЫЙ, 6303 (TOYO)
 
-ES eaten
-ees
+ES съел
+да
 
-4 CASE COMP., SIDE GEAR ........-0.
+4 КОМПЛЕКТ КОРПУСА, БОКОВАЯ ПЕРЕДАЧА........-0.
 
 42
 
-ENGINE
-semmcnoween
+ДВИГАТЕЛЬSemmcnoween
 
 6
 
 £-1714
 
-20 BEARING, BALL, 6303 (KOYO) ......
+20 ПОДШИПНИК ШАРИКОВЫЙ, 6303 (KOYO) ......
 
-Ole
+Оле
 
-DESCRIPTION
+ОПИСАНИЕ
 
-07 OU
+07 ОУ
 
-cee}
+си}
 
-gla
-7IR
+гла
+7ИР
 
-CONTENTS
+СОДЕРЖАНИЕ
 
 43
 
-GRID
+СЕТКА
 
-C9
+С9
 
-CARBURETOR ASSY. e CARBURETOR LINK
+КАРБЮРАТОР В СБОРЕ. e ССЫЛКА КАРБЮРАТОРА
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-Vivi.
+Виви.
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 7
 
-Ole
+Оле
 
-s
+с
 
-s
+с
 
 8
 
-a
+а
 
 0
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-Mo
+Мо
 
-x
+х
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 7
 
-7IR
+7ИР
 
-Ret.
+В отставке.
 
-BLOCK NO.
+БЛОК №.
 
-1 LEVER SETA, LINK
+1 РЫЧАГ НАБОРА, ССЫЛКА
 
 44
 
 E£-18/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
 5
 
@@ -11549,19 +11503,19 @@ DESCRIPTION
 
 5]£{
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-a
+а
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-TO
+ТО
 
-HONDA
+ХОНДА
 
 ....cccecevenee
 
@@ -11583,13 +11537,13 @@ HONDA
 
 1241793
 
-LINK SETA, STARTER .....sccceee.
+LINK SETA, СТАРТЕР ..... sccceee.
 
 4
 
 5
 
-2 | 16018-MK3-771
+2 | 16018-МК3-771
 
 2536555
 
@@ -11597,15 +11551,15 @@ LINK SETA, STARTER .....sccceee.
 
 124 1801
 
-3 ROD SET A, STARTER LINK ..........
+НАБОР ИЗ 3 ТЯГ А, СТАРТЕРНАЯ ТЯГА ..........
 
 4
 
 5
 
-4 JOINT SET C, FUEL
+4 СОЕДИНИТЕЛЬНЫЙ КОМПЛЕКТ C, ТОПЛИВО
 
-eee
+эээ
 
 4
 
@@ -11617,7 +11571,7 @@ eee
 
 1313964
 
-5 LINK SET B, STARTER .......cce00-
+5 ТЯГА B, СТАРТЕР .......cce00-
 
 4
 
@@ -11627,7 +11581,7 @@ eee
 
 1241819
 
-LINK SET B, STARTER .......cccess
+НАБОР ТЯГ B, СТАРТЕР .......cccess
 
 4
 
@@ -11635,13 +11589,13 @@ LINK SET B, STARTER .......cccess
 
 1
 
-| 16025-MK3-771
+| 16025-МК3-771
 
 2536563
 
-eee
+эээ
 
-6 JOINT SETA, FUEL
+6 СОЕДИНИТЕЛЬ ТОПЛИВНЫЙ
 
 .......
 cc encace
@@ -11656,27 +11610,27 @@ cc encace
 
 1241827
 
-? JOINT SET E, FUEL
+? СОЕДИНИТЕЛЬНЫЙ КОМПЛЕКТ E, ТОПЛИВО
 
-2... ..ccnceene
+2... ..ccceene
 
 4
 
 5
 
-1 | 16027-MB2-004
+1 | 16027-МБ2-004
 
 1723113
 
-8 SCREW SET (B) ........ ea eeceenees
+КОМПЛЕКТ 8 ВИНТОВ (B) ........ есть в наличии
 
 4
 
 5
 
-1 | 16028-KR3-671
+1 | 16028-КР3-671
 
-CODE
+КОД
 
 5
 
@@ -11686,54 +11640,54 @@ CODE
 
 1241959
 
-15 PLATE, SETTING
+15 ПЛАСТИНА, УСТАНОВКА
 
 4
 
 5
 
-..... se eeaceeeece
+..... вот это дааааа
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-_ 18 B9
+_ 18 В9
 
-CARBURETOR ASSY........ 44 C10
-CARBURETOR COMPONENT
+КАРБЮРАТОР В СБОРЕ........ 44 C10
+КОМПОНЕНТ КАРБЮРАТОРА
 
-48 C12
+48 С12
 
-CLUTCR INK
+CLUTCR ЧЕРНИЛА
 
-44 C10
+44 С10
 
-CRANKCASE COVER. L
+КРЫШКА КАРТЕРА. л
 
 ....
 
-20 B10
+20 Б10
 
-CRANKCASE COVER.R.....
-CRANKSHAFT =...
+КРЫШКА КАРТЕРА.П.....
+КОЛЕНВАЛ =...
 
-13 B6
-30 C3
+13 Б6
+30 С3
 
-CROSS SHAFT _..
+КРЕСТОВОЙ ВАЛ _..
 
-82 C9
+82 С9
 
-CYLINDER BLOCK
+БЛОК ЦИЛИНДРОВ
 
 .
 
 .........
 
-CYLINDER
-HEAD COVER ..
+ЦИЛИНДР
+ПОКРЫТИЕ ГОЛОВЫ..
 
-26 C1
-2 Bt
+26 С1
+2 бат
 
 1
 
@@ -11741,9 +11695,9 @@ HEAD COVER ..
 
 1241967
 
-CYLINDER HEAD. FR...
+ГОЛОВКА ЦИЛИНДРА. ПТ...
 
-3 Bi
+3 Би
 
 1
 2106014 | 1
@@ -11755,23 +11709,23 @@ CYLINDER HEAD. FR...
 1780980
 1780980
 
-GASKET KIT A
-GASKET KIT B
+КОМПЛЕКТ ПРОКЛАДОК А
+КОМПЛЕКТ ПРОКЛАДОК Б
 
 _
 
-60 DI
-51 D1
+60 ДИ
+51 Д1
 
 1
 
 116100-mB0-872
 
-GEARSHIFT DRUM
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ
 
-|16100-MB0~872
+|16100-МБ0~872
 
-OIL FILTER
+МАСЛЯНЫЙ ФИЛЬТР
 
 _
 
@@ -11779,36 +11733,36 @@ _
 
 2424554
 
-CYLINDER HEAD. RR...
+ГОЛОВКА ЦИЛИНДРА. РР...
 
 6 83
 
 .. ccc cnc ucerees
 
-4 --IA
-“~ STA | ~-=----
+4 --ИА
+«~ СТА | ~-=----
 
-CARBURETOR ASSY.
+КАРБЮРАТОР В СБОРЕ.
 
-..... ow ennensne
+..... оу энненсне
 
 4
 
-SIA
+СИА
 
-“~~
+«~~
 
-SA | were n-
+СА | были н-
 
 2626554
 
-OWL PAN ..
+СОВА ПАН..
 
 .. cc ccnwcnccens
 
 4
 
-SIAC
+СИАК
 
 1
 
@@ -11816,13 +11770,13 @@ SIAC
 
 1780998
 
-PISTON...
+ПОРШЕНЬ...
 
-17 CARBURETOR ASSY. 1. . cccccacncee
+17 КАРБЮРАТОР В СБОРЕ. 1. . cccccacncee
 
 4
 
-=i
+= я
 
 1
 
@@ -11832,53 +11786,53 @@ PISTON...
 
 1781004
 
-STARTER MOTOR... 22 B11
+СТАРТЕР... 22 B11
 
 4
 
---IA
+--ИА
 
 --
 
 1
 
-STA | ~------
+СТА | ~------
 
 116101-"80-872
 
 2431930
 
-THERMOSTAT .............
+ТЕРМОСТАТ .............
 
-40 C8
+40 С8
 
 4
 
 5
 
-CARBURETOR ASSY. 1 wo. cccwccccens
+КАРБЮРАТОР В СБОРЕ. 1 год. cccwccccens
 
-A
+А
 
 -- S5}A|-------
 
-CARBURETOR ASSY. 2 wc. ccacccceres
+КАРБЮРАТОР В СБОРЕ. 2 туалета. ccaccceres
 
-CARBURETOR ASSY. 2 ...ccccnccccee
+КАРБЮРАТОР В СБОРЕ. 2 ...cccccccccee
 
-19 CARBURETOR ASSY. 3
+19 КАРБЮРАТОР В СБОРЕ. 3
 1...
-cnc
-cccnnce
-CARBURETOR ASSY. 3 ..cccccccccuce
+ЧПУ
+ccccnnce
+КАРБЮРАТОР В СБОРЕ. 3 ..cccccccccuce
 
-CARBURETOR ASSY. 3 2... .ccnccceccs
+КАРБЮРАТОР В СБОРЕ. 3 2... .ccncccccs
 
-20 CARBURETOR ASSY. 4
+20 КАРБЮРАТОР В СБОРЕ. 4
 2...
-ccc
+ссс
 cccce
-CARBURETOR ASSY. 4 ....cnccenucce
+КАРБЮРАТОР В СБОРЕ. 4 ....cnccenucce
 
 5
 
@@ -11890,19 +11844,19 @@ CARBURETOR ASSY. 4 ....cnccenucce
 
 1784012
 
-WATER PUMP ...
+ВОДЯНОЙ НАСОС...
 
-20 B10
+20 Б10
 
 1
 |16102-"B0-871
-VO5OEB | 1 | 16102-"B0-871
+ВО5ОЕБ | 1 | 16102-"Б0-871
 
 1781020
 1781020
 
 1
-VD50EB | 1
+ВД50ЕВ | 1
 ------- | 1
 
 |16102-480-872
@@ -11927,13 +11881,13 @@ VD50EB | 1
 1781046
 1781046
 
-4 --TA
--- STA]
+4 --ТА
+-- СТА]
 
 1
-VO50EB8 | 1
+ВО50ЕВ8 | 1
 
-116103-"B0-872
+116103-"Б0-872
 
 --~----
 
@@ -11945,18 +11899,18 @@ VO50EB8 | 1
 
 &
 
-51/AC
+51/АС
 
-4 --|A
-“- S|A | -c---~4
+4 --|А
+«- S|A | -c---~4
 
---IA
+--ИА
 
-“~~
-“-
+«~~
+«-
 
-S|A | w-----S|1A|
-VDSOEC
+С|А | ш-----S|1A|
+ВДСОЭК
 
 4
 
@@ -11966,17 +11920,17 @@ VDSOEC
 
 5
 
-1 | 16031-MBO-671
+1 | 16031-МБО-671
 
 1241850
 
-10 ROD SET B, STARTER LINK ........0.
+10 НАБОР ТЯГ B, ТЯГА СТАРТЕРА ........0.
 
-21 FUNNEL, AIR
+21 ВОРОНКА ВОЗДУХА
 
 4
 
-..sccccucccvcccceese | &
+..sccccucccvccccceese | &
 
 5
 
@@ -11986,13 +11940,13 @@ VDSOEC
 
 1241868
 
-11 PLATE SET, STAY ....cceeeee concer
+11 НАБОР ТАРЕЛОК, ОСТАТЬСЯ ....cceeee концерт
 
 [4
 
 5
 
-22 PIN, KNOCK .......0s- eaeovencees | 4
+22 PIN, KNOCK .......0s- eeovencees | 4
 
 5
 
@@ -12000,13 +11954,11 @@ VDSOEC
 
 | 16035-MB0-671
 
-1241876
-
-12 JOINT SET D, FUEL
+124187612 СОЕДИНИТЕЛЬНЫЙ КОМПЛЕКТ D, ТОПЛИВО
 
 4
 
-23 T-JOINT ..... ae eaeveeneenutuseee
+23 Т-образное соединение ..... ae eaeveeneenutuseee
 
 5
 
@@ -12029,73 +11981,73 @@ VDSOEC
 % 5°
 
 1
-vD5SOEB | 1
+вД5СОЕВ | 1
 
 4
 
-TENSIONER. sts
+НАТЯЖИТЕЛЬ. стс
 
-ESSN
+ЕССН
 
 1
 
 | 16028-MB0-671
 
--s«16 BB
+-s«16 ББ
 
-STARTER CLUTCH... .ss—s—s16 BB
+МУФТА СТАРТЕРА... .ss—s—s16 BB
 
 2431930
 
-AC
+переменного тока
 
 1
 
-23 B11
+23 Б11
 
 90 3
 
 2431930
 
-4 --IA
-—- STA]
+4 --ИА
+--- СТА]
 
 5
 
-CARBURETOR ASSY. 4 ...e0e. we weees
+КАРБЮРАТОР В СБОРЕ. 4 ...е0е. мы пиее
 
-VD50EB | 1
+ВД50ЕВ | 1
 
 |16101-mB0-871
 
-PULSE ALTERNATOR
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР
 
 .
 
-_ 23 BI
+_ 23 БИ
 
 |16101-mB0-872
 
-4 --|A
+4 --|А
 =~ S|A | ~-----“~~ 5S|A]
-VDSOEC
+ВДСОЭК
 4
 
-vp50E8 | 1
+вп50Е8 | 1
 
-Ol PUMP .
+Ол НАСОС.
 
-38 C7
+38 С7
 
-23 B14
+23 Б14
 
-VDSOEC 9 ------- | 1
+ВДСОЭК 9 ------- | 1
 
-aC
+AC
 
-4 --1A
+4 --1А
 ~~ 5
-]A]
+]А]
 
 4
 
@@ -12105,7 +12057,7 @@ aC
 
 1[16103-B0-872
 
-ce
+CE
 
 2431955
 
@@ -12118,7 +12070,7 @@ ce
 1781053
 
 1
-VD50EB | 1
+ВД50ЕВ | 1
 
 [16104-B0-871
 |16104-MB0-871
@@ -12132,18 +12084,18 @@ VD50EB | 1
 
 2431963
 
-VD50E B | 1
+ВД50Э Б | 1
 |16104-"B0-872
 ------- | 1 1 16104-mB0-872
 
-WATER POG
+ВОДНАЯ ПОГ
 
 2431963
 2431963
 
 1
 
-116104-B80-881
+116104-Б80-881
 
 1781079
 
@@ -12165,157 +12117,157 @@ WATER POG
 
 1707868
 
-C10
+С10
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF?00S"85 ENGINE NO.; RC22E~2100001 TO 2103285
-VF700S°8S FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+VF?00S"85 НОМЕР ДВИГАТЕЛЯ; RC22E~2100001 ДО 2103285
+VF700S°8S НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-10 BS
+10 БС
 
-16 CARBURETOR ASSY.
+16 КАРБЮРАТОР В СБОРЕ.
 
-SCREW SET (B) .. ca secsccccccccens
+КОМПЛЕКТ ВИНТОВ (B) .. ca secsccccccccens
 
-VF700S "84 ENGINE NO.; RC22E~-2000008 70 2005978
-VF700S "84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S "84 ENGINE NO.; RC22E~2002575 10 2006097
-VF700S "84 FRAME NO.; RC221-EM000006 TO £M001081
+VF700S "84 НОМЕР ДВИГАТЕЛЯ; RC22E~-2000008 70 2005978
+VF700S "84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S "84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 10 2006097
+VF700S "84 НОМЕР РАМЫ; RC221-EM000006 ДО £M001081
 
-TO | Q |PART NUMBER
+ТО | Q |НОМЕР ДЕТАЛИ
 
 4
 
 2039949
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1993 год
 
-HONDA
+ХОНДА
 
-16 SCREW, PAN ..cccceccues ween naces
+16 ВИНТ, КОВАР ..cccceccues ween naces
 
-9 LINK SET C, STARTER ......0005 eee
+9 НАБОР ТЯГ C, СТАРТЕР ......0005 eee
 
-oo... cscs eeee
+оо... cscs эээ
 
-FROM
+ОТ
 
-a
+а
 
 1384965
 1384965
 
-ENGINE
+ДВИГАТЕЛЬ
 
-FROM
+ОТ
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
 |16047-MB0-771
-116047-"B0-771
+116047-"Б0-771
 
-—- 5|A|
+—- 5|А|
 
-2 LINK SETA, STARTER .......0ce08
+2 ТЯГА СТАРТЕРА .......0ce08
 
 2.
 
-4 5{E|
+4 5{Е|
 
-CAMCHAIN..............
+КАМЧЕЙН...............
 
-ALTERNATOR
+ГЕНЕРАТОР
 
 2
 1
 
-18 CARBURETOR ASSY. 2 wc sccccncccace
+18 КАРБЮРАТОР В СБОРЕ. 2 туалета
 
-No.
+Нет.
 
-|C
+|С
 
-C
+С
 
-TITLE
+НАЗВАНИЕ
 
-Y
+Да
 
-S5|A
-SAC
+S5|А
+САК
 
-A
+А
 
-Bic
+Бик
 
 §
 
-Q
+вопрос
 
-rT
+рТ
 
 4
 4
 
-CARBURETOR ASSY. 1 .cccsscecccece
+КАРБЮРАТОР В СБОРЕ. 1.ccsscecccece
 
-gs
+гс
 
-Ol”
+Ол»
 
-13 JOINT SET B, FUEL ...ecceecccccs
+13 СОЕДИНИТЕЛЬНЫЙ КОМПЛЕКТ B, ТОПЛИВО ...ecceecccccs
 
-CARBURETOR ASSY.
+КАРБЮРАТОР В СБОРЕ.
 
 18
 E14MB0E
 
 E-18}4
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-7IR
+7ИР
 
 0
 
-GRID
+СЕТКА
 
-C10
+С10
 
 4 = VE700S'B4
 
-CARBURETOR ASSY. e CARBURETOR LINK
+КАРБЮРАТОР В СБОРЕ. e ССЫЛКА КАРБЮРАТОРА
 
-Viv
+Вив
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-ae
-
-0
+ае
 
 0
 
-s
+0
 
-s
+с
 
-Ret
+с
 
-No.
+Рет
 
-BLOCK NO.
+Нет.
 
-g
+БЛОК №.
+
+г
 
 €-18)4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-BIC
+БИК
 
 5
 
@@ -12323,59 +12275,59 @@ BIC
 
 4:5/€]|
 
-TITLE
+НАЗВАНИЕ
 
-e
+е
 
-o off
+о выкл.
 
 ¥
 
-CAMSHAFT
+РАСПРЕДВАЛ
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-a
+а
 
-FROM
+ОТ
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-TO
+ТО
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERMATOR .............
-CAM CHAIN ...............
+АЛЬТЕРМАТОР .............
+КУЛАЧКОВАЯ ЦЕПЬ..........
 
-HONDA
+ХОНДА
 
 ..............
 
-CARBURETOR ASSY........
-CARBURETOR COMPONENT
+КАРБЮРАТОР В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
 
-CARBURETOR LINK ........
+ТРУБА КАРБЮРАТОРА........
 
-CLUTCH Oo,
-CRANKCASE COVER L.
-CRANKCASE COVER.R......
-CRANKSHAFT _.
+СЦЕПЛЕНИЕ Оу,
+КРЫШКА КАРТЕРА Л.
+КРЫШКА КАРТЕРА.ПРАВ.......
+КОЛЕНВАЛ _.
 
 0451807
 
-35 TUBE, 3.5X80 (BULK HOSE:
-95001-35003-40M) ....veseceees | 4
+35 ТРУБКА, 3,5X80 (ОБЪЕМНЫЙ ШЛАНГ:
+95001-35003-40М) ....весекии | 4
 
 5
 
-{AC
+{АС
 
 1
 
@@ -12385,7 +12337,7 @@ CRANKSHAFT _.
 
 5
 
-{AC
+{АС
 
 1
 
@@ -12397,7 +12349,7 @@ CRANKSHAFT _.
 
 5
 
-TAC
+ТАС
 
 1
 
@@ -12405,15 +12357,15 @@ TAC
 
 0371948
 
-23 B11
+23 Б11
 23 611
-23 B11
+23 Б11
 
 4
 
 5
 
-yac
+як
 
 1
 
@@ -12421,11 +12373,11 @@ yac
 
 0299768
 
-39 CLIP, TUBE, B7 2... seu guncacees
+39 ЗАЖИМ, ТРУБКА, B7 2... 2 шт.
 
 4
 
-SIAC
+СИАК
 
 8
 
@@ -12433,11 +12385,11 @@ SIAC
 
 0250639
 
-30 C3
-Ba
-Bs
+30 С3
+Ба
+Бс
 
-40 CLIP, TUBE, B10 12... cccuscurees
+40 ЗАЖИМ, ТРУБКА, B10 12... cccuscurees
 
 4
 
@@ -12449,7 +12401,7 @@ Bs
 
 0250985
 
-41 CLIP, TUBE, B12 .....ecncncnccnes
+41 ЗАЖИМ, ТРУБКА, B12 .....ecncncncccnes
 
 4°5
 
@@ -12459,7 +12411,7 @@ Bs
 
 0335034
 
-42 CLIP, BREATHER TUBE ......scecese
+42 ЗАЖИМ, СПУСКНАЯ ТРУБКА ......сцена
 
 4
 
@@ -12473,89 +12425,87 @@ Bs
 
 0346569
 
-CLIP, BREATHER TUBE ......cececee
+ЗАЖИМ, СПУСКНАЯ ТРУБКА ......cececee
 
 4
 
 5
 
-ac
+переменный ток
 
 2 | 15772-500-013
 
 0484089
 
-CROSS SHAFT .
+КРЕСТОВОЙ ВАЛ.
 
-CYLINDER BLOCK .........
-CYLINDER HEAD COVER ...
-CYLINDER HEAD. RR
+БЛОК ЦИЛИНДРОВ.......
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА...
+ГОЛОВКА ЦИЛИНДРА. RR
 
 ......
 
-Leas
+Лис
 
-38 TUBE, 3.5X210 (BULK HOSE:
+38 ТРУБКА, 3,5X210 (ОБЪЕМНЫЙ ШЛАНГ:95001-35001-40м) ...... пуанвес
 
-95001-35001-40m) ...... puanves
+П
 
-P
+Фле
 
-Fle
+0,0
 
-0.0
+0с Ол,
+с
 
-0s Ol,
-s
+В отставке.
+Нет.
 
-Ret.
-No.
-
-BLOCK NO.
-DESCRIPTION
+БЛОК №.
+ОПИСАНИЕ
 
 8
 £-18/4
 4
 
-24 BASE, AIR CLEANER ........0c000ee
+24 ОСНОВАНИЕ, ВОЗДУХООЧИСТИТЕЛЬ ........0c000ee
 
-BASE, AIR CLEANER .........02000.
+ОСНОВАНИЕ ВОЗДУХООЧИСТИТЕЛЯ.........02000.
 
-8 c
+8 с
 5/0]
 
-5]E|
+5]Е|
 
-ty
+ты
 
-ENGINE
-a
-SERIAL NUMBER | F
-FROM
-TO
-Q
+ДВИГАТЕЛЬ
+а
+СЕРИЙНЫЙ НОМЕР | Ф
+ОТ
+ТО
+вопрос
 
-4 --|A
-~- S|A]------~- S]A]
-VDSOEC
+4 --|А
+~- С|А]------~- С]А]
+ВДСОЭК
 4
 
---|A
+--|А
 
 ~-
 
-SA]
+СА]
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-HONDA
-CODE
+ХОНДА
+КОД
 
 1
 |16188-MB0-871
-VD50EB | 1 | 16188-MB0-871
-~------ | 1 | 16188-"B0-871
+ВД50ЕВ | 1 | 16188-MB0-871
+~------ | 1 | 16188-"Б0-871
 
 2441095
 2441095
@@ -12565,19 +12515,19 @@ VD50EB | 1 | 16188-MB0-871
 
 -------
 
-| 16188-"B1-672
+| 16188-"Б1-672
 
-VO50EB | 1 | 16188-"B1-672
+ВО50ЕВ | 1 | 16188-"Б1-672
 
 4ac
 
-BS
-ce
-Cé
-B4
+БС
+CE
+Се
+Б4
 
-cs
-B10
+CS
+Б10
 
 1442201
 
@@ -12585,7 +12535,7 @@ B10
 
 5
 
-fac
+КВС
 
 1
 
@@ -12593,13 +12543,13 @@ fac
 
 1781178
 
-25 TUBE wc cecsensccaccccaccecccues
+25 TUBE туалет cecsensccaccccaccecccues
 
 4
 
 5
 
-AC
+переменного тока
 
 1
 
@@ -12607,7 +12557,7 @@ AC
 
 1781186
 
-26 TUBE 2... ccsecncseccscccccce eoeee | 4
+26 ТРУБКА 2... ccsecncseccscccccce eeeee | 4
 
 5
 
@@ -12619,7 +12569,7 @@ JAC
 
 1707884
 
-27 TUBE, AIR VENT ......csccccecccns
+27 ТРУБКА ВОЗДУШНОГО ВЕНТИЛЯТОРА ......csccccecccns
 
 4
 
@@ -12631,13 +12581,13 @@ JAC
 
 1426097
 
-28 VALVE COMP., PURGE CONTROL ......
+28 КЛАПАННЫЙ КОМПЛЕКТ, КОНТРОЛЬ ПРОДУВКИ ......
 
 4
 
 5
 
-ac
+переменный ток
 
 1
 
@@ -12645,11 +12595,11 @@ ac
 
 1546282
 
-MOUNTING ....cccssccscecucces -14
+МОНТАЖ ....cccssccscecucces -14
 
 5
 
-Jac
+Жак
 
 1
 
@@ -12660,8 +12610,8 @@ Jac
 4
 4
 
-SIA
-5 Jac
+СИА
+5 Джек
 
 1
 2
@@ -12672,7 +12622,7 @@ SIA
 0962985
 0962985
 
-31 SCREW-WASHER, 4X12... cece eee
+31 ВИНТ-ШАЙБА, 4X12... cece eee
 
 4
 
@@ -12684,7 +12634,7 @@ SIA
 
 0692046
 
-32 SCREW-WASHER, 5X8 1.00...
+32 ВИНТ-ШАЙБА, 5X8 1,00...
 ccc cee
 
 4
@@ -12697,7 +12647,7 @@ ccc cee
 
 0791335
 
-33 SCREW-WASHER, 5X12 ........cceee
+33 ВИНТ-ШАЙБА, 5X12 ........cceee
 
 4
 
@@ -12709,152 +12659,152 @@ ccc cee
 
 0691808
 
-29 RUBBER, PURGE CONTROL VALVE
+29 РЕЗИНА, УПРАВЛЯЮЩИЙ КЛАПАН ПРОДУВКИ
 
-30 SCREW-WASHER, 4X10 ......
-een ceee
+30 ВИНТ-ШАЙБА, 4X10 ......
+ен сиее
 
 46
 
-& AMERICAN HONDA MOTOR CO. LTD. 1983
+И АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1983 год
 
-VF700S "84 ENGINE NO.; RC22E~2000008 TO 2005978
+VF700S "84 НОМЕР ДВИГАТЕЛЯ; RC22E~2000008 ДО 2005978
 
-VF700S ‘84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S "84 ENGINE NO.; RC22E-2002575 TO 2006097
-VF700S "84 FRAME NO.; RCZ21-EM000006 TO EM001081
+VF700S ‘84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S "84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S "84 НОМЕР РАМЫ; RCZ21-EM000006 ДО EM001081
 
-C1
+С1
 
-% AMERICAN HONDA MOTOR CO. LTD. 1983
+% АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1983 год
 
-VF700S'85 ENGINE NO.; RC2ZE-2100001 TO 2103668
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2ZE-2100001 ТО 2103668
 
-VF700S'85 FRAME NO.; RC220-F®100001 TO FM102800
-VF700S'B5 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO. ; RC221~F100001 TO FM100863
+VF700S'85 НОМЕР РАМЫ; RC220-F®100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'B5; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ. ; RC221~F100001 К FM100863
 
-6 BS
-50 D1
-51 D1
-38 C7
+6 БС
+50 Д1
+51 Д1
+38 С7
 
-B11
+Б11
 
 1442201
 
-BASE, AIR CLEANER ........cceneee
+ОСНОВАНИЕ, ВОЗДУХООЧИСТИТЕЛЬ .......cceneee
 
-14 B7
-20 B10
-13 B6
-30 cs
-42 cg
-26 C1
-2 Bi
-3 Bi
+14 Б7
+20 Б10
+13 Б6
+30 сс
+42 сг
+26 С1
+2 Би
+3 Би
 
 |95001-35070-40
 
-95001-35001-40M) .... enue esses
+95001-35001-40М) .... enue ess
 
-Vv,
+Вв,
 
-44 c10
+44 с10
 
 1
 
-37 TUBE, 3.5X200 (BULK HOSE:
+37 ТРУБКА, 3,5X200 (ОБЪЕМНЫЙ ШЛАНГ:
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-48 C12
+48 С12
 
-SIAC
+СИАК
 
 95001-3500 1-40M) ...cecccceeee | 4
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-8 B4
+8 Б4
 
-44 C10
+44 С10
 
-34 TUBE, 3.5X70 (BULK HOSE:
+34 ТРУБКА, 3,5X70 (ОБЪЕМНЫЙ ШЛАНГ:
 95001~35003-40M) ...cecceuceee|4&
 
-36 TUBE, 3.5X180 (BULK HOSE:
+36 ТРУБКА, 3,5X180 (ОБЪЕМНЫЙ ШЛАНГ:
 
 E14MBNE18
 
-1B BO
+1Б БО
 10 85
 
-ci
+ци
 
-CARBURETOR COMPONENT
+КОМПОНЕНТ КАРБЮРАТОРА
 
 ,
-a = Vevooees
+а = Вевоеес
 
-EF EIA
+ЭФ ОВОС
 
-Ret.
+В отставке.
 
-BLOCK NO.
+БЛОК №.
 
-No.
+Нет.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-13 TOP COMP, eee eee ee ee eee eee meme
+13 ТОП-КОМП, эээ-э-э-э-э-э-э-э-э-э мем
 
 .
 
-aockno,
+ок нет,
 
-het
+гет
 
-ole
+оле
 
-Q
+вопрос
 
 s s|A
 
-y
+й
 
-B
+Б
 
-Bic
+Бик
 
 E167|2
 
-DESCRIPTION
+ОПИСАНИЕ
 
-8/5]
+5/8]
 
-2 ee
+2 ее
 
-ENGINE
+ДВИГАТЕЛЬ
 
-scram Nomeen
+вырваться из Номина
 
-nom
+ням
 
-To
+Чтобы
 
 |
 
-eat ny rereeeeceeteserenenes ; | : i.
-GASKET SET
+ешьте ny reeeeeceeteserenenes; | : я.
+КОМПЛЕКТ ПРОКЛАДОК
 
-reeneeeeenerecereceee
+reneeeeenerecereceee
 
-| © leary NUMBER
+| © Лири НОМЕР
 
-iu cotocman-ey
+Айу Котокман-эй
 
-; shotocmae co
+; шотокмаэ ко
 
 |16010-MB4~622
 
@@ -12874,13 +12824,13 @@ iu cotocman-ey
 
 3911518
 
-5 {ac
+5 {ак
 
 4
 
 |16010-mB6~681
 
-2 VALVE SET, FLOAT ..sssssseeseneee 4
+2 КОМПЛЕКТ КЛАПАНОВ, ПОПЛАВОК ..ссссссееееее 4
 
 2076362
 
@@ -12892,7 +12842,7 @@ iu cotocman-ey
 
 1435254
 
-3 FLOAT SET
+НАБОР 3 ПОПЛАВКОВ
 
 5
 
@@ -12902,7 +12852,7 @@ iu cotocman-ey
 
 1261751
 
-4 CHAMBER SET, FLOAT ...... ceseeeee | 4: 5
+4-КАМЕРНЫЙ КОМПЛЕКТ, ПОПЛАВОК ...... ceseeeee | 4:5
 
 4
 
@@ -12910,7 +12860,7 @@ iu cotocman-ey
 
 1241769
 
-5 SCREW SETA ....ceceeeen veveseven
+5 ВИНТОВЫЙ НАБОР ....ceceeeen veveseven
 
 |
 
@@ -12922,7 +12872,7 @@ iu cotocman-ey
 
 1438027
 
-6 SCREWSETC .......00 biseeaeeese
+6 ВИНТЫTC .......00 бисмеееее
 
 4
 
@@ -12934,7 +12884,7 @@ iu cotocman-ey
 
 1261843
 
-7 PLATE SET, VALVE ...ccseseceeees [4
+КОМПЛЕКТ 7 ПЛАСТИН, КЛАПАН ...ccseseceeeees [4
 
 5
 
@@ -12944,7 +12894,7 @@ iu cotocman-ey
 
 1241884
 
-8 VALVE SET, STARTER seeseesssseeeny
+КОМПЛЕКТ 8 КЛАПАНОВ СТАРТЕР см-с-с-с-с-ее
 
 5
 
@@ -12954,7 +12904,7 @@ iu cotocman-ey
 
 1261892
 
-9 SPRING, FR. VACUUM PISTON .......14
+9 ВЕСНА, ПТ. ВАКУУМНЫЙ ПОРШЕНЬ.......14
 
 5
 
@@ -12962,9 +12912,7 @@ iu cotocman-ey
 
 |16050-MB0-671
 
-1241918
-
-10 SPRING, RR. VACUUM PISTON .......14
+124191810 ВЕСНА, РР. ВАКУУМНЫЙ ПОРШЕНЬ.......14
 
 5
 
@@ -12980,79 +12928,79 @@ iu cotocman-ey
 
 46
 
-& AMERICAN HONDA MOTOR COQ. LTD. 1993
+И АМЕРИКАНСКИЙ HONDA MOTOR COQ. ООО. 1993 год
 
-VF700S "84 ENGINE NO.; RC22E-2000008 TO 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+VF700S "84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-VF700S'8S ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S"85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC2ZE~2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'8S; RC22E-2100001 К 2103668
+VF700S"85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2ZE~2100001 ДО 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-A
+А
 
-E
+Э
 
-HONDA
+ХОНДА
 
-TO | Q [PART NUMBER
+ТО | В [НОМЕР ДЕТАЛИ
 4
 
-16 107-KE8-004
+16 107-КЭ8-004
 
-CARBURETOR ASV.
+КАРБЮРАТОР АСВ.
 
-as G10
+как G10
 
-CARBURETOR COMPONENT
+КОМПОНЕНТ КАРБЮРАТОРА
 
-48 C12
+48 С12
 
-CODE
+КОД
 
 CLUTOR LINK «44 Gio
 
 1241942
 
-CRANKCASE COVER,
+КРЫШКА КАРТЕРА,
 
-CRANKCASE COVER,
-L.
+КРЫШКА КАРТЕРА,
+Л.
 
 .
 
-R......
+Р......
 
-CRANKSHAFT .............
+КОЛЕНВАЛ............
 
 20
 
-B10
+Б10
 
-13 B6
+13 Б6
 
 30 63
 
 1540301
 
-CROSS SHAFT a a ee ed 42 cg
+КРЕСТОВОЙ ВАЛ a ee ed 42 cg
 
 1262023
 
-CYLINDE
-HEAD COVERR eh
+ЦИЛИНД
+ПОКРЫТИЕ ГОЛОВКИ, да
 
 |16108-ME5-671
 
 1365378
 
-CYLINDER
-HEAD Ae Bs
+ЦИЛИНДР
+ГОЛОВКА Ae Bs
 
-4: 5
+4:5
 
 4
 
@@ -13060,11 +13008,11 @@ HEAD Ae Bs
 
 1781087
 
-Croker
-MTR
-oo, 2B
+Крокер
+ССО
+оо, 2Б
 
-15 NEEDLE, FR. JET .eseeeseseeeeneee | 4 . 5
+15 ИГЛА, ФР. JET .eseeeseseeeeeneee | 4 . 5
 
 2
 
@@ -13072,11 +13020,11 @@ oo, 2B
 
 1781103
 
-GEARSHIFT DRUM .........
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ.......
 
-38 C7
-GEARSHIFT
-DRUM 38 C7
+38 С7
+ПЕРЕКЛЮЧЕНИЕ ПЕРЕДАЧ
+БАРАБАН 38 С7
 .
 
 4
@@ -13085,15 +13033,15 @@ DRUM 38 C7
 
 2
 
-116151-"B0-771
+116151-"Б0-771
 
 1317098
 
-O8 PAN ooo ever rnneees
+О8 ПАН ооо когда-нибудь
 
-OIL PAN .....02 000000...
+МАСЛЯНЫЙ ПОДДОН .....02 000000...
 
-23 B11
+23 Б11
 
 [5
 
@@ -13103,14 +13051,14 @@ OIL PAN .....02 000000...
 
 1781103
 
-PISTON
+ПОРШЕНЬ
 20000002
-ee.
-PISTON ooo
+э-э.
+ПОРШЕНЬ ооо
 
 30
-30 C3
-C3
+30 С3
+С3
 
 4
 
@@ -13122,15 +13070,15 @@ C3
 
 5
 
-TM
+ТМ
 
-JET, NEEDLE (F) oocc cccecseeues 1455
+СТРУЯ, ИГЛА (F) oocc cccecseeues 1455
 
 2
 
 |16131-MB3-881
 
-NEEDLE, RR. JET ceececeececeeeees 4
+ИГЛА, RR. JET ceececeeceeeees 4
 
 1782994
 
@@ -13142,10 +13090,10 @@ NEEDLE, RR. JET ceececeececeeeees 4
 
 5
 
-JET, NEEDLE (F) ..cceseseececcees 45
-KIO
+СТРУЯ, ИГЛА (F) ..cceseseececcees 45
+КИО
 
-SCREW, PAN, 4X10
+ВИНТ, КОВОРОД, 4X10
 
 .cesaccenceneces
 ....
@@ -13170,11 +13118,11 @@ J. ccceccesceseees
 
 1781152
 
-4's
+4-е
 
 16
 
-|93500-04010-0A
+|93500-04010-0А
 
 018835
 
@@ -13185,21 +13133,21 @@ J. ccceccesceseees
 [AC
 
 JET, MAIN #130 ..ccsececescssvee| 4
-JET,
+ДжЕТ,
 
-SECONDARY Mazn coro
+ВТОРИЧНОЕ Мазн Коро
 
 ,
 
-a0
+а0
 
-JET, SECONDARY MAIN, #130
+ЖУРЛЬ, ВТОРИЧНЫЙ ГЛАВНЫЙ, #130
 
-STA
+СТА
 
-as
+как
 
-lac
+лак
 
 |
 
@@ -13236,22 +13184,22 @@ lac
 
 317106
 
-3A
+3А
 
-25 JET, SLOW, #40 se eeeerererereees +9
+25 JET, SLOW, №40 см. +9
 
-16 BB
-22 Bl)
+16 ББ
+22 Бл)
 
-THERMOSTAT .............
+ТЕРМОСТАТ .............
 
-40 C8
+40 С8
 
-WATER PPE I ab
+ВОДЯНЫЕ СИЗ I ab
 
-WATER PUMP
+ВОДЯНОЙ НАСОС
 
-|| |WATER PUMP
+|| |ВОДЯНОЙ НАСОС
 
 .....
 
@@ -13261,11 +13209,11 @@ WATER PUMP
 
 7
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
-10 BS
+10 БС
 
-TRANSMISSION 00, 36 C6
+ТРАНСМИССИЯ 00, 36 С6
 
 1390491
 
@@ -13273,65 +13221,65 @@ TRANSMISSION 00, 36 C6
 
 >
 
-STARTER CLUTCH .........
+СТАРТЕРНАЯ МУФТА.......
 
 9
 
 16 |93892-04016-00
 
-23 B11
+23 Б11
 
-STARTER MOTOR .........
+СТАРТЕР МОТОР.......
 
-TENSIONER «20... ss,
+НАТЯЖИТЕЛЬ «20...сс,
 
 1781129
 
 2
 
-22 JET, MAIN, #98 ....ssseseeeeeees 4 5 lac
+22 JET, MAIN, #98 ....ссссеееееееес 4 5 лак
 
-C12
+С12
 
-a
+а
 
 3 | 16053-MB0-671
 
 JET, MAIN, #122 ceeceeccececesee 45 A
 
-veosote
+веозот
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-BS
+БС
 
-10 °
+10°
 
 &
 
-21 JET, MAIN, #95
+21 ЖУРНАЛ, ГЛАВНЫЙ, #95
 
-ssuet
+проблема
 
 4
 
-11 SPRING ...sceeceeee res
+11 ВЕСНА ...посмотрите в разрешении
 
-4 ' 5
+4 '5
 
-20 SCREW-WASHER, 4X16 ...ssceeceeee 45
+20 ВИНТ-ШАЙБА, 4X16 ...ssceeeee 45
 
-|ac
+|ас
 
 4
 
 5
 
-CODE
+КОД
 
 5
 
-...cccesceseceeces veel
+...cccescecececes veel
 
 &
 
@@ -13341,183 +13289,181 @@ CODE
 
 4
 
-GASKET SET
+КОМПЛЕКТ ПРОКЛАДОК
 
-FROM
+ОТ
 
-18 HOLDER, JET NEEDLE .......20.e00 4
+18 ДЕРЖАТЕЛЬ СТРУЙНОЙ ИГЛЫ .......20.e00 4
 
 .....cscsseseeeeeeees
 
-GASKET SET ..cceseseesenecceceee 4
+КОМПЛЕКТ ПРОКЛАДОК ..cceseseesenecceceee 4
 
-4 5]E]
+4 5]Е]
 
-soma
+сома
 
 :
 
-VGASKET SET .----eeeeseeesererse 4 3)A
+КОМПЛЕКТ ПРОКЛАДОК .----eeeeeeeserse 4 3)A
 
-__ ENGINE
+__ ДВИГАТЕЛЬ
 
-rf
+рф
 
 18
 
-CAM CHAIN ...............
+КУЛАЧКОВАЯ ЦЕПЬ..........
 
 5
 
-17 HOLDER, JET NEEDLE ......eseceeee
+17 ДЕРЖАТЕЛЬ СТРУЙНОЙ ИГЛЫ ......см.
 
 8
 
-Y
+Да
 
-a.8/C|
+а.8/С|
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
+ГЕНЕРАТОР .............
 
-TOP COMP. eeeeeeeeceersrseeeere | &
+ТОП КОМП. эээээээээээээээээээээ | &
 
 ——
 
-7 71R
+7 71Р
 
-Ss
+сс
 
-TITLE
+НАЗВАНИЕ
 
 |16107-mB0-671
 
-JET, NEEDLE (F) cc cnc recensccnese
+СТРУЯ, ИГЛА (F) cc cnc recenccnese
 
 0
 
-T
+Т
 
-A
+А
 
 4
 
-16 NEEDLE, FR.JET sessseveseeserens
+16 ИГЛА, FR.JET sessseveseeserens
 
-S = VF700S'85
+С = ВФ700С'85
 
 0
 
 5
 
-NEEDLE, RR. JET veeeeseveeresee|
+ИГЛА, RR. JET вееееееерезее|
 
-Vivi,
+Виви,
 
-Q
+вопрос
 
-0
+0ТОП КОМП. ..sseceseeeseverecnsee| 4
+14 ПОРШНЕВОЙ КОМП., ВАКУУМ ..еееееесен[
 
-TOP COMP. ..sseceseeeseverecnsee| 4
-14 PISTON COMP., VACUUM ..eseeeesene[
-
-4 = VF700S'84
+4 = ВФ700С'84
 
 6048
-S
+С
 
 &-18-114 55
 
-12 SPRING saceccenenccverecssevecse|
+12 ВЕСНА saceccenenccverecssevecse|
 
 |
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-Viv
+Вив
 
 49
 
-GRID
+СЕТКА
 
-C12
+С12
 
-20 B10
+20 Б10
 
-GASKET KIT A
+КОМПЛЕКТ ПРОКЛАДОК А
 
-GASKET KIT B
+КОМПЛЕКТ ПРОКЛАДОК Б
 
-CONTENTS
-TITLE
+СОДЕРЖАНИЕ
+НАЗВАНИЕ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-ALTERNATOR .............
-CAM CHAIN ...............
+ГЕНЕРАТОР .............
+КУЛАЧКОВАЯ ЦЕПЬ..........
 
-18 B9
-10 BS
+18 Б9
+10 БС
 
-CARBURETOR ASSY........
-CARBURETOR COMPONENT
-CARBURETOR LINK ........
-CLUTCH ....0. 0000.00...
+КАРБЮРАТОР В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА........
+СЦЕПЛЕНИЕ ....0. 0000.00...
 
 44
 48
 44
 14
 
-CAMSHAFT ...............
+РАСПРЕДВАЛ..........
 
-4 = VF700S'84
+4 = ВФ700С'84
 
 ¥
 
-o = E7008 8S
+о = E7008 8S
 
-7 7 \R
+7 7 \р
 
-v
+в
 
-A
+А
 
 4 = VF700S8’84
 
-0: §sOl,
+0: §sОл,
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-EOP-1/4
+ЭОП-1/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
 4
 
-B/C
+Б/К
 
 5
 
-e
+е
 
-S51/E
+С51/Е
 
-V : V
+В: В
 
 6 _VF700S'8S
 
-;Y
+;Д
 
-S$
+сингапурских долларов
 8
 
-NOKL
+НОКЛ
 
 _
 
@@ -13537,72 +13483,72 @@ _
 30
 16
 
-STARTER MOTOR .........
+СТАРТЕР МОТОР.......
 
-22 B11
+22 Б11
 
-THERMOSTAT .............
-TRANSMISSION ...........
+ТЕРМОСТАТ .............
+ТРАНСМИССИЯ............
 
-40 C8
-36 C6
+40 С8
+36 С6
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-R
+Р
 
-0 Ok
+0 ОК
 
-HONDA
+ХОНДА
 
-Ref
+Ссылка
 
-FROM
+ОТ
 
-Q |PART NUMBER
+Q |НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
 8
 
-8B
+8Б
 
-c
+с
 
-EOP-2/4
+ЭОП-2/4
 
 5
 
-D
+Д
 
-DESCRIPTION
+ОПИСАНИЕ
 
 S57E
 
 ¢
-Y
+Да
 
-ENGINE
+ДВИГАТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-a
+а
 
-FROM
+ОТ
 
-Q
+вопрос
 
-TO
+ТО
 
-HONDA
+ХОНДА
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 5
 
@@ -13612,9 +13558,9 @@ CODE
 
 0688887
 
-1 GASKET, OIL PAN ....ecccessccuces
+1 ПРОКЛАДКА МАСЛЯНОГО ПОДДОНА ....ecccessccuces
 
-2 GASKET, CYLINDER HEAD ....... weeel
+2 ПРОКЛАДКА ГОЛОВКИ ЦИЛИНДРА ....... колесо
 
 4 ! 5
 
@@ -13632,7 +13578,7 @@ CODE
 
 1240977
 
-2 GASKET, R. COVER ...ecccsseese wel
+2 ПРОКЛАДКА ПРАВОЙ КРЫШКИ ...см.см.
 
 4
 
@@ -13644,7 +13590,7 @@ CODE
 
 1240860
 
-3 GASKET, HEAD COVER .....sccsceee,
+3 ПРОКЛАДКА КРЫШКИ ГОЛОВКИ .....scccceee,
 
 4
 
@@ -13656,15 +13602,15 @@ CODE
 
 1241017
 
-3 GASKET, ALTERNATOR COVER ........
+3 ПРОКЛАДКА КРЫШКИ ГЕНЕРАТОРА ........
 
-4.5
+4,5
 
 1
 
 111636-MB0-000
 
-GASKET, HEAD COVER .....ccceccees
+ПРОКЛАДКА, КРЫШКА ГОЛОВКИ .....cccceees
 
 1240886
 
@@ -13678,7 +13624,7 @@ GASKET, HEAD COVER .....ccceccees
 
 2094035
 
-4 GASKET, INDICATOR SWITCH COVER ..|
+4 ПРОКЛАДКА, КРЫШКА ПЕРЕКЛЮЧАТЕЛЯ ИНДИКАТОРА ..|
 
 4
 
@@ -13688,7 +13634,7 @@ GASKET, HEAD COVER .....ccceccees
 
 | 11642-MB0-000
 
-4 GASKET A, EX. PIPE ...cccceeesees
+4 ПРОКЛАДКА А, EX. ТРУБА ...cccceeeees
 
 1240902
 
@@ -13702,9 +13648,9 @@ GASKET, HEAD COVER .....ccceccees
 
 0028241
 
-5 WASHER, DIL BOLT .....cececececes 4
+5 ШАЙБА, БОЛТ .....cececececes 4
 
-5 GASKET, SIDE GEAR CASE .......005
+5 ПРОКЛАДКА БОКОВОГО КОРПУСА РЕДУКТОРА .......005
 
 5
 
@@ -13724,7 +13670,7 @@ GASKET, HEAD COVER .....ccceccees
 
 0189902
 
-6 INSULATOR, CLUTCH SLAVE CYLINDER | 4
+6 ИЗОЛЯТОР РАБОЧЕГО ЦИЛИНДРА СЦЕПЛЕНИЯ | 4
 
 5
 
@@ -13740,8 +13686,8 @@ GASKET, HEAD COVER .....ccceccees
 
 1425602
 
-T WASHER, 11MM... seceeeeeusceeens
-8 GASKET, CONNECTING CAP .......00
+Т-ШАЙБА, 11 ММ... см.
+8 ПРОКЛАДКА СОЕДИНИТЕЛЬНОЙ КРЫШКИ.......00
 
 4
 5
@@ -13751,12 +13697,12 @@ T WASHER, 11MM... seceeeeeusceeens
 2
 
 }90425-300-000
-191301-"B0-000
+191301-"Б0-000
 
 0189795
 4243880
 
-9 O-RING, 18.3X2.3 (ARAL) ....se008|
+9 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 18,3X2,3 (ARAL)....se008|
 
 4 | 5
 
@@ -13768,7 +13714,7 @@ T WASHER, 11MM... seceeeeeusceeens
 
 1005453
 
-10 O-RING, 22X3.0 crsseeeecseeeeeee | 4
+10 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 22X3,0 crsseeeeecseeeeeeee | 4
 
 5
 
@@ -13778,7 +13724,7 @@ T WASHER, 11MM... seceeeeeusceeens
 
 0035287
 
-O-RING, 22X3.0 wsccecncacncescee|
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 22X3,0 wsccecncacncescee |
 
 4
 
@@ -13790,7 +13736,7 @@ O-RING, 22X3.0 wsccecncacncescee|
 
 1216126
 
-11 O-RING, 32.95X2.62 (ARAI) ....-..)4
+11 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 32,95X2,62 (ARAI) ....-..)4
 
 5
 
@@ -13800,7 +13746,7 @@ O-RING, 22X3.0 wsccecncacncescee|
 
 9635116
 
-12 O-RING, 58X2
+12 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 58X2
 
 5
 
@@ -13820,7 +13766,7 @@ O-RING, 22X3.0 wsccecncacncescee|
 
 1260835
 
-14 O-RING, 14.6X3.7 (ARAL) ......0.214
+14 КОЛЬЦО УПЛОТНИТЕЛЬНОЕ, 14,6Х3,7 (АРАЛ)......0,214
 
 5
 
@@ -13830,7 +13776,7 @@ O-RING, 22X3.0 wsccecncacncescee|
 
 1260843
 
-15 O-RING, 18.5X2.4 (ARAI) .csccccee | 4 5
+15 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 18,5X2,4 (ARAI).csccccee | 4 5
 
 1
 
@@ -13840,234 +13786,232 @@ O-RING, 22X3.0 wsccecncacncescee|
 
 ..eccceesenecseenee | 4
 
-13 O-RING, 5.7X2.2 CARAT) .osceeeeee|
+13 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 5,7X2,2 КАРАТА).osceeeeeee|
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
 
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22z-2002575 TO 2006097
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22z-2002575 ТО 2006097
 
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-bi
+би
 
-© AMERICAN HONDA MOTOR CO. LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
 51
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 To FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 К FM102800
 
-VF700S'85 ENGINE NO.: RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221~FM100001 TO FM 100863
+VF700S'85 НОМЕР ДВИГАТЕЛЯ: RC22E-2100001 ДО 2103285
+VF700S'85 НОМЕР РАМЫ; RC221~FM100001 К FM 100863
 
-20 B10
-B6
+20 Б10
+Б6
 63
-Co
-C1
-B11
-BI
-B3
-D1
-D1
-C7
-B11
-B11
-B11
-C3
-B8
+Ко
+С1
+Б11
+БИ
+Б3
+Д1
+Д1
+С7
+Б11
+Б11
+Б11
+С3
+Б8
 
-16 B8
-10 BS
+16 Б8
+10 БС
 
-8 B4
+8 Б4
 
-WATER
-PUM
-LT. 28 Ste
+ВОДА
+ПУМ
+LT. 28 Ст.
 
-1 SEAL, VALVE STEM ...ccecueccvcece 4
+1 УПЛОТНЕНИЕ ШТОКА КЛАПАНА ...ccecueccvcece 4
 
-6 O-RING, 21.552 .escesceeeceecees
+6 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 21.552 .escesceeeceeecees
 
 50
 
 4
 
-TENSIONER ...............
+НАТЯЖИТЕЛЬ ..............
 
 7.)
-|
+|сс
 
-ss
+ДВИГАТЕЛЬ
 
-ENGINE
+ТО
 
-TO
+А
 
-A
+7 7 1р
 
-7 7 1R
+С10
+С12
+С10
+стр.7
 
-C10
-C12
-C10
-p7
+КРЫШКА КАРТЕРА,L ....
+КРЫШКА КАРТЕРА, FAL....
+КОЛЕНВАЛ............
+КРЕСТОВОЙ ВАЛ............
+БЛОК ЦИЛИНДРОВ.......
+ЦИЛИНДР
+ПОКРЫТИЕ ГОЛОВКИ
+ЭР...
+ГОЛОВКА ЦИЛИНДРА, ПТ........
+ГОЛОВКА ЦИЛИНДРА,ЗАД ......
+КОМПЛЕКТ ПРОКЛАДОК.............
+КОМПЛЕКТ ПРОКЛАДОК B....0000.0...
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ.......
+МАСЛЯНЫЙ ФИЛЬТР 00.
+ПОДДОН МАСЛЯНЫЙ 220.0...00...оэ.
+МАСЛЯНЫЙ НАСОС 200000000000...
+ПОРШЕНЬ .о 00.0. оол.
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ......
 
-CRANKCASE COVER,L ....
-CRANKCASE COVER, FAL....
-CRANKSHAFT .............
-CROSS SHAFT ............
-CYLINDER BLOCK .........
-CYLIND
-HEAD COVER
-ER ...
-CYLINDER HEAD, FR........
-CYLINDER HEAD,RR ......
-GASKET KITA.............
-GASKET KIT B....0000.0...
-GEARSHIFT DRUM .........
-OIL FILTER 00.
-OIL PAN 220.0... 00... oe.
-OIL PUMP 200000000000...
-PISTON .o 00.0. ool.
-PULSE ALTERNATOR ......
+СТАРТЕРНАЯ МУФТА.......
 
-STARTER CLUTCH .......
+НОЛЛ
 
-NOLL
+8 Б4
 
-8 B4
+СЕТКА
 
-GRID
+Д1
 
-D1
+КОМПЛЕКТ ПРОКЛАДОК Б
 
-GASKET KIT B
+4 = ВФ700С'84
 
-4 = VF700S'84
+ВВ
+ОВОС
+Ф
 
-VV
-EIA
-F
+5 = ВФ700С'85
 
-5 = VF700S'85
-
-6 oleE
-O
+6 олеЕ
+О
 
 8
 4
 
-gI/C
+гИ/К
 512
 
-ENGINE
-SERIAL NUMBER
+ДВИГАТЕЛЬ
+СЕРИЙНЫЙ НОМЕР
 
-R
+Р
 
 4
 
-5]E£1]
+5]E £ 1]
 
-FROM
+ОТ
 
-Q
+вопрос
 
-s s|4
+с с | 4
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-EOP-2
+ЭОП-2
 
-TITLE
-ALTERNATOR
+НАЗВАНИЕ
+ГЕНЕРАТОР
 
-Q
+вопрос
 
 0
 
-TO
+ТО
 
-T
-Y
+Т
+Да
 
-CAM CHAIN...
-CAMSHAFT
+КУЛАЧКОВАЯ ЦЕПЬ...
+РАСПРЕДВАЛ
 
-E
+Э
 
-...............
+..............
 
-CARBURETOR ASSY........
-CARBURETOR COMPONENT
-CARBURETOR LINK...
-CLUTCH 0.00. ow...
-CRANKCASE COVER,
-L.
+КАРБЮРАТОР В СБОРЕ........
+КОМПОНЕНТ КАРБЮРАТОРА
+ТРУБА КАРБЮРАТОРА...
+СЦЕПЛЕНИЕ 0.00. оу...
+КРЫШКА КАРТЕРА,
+Л.
 
-HONDA
+ХОНДА
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-PAGE GRID
-. 18 B89
+СЕТКА СТРАНИЦ
+. 18 Б89
 
-CODE
+КОД
 
-CRANKCASE COVER, R.
+КРЫШКА КАРТЕРА, П.
 
-CRANKSHAFT .............
+КОЛЕНВАЛ............
 
-CROSS SHAFT
+КРЕСТОВОЙ ВАЛ
 
-CYLINDER BLOCK .........
-CYLINDER HEAD COVER
-CYUNDER HEAD, FR...
-CYLINDER HEAD.RR ......
-GASKET KITA.............
-GASKET KITB.....00......
-GEARSHIFT DRUM 0...
-OL FILTER .....00000...
-OM PAN ow...
-OH PUMP 8...
+БЛОК ЦИЛИНДРОВ.......
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА
+САЙНДЕР ХЕД, ФРАНЦУЗ...
+ГОЛОВКА ЦИЛИНДРА.RR ......
+КОМПЛЕКТ ПРОКЛАДОК.............
+КОМПЛЕКТ ПРОКЛАДОК.....00......
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ 0...
+ОЛ ФИЛЬТР .....00000...
+ОМ ПАН ой...
+ОХ НАСОС 8...
 
-PULSE ALTERNATOR
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР
 
-NOLL
+НОЛЛ
 
-5 = VF7008'85
+5 = ВФ7008'85
 =
 
-’
+'
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-$s
+$с
 
 8
 
-g|Cc
+г|Кк
 
-EOP-2]4
+ЭОП-2]4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-16 O-RING, 14.7X2.2 (ARAI) ......00-
+16 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 14,7X2,2 (ARAI) ......00-
 
 4
 
@@ -14075,21 +14019,21 @@ DESCRIPTION
 
 °
 
-51€E
+51€Е
 
 45
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-a
+а
 
-FROM
+ОТ
 
-Q
+вопрос
 
-1|PART NUMBER
+1|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 1
 
@@ -14109,7 +14053,7 @@ CODE
 
 1260876
 
-18 O-RING, 3X70 ..cecececececeevers 4
+18 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 3X70 ..cecececececeevers 4
 
 5
 
@@ -14127,11 +14071,11 @@ CODE
 
 0483826
 
-O-RING, 70X3
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 70X3
 
-.essesescecceceeeee
+.essesesceccceceeeee
 
-19 SEAL, WATER PIPE ......csessseees
+19 УПЛОТНЕНИЕ ВОДЯНОЙ ТРУБЫ ......см.
 
 4
 
@@ -14141,7 +14085,7 @@ O-RING, 70X3
 
 |91315-mB0-013
 
-20 O-RING, 13X2.5 ...ceececeeseeces 45
+20 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 13X2,5 ...ceececeeseeces 45
 
 1435239
 
@@ -14151,7 +14095,7 @@ O-RING, 70X3
 
 0422428
 
-21 WASHER, DRAIN PLUG, 12MM ........
+21 ШАЙБА, СЛИВНАЯ ПРОБКА, 12ММ ........
 
 1
 
@@ -14163,17 +14107,17 @@ O-RING, 70X3
 
 45
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
 
-VF700S'84 FRAME NO. ; RC220~EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221~EM000006 TO EM001081
+VF700S'84 № РАМЫ. ; RC220~EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221~EM000006 ДО EM001081
 
-26 C1
-2 Bl
-3 BI
+26 С1
+2 бл.
+3 БИ
 
 6
 §0
@@ -14183,101 +14127,99 @@ VF700S'84 FRAME NO.; RC221~EM000006 TO EM001081
 23
 23
 
-B3
-DI
-D1
-C7
-B11
-B11
-B11
+Б3
+ДИ
+Д1
+С7
+Б11
+Б11
+Б11
 
 16 B&
 
 10
 
-HONDA
+ХОНДА
 
 |91313-MB0-003
 
 ..ccceseecececnes
 
-42 C9
+42 С9
 
-TENSIONER ...............
+НАТЯЖИТЕЛЬ ..............
 
-Y
+Да
 
 1
 
-17 O-RING, 18X2.8
+17 УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 18X2,8
 
-13 B6
+13 Б6
 30
 
-16 BS
-22 B11
+16 БС
+22 Б11
 
-ENGINE
+ДВИГАТЕЛЬ
 
 5
 
-O-RING, 14.8X2.2 ..eseeeeeseeees 4
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 14,8X2,2 ..смееееееееее 4
 
-20 B10
+20 Б10
 
-BS
+БС
 
-8 B4
+8 Б4
 
-WATER PIPE ............. 40 C8
-WATER PUMP... 20 B10
+ВОДОПРОВОД...........40 С8
+ВОДЯНОЙ НАСОС... 20 B10
 
-Q
-TO
+вопрос
+ТО
 
-C10
-C12
-C10
+С10
+С12
+С10
 67
 
-STARTER CLUTCH...
-STARTER MOTOR .........
+СТАРТЕРНАЯ МУФТА...
+СТАРТЕР МОТОР.......
 
-VALVE... 00...
+КЛАПАН... 00...
 
-0 O18
+0 О18
 
-$s
+$с
 
-8 B4
+8 Б4
 
 44
 48
 44
 14
 
-THERMOSTAT............. 40 C8
-TRANSMISSION ........... 36 C6
+ТЕРМОСТАТ...........40 С8
+ТРАНСМИССИЯ...........36 С6
 
-VV
+ВВ
 
-PF FIA
+ПФ ФИА
 
-10 B5
+10 Б5
 
-© AMERICAN HONDA MOTOR CO. LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
 53
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
 
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
 
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-GRID
+СЕТКА
 
-D2
-
-
+Д2

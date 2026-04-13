@@ -1,385 +1,383 @@
 7-1
 
-Chapter 7
-Brakes, wheels and tires
+Глава 7
+Тормоза, колеса и шины
 
-Note: Uniess specifically mentioned
-in this Chapter, the information
-given for the 1962 750 Sabre applies to the UK VF750S-C, and that for the 1987 and
-1988 700/750 Magnes applies to the
-UK VF750C-H and C-Jrespectively.
+Примечание: специально упомянута Юнисс.
+в этой главе информация
+данные для 750 Sabre 1962 года применимы к британскому VF750S-C, а для 1987 и 1987 годов.
+1988 700/750 Магнес относится к
+Великобритания VF750C-H и C-J соответственно.
 
-Contents
+Содержание
 
-‘Section
+«Раздел
 
-See
+См.
 
-Brake fluid level check.
+Проверка уровня тормозной жидкости.
 
-Chapter 1
+Глава 1
 10
 
-See
+См.
 
-‘Chapter 1
+«Глава 1
 
-Brake system bleeding
+Прокачка тормозной системы
 1
 
-Front brake caliper- removal, overhaul and installation.
+Суппорт переднего тормоза- снятие, ремонт и установка.
 3
 
-Front brake disc(s)- inspection, removal and installation.
+Передние тормозные диски – осмотр, снятие и установка.
 4
 
-Front
+Фронт
 
-brake
+тормоз
 
-master
+мастер
 
-cylinder
+цилиндр
 
 -
 
-removal,
+удаление,
 
-overhaul
-and installation.
+капитальный ремонт
+и установка.
 
-Front brake pads - replacement.
+Передние тормозные колодки – замена.
 2
-Front wheel
-- removal and installation,
+Переднее колесо
+- снятие и установка,
 
 1
 
-Rear brake caliper (1100 models) - removal,
+Задний тормозной суппорт (модели 1100) – снятие,
 
-Brake hoses - inspection and replacement.
+Тормозные шланги – проверка и замена.
 
-Brake padilining wear check.
+Проверка износа тормозных накладок.
 
 15
 
-General information.
-overhaul
+Общая информация.
+капитальный ремонт
 
-and installation.
+и установка.
 
-t
+т
 
-Rear brake disc (1100 models)- inspection, removal
-‘and installation,
+Задний тормозной диск (модели 1100) – осмотр, снятие
+'и установка,
 
-es
+эс
 
 8
 
-Rear brake master cylinder (1100 models) - removal,
+Главный тормозной цилиндр заднего тормоза (модели 1100) – снятие,
 
-overhaul
-and installation,
+капитальный ремонт
+и установка,
 
-Rear brake pads (1100 models)- replacement.
+Задние тормозные колодки (модели 1100)- замена.
 
 6
 
-Rear drum
+Задний барабан
 
-brake (700/750 models) - removal,
+тормоз (модели 700/750) – снятие,
 
-inspection
-and installation,
+инспекция
+и установка,
 12
 
-Rear wheel- removal and installation.
+Заднее колесо – снятие и установка.
 16
 
-Tires and wheels - general
+Шины и диски – общие сведения
 
-Chapter1
+Глава 1
 
-check..
+проверь..
 
-‘Tubeless tires - general information.
+«Бескамерные шины – общая информация.
 18
 
-Wheels- alignment check.
+Колеса – проверка сход-развала.
 14
 
-‘Wheels - inspection and repair.
+«Колеса - осмотр и ремонт.
 1
 
-Wheel bearings - removal, inspection and installation.
+Ступичные подшипники - снятие, проверка и установка.
 7
 
-See
+См.
 
 7-2
 
-Chapter7
+Глава 7
 
-Brakes, wheels and tires
+Тормоза, колеса и шины
 
-Specifications.
+Технические характеристики.
 
-Disc brakes
+Дисковые тормоза
 
-Brake fluid type..
+Тип тормозной жидкости..
 
-Disc thickness (front brake)
-New
+Толщина диска (передний тормоз)
+Новый
 
-1986 700 Magna model.
+Модель 700 Magna 1986 года.
 
-All other models,
+Все остальные модели,
 
-‘Service mit.
+«Служба мит.
 
-Disc thickness (rear brake)
-New
+Толщина диска (задний тормоз)
+Новый
 
-1986 1100 Magna model
+Модель 1100 Магна 1986 года.
 
-‘See Chapter 1
-4.5
-t05.2mm
-(0.18
-to 0.20 in)
+«Смотрите главу 1
+4,5
+т05,2мм
+(0,18
+до 0,20 дюйма)
 
-4.8t05.2mm (0.1910 0.20 in)
-4.0mm (0.20in)
+4,8–05,2 мм (0,1910 0,20 дюйма)
+4,0 мм (0,20 дюйма)
 
-7.1 to7.7 mm (0.280 to 0:303 in)
+От 7,1 до 7,7 мм (от 0,280 до 0:303 дюйма)
 
-Other 1100 models,
+Другие модели 1100,
 
 6:9107.1
-mm
-(0.272 to 0.280 in)
+мм
+(от 0,272 до 0,280 дюйма)
 
-1986 1100 Magna model
+Модель 1100 Магна 1986 года.
 
-6.6mm (0.26in)
+6,6 мм (0,26 дюйма)
 
-‘Service limit
+«Лимит обслуживания
 
-Other 1100 models,
+Другие модели 1100,
 
-Disc maximum runout
+Максимальное биение диска
 
 6.0
-mm (0.24 in)
+мм (0,24 дюйма)
 
-0.3mm (0.012 in)
+0,3 мм (0,012 дюйма)
 
-Caliper bore 1D
+Отверстие суппорта 1D
 
-Front (700/750 models)
+Передняя часть (модели 700/750)
 
-New.
+Новый.
 
-Service limit
+Лимит обслуживания
 
-Front (1100 models)
+Передняя часть (модели 1100)
 
-New.
+Новый.
 
-Service limt
+Лимит обслуживания
 
-Rear
+Задний
 
-(1100 models)
+(1100 моделей)
 
-30.23 to 30.28 mm (1.1902 to 1.1921 in)
-30.29mm
-(1.1925 in)
+От 30,23 до 30,28 мм (от 1,1902 до 1,1921 дюйма)
+30,29 мм
+(1,1925 дюйма)
 
-32.03 to 32.08 mm (1.2610 to 1.2630 in)
+От 32,03 до 32,08 мм (от 1,2610 до 1,2630 дюйма)
 32.09
-mm (1.263 in)
+мм (1,263 дюйма)
 
-New.
+Новый.
 
-30,23 to 30.28
-mm
-(1.1902
-to
-1.1921 in)
+30,23 до 30,28
+мм
+(1,1902
+чтобы
+1,1921 дюйма)
 
-Ne
+Не
 
-‘30.148
-to
-30.198 mm (1.1869 to 1.1889
-in)
+'30.148
+чтобы
+30,198 мм (от 1,1869 до 1,1889
+в)
 
-Service limit
-Caliper piston OD
-Front (700/750 models)
-Service limit
+Лимит обслуживания
+Поршень суппорта, наружный диаметр
+Передняя часть (модели 700/750)
+Лимит обслуживания
 
-Front (1100 models)
+Передняя часть (модели 1100)
 
-New.
+Новый.
 
-Service limit
-Rear (1100 models)
+Лимит обслуживания
+Задняя часть (модели 1100)
 
-New.
-Service limit
+Новый.
+Лимит обслуживания
 
-Front master cylinder bore 1D
+Отверстие главного переднего цилиндра 1D
 
-1982 through 1986 models
-New.
-Service limit
-1987
-and 1988 700/750 models
-New...
+Модели 1982–1986 годов.
+Новый.
+Лимит обслуживания
+1987 год
+и модели 700/750 1988 г.
+Новый...
 
-Service limit.
-Front master cylinder piston OD
-1982 through 1986 models
-New.
-Service limit...
-41987 and 1988 700/750 models
-New.
-Service limit.
+Лимит обслуживания.
+Внешний вид поршня переднего главного цилиндра
+Модели 1982–1986 годов.
+Новый.
+Лимит обслуживания...
+Модели 41987 и 1988 годов 700/750
+Новый.
+Лимит обслуживания.
 
-Rear master cylinder bore ID (1100 models)
+Идентификатор отверстия заднего главного цилиндра (модели 1100)
 
 30.29
-mm (1.193 in)
+мм (1,193 дюйма)
 
-30.14 mm (1.1866 in)
+30,14 мм (1,1866 дюйма)
 
-‘31.948 to.31.998
-mm (1.2578
-to 1.2598 in)
-31.94 mm
-(1.258 in)
+от 31,948 до 31,998
+мм (1,2578
+до 1,2598 дюйма)
+31,94 мм
+(1,258 дюйма)
 
 30.148
-to 30.198
-mm (1.1869 to 1.1889 in)
+до 30.198
+мм (от 1,1869 до 1,1889 дюйма)
 38.090
-mm (1.500 in)
+мм (1500 дюймов)
 15.870
-to 15.913 mm (0.6248 to
+до 15,913 мм (от 0,6248 до
 
-0.6268 in)
+0,6268 дюйма)
 
-15.93 mm (0.6272 in)
+15,93 мм (0,6272 дюйма)
 
-12.700 to 12.743 mm (0.500 to 0.5016 in)
-12.755
-mm
-(0.502 in)
+От 12,700 до 12,743 мм (от 0,500 до 0,5016 дюйма)
+12,755
+мм
+(0,502 дюйма)
 
-15.827
-to
-15.854 mm (0.6231 to 0.6242
-in)
-15.82mm (0.6228 in)
-12.657 to 12.684 mm (0.498 to 0.499 in)
+15,827
+чтобы
+15,854 мм (от 0,6231 до 0,6242
+в)
+15,82 мм (0,6228 дюйма)
+От 12,657 до 12,684 мм (от 0,498 до 0,499 дюйма)
 12.64
-mm (0.4985
-in)
+мм (0,4985
+в)
 
-‘New.
+«Новый.
 
-14,000
-to 14.043 mm (0.5512 to 0.5529 in)
+14 000
+до 14,043 мм (от 0,5512 до 0,5529 дюйма)
 
-Service limt.
+Лимит обслуживания.14,06 мм (0,553 дюйма)
 
-14.06 mm (0.553 in)
+Внешний диаметр заднего главного поршня (модели 1100)
+Новый...
+Лимит обслуживания
 
-Rear master piston OD (1100 models)
-New...
-Service limit
+От 13,957 до 13,984 мм (от 0,5495 до 0,5506 дюйма)
+13,9
+мм
+(0,5495
+в)
 
-13.957 to 13.984 mm (0.5495 to 0.5506 in)
-13.9
-mm
-(0.5495
-in)
+Барабанный тормоз
+Толщина накладки тормозной колодки
+Лимит обслуживания.
 
-Drum brake
-Brake shoe lining thickness
-Service limit.
+Идентификатор тормозного барабана
 
-Brake drum ID
+от 49 до 5,0 мм (0,19т00,20
+в)
+2,0 мм (0,08
+в)
 
-49 to 5.0 mm (0.19t00.20
-in)
-2.0 mm (0.08
-in)
+{06С
+на Mage Cas
+Чувствую это
 
-{06S
-on Mage cas
-Sens it
+От 180,0 до 180,3 мм (7,09–07,10 дюйма)
+181 мм (7,13 дюйма)
 
-180.0 to 180.3 mm (7.09 07.10 in)
-181 mm (7.13 in)
+От 160,0 до 160,3 мм (6:30–0 6,31 дюйма)
+161 мм (6,34
+в)
 
-160.0 to 160.3 mm (6:30t0 6.31 in)
-161 mm (6.34
-in)
-
-Chapter
-7 Brakes, wheels and tires
+Глава
+7 Тормоза, колеса и шины
 
 73
 
-Wheels
-Maximum wheel runout (ront and rear) Axial (side-to-
+Колеса
+Максимальное биение колеса (переднее и заднее) Осевое (из стороны в сторону)
 
-side).
+сторона).
 
-20mm (008in)
+20 мм (008 дюймов)
 
-Racal (outot-round),
-Maximum axle runout (front and rear).
+Ракал (вне раунда),
+Максимальное биение оси (передней и задней).
 
-20 mm (008
-in)
-(02mm (001 in)
+20 мм (008
+в)
+(02 мм (001 дюйм)
 
-Tires:
+Шины:
 
-Tire pressu
-Tue sizes
-Front.
-Rear.
+Давление в шинах
+Размеры вторника
+Фронт.
+Задний.
 
-See Chapter 1
-12060VR170r1200602R17
+См. главу 1.
+12060ВР170р1200602Р17
 160060
 VR
-17 or 16060
+17 или 16060
 
-Torque settings
+Настройки крутящего момента
 
-Nm
+Нм
 
-ft.
+футов
 
 25030
 
 180
 
 3040
-2025
+2025 год
 —25%030
-—Notavallable
+—Недоступно
 
 2
 140
-18t0
+18т0
 
 301040
 045
@@ -393,71 +391,71 @@ ft.
 710 10
 2»
 
-zRiT
+зРиТ
 
-Ibs
+Ибс
 
-Brag caper to bracket bots Al Sabre models and 1962 hough
-11984 700/750 Magna
+Хвастовство с креплением ботов моделей Al Sabre и хаф 1962 года.
+11984 700/750 Магна
 
-‘Upper bot.
+«Верхний бот.
 2
 
-Lower bot.
+Нижний бот.
 
-20025
+20025 г.
 
 8
 
-1985 and 1986 700 Magna models
+Модели 700 Magna 1985 и 1986 годов
 
-Upper bot.
-Lower bot...
+Верхний бот.
+Нижний бот...
 8
-41987 and 1988 700/760 Magna mode's.
+Режимы 700/760 Magna 41987 и 1988 годов.
 2
-41100. Magna models.
+41100. Модели Магна.
 
-Front brake caliper bracket to-fork sider
-bolts Upper bok (to ser lug)
+Кронштейн суппорта переднего тормоза к боковой вилке
+болты Верхняя бокка (к серьчатому выступу)
 
-Al Sabres and 1862 trough 1864 70/750 Magna maces
-1300 Magna and 198596700 Magna models
+Al Sabers и булав Magna 1862–1864 годов 70/750
+Модели 1300 Magna и 198596700 Magna
 
-Lower bot io arte
-unt)
+Нижний бот io arte
+ун)
 
-41100 Sabre models.
-1987 and 1988 700780 Magna models
+41100 модели Sabre.
+Модели 700780 Magna 1987 и 1988 годов.
 
-Brak
-ert
-100 Sate, 1585 nvough
-1955
+Брак
+невменяемый
+100 сат, 1585 год
+1955 год
 1100
-Magra, 1982 hough
+Магра, 1982 год.
 
-1988 700780 medes
+1988 700780 мед
 
 25030
 
-Fmd in camp ot 1100 moe)
-165 ane 186 700 Magna and 1986 1100 Magra models
+Местонахождение в лагере от 1100 мес)
+Модели 165 ane 186 700 Magna и 1100 Magra 1986 года выпуска.
 
 1010 18
 37143
 
-{$0 10 map 187 re 08 ToU0 nes
+{$0 10 карта 187 в 08 ToU0 нет
 
 14
 
-1810
+1810 г.
 
 371043
 
 20
 
-re
+ре
 
 25040
 
@@ -468,7 +466,7 @@ re
 15125
 201030
 181025
-2030
+2030 год
 181030
 
 11
@@ -477,7 +475,7 @@ re
 40
 13%
 
-41986-on 700/750 Magna modets.
+41986 - на модетах 700/750 Magna.
 
 8510 105,
 
@@ -488,75 +486,75 @@ re
 80 100
 8510 105,
 
-58 to
-6tto
+58 до
+6тто
 
-Brake hose
+Тормозной шланг
 3
 
-1100 Sabre models...
+1100 моделей саблей...
 
 29
 
-All other models
+Все остальные модели
 25
-Rear drum brake lever pinch bok.
-Front whee! avease nt
+Рычаг заднего барабанного тормоза пинч-бок.
+Переднее ууу! пропустите
 
 035
 241030
-506s
+506 с
 
-Front veel ade pinch bots) outs
+Передние веельные и пинч-боты) выходы
 
-‘700/750 Sabre models
+'Модели 700/750 Sabre
 20
 
-‘1982 through 1984 700/750 Magna models.
+Модели 700/750 Magna с 1982 по 1984 годы.
 18
-1985 and 1986 700 Magna models.
+Модели 700 Magna 1985 и 1986 годов.
 2
-41987 and 1988 700/750 Magna models
+Модели 700/750 Magna 41987 и 1988 годов.
 8
-1100 Sabre models.
+1100 моделей Sabre.
 2
-1100 Magra moses,
+1100 Магра Моисеев,
 
 181028
 
-Rear wheel
-axle nut
+Заднее колесо
+осевая гайка
 76
 
-‘Allother 700/750 models.
+«Все остальные модели 700/750.
 
-em 20
+им 20
 
-1986 1100 Magna model.
+Модель 1100 Магна 1986 года.
 
 72
-All other 1100 models.
+Все остальные модели 1100.
 76
 
 :
 
 710
-ato
+ато
 
 18
 170
-“ow
+«ой
 13%
 
-Bt0
+Бт0
 
-Rear wheel axe pinch bot.
+Зажимной бот для топора заднего колеса.
 
-2020
+2020 год
 
 14
 
-Brake panel stop bot.
+Тормозная панель стоп-бот.
 
 351045
 
@@ -566,3358 +564,3325 @@ Brake panel stop bot.
 
 33
 
-Brake
+Тормоз
 8
 
-‘arm bot
+'рука бот
 
 Fgal ven ange bots (182-0 T0780 Sabre mel)
 
 151025
 
-te
+тэ
 
-so60
+так60
 
 2610
 
-Chapter7
+Глава 7
 
 74
 
-Brakes, wheels and tires
+Тормоза, колеса и шины
 
-2.1 a Caliper body-to-bracket mounting bolts (arrows)
-on
+2.1 a Болты крепления корпуса суппорта к кронштейну (стрелки)
+на
 
 2:1...
 
-right side
+правая сторона
 
-2.2a Remove the pad pin retainer plate bolt (arrow).
+2.2a Отверните болт стопорной пластины пальца колодки (стрелка).
 
-disengage the plate from the pin grooves...
+высвободите пластину из пазов штифтов...
 
 2
 
-Genera information
+Общая информация
 
-1988
+1988 год
 
-discs,
+диски,
 
-and
+и
 
-700/750 Magna models is of the
-front brake is a hydraulicallyoperated twin
+Модели 700/750 Magna относятся к
+передний тормоз — сдвоенный с гидравлическим приводом
 
-through 1986 models,
+до моделей 1986 года,
 
-and @ single disc
+и @ один диск
 
-which
+который
 
-¥hen
+¥курица
 
-always
+всегда
 
-replacing the
+замена
 
-front brake pads on models
+передние тормозные колодки на моделях
 
-replace the pads in
+заменить колодки в
 
-n
+н
 
-di
+ди
 
-any of
+любой из
 
-An approved filtering mask should be worn
+Следует носить утвержденную фильтрующую маску.
 
-the brakes: Refer
-to
+тормоза: См.
+чтобы
 
-on
+на
 
-iistrations
-2 1a,
+истрации
+2 1а,
 
-Disc brake components rarely require disassembly. Do not
+Компоненты дисковых тормозов редко требуют разборки. Не
 
-disassemble components uniess a
+разобрать компоненты unies a
 
-ket
+кет
 
-attached
-to the fork sider (see
+прилагается
+к развилке (см.
 
-s placed on
+s размещен на
 
-pad pin retainer to the ce
-pins and pull both
+фиксатор штифта колодки к ce
+булавки и потяните оба
 
 )
 
-© pads (see illustration).
-
-Swell and distort Use only clean brake fluid
-care when working with brake fluid as it can injure
+© колодки (см. рисунок).Набухание и деформация. Используйте только чистую тормозную жидкость.
+будьте осторожны при работе с тормозной жидкостью, так как она может травмировать
 
 2.26,
 
-while it is removed so
-that
-no
-strain
-iner from the
+пока его удаляют так
+что
+нет
+напряжение
+внутри от
 
-the entice
+соблазн
 
-damage painted surfaces and plsstc parts
+повредить окрашенные поверхности и детали из пластика
 
-2 1b, 2 22,
+2 1б, 2 22,
 
-mounting bolts and slide
-offthe
+крепежные болты и направляющая
+вне
 
-brake fine is loosened,
+тормоз нормально ослаблен,
 
-one
+один
 
-ul 0 your health Never blow it out with compressed air
+ul 0 ваше здоровье Никогда не продувайте его сжатым воздухом
 
-illustrations).
-Caution:
+иллюстрации).
+Внимание:
 
-with twin
+с близнецом
 
-BOTH calipers - never just on
+ОБА суппорта - никогда просто включенными
 
-The dust created by the brake system may contain asbestos,
+Пыль, создаваемая тормозной системой, может содержать асбест.
 
-nd don't inhale
+и не вдыхать
 
-cover
-on the left side
-The
+обложка
+на левой стороне
 
-Front brake pads -replacement
 
-Warning:
+Передние тормозные колодки – замена.
 
-The models covered in this manual are fitted with ca:
-wheels designed to accept tubeless tires. The re
+Предупреждение:
 
-and on left side (arrows)
+Модели, описанные в данном руководстве, оснащены:
+колеса, предназначенные для установки бескамерных шин. Ре
 
-your ey
+и слева (стрелки)
 
-Inspect the surtace
+твой глаз
 
-of each
+Осмотрите поверхность
 
-pad for
+каждого
 
-the friction material has not worn be yo
+подушечка для
 
-The pad spring
+фрикционный материал еще не изношен
 
-can be
+Пружина колодки
 
-tamination and check that
-its service limit groove, or
+может быть
 
-Chapter7
+приручение и проверьте это
+его ограничительная канавка для обслуживания или
+
+Глава 7
 
 75
 
-Brakes, wheels and tires
+Тормоза, колеса и шины
 
-2.2c ... and
-pull
-the
-pins outwith pliers,
+2.2в... и
+тянуть
+тот
+вытащить булавки плоскогубцами,
 
-2.11 Anti-attie spring position (lower arrow}. Upper mounting
-dust boot (upper arrow)
+2.11 Положение противозадирной пружины (нижняя стрелка). Верхнее крепление
+пыльник (верхняя стрелка)
 
-24 Brake pad service limit groove (lower arrow) and cutout
+24 Ограничительная канавка для обслуживания тормозных колодок (нижняя стрелка) и вырез
 
-(upper:
+(верхний:
 
-down to expose the cutout in the pads rear
+вниз, чтобы открыть вырез в задней части колодок
 
-point or are
-Mlustration).
+точка или есть
+Млюстрация).
 
-approaching
-Similarty,
+приближается
+Сходство,
 
-it,
+это,
 
-the
+тот
 
-if either pad
+если какая-либо колодка
 
-pads
+подушечки
 
-if worn
+если носить
 
-must
+должен
 
-is fouled
+фол
 
-heavily scored or damaged by dift and
+сильно поцарапан или поврежден в результате смещения и
 
-replaced as a set.
+заменил комплектом.
 
-dge:
+дже:
 
-be
+быть
 
-with of
+с из
 
-debris,
+мусор,
 
-down to this
+вплоть до этого
 
-both pads fimly against the rear of
+обе колодки плотно прилегают к задней части
 
-replaced (see
+заменил (см.
 
-both pads
+обе колодки
 
-the
-Tighten
+тот
+Затянуть
 
-mu:
+му:
 
-are contaminated
+загрязнены
 
-in
+в
 
-retainer
+гонорар
 
-body to enable the
+тело, позволяющее
 
-plate screw securely.
+пластину надежно завинтите.
 
-to the disc,
+на диск,
 
-Note that it is not possible to d
+Обратите внимание, что невозможно d
 
-material, if the pads
+материал, если колодки
 
-the caliper
+суппорт
 
-32 installed
-retainer plate, pressing its slots into the pin grooves to
+32 установлено
+пластину фиксатора, вдавив ее пазы в пазы штифтов, чтобы
 
-or gf
+или подруга
 
-taking
+принимая
 
-care not to disturb
-Don grease fo the
+постарайся не беспокоить
+Не смажьте
 
-any way
-wer mounting bots
+в любом случае
+мы монтируем ботов
 
-replaced.
+заменил.
 
-~caliper,
+~ суппорт,
 
-5 If the pads are in good condition clean them
+5 Если колодки в хорошем состоянии, очистите их.
 
-is completely free of oil
-and grea
-pointed instumert, c
+полностью без масла
+и отлично
+остроконечный инстумерт, c
 @
-Using
-road dit and corrosion.
-of
-traces
+Использование
+дорожные дефекты и коррозия.
+из
+следы
 
-inside their dust
+внутри их пыли
 
-torque.
-bghten to the specified
+крутящий момент.
+осветлить до указанного
 
-i(see
+я (см.
 
-wire brush which
+проволочная щетка, которая
 
-and
+и
 
-Chapter
-1) and ft the float
+Глава
+1) и поднять поплавок
 
-(where fitted) and
+(где установлено) и
 
-cover.
+крышка.
 
-ral times to bring the pads into contact
+несколько раз, чтобы привести колодки в контакт
 
-the grooves in the friction matenal and dig out any embed.
+канавки во фрикционном материале и выкопайте все закладные.
 
-cylinder tuid level (see Chapter 1) and.
+уровень жидкости в цилиндре (см. главу 1) и.
 
-of foreign matter. Any areas of glazing may be remov
+постороннего вещества. Любые участки остекления могут быть удалены.
 
-@ riding the motorcycle
+@ катаюсь на мотоцикле
 
-bth.
+кстати.
 
-6 _ Check the condition of the brake disc (see
-7 Remove all traces of corrosion from the pad pins.
+6 _ Проверьте состояние тормозного диска (см.
+7 Удалите все следы коррозии со штифтов колодок.
 
 3.
 
-and pad spring for signs of damage and re
-check the antrrattie
-spring fitted to the top of the cal
+и подушечку пружины на наличие признаков повреждения и повторного использования.
+проверьте антрратти
+пружина, установленная в верхней части калибра
 
-Front brake caliper- removal, overhaul and
-installation
+Передний тормозной суппорт – снятие, капитальный ремонт и ремонт.
+установка
 
-8 If installing new pads, pushthe pistons
+8 При установке новых колодок нажмите на поршни.
 2:
 
-possible using hand pressure only.
-material thickness of new pads.
-master cylinder reservoir cap,
+возможно только с помощью давления руки.
+толщина материала новых колодок.
+крышка бачка главного цилиндра,
 
-syphon out some fluid.
-9 Insert the pads into
+откачать немного жидкости.
+9 Вставьте колодки в
 
-Due
+Срок погашения
 
-it may be
+это может быть
 
-plate
+тарелка
 
-to t
+т
 
-necessary to rem
+необходимо удалить
 
-(where fitted) and diaphragm and
+(если имеется) и диафрагма и
 
-the caliper, ensuring the pad
+суппорт, гарантируя, что колодка
 
-comectly positioned, so that the fnction material
+удобно расположен, так что функциональный материал
 
-of each pad
+каждой площадки
 
-the disc Insert
-one pad retaining pin making sure that t
-in both peds and into the caliper body. then
-through the holes
+диск вставка
+один стопорный штифт колодки, убедившись, что t
+в обоих педах и в корпус суппорта. тогда
+через отверстия
 
-f @ caliper indieates the need for an overhaul (usually due 10
-operaton), aif old brake fluid should be flushed
-fem.
-in asbestos,
+ж@суппорт указывает на необходимость капитального ремонта (обычно через 10
+эксплуатации), а если старую тормозную жидкость следует промыть
+фем.
+в асбесте,
 
-is
+есть
 
-facing
+лицом к лицу
 
-passes
-hold
+проходит
+держать
 
-A/so,
+А/так,пыль, создаваемая тормозной системой, может
 
-the dust created by the brake system may
+что вредно для вашего здоровья.
 
-which is harmful to your heath.
+сжатым воздухом и не вдыхать &
 
-with compressed air and don’t inhale any of &
+Никогда не биоу # режь
 
-Never biow # cut
+Утвержденная установка
 
-An approved fitering
+маску следует надевать при работе с тормозами. Ни в коем случае не
 
-mask should be wom when working on the brakes Do not, under any
-
-use petroleum-based solvents to clean brake parts. Use
-denatured alcohol ony
+используйте растворители на нефтяной основе для очистки деталей тормозов. Использование
+только денатурированный спирт
 
 76
 
-Chapter 7
+Глава 7
 
-Brakes, wheels and tires
+Тормоза, колеса и шины
 
-Chapter 7 Brakes, wheels and tires
+Глава 7 Тормоза, колеса и шины
 
 7-7
 
-a
-3.14 Piston seal (upper arrow) and dust
+а
+3.14 Уплотнение поршня (стрелка вверху) и пыль
 
-3.46 Ensure that the pistons are inserted
+3.46 Убедитесь, что поршни вставлены.
 
-‘eal (lower arrow) locations in
-caliper bore
+'eal (нижняя стрелка) местоположения в
+отверстие суппорта
 
 10
 
-Removal
+Удаление
 1
 
-Place the bike on its main stend,
+Поместите велосипед на главную подножку,
 
-or make sure t
+или убедитесь, что
 
-Is securely
+Надежно
 
-supported where only @ side stand i ftted.
-2 Remove the brake hase banjo iting bok and seperate the hose trom
-the caliper. Plug the hose end or wrap a plastic bag tighty around it to
-minimize fuid 1088 and prevent dit entenng the system. Discard the
-sealing washers, new ones must be used on installation. Note: /f
-you're planning to overhaul the caper and dont have @ source of
-Compressed ai t0 blow out the pistons, just loosen the banp bol at
+поддерживается там, где я стоял только на боковой стойке.
+2 Снимите тормозную крышку и отделите шланг от шланга.
+суппорт. Заткните конец шланга или плотно оберните его полиэтиленовым пакетом, чтобы
+Минимизируйте значение жидкости 1088 и предотвратите его проникновение в систему. Отбросьте
+уплотнительные шайбы, при установке необходимо использовать новые. Примечание: /ф
+вы планируете пересмотреть каперсы и у вас нет @ источника
+Сжатым ai t0 продуваем поршни, достаточно ослабить болт крепления бандажа.
 
-this stage and retohien t ighty. The bike's hydraulic system can then be
-used fo force the pistons out of the body once the pads have been
+этот этап и retohien плотно. После этого гидравлическую систему велосипеда можно
+используется для выталкивания поршней из кузова после того, как колодки были
 
-removed. Disconnect the hose once the pistons have been suftcsenty
-isolaced
+удален. Отсоедините шланг, как только поршни станут достаточными.
+изолированный
 
-3 Remove the caliper body-to-bracket mounting bolts and side the
-caliper off the disc, leaving the bracket attached
-to the fork sider (aee
+3 Снимите болты крепления корпуса суппорта к кронштейну и отведите в сторону
+снимите суппорт с диска, оставив кронштейн прикрепленным
+на развилку (аи
 
 iMustrations
 21
 
-3.17 Lower mounting bolt collar and dust
+3.17 Нижняя втулка крепежного болта и пыль
 
-bores
-rely
-into their
-‘squa
+скучно
+полагаться
+в их
+'квадратный
 
-aand2.1b).
+а и 2.1б).
 
-4 To remove the caliper bracket tom the fork slider on 1962 through
-1986 models, remove the two bots which retain it to the slider lugs
+4. Чтобы снять кронштейн суппорта, оторвите ползунок вилки выпуска 1962 г.
+Модели 1986 года: снимите два бота, которые крепят его к выступам ползуна.
 
-(‘ight side) of the upper bolt which retains it to the slider lug and the
+(правая сторона) верхнего болта, который удерживает его на выступе ползуна и
 
-boot arrangement
+расположение загрузки
 
-Removeboth the piston seals in the same way,
+Таким же образом снимите оба уплотнения поршня.
 
-11 Clean the pistons and bores with denatured alcohol, clean brake
-fluid or brake system cleaner
+11 Очистите поршни и отверстия денатурированным спиртом, очистите тормозную систему.
+очиститель жидкости или тормозной системы
 
-stances,
+позиции,
 
-Caution:
+Внимание:
 
-Do
+Делай
 
-not,
+нет,
 
-under any circum.
+при любых обстоятельствах.
 
-use @ pevokum-based solvent to clean brake parts.
+для очистки деталей тормозов используйте растворитель на основе певокума.
 
-It
+Это
 
-compressed air is available, use it to dry the parts thoroughly (make
-sure it's filtered and untubricated)
+имеется сжатый воздух, используйте его для тщательной просушки деталей (обеспечьте
+конечно, он отфильтрованный и неочищенный)
 
-12 Inspect the caliper bores and pistons for signs of corrosion, nicks
-end burrs and loss of plating If surface defects are present, the caliper
-assembly must be replaced. If the caliper is in bad shape the master
+12 Осмотрите отверстия суппорта и поршни на наличие признаков коррозии, вмятин.
+торцевые заусенцы и потеря покрытия. При наличии поверхностных дефектов суппорт
+узел подлежит замене. Если суппорт в плохом состоянии, обратитесь к мастеру.
 
-cylinder shoud also be checked
+цилиндр тоже надо проверить
 
-13 If the necessary measuring equipment is available,
+13 При наличии необходимого измерительного оборудования
 
-compare the
+сравнить
 
-dimensions of the caliper bores
+размеры отверстий суппортов
 
-given in the
+приведено в
 
-and
+и
 
-pistons to those
+поршни к ним
 
-Specifications Section of this Chapter. replacing any component that is
-the service limit.
-worn beyond
-14 Lubricatethe new piston seals with clean brake fuid and install
+Раздел «Технические характеристики» данной главы. замена любого компонента, который
+лимит услуги.
+изношен за пределами
+14 Смажьте новые уплотнения поршней чистой тормозной жидкостью и установите
 
-them in their grooves in the caliper bores (see
-illustration).
-15 Lubncate the new dust seals with clean brake fluid and install them
-in their grooves in the caliper bores.
+их в канавки в отверстиях суппорта (см.
+иллюстрация).
+15 Смажьте новые пыльники чистой тормозной жидкостью и установите их.
+в своих канавках в отверстиях суппорта.
 
-18 Lubricate the pistons with clean brake fluid and install them in the
+18 Смажьте поршни чистой тормозной жидкостью и установите их в
 
-caliper bores(see illustration). Using your thumbs, push the pistons
+отверстия суппорта (см. рисунок). Большими пальцами надавите на поршни.
 
-lower bolt which retains it to the anti-dive housing (let side). Note the
+нижний болт, который крепит его к корпусу защиты от ныряния (с левой стороны). Обратите внимание на
 
-al the way in, making sure they enter their bores squarely.
+на протяжении всего пути, следя за тем, чтобы они вошли в свои отверстия прямо.
 
-the wire guide on the let caliper bracket
+направляющая проволоки на кронштейне суппортаМлюстрация), Проверьте состояние пыльников и при необходимости замените их.
 
-Mlustration), Check the condition of the dust boots and replace them if
+«точный порядок и положение всех хомутов, кабельных направляющих, шайб и пыли
+уплотнения на каждом креплении. Вытащите трос/провод датчика спидометра из
+5 На моделях 1987 и 1986 годов кронштейн суппорта крепится к
+выступы ползуна двумя болтами с хромированными головками. Сдернуть трос спидометра
+из направляющей проволоки на кронштейне
 
-‘exact order and postion of any collars, cable guides, washers and dust
-seals at each mounting, Slip the speedometer cable/sensor wire out of
-5 On 1987 and 1986 models, the caliper bracket Is reteined to the
-slider lugs by two chrome-headed bolts. Slip the speedometer cable
-out ofthe wire guide on the bracket
+17 Осторожно снимите внешние пыльники с нижнего крепления.
 
-17 Carefully remove the outside dust boots from the lower mounting
+отверстие для болта в суппорте, затем вытащите буртик из корпуса суппорта (см.
 
-bolt hole in the caliper, then slip the collar out of the caliper body (see
+раскол или трещины. Проверьте состояние пыльника, расположенного между
 
-split or cracked. Check the condition of the dust boot situated between
+корпус суппорта и кронштейн на верхнем болте крепления
 
-the caliper body and bracket on the upper mounting bolt
+очень тонкий слой
+18 Установите пружину колодки на место в суппорте. Применить
+смажьте хомут нижнего крепежного болта жидкой смазкой и вставьте его в
 
-a very thin coat of
-18 Lay the pad spring in place in the caliper. Apply
-licon grease to the lower mounting bolt collar and slip it into the
+Капитальный ремонт
+иллюстрации 3.6, 3.14, 3.16 и 3.17
+чтобы
+Обратитесь
+суппорт с денатурированным спиртом или тормоз
+6 Очистите внешнюю поверхность
 
-Overhaul
-iustrations 3.6, 3.14,3.16 and 3.17
-to
-Refer
-caliper with denatured alcohol or brake
-6 Clean the exterior of the
-
-per body, install the dust boots on each side of the collar, making
-sure they are properly seated in the collar grooves.
+на каждый корпус установите пыльники с каждой стороны воротника, соблюдая
+убедитесь, что они правильно сидят в пазах буртика.
 19
 
-Install the brake pads (see Section 2)
+Установите тормозные колодки (см. раздел 2).
 
-tom cleaner (See illustration).
+Том-чистильщик (см. иллюстрацию).
 
-7 Remove the brake pads from the caliper body (see Section 2), then
-lift out the pad spring,
+7 Снимите тормозные колодки с корпуса суппорта (см. раздел 2), затем
+вытащите пружину колодки,
 
-8 If the pistons weren't forced out using the bike's hydraulc system,
+8. Если поршни не были вытолкнуты с помощью гидравлической системы мотоцикла,
 
-place a wad of rag between the piston and caliper frame to act as @
+поместите комок тряпки между поршнем и рамой суппорта, чтобы он действовал как @
 
-cushion, then use compressed air directed into the fluid inlet to force
-the pistons out of the body. Use only low air pressure to ease the
-pistons out and make sure both pistons are displaced at the same time.
-If the air pressure is too high and the pistons are forced out, the caliper
-and/or pistons may be damaged. Waming: Never piace your fingers in
-front of the pistons in an attempt to catch or prokect them when
-applying compressed air, a5 senous injury could result
+подушку, затем используйте сжатый воздух, направленный во впускное отверстие для жидкости, чтобы заставить
+поршни выходят из корпуса. Используйте только низкое давление воздуха, чтобы облегчить
+поршни наружу и убедитесь, что оба поршня смещаются одновременно.
+Если давление воздуха слишком высокое и поршни выталкиваются, суппорт
+и/или поршни могут быть повреждены. Ваминг: Никогда не сжимайте пальцы.
+перед поршнями, пытаясь поймать или оттолкнуть их, когда
+применение сжатого воздуха может привести к травме a5
 
-Keep each
+Держите каждый
 
-piston with its bore t ensure that they are not interchanged on
-reassembly (label them # necessary).
+поршень с отверстием t убедитесь, что они не перепутаны
+сборку (обозначьте их #необходимо).
 
-9 Using a wooden or plastic tool, remove the dust seals trom the
-caliper bores. If @ metal tool is being used, take great care not to
-damage the caliper bores.
+9 С помощью деревянного или пластикового инструмента снимите пыльники с
+отверстия суппорта. При использовании металлического инструмента соблюдайте особую осторожность, чтобы не
+повредить отверстия суппорта.
 
-Installation
-20 If removed from the fork slider, install the caliper bracket.
+Установка
+20 Если снят с ползунка вилки, установите кронштейн суппорта.
 
-Tighten
+Затянуть
 
-the caliper bracket bolts to the specified torque (where given). Make
+кронштейн суппорта затягивается с указанным моментом затяжки (если указано). Сделать
 
-sure that the enti-rattle spring is property installed on the bracket (see
+убедитесь, что противодребезговая пружина установлена на кронштейне (см.
 
-illustration 2.11).
+иллюстрация 2.11).
 
-21 Install the caliper on the bracket, apply silicon grease to the shafts
-of the caliper mounting bolts and install them in the caliper,
+21 Установите суппорт на кронштейн, нанесите на валы силиконовую смазку.
+болтов крепления суппорта и установите их в суппорт,
 
-tighten
+затягивать
 
-them to the specified torque.
+их с указанным крутящим моментом.
 
-22 Connect the brake hose to the caliper, using new sealing washers
+22 Подсоедините тормозной шланг к суппорту, используя новые уплотнительные шайбы.
 
-on each side of the fitting. Tighten the banjo fitting bolt to the specified
-torque setting,
+с каждой стороны фитинга. Затяните болт крепления банджо до указанного момента.
+настройка крутящего момента,
 
-23 Fill the master cylinder with the recommended brake fluid (see
-chapter 1) and bleed the hydraulic system as described in Section 11
+23 Заполните главный цилиндр рекомендованной тормозной жидкостью (см.
+главу 1) и прокачайте гидравлическую систему, как описано в разделе 11.
 
-24 Check for leaks and thoroughly test the operation of the brake
-before nding the motorcycie.
+24 Проверьте герметичность и тщательно проверьте работу тормоза.
+прежде чем найти мотоцикл.
 
 78
 
-Chapter7
+Глава 7
 
-Brakes, wheels and tires
+Тормоза, колеса и шины
 
-4.3 Measuring disc runout
+4.3 Измерение биения диска
 
 4
 
-45 Measuring disc thickness
+45 Измерение толщины диска
 
-Installation
+Установка
 
-Front brake discs - inspection, removal and
+Передние тормозные диски – осмотр, снятие и
 
-h 1986 models, positiona new gasket on each of the
+h модели 1986 года, установите новую прокладку на каждую из
 
-installation
+установка
 
-c mounting pillars.
+в) монтаж столбов.На ранних моделях прокладки имеют толстый слой.
 
-On early models the gaskets have a fat
+должен быть обращен к жиру на поверхности колеса
 
-must face the cast fat on the wheel surface
-
-Inspection
+Инспекция
 
 10
 
-1 Set the bike on is main stand. Where no main stand is ited,
-the bke securely under the crankcase £0 that the font whee!
-2 Visually inspect the surface of the discs for score
+1 Установите велосипед на основную подставку. Если нет основной трибуны,
+тормоз надежно закреплен под картером £ 0, что шрифт уи!
+2 Визуально проверьте поверхность дисков на наличие царапин.
 
-ra
+ра
 
-grooves and heavy score
+канавки и тяжелая партитура
 
-marks
+знаки
 
-wil
+будет
 
-grooved they must be machined orreplaced
-mount a dal indicator
-to a fork leg
+с канавками, их необходимо обработать или заменить.
+установить индикатор дал
+к ножке вилки
 
-plunger on the indicator touching the surface
+плунжер на индикаторе касается поверхности
 
-with the
+с
 
-the shims remain in position,
-torque.
+прокладки остаются на месте,
+крутящий момент.
 
-and tighten
-Clean off all
+и затянуть
+Очистите все
 
-have been installed,
-working surfaces
+были установлены,
+рабочие поверхности
 
-remove any protective coating
+удалить любое защитное покрытие
 
-(see Section 15)
+(см. раздел 15)
 
-13 Operate the broke lever severd times to bring the pads into contact
-wath
+13 Нажмите сломанный рычаг несколько раз, чтобы колодки соприкоснулись.
+что
 
-the di
+ди
 
-he operation
+он операция
 
-of the brakes carefully before riding
+перед поездкой осторожно нажмите на тормоза
 
-the motoreycie
+моторика
 
-of the dise about 10 mm
+диска около 10 мм
 
-(1/2 neh) from the outer edge
-(see ilustration). Rotate the vineel
+(1/2 нех) от внешнего края
+(см. иллюстрацию). Поворот виноградной лозы
 
-and
+и
 
-walch the indicator needle, Comparing your reading withthe ime
-in this
+Проведите пальцем по стрелке индикатора, сравнивая показания со временем
+в этом
 
-ensuring
+обеспечение
 
-evenly and progressively to the specified
+равномерно и постепенно до заданного
 
-bra
+бюстгальтер
 
-marks and other
+отметки и прочее
 
-braking efficiency and accelerate pad wear. If the discs are bady
-3 To check dise runout,
+эффективность торможения и ускорение износа колодок. Если диски плохие
+3 Чтобы проверить биение диска,
 
-m
+м
 
-aligning the previously applied match
+выравнивание ранее примененного соответствия
 
-onginal disc)
+онгинальный диск)
 
-‘grease from the brake disc{s) using acetone or brake system cleaner
+смажьте тормозные диски ацетоном или очистителем тормозной системы.
 
-and wont affect brake
+и не повлияет на тормоза
 
-damage, Light scratches are normal ater use
-deep
+повреждение. Легкие царапины являются нормальным явлением после использования.
+глубокий
 
-the bolts,
+болты,
 
-support
-is
+поддержка
+есть
 
-ofthe ground
+земли
 
-but
+но
 
-on the wheel,
+на колесе,
 
-marks (if youre instaling the
+метки (если вы устанавливаете
 
-Retort ilustratons
-43 and 45
+Ретортные иллюстрации
+43 и 45
 
-operation,
+операция,
 
-Install the disc
+Установите диск
 
 5
 
-Front brake master
-cylinder
-removal, overhaul and
+Мастер передних тормозов
+цилиндр
+демонтаж, капитальный ремонт и
 
-installation
+установка
 
-Chapters Specifications
+Главы Технические характеристики
 
-4'if the runout is greater than alloned, check the hub bearings fr play.
-ifthe bearings are wom,
+4', если биение больше допустимого, проверьте люфт подшипников ступиц.
+если подшипники сломаны,
 
-replace them and repeat this check.
+замените их и повторите эту проверку.
 
-runout is sill exoassive,#
+биение все еще экзоассивно,#
 
-wil have to bereplaced, athough machining
+придется заменить, хотя механическая обработка
 
-by a competent engineering shop may be a soluton
-fndings
-by removing
+в компетентной инженерной мастерской может быть решением
+выводы
+удалив
 
-Ith
+Это
 
-Confim your
+Подтвердите свой
 
-the dise and checking it for warpage on a sucface
+штамп и проверка его на коробление на поверхности
 
-plate using feeler blades
-5 The disc must not be machined or alowed to wear down to a
-thickness less than the service imi,
-cations (check also for wear
+пластина с использованием щупов
+5 Диск нельзя подвергать механической обработке или изнашивать до
+толщина меньше сервисного imi,
+катионы (проверьте также износ
 
-imits stamped on the dise itself)
+имитирует штамп на самом диссе)
 
-The
 
-be
 
-(see
+быть
 
-llustration).
+(см.
 
-the
+иллюстрация).
 
-disc
+тот
 
-can
+диск
 
-checked
+может
 
-with
+проверено
 
-a
+с
 
-micrometer
+а
 
-Ifthe thickness of the disc is less than the minimum
+микрометр
 
-allowable, it must be replaced
+Если толщина диска меньше минимальной
 
-master
+допустимо, его необходимо заменить
 
-wheel as descbed in Section
+мастер
 
-18. Cautlon: Don
+колесо, как описано в разделе
 
-ay the
+18. Коутлон: Дон
 
-could become
+да
+
+мог бы стать
 
 Nail Gat Os Wa on ca cts so Be dsc Seer
 
-het BO
+гет БО
 
-7 Mark the relationship
-of the disc to the wheel, so
-it can be
-the same position. Remove the bolts that retain the disc to
+7 Отметьте взаимосвязь
+диска к колесу, поэтому
+это может быть
+та же позиция. Отверните болты, удерживающие диск.
 
-instal
-the wheel
+установить
+колесо
 
-Loosen the bots a
+Ослабьте ботов
 
-litle at a time,
+понемногу,
 
-in a criss-cross pattem,
+в виде крест-накрест,
 
-to avoid
+избегать
 
-distorting
-the disc
+искажающий
+диск
 
-8 Remove the disc and on
+8 Извлеките диск и включите
 
-cylinder
+цилиндр
 
-disassembling
-the
+разборка
+тот
 
-master
+мастер
 
-1982
+1982 год
 
-through 1986
+до 1986 года
 
-models recover thy
+модели восстановить твой
 
-‘gaskets which are positioned between the disc and wheel
+«прокладки, которые расположены между диском и колесом
 
-disc models, the discs should be marked L or R
+дисковые модели, диски должны иметь маркировку L или R.
 
-bolt holes to denote on which side of the wheel t
-marks are found, make some with
-a felt marker.
+отверстия под болты, чтобы обозначить, с какой стороны колеса t
+метки найдены, сделайте несколько с помощью
+фетровый маркер.
 
-p
+п
 
-and bleeding the brakes does
+и прокачка тормозов делает
 
-overhaul
+капитальный ремонт
 
-is
+есть
 
-recommended
+рекомендуется
 
-Before
+До
 
-cylinder, read through the endre procedure
+цилиндр, прочитайте процедуру завершения
 
-and make sure that you have the correct rebuild kit.
-towels and intemal snap-ring pliers.
+и убедитесь, что у вас есть правильный комплект для восстановления.
+полотенца и плоскогубцы для внутренних стопорных колец.
 
-Also,
+Кроме того,
 
-Note:
+Примечание:
 
-you will
+ты будешь
 
-To prevent
+Чтобы предотвратитьповреждение краски из-за пролитой тормозной жидкости, всегда закрывайте топливный бак
+при работе с главным цилиндром
 
-damage to the paint from spilled brake flv, always cover the fuel tank
-when workng on the master cylinder
+2 Внимание:
 
-2 Caution:
+Разборка,
 
-Disassembly,
+загрязнение
 
-contamination
+Опустите колесо и дайте ему восстановиться на эфирном диске
 
-wheel down and allow it fo reston ether disc
+близнец
 
-twin
+огарок пропускает жидкость или если рычаг не производит
+при нажатии на тормоз,
 
-cinder is leaking fluid, or if the lever does not produce
-when the brake is applied,
+ремонт и сборка тормоза
 
-overhaul and reassembly of the brake
+искатель должен быть сделан
 
-finder must be done
+Удаление
+6 Удалить
 
-Removal
-6 Remove ne
+Если мастер
 
-Ifthe master
+2 твердое ощущение
 
-2 firm feel
+Указано в данной главе.
 
-Isted in this Chapters Specif-
+толщина
 
-thickness
-
-of
+из
 
 1
 
-and possible
+и возможно
 
-in a spotiessly clean work a7ea to avoid
+в безупречно чистой работе a7ea, чтобы избежать
 
-failure of the brake hydraulic system
+выход из строя гидравлической системы тормозов
 
-Removal
-3 Loosen, but do net
+Удаление
+3 Ослабьте, но сделайте сетку
 
-remove, the screws holding the reservoir cover in
+Снимите винты, удерживающие крышку резервуара.
 
-ct the electrical connectors from the brake light switch
-boot, loosen the banjo fitting bolt and separate
-the
+Разомкните электрические разъемы выключателя стоп-сигналов.
+пыльник, ослабьте болт крепления банджо и отделите
+тот
 
-master
+мастер
 
-cyinder. Wrap the
-end
-of
-the hose
+цилиндр. Оберните
+конец
+из
+шланг
 
-in.
+в.
 
-and suspend the hose in an upright position or bend it
+и подвесьте шланг в вертикальном положении или согните его
 
-down carefully and place
-clive Is to prevent
+осторожно вниз и поместите
+Клайв – это предотвратить
 
-the open end in a
+открытый конец в
 
-clean container. The
+чистый контейнер.
 
-excessive loss of brake fluid,
+чрезмерная потеря тормозной жидкости,
 
-6 Remove
-the locknut from the underside
+6 Удалить
+контргайка с нижней стороны
 
-fluid spils and
+разливы жидкости и
 
-of the brake lever pivot bolt,
+шарнирного болта тормозного рычага,
 
-then unscrew the bolt and remove the brake lever.
+затем откручиваем болт и снимаем тормозной рычаг.
 
-Chapter 7 Brakes, wheels and tires
+Глава 7 Тормоза, колеса и шины
 
-5.8 Location of port baffle in fluid
-reservoir base
+5.8 Расположение перегородки порта в жидкости
+основание резервуара
 
-5.10 Master cylinder piston and dust
-boot location
+5.10 Поршень главного цилиндра и пыль
+место загрузки
 
-5.14 Measuring master cylinder piston OD
-7 Remove the master cylinder mounting bolts and clamp to free
+5.14 Измерение наружного диаметра поршня главного цилиндра
+7 Отверните болты крепления главного тормозного цилиндра и зажмите его, чтобы освободить
 
-the master cylinder from the handlebar. Caution:
+главный цилиндр от руля. Внимание:
 
-master cylinder upside down or brake fluid wil run out
+Главный цилиндр перевернут или закончится тормозная жидкость
 
-Do not tip the
+Не давайте чаевые
 
-Overhaul
-5.8 §.10, 8.148 and.
-Refer oiNustrations
+Капитальный ремонт
+5.8 §.10, 8.148 и.
+См. иллюстрацию
 
-8 Detach the reservoir cover and remove the plate (where fitted),
+8 Снимите крышку резервуара и снимите пластину (если она установлена),
 
-rubber diaphragm, and on 1988 750 Magnas lif out the float, then
-drain the brake fluid into a suitable container (see illustration 3.6).
+резиновая диафрагма, а в 1988 году у 750 Magnas был снят поплавок, а затем
+слейте тормозную жидкость в подходящую емкость (см. рисунок 3.6).
 
-‘Wipe any remaining fluid out ofthe reservoir with
-a clean rag.
-Ift!
-of the reservoir was disturbed, ensure it is
-port baffle in the base
-installed correctly (see illustration).
+«Вытрите остатки жидкости из бачка с помощью
+чистая тряпка.
+Если!
+резервуар был нарушен, убедитесь, что он
+перегородка порта в основании
+установлен правильно (см. рисунок).
 9
 
 7-9
 
-Undo the screw and remove the brake light switch.
+Отверните винт и снимите выключатель стоп-сигнала.
 
-10 Carefully remove the rubber dust boot from the end of the
-piston (see illustration).
+10 Осторожно снимите резиновый пыльник с конца
+поршень (см. рисунок).
 
-11 Using snap-ring pliers, remove the snap-ring and slide out the
-piston assembly and the spring. Laythe parts out in the proper
-order to prevent confusion during
-reassembly.
-12 Clean all of the parts with brake system ci
+11 С помощью плоскогубцев снимите стопорное кольцо и выдвиньте его.
+поршень в сборе и пружина. Разложите детали правильно
+во избежание путаницы во время
+повторная сборка.
+12 Очистите все детали тормозной системы ci.
 
-auto parts stores), isopropyl alcohol or clean bral
-Do not, under any circumstances, use a petroleum-based solvent
-to
-chan brake parts. If compressed air is available, use it to dry the
-parts thoroughly (make sure its fitered and unlubricated)
-13 Check the master cylinder bore for corrosion, scratches, nicks
-ind score marks. If damage is evident, t!
-fer cylinder must
-be replaced with a new one. Ifthe
-master cylinder is in poor
-condition, then the calipers should be checked as wel
+магазины автозапчастей), изопропиловый спирт или чистый брал
+Ни при каких обстоятельствах не используйте растворитель на нефтяной основе.
+чтобы
+Чан тормозные детали. Если имеется сжатый воздух, используйте его для просушки
+тщательно детали (убедитесь, что они установлены и не смазаны)
+13 Проверьте отверстие главного цилиндра на наличие коррозии, царапин и вмятин.
+Индикативные оценки. Если повреждение очевидно, t!
+Фер цилиндр должен
+быть заменен на новый. Если
+главный цилиндр в плохом состоянии
+состояние, то суппорты также следует проверить
 
-5.19 Master cylinder clamp UP marking (arrow)
-14 If the necessary measuring equipment is available, compare the
-dimensions of the master cylinder bore and piston to those given in
-the Specifications Section of this Chapter, replacing any
-component that it is worn beyond the service limit (see
-illustrations).
-included in the
-15 The dust boot, piston assembly and spring at
-of the apparent
-rebuild kit. Use all of the new parts, regardie
-condition of the old ones.
-16 Before reassembling the mé
-1 cylinder, soak the piston and
-the rubber cup seals in clean brake
-fluid for ten or fileen minute:
-Lubricate the master cylinder bore with clean brake fluid, then
+5.19 Маркировка зажима главного цилиндра UP (стрелка)
+14 Если имеется необходимое измерительное оборудование, сравните
+размеры отверстия главного цилиндра и поршня соответствуют указанным в
+раздел «Технические характеристики» настоящей главы, заменяющий любые
+компонента, что он изношен сверх предела срока службы (см.
+иллюстрации).
+включен в
+15 Пылезащитный чехол, поршень в сборе и пружина на
+очевидного
+комплект для восстановления. Используйте все новые детали, несмотря на это.состояние старых.
+16 Перед сборкой ме
+1 цилиндр, замочить поршень и
+резиновая чашка уплотняет чистый тормоз
+жидкость в течение десяти или нескольких минут:
+Смажьте отверстие главного цилиндра чистой тормозной жидкостью, затем
 
-carefully insert the piston and related parts in the reverse order of
-disassembly. Make sure the lips on the cup seals do not turn inside
-‘out when they are slipped into the bore and ensure the spring is
-fitted the correct way around.
-install the snap-ring (make sure the
-17 Depress the piston, th
+осторожно вставьте поршень и сопутствующие детали в порядке, обратном
+разборка. Убедитесь, что кромки уплотнителей чашек не завернуты внутрь.
+выньте их, когда они вставлены в отверстие, и убедитесь, что пружина
+установили правильно.
+установите стопорное кольцо (убедитесь, что
+17 Нажмите на поршень,
 
 «
 
-TB ‘nstal the brake
+ТБ 'настал тормоз
 
-iston groove).
+истоновая канавка).
 
-PI
+ПИ
 
-Nght switch and securely tighten Ws retelning
+Ночной переключатель и надежно затяните Ws
 
-screw.
+винт.
 
-Installation
-Refer to llustration 5.19
+Установка
+См. иллюстрацию 5.19.
 
-19 Attach the
-making sure the
+19 Прикрепите
+убедившись, что
 
-master
-cylinder fo the handlebar then ft the clamp
-'UP* mark is facing upviards (see illustration). On
+мастер
+цилиндр на руле, затем установите зажим
+Знак «UP*» направлен вверх (см. рисунок). Вкл.
 
-Magnas and 1984-on Sabres, the joint of the clamp should align with
-the punch mark on the handlebar to ensure that the reservoir is
+Магнас и 1984-го года выпуска на Сабре стык хомута должен совпадать с
+отметку на руле, чтобы убедиться, что резервуар
 
-Positioned upright. On all models, fully tighten the upper bolt frst, then
+Расположен вертикально. На всех моделях сначала полностью затяните верхний болт, затем
 
-the lover, both to the specified torque (where
+любовник, как с указанным крутящим моментом (где
 
-given).
+дано).
 
 7-10
 
-Chapter7 Brakes, wheels and tires
+Глава 7 Тормоза, колеса и шины
 
-CALIPER
-BRACKET.
+СУППОРТ
+КРОНШТЕЙН.
 
 2820
 
-6.2 Rear brake components
-(1100 models)
+6.2 Компоненты задних тормозов
+(1100 моделей)
 20
 
-Connect the brake hose to the master cylinder, using new
+Подсоедините тормозной шланг к главному цилиндру, используя новый
 
-sealing washers. Tighten the banjo fitting bolt to the specified
+уплотнительные шайбы. Затяните болт крепления банджо до указанного момента.
 
-torque setting
+настройка крутящего момента
 21
-Install the lever and pivot bol. Install the pivot bolt locknut and
-tighten it securely. Connect the brake light swatch wiring
+Установите рычаг и шарнирный болт. Установите контргайку поворотного болта и
+надежно затяните его. Подсоедините образец проводки стоп-сигнала
 
-22 Refer to Section 11 and bleed the air from the system. Check
-the operation of the front brake carefully before riding the
-motorcycle.
+22 См. раздел 11 и выпустите воздух из системы. Проверить
+перед поездкой внимательно пользуйтесь передним тормозом.
+мотоцикл.
 
-4 Slide the caliper assembly onto the disc, taking care not to
+4 Наденьте суппорт в сборе на диск, стараясь не
 
-disturb the antirattle spring fitted to the top of the mounting
-bracket. Apply silicon grease to the shafts of the upper and lower
+нарушить работу противодребезжащей пружины, установленной в верхней части крепления
+кронштейн. Нанесите силиконовую смазку на валы верхнего и нижнего
 
-‘mounting bolts and inside their dust boots and install them in the
-lighten to the specified torque.
-5 Top up the master cylinder reservoir (see Chapter 1) and fit the
-diaphragm, plate and cap.
+«Крепежные болты и внутрь их пыльников и установите их в
+ослабить до указанного крутящего момента.
+5 Заправьте бачок главного цилиндра (см. главу 1) и установите
+диафрагма, пластина и колпачок.
 
-6 Operate the brake lever several times to bring the pads into
-contact with the disc. Check the reservoir fluid level (see Chapter
-1) and the operation of the brake before riding the motorcycle.
+6 Несколько раз нажмите тормозной рычаг, чтобы привести колодки в положение.
+контакт с диском. Проверьте уровень жидкости в бачке (см. главу
+1) и работу тормоза перед поездкой на мотоцикле.
 
 6
 
-Rear brake pads (1100 models) - replacement
+Задние тормозные колодки (модели 1100) – замена
 
-‘Waming: The dust created by the brake system may conta asbestos,
-which
-s
-hemfulto your health. Never blow & out vith compressed
-air
-‘and don’ inhale any of
+«Внимание: Пыль, образующаяся в тормозной системе, может содержать асбест,
+который
+с
+вредно для вашего здоровья. Никогда не выдувайте и не выдувайте сжатые
+воздух
+«и не вдыхайте ничего из
 
-Rear brake
-caliper
+Задний тормоз
+штангенциркуль
 (1100
-models) -removal, overhaul
-andinstallation
+модели) -снятие, капитальный ремонт
+и установка
 
-An approved fering mask should be wom
+Одобренная маска для феринга должна быть
 
-when working on the brakes. Refer ilustrtion 6.2
+при работе с тормозами. См. рисунок 6.2.
 1
-Set the bike on its main stand,
-2 Remove the caliper mounting bolts and slide the caliper off the
-disc, leaving its mounting bracket in place (see illustration).
-3 The caliper is identical to that fitted to the front brakes and pad
-renewal can be performed as described in Section 2, Steps 2
-through 10.
+Установите велосипед на основную подставку,
+2 Отверните болты крепления суппорта и снимите суппорт с
+диск, оставив его монтажную скобу на месте (см. рисунок).
+3 Суппорт идентичен тому, который установлен на передних тормозах и колодках.
+продление можно выполнить, как описано в Разделе 2, Шаг 2.
+через 10.
 
 7
 
-Warning: I the calper indicates the need for an overhaul! (usualy due to
-Jeaking fuid or sticky operation), af olf brake fd should be flushed
+Внимание: наличие суппорта указывает на необходимость капитального ремонта! (обычно из-за
+Выделение жидкости или заедание в работе), после чего тормозной диск следует промыть.
 
-from the system. Also, the dust created
-by the brake system may
+из системы. Кроме того, пыль образовалась
+тормозной системой может
 
-Contain asbestos, which is harmful to your heath. Never
-blow t out
+Содержат асбест, который вреден для здоровья. Никогда
+выдуть
 
-wath
-compressed
-ar and
-dont inhale any of &. An approved fitering
+что
+сжатый
+ар и
+не вдыхайте &. Утвержденная установкамаска должна быть женщиной, работающей на тормозах. Ни в коем случае не
 
-mask should be wom vihen working on the brakes. Do not, under any
+Глава 7
 
-Chapter7
+Тормоза,
+колеса
+и шины
 
-Brakes,
-wheels
-and tires
+'обстоятельства, используйте нефть на основе
+растворители для очистки деталей тормозов.
+«Используйте чистый тормоз
+жидкость, очиститель тормозов или денатурированные аккоголоны,
 
-‘crcumstances, use petroleum-based
-solvents to clean brake parts.
-‘Use clean brake
-fluid, brake cleaner or denatured akcoholony,
-
-Removal
+Удаление
 1.
-Place the bike on its main stand.
-2 Remove
-the brake hose banjo fiting bolt and separate the hose
-from
-the
-caliper. Plug the hose end or wrap a plastic bag tightly
-around it to minimize fluid loss and prevent dirt entering the
-‘system. Discard the sealing washers; new ones must be used on
+Установите велосипед на основную подставку.
+2 Удалить
+Отверните болт крепления тормозного шланга и отделите шланг.
+из
+тот
+штангенциркуль. Заткните конец шланга или плотно оберните полиэтиленовым пакетом.
+вокруг него, чтобы свести к минимуму потерю жидкости и предотвратить попадание грязи в
+'система. Выбросьте уплотнительные шайбы; необходимо использовать новые
 
-installation. Note: /f you're planning to overhaul the caliper and
-don't have a source of compressed ai to blow out the pistons, just
-Joosen the banjo bolt at this stage and retighten it ight. The bike's
-‘hydraulic system can then be used to force the piston out of the
-‘once the pads have been removed. Di
-the hose once
-the pistons have been sufficient dfsplaced.
+установка. Примечание: / если вы планируете капитальный ремонт суппорта и
+у меня нет источника сжатого искусственного интеллекта, чтобы продуть поршни, просто
+На этом этапе ослабьте банджо-болт и снова затяните его. Велосипед
+«Затем можно использовать гидравлическую систему, чтобы вытолкнуть поршень из
+«после того, как подушечки были сняты. Ди
+шланг один раз
+поршни были достаточно смещены.
 
-3 Remove the caliper mounting bolts and slide the caliper off the
-disc.
+3 Отверните болты крепления суппорта и снимите суппорт с
+диск.
 
-4 It caliper bracket removal is required, ensure that the weight of
-‘the motorcycle is off the rear wheel.
-Disconnect
-the
-brake torque
-‘arm from the top of the bracket, and withdraw the wheel axle to
-{ree its bottom mounting.
+4. Если требуется снять кронштейн суппорта, убедитесь, что вес
+«Мотоцикл снят с заднего колеса.
+Отключить
+тот
+тормозной момент
+'Поднимите рычаг сверху кронштейна и вытащите ось колеса в
+{три его нижнее крепление.
 
-Overhaul
-5 The caliper is identical to that fitted to the front brakes; refer to
-Section 3, Steps 6 through 19, noting the Specifications for the
-tear brake caliper at the beginning
-of this Chapter.
+Капитальный ремонт
+5 Суппорт идентичен тому, что установлен на передних тормозах; обратитесь к
+Раздел 3, шаги с 6 по 19, с учетом технических характеристик
+оторвать тормозной суппорт в начале
+настоящей Главы.
 
-Installation
-6 If the mounting bracket was removed, slide the wheel axle back
-through its lower mounting point and through the wheel hub and
-final drive unit, tighten the wheel nut to the specified torque.
-Reconnect the ‘torque arm to the mounting bracket and install a
-new cotter pin (split pin) to secure the nut.
-7 Slide the caliper assembly onto the disc, taking care not to
+Установка
+6 Если монтажный кронштейн был снят, сдвиньте ось колеса назад.
+через нижнюю точку крепления, через ступицу колеса и
+главной передачи затяните колесную гайку указанным моментом.
+Снова подсоедините моментный рычаг к монтажному кронштейну и установите
+новый шплинт (шплинт) для фиксации гайки.
+7 Наденьте суппорт в сборе на диск, стараясь не
 
-disturb the anti-rattie spring fitted to the top of the mounting
-bracket. Apply silicon grease to the shafts of the upper and lower
-mounting bolts and inside their dust boots and install them in the
-caliper, tighten to the specified torque.
-8 Connect the brake hose to the caliper,
-using
-new
-sealing
-‘washers on each side of the fitting. Tighten the banjo fitting bolt to
+повредите противозадирную пружину, установленную в верхней части крепления
+кронштейн. Нанесите силиконовую смазку на валы верхнего и нижнего
+крепежные болты и внутри пыльных чехлов и установите их в
+суппорт, затяните указанным моментом.
+8 Подсоедините тормозной шланг к суппорту,
+используя
+новый
+уплотнение
+«шайбы на каждой стороне фитинга. Затяните болт крепления банджо так, чтобы
 
-the specified torque
+указанный крутящий момент
 
-9 Fill the master cylinder with the recommended brake fluid (see
+9 Заполните главный цилиндр рекомендованной тормозной жидкостью (см.
 
-Chapter 1) and bleed the hydraulic system as described in Section
+Главу 1) и прокачайте гидравлическую систему, как описано в разделе
 14.
-10 Check for leaks and thoroughly test the operation of the brake
-before riding the motorcycle on the road.
+10 Проверьте герметичность и тщательно проверьте работу тормоза.
+перед поездкой на мотоцикле по дороге.
 
 8
 
-Rear brake disc (1100 models) - inspection, removal and
-installation
+Задний тормозной диск (модели 1100) – осмотр, снятие и
+установка
 
-1 Refer to Section 4 of this Chapter, noting that the dial indicator
-‘should be attached to the swingarm.
+1 См. раздел 4 данной главы, отметив, что циферблатный индикатор
+«должен быть прикреплен к маятнику.
 
-Removal
-2 Remove the wheel as described in Section 16. Caution: Don’t
-lay the whee! down and alow & to rest on the disc - the disc coult
-‘become warped. Set the wheel on wood blocks so the disc doesnt
-‘Support the weight ofthe wheel.
+Удаление
+2 Снимите колесо, как описано в разделе 16. Внимание: не
+поставь колесо! вниз и вниз и опираться на диск - диск может
+«исковеркаться». Установите колесо на деревянные бруски, чтобы диск не
+«Выдержите вес колеса.
 
-3 Mark the relationship of the disc to the wheel, so it can be
-installed in the same position. Remove the bolts that retain the disc
-to the wheel, Loosen the bolts a litte at a time, in a criss-cross
-pattern,
-to avoid
-distorting
-the
-disc then remove
-the disc.
+3 Отметьте расположение диска и колеса, чтобы его можно было
+установлен в том же положении. Откручиваем болты, удерживающие диск
+к колесу. Понемногу ослабляйте болты крест-накрест.
+узор,
+избегать
+искажающий
+тот
+диск, затем извлеките
+диск.
 
-Installation
-4 Position the disc on the wheel, aligning the previously applied
-match marks (if you're reinstalling the original disc)
+Установка
+4 Установите диск на колесо, совместив ранее нанесенныеметки совпадений (если вы переустанавливаете оригинальный диск)
 
 '
 
-T-A1
+Т-А1
 
-Install the bolts and tighten them evenly and progressively to the
+Установите болты и равномерно и постепенно затяните их до упора.
 
-Specified torque setting. Clean off all grease from the brake disc
-using acetone or brake system cleaner. If a new brake disc has
+Указанная настройка крутящего момента. Очистите тормозной диск от всей смазки.
+используя ацетон или очиститель тормозной системы. Если новый тормозной диск имеет
 
-been installed, remove any protective coating from its working
-surfaces.
+установлен, удалите все защитное покрытие с его рабочей поверхности.
+поверхности.
 
 6
 
-Install the wheel
-as described in Section 16.
+Установите колесо
+как описано в разделе 16.
 
-7 Operate the brake pedal several times to bring the pads into
-contact with the disc. Check the operation of the brake carefully
-before riding the motorcycle.
+7 Несколько раз нажмите педаль тормоза, чтобы привести колодки в положение.
+контакт с диском. Внимательно проверьте работу тормоза
+перед поездкой на мотоцикле.
 
 9
 
-Rear brake master cylinder (1100 models) - removal,
-‘overhaul and installation
+Главный тормозной цилиндр заднего тормоза (модели 1100) – снятие,
+'капитальный ремонт и монтаж
 
-1 If the master cylinder is leaking fluid, or if the pedal does not
-‘produce a firm feel when the brake is applied, and bleeding the
-brakes does not help, master cylinder overhaul is recommended,
+1 Если из главного цилиндра протекает жидкость или педаль не
+«создать ощущение твердости при нажатии на тормоз и прокачке тормоза».
+тормоза не помогают, рекомендуется капитальный ремонт главного цилиндра,
 
-Before disassembling the master cylinder, read through the entire
+Прежде чем разбирать главный цилиндр, прочтите всю
 
-Procedure and make sure that you have the correct rebuild kit.
+Проведите процедуру и убедитесь, что у вас есть правильный комплект для восстановления.
 
-Also,
+Кроме того,
 
-you will
+ты будешь
 
-need
+необходимость
 
-some
+некоторые
 
-new,
+новый,
 
-clean
+чистый
 
-brake
+тормоз
 
-fluid
+жидкость
 
-of
+из
 
-the
+тот
 
-recommended type, some clean shop towels and internal snapting pliers,
+рекомендуемого типа, несколько чистых полотенец и плоскогубцы с внутренними защелками,
 
-2 Caution: Disassembly,
-overhaul
-and
-reassembly of the brake
-‘master cyinder must be done in @ spotlessly clean work area to avoid
-contamination and possible failure of the brake hydraulic system
-components.
+2 Внимание: Разборка,
+капитальный ремонт
+и
+повторная сборка тормоза
+«Главный цикл должен выполняться на безупречно чистом рабочем месте, чтобы избежать
+загрязнение и возможный выход из строя тормозной гидросистемы
+компоненты.
 
-Removal
-‘Sabre models
-3 Set the bike on its main stand. Remove the right side cover (see
+Удаление
+«Модели сабель»
+3 Установите велосипед на основную подставку. Снимите правую боковую крышку (см.
 
-‘Chapter
+«Глава
 6),
-4 Remove the right muffler (silencer) from the exhaust system (see
-‘Chapter 4). Remove the right passenger footpeg bracket (see
-Chapter
+4 Снимите правый глушитель (глушитель) с выхлопной системы (см.
+«Глава 4). Снимите кронштейн правой подножки пассажира (см.
+Глава
 6).
-5 Disconnect the reservoir-to-master cylinder hose at the master
-cylinder end and catch the escaping brake fluid.
-Remove the
-feservoir mounting screw and remove the reservoir from the
-le.
+5 Отсоедините шланг бачка к главному цилиндру на главном
+конец цилиндра и собрать вытекающую тормозную жидкость.
+Удалите
+крепежный винт фезервуара и снимите бачок с
+ле.
 
-6 Unscrew the banjo union bot from the top of the master cylinder
-Discard the sealing washers on each side of the fitting. Wrap the
+6 Отвинтите соединительный бот банджо от верхней части главного цилиндра.
+Выбросьте уплотнительные шайбы с каждой стороны фитинга. Оберните
 
-end of the hose in a clean shop towel and suspend the hose in an
-upright position or bend it down carefully and place the open end
-in a clean container. The objective is to prevent excessive loss of
+конец шланга оберните чистым полотенцем и подвесьте шланг в
+вертикальное положение или осторожно согните его и поместите открытый конец
+в чистой таре. Целью является предотвращение чрезмерных потерь
 
-brake fluid, luid
-spills
-and
-system contamination.
-7 Remove the two master cylinder mounting bolts and tit it
-backwards to gain access
-to the pushrod-to-brake pedal clevis link
-If access if available to the cotter pin (split pin), washer and clevis,
+тормозная жидкость, жидкость
+разливы
+и
+загрязнение системы.
+7 Выверните два болта крепления главного цилиндра и подогните его.
+назад, чтобы получить доступ
+к тяге вилки толкателя к педали тормоза
+Если имеется доступ к шплинту (шплинту), шайбе и вилке,
 
-pin, remove them to allow separation of the pedal and link, but if
+штифт, снимите их, чтобы можно было отделить педаль от тяги, но если
 
-‘ot, fully unscrew the master cylinder pushrod from the locknuts on
-the link. Remove the master cylinder from the motorcycle. Note: /f
+нет, полностью открутите толкатель главного цилиндра от контргаек на
+ссылка. Снимите главный цилиндр с мотоцикла. Примечание: /ф
 
-‘80 that the ink can be returned to its original postion on installation,
+'80, что чернила могут быть возвращены в исходное положение при установке,
 
-models
-8 Set the bike on its main stand. Remove the right side cover (see
-Chapter
+модели
+8 Установите велосипед на основную подставку. Снимите правую боковую крышку (см.
+Глава
 6).
 
 9
-Remove the right passenger footpeg bracket (see Chapter 6).
-40 Unscrew the banjo union bolt from the top of the master
+Снимите кронштейн правой подножки пассажира (см. главу 6).
+40 Отвинтите соединительный болт банджо в верхней части главного
 
-cylinder. Discard the sealing washers on each side of the fitting
-Wrap the end of the hose in a clean shop towel and suspend the
-hose in an upright position or bend it down carefully and place the
+цилиндр. Выбросьте уплотнительные шайбы с каждой стороны фитинга.
+Оберните конец шланга чистым полотенцем и подвесьте
+шланг в вертикальном положении или осторожно согните его и поместите
 
-‘open end in a clean container. The objective is to prevent
-excessive loss of brake fluid, luid spills and system contamination.
-11 Extract the cotter pin (split pin), washer and clevis pin from the
-master cylinder pushrod link and detach the link from the brake
-pedal 7
+«Открытый конец в чистом контейнере. Цель состоит в том, чтобы предотвратить
+чрезмерная потеря тормозной жидкости, разливы жидкости и загрязнение системы.11 Извлеките шплинт (шплинт), шайбу и шплинт из
+Тягу толкателя главного цилиндра и отсоедините тягу от тормоза.
+педаль 7
 
-12 Remove the two master cylinder mounting botts, followed by the
+12 Снимите два болта крепления главного тормозного цилиндра, а затем
 
-reservoir
-mounting
-screw,
-then
-withdraw
-the
-master
-cylinderfreservoir from the motorcycle. Remove the reservoir cap,
-plate and diaphragm, then drain all fluid from it and loosen the
-reservoir-to-master cylinder hose clamps at either end to separate
-the two components.
+резервуар
+монтаж
+винт,
+тогда
+уйти
+тот
+мастер
+цилиндробачок от мотоцикла. Снимите крышку бачка,
+пластину и диафрагму, затем слейте из нее всю жидкость и ослабьте
+Хомуты шланга от бачка к главному цилиндру на обоих концах для разделения
+два компонента.
 
-Chapter7 Brakes, wheels and tires
+Глава 7 Тормоза, колеса и шины
 
-TAZ
-Overhaul
+ТАЗ
+Капитальный ремонт
 
-13 Disengage the rubber dust boot from the bottom of the master
-cylinder. ifthe boot is spit or damaged it must be replaced,
+13 Снимите резиновый пыльник с нижней части мастера.
+цилиндр. если чехол проклеен или поврежден, его необходимо заменить,
 
-on Magna
+на Магне
 
-models,
+модели,
 
-pushrod end
+конец толкателя
 
-this will necessitate removal ofthe clevis from the
+это потребует удаления вилки из
 
-(see Step 7)
-14 Depress the pushrod and,
-fing.
+(см. шаг 7)
+14 Нажмите на толкатель и,
+фин.
 
-Slide out
+Выдвиньте
 
-using snap-ring pliers,
+с помощью плоскогубцев для стопорных колец,
 
-the piston assembly
-and spring.
+поршень в сборе
+и весна.
 
-remove the
+удалить
 
-snap:
+щелкнуть:
 
-Lay the parts out in the
+Разложите детали в
 
-proper order to prevent confusion during reassembly
-16 Clean all of the parts with brake system cleaner
+правильный порядок во избежание путаницы во время сборки
+16 Очистите все детали очистителем тормозной системы.
 
-(available at a:
+(доступно по адресу:
 
-parts stores), isopropy alcohol or clean brake fuid.
+магазины запасных частей), изопропиловый спирт или чистая тормозная жидкость.
 
-Caution:
+Внимание:
 
-under any circumstances,
-brake parts.
+ни при каких обстоятельствах,
+тормозные детали.
 
-It
+Это
 
-Do not,
+Не надо,
 
-use 2 petroleum-based solvent
+используйте 2 растворителя на нефтяной основе
 
-compressed air
+сжатый воздух
 
-is available,
+доступен,
 
-use
+использовать
 
-cles
+Клес
 
-it to dry
+это высохнуть
 
-the p:
+п:
 
-thoroughly (make sure it's fitered and unlubricated)
+тщательно (убедитесь, что он установлен и не смазан)
 
-46 Check the master cyinder bore for corrosion, scratches, nicks and
-score
+46 Проверьте отверстие главного цилиндра на наличие коррозии, царапин, вмятин и
+счет
 
-marks.
+отметки.
 
-If damage
+Если повреждение
 
-replaced with 2 new one.
+заменил на 2 новых.
 
-is
+есть
 
-evident,
+очевидно,
 
-the
+тот
 
-master
+мастер
 
-If the master cylinder
+Если главный цилиндр
 
-cyinder must
+цилиндр должен
 
-be
+быть
 
-is in poor condition
+находится в плохом состоянии
 
-then the caliper should be checked as well
+тогда суппорт тоже надо проверить
 17
 
-If the necessary measunng equipment is available,
+При наличии необходимого измерительного оборудования
 
-compare the
+сравнить
 
-11.5
-Apparatus
-for
-bleeding the brakes
+11,5
+Аппарат
+для
+прокачать тормоза
 
-dimensions of the master cylinder bore and piston to those aiven in the
-‘Specifications Section of this
+размеры отверстия главного цилиндра и поршня соответствуют указанным в
+«Раздел технических характеристик настоящего
 
-Chapter,
+Глава,
 
-replacing any
+замена любого
 
-component that it
+компонент, который это
 
-wom beyond the service limi
-18 A new piston and spring are included
+женщина за пределами службы
+18 В комплект входят новый поршень и пружина.
 
-in the rebuild ki
+в восстановлении ки
 
-Use them
+Используйте их
 
-regardless
-of
-the condition of the old ones,
+несмотря ни на что
+из
+состояние старых,
 
-19 Before reassembling the master cylinder, soak the piston and the
-Tubber cup
+19 Перед сборкой главного цилиндра намочите поршень и
+Кубок клубня
 
-seals
+печати
 
-in
+в
 
-clean
+чистый
 
-brake fluid
+тормозная жидкость
 
-Lubricate the master cylinder bi
-insert the parts in the
+Смажьте главный цилиндр би
+вставьте детали в
 
-for
+для
 
-ten
+десять
 
-or fifteen
+или пятнадцать
 
-mi
+ми
 
-clean brake fluid, then c
+очистите тормозную жидкость, затем c
 
-reverse order of disassembly,
+порядок разборки обратный,
 
-ensuring the
+обеспечение
 
-If the
+Если
 
-fitings are rusted,
+фурнитура проржавела,
 
-scratched or cracked,
+поцарапан или треснут,
 
-replace them.
+замените их.
 
-4 Inspect
+4 Осмотр
 
-the three-way hose joint fitted to the lower triple clamp of 1982 through
+трехходовое соединение шланга, прикрепленное к нижнему тройному хомуту 1982 года выпуска через
 
-1986 models.
-system and
-~ removal
+Модели 1986 года.
+система и
+~ удаление
 
-If it shows signs of leakage or corrosion,
+Если на нем имеются признаки утечки или коррозии,
 
-drain the
+слить
 
-remove
-@ for inspection. Refer
-to Chapter
-6 ‘Steering stem
-and installation’
+удалить
+@ для проверки. Обратитесь
+в главу
+6 ‘Рулевой шток
+и установка»
 
-for details
-of
+для подробностей
+из
 
-removal of the three-way
-union
+удаление тройника
+союз
 
-Replacement
+Замена
 
-tapered end of the spring is facing the piston. Make sure the lips on the
+конический конец пружины обращен к поршню. Убедитесь, что губы на
 
-5 The brake hoses have banjo union fitings on each end of the hose
+5 Тормозные шланги имеют банджо-штуцеры на каждом конце шланга.
 
-cup seals do not tum inside out when they are slipped into the bore.
+Манжетные уплотнения не выворачиваются наизнанку при вставлении в отверстие.
 
-Cover the surrounding area wth plenty of shop towels and unscrew
+Накройте окружающее пространство большим количеством магазинных полотенец и открутите.
 
-20 Depress the pushrod,
+20 Нажмите на толкатель,
 
-the banjo
+банджо
 
-then install the snap-ring
+затем установите стопорное кольцо
 
-snap-ring is properly seated in the groove).
+стопорное кольцо правильно сидит в канавке).
 
-(make sure th
+(убедитесь, что
 
-Install the dust boot
+Установите пыльник
 
-master cylinder. Ifthe clevis was removed on Magna models,
-top
+главный цилиндр. Если на моделях Magna была снята вилка,
+топ
 
-locknut
+контргайка
 
-(using the previously made
+(используя ранее сделанный
 
-marks),
+отметки),
 
-on the
+на
 
-install the
+установить
 
-cevis and
+севис и
 
-bottom
-
-Jocknult; tighten the locknuts to secure the clevis.
+дноДжокнулт; затяните контргайки, чтобы закрепить вилку.
 
 8)
 
-remove the
+удалить
 
-hose.
+шланг.
 
-Discard the
+Отбросьте
 
 6
 
-Postion
-t
+Позиция
+т
 
-hose,
+шланг,
 
-making
+делая
 
-between the two
+между двумя
 
-sure
+конечно
 
-components.
+компоненты.
 
-of the banjo fitting butts
+окурков банджо
 
-it
+это
 
-isrit twisted or
+искривлен или
 
-otherwise
+иначе
 
-Make sure the metal tube
+Убедитесь, что металлическая трубка
 
-against or is located between the
-equipped.
+против или расположен между
+оборудован.
 
-On Sabre models, then the top and bottom focknuts to
+На моделях Sabre верхняя и нижняя контргайки
 
-secure
+безопасный
 
-marks 1
+отметка 1
 
-{and tighten them to the specified torque setting
-7 Flush the old brake fluid from the system,
+{и затяните их с указанным моментом затяжки
+7 Слейте старую тормозную жидкость из системы,
 
-ommended fluid (see
+рекомендуемая жидкость (см.
 
-return ito ts orginal positon)
-On Magna models, connect
-the clevis pin,
+вернуть его в исходное положение)
+На моделях Magna подключите
+штифт с головкой,
 
-Wis 10 the brake pedal,
+Wis 10 педаль тормоза,
 
-washer and @ new cotter pin (spit pin),
+шайба и новый шплинт (вертел),
 
-Install the
+Установите
 
-using new sealing washers on both sides of the fitings,
+использование новых уплотнительных шайб с обеих сторон фитингов,
 
-Installation
-is a
-reverse of removal,
-noting
-the
-folowing:
-the previously made
+Установка
+это
+обратная демонтажу,
+отмечая
+тот
+следующее:
+ранее сделанное
 
-sealing
+уплотнение
 
-washers.
+шайбы.
 
-Portion
+порция
 
-the clevis on the pushrod (use
-b)
+вилка на толкателе (используйте
+б)
 
-bot on each end of the hose. Detach the hose from any clips
+бот на каждом конце шланга. Отсоедините шланг от всех зажимов
 
-may be present and
+может присутствовать и
 
-strained,
+напряженный,
 
-Installation
+Установка
 21
 
-that
+что
 
-Section 11).
+раздел 11).
 
-insert
+вставить
 
-refll the system with the
+Заполните систему
 
-Chapter 1) and bleed the air from the system
+Глава 1) и стравите воздух из системы.
 
-Check the operation of the brakes carefully before
+Перед тем как
 
-otoreycle
+оторикл
 
-bend the
+согнуть
 
-cotter pin fegs around the pin end to secure i
+шплинт запирается вокруг конца штифта, чтобы зафиксировать его.
 ©)
 
-Use new sealing washers on each side of the banjo union bot and
+Используйте новые уплотнительные шайбы с каждой стороны соединительного бота банджо и
 
-ensure the union butts against the cast lug on the master cyinder
+убедитесь, что штуцер упирается в литой выступ на главном цилиндре
 
 11
 
-Brake system bleeding
+Прокачка тормозной системы
 
-When tightened fo the specfied tomue
+При затягивании в указанном месте
 0)
 
-If the reservoir hose adaptor
+Если переходник шланга резервуара
 
-on the master cylinder body was
+на корпусе главного цилиндра было
 
-disturbed, install it using @ new O-ring. Ensure the reservoir hose
-securely Glamped fo its unions
-22 Fill the fluid reservoir with the specified fluid (see Chapter
-bleed the system following the procedure in Section 11.
+поврежден, установите его, используя новое уплотнительное кольцо. Убедитесь, что шланг резервуара
+надежно защищены от своих союзов
+22 Заполните бачок для жидкости указанной жидкостью (см. главу
+прокачайте систему, следуя процедуре, описанной в разделе 11.
 
-Install
+Установить
 
-1) and
+1) и
 
-the nght
+ночь
 
-side cover
+боковая крышка
 
-23 Check the brake pedal height and adjust & if nec
+23 Проверьте высоту педали тормоза и отрегулируйте ее, если необходимо.
 
-essary by altering
+эссарий путем изменения
 
-the dlevis position on the master cylinder pushrod
+положение рычага на толкателе главного цилиндра
 
-e Chapt
+Электронная глава
 
-Check the
+Проверьте
 
-operation of the rear brake
+работа заднего тормоза
 
-carefully bel
+тщательно белить
 
-niding
+нидинг
 
-the
+тот
 
-motorcycle
+мотоцикл
 
-Refer to Wustraton 11.5
+См. Вустратон 11.5.
 1
 
-Bleeding the brakes is simply the process of removing all the air
+Прокачка тормозов – это просто процесс удаления всего воздуха.
 
-bubbles from the
-alipers.
+пузыри из
+алиперы.
 
-connection
+соединение
 
-the hoses and the
+шланги и
 
-is loosened,
+ослаблен,
 
-when
+когда
 
-brake system
+тормозная система
 
-brake
+тормоз
 
-hydraulic
+гидравлический
 
-@ component or hose is replaced.
+@ компонент или шланг заменены.
 
-or
+или
 
-when the master
-cylinder
-or
-caliper is overhauled. Leaks in the system
+когда мастер
+цилиндр
+или
+суппорт отремонтирован. Утечки в системе
 
-may
+может
 
-also allow air to enter, but leaking brake fluid will reveal their
+также допускайте попадание воздуха, но вытекающая тормозная жидкость обнажит их
 
-resence
-and wam you of the need for repair.
+присутствие
+и предупредил вас о необходимости ремонта.
 
-2 To bleed the
+2 Чтобы пустить кровь
 
-brakes,
+тормоза,
 
-you will need some new, clean brake fluid of
+вам понадобится новая, чистая тормозная жидкость
 
-‘ommended type (see Chapter
-tic tubing,
+«рекомендуемый тип (см. главу
+тиковые трубки,
 
 10.
 
-brake fuid reservoirs,
+бачки тормозной жидкости,
 
-Bleeding is necessary whenever a
+Кровотечение необходимо всякий раз, когда
 
 1),
 
-a length of clear vinyl or
+кусок прозрачного винила или
 
-a small container partially filed with clean brake fuid
+небольшая емкость, частично заполненная чистой тормозной жидкостью
 
-‘some shop towels and a wrench to ft the brake caliper bleeder valves
+«Несколько полотенец и гаечный ключ для крепления клапанов прокачки тормозного суппорта»
 
-Brake hoses - inspection and replacement
-
-3
-
-Cover the fuel tank
-
-and
-
-other painted
-
-components to prevent
-
-damage in the event that brake fuid is spilled
-4 Remove
-the
-
-Inspection
-1 Once @ week.
-every nde,
-
-cap or cover.
-
-plate (where fitted),
-
-diaphragm
-
-and ficat (1988
-750 Magna) and slowly pump the brake
-lever
-or
-pedal
-oF if the motorcycle is used less frequently, before
-
-check the concliton of
-
-the Brake hos
-
-connect with the banjo fitings,
-fare
-
-as these are
-
-a
-
-few times,
-
-until no air bubbles can be seen floating up from the
-
-holes at the bottom of the reservoir. Doing this bleeds the air from the
-
-2 Twist and flex the rubber hoses while looking for cracks, bulges and
-seeping fluid. Check extra caretly around the areas where the hoses
+Тормозные шланги – проверка и замена
 
 3
 
-reservoir
+Закройте топливный бак
 
-common areas
+и
 
-for hi
+другой окрашенный
 
-Inspec the metal banjo union fitings connected to brake hoses.
+компоненты для предотвращения
 
-master
+ущерб в случае пролития тормозной жидкости
+4 Удалить
+тот
 
-cyinder
+Инспекция
+1 раз в неделю.
+каждый день,
 
-end
+колпачок или чехол.
 
-of
+пластина (если имеется),
 
-the
+диафрагма
 
-line.
+и фикат (1988 г.
+750 Magna) и медленно прокачиваем тормоз.
+рычаг
+или
+педаль
+oF, если мотоцикл используется реже, прежде чем
 
-install
+проверить заключение
 
-the
+тормозной шланг
 
-reservoir
+соединить с помощью банджо-фитингов,
+стоимость проезда
 
-capfcover
+как это
 
-‘components loosely.
-5 Attach one end of the clear
+а
 
-vinyl or
+несколько раз,до тех пор, пока не перестанут появляться пузырьки воздуха, поднимающиеся из
 
-plastic tubing to the bleeder
+отверстия на дне резервуара. При этом воздух стравливается из
 
-valve and submerge the other end in the brake fluid in the container
+2 Скручивайте и сгибайте резиновые шланги, обращая внимание на наличие трещин, вздутий и
+просачивающаяся жидкость. Внимательно проверьте места, где находятся шланги.
 
-(see illustration).
+3
 
-Chapter7
+резервуар
 
-Brakes, wheels and tires
+места общего пользования
+
+для привета
+
+Осмотрите металлические фитинги типа «банджо», подсоединенные к тормозным шлангам.
+
+мастер
+
+цилиндр
+
+конец
+
+из
+
+тот
+
+линия.
+
+установить
+
+тот
+
+резервуар
+
+крышка
+
+'компоненты свободно.
+5 Прикрепите один конец прозрачной
+
+винил или
+
+пластиковая трубка для прокачки
+
+клапан и погрузите другой конец в тормозную жидкость в контейнере.
+
+(см. иллюстрацию).
+
+Глава 7
+
+Тормоза, колеса и шины
 
 7-13
 
 9
 
-Brake ver
+Тормозная версия
 
 40
 
-Torque ann connection components
-(eter models)
+Момент затяжки и соединительные компоненты
+(эфирные модели)
 
-8 Retighten the bleeder
+8 Затяните штуцер для прокачки
 
-vaive, then release the brake
+уклониться, затем отпустить тормоз
 
-lever or
+рычаг или
 
-pedal gradually. Repeat the process until no air bubbles are visible
-in the brake fluid leaving the caliper and the lever or pedal is firm
-when applied.
+педаль постепенно. Повторяйте процедуру до тех пор, пока не перестанут появляться пузырьки воздуха.
+в тормозной жидкости, выходящей из суппорта, а рычаг или педаль прочны
+при применении.
 
-9 Install the reservoir cap or cover. wipe up any spilled brake fluid
-land check the entire system for leaks. Note: /f bleeding is difficut,
-{it may be necessary to kt the brake fluid in the system stabitte for a fers
+9 Установите крышку резервуара. вытрите пролитую тормозную жидкость
+наземная проверка всей системы на предмет утечек. Примечание: /f кровотечение затруднено,
+{возможно, потребуется стабилизировать тормозную жидкость в системе для
 
-‘hours (Bt may be aerated).
+'часы (Bt может быть аэрированным).
 
-‘bleeding procedure when the tiny
+«процедура кровотечения, когда крошечный
 
-‘bubbles in the system have settled out
+«пузыри в системе улеглись»
 
-12 Rear drum brake:garemodels) -removal,
-inspection andinstallation
+12 Задний барабанный тормоз: модели Gare) -снятие,
+осмотр и установка
 
-124 Remove the brake shoes and springs as a single unit
+124 Снимаем тормозные колодки и пружины одним блоком.
 
-Waring: The dust collected by the brake system may contain
-asbestos, which is harmful to your heath. Never biov Rout with
-Compressed
-ak and
-don't inhale any of &. An approved fering mask
-should
-be viom vihen working
-on the brakes.
+Внимание: Пыль, собираемая тормозной системой, может содержать
+асбест, который вреден для вашего здоровья. Никогда не биов Раут с
+Сжатый
+АК и
+не вдыхайте &. Одобренная маска Феринга
+должен
+будь здоров, работай
+на тормозах.
 
-Removal
-Refer
-to Blstrations 12.3 and 124
-6 Remove the reservoir cap/cover components and check the fluid
+Удаление
+Обратитесь
+к Бл. 12.3 и 124
+6 Снимите крышку бачка/компоненты крышки и проверьте уровень жидкости.
 
-level. Do not allow the fluid level to drop below the lower mark
-during the bleeding process.
+уровень. Не допускайте падения уровня жидкости ниже нижней отметки
+в процессе кровотечения.
 
-7 Carefully pump the brake lever or pedal three or four times and
-hold it in (front) or down (rear) while opening the caliper bleeder
+7 Осторожно нажмите тормозной рычаг или педаль три или четыре раза и
+удерживайте его внутри (спереди) или вниз (сзади), открывая штуцер для прокачки суппорта
 
-valve. When the
+клапан. Когда
 
-valve is opened, brake fluid will flow out of the
+клапан открыт, тормозная жидкость вытечет из
 
-iper into the
-clear tubing and the lever will move toward the
-handlebar or the pedal will move down.
+ипер в
+очистите трубку, и рычаг переместится в сторону
+руль или педаль опустится вниз.
 
-1 Before you start, inspect the rear brake wear indicator (see
-Chapter 1).
-2 Remove the rear wheel (see Section 16) and lif the brake panel
-‘ut of the hub,
-3 Remove the cotter pins (split pins) from the pivot posts and lif off
-the retaining plate (see illustration).
-4 Fold the shoes toward each other to release the spring tension.
+1 Прежде чем начать, проверьте индикатор износа задних тормозов (см.
+Глава 1).
+2 Снимите заднее колесо (см. раздел 16) и поднимите тормозную панель.
+'из хаба,
+3 Снимите шплинты (шплинты) с шарнирных стоек и снимите их.
+удерживающую пластину (см. рисунок).
+4 Сложите туфли друг к другу, чтобы ослабить натяжение пружины.
 
-Remove the shoes and springs from the brake panel (see
-illustration).
+Снимите колодки и пружины с тормозной панели (см.
+иллюстрация).
 
-Chapter7
+Глава 7
 
-Brakes, wheels and tires
+Тормоза, колеса и шины
 
-12.6 Measuring brake lining thickness
+12.6 Измерение толщины тормозных накладок
 
-128 Check for punch marks (arrow) on the cam end and lever
-fingemall,
+128 Проверьте наличие меток (стрелка) на конце кулачка и рычаге.
+палец,
 
-surface.
+поверхность.
 
-have the drum turned (skimmed) by a dealer to correct the
+поручите дилеру провернуть (очистить) барабан, чтобы исправить
 
-If the drum has to be tumed (skimmed) beyond the service
+Если барабан необходимо перевернуть (обезжирить) после окончания срока службы
 
-limit
-to remove the defects, replace the wheel
+предел
+для устранения дефектов заменить колесо
 
-Installation
-10 If he cam was removed from the brake panel,
+Установка
+10 Если кулачок был снят с тормозной панели,
 
-apply high-metting
+применять высокоэффективные
 
-point grease to tts shat, then insert it in the panel. install the felt seal
-and
+направьте смазку на ттс шат, затем вставьте его в панель. установить фетровый уплотнитель
+и
 
-wear
+носить
 
-indicator
+индикатор
 
-pointer,
+указатель,
 
-aligning
+выравнивание
 
-coresponding slot in the cam.
-marks,
+соответствующий паз в кулачке.
+знаки,
 
-its
+это
 
-wide
+широкий
 
-spline
+сплайн
 
-with
+с
 
-the
+тот
 
-Align the previouslymade match
+Выровняйте ранее созданное совпадениеи установите тормозной рычаг на шлицы кулачка,
 
-and install the brake lever on the cam splines,
+Установите и
 
-Install and
-
-tighten its pinch bolt to the specified torque.
+затяните стяжной болт указанным моментом.
 11
 
-Apply high-melting pont grease
-to the shoe pivots and the cam,
+Нанесите высокоплавкую понтовую смазку
+к шарнирам башмака и кулачку,
 
-12 Hook the springs into the shoe holes.
-the brake panel,
+12 Вставьте пружины в отверстия для колодок.
+тормозная панель,
 
-Position the shoes in a V on
+Расположите туфли буквой V на
 
-then fold them down into position.
+затем сложите их на место.
 
-Make sure the
+Убедитесь, что
 
-ends of the shoes fit correctly against the cam and over the pivot
+концы колодок правильно прилегают к кулачку и шарниру
 
-posts. instal the retaining plate over the pivot posts and fit new cotter
-pins (spit pins); bend their ends around the posts
-13 Operate the brake lever and check that the shoes move freely and
+посты. установите удерживающую пластину на шарнирные стойки и установите новый шплинт
+булавки (косы); загните их концы вокруг столбов
+13 Нажмите тормозной рычаг и убедитесь, что колодки движутся свободно и
 
-retum under spring tension
-14 Install the brake panel in the rear wheel.
+возврат под напряжением пружины
+14 Установите тормозную панель на заднее колесо.
 
-Install the rear wheel (see
+Установите заднее колесо (см.
 
-Section 16)
-15 Check the brake pedal freeplay (see Chapter 1) and check the
+Раздел 16)
+15 Проверьте свободный ход педали тормоза (см. главу 1) и проверьте
 
-18.2a Use a dial indicator
-to measure wheel runout
-A
+18.2a Используйте циферблатный индикатор
+для измерения биения колеса
+А
 
-Radiat runout
+радиационное биение
 
-B_
+Б_
 
-operation of the brake and stop light before riding the motoreycle.
+включение тормоза и стоп-сигнала перед поездкой на мотоцикле.
 
-Axsinmout
+Акссинмут
 
 43.
 
-Inspection
+Инспекция
 
-Refer
-'o dustratios 1329,
+Обратитесь
+'о дустратиос 1329,
 
-to dustrations 12.6 and 128
-Refer
-road dit or water: Ifthe linings are visibly defective, replace them
+к дустрациям 12.6 и 128
+Обратитесь
+дорожная яма или вода: если накладки имеют видимые дефекты, замените их.
 
-6 Measure the thickness of the lining material (ust the lining material
-Chapter's Specifications (see
+6 Измерьте толщину материала подкладки (если материал подкладки
+Характеристики главы (см.
 
-13 2b and 13.2
+13 2б и 13.2
 
-1 Place the motorcycle on the main stand, or support it securely in an
+1 Поместите мотоцикл на основную подставку или надежно закрепите его на
 
-5 Check the linings for wear, damage and signs of contamination from
+5 Проверьте накладки на износ, повреждения и признаки загрязнения от
 
-not the metal backing) and compare with the service
+не металлическая основа) и сравните с сервисом
 
-Wheels - inspection
-and repair
+Колеса - осмотр
+и ремонт
 
-imit in this
+подражать этому
 
-illustration). Replace the shoes if the
+иллюстрация). Замените обувь, если
 
-lining is near to or worn beyond the service iit
+подкладка близка к сроку службы или изношена слишком долго
 
-7 Check the ends of the shoes where they contact the brake cam end
+7 Проверьте концы колодок там, где они соприкасаются с торцом тормозного кулачка.
 
-Upright position where only a side stand is fitted. Clean the wheels
+Вертикальное положение, при котором установлена только боковая подставка. Очистите колеса
 
-fhoroughly to remove mud and dit that may interfere with the
-inspection procedure or mask defects.
+тщательно удалить грязь и канавы, которые могут мешать работе
+Процедура проверки или маскировка дефектов.
 
-Make
+Сделать
 
-wheels and tires as desenbed in Chapter 1.
+колеса и шины, как описано в главе 1.
 
-general check of the
-Note:
+общая проверка
+Примечание:
 
-To carry out @
+Чтобы выполнить @
 
-thorough check of the rear whee! casting on 1987 and 1988 700/750
-Magna models, remove the wheel (see Section 16) and remove the
-wheel cover from the eft sie; it iS retained by three screws to the
+тщательная проверка заднего колеса! кастинг на 1987 и 1988 годы 700/750
+Модели Magna снимите колесо (см. раздел 16) и снимите
+колпак колеса от ефт сие; он крепится тремя винтами к
 
-these points
-at
-wear
-pivot posts. Replace the shoes if there's visible
+эти точки
+в
+носить
+поворотные посты. Замените обувь, если она видна.
 
-wheel hub
+ступица колеса
 
-'8 Check the brake cam and pivot posts for wear and damage. Look for
-punch alignment marks on the cam end and lever, and if none are
+'8 Проверьте тормозной кулачок и поворотные стойки на предмет износа и повреждений. Ищите
+пробейте метки совмещения на конце кулачка и рычаге, и, если их нет,
 
-2 With the wheel being checked raised off the ground, attach @ dial
+2 Подняв проверяемое колесо над землей, прикрепите @ диск
 
-found make your own, then remove the pinch bolt, lever, wear indicator
+нашел сделай сам, затем сними стяжной болт, рычаг, индикатор износа
 
-against the side of the rim (see
+к краю обода (см.
 
-pointer, tet seal and cam from the brake panel (see ilustration).
+указатель, уплотнитель и кулачок с тормозной панели (см. рисунок).
 
-indicator to the fork slider or the swingarm and position ts stem
+индикатор на ползун вилки или маятник и положение штока
 
-illustrations). Spin the wheel slondy
-‘and check the side-to-side (axial) runout of the m, then compare your
+иллюстрации). Крути колесо, Слонди
+'и проверьте поперечное (осевое) биение m, затем сравните
 
-‘9.Check the brake drum (inside the wheel hub) for wear and damage
-Measure the diameter at several points with a brake drum micrometer
+‘9.Проверьте тормозной барабан (внутри ступицы колеса) на предмет износа и повреждений.
+Измерьте диаметр в нескольких точках микрометром тормозного барабана.
 
-readings wih the value listed in this Chepter's Specifications. In order
+показания со значением, указанным в технических характеристиках данной главы. В порядке
 
-It the measurements are uneven (indicating that the drum is out-of
+Если измерения неравномерны (что указывает на то, что барабан вышел из строя).
 
-would have to be removed from the machine. Wth the axle camped in
+придется снять с машины. Когда ось застряла
 
-round) orifthere ere scratches deep enough to snap 2
+круглый) или если есть царапины, достаточно глубокие, чтобы можно было сломать 2
 
-to accurately check radial runout with the dial indicator, the wheel
+Для точной проверки радиального биения циферблатным индикатором колесо2, колесо можно повернуть, чтобы проверить регулировку (см. рисунок).
+3 Более простой, хотя и менее точный метод – прикрепить жесткий
+провод указатель
+к слайдеру вилки
+или маятник и расположите конец
 
-2 vise, the wheel can be rotated to check the nunout (see illustration).
-3 An easier, though slightly less accurate, method is to attach a stiff
-wire pointer
-to the fork slider
-or the swingarm and position the end a
+Глава 7 Тормоза, колеса и шины
 
-Chapter 7 Brakes, wheels and tires
+поднять переднюю часть
+чтобы
+подставка
+154 Усеа
 
-raise the front
-to
-jackstand
-154 Usea
+18.2¢ Измерение радиального биения
 
-18.2¢ Measuring radial runout
+13.2 Измерение осевого биения
 
-13.2 Measuring axial runout
+'колесо
+выкл.
+земля
 
-‘wheel
-off
-the ground
+доля дюйма от колеса (место соединения колеса и шины). Это
 
-fraction of an inch from the wheel (where the wheel and tire join). It
+9 Если выравнивание спереди назад правильное, возможно, колеса все еще находятся вне
 
-9 Ifthe front-to-back alignment is correct, the wheels still may be out of
+4 Колеса также следует проверить визуально на наличие трещин, полотенец.
+на ободе и другие повреждения. Поскольку установлены бескамерные шины, они выглядят очень
 
-4 The wheels should also be visually inspected for cracks, flat spots
-on the rim and other damage. Since tubeless tires are fitted, look very
+веревку, проверьте заднее колесо, чтобы убедиться, что оно вертикально. Для этого удерживайте
+прижмите веревку к верхней боковой стенке шины и дайте весу осесть
+прямо с пола. Когда струна касается верхней и нижней шины
 
-string, check the rear wheel to make sure itis vertical, To do this, hold
-the string against the tire upper sidevvall and allow the weight to settle
-just off the floor. When the string touches both the upper and lower tire
+колесо верно, расстояние от указателя до обода будет
+/ф ух! биение чрезмерное,
+'постоянная при вращении колеса. Примечание:
+проверь колесо! подшипники очень внимательно перед заменой колеса
 
-the wheel is true, the distance from the pointer to the rim will be
-/f whee! runout is excessive,
-‘constant as the wheel is rotated, Note:
-check the whee! bearings very carefully before replacing the wheel
+Внимательно осмотрите вмятины в месте контакта борта шины с ободом.
 
-closely for dents in the area where the tire bead contacts the rim.
+Вмятины в этой области могут помешать полной герметичности шины по отношению к
 
-Dents in this area may prevent complete sealing of the tire against the
+Фим, что приводит к деградации тре в течение определенного периода времени,
+5 Если повреждение очевидно или биение в любом направлении слишком велико,
+ух! придется заменить на новый. Никогда не пытайтесь ремонтировать
+«Поврежденное литое алюминиевое колесо!»
 
-Fim, which leads to detation of the tre over a period of time,
-5 If damage is evident, or if runout in either direction is excessive, the
-whee! will have to be replaced with a new one. Never attempt to repair
-‘a damaged cast aluminum whee!
+| Несоосность колес, что может быть связано с перекосом задних колес.
+колесо погнутой рамы или тройные зажимы могут вызвать странные и, возможно,
 
-| Misalignment of the wheels, which may be due to a cocked rear
-wheel of a bent frame or triple clamps, can cause strange and possibly
+Серьезные проблемы с управлением. Если рама или тройные зажимы неисправны
 
-Serious handling problems. If the frame or triple clamps are at fault
+ремонт специалистом по раме или замена запчастей теперь являются единственными
 
-repair by a frame specialist or replacement with now parts are the only
+2 Для проверки центровки вам понадобится помощник,
+или идеально
 
-2 To check the alignment you will need an assistant,
-or a pertectly
+длина строки
 
-a length of string
+прямой кусок дерева и линейка с градуировкой 1/64 дюйма.
 
-straight piace of wood and a ruler graduated in 1/64 inch
+приращения. Также понадобится отвес или другой подходящий груз.
 
-increments. A plumb bob or other suitable weight will elso be required
+3 Установите мотоцикл на основную подставку. Где нет главной трибуны
 
-3 Place the motorcycle on the main stand. Where no main stand is
+установлено, надежно закрепите проушину двигателя под картером, чтобы она
+ширина обоих деревьев в самых широких точках. Вычесть
+вертикальный. Мера
 
-fited, support the motoreyele securely under the crankcase so thet itis
-the width of both tres at their widest points. Subtract
-vertical. Measure
+меньшее измерение от большего, затем разделите
+разница в два раза. Результатом является сумма компенсации, которая должна
 
-the smaller measurement from the larger measurement, then divide
-the difference by two. The result is the amount of offset that should
+«существуют между передними и задними шинами с обеих сторон,
+4. Если используется веревка, попросите вашего помощника подтянуть ее один конец, чтобы он остановился.
 
-‘exist between the front and rear tires on both sides,
-4 Ifa string is used, have your assistant Nold one end of it about halt
+между полом и задней осью, касаясь задней боковины
+дерево,
 
-way between the floor and the rear axle, touching the rear sidewall of
-the tre,
+5 Пропустите другой конец веревки вперед и туго натяните его, чтобы он
+контакт с
+примерно параллельно полу. Медленно введите веревку в
 
-5 Run the other end of the string forward and pul it tight so that it is
-contact with the
-roughly parallel to the floor. Slowly bring the string into
+передняя боковина задней опоры, затем поверните переднее колесо до тех пор, пока оно не станет параллельным
+С помощью веревки измерьте расстояние от боковины передней шины до
+строка.
 
-front sidewall of the rear tre, then turn the front wheel until iis parallel
-with the string, Measure the distance from the front tire sidewall to the
-string.
+6 Повторите процедуру на другой стороне мотоцикла.
+Расстояние от боковины передней шины до струны должно быть равно
+обе стороны
 
-6 Repeat the procedure on the other side of the motorcycle. The
-distance from the front tire sidewall to the string should be equal on
-both sides
+7 Как уже отмечалось ранее, идеально прямой кусок дерева
 
-7 As was previously pointed out, a perfectly straight length of wood
+то же самое.
+может быть заменена строкой. Процедура& Если расстояние между веревкой и шиной больше с одной стороны или
 
-is the same.
-may be substituted for the string, The procedure
-& Ifthe distance between the string and tire is greater on one side, or it
+заднее колесо сначала кажется взведенным
+«Подшипники маятника (см.
 
-the rear wheel appears to be cocked, first
-‘swingarm bearings (see
+Глава 6). Если
 
-Chapter 6). If the
+маятник или рама могут быть погнуты
 
-swingarm or frame may be bent
+40 Используя отвес,
 
-40 Using the plumb bob,
+проверить состояние
 
-check the condition of the
+подшипники не изношены,
 
-bearings are not wom, the
+или другой подходящий вес и длину
 
-or other suitable weight, and a length of
+и идеально прямой, колесо вертикальное. Если нет, поместите
+'боковины
+тонкие проставки под одну ножку основной стойки.
 
-and is perfectly straight, the wheel is vertical. Ifitis not, place
-‘sidewalls
-thin spacers under one leg of the main stand.
+11 Если заднее колесо стоит вертикально, проверьте переднее колесо так же.
 
-11 Ones the rear wheel is vertical, check the front wheel in the same.
+образом. Если оба колеса не идеально вертикальны,
 
-manner. If both wheels are not perfectly vertical,
+рама и/или
 
-the frame and/or
-
-‘major suspension components are bent
+«Основные компоненты подвески погнуты
 
 15
 
-14 Wheels - alignment check
+14 Колеса – проверка сход-развала
 
-alternatives
+альтернативы
 
-alignment vertically,
+выравнивание по вертикали,
 
-Front wheel - removal and installation
+Переднее колесо – снятие и установка
 
-Removal
-Refer
-to ilustrations 15.1,
+Удаление
+Обратитесь
+к иллюстрациям 15.1,
 
-159, 15.10.and 15.41
+159, 15.10 и 15.41
 
-1 Place the motorcycle on its main stand, then raise the front wheel off
-the ground by tying down the rear of the machine or using a jackstand
-Under the engine (see illustration). On models without @ main stend,
+1 Поставьте мотоцикл на основную подставку, затем снимите переднее колесо.
+землю, привязав заднюю часть машины или используя домкрат.
+Под двигателем (см. рисунок). На моделях без @ основной стойки,
 
-remove the belly fainng (see Chapter 6) and place a floor jack, with&
-wood block on the jack head, under the crankcase, raise the jack to lit
-the whos! off the ground
+снимите брюшную часть (см. главу 6) и поместите домкрат с&
+деревянный брусок на головке домкрата под картером, поднимите домкрат, чтобы он загорелся
+кто! от земли
 
-Sabre models
+Модели сабель
 
-2.0n 1100 models and 1982/83 750 Sabres, remove its set screw and
+2.0n 1100 моделей и 750 Sabres 1982/83 года выпуска, снимите установочный винт и
 
-Tolease the speedometer sensor unt from the loft side of the axle. On
+Отсоединить датчик спидометра от верхней части оси. Вкл.
 
 1984/85
 
 700
 
-Sabres,
+Сабли,
 
-remove the set screw and withdraw the
+выверните установочный винт и снимите
 
-speedometer cable trom the drive unit. Release its wiring or cable (as,
-applicable) from the guide on the left caliper bracket
-2. Remove the two caliper bracket-to-fork slider bolts and withdraw the
-fight caliper complete with its bracket trom the slider. Support the
+Трос спидометра от привода. Освободите проводку или кабель (как,
+применимо) из направляющей на левом кронштейне суппорта.
+2. Отверните два болта крепления кронштейна суппорта к вилке и снимите
+бой суппорта в комплекте с кронштейном для ползунка. Поддержите
 
-caliper so thal it does not hang by its hose. Note: Place a wood or
-plastic wedge between the brake pads fo prevent their
+суппорт, чтобы он не висел на шланге. Примечание. Поместите дерево или
+пластиковый клин между тормозными колодками для предотвращения их
 
-accidental
+случайный
 
-expulsion # the brake lever is operated.
-4 Loosen the axle clamp bolts (700/750) or axle pinch bolt (1100) on
+выталкивание # срабатывает тормозной рычаг.
+4 Ослабьте болты зажима оси (700/750) или стяжной болт оси (1100) на
 
-the right side, then unscrew and withdraw the axle from the right side
+правую сторону, затем отвинтите и снимите ось с правой стороны
 
-1982 through 1986 Magna models
+Модели Magna с 1982 по 1986 годы.
 
-5 Remove its set screw and pull the speedometer cable out of the
-speedometer drive unit
+5 Выверните установочный винт и вытащите трос спидометра из
+привод спидометра
 
-6 Remove the two caliperto-caliper bracket bolts from each caliper
-‘and slide the calipers off the disc, support their hoses to prevent strain
+6 Отверните по два болта крепления кронштейна суппорта к каждому суппорту.
+«и снимите суппорты с диска, поддержите их шланги, чтобы предотвратить деформацию
 
-‘on them. Note: Place @ wood or plastic wedge between the brake pads to
-vent thelr accuental expulsion f the brake kver is operated
-7 Loosen the axle pinch bolt on the night side, then unscrew and
-withdraw the axle from the night side,
+«На них». Примечание. Поместите @ деревянный или пластиковый клин между тормозными колодками, чтобы
+Выпустите ударный выброс, если нажат тормозной рычаг
+7 Ослабьте стяжной болт оси на ночной стороне, затем открутите и
+вывести ось с ночной стороны,
 
 7-6
 
-Chapter7 Brakes, wheels and tires
-‘ler dive from the left side (See illustration). Caution:
+Глава 7 Тормоза, колеса и шины
+ныряйте с левой стороны (см. иллюстрацию). Внимание:
 
-speed
-ley
+скорость
+лей
 
-the wheel down and
+колесо вниз и
 
-could
+мог бы
 
-become warped.
+стать искривленным.
 
-allow
+разрешить
 
-doesn’ suppor the weight of
-Drake lever
+не выдерживает вес
+Рычаг Дрейка
 
-wih
+с
 
-11 If the axle
+11 Если ось
 
-it
+это
 
-fo
+фо
 
-Set the
-the
+Установите
+тот
 
-res fon
+разрешение фон
 
-whee
+ух ты
 
-Don’t
+Не
 
-one of the discs - the disc
+один из дисков - диск
 
-on wood blocks so the disc
+на деревянных брусках, чтобы диск
 
-Note:
+Примечание:
 
-ff
-Do not operate the
+фф
+Не используйте
 
-the whee! removed
+ух! удалено
 
-is corroded, remove the corrosion with fine emery
+корродирован, удалите коррозию мелким наждаком
 
-cloth. Set the axle on V-blocks and measure the runout with a dial
-test indicator, if runout exceeds the service limit, replace the axle
-{see ilustration|
+ткань. Установите ось на V-образные блоки и измерьте биение линейкой.
+индикатор проверки, если биение превышает эксплуатационный предел, замените ось
+{см. иллюстрацию |
 12
 
-Check the condition of the wheel bearings (see
+Проверьте состояние подшипников колес (см.
 
-Section 17).
+раздел 17).
 
-Installation
-tb
-Refer
+Установка
+ТБ
+Обратитесь
 
-16.9 Axle clamp bolts on 1987 and 1988 700/760 Magnas
+16.9 Болты крепления оси на автомобилях 700/760 Magnas 1987 и 1988 годов выпуска.15 14 и 15.16
+иллюстрации
 
-15 14 and 15.16
-ilustratons
+13 Установите привод спидометра на левое боковое колесо, совместив его,
+пазы ведущей шестерни с выступами ведущего диска. Установите проставку в
+узкая сторона
+колеса.
+14 Установите колесо в нужное положение. Нанесите тонкий слой смазки
+к оси.
 
-13 Fit the speedometer drive unit to the lef side wheel aligning its,
-drive gear slots with the driveplate tabs. Install the spacer in the
-tight side
-of the wheel.
-14 Maneuver the wheel into position. Apply a thin coat of grease
-to the axle.
+Если зажим оси был снят на 700/750 S
 
-If the axle clamp was removed on 700/750 S
+'модели, установите его так, чтобы стрела была обращена вперед, но оставьте &s
 
-‘models, install it with its cast arrow facing forward, but leave &s
+Модели 700/750 Magna 1987 и 1988 годов.
+8 Выверните установочный винт и вытащите трос спидометра из
+привод спидометра
 
-1987 and 1988 700/750 Magna models
-8 Remove its set screw and pull the speedometer cable out of the
-speedometer drive unit
+на этом этапе ослабляются гайки (см.
 
-nuts loose at this stage (see
+15 Поднимите колесо на место, направляя диск(и) между
+тормозные колодки на моделях, где суппорты не снимались.
+«Убедитесь, что правая боковая прокладка остается на месте, и установите
 
-15 Lift the wheel into position, guiding the disc(s) between the
-brake pads on models where the calipers were not removed.
-‘Check that the right side spacer remains in place and position the
+привода спидометра так, чтобы его выступ упирался в заднюю часть
+'литой выступ на левой стороне.
 
-speedometer drive unit so that its lug butts against the back of the
-‘cast lug on the left sider.
+Все модели,
 
-All models,
-
-16 On 1982 through 1986 models, slide the
+16 На моделях 1982–1986 годов сдвиньте
 
 10
 
-the right side
-tighten it to
+правая сторона
+затяните его, чтобы
 
-Remove the spacer from the right side of the wheel and the
+Снимите проставку с правой стороны колеса и
 
-Right brake aise
+Правый тормозной подъем
 
-16.10 Front wheel components
+16.10 Компоненты переднего колеса
 
-axle into position from
+ось в положение из
 
-and thread it into the threads of the
+и вденьте его в нити
 
-left slider;
+левый слайдер;
 
-Chapter7
+Глава 7
 
-Brakes, wheels and tires
+Тормоза, колеса и шины
 
-TAT
+ТАТ
 
-16.14 Arrow mark must face forward
-on
+16.14 Стрелка должна быть направлена вперед.
+на
 
-16.16 Measuring disc-to-caliper
+16.16 Измерительный диск к штангенциркулю
 
-700/750 Sabre axle clamp
+700/750 Зажим оси Sabre
 
-bracket clearance
+зазор кронштейна
 
-18.4 Brake torque arm Is retained to brake panel by split pin, nut
-and pivot bolt on 1986-0 model
+18.4 Тормозной моментный рычаг Крепится к тормозной панели шплинтом и гайкой.
+и шарнирный болт на модели 1986-0 года
 18
 
-Conne
+Конне
 
-weedometer
+видометр
 
-Securely
-tighten
+Безопасно
+затягивать
 
-its
+это
 
-retaining
+сохранение
 
-wire guide on the left
+направляющая для проволоки слева
 
-caliper
+штангенциркуль
 
-cable
+кабель
 
-support from under
+поддержка снизу
 
-Pump
+Насос
 
-ground
+земля
 
-to the drive unit
+к приводному блоку
 
-screw
+винт
 
-p
+п
 
-th
+й
 
-and
+и
 
-jefwire through tt
+джефвайр через ТТ
 
-bracket
+кронштейн
 
-the
+тот
 
-gine and rest
+Джин и отдых
 
-t
+т
 
-fr
+фр.
 
 @
 
-few
+несколько
 
-front whe
+спереди, когда
 
-tim
+Тим
 
-sition
+позиция
 
 16
 
-Rear wheel - removal and installation
+Заднее колесо – снятие и установка
 
-Removal
-700/750 models
-ilustrations 16.3,
+Удаление
+Модели 700/750
+иллюстрации 16.3,
 
-to
-Refer
+чтобы
+Обратитесь
 
-16.6 Fully unscrew the rear brake
+16.6 Полностью открутить задний тормоз
 
-Brakeved
+Тормозной
 
 1
 
-Set the bike
+Установить велосипед
 
-torque.
+крутящий момент.
 
-If they were removed,
+Если бы их удалили,
 
-install the
+установить
 
-calipers
+штангенциркули
 
-on the
+на
 
-brake discs
-Jsing
+тормозные диски
+Джсинг
 
 @
 
-and tighten their mounting bolts to the specified torque,
-feeler bl jade, measure the
-07 mm (0.028 in)
-clearance
+и затяните болты их крепления указанным моментом,
+щуп бл нефрит, измерь
+07 мм (0,028 дюйма)
+оформление
 
-between the right caliper bracket and the brake
-disc;
-jess than the gauge thickness, pull the
-and
+между правым кронштейном суппорта и тормозом
+диск;
+Джесс, чем толщина датчика, потяните
+и
 
-leave
+уйти
 
-it
+это
 
-in
+в
 
-place
+место
 
-while
+пока
 
-the
+тот
 
-clamp
+зажим
 
-or
+или
 
-ifthe
+если
 
-clear
+ясно
 
-right slider outwards
+правый ползунок наружу
 
-at
+в
 
-pinch
+щепотка
 
-bolts
+болты
 
-Wlustration). Tighten the pinch bolt or nuts to
-noting that
+Влюстрация). Затяните стяжной болт или гайки так, чтобы
+отмечая, что
 
-ince
+Инс
 
-are tightened
+затянуты
 
-clamp must
+зажим должен
 
-1988 700/750 models,
+1988 модели 700/750,
 
 2
 
-securely
+надежно
 
-Remove
+Удалить
 
-be
+быть
 
-the nut and tighten
-it to the specified torque.
+гайку и затяните
+его с указанным крутящим моментом.
 
-left
+ушел
 
-side
+сторона
 
-stand,
+стоять,
 
-of the wheel
+колеса
 
-then remove the bolt (see illustration).
+затем снимите болт (см. рисунок).
 
-4 On
+4 Вкл.
 
-Note
+Примечание
 
-hand
-so the stopper
-bot will come out freely
+рука
+итак, пробка
+бот выйдет свободно
 
-1985-on Magnas,
+1985-на Магнасе,
 
-remove the
+удалить
 
-cotter
+шплинт
 
-pin
+булавка
 
-(spit
+(плевать
 
-pin),
+булавка),
 
-pla
+пла
 
-rubber washers and pivot bolt from the brake torque arm end,
-lower the
+резиновые шайбы и шарнирный болт со стороны тормозного рычага,
+опустить
 
-torque arm away from the brake panel (see illustration).
+моментный рычаг в сторону от тормозной панели (см. рисунок).
 
-5 While pushing
-insert the axe from the left
+5 Во время нажатия
+вставьте топор слева
 
-main
+главный
 
-is off the ground; support
+находится над землей; поддержка
 
-using a jackstand
+с помощью подставки
 
-the rear axle
-nut
-on
-the
+задняя ось
+орех
+на
+тот
 
-panel with your
+панель с вашим
 
-the specified torque,
+заданный крутящий момент,
 
-on 700/750 models the forward nut on the
+на моделях 700/750 передняя гайка на
 
-1987 and
+1987 и
 
-On models without a
+На моделях без
 
-3 On Sabres
-and 1982 through 1984 Magnas, remove the
-in the right side of the swingarm to gain access to the br
+3 О Сэйберс
+и Магнас с 1982 по 1984 год, удалите
+в правой части маятника, чтобы получить доступ к бр.
 
-is__bolt,
+есть__болт,
 
-(se
+(видеть
 
-fully tightened, followed
-by the rear nut
-17 On
+полностью затянут, с последующим
+за заднюю гайку
+17 Вкл.
 
-4, 16.5 and
+4, 16,5 и
 16
 
-its main stand.
+его главный стенд.
 
-the engine and raise
-it sothat the rear wheel
-the bike
+двигатель и поднять
+это так, что заднее колесо
+велосипедуказанный
 
-the specified
+на
 
-on
+деревянный брусок на головке домкрата, под огнем
+Флор Джек. с
 
-a wood block on the jack head, under the re
-flo r jack. with
+место@
 
-place@
+регулировочная гайка из
 
-adjusting nut from the
+весна,
 
-spring,
+удалить
 
-remove
+вперед вперед
+й
 
-forward on
-th
+тот
 
-the
+Рычаг заднего тормоза для сжатия
+и выключите б.
 
-rear brake lever to compress the
-and disengage the b
+тягу от шарнирной цапфы тормозного рычага (см. рисунок).
+Удалите
 
-rod from the brake lever pivot trunnion (see illustration).
-Remove the
+ВКЛАДКА
 
-TAB
+Глава 7
 
-Chapter7
+Тормоза, колеса и шины
 
-Brakes, wheels and tires
+16.6 Проденьте стержень через головку оси, чтобы вытащить ее из положения.
+поворотная цапфа от тормозного рычага
 
-16.6 Use abar through the axle head to pull it from position
-pivot trunnion from the brake lever
+и продеть
 
-and thread the
+весна,
 
-spring,
+Пивет Трунио
 
-pivet trunnio
+{и
+корректировка
+орех
+обратно на тормозную тягу для безопасности
+6 Ослабьте зажимной механизм оси.
+Вставьте отвертку
 
-{and
-adjusting
-nut
-back on the brake rod for safel
-6 Loosen the axle pinch bot oi
-Insert a screwdriver
+через
 
-through the
+ось наружу (см. рисунок).
 
-axle out (see illustration).
+правильно
 
-right
+Делай
 
-Do
+офф (100 Sabre) к указанному
 
-offs (100 Sabre) to the specitied
+конец
+задней оси и
 
-end
-of the rear axle and
+пул
 
-pul
+тот
 
-the
+стяжной болт exe
 
-the exe pinch bolt
+не потерять проставку, так как ось
 
-not lose the spacer as the axle is
+к сильному крутящему моменту.
 
-to the soeatfied torque.
+задний тормозной трипиай на моделях 700/750 (см. главу 1),
 
-rear brake treepiay on 700/750 models (see Chapter 1),
+отозван
 
-withdrawn
+чтобы колодки снова соприкоснулись с
 
-to bring the pads back into contact with
+7 При снятой оси
 
-7 With the axle removed,
+тянуть колесо
 
-pull the wheel
+(с
 
-(with
+тормозной па
 
-the brake pa
+работа тормоза на всех моделях до
 
-brake operation on all models before
+место) вправо, отделяя его от конечной дм
+назад, минуя
+тт с правой стороны
 
-place) to the right, separating it rom the final dm
-toward the rear by passing
-tt on the right side
+заднего крыла
 
-of the rear fender
-
-1100 models
+1100 моделей
 
 17
 
 8
 
-Set the bike on its main
+Установите велосипед на основную
 
 9
 
-Remove the rear axle nut on the left side of the wheel
+Снимите гайку задней оси с левой стороны колеса.
 
-10 On Sabre models,
+10 На моделях Sabre
 
-stand
+стоять
 
-remove the two
+удалить два
 
-ration
+рацион
 
-hose
+шланг
 
 11
 
-bearings
+подшипники
 
 -
 
-removal,
+удаление,
 
-inspection
+инспекция
 
-and
+и
 
-installation Front wheel bearings
+установка подшипников передних ступиц
 
-Support t
+Поддержка т
 
-the brake disc.
+тормозной диск.
 
-the caliper off
+суппорт выключен
 
-Wheel
+Колесо
 
 17.13
 
-Loosen the axle pinch bot on the right en
+Ослабьте фиксатор оси справа.
 
-withdraw the axle from
+вытащить ось из
 
-the nght side
+ночная сторона
 
 12
 
-the right to
+право на
 
-Pull the wheel
+Потяните колесо
 
-to
+чтобы
 
-tion 15),
-to allow the weight of the wheel
+пункт 15),
+чтобы выдержать вес колеса
 
-3s nat
+3с нат
 
-Work it out toward the rear by passing it on
-fender, Caution:
+Разберитесь с этим сзади, передав его дальше.
+крыло, Внимание:
 
-disc,
+диск,
 
-Don't lay
+Не клади
 
-the whee! down and allow #to
+ух! вниз и позвольте #to
 
-it could become warped.
+оно может деформироваться.
 
-n the brake¢
+на тормозе¢
 
-r
+р
 
-Set the whe
+Установите
 
-disc doesn't support the weght of the whee! Do not operate
-pedal with the whee! removed
+диск не выдерживает вес колеса! Не работайте
+педаль с рулём! удалено
 
-the brake
+тормоз
 
 3
 
-Remove the speedometer drive unit and spacer from the wheel hub
+Снимите привод спидометра и проставку со ступицы колеса.
 
-{see
+{см.
 
-illustration 15.10).
+иллюстрация 15.10).
 
-4 Using
+4 Использование
 2
-flat-bladed
+с плоским лезвием
 
-el,
+эль,
 
-All models
-13 Ifthe axle is
+Все модели
+13 Если ось
 
-corroded, remove
-V-blocks
+ржавый, удалить
+V-образные блоки
 
-Indicator,
+Индикатор,
 
-axle
+ось
 
-on
+на
 
-and
+и
 
-seal from the left
+печать слева
 
-the speedometer driveplate
+ведущий диск спидометра
 
-seal from
+печать от
 
-Set
+Установить
 
-the
+тот
 
-screwdriver, pry out the grease
+отвертка, вытащить смазку
 
-then withdraw
+затем уйти
 
-the
+тот
 
-right side of the whee!
+правая сторона руля!
 
-ly @ brass diff punch) inserted through
+ly @ латунный пробойник дифференциала), вставленный через
 
-the corr
+Корр
 
-measure the
+измерить
 
-if runout exceeds the service limt,
+если биение превышает сервисный лимит,
 
-runout
+биение
 
-with
+с
 
-replace the
+заменить
 
 2
 
-tub bearing, tap evenly around the inner race of the
+подшипник ванны, равномерно постучите по внутреннему кольцу
 
-di
+ди
 
-ffom the hub. The bearing spacer will also
+из хаба. Проставка подшипника также будет
 
-axle (see
+ось (см.
 
-illustration 15.11).
+иллюстрация 15.11).
 
 44
 
-Check the consition of the wi
+Проверьте состояние Wi-Fi
 
-Installation
-15 Installation
+Установка
+15 Установка
 
-is the reverse of the
+является обратной стороной
 
-following. Note:
+следующее. Примечание:
 
-Honda advise that the three final
+Хонда сообщает, что три финала
 
-nuts be loosened very sight
+гайки ослабляются очень хорошо
 
 8)
 
-Apply mult-purpose
+Применить многоцелевой
 
-removal procedure,
+процедура удаления,
 
-residue)
+остаток)
 
-drive unit-
+приводной блок-
 
-specty
+вид
 
-eating.
+еда.
 
-type
+тип
 
-spines
+шипы
 
-grease with MeS2 fo the
-thin coat of
+смазать MeS2 для
+тонкий слой
 
-grease fo the axke before instaling
+смазать ось перед установкой
 
-tighten its nut to the specified torque
+затяните гайку указанным моментом
 
-swingarm
+маятник
 
-nuts
+орехи
 
-to
+чтобы
 
-the
+тот
 
-spectied
+увиденный
 
-Tighten
+Затянуть
 
-them
+они
 
-Note:
+Примечание:
 
-dry
+сухой
 
-with
+с
 
-dry them).
+высушить их).
 
-compressed air
+сжатый воздух
 
-Apply @
+Применить @
 
-(dont
+(не
 
-nit tum sm
+гнида см
 
-ten
+десять
 
-torqu
+крутящий момент
 
-Tighten the
-pwot bolt nut (later 700
-Colter
-pin (Spit pin) in the torque anm pivot bolt and bend as
+Затяните
+гайка болта pwot (позже 700
+Колтер
+штифт (вертел) в шарнирный болт и согните, как
 
-let the
+пусть
 
-few drops of oil to the
+несколько капель масла на
 
-/f the beanng is sealed on both sides don't attempt fo
+/если фасоль запечатана с обеих сторон, не пытайтесь
 
-thly,
+в конце концов,
 
-race - ifthe
+раса - еслиимеет неровности или шумит,
 
-has rough spots or is noisy,
+фантастика
 
-the fi
+Технические характеристики) если ось установлена
 
-Spectications) ones the axle has been installed
+закрепить гайку
 
-secure the nut
+растворитель с высокой температурой вспышки (который не оставляет следов
 
-high flashpoint solvent (one which wont leave any
+удар
 
-blow
+повторите гонку подшипника и поверните гостиницу
 
-iter race of the bearing and rotate the inn
+левая сторона концентратора
 
-the left side of the hub
+) Применить @
 
-) Apply @
+и
 
-and
+gs крутись как ты
 
-gs spin as you
+b легкость топора
 
-b ease axe inst
+смазка (Хонда
 
-grease (Honda
+незапечатанный
+тип или запечатан только с одной стороны,
 
-unsealed
-type or only sealed ononeside,
+ой
 
-oi
+нотин
 
-notin
+замени его
 
-replace it
+да и не повредился при снятии
+м
 
-ay and was not damaged on removal
-m
+концентратор,
 
-the hub,
+постирать это
 
-wash it
+в
 
-in
+растворите еще раз и высушите,
 
-solv ent once again and dry It,
+подшипник с высококачественным
 
-bearing with high-quality wh
+| подшипник
 
-| bearing
+Тщательно очистите ступицу колеса.
+доступ в хаб.
 
-wughly clean the hub erea of the wheel.
-cess in the hub.
+Установите подшипник
 
-Install the bearing
+маркированной или запечатанной стороной наружу
 
-with the marked or sealed side facing out
+драйвер подшипника
+или розетка
 
-a bearing driver
-or a socket
+разрабатывать
 
-deve
+тогда упакуйте
 
-then pack the
+жир
 
-grease
+жесть, пока это
 
-tin unti its
+большой
 
-large
+достаточно, чтобы связаться с внешним
 
-enough to contact the outer
+полностью сидящий
 
-completely seated
+перебрать и установить подшипник
 
-over and instal the bearing
+проставка.
 
-spacer.
+Дядя:
 
-Unle:
+это
 
-sthe
+Глава
+7 Тормоза, колеса и шины
+подшипники уплотнены с обеих сторон:
 
-Chapter
-7 Brakes, wheels and tires
-bearings are sealed on both side:
+оставшегося места больше нет
 
-the remaining space no more
+чем 2/3 полны высокоэффективного ПО
+жир
 
-than 2/3 full of high-metting po
-grease
+есть
 
-is
+упакованный
 
-packed
+в,
 
-in,
-
-driving
+вождение
 
 7-19
 
-wheel bearing
-th
+подшипник колеса
+й
 
-second
+второй
 
-grease
+жир
 
-bearing
+подшипник
 
-it
+это
 
-described above.
+описано выше.
 13
 
-Fit
+Подходит
 
-the
+тот
 
-speedor
+спидор
 
-right side of the whi
+правая сторона
 
-described in $
+описано в $
 
-‘all
+'все
 
-‘or
+'или
 
-brake system
+тормозная система
 
-ction
+действие
 
 15
 
-grease from
+смазка от
 
-cleaner then install
+очиститель, затем установить
 
-the
+тот
 
-wheel
+колесо
 
-Rear wheel bearings
-Note:
+Подшипники задних колес
+Примечание:
 
-Always replace the
-w
+Всегда заменяйте
+ш
 
-bearings in pairs
+подшипники попарно
 
-Never replace the
+Никогда не заменяйте
 
-bbeamngs indveiualy.
-Refer
-fo
-ilustrations 17 18a, 17. 18b 17.19,
+излучает индивидуально.
+Обратитесь
+фо
+иллюстрации 17 18а, 17. 18б 17.19,
 17-224
 
 17.
 
-16 Rane: the rear wheel (see Section 16),
+16 Ране: заднее колесо (см. раздел 16),
 
-outthe brake panel
+из тормозной панели
 
-17.18a Protect wheel as shown when levering
-final drive flange
-‘out on 1100 Sabres, 700/750 Magnas and
+17.18a Защитите колесо, как показано на рисунке, при подъеме рычага.
+фланец главной передачи
+'на 1100 Sabre, 700/750 Magnas и
 
-17 On 1100 models remove the b
+17 На моделях 1100 снимите b.
 
-1982 760 Sabres
+1982 760 сабель
 
-seal on that si
-sti
+запечатай это, си
+Стэ
 
-aa
+аа
 
-ess fit during manufacture
-00/750 Sabres.
+подходит во время производства
+00/750 Сэйбрз.
 
-17.18 Rear wheel components (1100 Sabres, 700/750 Magnas and 1982 750 Sabres)
+17.18 Компоненты задних колес (1100 Sabre, 700/750 Magnas и 750 Sabres 1982 года)
 
-loosen
+ослабить
 
-Chapter7 Brakes, wheels and tires
+Глава 7 Тормоза, колеса и шины
 7-20
 
-WHEEL
-BEARING
+КОЛЕСО
+ПОДШИПНИК
 
-SPACER
+ПРОСТАВКА
 
-FINAL DRIVE
-FLANGE
+КОНЕЧНАЯ ПЕРЕДАЧА
+ФЛАНЕЦ
 
-417.20 Pass a diftthrough tho hub to tap out the bearing on the
+417.20 Проденьте ступицу, чтобы выбить подшипник на
 
-l
-driveflange
-\nstal
-a new O-ring on the final
-17.22a
+л
+приводной фланец
+\нстал
+новое уплотнительное кольцо на финале
+17.22а
 
-the five final drive flange bolts evenly, then it out the final drive
+Пять фланцев главной передачи равномерно прикручиваются, затем она выходит из главной передачи
 
-seal driver, large socket of a fat piece of wood to
-a
-using
-models.
+отвертка для уплотнителя, большая головка из толстого куска дерева, чтобы
+а
+используя
+модели.
 
-side
+сторона
 
-flange (see!
-20 "Remove, inspec! and install the bearings as described above
+фланец (см.!
+20 «Снять, осмотреть! и установить подшипники, как описано выше.
 
-rive trem nto place. Fit the spacer into the seal
-22 Install a new O-ring on the final ve flange and applya smear
+река трем-н-то место. Установите проставку в уплотнитель
+22 Установите новое уплотнительное кольцо на последний фланец и смажьте его.
 
-21 installa new grease seal fo the right side ofthe wheel on
+21 установите новый сальник с правой стороны колеса на
 
-Sabres, install the drive flange to the wheel and tighten the bolts
+Сабли, устанавливаем приводной фланец на колесо и затягиваем болты.
 
-In Steps 6 trough 12 see
+В шагах с 6 по 12 см.
 1100
 
-‘of grease to the O-ring. On 1100 Magnas and 1983-on 700/750
+'Смазка уплотнительного кольца. На 1100 Магнах и 1983-м - на 700/750
 inacriss-
 
-TIRE CHANGING SEQUENCE - TUBELESS TIRES
+ПОСЛЕДОВАТЕЛЬНОСТЬ ЗАМЕНЫ ШИН – БЕСКАМЕРНЫЕ ШИНЫ
 
-tire. After releasing beads, push tire bead into well of
-rimat point opposite valve. insert iever next to valve and work
-bead over edge of rim.
+шина. После освобождения бортов вставьте борт шины в углубление.
+точка римата напротив клапана. вставь iever рядом с клапаном и работай
+бортик выходит за край обода.
 
-‘When first bead is clear, remove tire as shown.
+«Когда первый борт станет чистым, снимите шину, как показано.
 
-Work first bead over the rim flange.
+Обработайте первый борт над фланцем обода.
 
-ee
+эээ
 
 |
 
-a
+а
 
 2
 
-Use a tire lever to work the second bead over rim flange.
+С помощью рычага шины проведите второй борт над фланцем обода.
 
-Chapter7 Brakes, wheels and tires
+Глава 7 Тормоза, колеса и шины
 
 7-22
 
-417.22b Grease the flange posts and inner face on 1100 Sabres,
-700/750 Magnas and 1982 750 Sabres
+417.22b Смажьте фланцевые стойки и внутреннюю поверхность модели 1100 Sabre,
+700/750 Магнас и 750 Сабры 1982 года.
 
-cross pattern to the specified torque (where given). On 1100
-Sabres, 700/750 Magnas and 1982 750 Sabres apply grease to
-the posts and install the drive flange (see illustrations).
-23 On 1100 models, reff the disc
-to the rear wheel (see Section
+перекрестие с указанным крутящим моментом (если указано). В 11:00
+Sabres, 700/750 Magnas и 750 Sabres 1982 года выпуска наносят смазку на
+стойки и установите фланец привода (см. рисунки).
+23 На моделях 1100 замените диск.to the rear wheel (see Section
 8).
 
-24 Clean off all grease from the brake disc using acetone or brake
+24 Очистите тормозной диск от всей смазки с помощью ацетона или тормозной жидкости.
 
-system cleaner then install the wheel as describedin Section 16.
+очиститель системы, затем установите колесо, как описано в разделе 16.
 
-17.22¢.... and insert the flange posts into the cush drive rubbers
+17,22¢.... и вставьте фланцевые стойки в резинки привода демпфера.
 
-problems do occur they require special repair techniques.
-2 The force required to break the seal between the rim and the
-bead of the tire is substantial, and is usually beyond the
-capabilities of an individual working with normal te irons.
+Проблемы возникают, они требуют специальных методов ремонта.
+2 Усилие, необходимое для разрыва уплотнения между ободом и
+борт шины значительный и обычно выходит за пределы
+возможности человека, работающего с обычными утюгами.
 tire and installation on the wheel
 3 Also, repair of the punctured
-rim requires special tools, skills and experience that the average
-do-it-yourselfer lacks.
+обод требует специальных инструментов, навыков и опыта, которые средний
+не хватает мастеру своими руками.
 
-4 For these reasons, if a puncture or fiat occurs with a tubeless
+4 По этим причинам, если произойдет прокол или повреждение бескамерной
 
-tire, the wheel should be removed from the motorcycle and taken
+шину, колесо следует снять с мотоцикла и взять
 18
-Tubeless
-tires
-- general information
-Tubeless tires are used as standard equipment on this
+Бескамерный
+шины
+- общая информация
+Бескамерные шины используются в качестве стандартного оборудования на этом автомобиле.
 1
-motorcycle. They are generally safer than tube-type tires but if
+мотоцикл. Они, как правило, безопаснее, чем камерные шины, но если
 
-to a dealer service department or a motorcycle repair shop for
-repair or replacement of the tie. The accompanying color
-ilustrations can be used to replace a tubeless tire in an
-emergency.
-
-
+в сервисную службу дилера или в мастерскую по ремонту мотоциклов для
+ремонт или замена галстука. Сопутствующий цвет
+иллюстрации можно использовать для замены бескамерной шины в
+чрезвычайная ситуация.

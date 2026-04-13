@@ -1,475 +1,473 @@
 1
 
-Chapter 6
+Глава 6
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
-for the 1962 750 Sabre applies to the UK VF750S-C, and that for the 1987 and
-given
-information
-Note: Unless specifically mentioned in this Chapter, the
-1988 700/750 Magnes applies to the UK VF750C-H and C-Jrespectively.
+для 750 Sabre 1962 года применимо к британскому VF750S-C, а для 1987 и 1987 годов.
+данный
+информация
+Примечание. Если в этой главе не указано иное,
+1988 г. 700/750 Magnes применяется к британским VF750C-H и C-J соответственно.
 
-Contents
+Содержание
 
-‘Section
+«Раздел
 
-Anti-dlve (TRAC) - removal and installation
+Анти-dlve (TRAC) – снятие и установка
 
-Bodywork and
+Кузов и
 19
 
-seat - removal and installation
+сиденье – снятие и установка
 
-Final drive untt- oil level and oll change
-Chapter 1
+Главная передача - уровень масла и замена масла
+Глава 1
 
 12
 
-Rear shock absorber linkage (Sabre models) - removal,
-inspection and installation
+Тяга заднего амортизатора (модели Sabre) – снятие,
+осмотр и установка
 
 8
 
-See
+См.
 
-‘Side and center stands - removal and installation,
+«Боковые и центральные стойки – снятие и установка,
 
-Final drive unit and driveshaft- removal, inspection
+Конечная передача и карданный вал – снятие, осмотр.
 
-a lettin.
+письмо.
 
-‘Steering head bearings- check and adjustment.
+«Подшипники рулевой колонки – проверка и регулировка.
 
-Footpegs ‘and brackets - removal and instal ation.
+Подножки и кронштейны – снятие и установка.
 
-Chapter 4
+Глава 4
 
-Forks - disassembly, inspection and reassembly.
+Вилки – разборка, проверка и сборка.
 
-‘Steering sem- removal and instalation.
+«Снятие и установка рулевого управления.
 
-Forks - oll change.
+Вилки - все поменяю.
 6
 
-Suspension - adjustments.
+Подвеска - регулировки.
 14
 
-Seeing head bearings- inspection and replacement.
-Suspension - checks,
+Проверка подшипников головки-осмотр и замена.
+Подвеска - проверки,
 
 7
 
-‘Chapter 1
+«Глава 1
 
-Frame - inspection and repair.
+Рама - осмотр и ремонт.
 
 7
 
-General information.
+Общая информация.
 
-‘Swingarm - removal and installation,
+«Маятник – снятие и установка,
 
-installation
-and
-removal
-Handlebars5
+установка
+и
+удаление
+Руль5
 
-- check.
-‘Swingarm bearings
+- проверьте.
+«Подшипники маятника
 45
 
 1
 
 6
 
-Specifications
+Технические характеристики
 
-Front forks
-1983 through 1986 models.
+Передняя вилка
+Модели 1983-1986 годов.
 
-6 to 14 psi (0.41 t00.97 Bars)
+От 6 до 14 фунтов на квадратный дюйм (0,41 t00,97 бар)
 
 =
 
-Ot06
-psi
-(0 100.41 Bars)
+От06
+пси
+(0 100,41 Бар)
 
-Spring free length
+Весна свободной длины
 
-in)
-‘532 mm (20.94
+в)
+'532 мм (20,94
 
-1982 750 models.
+1982 г. 750 моделей.
 
-1983 through 1985 700/750 Sabre and 1983/84 700
+С 1983 по 1985 год - 700/750 Sabre и с 1983/84 - 700.
 
-‘and 750 Magna models.
+'и модели 750 Magna.
 
-41985 through 1988 700/750 Magna models...
-1100 Sabre MOdelS..oon
+Модели 700/750 Magna с 41985 по 1988 год...
+МОДЕЛИ 1100 Sabre..oon
 
-1100 Magna models...
+1100 моделей Magna...
 
-mn
+минута
 
-‘Spring service limit
+«Весенний лимит обслуживания
 
-41982 750 models.
+41982 750 моделей.
 
-oe
+ой
 
-‘Swingarm- inspection and bearing replacement.
+«Маятник-осмотр и замена подшипников.
 
-by
+по
 
-1982 models.
+Модели 1982 года.
 
-41983 through 1985 700/750 Sabre and 1983/84 700
+41983–1985 700/750 Sabre и 1983/84 700
 
-See
+См.
 
 10
 
-Forks - removal and installation
+Вилки – снятие и установка
 
-Air pressure
+Давление воздуха
 
-Section
+Раздел
 
-Rear shock absorber(s) - removal and installation
+Задний амортизатор(ы) – снятие и установка
 
-553 mm (21.75 in)
+553 мм (21,75 дюйма)
 
-472 men (18.59 in)
+472 человека (18,59 дюйма)
 
-a
+а
 
-534 mm (21.02
-in)
+534 мм (21.02
+в)
 
-as
+как
 
-415 mm (16.33
-in)
+415 мм (16,33
+в)
 
-sa
+са
 
-521mm(20.5in)
+521 мм (20,5 дюйма)
 
-See
+См.
 
-and 750 Magn
+и 750 Магн.
 
-1988 through
+с 1988 года по
 
-a models...
+модели...
 
-ae
+ае
 
 1988 700/750
-Magna models”
-1100 Sabre mode
-ls,
-meee
-(1100 Magna mo
-dels...
-Fo
-tube ru
-rk
-nout”
+Модели Магна»
+1100 режим сабли
+лс,
+яее
+(1100 Магна мес.
+дельс...
+Фо
+трубка ру
+рк
+нет»
 
-542 mm (21
+542 мм (21
 .3
-in)
+в)
 
-464 mm (18
-in)
+464 мм (18
+в)
 .2
-523 mm (20.6
-in)
-404 mm (15
+523 мм (20,6
+в)
+404 мм (15
 .9
-in)
+в)
 
-0.2 mm (0.00
-in)
+0,2 мм (0,00
+в)
 8
 
 6-2
 
-Chapter 6 Frame, suspension and final
+Глава 6 Каркас, подвеска и финал
 
-drive
+ездить
 
-- perleg
-ll capacity
-1982 750 Sabre model
+- перлега
+полная емкость
+Модель 750 Sabre 1982 года
 
-Right fork
+Правая вилка
 
-376 ec (12.7 US fioz, 13.2
+376 эк (12,7 фиоз. США, 13,2
 
-Imp
-fl oz)
-LER LOK. eons oernrennernonnrne
-1983 750 Sabre model
+Бес
+жидкая унция)
+ЛЕР ЛОК. эоны орнреннерноннрне
+Модель 750 Sabre 1983 года
 
-300 co (13.2 US # 02, 13.7 Imp fi'oz)
+300 со (13,2 США # 02, 13,7 имп. унций)
 
-Right fork
+Правая вилка
 
 -
 
-Imp
-fl oz)
+Бес
+жидкая унция)
 
-360 cc (12.2 US floz, 12.7
+360 куб.см (12,2 жидких унций США, 12,7
 
-Left fork..
+Левая вилка..
 
 375
-cc
-(12.7 US floz, 13.2Imp_
+копия
+(12,7 жидких унций США, 13,2 имп_
 
-floz)
-1984 and 1985 700 Sabre models
+флоз)
+Модели 700 Sabre 1984 и 1985 годов.
 
-RIQHEFOFK
+РИКЕФОФК
 
-oo
+оо
 
-340 cc (11.5 US floz, 12.0
+340 куб.см (11,5 жидких унций США, 12,0
 
-Imp
-fl oz)
+Бес
+жидкая унция)
 
-Lefton
+Лефтон
 
 =
 
 02)
 
-360 cc (12.2 US oz, 127 Imp
+360 куб.см (12,2 унции США, 127 имп.
 
-1982 750 Magna model
-Right
-fork .............
+Модель 750 Magna 1982 года
+Правильно
+вилка .............
 
-390 ec (13.2 US floz, 13.7
+390 эк (13,2 жидких унций США, 13,7
 
-Imp
-fl oz)
+Бес
+жидкая унция)
 
-Left fork
+Левая вилка
 
 .
 
-floz)
-41983 750 Magna model
+флоз)
+41983 Модель 750 Магна
 
-405 cc (13.7 US loz, 143 Imp
+405 куб.см (13,7 унций США, 143 имп.
 
-Right fork.
+Правая вилка.
 
-Imp fl.oz)
+Имп жидких унций)
 
-Left fork.......
+Левая развилка.......
 
-420 cc (14.2
-US floz, 14.8
-si
+420 куб.см (14,2
+США флоз, 14,8
+си
 
-447 cc (15.1 US floz, 15.7 Imp
+447 куб.см (15,1 жидких унций США, 15,7 имп.
 
-floz)
-1984 700 Magna model
+флоз)
+Модель 700 Magna 1984 года.
 
-Right fork
+Правая вилка
 
-420 cc (14.2
-US floz, 14.8
+420 куб.см (14,2
+США флоз, 14,8
 
-Left fork.
+Левая вилка.
 
-440 cc (14.9 US foz, 15.5 mp
+440 куб.см (14,9 унций США, 15,5 миль
 
-Imp
-fl oz)
+Бес
+жидкая унция)
 
-floz)
-1985 and 1986 700 Magna models
+флоз)
+Модели 700 Magna 1985 и 1986 годов
 
-Right fork
+Правая вилка
 
-Imp
-fl oz)
+Бес
+жидкая унция)
 
 -
 
-545 cc (18.4
-US floz, 19.2
+545 куб.см (18,4
+США, 19,2
 
-Lefton
+Лефтон
 
-860 cc (18.9 US floz, 19.7 Imp
+860 куб.см (18,9 жидких унций США, 19,7 имп.
 
 02)
 
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna 1987 и 1988 годов.
 
-416 cc (140 USfloz, 146
+416 куб.см (140 УСфлоц, 146Имп флоз)
+1100 моделей саблей
 
-Imp floz)
-1100 Sabre models
+Правая вилка
 
-Right fork
+470 6в (15,9
+США, Моз, 16,5
 
-470 6c (15.9
-US Moz, 16.5
+Импфиоз)
 
-Impfioz)
+вилка футов.
 
-ft fork.
+495 co (18,7 унций США, 17,4 имп f1,02)
 
-495 co (18.7 US f oz, 17.4 Imp f1.02)
-
-1100 Magna models
+1100 моделей Магна
 Right f0FK
-o
+о
 
-865 cc (19.1 US f1oz, 19.9
+865 куб.см (19,1 унция США, 19,9
 
-Imp
-fi oz)
+Бес
+фи унция)
 
-Left fork.
-floz)
+Левая вилка.
+флоз)
 
-Oil ype.
-luld)
+Масло да.
+баловство)
 
-580 c¢ (19.6 US floz, 20.4 Imp
+580 центов (19,6 американских жидких унций, 20,4 имп.
 
 ,
 
-ATF(Automatic Transmission
+ATF(автоматическая коробка передач
 
-it hevel (1400 Sabre model)
+это хевел (модель 1400 Sabre)
 
-Right or
+Правильно или
 
-235 mm (9.26 in)
+235 мм (9,26 дюйма)
 
-oko
+око
 
-226 mm (8.90
-in)
+226 мм (8,90
+в)
 
-Rear shock absorber
-Al pressure range (Sabre mode's),
+Задний амортизатор
+Диапазон давления Al (режим Sabre),
 
-0 to 57 psi (0 to 3.9 Bars)
+От 0 до 57 фунтов на квадратный дюйм (от 0 до 3,9 бар)
 
-‘Spring free length service limit (Magna mode's)
+«Предел обслуживания пружины в свободном состоянии (режим Magna)
 
-41982 and 1983 models.
-1984 model
+Модели 41982 и 1983 годов.
+Модель 1984 года
 
-1985 and 1986 models.......
+Модели 1985 и 1986 годов.......
 
-ssosnnsnnnne
+ссосннсннне
 
-Sede
+Седе
 
-1987 and 1988 models...
+Модели 1987 и 1988 годов.
 
-1100 models,
+1100 моделей,
 
-223 mm (8.8 in)
+223 мм (8,8 дюйма)
 
-219 mm (86 in)
+219 мм (86 дюймов)
 
-221 mm (87 in)
+221 мм (87 дюймов)
 
-240 mm (9.5 in)
+240 мм (9,5 дюйма)
 
-244 mm (96 in)
+244 мм (96 дюймов)
 
-Final drive
-Final drive unit oil capacity.
+Конечная передача
+Емкость масла в главной передаче.
 
-See Chapter 4
+См. главу 4.
 
-Driveshaft damper
-oilcapa
+Демпфер карданного вала
+маслокапа
 
-50 ce (1.69 US floz, 1.76 Imp
-80 cc (2.7 US floz, 2.82 Impfl
+50 CE (1,69 жидких унций США, 1,76 имп.
+80 куб.см (2,7 жидких унций США, 2,82 импфл
 
-1985-on 700/750 Magnas and all 1100 Sabre models.
-All other 700/750 models and all 1100 Magna models,
-flo2)
+1985 г. — на 700/750 Magnas и всех моделях 1100 Sabre.
+Все остальные модели 700/750 и все модели Magna 1100,
+фло2)
 
 02)
 
-Driveshaft damper
-oil type
-1985-on 700/750 Magnas, 1984-on 1100 models.
-‘Allother 700/760 models and 1963 1100Magna models
-Above 5°C(41 °F)
-ncn
+Демпфер карданного вала
+тип масла
+1985 г. - на 700/750 Магнах, 1984 г. - на моделях 1100.
+«Все остальные модели 700/760 и модели 1100Magna 1963 года.
+Выше 5°C(41°F)
+нкн
 
-oS
-Below 5°C (41°F).
-Gs
+ОС
+Ниже 5°C (41°F).
+Гс
 
-‘SAE80 Hypoid gear oil
-‘SAE0 Hypoid gear oil, API
+‘SAE80 Гипоидное трансмиссионное масло
+‘SAE0 Гипоидное трансмиссионное масло, API
 
-‘SAEBO Hypoid gear oil, API
+‘Масло SAEBO для гипоидных передач, API
 
-Torque settings
+Настройки крутящего момента
 
-Handlebar clamp bolts
+Болты крепления руля
 
-41982 through 1984 700/750 Magna models.
-4985 and 1986 700 Magna models......
-41987 and 1988 700/750 Magna models
+Модели 700/750 Magna с 41982 по 1984 год.
+Модели 700 Magna 4985 и 1986 годов......
+Модели 700/750 Magna 41987 и 1988 годов.
 
-4984 and 1985 700 Sabre models...
+Модели 700 Sabre 4984 и 1985 годов...
 
-1100 Magna models,
-1100 Sabre models.
-Handlebar pinch bolts
+1100 моделей Магна,
+1100 моделей Sabre.
+Стяжные болты руля
 
 .
 
-1982 and 1983 750 Sabre models.
-4983 1100 Magna model...
+Модели 750 Sabre 1982 и 1983 годов.
+4983 1100 Модель Магна...
 
-Clutch and front brake master cylinder clamp bolts (1100 modets).
+Болты крепления главного тормозного цилиндра сцепления и переднего тормоза (1100 мод.).
 
-Triple clamp pinch botts
-Upper triple clamp.
-Lower triple clamp.
+Бутылки с тройным зажимом
+Верхний тройной зажим.
+Нижний тройной зажим.
 
-Chapter
-6 Frame, suspension and final drive
+Глава
+6 Рама, подвеска и главная передача
 
-‘Steering stem pinch bott (1100
+«Пережимной стержень рулевого стержня (1100
 
-models)..
+модели)..
 
-Front forks
+Передняя вилка
 
-Fork top bol
+Верхняя часть вилки
 
-Damper piston socket head bot.
-Brace batts.
+Головка поршня демпфера с головкой под торцевой ключ.
+Брейс-батты.
 
-Front tum signal clamp batt (1887 and 1988 700/750 Magna models)...
+Передний зажим сигнала поворота (модели 700/750 Magna 1887 и 1988 годов)...
 
 181030
 151030
@@ -488,20 +486,20 @@ $t0 13
 
 7t08
 
-‘Steering stem adjuster nut (see text)
-‘All 700/750 Sabre models, 1962 and 1983
+‘Гайка регулировки рулевой тяги (см. текст)
+«Все модели 700/750 Sabre, 1962 и 1983 гг.
 
-700/750 Magna models.
-1984 700 Magna model
+Модели 700/750 Magna.
+Модель 700 Magna 1984 года.
 
 :
 
-1985-on 700/750 Magna models.
-1100 Sabre models,
+1985 г. — на моделях Magna 700/750.
+1100 моделей Sabre,
 
-4100 Magna 1983 model
+4100 Магна 1983 года выпуска.
 
-til terque
+до конца
 
 141016
 19t021
@@ -514,12 +512,12 @@ til terque
 
 1010 12
 
-1100Magne 168é-o0 mad
+1100Магне 168é-o0 безумный
 
-Initial torque
-Final torque.
+Начальный крутящий момент
+Конечный крутящий момент.
 
-‘All 700/750 Sabre models, 1982 and 1983 750 Magna models
+«Все модели 700/750 Sabre, модели 750 Magna 1982 и 1983 годов.
 
 101012
 
@@ -529,13 +527,13 @@ Final torque.
 
 141017
 
-20 t0 120
+20 т0 120
 
 581087
 
 191021
 
-‘Steering stem top nut
+«Верхняя гайка рулевого стержня
 
 t0t012
 141015
@@ -546,19 +544,19 @@ t0t012
 
 141015
 
-11984 through 1986 700/750 Magna models.
-1983 through
-1985 1100 Magna models.
+Модели 700/750 Magna с 11984 по 1986 год.
+с 1983 года по
+1985 г. Модели 1100 Magna.
 
 900 120
-80t0 120
+80т0 120
 
 651087
 58 1087
 
-1982 through 1986 700/750 Magna models.
-1987 and 1988 700/750 Magna models
-Upper nuts on both sides and lower bot on right side
+Модели 700/750 Magna с 1982 по 1986 год.
+Модели 700/750 Magna 1987 и 1988 годов.
+Верхние гайки с обеих сторон и нижняя часть с правой стороны.
 
 381048
 
@@ -568,30 +566,30 @@ Upper nuts on both sides and lower bot on right side
 221029
 141022
 
-1100 Sabre models.
+1100 моделей Sabre.
 
 401050
 
 291036
 
-‘A 1100 Sabre models and 1886 1100 Magna model,
-Shock absorber mounting bot nuts/bats
-700/750 Sabre models
+«Модели 1100 Sabre и модель 1100 Magna 1886 года,
+Гайки/биты для крепления амортизатора
+Модели 700/750 Sabre
 
-Lower nut on left side
+Нижняя гайка с левой стороны
 
-1100 Magna models
+1100 моделей Магна
 
-Upper.
+Верхний.
 
 90
-to 120
+до 120
 
 301040
 
 401050
 
-Lower.
+Нижний.
 
 301040
 
@@ -605,1027 +603,1019 @@ Lower.
 
 21029
 
-‘Shock absorber linkage (700/750 Sabres) All except shock
-‘absorber lower mounting
+«Рычаг амортизатора (700/750 Sabre) Все, кроме амортизатора
+'нижнее крепление абсорбера
 
 60070
 
 431051
 
-‘Swingarm
-let pivot shat
-Seinger
-ight pve she
+«Маятник
+пусть вращается, черт возьми
+Зингер
+да, она
 
-90 to 120
-161020
-
-651087
+от 90 до 120
+161020651087
 1210
 
-Swingarm it vet shot lock”.
-Final drive unit-to-swingarm nuts.
+Маятник — это ветеринарный замок».
+Гайки крепления главной передачи к маятнику.
 
-100 to 130
+от 100 до 130
 45070
 
 721098
 331051
 
-‘Shock
-absorber
-linkage
-(1100 Sabre).
+«Шок
+поглотитель
+связь
+(1100 Сабля).
 
 401050
 
 291036
 
-“Tighten using special tool
+«Затяните с помощью специального инструмента
 
-{a
+{а
 
-General information
+Общая информация
 
-2. Frame - inspection
-and repair
+2. Рама – осмотр
+и ремонт
 
-The double cradie-type frame incorporates a subframe which acts,
+Двойная рама типа Cradie включает в себя подрамник, который действует:
 
-1 The frame should not require attention unless accident damage has
-‘occurred. In most cases, frame replacement is the only satisfactory
-remedy for such damage. A few frame specialists have the jigs and.
-‘other equipment necessary for straightening the frame to the required
+1 Рама не должна требовать внимания, за исключением случаев, когда произошло случайное повреждение.
+'произошло. В большинстве случаев замена рамы является единственным удовлетворительным решением.
+средство возмещения такого ущерба. У нескольких специалистов по рамам есть приспособления и.
+‘другое оборудование, необходимое для правки рамы до требуемого
 
-the left front downtube and front crosstube or brace. This subframe is,
+левую переднюю нижнюю трубу и переднюю поперечину или распорку. Этот подрамник,
 
-detachable to allow for engine removal, and also forms part of the
-cooling system, carrying coolant from the radiator
-to the water pump.
-ail-damped, coil-sprung forks for front
+съемный, что позволяет снять двигатель, а также является частью
+система охлаждения, подающая охлаждающую жидкость от радиатора
+к водяному насосу.
+передняя вилка с амортизацией и винтовой пружиной
 
-standard of accuracy, but even then there is no simple way of
+стандарт точности, но даже в этом случае нет простого способа
 
-suspension. Those on 1982 through 1986 models are air-assisted and
-have anti-dive
-on the left fork. All 1100 Sabre models have a rebound
+подвеска. Модели 1982–1986 годов оснащены пневмоприводом и
+иметь анти-ныряние
+на левой развилке. Все модели Sabre 1100 имеют отскок.
 
-assessing to what extent the frame may have been over stressed.
-2 After the machine has accumulated a lot of miles, the frame should
-be examined closely for signs of cracking or spiiting at the welded
+оценить, в какой степени рама могла быть перенапряжена.
+2 После того, как машина проехала много миль, рама должна
+внимательно осмотреть на наличие признаков растрескивания или разбрызгивания сварных швов.
 
-‘All models use telescopic,
+«Во всех моделях используются телескопические,
 
-damping adjuster on the right fork.
-Rear
+регулятор демпфирования на правой вилке.
+Задний
 
-suspension on Sabre models is by Honda's 'Pro-Link’ system
+подвеска на моделях Sabre оснащена системой Honda Pro-Link.
 
-in which the swingarm acts on a gas/oil shock via a two piece linkage.
+в котором маятник воздействует на газомасляный амортизатор через двухкомпонентное соединение.
 
-Joints. Corrosion can also cause weakness at these joints. Loose
+Суставы. Коррозия также может вызвать слабость этих соединений. Свободный
 
-‘engine mount bolts can cause ovaling or fracturing of the mounting
+«Болты крепления двигателя могут привести к овализации или разрушению крепления.
 
-‘Magna models have two conventional hydraulically-damped shock
-absorbers; those fitted to 1982 and 1983 750 models have aluminum
+«Модели Magna имеют два обычных амортизатора с гидравлическим демпфированием.
+поглотители; те, что устанавливались на модели 750 1982 и 1983 годов, имеют алюминиевый корпус.
 
-tabs. Minor damage can often be repaired by welding, depending on
+вкладки. Незначительные повреждения часто можно устранить с помощью сварки, в зависимости от
 
-reservoirs to aid cooling,
+резервуары для охлаждения,
 
-‘3 Remember that a frame which is out of alignment will cause handling
-problems. if misalignment is suspected as the result of an accident, it
-will be necessary
-to strip the machine completely so the frame can be
+‘3 Помните, что рама, которая не выровнена, приведет к тому, что обработка
+проблемы. если есть подозрение на несоосность в результате аварии,
+будет необходимо
+полностью разобрать машину, чтобы можно было разобрать раму
 
-‘The swingarm pivots on tapered-roller bearings and carries the
-final driveshaf in its left side.
-Final drive is by shaft.
+«Маятник поворачивается на конических роликоподшипниках и несет
+главная передача с левой стороны.
+Конечная передача – вал.
 
-Drive is transmitted through the output
+Привод передается через выход
 
-‘gearcase, via the driveshaft tothe final crive unit in the rear wheel hub.
+«Коробка передач, через карданный вал к конечному приводу в ступице заднего колеса.
 
-the extent and nature of the damage.
+размер и характер ущерба.
 
-thoroughly checked,
+тщательно проверено,
 
-Chapter 6 Frame, suspension and final drive
+Глава 6 Рама, подвеска и главная передача
 
 64
 
-{44 Main stand pivot pinch bot locations (arrows)
+{44 Расположение зажимного бота поворотной опоры основной стойки (стрелки)
 
-3. Footpegs and brackets - removal and installation
+3. Подножки и кронштейны – снятие и установка.
 
-43 Side stand is retained to subframe by pivot bolt (arow)
+43 Боковая стойка крепится к подрамнику шарнирным болтом (стрелка).
 
-[pponae sleaipegs
+[pponae sleaipegs]
 
-Sabre models
-Rider's footpegs
-cotter pin (split pin)
-the
-Remove
+Модели сабель
+Подножки всадника
+шплинт (шплинт)
+тот
+Удалить
 1
-pin and
+булавка и
 
-bracket.
+кронштейн.
 
-and w
+и ш
 
-Pry out
+Вырвать
 
-is to release the
+состоит в том, чтобы выпустить
 
-remove the footpeg from ts bracket
+снимите подножку с кронштейна ts
 
-2 To release the rubber from the footp
-‘and separate the ground plate
-off th
-rubber
+2 Чтобы снять резинку с ножки
+'и отделить пластину заземления
+с этого
+резина
 
-ethe single mountngbolt to
+одинарный болт крепления к
 
-mor
+Мор
 
-3.On 700/750
+3.На 700/750
 
 bracket from the frame,
 
-The bolt also secur
+Болт также закреплён
 
-rele
+реле
 
-he gearshift leve
+он уровень переключения передач
 
-let side.
-engine's lower rear
+пусть сторона.
+нижняя задняя часть двигателя
 
-stuck in pl
-and
+застрял в пл.
+и
 
-Side and center stands - removal and
+Боковые и центральные стойки – снятие и
 
-installation Center stand
+установка Центральная подставка
 
-4.0n 1100 models,
+модели 4.0n 1100,
 
-side and pull the
+сторону и потяните
 
 4
 
-tout from the
-to note the pos
+рекламировать из
+отметить позицию
 
-ensure
+обеспечить
 
-installation. Tighten the bolt t
+установка. Затяните болт т.
 
-the specif
+конкретный
 
-Passenger's footpegs
+подножки пассажира
 (5
-ve cotter pin
-the
-5 Remo
+пять шплинтов
+тот5 Ремо
 
-its pinch
+это щепотка
 
-bolt
+болт
 
-7 Each bracket is retained to the @ frame by two sock
-Support the mufflers from below and remove the bolt
+7 Каждый кронштейн крепится к раме @ двумя
+Поддерживая глушители снизу, выверните болт.
 
-illustration). An)
+иллюстрация). Ан)
 
-whi
+что
 
-that
+что
 
-them to the footpeg brat
-socket-head bolts to rele:
+их к подножке, отродье
+Болты с головкой под торцевой ключ для крепления:
 
-‘and
+'и
 
-citferent length on the 1100's left bra
+Средняя длина левого бюстгальтера 1100-х годов
 
-An accident is almost certain to
-s in motion. Peni
+Авария почти наверняка
+s в движении. Пени
 
-Magna models
+Модели Магна
 
 1)
-ter
+тер
 
-Rider's footpegs
-8 Remov
+Подножки всадника
+8 Удалить
 
-t pin) and washer,
+штифт) и шайба,
 
-pin and
+булавка и
 
-the rubber
-9 To release
+резина
+9 Выпустить
 
-slide out the p
+выдвинуть п
 
-Handlebars
-- removal and installation
-and wiring hamesses are rout
+Руль
+- снятие и установка
+и проводка повреждена
 
-and seperate the
-rubber off th
+и отделить
+резина
 
-separate the left fo0
+отделить левую fo0
 
-then
+тогда
 
 5
 
-spring
+весна
 
-10 Remove the tw:
-On the
-frame.
+10 Удалите tw:
+На
+рама.
 
-the stand is
+стенд
 
-the extension spring
-is in good
+пружина растяжения
+в порядке
 
-helpful to draw a
+полезно нарисовать
 
-mounting bolts to
-side
+болты крепления к
+сторона
 
-remove
+удалить
 
-the mount
+крепление
 
-9 bracket and gearshift
+9 кронштейн и рычаг переключения передач
 
-simple diagram
+простая диаграмма
 
-as reference when reinstalling
+в качестве справки при переустановке
 
-Chapter 6
+Глава 6
 
 6-5
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
-17 The left handlebar can now be removed by first loosening the
-handlebar pinch bolt and removing the snap-ring from the fork tube
+17 Теперь левый руль можно снять, предварительно ослабив
+стяжной болт руля и снятие стопорного кольца с трубки вилки
 
-18 If replacing the
+18 При замене
 
-left handlebar, the grip can be removed,
+левый руль, ручку можно снять,
 
-if desired
+при желании
 
-by squirting some contact cleaner underneath it and then twisting it off
-It stuck
-in place, cut t offwith a sharp knife
+брызнув под него немного очистителя контактов, а затем открутив его
+Это застряло
+на месте, отрезаем острым ножом
 
-Left handlebar installation
-19 If the left handlebar grip was removed,
+Установка левого руля
+19 Если была снята левая ручка руля,
 
-degrease the bar end with
+обезжирить торец стержня с помощью
 
-solvent and apply an adhesive to the bar end and inside of the new
-grip,
+растворителем и нанесите клей на конец стержня и внутреннюю часть нового
+захват,
 
-Install the new
+Установите новый
 
-grip end rotate
+конец ручки вращается
 
-it on the bar to
+это в баре, чтобы
 
-distribute the
+распространять
 
-adhesive. Allow time for the adhesive to set
-20 Install the left handlebar over the fork tube and posttion it correctly,
+клей. Дайте время клею застыть
+20 Установите левый руль на трубку вилки и правильно расположите его.
 
-Install the snap-ring and then tighten the pinch bolt to the specified
-torque
+Установите стопорное кольцо, а затем затяните стяжной болт до указанного момента.
+крутящий момент
 21
 
-Install the choke lever and reconnect the choke cable
+Установите рычаг воздушной заслонки и снова подсоедините трос воздушной заслонки.
 
-22 Install the clutch
+22 Установка сцепления
 
-master cylinder, noting the UP marking on its
+Главный цилиндр, обратив внимание на маркировку UP на его
 
-clamp. Fully tighten the upper bolt first, then the lower.
-23 Install
+зажим. Сначала полностью затяните верхний болт, затем нижний.
+23 Установить
 
-the switch halves and tighten the screws securely, tighten
+половинки переключателя и надежно затяните винты, затяните
 
-those at the front first
-24 Reconnect the clutch switch wires and secure all wiring and
+те, кто впереди, первыми
+24 Подсоедините провода переключателя сцепления и закрепите всю проводку и
 
-5.34 Position handlebar clamps so that punch mark (arrow) is next
-to upper bolt on later
+5.34 Расположите зажимы руля так, чтобы метка (стрелка) находилась рядом.
+к верхнему болту прикрепить позже
 
-Magna
+Магна
 
-with new ties.
+с новыми связями.
 
-$85
+85 долларов США
 
-Install the rear view mirror
+Установите зеркало заднего вида
 
-Check the choke cable freeplay if the
+Проверьте свободный ход троса воздушной заслонки, если
 
-cable setting
+настройка кабеля
 
-was disturbed
+был обеспокоен
 
-(see Chapter
+(см. главу
 4).
 
-1982 and 1983 750 Sabre models
+Модели 750 Sabre 1982 и 1983 годов.
 
-All Magna models and 1984-on Sabre models
+Все модели Magna и модели Sabre 1984 года выпуска.
 
-Right handebar removal
+Снятие правого руля
 
-Removal
+Удаление
 
 3.
 
-26 Disconnect the wires from the front brake light and clutch switches,
+26 Отсоедините провода от переднего стоп-сигнала и выключателя сцепления,
 
-Disconnect the wire from the front brake light switch,
+Отсоедините провод от выключателя переднего стоп-сигнала,
 
-4 Remove the screws from the right handlebar switch assembly and
-Separate the upper and lower sections,
+4 Выверните винты из правого узла переключателя на руле и
+Разделите верхнюю и нижнюю части,
 
-Disconnect the throttle cables
+Отсоедините тросы дроссельной заслонки
 
-from the
+из
 
-adjuster
+регулятор
 
-throttle grip,
+ручка газа,
 
-back
+назад
 
-off
+выкл.
 
-the
+тот
 
-or
+или
 
-free them
+освободи их
 
-amp,
+усилитель,
 
-litt off
+немного выключен
 
-the
+тот
 
-5 Remove the two brake master cyinder mounting bolts
+5 Отверните два болта крепления главного тормозного цилиндра.
 
-and
+и
 
-Tie the assembly out of the way so that the master cylinder is n
+Свяжите узел так, чтобы главный цилиндр оказался в положении n.
 
-off
+выкл.
 
-the
+тот
 
-Disconnect the throttie cables from the throttie
-cable
+Отсоедините тросы дроссельной заслонки от дроссельной заслонки.
+кабель
 
-choke
+задушить
 
-cable
+кабель
 
-outer
+внешний
 
-adjuster
+регулятор
 
-connected
+подключен
 
-or
+или
 
-disconnect
+отключиться
 
-disconnect the inner cable from
+отсоедините внутренний кабель от
 
-to
+чтобы
 
-the
+тот
 
-them
+они
 
-from
+из
 
-On later models,
-switch
+На более поздних моделях
+переключатель
 
-lower
+ниже
 
-heif,
+эйф,
 
-the
+тот
 
-leave
-but
+уйти
+но
 
-the choke lever
+рычаг воздушной заслонки
 
-28 Remove the two brake master cylinder mounting bolts and If t off.
+28 Выверните два болта крепления главного тормозного цилиндра и снимите его.
 
-tipped or hanging upside down,
-The right handlebar can naw be removed by first loosening the
-disconnected from the
+опрокинутый или висящий вверх тормашками,
+Правый руль теперь можно снять, предварительно ослабивотключен от
 
-fork leg,
+ножка вилки,
 
-the throttle grip
+ручка газа
 
-and
+и
 
-Tie the
+Свяжите
 
-assembly out of the way so that the master
+сборка в сторону, чтобы мастер
 
-tipped or hanging
+опрокинутый или висящий
 
-handlebar pinch bolt and removing the snap-ning from the fork t
-Once it is
+Стяжной болт руля и снятие защелки с вилки t
+Как только это
 
-back
+назад
 
-Carburetors first to create enough cable slack
+Карбюраторы первыми создают достаточную слабину троса.
 
-carburetors fist to create enough cable slack
+карбюраторы кулаком, чтобы обеспечить достаточное провисание троса
 
 6
 
-Remove the screws from the right and left handlebar switches and
-Separate their halves,
+Выверните винты из правого и левого переключателей на руле и
+Разделите их половинки,
 
-at the
+в
 
-right
+правильно
 
-upside down.
+вверх тормашками.
 
-29 On early models,
+29 На ранних моделях
 
-switch assembly
-can be slid offits end
+переключатель в сборе
+можно сдвинуть с конца
 
-there is
+есть
 
-no
+нет
 
-‘outer from the clutch master
+'внешний от мастера сцепления
 
-Right handlebar installation
+Установка правого руля
 
-o¥inder is not
+o¥inder не является
 
-Remove the clutch master cylinder in
+Снимите главный цилиндр сцепления в
 
-the same way
-need to
+таким же образом
+нужно
 
-cylinder
+цилиндр
 
-disconnect the
+отключить
 
-clamp,
+зажим,
 
-choke
+задушить
 
-cable
+кабель
 
-Just disconnect the inner
+Просто отключите внутренний
 
-cable trom choke lever
+рычаг дроссельной заслонки тросового тромба
 
-7 Spread a light coat of grease over the handlebar end for the thr
+7 Нанесите тонкий слой смазки на конец руля для
 
 30
 
-to slide on.
+скользить дальше.
 
-handlebar trom the center section.
+руль из центральной части.
 
-Slide the throttle grip and switch assembly
-onto the bars
+Сдвиньте рукоятку дроссельной заслонки и узел переключателя
+на решетку
 
-On
+Вкл.
 
-1983
+1983 год
 
 1100
 
-Magna
+Магна
 
-models
+модели
 
-t
+т
 
-is
+есть
 
-possible
+возможно
 
-To do so,
+Для этого
 
-to
+чтобы
 
-detach
+отделять
 
-each
+каждый
 
-remove the set screw
+снимите установочный винт
 
-8 Install the night handlebar over the fork tube and posttion it correctly.
+8 Установите ночной руль на трубку вилки и правильно расположите его.
 
-from the rear of the handlebar and loosen the pinch bolt on the clamp
+от задней части руля и ослабьте стяжной болт на зажиме
 
-Install the snap-ring and then tighten the pinch bolt to the specified
+Установите стопорное кольцо, а затем затяните стяжной болт до указанного момента.
 
-Pull the handlebar out ofthe center section clamp
+Вытащите руль из зажима центральной секции.
 
-torque,
+крутящий момент,
 
 31
 
 9
 
-fitted),
+установлен),
 
-Install the front brake master cylinder. noting the UP marking on its
+Установите главный тормозной цилиндр переднего тормоза. отметив маркировку UP на его
 
-‘clamp,
+'зажим,
 
-Fully tighten
+Полностью затяните
 
-10 Connect
+10 Подключиться
 
-the upper bolt first,
+сначала верхний болт,
 
-then
+тогда
 
-the lower
+нижний
 
-the throttle cables to the throttle grip.
+тросы газа к ручке газа.
 
-Unclip the plastic cover over the handlebar center section (where
+Снимите пластиковую крышку с центральной части руля (где
 
-off.
+выкл.
 
-Remove the
+Удалите
 
-halves and tighten the screws securely, tighten those at the front frst.
+половинки и надежно затяните винты, сначала затяните передние.
 
 32
 
 11
 
-removed,
+удален,
 
-Reconnect the front brake switch wires and secure all wiring and
+Подсоедините провода выключателя переднего тормоза и закрепите всю проводку и
 
-hoses with new ties.
+шланги с новыми стяжками.
 12
 
-Check the throttle cable freeplay if the cables were disturbed (see
+Проверьте свободный ход троса дроссельной заслонки, если тросы не повреждены (см.
 
-its
+это
 
-screws
+винты
 
-switch,
+переключатель,
 
-On
+Вкл.
 
-and
+и
 
-later
+позже
 
-separate
+отдельный
 
-by squiting some contact
+скинув какой-то контакт
 
-the left
+левый
 
-orip can be
+орип может быть
 
-cleaner underneath it
+чище под ним
 
-cut it off using @ sharp
+обрежьте его, используя @ Sharp
 
-keto,
+кето,
 
-models,
+модели,
 
 33
 
-the
+тот
 
-two
+два
 
-halves
+половинки
 
-of the
+из
 
-leave
+уйти
 
-the
+тот
 
-choke
+задушить
 
-cable
+кабель
 
-yAnected to the switch lower half, but disconnect
-the
+yПодключен к нижней половине переключателя, но отсоединен.
+тот
 
-to be replaced with new ones,
+подлежат замене на новые,
 
-if desired,
+при желании,
 
-to ilustration 534
-Refer
+к иллюстрации 534
+Обратитесь
 
-Disconnect the wires from the clutch switch
-Remove
+Отсоедините провода от выключателя сцепления.
+Удалить
 
-handlebar
+руль
 
-If the bars are
+Если бары
 
-Installation
+Установка
 
-Left handlebar removal
+Снятие левого руля
 13.
 
-and lit them
+и зажег их
 
-off and thethrottle grip sid off of
+выключается и ручка дроссельной заслонки выключается
 
-‘end then twisting it off. If imly stuck in place,
+«Кончай, а затем выкрути его». Если я просто застрял на месте,
 
-install the rear view mirror
+установить зеркало заднего вида
 
-apter 1)
+апрель 1)
 
 14
 
-bolts securing the handlebar holders
+болты крепления держателей руля
 
-The handlebars can now belifted
-right end
+Руль теперь можно поднять
+правый конец
 
-then join the switch
+тогда присоединяйся к переключателю
 
-lett
+пусть
 
-outer
+внешний
 
-the inner cable from
+внутренний кабель от
 
-grip.
+захват.
 
-Install
+Установить
 
-adhesive.
+клей.
 
-the new grip and
+новая ручка и
 
-degrease the bar end with
+обезжирить торец стержня с помощью
 
-rotate t on the bar to
+поверните t на панели, чтобы
 
-distribute the
+распространять
 
-Allow time for the adhesive to set
+Дайте время клею застыть
 
-34 Place the bars in position in the lower holders so that the punch
+34 Поместите стержни в нижние держатели так, чтобы пробойник
 
-choke lever
+рычаг воздушной заслонки
 
-15 Remove the two
-master cylinder,
+15 Удалите два
+главный цилиндр,
 
-If the let handlebar grip was removed,
+Если ручка с руля была снята,
 
-solvent and apply an adhesive to the bar end and inside of the new
+растворителем и нанесите клей на конец стержня и внутреннюю часть нового
 
-clutch master cylinder mounting bolts and liftoff the
+болты крепления главного цилиндра сцепления и снимите
 
-noting
+отмечая
 
-that
+что
 
-the
+тот
 
-master cylinder clamp
+зажим главного цилиндра
 
-attached to the choke cable on early models.
+прикреплен к тросу дроссельной заслонки на ранних моделях.
 
-will
+будет
 
-remain
+оставаться
 
-Tie the assembly out of
+Свяжите сборку изтаким образом, чтобы главный цилиндр не опрокидывался и не висел вверх дном.
+вниз
 
-the way so that the master cylinder is not tipped or hanging upside
-down
+16 На ранних моделях
 
-16 On early models,
+нет необходимости отсоединять трос дросселя
 
-there is no need to disconnect the choke cable
+отметка на стержнях совмещена с верхней поверхностью нижнего держателя.
+Установите верхние держатели,
 
-‘mark on the bars is aligned with the upper surtace of the lower holder.
-Install the upper holders,
+отметив, что более поздние модели будут
 
-noting that later models will
+иметь удар
 
-have punch
+метки возле одного из отверстий под болты, расположите зажимы так, чтобы пробойник
+'метки находятся в верхнем/переднем отверстии для болта
+места (см. рисунок).
+35 Установите болты и затяните их указанным моментом.
+в первую очередь следует затянуть верхние/формардные болты,
 
-marks near one of the bolt holes, position the clamps so that the punch
-‘marks are in the top/forward bolt hole
-locations (see illustration).
-35 Install the bolts and tighten them to the specified torque.
-top/formard bolts should be tightened first,
 
-The
 
-followed by the lowerrear
+за которым следует нижняя задняя часть
 
-outer from the clutch master cylinder clamp, just disconnect the inner
+внешний от зажима главного цилиндра сцепления, просто отсоедините внутренний
 
-bolts.
+болты.
 
-Clip the plastic cover over the handlebar center section (where
+Закрепите пластиковую крышку на центральной части руля (где
 
-cable from choke lever
+трос от рычага воздушной заслонки
 
-fitted) and insert the caps over the bolts (where fitted)
+установлены) и наденьте колпачки на болты (если они установлены).
 
 6-6
 
-Chapter 6 Frame, suspension and final drive
+Глава 6 Рама, подвеска и главная передача
 
-6:2 Remove fork bolt caps to reveal air valves on TOO/T50 models
+6:2 Снимите колпачки болтов вилки, чтобы открыть воздушные клапаны на моделях Too/T50.
 
-36 If the handlebars were detached from
-1100 Magna models,
+36 Если руль был отсоединен от
+1100 моделей Магна,
 
-the
+тот
 
-install them fully
+установить их полностью
 
-lever
-and
-reconnect
+рычаг
+и
+повторно подключиться
 
-38Install
-the clutch and brake master
-clamps. The
+38Установить
+мастер сцепления и тормоза
+зажимы.
 
-Upright.
+Вертикально.
 
-to
+чтобы
 
-t!
+т!
 
-tothe damp
+в сырость
 
-the choke:
-cylinders,
+дроссель:
+цилиндры,
 
-Joint of the clamps
+Соединение зажимов
 
-mark on the handlebar
+отметка на руле
 
-align
+выровнять
 
-clamp
+зажим
 
-torque
+крутящий момент
 
-bolt and tighten it to the specified
+болт и затяните его до указанного
 
-fon their
+фон их
 
-joint of the
+сустав
 
-tighten it securely. Apply
-a sme:
+надежно затяните его. Применить
+малый:
 
-37 _ Install
-the choke
+37 _ Установить
+дроссель
 
-section on 19:
+раздел 19:
 
-into the clamps and
+в зажимы и
 
-punch mark on each handlebar with the
-Set screw and
+отметку на каждом руле с помощью
+Установочный винт и
 
-center
+центр
 
-63a Fork oil drain plug is on side of slider
+63a Пробка слива масла вилки находится сбоку от ползуна.
 
-noting
+отмечая
 
-should ali
+должен ли Али
 
-ensure that the
+обеспечить, чтобы
 
-Fully tighten the upper bolt first,
+Сначала полностью затяните верхний болт,
 
-th
+й
 
-specified
+указанный
 
-39 Reconnect
+39 Повторное подключение
 
-the throttle cabl
+трос дроссельной заслонки
 
-switch halves,
+поменять половинки,
 
-inserting the switch peg
+вставка штифта переключателя
 
-into the h
+в час
 
-Tighten the screws securely, tighten those
+Надежно затяните винты, затяните те
 
-atthe
+на
 
-front
+фронт
 
-40 Reconnect the clutch switch wires and front br
+40 Подсоедините провода выключателя сцепления и переднего тормоза.
 
-freeplay
+свободная игра
 
 6
 
-(see Chapter 1)iftheir
+(см. главу 1), если их
 
-Forks
-- oil change
+Вилки
+- замена масла
 
-Refer
-fo ilustraions
+Обратитесь
+для иллюстраций
 6 2,
 6.32
-and
-6 3b
+и
+6 3б
 1
 
-Fork
+Вилка
 
-oil
+масло
 
-will
+будет
 
-maintenance
+техническое обслуживание
 
-degrade
+деградировать
 
-item,
+предмет,
 
-it
+это
 
-slider, the left fork plug on
+ползунок, левая вилка включена
 
-n
+н
 
-s
-in time
+с
+вовремя
 
-should
+должен
 
-be
+быть
 
-actually
+на самом деле
 
-on
+на
 
-the
+тот
 
-anti-dive
+анти-ныряние
 
-housing
+жилье
 
-and
+и
 
-al
+аль
 
-with
+с
 
-air
+воздух
 
-ch
+ч
 
-quattes
-2 On
+кватты
+2 Вкл.
 
-1982 trough 1988 models,
+Модели с 1982 по 1988 годы,
 
-valve cap(s) an
+крышка(и) клапана
 
-{see illustration).
+(см. иллюстрацию).
 
-3 Have8 jug ready
-to o
-of thi
+3. Подготовьте 8 кувшинов.
+о
+этого
 
-(see
+(см.
 
-move the Tork fop bolts fo assist oil flow and
+переместите болты Tork FOP, чтобы улучшить поток масла и
 
-left
+ушел
 
-p
+п
 
-and
+и
 
-down
+вниз
 
-«fork
+«вилка
 
-ough the
+ох
 
-forks
+вилки
 
-on
+на
 
-gent
+джентльмен
 
-llvel from the
+уровень из
 
-inner
+внутренний
 
-Install
+Установить
 
-xxcept for anti-dive
-on left fork, where
-it is on
+xкроме анти-дайвинга
+на левой развилке, где
+оно включено
 
-‘anti-dive housing (arrow)
-the spring wih its closely-wound
-coils at the bottom.
+‘защитный корпус (стрелка)
+пружина с плотно закрученной
+катушки внизу.
 
-7 On all models install the fork top baits and tighten them to the
+7 На всех моделях установите насадки на верхнюю часть вилки и затяните их.
 
-‘specified torque. Refer to Section 8 when installing the 1100 Sabre's
+«заданный крутящий момент». Обратитесь к разделу 8 при установке модели 1100 Sabre.
 
-Tight side fork top batt
+Плотная боковая верхняя часть вилки
 
-8 Set the air pressure on models with sir-assisted forks (see Section
+8 Установите давление воздуха на моделях с вилками с гидроусилителем (см. раздел
 
 14)
 
 7
 
-Forks - removal and installation
+Вилки – снятие и установка
 
-Removal
-Refer to Bustratons
-7.8, 7.108 and 7. 10b
+Удаление
+Обратитесь к Бустратонам
+7.8, 7.108 и 7.10б
 
 1
-Remove the front wheel (see Chapter 7)
-2 Detach both brake calipers and their mounting brackets from the
-forks and tie them out of the way so that there is no strain on their
-hydraulic hoses (see Chapter 7). Note:
-Do not operate the brak
-lever while the calpers are removed. It is @ good idea to sip a block of
-‘wood between the brake pads in each caliper to prevent movement in
-the event thatthe
-lever i.
+Снимите переднее колесо (см. главу 7).
+2 Отсоедините оба тормозных суппорта и их монтажные кронштейны от
+вилки и свяжите их в сторону, чтобы не нагружать их.
+гидравлические шланги (см. главу 7). Примечание:
+Не пользуйтесь тормозом
+рычаг, пока суппорты сняты. Это @ хорошая идея выпить блок
+«дерево между тормозными колодками в каждом суппорте, чтобы предотвратить движение в
+событие, которое
+рычаг И.Модели 3.0n 1100: снимите крышку воздушного клапана в верхней части левой вилки.
+(Sabres) из левого пневмосочленения вилки (Magnas) и нажмите на шток клапана, чтобы
 
-3.0n 1100 models, remove the air valve cap at the top ofthe left fork
-(Sabres) oF left fork air joint (Magnas) and depress the valve stem to
-
-‘expel air pressure from the forks.
+«Выпустите давление воздуха из вилок».
 4
 
-Remove the front fender/mudguard (see Section 19)
+Снимите переднее крыло/крыло (см. раздел 19).
 
-Chapter6
+Глава 6
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
 6-7
 
-7.8 Loosen fork pinch bolts on upper and lower triple clamps to
-release forks
+7.8 Ослабьте стяжные болты вилки на верхнем и нижнем тройных зажимах, чтобы
+выпуск вилки
 
 #28206
-7.408 Airlink pipe and joints (1100 Sabre models)
+7.408 Труба и соединения Airlink (модели 1100 Sabre)
 
 1
 2
@@ -1633,2277 +1623,2257 @@ release forks
 4
 5
 
-Forktop
-bolt
-with air vale
-Forktop bot vith damping aduster
-At ink ppe
+вилка
+болт
+с воздушным клапаном
+Вилочный бот с демпфирующим напылением
+На чернилах СПП
 
-{imi held h the triph clamps.
+{ими держал зажимы для трифа.
 10
 
-On
+Вкл.
 
 1100
 
-models,
+модели,
 
-the
+тот
 
-air joints
+воздушные соединения
 
-and
+и
 
-link
+ссылка
 
-pipe
+труба
 
-can
+может
 
-be
+быть
 
-remov
+удалить
 
-the motorcycle atter removal of the handlebars on Sabre
+Мотоцикл после снятия руля на Sabre
 
-mode
+режим
 
-after removal of the headight unit and instruments on Magna models,
-It
+после снятия головного блока и инструментов на моделях Magna,
+Это
 
-is
+есть
 
-retained to the
+сохраняется в
 
-always renew all
+всегда обновлять все
 
-upper triple
+верхняя тройка
 
-clamp
+зажим
 
-O-rings on
+Уплотнительные кольца на
 
-by two
+на два
 
-screws,
+винты,
 
-If dismantled,
+Если демонтировать,
 
-installation(see illustrations)
+установка (см. иллюстрации)
 
-Installation
+Установка
 11
 
-7.4 Ob Airlink pipe and joints (1100 Magna models)
-Airvalve
+7.4 Труба и соединения Ob Airlink (модели 1100 Magna)
+Воздушный клапан
 
 5
 
-Pipe unions
+Трубные соединения
 
-Seas
+Моря
 
 2
 
-Lettairjoint
+Леттаирджоинт
 
 6
 
 3
 
-O-rings
+уплотнительные кольца
 
 7
 
-O-rings
+уплотнительные кольца
 
 4
 
-Airlink pipe
+Воздушная труба
 
 8
 
-Right air joint
+Правый воздушный шарнир
 
-corrosion trom the triple clamps
+коррозия тройных зажимов
 
-traces
+следы
 
-of
+из
 
-the
+тот
 
-inner
+внутренний
 
-tube
+трубка
 
-is
+есть
 
-level
+уровень
 
-with
+с
 
-the
+тот
 
-1988
-
-700/750
-
-Upper and lower triple
-
-and
-
-1988
-
-clamp pinch bolts
+1988 год
 
 700/750
 
-Magna
+Верхняя и нижняя тройка
 
-tothe
+и
 
-models,
+1988 год
 
-signal clamp bolts aretightenedto the
-position with
+зажимные стяжные болты
 
-Dn 1982/83 750 Sabre
+700/750
 
-clamp on 700/750 Sabre models and secure it out of the way
+Магна
+
+к
+
+модели,
+
+болты сигнального зажима затянуты
+позиция с
+
+Дн 1982/83 750 Сабля
+
+зажмите на моделях Sabre 700/750 и закрепите его в стороне
 
 14
 
-7 On 750 Sabre models,
+7 На моделях 750 Sabre
 
-tnple clamp,
+тройной зажим,
 
-remove the pinch bolts fom the handlebar
+снимите стяжные болты с руля
 
-handlebar off its fork tube.
+руль снят с трубки вилки.
 
-then
+тогда
 
-Place @ pad over the fuel tank
+Поместите @ площадку над топливным баком.
 
-slide each
-and tie or
+сдвиньте каждый
+и завязать или
 
-On
+Вкл.
 
 1100
 
-groove.
+канавка.
 
-bolts
+болты
 
-models,
+модели,
 
-after
+после
 
-installing
+установка
 
-install the air jont ning
+установить воздушную муфту
 
-Until the ring touches
+Пока кольцо не коснется
 
-the
+тот
 
-upper and lower triple
+верхняя и нижняя тройка
 
-15 Ifthe forks have been disassembled,
-specified torque.
+15 Если вилки были разобраны,
+заданный крутящий момент.
 
-the air joint stop ring will have to be carefully pried out
+стопорное кольцо воздушного шарнира придется осторожно вынуть
 
-of ts groove in
+TS паз в
 
 16
 
-lower
+ниже
 
-Install
+Установить
 
-the front fender
+переднее крыло
 
-the specified
+указанный
 
-torque,
+крутящий момент,
 
-tighten the fork top bolts to the
+затяните верхние болты вилки
 
-(mudguard)
-and tighten its bolts securoly,
+(брызговик)
+и надежно затяните болты,
 
-Install the fork brace,
+Установите распорку вилки,
 
-wheel has
+колесо имеет
 
-If the air joint was
+Если воздушное соединение было
 
-tighten its two mounting screws.
+затяните два крепежных винта.
 
-clamp bolts to
+зажать болты, чтобы
 
-fork tubes by pulling them down (see
+вилочные трубки, потянув их вниз (см.
 
 17
 
-fork tubes through the
+вилочные трубки через
 
-over the fork tube end and into its
+над концом трубки вилки и в ее
 
-8 Loosen the upper and lower triple lamp pinch bolts and withdraw the
+8 Ослабьте верхний и нижний стяжные болты тройной лампы и снимите
 
-On 1100 models
+На моделях 1100
 
-On
+Вкл.
 
-front tum
+передний поворот
 
-specified torque.
+заданный крутящий момент.
 
-the underside of the joint.
+нижняя сторона сустава.
 
-detached from the upper tnple clamp,
+отсоединился от верхнего тройного зажима,
 
-signal damp pinch bolts should
+сигнальные влажные стяжные болты должны
 
-Tighten the
+Затяните
 
-specified torque.
+заданный крутящий момент.
 
-ensure that the
+обеспечить, чтобы
 
-Push the fork tubes up through the air joints and triple clamp
+Протолкните трубки вилки вверх через воздушные соединения и тройной зажим.
 
-Tighten the
+Затяните
 
-700/750 Magna models the front tum
+700/750 Magna моделирует передний живот
 
-or
+или
 
-and snap-rings
+и стопорные кольца
 
-master cylinders are kept as horizontal as
-possible
-to
-avoid leakage,
+Главные цилиндры остаются в горизонтальном положении, как
+возможно
+чтобы
+избежать утечки,
 
-illustration). On 1987 and 1983
+иллюстрация). В 1987 и 1983 годах
 
-surface,
+поверхность,
 
-models secure the handlebars in the comect
+модели закрепляют руль в комекте
 
-their pinch
+их щепотка
 
-tape the handlebars together over the tank so thet the brake and clutch
+скрепите руль скотчем над баком, чтобы задействовать тормоз и сцепление.
 
-be loosened to allow the forks to slide through them.
+ослабить, чтобы вилы могли пройти сквозь них.
 
-top
+топ
 
-On 1985 through
+С 1985 года по
 
-tube should be level with the tiple damp top surface,
+трубка должна находиться на одном уровне с влажной верхней поверхностью,
 
-6 Remove the bots that attach the brake hose joint to the lower triple
+6 Снимите боты, которые крепят соединение тормозного шланга к нижнему тройнику.
 
-tubes,
+трубки,
 
-clamp
+зажим
 
-Magna models the groove around the top of the inner
+Magna моделирует канавку вокруг верхней части внутренней
 
-5 On 1982 through 1986 models, pry out their tim caps and remove
-the four bolts from the fork brace, then lit the brace free
+5 На моделях 1982–1986 годов подденьте крышки ГРМ и снимитечетыре болта от скобы вилки, затем освободили скобу
 
-fork
+вилка
 
-triple
+тройной
 
-handlebar top surface on 1982/83 750 Sabre models,
+верхняя поверхность руля на моделях 750 Sabre 1982/83 года,
 
-1987
+1987 год
 
-clamps and the snap-rngs from the
+хомуты и защелки из
 
-and slide the
+и сдвиньте
 
-place.
+место.
 
-12 On 700/750 modets install the forks in the triple clamps so that the
-top
+12 На моделях 700/750 установите вилки в тройные зажимы так, чтобы
+топ
 
 1
 
-Remove all
+Удалить все
 
-fork legs back into
+развилки ног обратно в
 
-but leave ts bolts loose until after the front
+но оставьте болты TS незатянутыми до тех пор, пока не будет передняя часть
 
-been installed and the axle tightened.
+установлен и ось затянута.
 
-the fork tube and sid off the fork tube end before it can pass through
+трубку вилки и отрежьте конец трубки вилки, прежде чем она сможет пройти сквозь
 
 18
 
-the lower triple camp.
+нижний тройной лагерь.
 
-clearance between the brake disc and caliper bracket (see Chapter 7,
+зазор между тормозным диском и кронштейном суппорта (см. главу 7,
 
-9 If the forks are seized
+9 Если вилы заклинило
 
-in the ti
+в ти
 
-spray the area with penetrating oil and allows time for t to soak
+распылите на это место проникающее масло и дайте время впитаться
 
-trying again. Note:
-bots while they are
+пробую еще раз. Примечание:
+боты, пока они есть
 
-ff the forks are to be disassembled,
+Если вилку необходимо разобрать,
 
-in
+в
 
-beto
+Бето
 
-foosen the foo
+фуууу
 
-Install
+Установить
 
-the front wheel and brake calipers,
+переднее колесо и тормозные суппорты,
 
-not forgetting
-to check the
+не забывая
+проверить
 
-ton 7), Tighten the fork brace bots to the specified torque,
+тонна 7), затяните боты распорок вилки указанным моментом,
 
-9 Following installation ofthe forks, carry out air pressure adjustment
-and damping adjustment, as applicable (see Section 14). Check the
-operation
-motorcycle
+9 После установки вил выполните регулировку давления воздуха.
+и регулировку демпфирования, если применимо (см. Раздел 14). Проверьте
+операция
+мотоцикл
 
-of
+из
 
-the
+тот
 
-front
+фронт
 
-suspension
+подвеска
 
-and
+и
 
-brakes
+тормоза
 
-before
+раньше
 
-riding
+езда
 
-the
+тот
 
 6-8
 
-Chapter
-6 Frame, suspension and final drive
+Глава
+6 Рама, подвеска и главная передача
 
-‘SNAP RING
+«СТОПОРНОЕ КОЛЬЦО
 
-aoe
+аоэ
 
-SLIDER
+СЛАЙДЕР
 
-’
+'
 
-AIR VALVE
+ВОЗДУШНЫЙ КЛАПАН
 
-RING
+КОЛЬЦО
 
-BUSHING
+ВТУЛКА
 
-ADER
+Адер
 
 ANTLDIVE
 
-HOUSING
+ЖИЛЬЕ
 
-e
+е
 
-i
+я
 
-So
+Итак
 
 ~
-DRAIN
-BOLT
+СЛИВ
+БОЛТ
 
-SOCKET
+РОЗЕТКА
 
-e
+е
 
-BOLT
-FORK TU
+БОЛТ
+ВИЛКА ТУ
 
-FORK TUBE
+ВИЛКА ТРУБКА
 
-FORK TUBE
+ВИЛКА ТРУБКА
 
-=, REBOUN
-SPRING D
+=, отскок
+ВЕСНА Д
 
-8.2a Fork components - earty 700/750
+8.2a Компоненты вилки — Earty 700/750
 
-‘models
+'модели
 (1100
-models sila)
+модели сила)
 
-reese
+Риз
 
-P BOLT
-CER
+П БОЛТ
+ССВ
 
-SNAP RING
-OIL SEAL.
+СТОПОРНОЕ КОЛЬЦО
+САЛЬНИК.
 
 &
 
-S
+С
 
-BACK UP RING
+ОПОРНОЕ КОЛЬЦО
 
-fp
+фп
 
 :
 
-SLIDER BUSHING
+ВТУЛКА ПОЛЗУНКА
 
-ORK SPRING
+ОРК ВЕСНА
 
 1]
-M/
+М/
 
-Uy
+Уй
 
-SLIDER
+СЛАЙДЕР
 
 &
 
-8.2 Fork componerts - 1967 and
-1988 700760 models,
+8.2 Компоненты вилки - 1967 г. и
+1988 модели 700760,
 
-gS
-"FORK TUBE
+гС
+"ВИЛКА ТРУБКА
 
-PER PISTON
+НА ПОРШЕНЬ
 
-BUSHING
+ВТУЛКА
 
-—-STOP RING
+—-СТОПОРНОЕ КОЛЬЦО
 
-F
-A
+Ф
+А
 
-“DAMPER
+«ДЕМПФЕР
 
-PISTON SEAT
+СЕДЛО ПОРШНЯ
 
-pease:
+горох:
 
-Chapter6
+Глава 6
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
 6-9
 
-8.9 Remove dust seal (A), foam ring (B), plastic back-up ring (C)
-and snap-ting
-(D) from its groove
-in slider
+8.9 Снимите пылезащитный уплотнитель (А), пенопластовое кольцо (В), пластиковое опорное кольцо (С).
+и щелкать
+(D) из канавки
+в слайдере
 
-8.10 Usea
-slide-hammer
-action
-to separate the sider
-‘and fork tube
+8.10 Усеа
+скользящий молоток
+действие
+отделить сторону
+'и вилка
 
 8
 
-Forks
--disassembly,
-inspection
-and reassembly
+Вилки
+-разборка,
+инспекция
+и повторная сборка
 
-8.12 Oil seal (A), back-up ring (B) and slider bushing (C) can be
+8.12 Сальник (А), опорное кольцо (В) и скользящая втулка (С) могут быть
 
-slid off the fork tube; don’t remove fork tube bushing (0)
-unless wom
-use @ pumping action to force out the remainder of the oil
+соскользнул с трубки вилки; не снимайте втулку трубки вилки (0)
+если только женщина
+используйте @ насосное действие, чтобы вытеснить остатки масла
 
-Reter'to ilustrations 6,28, 6 2b,
+Вернемся к иллюстрациям 6,28, 6 2b,
 
-(see
+(см.
 
-illustration)
+иллюстрация)
 
-Disassembly
-86, 89, 8.10, 8.12 and & 13
+Разборка
+86, 89, 8.10, 8.12 и & 13
 
 1
-Remove the forks from the triple clamps (see Section 7).
-2 Always dismantle
-the fork legs separatelyto avoid interchanging
-parts and thus causing an accelerated rate of wear. Store all
-components in separate, cleerly marked containers (see
+Снимите вилки с тройных зажимов (см. Раздел 7).
+2 Всегда разбирайте
+ножки вилки отдельно, чтобы избежать перестановки
+деталей, что приводит к ускоренному износу. Хранить все
+компоненты в отдельных контейнерах с четкой маркировкой (см.
 
-illustrations).
-3 Pry the plastic cap off the fork top bolt (if equipped). On 1982
-through 1986 700/750 models, relieve the air pressure
-in the fork
-(if equipped) by depressing the valve stem. The air pressure will
-have been
-released when the
-forks were removed from the triple
-‘clamps
-on 1100 models.
-4 Remove the fork
-top bolt; if is tight, install the fork back into th
-triple clamps and tighten
-the triple ciamp bolts to hold the inne
-tube while the top boltis loosened. Warning:
-Note that there is
-considerable spring pressure on the cap. While # is being
-unscrewed, sufficient pressure should be appled to keep # from
-‘popping out. The top bolt O-ring should be replaced with a new one
-whenever
-the top bots removed. Caution: Do net separate
-the
-‘adjustment rod from the fork top bot on 1100 Sabre models.
-Sout outine spacer and spring seat, then withdraw the spring and
-make a note of which way up its closer-wound coils are installed
-6 Once the spring has been removed, the fork oil can be drained.
-Invert the tube to drain most of the oil, then grasp the fork
-and
+иллюстрации).
+3 Снимите пластиковую крышку с верхнего болта вилки (если имеется). В 1982 году
+до моделей 700/750 1986 года сбросьте давление воздуха.
+в развилке
+(если имеется), нажав на шток клапана. Давление воздуха будет
+были
+выпущен, когда
+вилки убрали из тройки
+'зажимы
+на 1100 моделях.
+4 Снимите вилку
+верхний болт; если затянута, установите вилку обратно в
+тройные зажимы и затяните
+тройные болты циампа, удерживающие внутреннюю часть
+трубку, пока верхний болт ослаблен. Предупреждение:
+Обратите внимание, что существует
+значительное давление пружины на крышку. Пока # находится
+отвинчены, необходимо приложить достаточное давление, чтобы удержать # от
+'выскакивает'. Уплотнительное кольцо верхнего болта следует заменить на новое.
+всякий раз, когдатоповые боты удалены. Внимание: делайте сеть отдельной
+тот
+«Регулировочная тяга от бота вилки на моделях 1100 Sabre.
+Выньте внешнюю прокладку и гнездо пружины, затем снимите пружину и
+отметьте, в каком направлении установлены катушки с более близкой намоткой.
+6 После снятия пружины масло из вилки можно слить.
+Переверните трубку, чтобы слить большую часть масла, затем возьмите вилку.
+и
 
-7 Support the slider in a vise using a thick towel or piece of wood
-to protect it, then remove the socket head bolt from the bottom of
-the slider. If you find that the damper piston rotates
-inside the inner
-tube and consequently the socket bolt cannot be loosened,
-temporarily reinstall the spring, spacer and fork cap. Have an
-assistant compress the fork while the socket bolt is loosened;
-this
-should hold the damper piston in position.
-8 Invert the fork and let the damper piston and rebound spring
-slide out ofthe fork tube. On all 1982 through 1986 models, the left
-fork damper piston cannot be removed until the inner tube and
-slider have been separated.
-9 Remove the dust seal from the area where the fork tube enters
-the slider, then remove the foam ring and plastic back-up ring
-(where fitted). Use a small flat-bladed screwdriver to ease the
-snap-ring out of its groove and remove it (see illustration).
-10 Holding the slider with one hand and the fork
-‘other, withdraw th
-xxtension and move it in and out in
-a slide-hammer action (se
-illustration). This action will tap the
-slider bushing from the slider and allow the inner tube and slider to
-be separated.
+7 Зажмите ползунок в тисках, используя толстое полотенце или кусок дерева.
+чтобы защитить его, затем снимите болт с головкой под торцевой ключ в нижней части
+ползунок. Если вы обнаружите, что поршень демпфера вращается
+внутри внутреннего
+трубку и, следовательно, болт с головкой невозможно ослабить,
+временно переустановите пружину, проставку и крышку вилки. Иметь
+помощник сжимает вилку, пока болт с головкой ослаблен;
+это
+должен удерживать поршень демпфера на месте.
+8 Переверните вилку и дайте поршню демпфера и пружине отскока
+выскользнуть из трубки вилки. На всех моделях с 1982 по 1986 годы левый
+Поршень демпфера вилки нельзя снять до тех пор, пока внутренняя трубка и
+слайдер был отделен.
+9 Снимите пылезащитный уплотнитель с места входа трубки вилки.
+ползунок, затем снимите пенопластовое кольцо и пластиковое опорное кольцо.
+(где установлено). Используйте небольшую плоскую отвертку, чтобы облегчить
+стопорное кольцо из канавки и снимите его (см. рисунок).
+10 Удержание ползунка одной рукой и вилкой
+'другое, отзови это
+xxtension и перемещайте его внутрь и наружу.
+действие скользящего молотка (см.
+иллюстрация). Это действие коснется
+втулку ползуна и дайте внутренней трубке и ползуну выдвинуться.
+быть разделены.
 
-11 The damper piston seat can be removed from the slider at this
-12 Slide the oil
-tube (see illustration)
+11 При этом седло поршня демпфера можно снять с ползуна.
+12 Слейте масло
+трубка (см. рисунок)
 
-back-up ring and slider bushing
-off
-of
-the fork
+опорное кольцо и втулка ползунка
+выкл.
+из
+вилка
 
 &
 
-Chapter6 Frame, suspension and final drive
+Глава6 Рама, подвеска и главная передача
 
-8.13 Oil lock valve components
+8.13 Компоненты маслозапорного клапана
 &
 
 \siepxinga
 
 @
 
-8.16 Fork tube runout check
+8.16 Проверка биения трубки вилки
 
-Serko
+Серко
 
-O Spring soat
+О весеннее мыло
 
-2 Vane
+2 лопасти
 
-BACK.UP RING
+ОПОРНОЕ КОЛЬЦО
 
-13 On all 1982 through 1986 models,
+13 На всех моделях с 1982 по 1986 гг.
 
-remove the snap-ting, oil lock vaive, spring, seat and second snapring from the left fork damper piston end (see illustration). Slide
-the damper piston and rebound spring out of the top of the inner
-tube.
+Снимите защелку, заслонку масляного замка, пружину, седло и вторую пружину с конца поршня левого демпфера вилки (см. рисунок). Слайд
+поршень демпфера и возвратная пружина выходят из верхней части внутреннего
+трубка.
 
-Inspection
-Refer
-to
-illustration 8 16 and 8.17
+Инспекция
+Обратитесь
+чтобы
+иллюстрации 8 16 и 8.17
 
 14
 
-Clean all
+Очистить все
 
-components with
+компоненты с
 
-CHECK POINTS.
+ПРОВЕРОЧНЫЕ ТОЧКИ.
 
-solvent and dry them with
+растворителем и высушите их
 
-‘COPPER
-‘SURFACES
+«МЕДЬ
+«ПОВЕРХНОСТИ
 
-compressed air
-15 Measure the free length of the fork springs and check them for
-cracks and other damage. If the springs are sagged, or if defects
-are noted, replace them with new ones. If the spring in one fork leg
+сжатый воздух
+15 Измерьте свободную длину пружин вилки и проверьте их на
+трещины и другие повреждения. Если пружины просели или имеются дефекты
+отмечены, замените их новыми. Если пружина в одной ножке вилки
 
-li
+ли
 
-ways replace the spring in the other fork leg
+способы замены пружины в другой ножке вилки
 
-8.17 Check the copper surface does not show through the
+8.17 Убедитесь, что медная поверхность не видна сквозь
 
-16 Check the fork tubes end stders for score marks. scratches,
-Aang
-cimnve and excaanivs of ebnoroalweer. Wh he fo
+16 Проверьте концы трубок вилки на наличие насечек. царапины,
+Аанг
+cimnve и excaanivs ebnoroalweer. Зачем он
 
-bushing coating over more than 3/4 of its area (left); back-up
+покрытие втулки более чем на 3/4 ее площади (слева); резервное копирование
 
-ring check points (right)
+кольцевые контрольно-пропускные пункты (справа)
 
-supported on V-blocks, measure
-its runout and compare it ‘one
+поддерживается на V-образных блоках, измерьте
+его биение и сравните его с одним
 
-Specicetions (see ltistration). Whenusing @ il incstor end
+Технические характеристики (см. список). При использовании @il incstor конец
 
-damper piston
-models,
+демпферный поршень
+модели,
 
-groove before instaling the
+паз перед установкой
 
-the damper piston seat has @
+седло поршня демпфера имеет @
 
-comespond with the flat on the end of
+приходит с квартирой в конце
 
-seat.
+сиденье.
 
-On
+Вкл.
 
 1100
 
-Sabre
+Сабля
 
-flat on its inside which must
+плоская внутри, которая должна
 
-the damper piston,
+поршень демпфера,
 
-and the
+и
 
-cutout on its outer edge must align with the oil drain bolt in the side of
-area,
+вырез на его внешнем крае должен совпадать с болтом слива масла сбоку
+площадь,замените их новыми (см. рисунок). Если это необходимо
+замените нижнюю втулку трубки вилки, отделите ее от посадки и сдвиньте
+Это выключено. Убедитесь, что новый занимает место.
+18 Проверьте опорное кольцо на наличие трещин и деформации (см.
 
-replace them with new ones (see illustration). If it's necessary to
-replace the fork tube lower bushing, pry it apart af the sit and slide
-It off. Make sure the new one seats property.
-18 Check the back-up ring for cracks and distortion (see
+рисунок 8.17),
 
-illustration 8.17),
+19 Осмотрите поршневые кольца демпфера: нет ли на них следов износа.
+замените их. Аккуратно раздвиньте их у вертела в кольце, чтобы освободить
 
-19 Inspect the damper piston rings: if they show signs of wear
-replace them. Pry them apart gently at the spit in the ring to free
+их из своей колеи.
 
-them from their groove.
+ползунок
 
-the slider
+24 Установите ползунок в тиски,
 
-24 Mount the slider in the vise,
+Нанесите резьбовой фиксатор на
 
-Apply thread locking compound to the
+резьба торцевой головки бота, устанавливаем бот, используя новый уплотнитель
 
-threads of the socket head bot,, install the bot using a new sealing
+«Шайбу и затяните с указанным моментом затяжки. Опять же, если есть затруднения
+в бохтенении болта,
 
-‘washer and tighten i to the specified torque. Again, if there is dificuty
-in bohtening the bolt,
+Временно вставьте пружину вилки, проставку и
 
-temporanly insert the fork spring, spacer and
+колпачок вилки, чтобы оказать давление на головку поршня демпфера и остановить его
+вращающийся
 
-fork cap to place pressure on the damper piston head and stop it
-rotating
+25 Поместите втулку ползуна на трубку вилки и положите ее на ползун.
+Для установки втулки в выемку необходимо использовать приспособление Honda.
+сервисный инструмент или придумайте альтернативный трубчатый сверлильный станок. Лучший метод:
 
-25 Place the slider bushing over the fork tube and rest it onthe slider
-To ft the bushing into ts recess it will be necessary to use the Honda
-service tool or devise an altemative tubular drit. The best method is,
+20 Обратитесь к разделу 9 для получения информации о противотанковом блоке, установленном на
+Модели с 41982 по 1986 год.
 
-20 Refer to Section 9 for information on the anti-ive unit fitted to
-41982 through 1986 models.
+использовать трубку длиной немного большей, чем трубка вилки
 
-to use a length of tubing slightly larger in diemeter than the fork tube
+Сборка
 
-Reassembly
+используя трубку в качестве бокового молотка @ (см. рисунок), возьмите
+старайтесь не поцарапать трубку во время этой операции; лучше всего сделать
 
-using the tube as @ form of side hammer (see illustration), Take
-care not to scratch the tube during this operation; it is best to make
+См. «Ошибки»
+8.25, 8.26 и 8.31
 
-Refer to Mistrations
-8.25, 8.26 and 8.31
-
-21 With the rebound spring in place on the damper piston, slide it
-down the fork tube so that its lower part protrudes from the bottom
-of the tub
+21 Установив возвратную пружину на поршень амортизатора, сдвиньте ее.
+вниз по трубке вилки так, чтобы ее нижняя часть выступала снизу
+из ванны
 
 2
 
-tie
+галстук
 
-Es
+Эс
 
-ee BS
+эээ чушь
 
-Piece a large plain washer against the bushing and then tap it home:
+Прикрепите большую плоскую шайбу к втулке и затем постучите по ней:
 
-ae ee
+аааааа
 
-a ae
+аа
 
-fing, spring seat, valve spring, oil lock valve
-and snap-ring
-on
+палец, седло пружины, пружина клапана, масляный запорный клапан
+и стопорное кольцо
+на
 
-iousr pert of he damper piston {see Mustration 8.19); the sap.
+более узкий поршень демпфера (см. раздел 8.19); сок.
 
-rings must engage the damper piston grooves.
-23 Place the damper piston seat onthe
-end ofthe demper piston
-and then slide the entire fork tube assembly into the slider. On
-1987 and 1988 700/750 Magna models make sure the stop ring is
-in place in the
+Кольца должны войти в канавки поршня демпфера.
+23 Установите седло поршня демпфера на
+конец поршня демпфера
+а затем вставьте весь узел трубки вилки в слайдер. Вкл.
+На моделях 700/750 Magna 1987 и 1988 годов убедитесь, что стопорное кольцо
+на месте в
 
-sure that the fork tubs is pushed fully into the ‘slider so that any
-accidental scoring is confined to the area above the seal
+убедитесь, что вилки полностью вставлены в ползунок, чтобы
+случайные задиры ограничиваются областью над печатью
 
-26 install the back-up ing. Dip the new seal in automatic transmission
-fluid (ATF), then slip @ over the fork tube (with the marks up) and drive
-it into postion using the same method as for the slider bushing until
-the snap-nng groove is visible above the seal (see illustration),
-27 Install the snap-ring with ts radused edge facing down. Be sure it
-'s property seatad in &s groove. Note:
+26 установка резервной копии. Окунуть новый сальник в АКПП
+жидкости (ATF), затем наденьте @ на трубку вилки (отметками вверх) и поезжайте.
+установите его в нужное положение, используя тот же метод, что и для втулки ползуна, пока
+над уплотнением видна канавка для защелкивания (см. рисунок),
+27 Установите стопорное кольцо скошенной кромкой вниз. Будьте уверены, это
+Место собственности в &s пазу. Примечание:
 
-were found under the dust seal on
+были найдены под пыльником на
 
-Where plastic and foam rings
+Где пластиковые и пенопластовые кольца
 
-y, these need not be
+да, это не обязательно должно быть
 
-renstaled
-on 1100 models. Press the dust seal into position in the top
-of the slider
+перенесенный
+на 1100 моделях. Установите пылезащитный уплотнитель в верхнее положение.
+ползунка
 
 28
 
-Mount the fork in the vise with the open end up and pour the
+Установите вилку в тиски открытым концом вверх и залейте
 
-Chapter6 Frame, suspension and final drive
+Глава6 Рама, подвеска и главная передача
 
 6-14
 
-DUST SEAL
-RING
-OIL SEAL
+ПЫЛЕВОЕ УПЛОТНЕНИЕ
+КОЛЬЦО
+САЛЬНИК
 
-‘BACK.UP
-RING
+«РЕЗЕРВНОЕ КОПИРОВАНИЕ
+КОЛЬЦО
 
-8.26 Cross-section of oll seal components in fork slider’
+8.26 Поперечное сечение компонентов уплотнения в ползуне вилки.
 
-athe Aeron”
-WARE
+ате Аэрон»
+ПОСУДА
 
-(O
+(О
 
-9.4 Remove the four socket-head screws to free
-from slider
-housing
+9.4 Выверните четыре винта с головкой под торцевой ключ, чтобы освободить
+из слайдера
+жилье
 
-cutouts on the inside of the cap must engage the tabs on the
+вырезы на внутренней стороне крышки должны заходить в выступы на
 
-damping adjuster. When set in the No. 1 damping position, the lug
-on the fork cap bolt, punch mark on the damping adjuster and No.
-1 on the cap should all be in alignment.
+регулятор демпфирования. При установке в демпфирующее положение № 1 выступ
+на болте крышки вилки, метка на регуляторе демпфирования и №.1 на крышке, все должны совпадать.
 
-8.31 Installing the damping adjuster rod on 1100 Sabres
+8.31 Установка тяги регулятора демпфирования на 1100 Sabre
 
-34 After installation
-pump the forks up and down to distribute the
-cil, check the anti-dive and damping adjuster settings and
-pressurize the forks with air (where applicable).
+34 После установки
+качайте вилки вверх и вниз, чтобы распределить
+cil, проверьте настройки регулятора защиты от проваливания и демпфирования и
+подайте в вилы давление воздуха (где применимо).
 
-specified amount of ATF into the fork tube (see Specifications),
-noting that the amount differs for right and lef forks on models
-with anti-dive..
+указанное количество ATF в трубку вилки (см. Технические характеристики),
+отметив, что сумма различается для правой и левой вилок на моделях.
+с защитой от погружения..
 
-29 On 1100 Sabre models a figure is given for fork oil level from
+29 На моделях Sabre 1100 уровень масла в вилке указан от
 
-the top of the fork tube. To check, hold the fork vertical and pass a
+верхняя часть трубки вилки. Для проверки держите вилку вертикально и пропустите
 
-length of welding rod or straight rule down through the inner tube
-fe measurethe of level Ad or rrnove oll nil fe a
-ction as noted on
-30 Install the fork spring in the
+длина сварочного стержня или прямой линейки вниз по внутренней трубке
+fe измеряет уровень Ad или rrnove oll nil fe a
+действие, как отмечено на
+30 Установите пружину вилки в
 
-disassembly (on 1985 through 1888 T0078 Magna models its
+разборка (с 1985 по 1888 годы T0078 Magna моделирует свои
 
-tapered end should face downwards, on 1100 Sabres the closely
-wound coils should be at the bottom, on 700/750 Sabres, 1982
-through 1984 700/750 Magnas and ail 1100 Magnas the closely-
+конический конец должен быть направлен вниз, на 1100 Sabre более узкий
+намотка катушек должна быть внизу, на 700/750 Sabre, 1982 г.
+до 1984 года 700/750 Magnas и все 1100 Magnas,
 
-would coils should be at the top). Install the spring seat and spacer
-into the fork tube.
+бы катушки должны быть вверху). Установите седло пружины и проставку
+в трубку вилки.
 
-31 Extend the fork fully and install the fork top bolt witha new O-ring.
-Use the bolt to compress the spring enough to start the bolt into its
-threads. On 1100 Sabre models, the shaped damping adjuster rod
-i must engage correctly with the cutout in the damper piston
-(see
+31 Полностью выдвиньте вилку и установите верхний болт вилки с новым уплотнительным кольцом.
+Используйте болт, чтобы сжать пружину настолько, чтобы болт вошел в исходное положение.
+нити. На моделях 1100 Sabre фигурный стержень регулятора демпфирования
+я должен правильно зацепиться с вырезом в поршне демпфера
+(см.
 
-32 Tighten the fork top bolt securely, leaving tightening to the
-specified torque until
-itis firmly clamped in the
-triple clamps.
-33 Install the forks in the triple clamps (see Section 7). When fiting
-the plastic cap over the right fork top bolt on 1100 Sabre models,
+32 Надежно затяните верхний болт вилки, оставив затяжку на
+заданный крутящий момент до
+он прочно зажат в
+тройные зажимы.
+33 Установите вилки в тройные зажимы (см. Раздел 7). При установке
+пластиковая заглушка на верхнем болте правой вилки на моделях Sabre 1100,
 
-the
+тот
 
 9
 
-Anti-dive (TRAC) - removal and installation
+Защита от пикирования (TRAC) – снятие и установка
 
-1 The left fork on 1982 through 1986 models incorporates @
-Torque Reactive Anti-dive Control (TRAC) unit, which is designed
-to lessen front fork compression during braking
+1 На моделях с 1982 по 1986 годы левая вилка оснащена @
+Блок Torque Reactive Anti-Dive Control (TRAC), разработанный
+чтобы уменьшить сжатие передней вилки при торможении
 
-2 If the forks are c¢
+2 Если вилки находятся в положении c¢
 
-ice,
+лед,
 
-ssively during
+активно во время
 
-braking, despite
+торможение, несмотря на
 
-or if fork oil is leaking from
+или если вилочное масло вытекает из
 
-around the housing, the anti-dive assembly should be removed
-and serviced.
+вокруг корпуса блок защиты от погружения следует снять
+и обслуживается.
 
-1100 Magnas and
-700/750 Sabres,
-1982 through 1984 700/750 Magnas
-Refer
-to
-ilustrations 9.4, 9.5, 96 and 9,12
+1100 Магнас и
+700/750 Сэйбрз,
+1982–1984 700/750 Магнас
+Обратитесь
+чтобы
+иллюстрации 9.4, 9.5, 96 и 9,12
 
-Removal
-3 If the forks are on the motorcycle, first remove the left brake
-caliper and its bracket (see Chapter 7). For addtional clearance,
-also disconnect the speed sensor (750 Sabres) or speedometer
+Удаление
+3 Если на мотоцикле есть вилки, сначала снимите левый тормоз.
+суппорт и его кронштейн (см. главу 7). Для получения дополнительного разрешения,
+также отсоедините датчик скорости (750 Sabre) или спидометр
 
-cable (all other models) and secure it out of the way.
-4 Remove the four socket head screws and separate the anti-dive
-housing from the left fork (see illustration).
+кабель (все остальные модели) и закрепите его в стороне.
+4 Выверните четыре винта с головкой под торцевой ключ и отделите защиту от погружения.
+корпус левой вилки (см. рисунок).
 
-Chapter
-6 Frame, suspension
-and final drive
+Глава
+6 Рама, подвеска
+и главная передача
 
-‘95 Anti-dive housing O-ring, piston and stop rubber
+'95 Корпус для защиты от погружения Уплотнительное кольцо, поршень и резиновый упор
 
-‘9.6 Anti-dive orifice valve (1), check valve (2) and pivot
+‘9.6 Противопогруженный дроссельный клапан (1), обратный клапан (2) и шарнир
 
-5 Remove the spring and large O-ring. and pull the piston out of the
+5 Снимите пружину и большое уплотнительное кольцо. и вытащите поршень из
 
-housing (see illustration).
+корпус (см. рисунок).
 
-then remove the socket head screws and separate the anti-dive
-housing from the left fork. Allow the fork oil to drain into the drain tray,
+затем открутите винты с головкой под торцевой ключ и отделите защиту от погружения.
+корпус с левой развилки. Дайте маслу вилки стечь в сливной поддон.
 
-‘collar (3)
+'воротник (3)
 
-6 Remove the snap-rings that secure the rubber bocts around the pivot
-bolt collar. Remove the boots, followed by the collar (see illustration).
+6 Снимите стопорные кольца, которые фиксируют резиновые втулки вокруг шарнира.
+болтовой воротник. Снимите ботинки, а затем воротник (см. рисунок).
 
-Recover the call spring
-15 Remove the snap-rng from the piston collar and slip the collar out
+Восстановить призывную пружину
+15 Снимите стопорное кольцо с кольца поршня и вытащите кольцо.
 
-‘With the collar removed, the stop rubber will drop out
+«При снятом хомуте стопорная резинка выпадет.конца поршня.
 
-of the end of the piston.
+7 На моделях 1982 года выкрутите винты, которые восстанавливают настройку регулятора.
 
-7 On 1982 models remove the screws that retan the adjuster setting
+поршень и его резиновую шайбу изнутри корпуса (s
 
-piston and its rubber washer from the inside of the housing (s
+пластину к корпусу и снимите пластину. На моделях 1963-0 снимите
+стопорное кольцо, чтобы освободить установочную пластину регулятора. Отозвать офис
 
-plate to the housing and lift off the plate. On 1963-0 models remove
-the snap-ring to release the adjuster setting plate. Withdraw the onfice
+клапан из корпуса,
 
-valve from the housing,
+8 Наконец, снимите регулировочный винт обратного клапана,
+проверьте шар снизу корпуса
 
-8 Finally, remove the check valve seting screw,
-check ball from the bottom of the housing
+клапанная пружина и
 
-valve spring and
+Снимите пыльник поршня и вытащите
 
-Remove the piston boot and withdraw the
+иллюстрация).
 
-illustration).
+16 Выкрутите установочный винт из регулировочной ручки и потяните ручку.
 
-16 Unscrew the grub screw from the adjuster knob, and pull the knob
+от конца офисного клапана. Снимите дроссельный клапан с ползунка вилки.
+17 Наконец, снимите регулировочный винт обратного клапана, пружину клапана и
+проверьте шар снизу ползунка вилки.
 
-off the onfice valve end. Remove the orifice valve from the fork slider.
-17 Finally, remove the check valve setting screw, valve spring and
-check ball from the bottom ofthe fork slider.
+Джон
 
-jon
+9 Очистите все металлические детали чистым растворителем и осмотрите их.
+внимательно на предмет износа или повреждений.
 
-9 Clean all of the metal parts in clean solvent and inspect them
-carefully for wear or damage.
+Если в отверстии поршня имеются глубокие задиры,
 
-If there is deep scoring in the piston bore,
+потребуется замена поршня и корпуса. Проверьте
+отверстие, чтобы убедиться, что оно не повреждено и не засорено. Если сжатый воздух
+в наличии, забей
 
-replacement of the piston and housing will be necessary. Check the
-orifice to make sure it is not damaged or clogged. If compressed air is
-available, blow it
+вне.
 
-out.
+Также
 
-Also
-
-use compressed air to blow out the
+используйте сжатый воздух, чтобы продуть
 
 18
 
-See Steps
-9 and 10.
+См. шаги
+9 и 10.
 
-Installation
+Установка
 19
 
-Installation is @ reverse of the removal procedure, noting the
+Установка @ осуществляется в порядке, обратном процедуре снятия, принимая во внимание
 
-folowing
+следующий
 
-passages in the housing
+проходы в корпусе
 
-€2) Coat the piston and al seals with new fork ol ATF).
+2) Смажьте поршень и все уплотнения новой вилкой из ATF).
 
-410 The O-rings used on the piston, orifice and housing should all be
+410 Уплотнительные кольца, используемые на поршне, отверстии и корпусе, должны быть
 
 »)
-Apply
+Применить
 @
-thread locking compound tp the housing screw threads
+фиксатор резьбы на резьбе корпуса
 
-replaced as a matter of course whenever they are removed
+заменяются, как само собой разумеющееся, всякий раз, когда они удаляются
 
-‘ror
-to
-instaling them
+'рор
+чтобы
+их установка
 
-11 Check the collar boots for hardening and damage. Replace them if
+11 Проверьте чехлы воротника на предмет затвердевания и повреждений. Замените их, если
 
-©) Vihen the housing has been installed on the fork sider, check that
+©) Если корпус установлен на стороне вилки, убедитесь, что
 
-the piston isable to move in and out without binding,
+поршень может входить и выходить без заеданий,
 
-necessary,
+необходимо,
 
 ©)
-Refi
-te
-fork with the correct amount and type of new fork oil
+Рефи
+тэ
+вилка с правильным количеством и типом нового вилочного масла
 
-Installation
-12 Installation is a reverse of the removal procedure,
+Установка
+12 Установка осуществляется в порядке, обратном снятию.
 
-2) Set the ant-ae adjuster to the preferred setting (see Section 14)
+2) Установите регулятор ant-ae на желаемое значение (см. раздел 14).
 
-noting the
+отмечая
 
-folowing
+следующий
 
-.) Coat the piston and af seats with new fork of (ATF).
+.) Смажьте поршень и седла новой вилкой (ATF).
 
-) Apoly@ thread locking compound to housing Screw threads prior fo
-instaling thom
+) Герметик для фиксации резьбы Apoly@ на корпусе. Навинтите резьбу до
+установка тома
 
-©) Apply silicon grease fo the pivot collar prior to inserting it info place
+©) Нанесите силиконовую смазку на поворотное кольцо перед его установкой на место.
 
-Removal
+Удаление
 
-‘and ensure the boots are Corecty installed (see ilustration).
+«и убедитесь, что в загрузках установлена Corecty (см. иллюстрацию).
 
-700/750 Sabre models
+Модели 700/750 Sabre
 
-stroke
-of
-the piston, it should have 2.5 mm (0.10 in) of movement
+инсульт
+из
+поршень, он должен иметь ход 2,5 мм (0,10 дюйма).
 
 2
 
-0) Following reassembly, move the collar back and forth to check the
-©) Refi the torkth the conect amount an
+0) После сборки подвигайте воротник вперед и назад, чтобы проверить
+©) Уточните сумму и сумму
 
-ype of res fork of
+да, ответная часть
 
-A) Set the ant-dive adjuster fo the preferred
-setting (see Secton 14)
+А) Установите регулятор анти-погружения на желаемое значение.
+настройка (см. раздел 14)
 
-1100 Sabres and 1985/86 700 Magnas
-Removal
-Refer to ilustration 9.15
-43 Ifthe forks are on the motorcycle, frst remove the left brake caliper
-‘and ts bracket (see Chapter 7), For addtonal dearence, aso
-‘disconnect the speed sensor (Sabre) or speedometer cable (Magna)
+1100 саблей и 700 магна 1985/86 г.
+Удаление
+См. рисунок 9.15.
+43 Если на мотоцикле есть вилки, сначала снимите левый тормозной суппорт.
+'и скобка ts (см. главу 7), Для дополнительной дороговизны, а также
+«отсоедините датчик скорости (Sabre) или трос спидометра (Magna)
 
-of he way.
-out
-secureit
-‘and
+с его стороны.
+из
+защитить это
+'и
 14
 
 10
-Steering
-stem
-- removal and installation
+Рулевое управление
+стебель
+- снятие и установка
 
-Have a drain tray
-on Nand to catch the fork of which will emerge,
+Иметь сливной поддон
+на Нанде поймать развилку, из которой появится,
 
 1
 
-Remove the fuel tank (see Chapter
+Снимите топливный бак (см. главу
 4)
 
-Remove the headight and headight housing (see Chapter 8),
-3 Remove the instruments and, on early models, the odometer panel
-(see Chapter 8).
+Снимите головку и корпус головки (см. главу 8),
+3 Снимите приборы и, на ранних моделях, панель одометра.
+(см. главу 8).4 Отследите и отсоедините провода передних указателей поворота, затем снимите
+два болта, которые крепят кронштейн крепления сигнала поворота головы к
 
-4 Trace and disconnect the front tum signal wires, then remove the
-two bolts which retain the headighttum signal mount bracket to the
+Верхняя тройка влажная.
+5 Снимите ручки и вилы (см. разделы 5 и 7), обращая внимание
+что нет необходимости отсоединять гидравлические шланги или крыло, просто
 
-Upper triple damp.
-5 Remove the handiebers and forks (see Sections 5 and 7), noting
-that there is no need to disconnect the hydraulic hoses or wing, just
+расположите руль подальше от зажима ниппеля.
 
-postion the handlebars away from the tniple clamp.
+6 Отследите проводку от замка зажигания (ключа) и отсоедините ее в
 
-6 Trace the wiring from the ignition (key) switch and disconnect it at
-
-the block connector. Remove the two bolts on the underside of the
-‘switch and withdraw
-the switch from the upper triple clamp,
+разъем блока. Отверните два болта на нижней стороне
+'переключиться и уйти
+переключатель с верхнего тройного зажима,
 7
-two
+два
 
-Disconnect all wires from the hom terminals,
-then remove the
+Отсоедините все провода от клемм Home,
+затем удалите
 
 6-13
 
-Chapter6 Frame, suspension and final drive
+Глава6 Рама, подвеска и главная передача
 
 H2B225
 
-9.15 Anti-dive unit components (1100 Sabres and
+9.15 Компоненты противопикёрного блока (1100 сабель и
 
-9.12 install pivot collar boot and boot holder (snap-ing) as shown
-bolts which retain the braking system three-way union to the lower
-triple clamp. On 1982 and 1983 models, remove the tum signal angle
+9.12 установите чехол с поворотным воротником и держатель чехла (защелкиваясь), как показано на рисунке.
+болты, которые крепят трехстороннее соединение тормозной системы к нижней
+тройной зажим. На моделях 1982 и 1983 годов уберите угол поворота.
 
-sensor screws from the base of the steering stem and withdraw the
-sensor; disconnect the wire connectors and withdraw the wining from
-the top of the stem, 8 Refer to Steps 53 through 56.
+винты датчика из основания рулевого стержня и вытащите
+датчик; отсоедините разъемы проводов и вытащите обмотку из
+верхняя часть стебля, 8 См. шаги с 53 по 56.
 
-1982 through 1984 700/750 Magna models
+Модели 700/750 Magna с 1982 по 1984 год.
 
-9 Remove the main fuel tank, or if less than half full raise it on its
+9 Снимите основной топливный бак или, если он заполнен менее чем наполовину, поднимите его на
 
-1985/86 700 Manas)
+1985/86 700 Манас)
 
 1
 
 2
 
-Housing
+Жилье
 
-Zz
+Зз
 
-O-ring
+уплотнительное кольцо
 
-Got)
+Понял)
 
 9
 
-O-ring
+уплотнительное кольцо
 
-Socketthead screws
+Винты с головкой под торцевой ключ
 
 3
 4
 5
 6
 
-Piston
-Collar
+Поршень
+Воротник
 Snap-rng
-Rubber washer
+Резиновая шайба
 
 8
 
 10
-i
+я
 2
 
-Boot
+Загрузочный
 
-Spring
-Seat
-Of drain plug and
-washer
+Весна
+Сиденье
+Сливной пробки и
+шайба
 
 4)
-support (see Chepter
+поддержка (см. главу
 
 8).
-10 Remove the headlight and headlight housing (see Chapter
+10 Снимите фару и корпус фары (см. главу
 
 11_
 
-Remove the instruments (see Chapter 8)
+Снимите инструменты (см. главу 8).
 
-12 Remove the handlebars and forks (see Sections 5 and 7), noting
+12 Снимите руль и вилку (см. разделы 5 и 7), обращая внимание
 
-that there is no need to disconnect the hydraulic Noses or wiring, just
+что нет необходимости отсоединять гидравлические носики или проводку, просто
 
-postion the handlebars away from the triple clamp
-13 Trace and disconnect the wiring from the front tum signals.
+расположите руль подальше от тройного зажима
+13 Найдите и отсоедините проводку от передних указателей поворота.
 
-Remove the bolts which retain the headlamp brackets to the upper
+Выверните болты, которые крепят кронштейны фары к верхней
 
-triple clamp and remove both brackets complete with the tum signals
-14 Trace the wiring from the igntion main (key) switch and disconnect
+тройной зажим и снимаем оба кронштейна в сборе с поворотниками
+14 Проследите проводку от главного выключателя зажигания и отсоедините
 
-& at the block connector. Remove the two bots on the underside of the
+& на разъеме блока. Удалите двух ботов на нижней стороне
 
-‘witch end wathdraw the switch from the upper tnple clemp.
-15 Remove the trim panel from the font of the lower triple clamp. and
-aisconnect al wiring from the hom terminals. Remove the two nuts on
+«Конец ведьмы: вытащите переключатель из верхнего тройного зажима.
+15 Снимите декоративную панель с передней части нижнего тройного зажима. и
+Подключите всю проводку от общих клемм. Снимите две гайки на
 
-the underside of the lower triple clamp and lit the braking system
-three-way union and hom assembly off the triple clamp.
-16 Refer to Steps 53 through 56.
+нижняя часть тройного хомута и загорелась тормозная система
+трехходовое соединение и монтажная муфта с тройного зажима.
+16 См. шаги с 53 по 56.
 
-1985 and 1986 700 Magna models:
+Модели 700 Magna 1985 и 1986 годов:
 17
 
 4).
-Remove the fuel tank (see Chapter
+Снимите топливный бак (см. главу
 
-18 Remove the headlight and headlight housing (see Chapter
+18 Снимите фару и корпус фары (см. главу).
 8)
-19 Detach the instruments from the upper tnple clamp (see Chapter,
+19 Отсоедините инструменты от верхнего тройного зажима (см. главу,
 8)
-20 Remove the handlebars and forks (see Sections 5 and 7), noting
-thet there is no need to disconnect the hydraulic hoses orwining, just
-Position the handlebars away from the triple clamp.
-21 Remove the horns end the cover between them, which houses the
-electrical connectors for the ignition main (key) switch, right and let
+20 Снимите руль и вилку (см. разделы 5 и 7), обращая внимание
+при этом нет необходимости отсоединять гидравлические шланги или отводку, достаточно
+Расположите руль подальше от тройного зажима.
+21 Снимите рожки и крышку между ними, в которой находится
+электрические разъемы главного выключателя зажигания, правого и левого
 
-handlebar switches. Disconnect the wiring connectors, then detach the
-Honda trim panel from the font of the lower triple clamp. Remove the
-‘two nuts trom the underside of the brake hose three-way union, then
-detach the union and electrical connector backplate trom the tnple
-damp.
+переключатели на руле. Отсоедините разъемы проводки, затем отсоедините
+Обшивка Honda из шрифта нижнего тройного хомута. Удалите
+«Две гайки закрутите нижнюю часть трехходового соединения тормозного шланга, затемотсоедините штуцер и заднюю панель электрического разъема от тройника.
+сыро.
 
-21 Trace and disconnect the wiring from the front tum signals. Remove
-the bolts which retain the headlamp brackets to the upper tnple clamp
-‘and remove both brackets complete with the turn signals.
-22 Remove the two bolts on the underside of the ignition main (key)
-‘switch and withdraw the switch from the upper tniple clamp,
+21 Найдите и отсоедините проводку от передних указателей поворота. Удалить
+болты, которые крепят кронштейны фары к верхнему тройному зажиму
+«и снимите оба кронштейна вместе с поворотниками.
+22 Отверните два болта на нижней стороне магистрали зажигания (ключа).
+'переключатель и вытащите переключатель из верхнего ниппельного зажима,
 23
 
-Referto Steps 53 through 56.
+См. шаги с 53 по 56.
 
-1987 and 1988 700/750 Magna models
+Модели 700/750 Magna 1987 и 1988 годов.
 24
 
-Remove the fuel tank (see Chapter
+Снимите топливный бак (см. главу
 4)
 
-25 Remove the headlight and headlight housing (see Chapter 8)
-26 Detach the instruments from the upper tnple clamp (see Chapter
+25 Снимите фару и корпус фары (см. главу 8).
+26 Отсоедините инструменты от верхнего тройного зажима (см. главу).
 8)
-Pull the speedometer cable through the hole in the lower triple clamp.
+Протяните трос спидометра через отверстие в нижнем тройном зажиме.
 
-27 Remove the handlebars and forks (see Sections 5 and 7). Note that
+27 Снимите руль и вилку (см. разделы 5 и 7). Обратите внимание, что
 
-there is no need to disconnect the wiring or the clutch hydraulic hose;
-just position the handlebars away from the triple camp. The front brake
-hydraulic hose passes through 2 hole in the lower triple clamp. and
-‘must be disconnected from the master cylinder and the hose passed
+нет необходимости отсоединять проводку или гидрошланг сцепления;
+просто расположите руль подальше от тройного стана. Передний тормоз
+Гидравлический шланг проходит через 2 отверстия в нижнем тройном зажиме. и
+'должно быть отсоединено от главного цилиндра и пропущен шланг
 
-through the triple clamp and released from its guide (see Chapter 7 for
-hose disconnection)
+через тройной зажим и освобожден от направляющей (см. главу 7).
+отсоединение шланга)
 
-28 Trace and disconnect the front tum signal wires and remove the
-bolt which retains each light unt to the upper tnple clamp.
-29. Referto Steps 53 through 56.
+28 Найдите и отсоедините провода передних указателей поворота и снимите
+болт, который крепит каждую фару к верхнему тройному зажиму.
+29. См. шаги с 53 по 56.
 
-1100 Sabre models
+1100 моделей саблей
 20
 
-Remove the fuel tank (see Chapter
+Снимите топливный бак (см. главу
 4)
 
-31 Remove the bolt on each side of the fusebox cover just above the
-the wiring from the horns
-homs) and pull the cover forward. Disconnect
-‘and remove their mounting bolts to release them from the fusebox
-cover.
+31 Выверните болты с каждой стороны крышки блока предохранителей чуть выше
+проводка от рожков
+homs) и потяните крышку вперед. Отключить
+'и открутите их крепежные болты, чтобы освободить их от блока предохранителей.
+крышка.
 
-32 Remove the two screws from the front face of the fusebox, hinge
+32 Выверните два винта на передней панели блока предохранителей, шарнира.
 
-the fuse mounting forward and disconnect the wiring connectors from
-the rear of the fusebox. Disconnect all wiring from the connector block
+монтаж предохранителя вперед и отсоедините разъемы проводов от
+задняя часть блока предохранителей. Отсоедините всю проводку от колодки разъемов.
 
-frame and disconnect the connectors. Remove the two bolts which
+рамку и отсоедините разъемы. Отверните два болта, которые
 
-retain the connector mounting bracket and braking system three-way
-joint to the lower tnple clamp.
+зафиксируйте кронштейн крепления разъема и трехстороннюю тормозную систему
+соединение с нижним тройным зажимом.
 
-33 Remove the eadight and headight housing (see Chapter 8)
-34 Detach the instruments from the upper tiple clamp (see Chapter
+33 Снимите переднюю стойку и корпус передней стойки (см. главу 8).
+34 Отсоедините инструменты от верхнего зажима наконечника (см. главу).
 8),
-35 Remove the handlebars and forks (see Sections § and 7), noting
-that there is no need to disconnect the hydraulic hoses or wiring, just
-position the handlebars away from the triple clamp.
+35 Снимите руль и вилку (см. разделы § и 7), обращая внимание
+что нет необходимости отсоединять гидравлические шланги или проводку, просто
+расположите руль подальше от тройного зажима.
 
-36 Remove the two screws which retain the fork air joint unions to the
+36 Выверните два винта, которые крепят соединения пневмосоединения вилки к
 
-upper tnple clamp.
+верхний тройной зажим.
 
-37 Remove its screws and detach the tum signal system angle sensor
+37 Выверните винты и снимите датчик угла поворота указателя поворота.
 
-‘and cancel unt from the base of the steering stem; disconnect
+'и отменить unt от основания рулевого стержня; отключиться
 
-Chapter6
+Глава 6
 
 614
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
-1061 The steering stem nut lockwasher
-tabs should be engaged in
+1061 Стопорная шайба гайки рулевого стержня
+вкладки должны быть задействованы
 
-10.57 Work grease
-fully into the rollers or balls
+10.57 Рабочая смазка
+полностью в ролики или шарики
 
-the slots of the locknut and adjuster nut (arrows)
+пазы контргайки и регулировочной гайки (стрелки)
 
-The
 
-cancel unit wires and withdraw the wiring from the top of the stem
-Trace and disconnect
-the wiring
 
-the bolts which retain the
+отмените провода блока и снимите проводку с верхней части штока
+Отследить и отключить
+проводка
 
-from the fort
+болты, которые удерживают
 
-tum signals.
+из форта
 
-headlamp brackets to the
+сигналы живота.
 
-bottom one is the adjuster nut for setting beering preload.
+кронштейны фары к
 
-‘and remove both brackets complete with the tum signals
-move the two bolts on
-the underside of the ignition main (key)
+нижняя — регулировочная гайка для регулировки преднатяга пива.
 
-tabs out of their slots
-of the steering stem and lift the top
-wer the tnple clamp
-roller cage will come out
+и снимаем оба кронштейна в сборе с поворотниками
+закрутите два болта
+нижняя часть магистрали зажигания (ключа)
 
-00 Megnamodels
+вкладки из своих слотов
+рулевого стержня и поднимите верхнюю часть
+это был тройной зажимроликовая клетка выйдет
+
+00 Мегнамоделей
 4}
 
-er. Detach the wing fom the back of the homs and remove the
-central mounting bok bracket to detach the horn assembly from the
-motorcycle
+э-э. Отсоедините крыло от задней части рулей и снимите
+Центральный монтажный кронштейн для отсоединения звукового сигнала от
+мотоцикл
 
-43 Remove the wiring connector box cover, ease the
+43 Снимите крышку коробки разъемов проводки, ослабьте
 
-connector holder
+держатель разъема
 
-frame out of position and disconnect all wiring
-connectors, Remove the
-two bolts from the back of the housing to release the housing from its
-mounting bracket and
+сместите раму и отсоедините всю проводку
+разъемы, снимите
+два болта с задней части корпуса, чтобы освободить корпус от его
+монтажный кронштейн и
 
-thread the wire connector ends
+заправьте концы разъема провода
 
-out
+из
 
-of the
+из
 
-housing
-to freeit
-Remove the headlight end headight housing (see
+жилье
+освободить его
+Снимите корпус фары со стороны фары (см.
 
-46 Remove the handlebars end
+46 Снимите конец руля.
 
-forks (see Sections 5 and 7),
+вилки (см. разделы 5 и 7),
 
-that there is no needfo disconnect the hydraulic
+что нет необходимости отключать гидравлику
 
-the lower inner race trom the steering
+нижнее внутреннее кольцо рулевого управления
 
-installation
-Refer fo ilustrations 10.57 and 10.61
-© by forcing it pas
-97 Pack the bearings with lithium-based
-rollers. This is done by pressing the bearing against some fesh
+установка
+См. иллюстрации 10.57 и 10.61.
+© заставив это пройти
+97 Наполните подшипники литиевой жидкостью.
+ролики. Это делается путем прижатия подшипника к какой-либо поверхности.
 
-the
+тот
 
-rollers a
+ролики а
 
-(see illustration).
+(см. иллюстрацию).
 
-bearing
-and inner race. Apply grease
-to the underside
-and
+подшипник
+и внутренняя раса. Нанесите смазку
+на нижнюю сторону
+и
 
-wiring and withdraw the cancel
+проводку и отмените отмену
 
-unit
-se three-way union to
+единица
+увидеть тройной союз, чтобы
 
-iple clamp. Detach the union and the electrs
+iple зажим. Отделите профсоюз и избирателей
 
-box mounting bracket
+кронштейн для крепления коробки
 
-50 Trace and disconnect the winng from the front tun signals. Remove
-the bots which retain the headlamp bracketsto the upper triple camp
-and remove both brackets complete with the tum signals.
-Remove the two bolts on
+50 Найдите и отсоедините крыло от передних сигналов поворота. Удалить
+боты, которые удерживают кронштейны фар в верхнем тройном стане
+и снимаем оба кронштейна в сборе с поворотниками.
+Отверните два болта на
 
-‘and withdraw
-the switch
+'и уйти
+переключатель
 
 ,
 
-the plain washer
+простая шайба
 
-models.
+модели.
 
-of the dust seal
+пыльника
 
-slotted adjuster nut
+регулировочная гайка с прорезью
 
-and
+и
 
-tool (Part No. 0716
+инструмент (деталь № 0716
 
-Sebre models end 1982/83 750 Magna
-1984-0n 700/750 Magna
-710100 for
+Модели Sebre 750 Magna конца 1982/83 г.
+1984-0н 700/750 Магна
+710100 за
 
-1100 models). Tum the steering stem lock-to-lock five
+1100 моделей). Поверните рулевой стержень до упора на пять.
 
-Ftenvads 2s described below, iit iS 100 boy
-described below,
-If the
+Ftenvads 2s описан ниже, iS 100 мальчик
+описано ниже,
+Если
 
-service
+услуга
 
-tool
+инструмент
 
-ing a conventional
+обычный
 
-is not available,
+недоступен,
 
-t
+т
 
-C-
+С-
 
-ions,
+ионы,
 
-tum
-it
-slowly clockwise
+повернуться
+это
+медленно по часовой стрелке
 
-unbl resistance is just
+сопротивление unbl - это просто
 
-set the adjuster nut
+установите регулировочную гайку
 
-so thet the
+так что
 
-evident.
+очевидно.
 
-The object
-is to
+Объект
+это
 
-bearings are under a very light
+подшипники находятся под очень легким
 
-loading, just enough to remove any treepiay. Caution: Take great
-care not to apply excessive pressure because this wil cause
+загрузки, ровно столько, чтобы удалить любое дерево. Внимание: возьмите отличное
+Будьте осторожны, не оказывайте чрезмерного давления, поскольку это приведет к
 
-Liftoff the
+Взлет
 
-bearings
+подшипники
 
-washer
-s are used to secure the stem to
+шайба
+используются для крепления штока к
 
-the
+тот
 
-Loosen the adjuster nut slightly unt pressure is just re
+Слегка ослабьте регулировочную гайку, пока давление не восстановится.
 
-All models
-ft
+Все модели
+футы
 
-Insta
+Инста
 
-times to seat the bearings. Repeat the tighten
-sequence. Note: /t is important fo check #
+раз для посадки подшипников. Повторите затяжку
+последовательность. Примечание: /t важен для проверки #
 
-from the upper tnple clemp.
+от верхнего тройного зажима.
 
-53 through 56.
+с 53 по 56.
 
-fem pinch bolt on 11
+фем стяжной болт на 11
 
-stem.
+стебель.
 
-tor
+Тор
 
-0020400 for all
-els, or Part Ni
+0020400 для всех
+элс, или часть Ni
 
-the underside of the ignition main (key
+нижняя часть магистрали зажигания (ключ
 
-3 Remove the steering stem nut and, where
+3 Снимите гайку рулевой колонки и, где
 
-fi it to the steenng
+черт возьми, это до ужаса
 
-tightenit to the
+затянуть его до
 spé
-models and all
+модели и все такое
 
-49 Remove the nuts which retain the brake fh
+49 Снимите гайки, удерживающие тормоз fh.
 
-stom unless they are
+стойте, если они не
 
-steering stem into postion and fit the-upper
+рулевой стержень в нужное положение и установите верхнюю часть
 
-Remove
-the two screws which retain
-the fork air joint unions to the
+Удалить
+два винта, которые удерживают
+вилочные соединения воздушного шарнира к
 
-Refer to Steps
+См. шаги
 
-The
 
-Dress the grease intoth
-noting
 
-upper tiple clamp
+Нанесите смазку внутрь
+отмечая
+
+верхний зажим наконечника
 
 51
 
 11.
 
-replaced,
+заменил,
 
-hoses orwing, ust
+шланги orwing, ust
 
-48 Remove its Screws and detach the tum signal system angle sensor
-winng and withdraws
-steenng stem, Discont
-from the base of the
-i fom the top of the
-1985 and 1986 models, disconnect the
+48 Выверните винты и снимите датчик угла поворота системы указателей поворота.
+отступает и уходит
+Стеннг стебель, Дисконт
+от основания г.
+я с вершины
+Модели 1985 и 1986 годов отсоедините
 
-front of the fo
+перед фо
 
-bearings and races and
+подшипники и обоймы и
 
-cibed in Section
+cibed в разделе
 
-stem. Note: Do not attempt
-fo remove the outer races trom the frame
+стебель. Примечание. Не пытайтесь
+Чтобы снять внешние кольца с рамы
 
-ton the handlebars away from the tnple clamp.
+Освободите руль от тройного зажима.
 
-connector
+разъем
 
-with the stem
+со стеблем
 
-for wear
+для ношения
 
-Chapter
-8)
+Глава
+8)45 Отсоедините инструменты от верхнего тройного фонаря (см. гл.
 
-45 Detach the instruments from the upper triple lamp (see Chapt
+тот
 
-the
+тогда
 
-then
+Верх
 
-The top
+Фиксатор смазки и нижнее кольцо подшипника можно снять со стойки.
 
-grease retainer and lower bearing race can be slid off the steenng
-
-42 Remove the single screw from the fusebox cover and remove the
+42 Выверните один винт из крышки блока предохранителей и снимите
 
 44
 
-check them
+проверь их
 
-the frame,
+рама,
 
-while the bottom bearing
+а нижний подшипник
 
-56 Remove all races of old grease from the
+56 Удалите все остатки старой смазки с
 
-rank, of if less than half full raise it on its
+ранг, если он заполнен менее чем наполовину, поднимите его на
 
-emove the mainfu
+убрать главное
 
-Support (ose Chop
+Поддержка (осе Чоп
 
-bearing inner race out,
+вынимая внутреннюю обойму наружу,
 
-and steering stem out of
+и рулевой стержень из
 
-remain in the frame,
+оставаться в кадре,
 
-bearing assembly will
+подшипниковый узел будет
 
-Refer
-to
-Steps 53 through $6
+Обратитесь
+чтобы
+Шаги с 53 по $6
 
-in the uppernut, th
+в верхнем орехе, th
 
-remove the nut, lockwasher and lower nut. Lift the dust cover off the
+снимите гайку, стопорную шайбу и нижнюю гайку. Снимите пылезащитную крышку с
 
-and withdraw
-the switch
-from
-the
-upper triple clamp,
+и уйти
+переключатель
+из
+тот
+верхний тройной зажим,
 40
 
-The top
+Верх
 
-2 lockwasher to secure the bottom nut
+2 стопорные шайбы для фиксации нижней гайки
 
-Remove
+Удалить
 
-upper tnple clamp
+верхний тройной зажим
 
-with two opposte tabs tumed down
+с двумя противоположными выступами, опущенными вниз
 
-the frame head.
-top locknut down firmly against it,
+головка рамы.
+плотно прижмите верхнюю контргайку к нему,
 
-then ti
+тогда ты
 
-the wosher tbs align wi fe seis inthe
-Ifthe tabs dor't line up,
-it
+Wosher TBS совмещается с Fe Seis Inthe
+Если вкладки не совпадают,
+это
 
-remove the top nut,
+снимите верхнюю гайку,
 
-ockrut(no more thar 90"
-tum it over and reinstall
+окрут(не более 90"
+переверните его и переустановите
 
-Chapter6
+Глава 6
 
 6-15
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
-11.7 Work the lower bearing race and dust seal (arrow) off the
-‘stemif itneeds replacing
+11.7 Снимите нижнюю обойму подшипника и пыльник (стрелка).
+«если его нужно заменить
 
-‘components both upper and lower bearing assemblies must be
-1116 Drawoolt arrangement forinstaling steering head
-Dearing
-outer races
+«компоненты как верхнего, так и нижнего подшипникового узла должны быть
+1116 Тяговое приспособление для установки рулевой головки
+Диринг
+внешние расы
 1
 
-Long
+Длинный
 
-botor threaded ber
+бер с резьбой
 
-2 Thewester
+2 Тевестер
 
 3
 
-Guide forlower
+Руководство для нижнего
 
-outer race
+внешняя раса
 
-(Once the tabs are lined up and the
-Put is tight, bend two opposite tabs up into the locknut slots (see
-illustration).
+(Как только вкладки будут выровнены и
+Плотно наденьте, загните две противоположные лапки вверх в пазы контргаек (см.
+иллюстрация).
 
-62 Place the upper triple clamp into position and install the steenng
-stem washer (where fitted) and nut loosely. Temporanly fit the fork
-legs to align the triple clamps, then tighten the steenng stem top nut,
+62 Установите верхний тройной зажим на место и установите
+Шайба штока (если она установлена) и гайка не затянуты. Временно подогнать вилку
+ножки, чтобы выровнять тройные зажимы, затем затяните верхнюю гайку стального штока,
 
-and pinch bot on 1100 models, to the specified torque.
-83 Installation is basically the reverse of the removal procedure wath
-the following notes:
+и зажмите бот на моделях 1100 до указанного крутящего момента.
+83 Установка, по сути, обратна процедуре снятия.
+следующие примечания:
 
 8)
 
-Do not tighten the steering stem nut until after the fork tubes have
-‘been inserted through both tnple clamps This wall ensure that they
+Не затягивайте гайку рулевого штока до тех пор, пока трубки вилки не затвердеют.
+'был вставлен через оба тройных зажима. На этой стене убедитесь, что они
 
-are propery aligned
+правильно выровнены
 
-») Be sure to route all cables and wiring hamesses in ther onginal
-‘positions. In particular
-on 1987 and 1988 700/750 Magna mode the
-front brake hydraulic hose and specdometer cable must pass
-through the holes
-in the lover tre clamp.
+») Обязательно проложите все кабели и проводку в
+'позиции. В частности
+в 1987 и 1988 годах режим 700/750 Magna
+Гидравлический шланг переднего тормоза и трос спектрометра должны пройти
+через отверстия
+в любовнике тре зажим.
 
-©) Refer fo the appropriate Sections or Chapters for reinstaliaton of
-the various components. Refer to the eppropraate wirng disgram at
+©) Для переустановки обратитесь к соответствующим разделам или главам.
+различные компоненты. См. соответствующую схему подключения на сайте
 
-the end of this manual# in doubt about reconnecting any vanna,
-G4 Check that the steering head bearings are correctly adjusted as
+конец этого руководства # сомневаюсь в повторном подключении любой ванна,
+G4 Убедитесь, что подшипники рулевой колонки правильно отрегулированы.
 
-replaced
-as a set
+заменен
+как набор
 
-Replacement
-Refer o tstratons
-11.6 and 117
+Замена
+Обратитесь к стратонам
+11,6 и 117
 
-4 The outer races are an interference fi in the steering head and can
-be tapped trom positon with @ sutable ditt Tep firmly and evenly
-around each race to ensure that itis drven out squarely. t may prove
+4 Наружные кольца создают помехи в рулевой головке и могут
+прочно и равномерно постучать по положению с помощью @ sutable ditt Tep
+вокруг каждой гонки, чтобы гарантировать, что она проходит ровно. это может доказать
 
-advantageous to curve the end of the dni slightly to improve access.
-5 ARematwely, the races can be removed using a slide-hammer type
-bearing extractor, these can often be rented from tool shops.
-6 The new races can be pressed into the head using a drawbolt
-erangemert, or by using a large diameter tubular daft which bears
-only on the outer edge of the race (see
-illustration}. Ensure that the
-<rawbolt
-washer
-or drift (as applicable) bears only
-on the outer edge of
-the race and does not contact the race beaning surface.
+выгоднее слегка изогнуть конец дни, чтобы улучшить доступ.
+5. Кстати, дорожки можно удалить с помощью скользящего молотка.
+съемник подшипников, его часто можно арендовать в инструментальных магазинах.
+6 Новые кольца можно запрессовать в головку с помощью стяжного болта.
+эрангемерта или с помощью трубчатого штифта большого диаметра, несущего
+только на внешнем крае гонки (см.
+иллюстрация}. Убедитесь, что
+<равболт
+шайба
+или дрейф (если применимо) только медведина внешнем краю
+обоймы и не контактирует с поверхностью обоймы обоймы.
 7
 
-To remove the lower bearing
+Чтобы снять нижний подшипник
 
-from the steering stem,
+от рулевого стержня,
 
-Illustration).
+Иллюстрация).
 
-8 With the lower bearing removed. lit off the dust seal. Inspect the seal
-for wear or damage and replace it if necessary.
+8 Со снятым нижним подшипником. сгорел пыльник. Осмотрите печать
+на предмет износа или повреждения и при необходимости замените его.
 
-9 Install the dust seal and side on the new lower bearing. A length of
-tubing with en intemal diameter slightly larger than the steering stem
-will be needed to tap the new race into position.
-bearing surface.
-10 Slide the grease retainer onto the steering stem and install the
+9 Установите пыльник и боковую часть на новый нижний подшипник. Длина
+трубки с внутренним диаметром немного больше рулевого штока
+понадобится, чтобы поставить новую расу на место.
+опорная поверхность.
+10 Наденьте маслоотделитель на рулевой стержень и установите
 
-steering stem as described in Section 10.
+рулевой стержень, как описано в разделе 10.
 
-‘operation of the brakes, suspension and controls before riding the
+«работа тормозов, подвески и органов управления перед поездкой на
 
 12.
 
 11.
 
-Steering head bearings
-- inspection and
+Подшипники рулевой головки
+- осмотр и
 
-Ensure that the drift
+Убедитесь, что дрейф
 
-bears only on the inner edge of the race and does not contact the
+опирается только на внутренний край дорожки и не касается
 
-‘soon as the forks and front wheel are installed (see Chapter 1)
-65 On 1987 and 1988 700/750 Magna models top up and bleed the
-front brake hydraulic system (see Chapter 7). On all models, check the
-machine.
+‘как только вилка и переднее колесо будут установлены (см. главу 1)
+65 В моделях Magna 700/750 1987 и 1988 гг.
+гидросистема передних тормозов (см. главу 7). На всех моделях проверьте
+машина.
 
-use two
+использовать два
 
-screwdnvers placed on opposte sides of the race to work it fee (see
+винты, размещенные на противоположных сторонах гона, чтобы работать над этим (см.
 
-Rear shock absorber(s) - removal and installation
+Задний амортизатор(ы) – снятие и установка
 
-700/750 Sabre models
-Removal
+Модели 700/750 Sabre
+Удаление
 
-replacement Inspection
+замена Осмотр
 
-Refer to ustration 12.7
+См. раздел 12.7.
 
 1
-Remove the steenng stem 2s described in Section 10
-2 Remove all reces of old grease from the bearngs and races and
-check them for wear or damage. The beanngs wil either be of the
+Снимите стальной стержень 2, как описано в разделе 10.
+2 Удалите все следы старой смазки с подшипников и колец и
+проверьте их на предмет износа или повреждений. Бобы будут либо
 
-2 Remove the seat and both side covers. Disconnect the battery
-(negative lead frst). The shock absorber
-is removed from the top ofthe
-frame and removal of the toolbox end certain electncal components is
+2 Снимите сиденье и обе боковые крышки. Отсоедините аккумулятор
+(сначала отрицательное отведение). Амортизатор
+удаляется из верхней части
+рама и снятие ящика для инструментов и некоторых электронных компонентов.
 
-‘caged ball o caged tapered aller ype, depending on the model
-3 The ball orroller beanng tracks ofthe races should be polished and
+с шариком в клетке или конусообразным аллергенным типом, в зависимости от модели
+3 Шариковые или роликовые направляющие дорожек должны быть отполированы и
 
-tree rom indentations. Inspect the ball or raller beanags for signs of
-weer, damage or discoloration, and examine their retaner cage for
-SigMs of cracks orsplits. Ifthere are signs of wear on any ofthe above
+углубления в виде дерева. Осмотрите шарик или шариковую фасоль на наличие признаков
+наличие влаги, повреждений или обесцвечивания и осмотрите клетку ретанера на предмет
+Признаки трещин или сколов. Если на любом из вышеперечисленных элементов имеются признаки износа
 
-1 _ Place the motorcycle on its center stand.
+1 _ Установите мотоцикл на центральную подставку.
 
-necessaryto provide access.
+необходимо предоставить доступ.
 
-3 Disconnect and remove the regulator/rectifer unit, disconnect the
-fusebox and tun signal cancel unit wiring and pull off the coolant
-reservoir tank overfiow/breather tube. Remove the single mounting
-screw from inside the toolbox, then slide the toolbox out together wath
-the fusebox and cancel unit.
+3 Отсоедините и снимите блок регулятора/выпрямителя, отсоедините
+Блок предохранителей и сигнал поворота отмените проводку блока и слейте охлаждающую жидкость
+Перелив резервуара/сапуновая трубка. Снимите одинарное крепление
+винт изнутри ящика для инструментов, затем выдвиньте ящик для инструментов вместе,
+блок предохранителей и блок отмены.
 
-Chapter6 Frame, suspension and final drive
+Глава6 Рама, подвеска и главная передача
 
 6-16
 
-4 __ Remove the shock absorber lower mounting bolt
+4 __ Отверните нижний болт крепления амортизатора.
 
-'5 Remove the shock absorber upper mounting bot, then withdraw
-the shock out through the top of theframe.
-6 Due to the complexity of the shock and the special tools needed
+'5 Снимите верхний ботинок крепления амортизатора, затем снимите
+шок вылетел через верхнюю часть рамы.
+6 Из-за сложности амортизатора и необходимости использования специальных инструментов
 
-to service it, it should be taken to a Honda dealer or other qualified
-shop forrepair.
+для его обслуживания следует обратиться к дилеру Honda или другому квалифицированному специалисту.
+магазин для ремонта.
 
-7 Ifthe rubber boot needs replacing, it is removed by simply pulling
+7 Если резиновый чехол требует замены, его можно снять, просто потянув
 
-it over the lower part of the shock. Install a new one in the same
+это над нижней частью амортизатора. Установите новый там же
 
-‘way. To inspect for oil leakage from the shock, pull the boot down
-and inspect along the seal, which will now be exposed (see
-illustration).
+'путь. Чтобы проверить отсутствие утечек масла из амортизатора, потяните пыльник вниз.
+и осмотрите уплотнение, которое теперь будет обнажено (см.
+иллюстрация).
 
-8 Inspect the bushings in the upper and lower mountings for wear.
-Press them out and install new ones using a drawbolt tool.
+8 Осмотрите втулки верхнего и нижнего крепления на предмет износа.
+Выдавите их и установите новые с помощью вытяжного болта.
 
-Installation
+Установка
 
-9 Installation is a reverse of the removal procedure, noting the
-folowing:
+9 Установка осуществляется в порядке, обратном процедуре снятия, соблюдая
+следующее:2) Нанесите дисульфид молибденовую смазку на втулки с обеих сторон.
+'верхнее и нижнее монтажные положения. Установите воротник сверху.
 
-2) Apply molybdenum-disufide grease to the bushings at both the
-‘upper and lower mounting postions. Instal the collar in the top
+Установите монтажную втулку и установите пылезащитный уплотнитель и шайбу для каждой сцены.
+это
 
-‘mounting bushing and fit the dust seal and washer fo each sce of
-it
+1б)
 
-1b)
+Свободно затяните верхние и нижние гайки крепежных болтов,
 
-Secure the upper and lower mounting bolt nuts loosely,
+127 Сальник амортизатора (стрелка) можно проверить на герметичность после
+сдвинув пыльник вниз
 
-127 The shock oil seal (arrow) can be checked for leakage after
-sliding the dust boot down
+тогда
 
-then
+затяните их до указанного крутящего момента, когда подвеска находится в
+«нормальное рабочее положение».
 
-tghten them fo the spectied torque when the suspension in the
-‘normal working positon.
+б)
 
-b)
+©) Подключайте отрицательный провод в последнюю очередь после подсоединения аккумулятора.
 
-©) Connect the negative fead last hen reconnecting the battery
+4) Проверьте давление в лачуге (см. раздел 14).
 
-4) Check the shack ai pressure (see Sacton 14)
+Безопасный
 
-Secure
+ослабьте гайки верхнего и нижнего крепежных болтов, затем
 
-the upper and lower mounting bolt nuts loosely, then
+я в
+затяните их с учетом заявленного крутящего момента, когда подвеска
+«нормальное рабочее положение».
 
-i in the
-tghten them fo the speotied torque when the suspension
-‘normal working positon.
+быстро при повторном подключении аккумулятора
+вести
+отрицательный
+©) Подключите
 
-fast when reconnecting the battery
-lead
-negatve
-©) Connect the
+1100 моделей саблей
 
-1100 Sabre models
+0) Проверьте давление встряхиваемого воздуха и отрегулируйте регулировку демпфирования.
 
-0) Check the shook air pressure and set the damping adjustment
+Удаление
+10 Установите мотоцикл на основную подставку.
 
-Removal
-10 Place the motorcycle on its main stand.
+(GE Раздел 14)
 
-(ge Secton 14)
+11 Снимите сиденье и обе боковые крышки. Отсоедините аккумулятор
+(сначала отрицательный провод) и извлеките его из корпуса. Шок
+абсорбер снимается с верхней части рамы и снимается
+необходим ящик для инструментов и некоторые электрические компоненты.
 
-11 Remove the seat and both side covers. Disconnect the battery
-(negative lead first) and remove it from its case. The shock
-absorber is removed from the top of the frame and removal of the
-toolbox and certain electrical components is necessary to provide
+Модели Магна
 
-Magna models
+доступ.
 
-access.
+положение, поместив деревянный брусок между верхом задней опоры и
+внутри заднего крыла
 
-positon byplacing a block of wood between the top of the rear tre and the
-insite ofthe rear fender
+12 Отсоедините проводку от искровых блоков, стоп-сигнала и заднего фонаря.
+датчик, блок регулятора-выпрямителя, топливный насос и реле стартера, затем
+Темове
 
-12 Disconnect the wiring from the spark units, stop and taillight
-sensor, reguatoritectifier unit, fuel pump and starter relay, then
-Temove
+эти
 
-these
+компоненты
 
-components
+из
 
-from
+тот
 
-the
-
-motorcycle
+мотоцикл
 
 (
 
-4, 5 and 8 for details). Disconnect,
-appropriate sections of Chapters
-the alternator wiring at the block connector.
-13 Unlock the toolbox cover to free the shock air vaive from its
+подробности 4, 5 и 8). Отключить,
+соответствующие разделы глав
+проводку генератора на разъеме блока.
+13 Откройте крышку ящика для инструментов, чтобы освободить клапан ударного воздуха из
 
-clamp.
+зажим.
 
-Remove
+Удалить
 
-its
+это
 
-mounting
+монтаж
 
-screws
+винты
 
-and
+и
 
-remove
+удалить
 
-the
+тот
 
-toolbox/battery housing.
-14 Disconnect the shock damping aduster control knob from its,
+ящик для инструментов/корпус для аккумулятора.
+14 Отсоедините от него ручку управления амортизацией амортизаторов.
 
-frame mounting lug by loosening the nut on the rear of the knob,
-then disconnect the damping adjuster cable from the top of the
-shock: remove the cotter pin to free the cable end, then loosen the
-locknut to detach the cable from its bracket
-15. Remove the shock absorber lower mounting bolt.
-16 Remove the shock absorber upper mounting bolt,
+проушину для крепления рамы, ослабив гайку на задней части ручки,
+затем отсоедините трос регулировки демпфирования от верхней части
+шок: снимите шплинт, чтобы освободить конец троса, затем ослабьте
+контргайка для отсоединения троса от кронштейна
+15. Выверните нижний болт крепления амортизатора.
+16 Выверните верхний болт крепления амортизатора,
 
-‘withdraw the shock out through the top of the frame.
+«Вытащите амортизатор через верхнюю часть рамы.
 
-However, disassembly requires the use of a suitable spring
-compressor and certain Honda special tools. It Is therefore
-recommended that the unit be taken to a Honda dealer who wil
-have the necessary service tools to dismantle i.
+Однако разборка требует использования подходящей пружины.
+компрессор и некоторые специальные инструменты Honda. Поэтому
+рекомендуется передать устройство дилеру Honda, который
+иметь необходимые сервисные инструменты для демонтажа i.
 
-418 If the rubber boot needs replacing, release its wire retaining clip
-‘and pull it off the lower part of the shock. Install a new one in the
-same way. To inspect for oll leakage from the shock, pull the boot
-be
-seal, which will now
+418 Если резиновый чехол требует замены, освободите зажим, удерживающий провод.
+«И сними его с нижней части амортизатора. Установите новый в
+таким же образом. Чтобы проверить отсутствие утечек масла из амортизатора, потяните пыльник.
+быть
+печать, которая теперь будет
 
-Removal
+Удаление
 
-21 Place the motorcycle on its center stand. On models without a
-center stand, place a jack with wood block under the crankcase to
+21 Установите мотоцикл на центральную подставку. На моделях без
+центральную подставку, подставьте под картер домкрат с деревянным бруском, чтобы
 
-raise the rear wheel off the ground: ensure that the motorcycle is
-securely supported.
+поднимите заднее колесо от земли: убедитесь, что мотоцикл
+надежно поддерживается.
 
-22 _ Adjust shock preload to its softest position (see Section 14),
+22 _ Отрегулируйте предварительную нагрузку амортизатора в самое мягкое положение (см. раздел 14),
 
-23 To gain access to the upper mounting on 1100 models,
+23 Чтобы получить доступ к верхнему креплению на моделях 1100,
 
-remove the seat (see Section 19) and the grab rail. If removing
-the exhaust mufer
-the left shock on 1100 models, remove
-(Gilencer) from the left side (see Chapter 4).
+снимите сиденье (см. Раздел 19) и поручни. Если удалить
+глушитель выхлопной системы
+левый амортизатор на моделях 1100 снимите(Гиленсер) с левой стороны (см. главу 4).
 
-24 On later 700/750 models pry the cap off the upper mounting
-then
+24 На более поздних моделях 700/750 снимите крышку с верхнего крепления.
+тогда
 
-17 All shock absorber components are available separately.
+17 Все компоненты амортизатора доступны отдельно.
 
-down and inspect along the
+вниз и осмотрите вдоль
 
-Note: Remove only one shock at @ time so that the rear of the
-motorrycle does not drop if both shock absorbers need fo be
-removed at the same time, the rear of the machine can be kept in
+Примечание. Снимайте только один амортизатор за @, чтобы задняя часть
+Мотоцикл не упадет, если оба амортизатора должны быть установлены.
+одновременно снимается, заднюю часть машины можно оставить в
 
-exposed (see
+раскрыто (см.
 
-illustration 12.7).
+иллюстрация 12.7).
 
-rhut. On all models, remove the upper mounting nut and lower
-mounting nut or bok.
+рут. На всех моделях снимите верхнюю крепежную гайку и нижнюю
+крепежная гайка или бокок.
 
-25 Remove the shock absorber.
-26 All shock absorber components are available separately.
+25 Снимите амортизатор.
+26 Все компоненты амортизатора доступны отдельно.
 
-However, disassembly requires the use of a suitable spring
-‘compressor. It is therefore recommended that the unit be taken to
-a Honda dealer who will have the necessary service tools to
-dismantle it. A figure is given in the Specifications section of this
+Однако разборка требует использования подходящей пружины.
+'компрессор. Поэтому рекомендуется доставить устройство в
+дилеру Honda, у которого будут необходимые сервисные инструменты для
+разобрать его. Рисунок приведен в разделе «Технические характеристики» настоящего документа.
 
-Cheer for spring tee lengh sevice mt. Not: Stock absorbers
-[as@ pat, othensise uneven handling will resuk.
+Приветствуем весеннее обслуживание длины тройника. Не: Штатные амортизаторы
+[как@пат, в противном случае неравномерное обращение приведет к отказу.
 
-rine
-inspec the bushings in the mounting ey¢
-‘old bushings out and install new ones using a drawolt tool.
+дождь
+проверьте втулки в монтажной проушине¢
+«Вытащите старые втулки и установите новые с помощью вытяжного приспособления.
 
-19 Inspect the bushings in the upper mounting for wear. Press the
+19 Осмотрите втулки верхнего крепления на предмет износа. Нажмите кнопку
 
-old bushing out and install a new one using a drawbolt tool. The
+вытащите старую втулку и установите новую с помощью отвертки.
 
-lower bearing is part of the suspension linkage and can be
+нижний подшипник является частью рычага подвески и может быть
 
-inspected as described in the next Section.
-Installation
+проверяются, как описано в следующем разделе.
+Установка
 
-20. Installation is a reverse ofthe removal procedure, noting the
-folowing: a) Apply molybdenum-disulfide grease to the upper
-mounting
-bushing. Install the collar and fit the dust seal and washer io each
-side of
+20. Установка осуществляется в порядке, обратном снятию, при этом следует учитывать
+выполните следующие действия: а) Нанесите дисульфидмолибденовую смазку на верхнюю
+монтаж
+втулка. Установите манжету и установите пылезащитный уплотнитель и шайбу по отдельности.
+сторона
 
-28 Installation of the shock absorber is the reverse of removal
-noting the folowing:
+28 Установка амортизатора производится в порядке, обратном снятию.
+отметив следующее:
 
 @)
 
-Secure the shock absorber mounting nuts/bolts finger-tight on
+Затяните гайки/болты крепления амортизатора вручную.
 
-installaton, then tohten them to the spectied torgue when the
-suspension is n ts normal postion.
+установку, а затем отнесите их к указанному месту, когда
+подвеска в нормальном положении.
 
-) Adjust the shock absorber soning prefoad fo your preferred fevel
-(see Section 14)
+) Отрегулируйте предварительную настройку амортизатора в соответствии с вашими предпочтениями.
+(см. раздел 14)
 
-Chapter 6 Frame, suspension and final drive
+Глава 6 Рама, подвеска и главная передача
 
 ©
 
 617
 
-olde
+старый
 
 ®
 
-oo he ee
+оо он ээ
 W26219
 
-19,15 Shock absorber inkago (700/750 Sabres)
+19,15 Амортизатор inkago (700/750 Sabre)
 
-134 Shock linkageto-swingarm
-bolts (arrows) on.
-7007750 Sabres.
+134 Амортизационная тяга к маятнику
+болты (стрелки) на месте.
+7007750 Сабли.
 
-13 Rear shock absorber linkage (Sabre models)‘removal, inspection and installation
-Removal
-700/750 models
-Rsteton
+13 Тяга заднего амортизатора (модели Sabre) – снятие, проверка и установка.
+Удаление
+Модели 700/750
+Рстетон
 
-Relea
+Релеа
 
 1)
 
 13.4
 
-ons ener stand
-Place me meter
-he mufters (slencars 0 rove Improved
+онс энер стенд
+Поместите мне счетчик
+он глушит (slencars 0 rove Улучшено)
 
-access
+доступ
 
-19 Dot.
+19 Точка.
 
 4"
 
-Remove the bolts that retain the shock linkage to the
+Отверните болты, которые крепят тягу амортизатора к
 
 5.
 
-Remove the bots that retain the shock linkage to the frame
+Удалите ботов, удерживающих амортизатор на раме.
 
-swingarm (see Wustration).
-‘and it out the linkage.
+маятник (см. Искривление).
+«И это из связи.
 
-to separate the shock arm from the
-‘6 Remove the two pivot bolts
-shock ink
+чтобы отделить амортизатор от
+‘6 Снимите два шарнирных болта
+шоковые чернила
 
-1100 models
+1100 моделей
 7
 
-st
-on ts center
-Place the motorcycle
+ул.
+в ТС центре
+Поместите мотоцикл
 
-8 Remove the murs (slencs) 12 Provide Improved access 10
+8 Удалить муры (слены) 12 Обеспечить улучшенный доступ 10
 
-9. Remove the shock absorberie meng bot.
+9. Снимите амортизатор.
 
-the linkage through-bolts (see
+соединительные болты (см.
 10.
 
-Chapter
+Глава
 
 4).
 
-Remove the shock arm-to-swt
+Снимите рычаг амортизатора с поворотным рычагом.
 
-and lower the tnkage
-11 Remove the shock Inkctettane Bot
-from the motorcycle.
+и опустите tnkage
+11 Снимаем амортизатор Inkctettane Bot
+от мотоцикла.
 
-12 Remove the plvot bolt to separate the shock link from the
-shock am
+12 Снимите болт плвот, чтобы отделить тягу амортизатора от
+я в шоке
 
-Inspection
-413 Thoroughly clean all components, removing all traces of di,
-corrosion and grease
+Инспекция
+413 Тщательно очистите все компоненты, удалив все следы ди,
+коррозия и жир
 
-44 Inspect all components closely, looking for obvious signs of
-wear such as heavy scoring, or for damage such as cracks or
-distortion,
+44 Внимательно осмотрите все компоненты на наличие явных признаков
+износ, такой как сильные задиров, или повреждения, такие как трещины или
+искажение,45 Снимите пылезащитные колпачки, чтобы увидеть подшипник или втулки внутри.
+поворот. В зависимости от модели можно использовать простые втулки скольжения или
+роликовые подшипники
 
-45 Pul the dust caps off to reveal the bearing or bushings in
-pivot. Depending on the model, ether plain bushings or
-roller bearings
+каждый
 
-each
+ан:
 
-an:
+«На моделях 1100 нижняя ось амортизатора на рычаге амортизатора
+Резинового типа.
 
-‘On 1100 models, the shock absorber lower pivot on the shock arm
-Is ofthe bonded-rubber type.
+16 Если подшипники или втулки изношены, сначала проверьте на автомобиле Honda.
+дилера, доступны ли они отдельно от шоковой ссылки или
+амортизатор, Снятие и установку следует производить с помощью @
+'инструмент Rawott для предотвращения повреждения корпуса и новых
+несущий
+ингфбушинг,
+«Купите длинный бот или отрезок резьбового стержня в магазине @ local.
 
-16 Ifthe bearings or bushings are wom, check frst wth a Honda
-dealer whether hey are available separately from the shock link or
-shock arm, Removal and installation should be done using @
-‘rawott tool to prevent damage to the housing and new
-bearin
-ingfbushing,
-‘Obtain a long bot or a length of threaded rod from @ local
+инженерные работы или какой-либо другой поставщик. Болт или стержень должен
+быть примерно на один дюйм длиннее общей длины эфирного канала
+'и один подшипник. Также потребуются подходящие гайки и две большие и
 
-engineering works or some other supplier. The bolt or rod should
-be about one inch longer than the combined length of ether link
-‘and one bearing. Also required are suitable nuts and two large and
+прочные шайбы, имеющие больший наружный диаметр, чем подшипник
 
-robust washers having a larger outside diameter then the bearing
+стержень, поместите одну грязь на один конец
+жилье. В случае с резьбой
 
-rod, fit one mud lo one end of
-housing. In the case of the threaded
+стержень и закрепите его для удобства.
 
-the rod and stake itn place for convenience.
+что я отдыхаю
+так
+стержень
+Наденьте одну из шайб на болт или
 
-that i rests
-so
-rod
-Fit one of the washers over the bolt or
+«против головы, затем пропустите сборку через соответствующие
 
-‘against the head, then pass the assembly through the relevant
-
-Chapter6 Frame, suspension and final drive
+Глава6 Рама, подвеска и главная передача
 
 6-18
 
-projecting end place the bearingibushing, which should be greased to
-ease installation, followed by the remaining washer and nut.
-19 Holding the bearingrbushing to ensure that it is kept square, slowly
-tighten the nut so that
-it is drawn into its bore.
+выступающим концом поместите втулку подшипника, которую следует смазать до
+облегчает установку, после чего следует оставшаяся шайба и гайка.
+19 Удерживая втулку подшипника, чтобы убедиться, что она удерживается ровно, медленно
+затяните гайку так, чтобы
+он втягивается в свое отверстие.
 
-20 Lubricate all bearings and inner sleeves and bushings with
-‘molybdenum-disulfide grease. Fit the dust caps.
+20 Смажьте все подшипники, внутренние втулки и втулки
+«Смазка дисульфидная молибденовая». Установите пылезащитные колпачки.
 
-Anti-dive (TRAC) setting - 1982 through 1986 models
-8 Anti-dve force is adjusted by the slotted head adjuster
-set in the side
-of the antidive housing (700/750 Sabres, 1100 Magnas and 1982
-through 1984 700/750 Magnas) or by the knob on the front of the fork.
-‘lider (1100 Sabres and 1985/86 700 Magnas).
-9 Four settings are available. Honda describes position 1 as giving
+Настройка защиты от погружения (TRAC) — модели с 1982 по 1986 годы.
+8 Противодействующее усилие регулируется регулятором головки с прорезями.
+установить в стороне
+противодайвового корпуса (700/750 Sabre, 1100 Magnas и 1982 г.
+до 700/750 Magnas 1984 года) или с помощью ручки на передней части вилки.
+'лидер (1100 саблей и 700 магна в 1985/86).
+9 Доступны четыре настройки. Хонда описывает позицию 1 как дающую
 
-light anti-cive, position 2 medium, position 3 hard, and position 4
+легкий анти-кив, позиция 2 средняя, позиция 3 жесткая и позиция 4
 
-Installation
-21 Ifthe shock arm and shock link were separated, install their pivot
-bolt(s), but secure only finger-tight at this stage. Couple the linkage up
-tothe frame and swingarm, then tighten the pivot bolts in the following
+Установка
+21 Если рычаг амортизатора и звено амортизатора были разделены, установите их шарнир.
+болт(ы), но на этом этапе затягивайте их только вручную. Соедините связь вверх
+к раме и маятнику, затем затяните шарнирные болты следующим образом:
 
-‘order:
+'приказ:
 
-maximum anti-dive. Rotate the adjuster to make the adjustment,
-‘ensuring the chosen position aligns exactly with the index mark.
+максимальный анти-ныряние. Поверните регулятор, чтобы выполнить регулировку,
+‘обеспечение точного совпадения выбранной позиции с индексной отметкой.
 
-Rear shock absorber
-Spring preload - all Magna models
+Задний амортизатор
+Предварительный натяг пружины — все модели Magna
 
-700/750 models
+Модели 700/750
 
 10
 
-‘Shock link-to-frame bolts Shock
-absorber lower mounting bolt Shock
+‘Болты крепления амортизатора к раме
+нижний болт крепления амортизатора Амортизатор
 
-Adjust using the hooked C-wrench supplied in the motorcyce's
+Отрегулируйте с помощью крючкового С-образного ключа, входящего в комплект поставки мотоцикла.
 
-toolkit. The shocks have five preload positions, I, Il, Il IV, V. Position
-Is for ight loading, whereas spring preload is increased in stages from
+инструментарий. Амортизаторы имеют пять положений предварительного натяга: I, Il, Il IV, V. Положение
+Предназначен для легкой нагрузки, тогда как предварительная нагрузка пружины увеличивается поэтапно от
 
-link-to-shock arm bolts Shock arm-to-
+Болты соединения тяги с амортизатором
 
-11 through V.
+с 11 по В.
 
-‘swingarm bolts
+'болты маятника
 
-11. Hook the wrench into the holes in the spring lower seat and rotate
-the seat to the required position. Note: Always set each shock to the
+11. Вставьте ключ в отверстия нижнего седла пружины и поверните
+сиденье в необходимое положение. Примечание. Всегда устанавливайте каждый амортизатор на
 
-1100 models
+1100 моделей
 
-‘same postion,
+'та же позиция,
 
-‘Shock link-to frame bot
+«Шоковая ссылка на фрейм-бот»
 
-Rebound and compression damping - 1100 Magna
+Демпфирование отбоя и сжатия - 1100 Magna
 
-‘Shock arm-to-swingarm batt
+«Ударная рукоятка к маятнику
 
-‘Shock link-to-shock arm bot
-‘Shock absorber lower mounting bott
+«Ударная связь с ударной рукой-ботом»
+‘Нижнее крепление амортизатора
 
-models
+модели
 
-22 Install all other components in a reverse of the removal procedure
-‘and check the operation of the reer suspension before riding the
-motorcycle
+22 Установите все остальные компоненты в порядке, обратном процедуре снятия.'и проверьте работу поворотной подвески перед поездкой на
+мотоцикл
 
-12 Adjust rebound damping by rotating the stepped wheel at the top
-‘of each unit to one of the four positions. Two compression damping
-positions are available, adjusted via the small knob just below the
-‘spring lower seat,
+12 Отрегулируйте демпфирование отбоя, вращая ступенчатое колесо вверху.
+каждого подразделения на одну из четырех позиций. Два демпфирования сжатия
+доступны положения, регулируемые с помощью маленькой ручки чуть ниже
+'рессорное нижнее сиденье,
 
-13 In each case damping
+13 В каждом случае демпфирование
 
 14
 
-is increased the higher the
+увеличивается, чем выше
 
-number
+номер
 
-‘selected. It is essential that each shock is set to the same positions
-‘and that the rebound and compression positions suit the load carried
+'выбрано. Очень важно, чтобы каждый амортизатор был установлен в одинаковые положения.
+«и что положения отскока и сжатия соответствуют перевозимой нагрузке
 
-Suspension -
+Подвеска -
 
-and riding style (see below)
+и стиль езды (см. ниже)
 
-adjustments Front forks
-Caution: Always ensure that both front fork settings are the same.
+регулировки Передняя вилка
+Внимание: Всегда проверяйте, чтобы настройки обеих передних вил были одинаковыми.
 
-Uneven settings will upset the handling of the machine and could
+Неравномерные настройки нарушат управление машиной и могут
 
-cause tf become unstable.
+привести к тому, что tf станет нестабильным.
 
-Air pressure - 1982 through 1986 models
-1 On 700/750 models each fork top bot incorporates an air valve. On
-1100 models, the fork tubes are linked by an air joint pipe so that air
-pressure is balanced equaly between each fork: the air valve is
-located in the left fork air joint on Magnas and in the left fork top bolt on
-‘Sabres.
+Давление воздуха — модели с 1982 по 1986 год.
+1 На моделях 700/750 каждая вилочная часть оснащена воздушным клапаном. Вкл.
+В моделях 1100 трубки вилки соединены воздушной соединительной трубкой, поэтому воздух
+давление одинаково сбалансировано между каждой вилкой: воздушный клапан
+расположен в левом пневмосочленении вилки на Magnas и в верхнем болте левой вилки на
+«Сэйбрз.
 
-2 Check the
+2 Проверьте
 
-alr pressure when the motorcycle is cold, Le.
+давление alr, когда мотоцикл холодный, Le.
 
-not
+нет
 
-immediately after it has been ridden. Place the motorcycle on the
-center stand and remove the cap from the air valve(s).
-3 To check the air pressure accurately
-you will need a finely-calibrated
-‘gauge sutable for reading low pressures, such as those supplied
-‘specifically for suspension systems; a tire pressure gauge is
-Unsuitable, A low pressure pump will also be needed so that air
+сразу после поездки. Поставьте мотоцикл на
+центральную подставку и снимите крышку с воздушного клапана(ов).
+3 Чтобы точно проверить давление воздуха
+вам понадобится точно откалиброванный
+«манометр, подходящий для измерения низкого давления, например, поставляемого в комплекте
+«специально для систем подвески; датчик давления в шинах есть
+Непригодно. Также понадобится насос низкого давления, чтобы воздух
 
-pressure can be applied in very small amounts; do not use a
-compressor-powered air ine because there is a risk of exceeding the
-‘maximum safe pressure end damaging the fork seals.
+давление можно прикладывать в очень небольших количествах; не используйте
+воздухозаборник с приводом от компрессора, так как существует риск превышения
+«Максимально безопасное давление приводит к повреждению уплотнений вилки».
 
-4 Set the pressure within the specified range (see Specifications),
-nating
-that on 700/750 models the pressure must be identical in each
-fork alherwise uneven handing will result
+4 Установите давление в указанном диапазоне (см. Технические характеристики),
+спаривание
+что на моделях 700/750 давление должно быть одинаковое в каждой
+вилка в противном случае приведет к неравномерному перемещению
 5
-Install the valve cap when adjustment is complete.
+После завершения регулировки установите крышку клапана.
 
-Rebound damping - 1100 Sabre only
-6 Rebound damping is controlled by a knob atthe top ofthe right fork
-which is linked to the fork damper piston by a slim rod. Three damping
+Демпфирование отбоя — только 1100 Sabre
+6 Демпфирование отбоя контролируется ручкой в верхней части правой вилки.
+который соединен с поршнем демпфера вилки тонким стержнем. Три демпфирования
 
-positions are avaiable
+позиции доступны
 
-7 Perform damping adjustment after checking air pressure. The current
-setting is denoted by the number of the knob which aligns with the lug
-on the fork top bal. Honda describes postion 1 as being suitable for
+7 Выполните регулировку демпфирования после проверки давления воздуха. Текущий
+Настройка обозначается номером ручки, совмещенной с выступом.
+на верхнем балке вилки. Хонда описывает положение 1 как подходящее для
 
-general or around town riding, postion 2 for highway or winding road
-Tiding, and position 3 for rough road riding, Rotate the acjuster to make
-Adjustment, aligning the selected postion withthe top bat lug
+обычная езда или езда по городу, положение 2 для шоссе или извилистой дороги
+Tiding и положение 3 для езды по неровной дороге. Поверните регулятор, чтобы
+Регулировка, выравнивание выбранного положения с верхним выступом ракетки.
 
-Rebound
+Отскок
 
-Compression
+Сжатие
 
 1
 2
@@ -3915,740 +3885,732 @@ Compression
 1
 2
 
-_Loadiriding style
-‘Solo/ordinary road use
-SoloMighway
-or winding road use
-Solo/rough road use
-‘Solo or pillion/ordinary road use
+_Загрузка стиля езды
+«Индивидуальное/обычное использование на дороге»
+СолоШоссе
+или использование извилистой дороги
+Одиночное/передвижение по пересеченной местности
+«Одиночка или пассажир/обычное использование на дорогах
 
 3
 
 2
 
-‘Solo with pilin or load/nighway or
+«Соло с пилином или грузом/ночью или
 
 4
 
 2
 
-‘Solo with pillion or load/rough
-road use
+«Соло на заднем сиденье или с нагрузкой/грубо»
+использование дорог
 
-winding road use
+использование извилистой дороги
 
-Air pressure - Sabre models
-14 On 700/750 models remove the seat to gain access to the
-valve set in the top of the shock body. On 1100 models, the shock
-body is linked to @ remote air valve by a short hose; the air valye is
-clamped to the toolbox cover under the right side cover.
-15 Remove the cop from the air valve and check the pressure. Note;
+Давление воздуха — модели Sabre
+14 На моделях 700/750 снимите сиденье, чтобы получить доступ к
+клапан установлен в верхней части корпуса амортизатора. На моделях 1100 амортизатор
+корпус соединен с выносным воздушным клапаном @ коротким шлангом; Воздушная Валье - это
+закреплен на крышке ящика для инструментов под правой боковой крышкой.
+15 Снимите колпак с воздушного клапана и проверьте давление. Примечание;Для этой проверки шок должен быть холодным, т.е.
 
-The shock must be cold for this check, ie.
+не проверяйте после
 
-do not check after the
+только что катался.
+имеет
+'мотоцикл
+16 Отрегулируйте давление воздуха в пределах, указанных в
+раздел «Технические характеристики» данной главы, отметив, что давление воздуха должно
+b зависит от настройки демпфирования и несущей нагрузки (см. Шаг 19).
 
-just been ridden.
-has
-‘motorcycle
-16 Adjust the air pressure within the range given in the
-Specifications section of this Chapter, noting that air pressure should
-bbe dependent on damping setting and load carried (see Step 19).
+Демпфирование отбоя — модели Sabre
+17 На моделях 700/750 снимите сиденье, чтобы получить доступ к
 
-Rebound damping - Sabre models
-17 On 700/750 models remove the seat to gain access to the
+рычаг регулировки демпфирования. Он расположен в верхней части корпуса амортизатора,
+чуть выше воздушного клапана. Положение 1 — рычаг полностью нажат,
 
-damping adjuster lever. It is situated on the top of the shock body,
-just above the air valve. Position 1 is with the lever pushed fully in,
+Позиция 2 выходит на первую ступень, а позиция 3 — на следующую ступень.
 
-Position 2 is out to the first notch, and position 3 out a further notch.
+48 На моделях 1100 ручка регулировки демпфирования отбоя расположена
+вверху рамы, под правой боковой крышкой. Короткий кабель чернил
+ручку контрата к верхней части амортизатора.
 
-48 On 1100 models the rebound damping adjuster knob is situated
-at the top of he frame, under the right side cover. A short cable inks
-the contrat knob tothe top of the shock absorber.
+49 Предусмотрены три настройки: Honda описывает положение 1 как
 
-49 Three settings are provided: Honda describes postion 1 as being
+подходит для обычной езды или езды по городу, положение 2 для шоссе или
 
-suitable for general or around town riding, position 2 for highway or
+езда по извилистой дороге. и положение 3 для езды по неровной дороге.
 
-winding road riding. and postion 3 for rough road riding. The
+Настройка демпфирования должна быть связана с нагрузкой и ударами водителя.
+давление, т.е. положение 1 приведет к тому, что нагрузка будет доступна только для водителя и не будет работать
+давление или низкое давление воздуха, тогда как положение 3 подойдет
+максимальная нагрузка и высокое или максимальное давление воздуха.
 
-damping setting should be associated with rider load and shock
-pressure, ie. positon 1 would sult rider-only load and no ait
-pressure or low air pressure, whereas postion 3 would suit
-maximum load and high or maximum air pressure.
-
-Chapter 6 Frame, suspension and final drive
+Глава 6 Рама, подвеска и главная передача
 
 6-19
 
-16.7a Right pivot bolt is secured by locknut (arrow)
+16.7a Правый шарнирный болт закреплен контргайкой (стрелка).
 
-45 Swingarm bearings - check
+45 Подшипники маятника – проверка
 1
-Remove the rear wheel (see Chapter 7)
-2.On Magna models remove both shock absorbers (see Section
-12). On Sabre models remove the shock linkage-to-swingarm
-boltis).
+Снимите заднее колесо (см. главу 7).
+2. На моделях Magna снимите оба амортизатора (см. раздел
+12). На моделях Sabre снимите тягу амортизатора с маятником.
+болтис).
 
-Ifthe mufflers (silencers) do not leave enough clearance to
+Если глушители (глушители) не оставляют достаточного зазора для
 
-remove these bolts,
+снимите эти болты,
 
-remove the lower shock absorber bolt and
+отверните нижний болт амортизатора и
 
-pivot the swingarm down to provide clearance.
-3 Grasp the rear of the swingarm with one hand and place your
-other hand at the junction of the swingarm and the frame. Try to
-move the rear of the swingarm from side-to-side. Any wear (play)
-in the bearings should be felt as movement between the swingarm
-and the frame at the front.
+поверните маятник вниз, чтобы обеспечить зазор.
+3 Возьмитесь за заднюю часть маятника одной рукой и поместите
+другую руку на стыке маятника и рамы. Попробуй
+перемещайте заднюю часть маятника из стороны в сторону. Любой износ (играть)
+в подшипниках должно ощущаться движение между маятником
+и рама спереди.
 
-The swingarm will actually be felt to
+Маятник на самом деле будет ощущаться
 
-move forward and backward at the front (not from side-to-side). If
-any play is noted, the bearings should be replaced (see Section
+двигаться вперед и назад спереди (не из стороны в сторону). Если
+замечен люфт, подшипники следует заменить (см. раздел
 17)
-4 Next, move the swingarm up and down through its full travel. It
-should move freely, without any binding or rough spots. If it does
-not move freely, refer to Section 17 for servicing procedures.
-16.7) A tool can be fabricated from a piece of tubing to engage
+4 Затем переместите маятник вверх и вниз на весь ход. Это
+должен двигаться свободно, без заеданий и неровностей. Если это так
+не перемещаются свободно, процедуры обслуживания см. в разделе 17.
+16.7) Из куска трубки можно изготовить инструмент для зацепления.
 
-slots of the locknut; be sure it's strong enough for the
+шлицы контргайки; убедитесь, что он достаточно прочный для
 
-46 Swingarm removal
-and
-installation
+46 Снятие маятника
+и
+установка
 
-specified torque
+заданный крутящий момент
 
-16.7c Pivot bolts can be
-unscrewed
-with
-large socket wrench
+16.7c Поворотные болты могут быть
+отвинчен
+с
+большой торцевой ключ
 
-Removal
-Refer
-to
-illustrations 16.6, 16.7a, 16.7b and 16.7¢
+Удаление
+Обратитесь
+чтобы
+иллюстрации 16.6, 16.7a, 16.7b и 16.7¢
 1
 
-Remove the rear wheel (see Chapter 7).
+Снимите заднее колесо (см. главу 7).
 
 2
 
-Remove the final drive unit and driveshaft (see Section 18).
+Снимите главную передачу и карданный вал (см. Раздел 18).
 
-3 On Magnas, remove the shock absorber lower mounting nut/bolt
-‘on each side (see Section 12).
-4 On Sabres, remove the shock absorber lower bolt. Then remove
-the bolt(s) that retain the shock linkage to the swingarm and lower
-the linkage.
-5 Detach the brake backplate (early 700/750 models) or torque
+3 На модели Magnas отверните гайку/болт нижнего крепления амортизатора.
+«с каждой стороны (см. раздел 12).
+4 На модели Sabre отверните нижний болт амортизатора. Затем удалите
+болт(ы), которые крепят тягу амортизатора к маятнику и нижней части
+связь.
+5 Отсоедините заднюю пластину тормоза (модели начала 700/750) или затяните
 
-arm (other models) from the swingarm.
+рычаг (другие модели) от маятника.
 6
-Pry offthe swingarm pivot caps on both sides (see
-illustration).
-7 Remove the pivot bolt locknut on the right side, using the Honda
-‘service tool (Part No. 07908-4690001) or fabricate a tool to fit the
-nut slots from a piece of tubing (see illustrations). Use of the
+Снимите крышки шарниров маятника с обеих сторон (см.
+иллюстрация).7 Снимите контргайку шарнирного болта с правой стороны, используя ключ Honda.
+«инструмент для обслуживания (номер детали 07908-4690001) или изготовьте инструмент, соответствующий
+прорези для гаек из куска трубки (см. иллюстрации). Использование
 
-service tool is advised because it provides a means of securing the
-Jocknut to the correct torque on installation.
+рекомендуется использовать сервисный инструмент, поскольку он обеспечивает средства защиты
+Контргайка с правильным моментом затяжки при установке.
 
-8 Once the locknut is removed, use a socket wrench to remove
+8 После снятия контргайки используйте торцевой ключ, чтобы снять
 1
 
 2
 
-(Alien key) or hexagon
-adapter
+(Чужой ключ) или шестигранник
+адаптер
 
-first the right and then the left pivot bolts.
-9 Lift the swingarm out and remove the rubber boot from its front.
-Note: ff there is insufficient clearance on Sabre models fo remove the
-swingarm, remove the upper shock absorber bok and have an assistant
+сначала правый, а затем левый шарнирные болты.
+9 Поднимите маятник и снимите резиновый чехол с его передней части.
+Примечание. Если на моделях Sabre недостаточно зазора для снятия
+маятник, снимаем верхний блок амортизатора и вызываем помощника
 
-raise the shock and hold & tightly against ts frame bracket. This should
+поднимите амортизатор и плотно прижмите его к кронштейну рамы. Это должно
 
-Chapter6
+Глава 6
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
 70)
 
-17.5 Swingarm bearings
+17.5 Подшипники маятника
 
 31
 
-Cina
+Китай
 
-18.3 Final drive unit oil drain plug (arrow)
+18.3 Пробка сливного отверстия для масла главной передачи (стрелка)
 
-3 Bearing outer race
+3 Наружное кольцо подшипника
 
-Dustseal
+Пылезащитная печать
 
-should
+должен
 
-always be replaced
+всегда заменяться
 
-with new ones.
+с новыми.
 
-The bearings can then be
+Тогда подшипники можно будет
 
-ited out (see illustration).
+удалено (см. рисунок).
 
-arings with solvent and wipe the outer race, still in the
+кольца растворителем и протрите внешнюю обойму, все еще находясь в
 
-‘provide enough clearance to carefuly remove the svingarm between
+«обеспечьте достаточный зазор, чтобы осторожно снять маятник между
 
-yect
+да
 
-the lower part ofthe shock and the center stand.
+нижняя часть амортизатора и центральная стойка.
 10
 
-@ following
+@подписка
 
-Refert
+референт
 
-at
+в
 
-7 A slide hammer with an intemally expanding attachment is need to
+7 Для работы необходим скользящий молоток с расширяющейся внутри насадкой.
 
-11 Ensure the boot isin position on th
+11 Убедитесь, что чехол находится на своем месте.
 
-draw the outer races from
+нарисуйте внешние кольца из
 
-its tab with the UP marking must be posttone
+его вкладка с маркировкой UP должна быть посттоновой
 
-Postion the swingarm in the frame and install
+Расположите маятник в раме и установите
 
-Honda dealer remove
+Дилер Хонды удалить
 
-both prv
+оба прв
 
-the
+тот
 
-Tighten the left pivot bol to its specified torque
-12 Tighten the
+Затяните левый шарнирный болт с указанным моментом затяжки.
+12 Затяните
 
-right pivot bolt to ts specified torque, then
+правый шарнирный болт с указанным крутящим моментом, затем
 
-retighten tt to its specified torque.
+затяните его с указанным моментом затяжки.
 
-Next,
+Далее,
 
-loosen
+ослабить
 
-it and
+это и
 
-move the swingarm up and
+переместите маятник вверх и
 
-down several times and recheck that the right pivot bolt iss
-to its proper torque value
+вниз несколько раз и еще раз проверьте, что правый шарнирный болт
+до правильного значения крутящего момента
 
-comect service
+комект сервис
 
-the swingarm.
+маятник.
 
-the outer
-tools.
+внешний
+инструменты.
 
-If not avalable
+Если не доступен
 
-races and install
+гонки и установка
 
-have
+иметь
 
-a
+а
 
-the new ones using
+новые, использующие
 
-New grease retainers should
+Новые фиксаторы смазки должны
 
-be installed
+быть установлен
 
-before driving the outer races into the swingarm.
+прежде чем вставлять внешние кольца в маятник.
 
 8
 
-Prortointallaten, pack aiberl amount of bearing grease nto the
+Для начала нанесите необходимое количество смазки для подшипников в
 
 9
 
-2 lime,
+2 лайма,
 
-insert the bearing into
+вставьте подшипник в
 
-place and
+место и
 
-Using a suttable size
-socket
-to tap it gently
-"2 seal should be flush with the swingarm
+Использование подходящего размера
+розетка
+слегка постучать по нему
+«2 уплотнения должны находиться на одном уровне с маятником.
 
-13 Install the ight piv
-Honda service tool specis
-in positon wth the socket
+13 Установите правый пив.
+Характеристики сервисного инструмента Honda
+в положении с гнездом
 
-rollers and the
+ролики и
 
-sezure. If either the bearing
-must be replaced with new
+захват. Если либо подшипник
+необходимо заменить на новый
 
-Installation
-models,
+Установка
+модели,
 
-both the bearing
+оба подшипника
 
-Section for bearing replacemer
+Секция замены подшипников
 
 3
 
-wrench (Alien key)
-and te
+гаечный ключ (Чужой ключ)
+и ты
 
-tty to seat the seal against the bearing,
+tty для посадки уплотнения на подшипник,
 
-10 Finally, apply grease to
+10 Наконец, нанесите смазку на
 
-the specified torque using a torque wrench on the
-Note:
-it is important not fo disturb the pivot bok
+указанный крутящий момент с помощью динамометрического ключа на
+Примечание:
+важно не повредить шкворень
 
-the inner lips of the seals and install the
+внутренние кромки уплотнений и установите
 
-swingarm
+маятник
 
-‘boknut
+'бокнут
 8
-tontened
-44 Install the remaining components in @ reverse of the dismanting
-procedure,
+тонизированный
+44 Установите остальные компоненты @ в обратном порядке.
+процедура,
 
-taking
+принимая
 
-note of the torque setings
+обратите внимание на настройки крутящего момента
 
-in this
+в этом
 
-Chapter and
+Глава и
 
-Chapter
-7’ On 1100 models ensure that the brake hose is well secured
-the dips on the swingar
+Глава
+7’ На моделях 1100 убедитесь, что тормозной шланг хорошо закреплен.
+провалы на свингаре
 
 5
 
-Check
+Проверить
 
-the operation of the
+деятельность
 
-rear suspension before riding
+задняя подвеска перед поездкой
 
-the
+тот
 
-motorcycle.
+мотоцикл.
 
-48 Final drive unit and driveshaft -removal, inspection and
-installation
+48 Главная передача и карданный вал – снятие, осмотр и
+установка
 
-Removal
-Refer fo Bustrtions
-18.3 and 18.5
-Remove
+Удаление
+См. ограничения
+18,3 и 18,5
+Удалить
 
 17
 
-(see Chapter 7).
+(см. главу 7).
 
-@ the left shock absorber (see Section
-drive unit
-
-Inspection
+@ левый амортизатор (см. раздел
+приводной блокИнспекция
 1
 
-the rear wheel
+заднее колесо
 
-Swingarm - inspection and bearing replacement
+Маятник – проверка и замена подшипников
 
-Thoroughly
+Тщательно
 
-all
+все
 
-components.
+компоненты.
 
-removing
+удаление
 
-corrosion and grease,
-2 Inspect all components clo:
-Such
+коррозия и жир,
+2 Осмотрите все компоненты:
+такой
 
-as heavy scoring,
+как тяжелый результат,
 
-damage.
+ущерб.
 
-drain plug and allow the oil to drain into
+сливную пробку и дайте маслу стечь в
 
-le container (see illustration).
-clean
+le-контейнер (см. иллюстрацию).
+чистый
 
-and crac
+и трещина
 
-all
+все
 
-traces
+следы
 
-of
+из
 
-it
+это
 
-4 Postion a drain tray below the final
+4 Разместите сливной поддон под последней
 
-any
+любой
 
-ol that escapes
-ruts
+ой, это убегает
+колеи
 
-thet
+тогда
 
-fom
+из
 
-retain the
+сохранить
 
-caretuly withdraw the
+осторожно извлеките
 
-drive-to-swingarm
-joint to catch
+привод к маятнику
+сустав, чтобы поймать
 
-the driveshaft damper
-fal
+демпфер карданного вала
+падение
 
-dnve
+днве
 
-unit
+единица
 
-case,
+случай,
 
-to the
+к
 
-Remove the
+Удалите
 
-swingarm,
+маятник,
 
-unit and driveshatt from the swingarm,
+блок и привод от маятника,
 
-then
-This is
+тогда
+Это
 
-by supporting the swingarm at an angle parallel with the
+поддерживая маятник под углом, параллельным
 
-Any damaged or worn component mi
+Любые поврежденные или изношенные компоненты могут
 
-n when the final drive unit is
+n, когда главная передача
 
-the opportunty to
+возможность
 
-the damper
+демпфер
 
-correctly prepared befor
+правильно подготовился заранее
 
-Bearing replacement
-/ means.
+Замена подшипника
+/ значит.
 
-Referto istration 17.5
+См. версию 17.5.
 
-If this occurs.
+Если это произойдет.
 
-install
+установить
 
-the
+тот
 
-rear axle
+задний мост
 
-al drive unit and mount the axle in a vise equipped with
+Все приводное устройство и закрепите ось в тисках, оснащенных
 
-4. With the seals sb in pl
-roughn
-checking for eny
+4. С уплотнителями сб в пл.
+грубый
+проверка на наличие
 
-Se that in cive unit uopermest With the dive unt
-1driveshaft in a circular motion while pulling
+Посмотрите, что в cive unit uopermest с погружением
+1 карданный вал круговыми движениями, вытягивая
 
-the
+тот
 
-ave
+авеню
 
 unt
 
-(eee
+(эээ
 
-Blustraton).
+Блюстратон).
 
-This
+Это
 
-econ
+экономика
 
-wil
+будет
 
-serve to
+служить для
 
-Chapter6
+Глава 6
 
 6-21
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
 428227
 
-18.5 Driveshaft disconnection from final drive unit may require
-‘special technique if snap-ring
-is fitted to shaft end
-fectly joined,
+18.5 Может потребоваться отсоединение карданного вала от главной передачи.
+'специальная техника, если стопорное кольцо
+устанавливается на конец вала
+прекрасно соединились,
 
-snap-ring sufficiently to allow seperat
+стопорное кольцо достаточно, чтобы можно было разделить
 
-drive intemal splines. Note:
+привод внутренних шлицев. Примечание:
 
-install the three nuts and secure them
+установите три гайки и закрепите их
 
-the specified torque after the rear wheel axle has
+заданный крутящий момент после того, как ось заднего колеса
 
-The snap-ni
+Оснастка-ни
 
-Inspection
-Refer to istration 18.40
+Инспекция
+См. версию 18.40.
 
-fen al
+фен аль
 
-require any atter
-6 The final drive unit should n
-id
-level has been checked requlerly
+требуют каких-либо усилий
+6 Конечная передача не должна
+идентификатор
+уровень проверялся регулярно
 
-maintenance schedule
+график технического обслуживания
 
-of oil leakage
+утечки масла
 
-level has dropped significant, oil seal
+уровень значительно упал, сальник
 
-replacement
-is
-required
+замена
+есть
+требуется
 
 7
 
-Rotate
+Поворот
 
-the
+тот
 
-pinion
+шестерня
 
-gear
+шестерня
 
-shat
+обосрать
 
-(the
+(
 
-one
+один
 
-fast
+быстро
 
-rs f0 the spectied torques, noting
+rs f0 указанные крутящие моменты, учитывая
 
-dive unitto-swingarm ni
+устройство для погружения с маятником ni
 
-that
+что
 
-and
+и
 
-meshes
+сетки
 
-is can be
+это может быть
 
-that the three
+что эти трое
 
-torqued after the rear ave
+затянут после заднего пр.
 
-it with the comect type and amount of oil
+это с типом комекта и количеством масла
 
-with
+с
 
-the
+тот
 
-driveshaft) by hand. The ring gear splines (which mesh with the
-wheel stub) should rotate smoothly. If
-itis noisy, have the final arwe over
+карданный вал) вручную. Шлицы зубчатого венца (которые входят в зацепление с
+ступица колеса) должна вращаться плавно. Если
+здесь шумно, закончим последнюю беседу
 
-8 The final deve unt requires special
-correctly, plus a degree of
+8 Окончательная разработка требует специальных
+правильно, плюс степень
 
-pattem
+узор
 
-checks.
+чеки.
 
-Fequires special
+Требуется специальное
 
-expertise to camry out gear tooth
-disassembly of the drveshat
+опыт извлечения зубьев шестерни
+разборка дрвешата
 
-Similarly,
+Аналогично,
 
-tools end itis recommended thet
+инструменты и рекомендуется
 
-damper
+демпфер
 
-have three plastic pegs on their inner faces which
+имеют три пластиковых штифта на внутренней стороне, которые
 
-the
+тот
 
 ies by
 
-entrusted to a Honda dealer for overhaul
+передан дилеру Honda для капитального ремонта
 8
 
-is possible to measure gear beckash
+можно ли измерить шестерню бекеша
 
-available. To doso, set
+доступен. Для этого установите
 
-a al
+аль
 
-test
+тест
 
-the final drive unit on blocks
+бортовая передача на блоках
 
-it
+это
 
-sot
+пьяница
 
-nat
+ест
 
-value oth rig over
-10 Remove the ol ler plug and set up @ dial
+ценность другого оборудования
+10 Снимите старую заглушку и настройте @ циферблат.
 
-th (see illustration), Tun
+th (см. иллюстрацию), Tun
 
-of one of the ri
+одного из ри
 
-against the face
+против лица
 
-gauge so th
+измерить так что
 
-@ the cover pegs out of their
+@ крышка вытаскивается из своих
 
-Belly fairing - 1987 and 1988 700/750 Magna
-models
-Refer fo trstatons 19.28, 19.26 and
+Брюшной обтекатель - 700/750 Magna 1987 и 1988 гг.
+модели
+См. положения 19.28, 19.26 и
 
 19.20
 
-retained
-by four screws
-to the motorcycle’s frame,
-ide (see illustrations). Each rear side section is
+сохранен
+четырьмя винтами
+к раме мотоцикла,
+язь (см. иллюстрации). Каждая задняя боковая секция
 
-the ring g
+кольцо г
 
-to zero and tum the ring
-that this me:
-mended
+до нуля и поверните кольцо
+что это я:
+исправленный
 
-gear
+шестерня
 11
 
-Backlash
+Люфт
 
-should
+должен
 
-not
+нет
 
-exceed 0.3
+превышать 0,3
 
-mm
+мм
 
-(0.012
+(0,012
 
-in!
+в!
 
-the short coll spring in the end of the drm
+короткая пружина в конце дрма
 
-driveshaft upright, install the final drive unt on its end sé
-driveshaft and final drive splines fully engage. Mesh the
+карданный вал вертикально, установите главную передачу на ее конец.Шлицы карданного вала и главной передачи полностью входят в зацепление. Сетка
 
-together carefully to avoid damaging the damper of
-models may have @ small hole in the final drve unit so
-rotate the collar
+осторожно, чтобы не повредить демпфер
+модели могут иметь небольшое отверстие в главной передаче, поэтому
+повернуть воротник
 
-so
+так
 
-that the
+что
 
-hole
+дыра
 
-i= upwards (as
+я = вверх (как
 
-motoreyob)
-13 Hold the driveshaft and final
+мотореиб)
+13 Удерживайте карданный вал и главную
 
-loss from the
+потеря от
 
-drive unit fimly to
+приводной блок плотно прилегает к
 
-damper, and install the
+демпфер и установите
 
-as
+как
 
-that the splines on the front end of the driveshaft fully engage tho
+что шлицы на переднем конце карданного вала полностью входят в зацепление.
 
-the
+тот
 
-gearcase output shat. Note: Postioning theuniversal jor
+Выходной шат. коробки передач. Примечание. Размещение универсального jor.
 
-the front end of the driveshatt is horizontaly aligned wil help &
+передний конец приводного вала выровнен горизонтально, это поможет и
 
-the gearcase output shaft squarely. With the final dave un and
+выходной вал коробки передач ровно. С последним Дэйвом и
 
-19.2a Belly fairing front section is retained by screw at front...
+19.2а Передняя часть нижнего обтекателя крепится винтом спереди...
 
-Chapter6
+Глава 6
 
 6-22
 
-Frame, suspension and final drive
+Рама, подвеска и главная передача
 
-19.2c Rear section mounting screw
+19.2c Крепежный винт задней секции
 
-19.2b ... and at rear on each side
+19.2б... и сзади с каждой стороны
 
-tained by a single screw al there: he ot mouning tse by
-‘main section rear screws (see illustration).
+все там держится на одном винте: он не крепится с помощью
+‘задние винты основной секции (см. рисунок).
 
-Front fender
+Переднее крыло
 3
 
-Remove the front wheel (see Chapter 7).
+Снимите переднее колесо (см. главу 7).
 
 4
 
-From the inside of the front fender, remove the four bolts
+С внутренней стороны переднего крыла откручиваем четыре болта.
 
-which retain it to the fork brace or fork slider (as applicable).
-5 _ Installation is a reverse of removal. noting that any hose or
+которые удерживают его на скобе вилки или ползуне вилки (в зависимости от обстоятельств).
+5 _ Установка осуществляется в порядке, обратном снятию. отметив, что любой шланг или
 
-cable guides must be returned to their original locations.
+кабельные направляющие необходимо вернуть на прежнее место.
 
-Seat
-6 On 1987 and 1988 700/750 Magnas, the two-piece seat is
-retained by two bolts just beneath the seat strap buckles and a
-single bol to the rear fender (mudguard).
-7 On 1100 Sabre models, remove the side covers to access the
-two seat mounting bolts.
-8 On all other models release the seat lock and disengage the
+Сиденье
+6 На моделях 700/750 Magnas 1987 и 1988 годов двухсекционное сиденье
+крепится двумя болтами под пряжками ремней безопасности и
+одинарный болт к заднему крылу (брызговику).
+7 На моделях 1100 Sabre снимите боковые крышки, чтобы получить доступ к
+два болта крепления сиденья.
+8 На всех остальных моделях освободите замок сиденья и отключите
 
-seat prongs from the frame dhe seat lock is set in the grab rail on
-later Magna models). From 1984 a two-part seat is fited to
-700/750 Magna models.
-
-
+выступы сиденья из рамы. Замок сиденья установлен в поручне на
+более поздние модели Magna). С 1984 года сиденье, состоящее из двух частей, устанавливается на
+Модели 700/750 Magna.

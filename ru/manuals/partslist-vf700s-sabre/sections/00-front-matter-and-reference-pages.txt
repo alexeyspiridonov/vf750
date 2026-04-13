@@ -1,459 +1,457 @@
-SabMag/VFR List
-Microfiche & Manuals
-Electronic Reader
-Project
+Список СабМаг/ПВФ
+Микрофиши и руководства
+Электронная читалка
+Проект
 
-The microfiche and manuals contained herein are provided as a service to the Internet mailing-list community for
-non-commercial use only.
+Микрофиши и руководства, содержащиеся в настоящем документе, предоставляются в качестве услуги сообществу списков рассылки Интернета для
+только некоммерческое использование.
 
-No warranties, express or implied, are given for the accuracy of this material.
+Никакие гарантии, явные или подразумеваемые, не предоставляются в отношении точности этого материала.
 
-materials contained on this CD are in Adobe Portable Document Format (PDF).
-information provided it is used in its entirety and includes this message.
+материалы, содержащиеся на этом компакт-диске, представлены в формате переносимого документа Adobe (PDF).
+информация при условии, что она используется полностью и включает это сообщение.
 
-Alll
+Все
 
-You may freely copy this
+Вы можете свободно скопировать это
 
-The free Adobe Acrobat Reader® for
+Бесплатная программа Adobe Acrobat Reader® для
 
-each of the supported com puter platforms is included to allow reading.
-provided for this software by Adobe and included in the installation package.
+каждая из поддерживаемых компьютерных платформ включена для возможности чтения.
+предоставлено для этого программного обеспечения компанией Adobe и включено в установочный пакет.
 
-Separate license agreements are
+Отдельные лицензионные соглашения заключаются
 
-Back to
+Вернуться к
 
-Continue
+Продолжить
 
-Index
+Индекс
 
-To next page
+На следующую страницу
 
-Table of Contents
-Grid
-How To Use This Catalog ................cccccscesessceessereenseeeeees
+Оглавление
+Сетка
+Как пользоваться этим каталогом..............cccccscessceessereenseeeeees
 
-A
+А
 
 2
 
-Serial NUMDEPS
-.......0.........
-cc
+Серийный номер NUMDEPS
+.......0.......
+копия
 ecessscesessensnseesesssseesecessenensnseees
 
-A
+А
 
 3
 
-Construction Of Vehicle Identification Number (V.I.N.)..
+Составление идентификационного номера транспортного средства (V.I.N.)..
 
-A
+А
 
 3
 
-Color Tables. .................cccccscsccecsssscccsssecestecsseccececesssseseseneesenes
+Таблицы цветов. ...........cccccsscccecssscccsssecestecsseccececessseseseneesenes
 
-A
+А
 
 4
 
-Manuals... ceceeceesesesncseceeeesesesensessteeesensnsceesecsesseneteeaees
+Руководства... ceceeceesesesncseceeeesesesensessteeesensnsceesecsesseneteeaees
 
-A
+А
 
 6
 
-Model ID Photos..00....... oc e ec eeeccssseseseesteceseesssnneeesnsneeersers
+ID модели..00....... oc e ec eeeccsseseseesteceseesssnneesnsneeersers
 
-A
-
-7
-
-Specifications .................cccccssesseeeccessensseseceececssenccesecesseeeeeees
-
-A
+А
 
 7
 
-Bulk HOSE ...0........ceccccessscscceccesessssssessseeeesseccaeeueeceessssenenseess
+Технические характеристики ....ccccssesseeeccessenssesseceececssenccesecesseeeeeees
 
-A
+А
+
+7
+
+Массовый ШЛАНГ ...0........ceccccessscsccceccessssssessseeeeesseccaeueeeceessssenenseess
+
+А
 
 9
 
-Commonly Required Replacement Parts .......................-.
+Часто необходимые запасные части ............................-.
 
-A 10
+10
 
 VF700S’84e’85
 
-Contents By Page No. Sequence .......................ssssesceeseeees
+Содержание по номерам страниц. Последовательность ..................ssssesceeeeees
 
-A 11
+А 11
 
-Sabre
+Сабля
 
-Contents In Alphabetical Order ....................c
-cc cesseeeees
+Содержание в алфавитном порядке .................c
+cc усыновители
 
-A 11
+А 11
 
-FIONT DA.
-PARTS CATALOG
+ФИОНТ ДА.
+КАТАЛОГ ЗАПЧАСТЕЙ
 
-Page
+Страница
 
-Part Groups
+Группы деталей
 
-EngGin€ Group ............cccssecsceceeessesesteeeesssesesececeseeaees .
+Группа EngGin€ ............cccssecsceeesseessessteeeesssessececeseeaees .
 
-Bd
+ДР
 
-FrAMe Group ..........cccccccccccececensserecenssseccereceesesensessseeees
+Группа FRAME..........cccccccccccececensserecenssseccereceesesensessseeees
 
-E
-
-1
-
-Part Number Index ...................:cssseeseeeesseecceaseeseceeeeenees
+Э
 
 1
 
-1
-
-DeESCTIPTION INGEX ...........cecccssssseseeeceeeeesecceesteeseeeteeeres
-
-J
+Указатель номера детали ...................:cssseeseeeeesseecceaseeseceeeenees
 
 1
 
-Index
+1
 
-AMERICAN HONDA MOTOR CO., INC.
+DeESCTIPTION INGEX ...........cecccssssseseeeeeeeeeesecceesteeseeeteeeres
 
-July, 1993
-Second Edition
+Дж
+
+1
+
+Индекс
+
+АМЕРИКАНСКАЯ ХОНДА МОТОР КО., ИНК.
+
+Июль 1993 г.
+Второе издание
 
 © AMERICAN HONDA MOTOR CO., INC. 1993
 
-PRINTED IN USA
+НАпечатано в США
 
-14MBOEM
-14MBOEM
+14МБОЭМ
+14МБОЭМ
 
-© American Honda Motor Co., Inc. 1993
+© Американская компания Honda Motor Co., Inc., 1993 г.
 
-I
+я
 
-GRID
+СЕТКА
 
-Al
+Ал
 
-How To Use This Catalog
+Как использовать этот каталог
 
-How To Use This Catalog
-6. QTY REQ — Quantity required per unit as specified.
+Как использовать этот каталог
+6. НЕОБХОДИМОЕ КОЛ-ВО — необходимое количество на единицу, как указано.
 
-This parts catalog is to ba used when ordering replacement parts for tha model (s) specified on the microfiche strip.
+Этот каталог запчастей следует использовать при заказе запасных частей для моделей, указанных на полоске микрофиши.
 
-A.
+А.
 
-“(_
+«(_
 
-CATALOG PAGE BREAKDOWN
-MODEL(S)
+РАЗБИВКА СТРАНИЦ КАТАЛОГА
+МОДЕЛЬ(И)
 
-MODEL
+МОДЕЛЬ
 
-APPLICATION
-TSE
+ПРИМЕНЕНИЕ
+ТСЕ
 
 ence numbers and application. Several part numbers may be
-listed under one (1) reference number. For your convenience
+listed under one (1) reference number. Для вашего удобства
 
-jc
+Джей Си
 
-Q
+вопрос
 
 RCICUCECECHres\
 
-the current supersede chain, as of print data, has been listed for
+текущая цепочка замены, начиная с данных печати, указана для
 
-T
+Т
 
-you.
+ты.
 
-gisioisisiolsis
+гизиоизиолсис
 
 6i7
 
-4) 5/6/714/516 /71E
+4) 5/6/714/516/71Э
 
-HONDA
+ХОНДА
 
-Q| PART NUMBER
+В| НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-’
+'
 
-* Allilustrations
-are representative
-only
-anddo not
+* Алиллюстрации
+являются репрезентативными
+только
+и не делай
 
-rly
+ехать
 
-3. MODEL
-APPLICATION
+3. МОДЕЛЬ
+ПРИМЕНЕНИЕ
 — Model application for the various
-models listed
-within the catalog,
-notrequirethis section,
+перечисленные модели
+в каталоге,
+не требуется этот раздел,
 
-correspond exactly to the actual part. “NI° signifies the part is
+точно соответствуют реальной детали. “NI° signifies the part is
 
-not illustrated.
+не иллюстрировано.
 
-2. DESCRIPTION
-— Describes the part forthe related part number.
-Abbreviations:
+2. ОПИСАНИЕ
+— Описывает деталь по соответствующему номеру детали.
+Сокращения:
 
-ASSY.
+АССИ.
 
-COMP.
-R.
+КОМП.
+Р.
 
-L.
+Л.
 
-—- Assembly"
+--- Сборка"
 
-ah
+ах
 
-- Complete
+- Полный
 
-.
+.переменного тока,
 
-AC,
+- Аэрация
 
-- Aerating
+округ Колумбия
 
-D.C.
+- Постоянный ток
 
-- Direct Current
+- Верно
 
-- Right
-
-- Left
+- Левый
 
 .
 
-©: Mig: - Link (100 Links)
-Curreri
+©: Миг: - Ссылка (100 ссылок)
+Каррери
 
-be
+быть
 
-: iveniaaian
+: ивенский
 
-x
+х
 
-: Enaust
+: Энауст
 
-G
+Г
 
-- Gram
+- Грамм
 
-FR.
+фр.
 
-- Front
+- Передняя часть
 
-HEX.
+ШЕСТИГРАННИК.
 
-- Hexagonal
+- Шестиугольный
 
-T (227)
+Т (227)
 
-- Tooth
+- Зуб
 
-RA.
+РА.
 
-A
+А
 
-- Ampere
+- Ампер
 
-AM.
+АМ.
 
-(22 Teeth)
+(22 зуба)
 
-Vv
-Ww
+Вв
+Ву
 
-- Voit
-- Watt
+- Войт
+- Ватт
 
-KPH
+КПХ
 
-- Kilometer
+- Километр
 
-MPH
+МПХ
 
-Per Hour
-- Miles Per
+в час
+- Миль за
 
-T.M.
-C.D.
-WL
-WOL
+Т.М.
+компакт-диск
+ВЛ
+ВОЛ
 
-Hour
+Час
 
-- Rear
+- Задний
 
-- Attaching Mark
+- Прикрепление отметки
 
-- Transcript Mark
-- Capacitive
-Discharge Ignitien
-- With Labeling
-- Without Labeling
+- Стенограмма Марка
+- Емкостный
+Разряд воспламенения
+- С маркировкой
+- Без маркировки
 
-- HONDA CODE — The Honda Codeis listed to the right of each
-Part Number.
+- КОД HONDA. Код Honda указан справа от каждого кода.
+Номер детали.
 
-A. ADDITIONAL INFORMA
-— The
-TION
-table of contents located
-at the right of each microfiche grid lists sectioned tities in
+А. ДОПОЛНИТЕЛЬНАЯ ИНФОРМАЦИЯ
+—
+ТИОН
+оглавление расположено
+справа от каждой сетки микрофиш перечислены разбитые на части объекты в
 
-alphabetical order. Some microfiche will require separate tables
+алфавитный порядок. Для некоторых микрофиш потребуются отдельные таблицы.
 
-of contents for the Engine and Frame sections which will be
+содержания разделов «Двигатель» и «Рама», которые будут
 
-noted in a sub-heading;
+отмечено в подзаголовке;
 
-the introducion section (Row °A") of
+вводный раздел (строка °A")
 
-these microfiche will have the contents of the Engine Section on
-even number grids and the contents of the Frame Section
-on
+эти микрофиши будут содержать содержимое раздела «Двигатель» на
+четные числовые сетки и содержимое раздела фреймов
+на
 
-A
+А
 
-1. REF
-— on
-Reference
-number corresponding
-with the reterence NO.
-numbers
-the illustrations.
+1. ССЫЛКА
+— на
+Ссылка
+номер соответствующий
+с удержанием НЕТ.
+цифры
+иллюстрации.
 *
 
-Supersede chains are subject to change without notice.
+Замененные цепочки могут быть изменены без предварительного уведомления.
 
-Y
+Да
 
-BLOCK NO. E-t {4/5/8)7/4/5)6/7 18 ow — E
+БЛОК №. Е-т {4/5/8)7/4/5)6/7 18 вл — Е
 
-DESCRIPTION
+ОПИСАНИЕ
 
-)’ or °C’ by the quantity required indicates “optional”.
+)’ или °C’ по требуемому количеству означает «опционально».
 
-7. PART NUMBER — Part number corresponding to the reter-
+7. НОМЕР ДЕТАЛИ — Номер детали, соответствующий
 
-|MODEL |,
-R
+|МОДЕЛЬ |,
+Р
 
-REF.
+ПОЗ.
 
-“N" in place of the quantity indicates AS REQUIRED.
+«N» вместо количества означает «КАК ТРЕБУЕТСЯ».
 
-Single model applications will
+Заявки на одну модель будут
 
-PARTS and “STANDARD PARTS" All parisne nunberes in NOTE:
-parts
+ДЕТАЛИ и «СТАНДАРТНЫЕ ДЕТАЛИ». Все указанные номера указаны в ПРИМЕЧАНИЕ:
+части
 
-are
+являются
 
-class
+класс
 
-3a. ieee guide rtorence ae a Oe
+3а. руководство ieee rtorence ae a Oe
 
-fe)
+фе)
 
-accordance with system described betow:
+в соответствии с системой, описанной ниже:
 
-1. The Block No. listed in the upper right hand comer of the
+1. Номер блока указан в правом верхнем углу страницы.
 
-General Parts
-Example: Fork comp. Part No. ........00.... §1105-GR1-700ZA
-Function No.
+Общие части
+Пример: Вилка комп. Номер детали........00.... §1105-GR1-700ZA
+Функция №.
 51
-Component No.
-we
-veo 105
+Номер компонента
+мы
+вео 105
 
-page and it’s text, and should not be confused with the
-GRID NO. when using microfiche.
-2. Rear view mirrors are standard equipment on ail street
-laga! models.
+страницу и ее текст, и их не следует путать с
+РЕШЕТКА №. при использовании микрофиши.
+2. Зеркала заднего вида являются стандартным оборудованием на всех улицах.
+лага! модели.
 
-Description heading refers to a complete illustration
+Заголовок описания относится к полной иллюстрации.
 
-ete sencation NO. sosssseeessnsntsnenttns
-nese oR
-caassiticatio
-le saanencedenasaaecsaessaeennsuteueseaeseerctees
-cones A
+Эте сенация НЕТ. Соссссееесснснцненттснс
+Незе ОР
+каассицицио
+le saanencedenasaaecsaessaeennsuteueueseaeseerctees
+конусы А
 
-COMO CON
+КОМО КОН
 
 ;
 
-into two groups consi
+на две группы, состоящие
 
-ace cesssesecaeectecetetttnteneetttesnntecnssennenet
+ace cesssessecaeectecetetttnteneetttesnntecnssennenet
 
-Standard Parts
+Стандартные детали
 
-ae
+ае
 
-For 1976 and above the quide reference is the last digit of the mode!
+Для моделей 1976 года и выше ссылка на руководство — это последняя цифра режима!
 
-year ie., 1976=6; 1977=7; 19855 etc...)
+год т.е., 1976=6; 1977=7; 19855 и т. д...)
 
-4. AREA CODE — Area codes for parts that are unique to a
-particular area. Area codes are defined inthe Serial Number
+4. КОД РЕГИОНА. Коды регионов для деталей, которые уникальны для конкретного автомобиля.
+конкретная область. Коды городов указаны в серийном номере.
 
-application chart when applicable. This column will not be used
+диаграмму применения, если применимо. Этот столбец не будет использоваться
 
-in catalogs which do not include unique area codes.
+в каталогах, которые не содержат уникальных кодов городов.
 
-5. SERIAL NUMBER — Applies to Engine or Frame serial numbers depending on the section.
+5. СЕРИЙНЫЙ НОМЕР — относится к серийным номерам двигателя или рамы в зависимости от секции.
 
-The serial number of the vehicle (frame, engine, carburetor)
-should be checked prior to ordering parts for a specific unit.
+Серийный номер автомобиля (рама, двигатель, карбюратор)
+следует проверять перед заказом деталей для конкретного агрегата.
 
-in cases where a part has been modified, the serial number of
-the vehicle bearing the modification is listed in the "SERIAL
+в случаях, когда деталь была модифицирована, серийный номер
+автомобиль, несущий модификацию, указан в «СЕРИЙНЫХ
 
-Example: 8x8 Hex., Bolt rt No. .........92000-08018-1A
-Punetion NO. vvesseceneetactere, senerneennson 92 000
-ype
+Пример: 8x8 шестигранник, номер болта .........92000-08018-1A
+Наказание НЕТ. vvesseceneetactere, senerneennson 92 000
+да
 
-No
+Нет
 
-”
+»
 
-Dimensions
+Размеры
 
-ISO Standard Designation .
+Стандартное обозначение ISO.
 
-Chemical Surface Treatment
+Химическая обработка поверхности
 
-fo [007
+фо [007
 
 -08018-
 
@@ -462,130 +460,128 @@ _
 '
 
 PRE PEMGINNISINIL saetecateasrcesaeseeseceecentnnarences
-es
+эс
 
-A
+А
 
-* The color code at the end c! a General Part’s part number
+* Код цвета в конце c! номер детали общей деталиукажите цвет. Однако цветовые коды, такие как ZA, ZB, ZC
 
-indicate the color. However, color codes such as ZA, ZB, ZC
-
-the
+тот
 
 tee et ite Deeneicate
-the colordirectly but refer to
+Цвет напрямую, но обратитесь к
 
-Mic vot es
+Голосование за микрофоном
 
-tt the
+это
 
-reter to
+вернуться к
 
-the color
+цвет
 
-tert heli
+третий хели
 
-lord cnption
+Лорд Конпион
 
-: notin t s arts Catalog
+: Каталог notin t s arts
 
-table scnption Is not indicated in the text,
-table.
+обозначение таблицы в тексте не указано,
+стол.
 
-NUMBER’ column.
-The modification parts are controiied by each pertinent serial
-number below:
+Столбец НОМЕР».
+Детали модификации контролируются каждым соответствующим серийным номером.
+номер ниже:
 
-Engine serial number — Engine group parts (Block numbers
+Серийный номер двигателя — Детали группы двигателя (номера блоков
 
-Decision for ‘R’ or ‘L’.
-‘R’ or‘L’ in the description of a part stands for the Right hand
-Side or the Left hand side which is decided by the forward
-direction of travel of the vehicle.
+Решение для «R» или «L».
+Буквы «R» или «L» в описании детали обозначают правую руку.
+Сторона или левая сторона, по решению нападающего.
+направление движения транспортного средства.
 
-beginning with 'E’).
-Carburetor identification number — Carburetor component
-parts.
-Frame seriat numbers — Frame group parts (Block numbers
-beginning with ‘F’). Serial number application chart and Serial
-number locations are provided.
+начиная с «Е»).
+Идентификационный номер карбюратора — компонент карбюратора
+части.
+Серийные номера кадров — Части группы кадров (номера блоков
+начинается с буквы «Ф»). Схема применения серийного номера и серийный номер
+указаны номера номеров.
 
-Note: Some models may be controlled by one serial number
-only.
+Примечание. Некоторые модели могут управляться одним серийным номером.
+только.
 
-jt
+ДжТ
 
-© American Honda #otor Co., Inc. 1993
+© Американская Honda #otor Co., Inc., 1993 г.
 
 J4MBOEM
 
-14MBOEM
+14МБОЭМ
 
-© American Honda Motor Co., inc. 1993
+© Американская Honda Motor Co., Inc. 1993 год
 
-‘Il
+'Ил
 
-GRID
+СЕТКА
 
-A2
+А2
 
-Construction of Vehicle Identification Number (V.I.N.)
+Составление идентификационного номера транспортного средства (V.I.N.)
 
-Serial Numbers
-Models and applicable serial numbers
-Models and applicable serial Nos. given in this parts catalog can be identified as follows.
+Серийные номера
+Модели и соответствующие серийные номера
+Модели и соответствующие серийные номера, приведенные в этом каталоге запчастей, можно идентифицировать следующим образом.
 
-Area
-Code | Unique Area
+Площадь
+Код | Уникальный район
 
-VF700S "64
-‘
+ВФ700С "64
+'
 
-‘
+'
 
-EXCEPT
+КРОМЕ
 
-CALIFORNIA
+КАЛИФОРНИЯ
 
-VF700S'84
-‘
+ВФ700С'84
+'
 
-AC | CAUFORNIA
+переменного тока | КАУФОРНИЯ
 
-VF7CO0S ‘BS
+VF7CO0S 'BS
 
-A
+А
 
-VF700S ‘ ‘85
+VF700S ‘’85
 
-AC | CAUFORNIA
+переменного тока | КАУФОРНИЯ
 
-EXCEPT
+КРОМЕ
 
-Applicable
-Frame
-Serial No.
+Применимо
+Рамка
+Серийный номер.
 
-| RC22E- 2000008 To
+| RC22E- 2000008 К
 
-RC220* EM000007 To
+RC220* EM000007 Кому
 
-RC22E- 2002575 To
+RC22E- 2002575 К
 
-RC221* EM000006 To
+RC221* EM000006 Кому
 
-| RC22E- 2100001 To
+| RC22E- 2100001 К
 
-RC220* FM10000! To
+RC220* FM10000! Чтобы
 
 2005978
 
 9006097
 
-CALIFORNIA
+КАЛИФОРНИЯ
 
 2103668
-RC22E- 2100001 To
+RC22E- 2100001 К
 2103985
 
 EM005012
@@ -593,769 +589,766 @@ EM005012
 5001081
 
 FM 102800
-RC221* FM100001 To
+RC221* FM100001 Кому
 FM 100863
 
 W.M.I.
 
-—_V.D.S.
+—_В.Д.С.
 
 JH2
 
 RC040
 
-V.LS.
+В.Л.С.
 *
 
-er
+эээ
 
-BM
+БМ
 
-Sequential Production number
+Последовательный производственный номер
 
-Applicable
+Применимо
 
-Carburetor
-identification No.
-VD50E
+Карбюратор
+идентификационный номер
+ВД50Е
 
-W.M.L. ...Worid manufacturer identifier
-Vv -D.S .... Vehicle descriptor section
-V.LS. .... Vehicle indicator section
+В.М.Л. ...Идентификатор производителя Word
+Вв -Д.С.... Раздел описания автомобиля
+В.Л.С. .... Раздел индикатора автомобиля
 
 200001
 
-a
+а
 
-Plant representation
+Представление завода
 
-... OHIO factory in U.S.A
-..- AALST factory in BELGIUM
-... SAITAMA factory in JAPAN
-... GUADALAJARA factory in MEXICO
-... MONTESA factory in SPAIN
-.... ATESSA factory in ITALY
-... KUMAMOTO factory in JAPAN
-... HAMAMATSU factory in JAPAN
-... MANAUS factory in BRAZIL
-... SUZUKA factory in JAPAN
-... TOCHIGI factory in JAPAN
+... Завод в Огайо, США.
+..- Завод AALST в БЕЛЬГИИ
+... Завод SAITAMA в ЯПОНИИ
+... завод в ГВАДАЛАХАРЕ в МЕКСИКЕ
+... Завод MONTESA в ИСПАНИИ
+.... Завод ATESSA в ИТАЛИИ.
+... Завод KUMAMOTO в ЯПОНИИ
+... Завод HAMAMATSU в ЯПОНИИ
+... Завод MANAUS в БРАЗИЛИИ
+... Завод SUZUKA в ЯПОНИИ
+... Завод TOCHIGI в ЯПОНИИ
 
-a
+а
 
-VD02A @
+ВД02А@
 
-YD50E
+50 ярдов
 
-VD50E =
+ВД50Е =
 >
-VDO2A aA [Al
+ВДО2А аА [Ал
 
 4nnpzxATMIND>
 
-Model
+Модель
 
-Applicable
-Engine
-Serial No.
+Применимо
+Двигатель
+Серийный номер.
 
-(Example)
+(Пример)
 
-Model year
+Модельный год
 
-(Example)
-B..1981 C ..1982 D..1983-------- X..1999
+(Пример)
+Б..1981 С ..1982 Д..1983-------- Х..1999
 
-<Except 1.0.0.U>
+<Кроме 1.0.0.U>
 
-Check digit
-This code is used to detect erors in the V.I.N. and consists
-of a single-digit number (0-9) or a letter “X”. It has no direct
-bearing upon the V.D.S. and V.i.S.
-Vehicle description code
+Контрольная цифра
+Этот код используется для обнаружения ошибок в V.I.N. и состоит
+однозначного числа (0–9) или буквы «X». Он не имеет прямого
+применительно к V.D.S. и В.и.С.
+Код описания автомобиля
 
-(Example) RC040 ...CB750F
-Refer to: SERIAL NUMBERS
+(Пример) RC040...CB750F
+См.: СЕРИЙНЫЕ НОМЕРА.
 
-NCO030...CB400T
+НКО030...CB400T
 
-Make and Type of vehicle
+Марка и тип автомобиля
 
-Jr2 ... HONDA, Motorcycle (Manufactured in JAPAN)
-THF ... HONDA, Motorcycle (Manutactured in U.S.A.)
+Jr2... HONDA, Мотоцикл (Производство ЯПОНИЯ)
+THF ... HONDA, Мотоцикл (Производство в США)
 
-COLOR LABEL
+ЦВЕТНАЯ ЭТИКЕТКА
 
-YC1 ..HONDA, Motorcycle (Manufactured in BELGIUM)
-8C2 ... HONDA, Motorcycle (Manufactured in BRAZIL)
-3H1 ... HONDA, Motorcycle (Manufactured in MEXICO)
-VTM ..HONDA, Motorcycle (Manufactured in SPAIN)
-ZDC ..HONDA, Motorcycle (Manufactured in ITALY)
-JH3 ... HONDA, Ali terrain vehicle (Manufactured in JAPAN)
-478 ... HONDA, All terrain vehicle (Manufactured in U.S.A.)
-Any change oy modification of parts is directly related to the V.D.S. and V.1.S.
-A V.1.S. number will appear in the "Serial No." column of the Parts Catalog if a part is changed or modified.
-CARBURETOR IDENTIFICATION NUMBER
+YC1 ..HONDA, Мотоцикл (Производство: БЕЛЬГИЯ)
+8C2 ... HONDA, Мотоцикл (Производство: БРАЗИЛИЯ)
+3H1... HONDA, Мотоцикл (Производство: МЕКСИКА)
+VTM ..HONDA, Мотоцикл (Производство ИСПАНИЯ)
+ZDC ..HONDA, Мотоцикл (Производство ИТАЛИЯ)
+JH3... HONDA, вездеход Ali (Производство ЯПОНИЯ)478 ... HONDA, Вездеход (Производство в США)
+Любое изменение или модификация деталей напрямую связаны с V.D.S. и В.1.С.
+А В.1.С. номер появится в поле «Серийный номер». столбец Каталога запчастей, если деталь изменена или модифицирована.
+ИДЕНТИФИКАЦИОННЫЙ НОМЕР КАРБЮРАТОРА
 
 IV
 
-© American Honda Motor Co., inc. 1993
+© Американская Honda Motor Co., Inc. 1993 год
 
-14MBOEM
+14МБОЭМ
 
-COMMENT:
-This example is generic and applies to 1981 and newer vehicles. 1980 models and prior are refered to as "FRAME
-NUMBERS’ and the construction is designed by using the model designation or code followed by a sequential number.
+КОММЕНТАРИЙ:
+Этот пример является общим и применим к автомобилям 1981 года выпуска и новее. Модели 1980 года и ранее обозначаются как «FRAME».
+ЦИФРЫ», а конструкция проектируется с использованием обозначения модели или кода, за которым следует порядковый номер.
 
-14MBOEM
+14МБОЭМ
 
-© American Honda Motor Co., Inc. 1993
+© Американская компания Honda Motor Co., Inc., 1993 г.
 
-Vv
+Вв
 
-GRID
+СЕТКА
 
-A3
+А3
 
-Color Tables
+Таблицы цветов
 
-Color Tables
+Таблицы цветов
 
-Color Chart
+Таблица цветов
 
-* (WU)
-= Stripes and labels other than caution labels are included in parts whose part narne end in (WL).
-* (WOL) = Stripes and labels are not inctuded in parts whose part name end in (WOL).
+* (ВУ)
+= Полосы и этикетки, кроме предупредительных этикеток, включены в детали, часть которых заканчивается на (WL).
+* (WOL) = Полосы и этикетки не наносятся на детали, названия которых заканчиваются на (WOL).
 
-COLOR CODE TABLE (Color Descriptions omitted from the main text of the catalog)
+ТАБЛИЦА ЦВЕТОВЫХ КОДОВ (Описания цветов не включены в основной текст каталога)
 
-TYPE OF PARTS
+ТИП ДЕТАЛЕЙ
 
-COLOR CODE
+ЦВЕТОВОЙ КОД
 
-PAINTED PARTS
+ОКРАШЕННЫЕ ДЕТАЛИ
 
-Color Application Chart
-* When ordering a part of a particular color or type, refer to the chart below for the model
-color and color label application.
-* (WL) = Stripes and labels other than caution iabels are included in parts whose part name end in (WL).
-* (WOL) = Stripes and labels are not included in parts whose part name end in (WOL).
+Таблица применения цветов
+* При заказе детали определенного цвета или типа см. таблицу модели ниже.
+нанесение цветной и цветной этикетки.
+* (WL) = полосы и этикетки, кроме предупреждающих надписей, имеются в деталях, названия которых заканчиваются на (WL).
+* (WOL) = Полосы и этикетки не включены в детали, названия которых заканчиваются на (WOL).
 
-COLOR DESCRIPTION
+ОПИСАНИЕ ЦВЕТА
 
-MODEL
+МОДЕЛЬ
 
-WHITE
-BLACK
+БЕЛЫЙ
+ЧЕРНЫЙ
 
-SCARLET
-ROYAL BLUE
-DARK BLUE
+АЛЫЙ
+КОРОЛЕВСКИЙ СИНИЙ
+ТЕМНО-СИНИЙ
 
-MARUEM BLUE
-IVORY YELLOW
+МАРУЕМ СИНИЙ
+Слоновая кость ЖЕЛТЫЙ
 
-DARK SILVER
-METALLIC SILVER
+ТЕМНО-СЕРЕБРЯНЫЙ
+СЕРЕБРЯНЫЙ МЕТАЛЛИК
 
-CHROME
+ХРОМ
 
-VINYL PARTS
+ВИНИЛОВЫЕ ЧАСТИ
 
 VF700S, °84
 
-COLOR
+ЦВЕТ
 
-Black
+Черный
 
-Black
+Черный
 
-COLOR CODE
+ЦВЕТОВОЙ КОД
 
-NH-1!
-
-NH-}
+НХ-1!
 
 NH-}
 
-NH-1
+NH-}
 
-BODY COMP., FRAME
-A/G: A
+НХ-1
+
+КОМПЛЕКТ КУЗОВА, РАМА
+А/Г: А
 
 '
 
-BODY COMP., FRAME
+КОМПЛЕКТ КУЗОВА, РАМА
 
 NH-}
 
-NH-1
+НХ-1
 
-COVER SET, R. SIDE
+КОМПЛЕКТ КРЫШЕК, ПРАВАЯ СТОРОНА
 
-NH-T/TYPE |
+НХ-Т/ТИП |
 
-NH-1/TYPE 2
+НХ-1/ТИП 2
 
-NH-I/TYPE
+NH-I/ТИП
 
 |
 
-NH-1/TYPE 2
+НХ-1/ТИП 2
 
-A/C: AC
+кондиционер: переменный ток
 
-PRIMER
+ПРАЙМЕР
 
-COVER SET, L. SIDE
+КОМПЛЕКТ КРЫШЕК, ЛЕВАЯ СТОРОНА
 
-PRIMER
+ПРАЙМЕР
 
-COWL SET, RR.
+КОМПЛЕКТ ОБТЕКАТЕЛЯ, RR.
 
-NH-1/TYPE }
+NH-1/ТИП }
 
-NH-1/TYPE 2
+НХ-1/ТИП 2
 
-BLACK
+ЧЕРНЫЙ
 
-FENDER COMP., FR.
+FENDER COMP., ФР.
 
-N#H-}
+Н#Х-}
 
-N#H-1
+Н#Х-1
 
-FORK ASSY., RR.
+ВИЛКА В СБОРЕ, ЗАД.
 
-NH-1}
+НХ-1}
 
-NH-1
+НХ-1
 
-BLUE
+СИНИЙ
 
-LIGHT BLUE
+СВЕТЛО-ГОЛУБОЙ
 
-SCARLET
+АЛЫЙ
 
 .
 
-MARK, DRIVE CAUTION
+МАРК, ДВИЖИТЕСЬ ОСТОРОЖНО
 
-A-03
+А-03
 
-A-O3
+А-О3
 
-ELEPHANT GRAY & IVORY
+СЛОН СЕРЫЙ И СЛОНОВАЯ КОСТЬ
 
-STRIPE, R. FUEL TANK
+ПОЛОСКА, ПРАВЫЙ ТОПЛИВНЫЙ БАК
 
-TYPE }
+ТИП }
 
-TYPE 2
+ТИП 2
 
-WHITE
+БЕЛЫЙ
 
-STRIPE, t. FUEL TANK
+ПОЛОСКА, т. е. ТОПЛИВНЫЙ БАК
 
-TYPE |
+ТИП |
 
-TYPE 2
+ТИП 2
 
-STRiPr. R. RR. COWL
+СТРиПр. Р. РР. ОБТЕКАТЕЛЬ
 
-TYPE }
+ТИП }
 
-TYPE 2
+ТИП 2
 
-STRIPE, 1. RR. COWL
+ПОЛОСКА, 1. РР. ОБТЕКАТЕЛЬ
 
-TYPE }
+ТИП }
 
-TYPE 2
+ТИП 2
 
-STRIPE, R. SIDE COVER
+ПОЛОСКА ПРАВОЙ БОКОВОЙ КРЫШКИ
 
-TYPE }
+ТИП }
 
-TYPE =
+ТИП =
 
-STRIPE, L. SIDE COVER
+ПОЛОСКА, ЛЕВАЯ БОКОВАЯ КРЫШКА
 
-TYPE }
+ТИП }
 
-TYPE 2
+ТИП 2
 
-SUB FRAME COMP.
+ПОДРАМНЫЙ КОМП.
 
-Nb-1
+Нб-1
 
-N#-1
+Н#-1
 
-NH-!
+НХ-!
 
-NH-1
+НХ-1
 
-DARK ROSE
+ТЕМНАЯ РОЗА
 
-ORY
+ОРИ
 
-A/C: A
+Кондиционер: А
 
-SUB FRAME COMP.
-A/C: AC
+ПОДРАМНЫЙ КОМП.
+кондиционер: переменный ток
 
-TANK SET, FUEL
+БАК, ТОПЛИВЫЙ КОМПЛЕКТ
 
-NH-1/TYPE
+NH-1/ТИП
 
 }
 
-NH-1/TYPE 2
+НХ-1/ТИП 2
 
-NH-L/TYPE
+НХ-Л/ТИП
 
 1
 
-NH-1/TYPE 2
+НХ-1/ТИП 2
 
-A/C: A
+Кондиционер: А
 
-TANK SET, FUEL
-A/C: AC
-Note:
+БАК, ТОПЛИВЫЙ КОМПЛЕКТ
+кондиционер: переменный ток
+Примечание:
 
-When appplicable, ‘From:' and ‘To.’ followed by a Sena! Number in the Description column,
-indicates the application
+Если применимо, «От:» и «Кому», за которыми следует Sena! Номер в столбце Описание,
+указывает на приложение
 
 VI
 
-© American Honda Motor Co., Inc. 1993
+© Американская компания Honda Motor Co., Inc., 1993 г.
 
-14MBOEM
+14МБОЭМ
 
-range when present; ‘A’C:' followed by a code indicates
+диапазон, если он присутствует; «A’C:», за которым следует код, указывает
 
-14MBOEM
+14МБОЭМ
 
-the Areo
+Арео
 
-Code.
+Код.
 
-© American Honda Motor Co., inc. 1993
+© Американская Honda Motor Co., Inc. 1993 год
 
-Vir
+Вир
 
-| GRID |
+| СЕТКА |
 
-A4
+А4
 
-Color Tabies
+Цветные таби
 
-Color Tables
+Таблицы цветов
 
-Color Appiication Chart
-* When ordering a part of a particular color or type, refer to the chart below tor tne modal color and color label application.
+Таблица цветового применения
+* При заказе детали определенного цвета или типа см. таблицу ниже, чтобы узнать, как применить модальный цвет и цветную этикетку.
 
-¢ (WL) = Stripes
-and labels otnsr than caution labels ate included in parts whose part name end in (WL).
-* (WOL) = Stripes and labels
-are not included in parts whose part name end in (WOL).
+¢ (WL) = Полосы
+и этикетки, отличные от предупреждающих этикеток, включены в детали, названия которых заканчиваются на (WL).
+* (WOL) = Полосы и этикетки
+не включены в детали, названия которых заканчиваются на (WOL).
 
-MODEL
+МОДЕЛЬ
 
-VF7005S, ‘85
+ВФ7005С, 85 г.
 
-MODEL
+МОДЕЛЬ
 
-COLOR LAGEL
+ЦВЕТНОЙ ЛАГЕЛЬ
 
-NHIK
+НХИК
 
 NH1H
 
-COLOR
+ЦВЕТ
 
-Black
+Черный
 
-Block
+Блокировать
 
-COLOR CODE
+ЦВЕТОВОЙ КОД
 
-NH-1]
+НХ-1]
 
-NH-1
+НХ-1
 
-NH-1
+НХ-1
 
 NH-}
 
-BODY COMP., FRAME
+КОМПЛЕКТ КУЗОВА, РАМА
 
-BODY COMP., FRAME
+КОМПЛЕКТ КУЗОВА, РАМА
 
-NH-]
+НХ-]НХ-1
 
-NH-1
+Примечание:
 
-Note:
-
-NH-1/TYPE
+NH-1/ТИП
 
 1
 
-NH-1/TYPE 2
+НХ-1/ТИП 2
 
-COVER SET, L. SIDE
+КОМПЛЕКТ КРЫШЕК, ЛЕВАЯ СТОРОНА
 
-NH-1/TYPE 1
+НХ-1/ТИП 1
 
-NH-1/TYPE 2
+НХ-1/ТИП 2
 
-COWL SET, RR
+КОМПЛЕКТ ОБтекателя, ЗАДН.
 
-NH-1/TYPE
+NH-1/ТИП
 
-NH-L‘TYPE 2
+NH-L’ТИП 2
 
 }
 
-EMBLEM, R. FUEL TANK
+ЭМБЛЕМА, ПРАВЫЙ ТОПЛИВНЫЙ БАК
 
-TYPE
-
-1
-
-TYPE 2
-
-EMBLEM, L. FUEL TANK
-
-TYPE 1
-
-TYPE 2
-
-EMBLEM, R&R. COWL
-
-TYPE
+ТИП
 
 1
 
-TYPE 2
+ТИП 2
 
-EMBLEM, SIDE COVER
+ЭМБЛЕМА, Л. ТОПЛИВНЫЙ БАК
 
-TYPE
+ТИП 1
 
-1
+ТИП 2
 
-TYPE 2
+ЭМБЛЕМА, R&R. ОБТЕКАТЕЛЬ
 
-FENDER COMP.. FR.
-
-NH-1
-
-NH-1
-
-FORK ASSY.. RR.
-
-NH-1
-
-NH-1
-
-MARK, DRIVE CAUTION
-
-A-03
-
-A-03
-
-STRIPE, R. FUEL TANK
-
-TYPE 1
-
-TYPE 2
-
-STRIPE,
-
-1. FUEL TANK
-
-TYPE
+ТИП
 
 1
 
-TYPE 2
+ТИП 2
 
-STRIPE,
+ЭМБЛЕМА, БОКОВАЯ КРЫШКА
 
-&. RR. COWL
-
-TYPE
+ТИП
 
 1
 
-TYPE 2
+ТИП 2
 
-STRIPE, L. RR. COWL
+КОМПЛЕКТ FENDER.. ФР.
 
-TYPE
+НХ-1
 
-1
+НХ-1
 
-TYPE 2
+ВИЛКА В СБОРЕ.. ЗАД.
 
-STRIPE, &. SIDE COVER
+НХ-1
 
-TYPE 1
+НХ-1
 
-TYPE 2
+МАРК, ДВИЖИТЕСЬ ОСТОРОЖНО
 
-STRIPE, i. SIDE COVER
+А-03
 
-TYPE
+А-03
 
-TYPE 2
+ПОЛОСКА, ПРАВЫЙ ТОПЛИВНЫЙ БАК
 
-SUB FRAME COMP.
+ТИП 1
 
-Black
+ТИП 2
 
-COLOR CODE
+ПОЛОСКА,
 
-NH-1
+1. ТОПЛИВНЫЙ БАК
 
-NH-1
-
-NH-I/TYPE 1
-
-NH-1/TYPE 2
-
-When appplicable, ‘From:’ and ‘To:' followed by a Seriol Number in the Description column,
-
-NH-1
-
-NH-|
-
-NH-1
-
-NH-]
+ТИП
 
 1
 
-application range when present; ‘A/C: followed by o code indicates the Area Code.
+ТИП 2
 
-A
+ПОЛОСКА,
 
-SUB FRAME COMP.
-AC
+&. РР. ОБТЕКАТЕЛЬ
 
-TANK COMP., FUEL
-
-vm
-
-NHIH
-
-Black
-
-indicates the
-
-COVER SET, R. SIDE
-
-A/C:
-
-NHIK
-
-COLOR
-
-A/C: AC
-
-A/C: AC
-
-A/G:
-
-VF700S, '85
-
-COLOR LABEL
-
-TANK COMP., FUEL
-
-A/G: A
-
-A/C:
-
-Color Application Chart
-* When ordering a part of a particular color or type, refer to the chart below for the model color and color label application.
-* (WL) = Stripes and tabels other than caution labels are included in parts whose part name end in (WL).
-* (WOL) = Stripes and labels are not included in parts whose part name end in (WOL).
-
-NH-1/TYPE
+ТИП
 
 1
 
-NH-1/TYPE
+ТИП 2
+
+СТРАЙП, Л. РР. ОБТЕКАТЕЛЬ
+
+ТИП
+
+1
+
+ТИП 2
+
+ПОЛОСКА, &. БОКОВАЯ КРЫШКА
+
+ТИП 1
+
+ТИП 2
+
+ПОЛОСКА, т.е. БОКОВАЯ КРЫШКА
+
+ТИП
+
+ТИП 2
+
+ПОДРАМНЫЙ КОМП.
+
+Черный
+
+ЦВЕТОВОЙ КОД
+
+НХ-1
+
+НХ-1
+
+NH-I/ТИП 1
+
+НХ-1/ТИП 2
+
+Если применимо, «От:» и «Кому:», за которыми следует серийный номер в столбце «Описание»,
+
+НХ-1
+
+НХ-|
+
+НХ-1
+
+НХ-]
+
+1
+
+область применения при наличии; ‘A/C: за которым следует код o, указывает код города.
+
+А
+
+ПОДРАМНЫЙ КОМП.
+переменного тока
+
+БАК, ТОПЛИВО
+
+вм
+
+НХИХ
+
+Черный
+
+указывает на
+
+КОМПЛЕКТ КРЫШЕК, ПРАВАЯ СТОРОНА
+
+Кондиционер:
+
+НХИК
+
+ЦВЕТ
+
+кондиционер: переменный ток
+
+кондиционер: переменный ток
+
+А/Г:
+
+ВФ700С, 85 г.
+
+ЦВЕТНАЯ ЭТИКЕТКА
+
+БАК, ТОПЛИВО
+
+А/Г: А
+
+Кондиционер:
+
+Таблица применения цветов
+* При заказе детали определенного цвета или типа см. приведенную ниже таблицу цветов модели и цветовой этикетки.
+* (WL) = полосы и таблички, кроме предупредительных надписей, имеются в деталях, названия которых заканчиваются на (WL).
+* (WOL) = Полосы и этикетки не включены в детали, названия которых заканчиваются на (WOL).
+
+NH-1/ТИП
+
+1
+
+NH-1/ТИП
 
 2
 
-A
+А
 
-© Amencan Honda Motor Co., Inc. 1993
+© Amencan Honda Motor Co., Inc., 1993 г.
 
-14MBOEM
+14МБОЭМ
 
 14MB0EM
 
-© American Honda Motor Co., inc. 1993
+© Американская Honda Motor Co., Inc. 1993 год
 
 IX
 
-GRID |
+СЕТКА |
 
-A5
+А5
 
-Memo
+Памятка
 
-fManuals
-NUMBER
+fРуководства
+НОМЕР
 
-MANUAL
+РУКОВОДСТВО
 
-DESCRIPTION
+ОПИСАНИЕ
 
 &1MB004
 3 1MB0610
 3 1MB0620
 
-VE700S '84-"85 SERVICE MANUAL
-VE700S ‘84 OWNER'S MANUAL
-VF700S '8S OWNER'S MANUAL
+VE700S '84-"85 РУКОВОДСТВО ПО ОБСЛУЖИВАНИЮ
+VE700S '84 РУКОВОДСТВО ПОЛЬЗОВАТЕЛЯ
+РУКОВОДСТВО ПОЛЬЗОВАТЕЛЯ VF700S '8S
 
 xX
 
-© American Honda Motor Co., inc. 1993
+© Американская Honda Motor Co., Inc. 1993 год
 
-14MBOEM
+14МБОЭМ
 
-H/C
+Х/К
 
 1844505
 1783976
 1844513
 
-TaMBOEM © American Honda Motor Co., inc. 1993 XI
-GRID
+TaMBOEM © American Honda Motor Co., Inc. 1993 XI
+СЕТКА
 
-Model ID Photo
+Идентификационное фото модели
 
-a
+а
 
-Ld
+Лд
 
-a
+а
 
-Specifications
-SECTION/SUBJECT
+Технические характеристики
+РАЗДЕЛ/ТЕМА
 
 ii
 
-VE700S'84
+ВЭ700С'84
 
 |
 
-VF700S'85
+ВФ700С'85
 
-ENGINE
-Cylinder...
+ДВИГАТЕЛЬ
+Цилиндр...
 —
 
 °
 
-a
+а
 
-soe
+соэ
 
 *
 
-ote
+отметить
 
-‘
+'
 
 .
 -~
 
 .
 
-eens
+эны
 
-Strokes...
+Штрихи...
 
-BC
+до нашей эры
 
-Cooling...
+Охлаждение...
 
 2,
 
-Camsholt.
+Камшольт.
 
-Four
+Четыре
 
 .
 
 6
 
-Liquid
+Жидкость
 
-co.
+компания
 
-Valves per cylinder. 0.
+Клапаны на цилиндр. 0.
 
-Displacement ................
+Смещение ..............
 
-r
+р
 
-0.0...
+0,0...
 
-Lubrication system 0.00.00...
-Carburetor...
+Система смазки 0.00.00...
+Карбюратор...
 
-ow,
+ой,
 
-Moin jet..... 0... ....
-Slow jet
+Мойн Джет..... 0... ....
+Медленная струя
 
-Cytinder
+цитиндер
 
-4-Strote
-Cooled
+4-тактный
+Охлажденный
 
-4-Stroke
-liquid
+4-тактный
+жидкость
 
-Cooled
+Охлажденный
 
-DOHC
+ДОХК
 
-DOHC
+ДОХК
 
-4-Valve
+4-клапанный
 
-4-Valve
+4-клапанный
 
-699 cc
+699 куб.см
 
 899cec
 
-Wet Sums
+Влажные суммы
 
-Wet Sump
+Мокрый отстойник
 
 C V..A-ACVDSOE/VO02A
 
 C V._A-ACVDS50E/VDO2A
 
-#122" & 130
+#122" и 130
 
 2...
 
-Four Cylinder
+Четыре цилиндра
 
-# 40
+№ 40
 
 #122
 
@@ -1363,315 +1356,313 @@ Four Cylinder
 
 #40
 
-TRANSMISSION
-Transmission type.. ......
+ТРАНСМИССИЯ
+Тип передачи.. ......
 
-Manual
+Руководство
 
-Transmission speeds
+Скорость передачи
 
-Manual
+Руководство
 
-6-Speed
+6-скоростная
 
-6-Speed
+6-скоростной
 
-Clutch ......
+Сцепление......
 
 ......
 
 .
 
-Manuya!
+Мануя!
 
-Manual!
+Руководство!
 
-1-N-2-3-4-5-OD
+1-Н-2-3-4-5-ОД
 
-1-N-2-3-4-§-OB
+1-Н-2-3-4-§-ОБ
 
-Fuel tank capacity (Std).............
+Емкость топливного бака (стандартная).............
 
-4.8gal
+4,8 галлона
 
-Fuel tank capacity (Res)...
+Емкость топливного бака (Рес)...
 
-4 8gai
+4 8гай
 
-l.Igal
+л.Игал
 
-L.Tgal
+Л.Тгал
 
-Air filter type.
+Тип воздушного фильтра.
 
-Foorn
+Фурн
 
-Shift pattern .....
+Схема смены.....
 
-a
+а
 
-CHASSIS
+ШАССИ
 
 00.0,
 
-Foam filter oil - Pro Honda ......
+Поролоновый фильтр масляный - Про Хонда......
 
-Drive chain..........
+Приводная цепь..........
 
-P-N.
+П-Н.
 
 08207-0001
 
-Shalt Drive
+Шалт Драйв
 
-Front Brake...
+Передний тормоз...
 
-Foam
+Пена
 
-PN. 08207-0001
+ПН. 08207-0001
 
-Shalt Drive
+Шалт Драйв
 
-Doubie Disc
+Дуби Диск
 
-Double Disc
+Двойной диск
 
-internal expand shoe
+внутренний расширительный башмак
 
-Internal expand shoe
+Внутренний расширяемый башмак
 
-110.°90X 18-61H
+110°90X 18-61H
 
-110. 90% 18-61H
+110.90% 18-61ч
 
-32PS!
+32ПС!
 
 32PSi
 
-Rear tire...
+Задняя шина...
 
-130 “90x 17-68H
+130″ 90х 17-68Н
 
-Tie pressure .....000000.. 0...
+Давление связи .....000000.. 0...
 
-130- 90x 17-68H
+130-90х 17-68Н
 
-40PS!
+40ПС!
 
-40PS!
+40ПС!
 
-ees
+да
 
-0.12mm 0.905’)
+0,12 мм 0,905 дюйма)
 
-0.12mm (0.005')
+0,12 мм (0,005 дюйма)
 
-ee
+эээ
 
-0.12mm '0.005':
+0,12 мм '0,005':0,12 мм (0,0054
 
-0.12mm (0.0054
+Полностью переходный
 
-Fully Transitionized
+Полностью транс:ионизированный
 
-Fully Trans:tionized
+0,8-0,9 мм (0,031-0,0351
 
-0.8-0.9mm (0.031-0.0351
+0,8-0,9 мм (0,031-0,035)
 
-0.8-0.9mm (0.031-0.035)
+86+октановое число
 
-86+Octane
+86+октановое число
 
-86+Octane
+Кир Тормоз...
 
-Kear Brake...
+ссси
 
-ssi
+переднее колесо...
 
-front tire...
+а
 
-a
+Давление в шинах...
 
-Tire pressure...
+СЕРВИС/ТЮНИНГ
+Зазор клапана:
+Интоке
+Фух..0000000
 
-SERVICE/TUNING
-Valve clearance:
-Intoke
-Ewheust..0000000
+Сиэ
+эээ
 
-cee
-ee
+Тип зажигания.......
 
-Ignition type .......
+Шпора
 
-Spurl
+заглушка разрыв......... бочче.
 
-plug gap......... bocce.
+СМАЗКА
 
-LUBRICATION
+Восстановленное топливо 00.0000...
 
-Recon mended fuel 00.0000...
+(Продолжение)
 
-(Continued)
+VF700S’85 САБЛЯ
+© Американская компания Honda Motor Co., Inc., 1993 г.
 
-VF700S’85 SABRE
-© American Honda Motor Co., Inc. 1993
+14МБОЭМ
 
-14MBOEM
+14МБОЭМ
 
-14MBOEM
+® American Honda Motor Co., Inc., 1993 г.
 
-® American Honda Motor Co., Inc. 1993
+СЕТКА
 
-GRID
+А7
 
-A7
+Идентификационное фото модели
 
-Model ID Photo
+Технические характеристики
+РАЗДЕЛ/ТЕМА
 
-Specifications
-SECTION/SUBJECT
-
-VF700S'84
+ВФ700С'84
 
 1
 
-VF700S'85
+ВФ700С'85
 
-LUBRICATION (continued)
-Engine oil - Pro Honda:
+СМАЗКА (продолжение)
+Моторное масло - Про Хонда:
 
-GN4
+ГН4
 
 10W40. .
 
-GN4 20W50
+ГН4 20W50
 
-P/N: OF7 6-000)
+Артикул: OF7 6-000)
 
-PN: 08206-0001
+№: 08206-0001
 
-P/N:
+П/Н:
 
-P/N. 08206-0002
+П/Н. 08206-0002
 
 —. 16-0002
 
-Engine of capacity:
+Мощность двигателя:
 
-After draming
+После драмы
 |.
 
-3.2aqts
+3.2акта
 
-3.2aqts
+3.2акта
 
-Coolant type
-Cyolant ratio
+Тип охлаждающей жидкости
+Циолантное соотношение
 
-P/N: CUG8730
+Артикул: CUG8730
 50°50
 
-P/N. CU08730
-50. SG
+П/Н. CU08730
+50. СГ
 
-Drive shaft and final
+Приводной вал и конечный
 
-gear
+шестерня
 
-Pro Hondo shalt drive
+Про Хондо будет ездить
 
-case
+дело
 
-of
+из
 
-P“N:
+П'Н:
 
 08208-0080
 
-P-N. 08208-0080
+П-Н. 08208-0080
 
-P’N.
+П'Н.
 
 98208-0010
 
-PN
+ПН
 
-Fork oul:
-Pro Honda
-Viscosity
+Вилка:
+Про Хонда
+Вязкость
 
-Capacity after draining.
-Brake fludd - ro Honda
+Емкость после слива.
+Тормозная жидкость - для Honda
 
-DOT 4...
+ДОТ 4...
 
 08208-0010
 
-10VW
+10ВВ
 
-low
+низкий
 
-Rt 340./360CC
+Рт 340./360CC
 
-RL 340/360CC
+РЛ 340/360CC
 
-P-N:
+П-Н:
 
 08203-0004
 
-PN:
+ПН:
 
 08263-0004
 
-PeN
+ПЕН
 
 98203-0004
 
-P-N
+П-Н
 
 08203-0004
 
-Hydraulic clutch fluid
+Жидкость гидравлического сцепления
 
-Pro Honda DOT 4 Broke fluid
+Pro Honda DOT 4 Тормозная жидкость
 
-VF700S’85 SABRE
+VF700S’85 САБЛЯ
 xIV
 
-© American Honda Motor Co., inc. 1993
+© Американская Honda Motor Co., Inc. 1993 год
 
-14MBOEM
+14МБОЭМ
 
-14MBOEM
+14МБОЭМ
 
-© American Honda Motor Co., Inc.
+© Американская Honda Motor Co., Inc.
 
-1993
+1993 год
 
 XV
 
-GRID
+СЕТКА
 
-A&
+А&
 
-Bulk Hose
+Массовый шланг
 
-Bulk Hose
+Массовый шланг
 
-BULK HOSE CROSS REFERENCE CHART
-To convert a cut hose part number to the equivalent of roll hose simply match the two part numbers using the following chart,
+ТАБЛИЦА ПЕРЕКРЕСТНЫХ ССЫЛОК НА ОБЪЕМНЫЕ ШЛАНГИ
+Чтобы преобразовать номер детали обрезанного шланга в эквивалент рулонного шланга, просто сопоставьте два номера детали, используя следующую таблицу:
 
-cutting the required length indicated by the cut hose part number.
-Port Number
-FUEL HOSE
+отрежьте необходимую длину, указанную номером детали обрезанного шланга.
+Номер порта
+ТОПЛИВНЫЙ ШЛАНГ
 
-CURRENT
-CATALOG LISTING
+ТЕКУЩИЙ
+СПИСОК В КАТАЛОГЕ
 
-(Example)
+(Пример)
 
-VACUUM HOSE
+ВАКУУМНЫЙ ШЛАНГ
 
 }-
 
@@ -1683,28 +1674,28 @@ VACUUM HOSE
 
 ~
 
-40M
-poem
+40М
+стихотворение
 
-BULK HOSE
+ОБЪЕМНЫЙ ШЛАНГ
 
-CURRENT BULK HOSE
-CATALOG USTING PART NUMBER
+ТЕКУЩИЙ ОБЪЕМНЫЙ ШЛАНГ
+КАТАЛОГ НОМЕР ДЕТАЛИ USTING
 
-PART NUMBER
+НОМЕР ДЕТАЛИ
 
 95001-38~ — — -2————
 95001-35~ — — -4———
 
-95001-35003-20M
+95001-35003-20М
 
 95005-35 —
 
 95001-45
 — — — -2———>
 
-95001~35003-40M
-95001~45003-20M
+95001~35003-40М
+95001~45003-20М
 
 9500145
 —~ — — -4
@@ -1712,20 +1703,20 @@ PART NUMBER
 95005-35 ~
 95005-35 —
 
-9500 1~45008-40M
+9500 1~45008-40М
 
 95001-55
 ~ — — -2————
 
-9500 1~55008-20M
+9500 1~55008-20М
 
 95001-5§— — —~ -4———
 
-9500}~55008-40M
+9500}~55008-40М
 
 95001-7§—~ — — -4———
 
-9500 1-7 5008-40M
+9500 1-7 5008-40М
 
 ~~
 
@@ -1733,43 +1724,43 @@ PART NUMBER
 
 95005-50 ~
 
-eine eel
+Эйне угорь
 
-95005-50003-30M
+95005-50003-30М
 
 95005-55 ~~
 
-catenin aamnael
+катенин амнаэль
 
-95005-55003-20M
+95005-55003-20М
 
 —
 
 95005-75 ~
 
-95005-8C ~
+95005-8С ~
 
-Appearance Code Key
-For Type
+Ключ кода внешнего вида
+Для типа
 
-oo
+оо
 
 95005-12 ~
 
-exterior
+экстерьер
 
-95005-7 5003- 15M
+95005-7 5003- 15М
 
-For Type 5 ONLY Vacuum:
-95005-80008-10M
+ТОЛЬКО для вакуума типа 5:
+95005-80008-10М
 
 1:
 
-9500 1-35003-20M
+9500 1-35003-20М
 
 2380533
 
-9500 i-35003-40M
+9500 и-35003-40М
 
 3.4
 
@@ -1778,189 +1769,187 @@ For Type 5 ONLY Vacuum:
 
 3.4
 
-Dark gray, smooth exterior
+Темно-серый, гладкий внешний вид
 
-2: Dark gray, smooth exterior
+2: темно-серый, гладкий внешний вид.
 
-99695-12003-10M
+99695-12003-10М
 
-3: Black, smooth exterior
-Length
+3: Черный, гладкий внешний вид
+Длина
 
-FUEL HOSE
-H/C
+ТОПЛИВНЫЙ ШЛАНГ
+Х/К
 
-ONLY Fuel:
+ТОЛЬКО Топливо:
 
-4: Gray with red stripe, smooth
+4: Серый с красной полосой, гладкий
 
-ORDERING INFORMATION
+ИНФОРМАЦИЯ ДЛЯ ЗАКАЗА
 
-PART NUMBER
+НОМЕР ДЕТАЛИ
 
 1
 
-2: Rad, braided exterior
+2: Rad, внешняя оплетка
 
-95005-70003-30M
+95005-70003-30М
 
 93005-75 ~—
 
 95005-80 —
 
-have an "'M’”’ in this position
+в этой позиции есть буква «М»
 
-pe 95005-4500B-10M
+пэ 95005-4500Б-10М
 
 95005-45 —
 
 95005-80 —
 
-All Roll hose Part Numbers
+Все каталожные номера рулонных шлангов
 
 95005-35008
 
-a
+а
 
 95005-45 —
 
-Roll Hose
+Рулонный шланг
 
 2—
 
 9005-70 —
 
-INSIDE DIAMETER
-mm
+ВНУТРЕННИЙ ДИАМЕТР
+мм
 
-ROLL LENGTH
-3M 1F Sin
-3M (9.94)
+ДЛИНА РУЛОНА
+3M 1F Грех
+3М (9,94)
 
-inside
+внутри
 
-Cut
+Вырезать
 
-Hose = length is in millimeters {mm}
+Шланг = длина в миллиметрах {мм}
 
-Bulk
+Массовый
 
-Hose
-= length is in meters (Mj
+Шланг
+= длина в метрах (МДж
 
-Diameter Code
+Код диаметра
 
-9500 1-4 5003-20M
+9500 1-4 5003-20М
 
 2380558
 
-4.5
+4,5
 
-fmm
+фмм
 
 55=
 
-5.3mm or §.5mm
+5,3 мм или §.5 мм
 
 2324986
 
-3M (9.941)
+3М (9,941)
 
-12 = 12.0mm
+12 = 12,0 мм
 
-9500 1-4 5008-30M
+9500 1-4 5008-30М
 
 45
 
-mm
+мм
 
 35=
 
-3.5mm
+3,5 мм
 
 70
 =
 
-7.0mm
+7,0 мм
 
-9500 i-55008-20M
+9500 и-55008-20М
 
 2386 134
 
-mm
+мм
 
 45=
 
-4.5mm
+4,5 мм
 
-9500 1~55008-30M
+9500 1~55008-30М
 
 5.3
 
-75=
-
-7.3mm or 7.5mm
+75=7,3 мм или 7,5 мм
 
 2385896
 
-3M (26. 4!)
-8M (26. 4ft}
+3М (26,4!)
+8М (26,4 фута}
 
-mm
+мм
 
-9500 1~/5003-20M
+9500 1~/5003-20М
 
-$3
+3 доллара
 
 2385094
 
-BM (26 4ff}
+БМ (26 4ff}
 
 50 =
 
-5.0mm
+5,0 мм
 
-7.5
+7,5
 
 80
 =
 
-8.0mm
+8,0 мм
 
-mm
+мм
 
-9500 1~75003-30M
+9500 1~75003-30М
 
 2385904
 
-3M (9.941
+3М (9,941
 
 7.4
 
-mm
+мм
 
-aM (9.944)
+утра (9.944)
 
-VACUUM HOSE
+ВАКУУМНЫЙ ШЛАНГ
 
-PART NUMBER
-a!
-wet
+НОМЕР ДЕТАЛИ
+а!
+мокрый
 
-95005-4 5008-10M
+95005-4 5008-10М
 
-95005-50003-30M
+95005-50003-30М
 
-?5005-55008- 10M
-9§005-65003-20M
+?5005-55008- 10М
+9§005-65003-20М
 
-95005-75003-10M
-95005-80008 -10M
-95005-12003-10M
+95005-75003-10М
+95005-80008-10М
+95005-12003-10М
 
-95005-14003-20M
+95005-14003-20М
 
-H/C
+Х/К
 2325082
 2380608
 
@@ -1970,60 +1959,60 @@ H/C
 2380640
 2325108
 
-€ Amencan H -nda Motor Co., Inc.
+€ Amencan H-nda Motor Co., Inc.
 
-fam
+семья
 
-mm
+мм
 
-mm
-mm
+мм
+мм
 
-ROLL LENGTH
+ДЛИНА РУЛОНА
 
-BM (26.411)
-3M (9.94)
-8M (26 411)
+БМ (26.411)
+3М (9,94)
+8М (26 411)
 
-mim
+мим
 
-3M (9.941)
+3М (9,941)
 
-mm
+мм
 
-3M (9.941)
-8M (26 441)
+3М (9,941)
+8М (26 441)
 
-mm
+мм
 
 2380657
 
-mm
+мм
 
-3M (9.941)
+3М (9,941)
 
-mm
+мм
 
-3M (9 94s)
+3М (9 94с)
 
-14MBOEM
+14МБОЭМ
 
-Fuel
+Топливо
 
-Hose
+Шланг
 
-§ = Vacuum Hose
+§ = Вакуумный шланг
 
-BM (26.41
+БМ (26,41
 
 2380665
 
-1993
+1993 год
 
-Type Code Key
+Тип Код Ключ
 1
 
-INSIDE DIAMETER
+ВНУТРЕННИЙ ДИАМЕТР
 
 2325058
 
@@ -2032,68 +2021,68 @@ XVI
 
 8
 
-CAUTION: Damage to vacuum hose will result from contact with fue!. Do not use vacuum hose in place of fuel hose.
+ВНИМАНИЕ: Контакт с топливом может привести к повреждению вакуумного шланга! Не используйте вакуумный шланг вместо топливного шланга.
 
-Do not use vacuum hose in place of fuel nose.
-14MBOEM
+Не используйте вакуумный шланг вместо топливного носика.
+14МБОЭМ
 
-© American Honda Motor Co., inc. 1993
+© Американская Honda Motor Co., Inc. 1993 год
 
-GRID
+СЕТКА
 
-AQ
+АК
 
-COMMONLY REQUIRED REPLACEMENT PARTS
+ЧАСТО ТРЕБУЕМЫЕ ЗАМЕННЫЕ ЧАСТИ
 4 = VE700S'B4
 
-nel
+нел
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-VE700S] A
+VE700S] А
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-A
+А
 
-: : c
+: : с
 
-Ret.
-No.
+В отставке.
+Нет.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-BATTERY (12V16)
+АККУМУЛЯТОР (12В16)
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-.t
+.т
 
-HONDA
+ХОНДА
 
-Ret
+Рет
 
 4;
 
-FROM
+ОТ
 
-Q | PART NUMBER
+вопрос | НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-No.
+Нет.
 
-JE;
+ДЭ;
 
-..cssecceeessene | 4 | 5 |
+..cssecceeessen | 4 | 5 |
 
 [ecenen=
 
-TO
+ТО
 
-seneee=]
+сенеее=]
 
 1
 
@@ -2103,37 +2092,37 @@ seneee=]
 
 131500-415-601
 
-menese- | 4
+менезе- | 4
 
-wee~--|
+пи~--|
 
-[erecene
+[эрецен
 
-meses]
+месес]
 
-BATTERY ASSY. (YUASA) ...seseseee | 4 | 5]
+АККУМУЛЯТОРНАЯ БАТАРЕЯ В СБОРЕ. (ЮАСА) ...сесеси | 4 | 5]
 
-[enenem—
+[эненем —
 
-=m]
+=м]
 
-BATTERY ASSY. (YUASA) ..e.eeeeeee | 4 | 5]
+АККУМУЛЯТОРНАЯ БАТАРЕЯ В СБОРЕ. (ЮАСА) ..э.ееееее | 4 | 5]
 
-ferenen=
+Ференен=
 
-BULB, TAILLIGHT (12V27/7m 2057HD) | 415]
+ЛАМПОЧКА ЗАДНЕГО ФОНА (12V27/7m 2057HD) | 415]
 
-BULB, TAILLIGHT (12V 27/80) 2.00.14 | 5
-BULB, TURN SIGNAL (12V23/8W)
-(STANLEY) ..ccucccessees peeeee
+ЛАМПОЧКА ЗАДНЕГО ФОНА (12В 27/80) 2.00.14 | 5
+ЛАМПОЧКА, СИГНАЛ ПОВОРОТА (12V23/8W)
+(СТЭНЛИ) ..ccccessees peeeee
 
 415
 
-FUSE, BLADE (0A) ss seeeessseeee |
+ПРЕДОХРАНИТЕЛЬ ЛЕЗВИЧНЫЙ (0A) нержавеющая сталь смееееее |
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-HEADLIGHT UNIT ....seceescesereel
+ФАРА ....seceescesereel
 
 & | 5
 
@@ -2141,9 +2130,9 @@ HEADLIGHT UNIT ....seceescesereel
 
 |33120-ME5-670
 
-KEY, BLANK (TYPE 1) ..saseseeseee] @ 5
+КЛЮЧ, БЛАНК (ТИП 1) ..saseseeseee] @ 5
 
-KEY, BLANK (TYPE 2)
+КЛЮЧ, ЗАГОЛОВОК (ТИП 2)
 
 1
 
@@ -2153,7 +2142,7 @@ KEY, BLANK (TYPE 2)
 
 1550631
 
-LENS, TURN SIGNAL .eseseesseeesee |G | 5
+ЛИНЗА, СИГНАЛ ПОВОРОТА .eseseesseeesee |G | 5
 
 (1)
 
@@ -2167,15 +2156,15 @@ LENS, TURN SIGNAL .eseseesseeesee |G | 5
 
 1260397
 
-[-----me
+[-----я
 
-weeem= | 1
+мыэм= | 1
 
 134901-NC7-601
 
 1288612
 
-MIRROR, L. cesssseseeseesceeseee
+ЗЕРКАЛО, Л. cessseseeseeseeseeee
 
 [-------
 
@@ -2199,7 +2188,7 @@ MIRROR, L. cesssseseeseesceeseee
 
 0273540
 
-MIRROR, Re sesscssesseseseereee | 4 | 5
+ЗЕРКАЛО, Re sesscssesseseseeereeee | 4 | 5
 
 1
 
@@ -2209,9 +2198,9 @@ MIRROR, Re sesscssesseseseereee | 4 | 5
 
 |-------
 
-.essceseeesee]
+.essceseeeesee]
 
-|G | 5
+|Г | 5
 
 (2) |98069-57916
 
@@ -2221,7 +2210,7 @@ MIRROR, Re sesscssesseseseereee | 4 | 5
 >
 
 |98069-57916
-logogo-sa9%4
+логотип-sa9%4
 
 1102076
 1103084
@@ -2234,8 +2223,8 @@ logogo-sa9%4
 1103092
 1103092
 
-PLUG, SPARK (X22EPR-U9 ND)... 45
-PLUG, SPARK (X2EPR-U9 ND) ...... 45
+СВЕЧА ЗАЖИГАНИЯ (X22EPR-U9 ND)... 45
+СВЕЧА ИСКРЫ (X2EPR-U9 ND) ...... 45
 
 (2) |98069-57926
 2 198069-58926
@@ -2260,29 +2249,29 @@ logoee-s0926
 
 0824326
 
-PLUG, SPARK (DPR7EA-9 NGK)
-PLUG, SPARK (OPRBEA~9 NGK)
+СВЕЧА ЗАЖИГАНИЯ (DPR7EA-9 NGK)
+СВЕЧА ЗАЖИГАНИЯ (OPRBEA~9 NGK)
 
-emer] 2
+Эмер] 2
 [34905
 268-671
-semen] 6 | 22201-HB0-003
-om) 6 1222015 -000
+сперма] 6 | 22201-HB0-003
+ом) 6 1222015 -000
 
 0745518
 ehess1
 3143401
 
-PLUG, SPARK (DPRBEA~9 NGK) ...... 45
-PLUG, SPARK (DPROEA-9 NGK) ....0. 45
-PLUG, SPARK (OPRIEA-9NGK) ....0. 6's
+СВЕЧА ЗАЖИГАНИЯ (DPRBEA~9 NGK) ...... 45
+СВЕЧА ИСКРЫ (ДПРОЭА-9 НГК)....0. 45
+СВЕЧА ИСКРЫ (ОПРИЯ-9НГК)....0. 6-е
 
 1
 
 |15610-MJ0-07~
 
-men] 1 | 154 10-10-006
-nn) 2 19820021000
+мужчины] 1 | 154 10-10-006
+нн) 2 19820021000
 
 = —-~--1
 
@@ -2294,19 +2283,19 @@ nn) 2 19820021000
 ......
 .....
 
-PLUG, SPARK CXZ2EPRCUO ND)...
+СВЕЧА ЗАЖИГАНИЯ CXZ2EPRCUO ND)...
 
 4
 5
-4s
+4 с
 
-ais
+аис
 
 5
 
 {98200-21500
 
-PLUG, SPARK (KO4EPR-U9 ND)...
+СВЕЧА ИСКРЫ (KO4EPR-U9 ND)...
 
 4
 
@@ -2316,18 +2305,16 @@ PLUG, SPARK (KO4EPR-U9 ND)...
 
 0412676
 
-PLUG, SPARK (K27EPR-U9 ND)...
+СВЕЧА ИСКРЫ (К27ЭПР-У9 НД)...
 
 45
 
-memenmn | 7 | 98200-31000
+память | 7 | 98200-31000
 ~---~--|
 
 2.
 
-Vold228
-
-PLUG, SPARK (X27EPR-U9 ND) ...0s. 4 5
+Волд228СВЕЧА ИСКРЫ (X27EPR-U9 ND) ...0 с. 4 5
 
 19820-31500
 
@@ -2337,9 +2324,9 @@ PLUG, SPARK (X27EPR-U9 ND) ...0s. 4 5
 
 415
 
-|Al-m-n-m-
+|Аль-м-н-м-
 
-ween
+когда
 
 & | 16010-MB0-671
 
@@ -2347,33 +2334,33 @@ ween
 
 |
 
-GASKET SET
+КОМПЛЕКТ ПРОКЛАДОК
 
-oo... .sceeceeececeace
+оо... .sceeceeececeace
 
 4)
 
 5
 
-[Al-nem--=
+[Аль-нем--=
 
 ===]
 
 4
 
-| 16010-NB0-871
+| 16010-НБ0-871
 
 3516416
 
 |
 
-GASKET SET
+КОМПЛЕКТ ПРОКЛАДОК
 
-....csseesssececeeees
+....csseessseceeeees
 
 415
 
-tlen-----
+тлен-----
 
 ~~~
 
@@ -2383,37 +2370,37 @@ tlen-----
 
 1426014
 
-GASKET SET
+КОМПЛЕКТ ПРОКЛАДОК
 
-«2.0.20. seesesseneeee | 4 | 5
+«2.0.20. видеться | 4 | 5
 
-PAlfemenene
+ПАльфеменен
 
-wemnene | 4
+вемен | 4
 
 | 16070-MB4-622
 
 2249340
 
-GASKET SET
+КОМПЛЕКТ ПРОКЛАДОК
 
-oe eceseeesess eveeees
+оу, есееесесс, ивиееес
 
-ee
+эээ
 
-GASKET SET
+КОМПЛЕКТ ПРОКЛАДОК
 
-oo... ceceseseseeeeeee
+оо... ceceseseseeeeeeee
 
 4}
 
-oe
+ой
 
 65 |
 
-[anne
+[Энн
 
-weeeem=]
+уееем=]
 
 4
 
@@ -2432,21 +2419,21 @@ weeeem=]
 0483438
 0483420
 
-GRIP, R. HANDLEBAR ...escseeeeee [4S]
+РУЧКА, ПРАВЫЙ РУЛЬ ...выключитеееее [4S]
 
-[enenene
+[эненен
 
--ne---]
+-не---]
 
 4
 
 |53465-390-780
 
-HANDLEBAR ...eseceseseeecesnenes | 4 | 5 |
+РУЛЬ ...eseceseseeecesnenes | 4 | 5 |
 
-[ecenene
+[эценен
 
-0 weeeene
+0 чуееееень
 
 1
 
@@ -2454,9 +2441,9 @@ HANDLEBAR ...eseceseseeecesnenes | 4 | 5 |
 
 1782218
 
-HANDLEBAR, COMP., Re seseseseseee | 415 |
+РУЛЬ, КОМП., Re seseseseesee | 415 |
 
-[eseees-weneen= | 4
+[seeees-weneen= | 4
 
 153175-HN6-008
 
@@ -2464,9 +2451,9 @@ HANDLEBAR, COMP., Re seseseseseee | 415 |
 
 XVOI
 
-© American Honda Motor Co., inc. 1993
+© Американская Honda Motor Co., Inc. 1993 год
 
-14MBOEM
+14МБОЭМ
 
 «2
 
@@ -2474,15 +2461,15 @@ XVOI
 
 ....cceseesesenasees
 
-Wtl----0 --------
+Втл----0 --------
 
 1246750
 
-PLUG, SPARK (DPR7EA=9 NGK? ...... 415
+СВЕЧА ИСКРЫ (DPR7EA=9 NGK? ...... 415
 
-GASKET SET
+КОМПЛЕКТ ПРОКЛАДОК
 
-GRIP, L. HANDLEBAR ....scse.es000
+РУЧКА, Л. РУЛЬ ....scse.es000
 
 1390517
 
@@ -2490,39 +2477,39 @@ GRIP, L. HANDLEBAR ....scse.es000
 
 0742981
 
-fromm
+Фромм
 
 5
 
 (1) [35121-KW3-771
 
-CODE
+КОД
 
 131500-425-671
 
-fa——-—~-
+фа——-—~-
 
 |
 
-Q
+вопрос
 
-TO
+ТО
 
 3029857
 
 2
 
-FUSE, BLADE (15A) ..eseseseeecees --|5 |
+ПРЕДОХРАНИТЕЛЬ ЛЕЗВИЧНЫЙ (15А) ..eseseeeecees --|5 |
 
-FROM
+ОТ
 
-1E|
+1Е|
 
-135124-ma6-811
+135124-ма6-811
 
-FILTER, OLL ..--ssesererereenees 43 | pom
-FUSEB (TOA) w+ ses sserreeerereees 41] poo
-bine]
+ФИЛЬТР, OLL ..--sseserererenees 43 | помпон
+FUSEB (TOA) w+ ses sserreeerereees 41] пу
+бине]
 
 4,5
 
@@ -2530,79 +2517,79 @@ bine]
 
 415
 
-FUSEF (30K) ve ccceceseeesececees
+FUSEF (30 тысяч) и ccceceeeesececees
 
-DESCRIPTION
+ОПИСАНИЕ
 
-HONDA
+ХОНДА
 
 (1) [35122-KW3-771
 
 [415
 
-FUSE
-B
-CISA) ve cecececesssnceeees
+ПРЕДОХРАНИТЕЛЬ
+Б
+CISA) и cecececesssnceeees
 
-:a
+:а
 
-|G | 5
+|Г | 5
 
 1 |31500-415-671
 
 0905455
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-KEY, BLANK (TYPE
-1) seseeuceeeeee
+КЛЮЧ, ЗАГОЛОВОК (ТИП
+1) сесеееееее
 
-BULB, TURN SIGNAL (12V 23H) ...... 4S]
-poo
-DISK, CLUTCH FRICTION ...++++.+05 4) 2 | poo
-DISK, CLUTCH FRICTION ....+.++404 4) 3]
-[om
-ve scceseseeesecvones
+ЛАМПОЧКА, СИГНАЛ ПОВОРОТА (12В 23Ч) ...... 4S]
+какать
+ДИСК ТРЕНИЯ СЦЕПЛЕНИЯ ...++++.+05 4) 2 | какать
+ДИСК ТРЕНИЯ СЦЕПЛЕНИЯ ....+.++404 4) 3]
+[ом
+ве scceseseeesecvones
 
 1053990
 
 1288521
 
-4/5 S
+4/5 ю.ш.
 
-KEY, BLANK (TYPE 2) .esscaseessee] & | 5
+КЛЮЧ, БЛАНК (ТИП 2) .esscaseeesee] & | 5
 
-BATTERY ASSY. CYUASA) ...seseeeee | 4 | 5 | [eceeene
+АККУМУЛЯТОРНАЯ БАТАРЕЯ В СБОРЕ. КЮАСА) ...сесеееее | 4 | 5 | [eeeene
 14/5 |
 
 1 131500-461-772
 
-: c
+: с
 
-T
+Т
 
 0668244
 
-BATTERY ASSY. (YUASA) ..eeecseeee | 4 | 5 | [orenene 0 weneeee
+АККУМУЛЯТОРНАЯ БАТАРЕЯ В СБОРЕ. (ЮАСА) ..ееееееее | 4 | 5 | [оренен 0 вееееее
 
-BULB, HEADLIGHT (H4 JA12V60/55u)
+ЛАМПОЧКА ФАРЫ (H4 JA12V60/55u)
 
-A
+А
 
-4/15 °
+4/15°
 5
 
 vF700s}4
 
 ¢
 
-BATTERY (12V14) ceseceeeeeenesee | 4 | 5
+АККУМУЛЯТОР (12V14) ceseceeeeeenesee | 4 | 5
 
-FILTER, OIL
+ФИЛЬТР МАСЛЯНЫЙ
 
-COMMONLY REQUIRED REPLACEMENT PARTS
+ЧАСТО ТРЕБУЕМЫЕ ЗАМЕННЫЕ ЧАСТИ
 
-14MBOEM
+14МБОЭМ
 
 {98069-57926
 
@@ -2610,131 +2597,130 @@ COMMONLY REQUIRED REPLACEMENT PARTS
 
 1096825
 
-© American Honda Motor Co.. inc. 1993
+© Американская Honda Motor Co.. Inc. 1993 год
 
 XIX
 
-GRID
+СЕТКА
 
-A10
+А10
 
-CONTENTS BY PAGE NO. SEQUENCE
-PAGE TITLE
+СОДЕРЖАНИЕ ПО НОМЕРУ СТРАНИЦЫ. ПОСЛЕДОВАТЕЛЬНОСТЬ
+НАЗВАНИЕ СТРАНИЦЫ
 
-PAGE
+СТРАНИЦА
 
-PAGE
+СТРАНИЦА
 
-GAID
+ГАИД
 
-CYLINDER HEAD COVER ..............-.
-FRONT CYLINDER HEAD ...............
+КРЫШКА ГОЛОВКИ ЦИЛИНДРОВ..............-.
+ПЕРЕДНЯЯ ГОЛОВКА ЦИЛИНДРА..........
 
-Bi
-Bi
+Би
+Би
 
-FRAME 2.00.0.
+РАМКА 2.00.0.
 c eet e ee aes 123
-TOOLS 2c
+ИНСТРУМЕНТЫ 2с
 ccc cee ence ene eeee 126
 
 G11
 H1
 
-AIR CLEANER .............
-002 cece cease
-ALTERNATOR ..........
-cece eee eeeee
+ВОЗДУХООЧИСТИТЕЛЬ .............
+002 все прекращается
+ГЕНЕРАТОР ..........
+Сесе ееееееее
 
-REAR CYLINDER HEAD ................
-CAMSHAFT # VALVE 2.0.0.6... cece eee
-CAM CHAIN © TENSIONER ..............
-RIGHT CRANKCASE COVER ...........-.
-CLUTCH 0.
-ec
-cc
-cere eee eee
-PULSE ALTERNATOR ¢ STARTER CLUTCH
+ЗАДНЯЯ ГОЛОВКА ЦИЛИНДРА..........
+РАСПРЕДВАЛ № КЛАПАН 2.0.0.6... cece eee
+РАСПРОСТРАНИТЕЛЬ ЦЕПИ © НАТЯЖИТЕЛЬ ..............
+КРЫШКА КАРТЕРА ПРАВАЯ...........-.
+СЦЕПЛЕНИЕ 0.
+ЕС
+копия
+cere эээ ээ
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ¢ СТАРТЕРНАЯ МУФТА
 
-B3
-B4
-BS
-B6
-B7
-BS
+Б3
+Б4
+БС
+Б6
+Б7
+БС
 
-STRIPE 20... eect
-reer eens 128
-CANISTER (AC) .......-...0.ccneeeeeeee 132
+ПОЛОСКА 20... эффект
+Рир Энс 128
+КАНИСТРА (переменного тока) .......-...0.ccнееееееее 132
 
-H2
-H4
+Н2
+Н4
 
 16
 
-GRID
+СЕТКА
 
-PAGE TITLE
+НАЗВАНИЕ СТРАНИЦЫ
 
-CONTENTS IN ALPHABETICAL ORDER
-PAGE TITLE
+СОДЕРЖАНИЕ В АЛФАВИТНОМ ПОРЯДКЕ
+НАЗВАНИЕ СТРАНИЦЫ
 
-PAGE
+СТРАНИЦА
 
-GRID
+СЕТКА
 
-PAGE
+СТРАНИЦА
 
-GRID
+СЕТКА
 
 97
 18
 
 F10
-B9
+Б9
 
-STARTER CLUTCH ...............2.000,
-STARTER MOTOR ..........-0.0ceceeee
+СТАРТЕРНАЯ МУФТА..........2.000,
+СТАРТЕР ..........-0.0ceceeee
 
 16
 22
 
-BS
-B11
+БС
+Б11
 
-BATTERY
+АККУМУЛЯТОР
 ........
-0 ccc cece
-ee tee weet nes 95
-BAAKE CALIPER, FR. ...... 2...
-eae 76
-BRAKE MASTER, FR. ...... 0.0.00. 0. 61
-BRAKE PANEL, RAL
-o.oo...
-eee
-eee ees 80
-BRAKE PEDAL..........
-0.00 ceca eeu 102
-CABLES .. 0. cece ccc e ee eet en eeees 59
+0 CCCECE
+ee тройка weet nes 95
+БААКЕ СУППОРТ, FR. ...... 2...
+еаэ 76
+ТОРМОЗНОЙ МАСТЕР, ФР. ...... 0.0.00. 0. 61
+ТОРМОЗНАЯ ПАНЕЛЬ, RAL
+оооо...
+эээ
+ееее 80
+ПЕДАЛЬ ТОРМОЗА..........
+0,00 CECA ЕЕС 102КАБЕЛИ .. 0. cece ccc e ee eet en eeees 59
 
 F9
-E12
-E4
-F2
-G1
-E3
+Е12
+Е4
+Ф2
+Г1
+Е3
 
-STEERING STEM ............0c0n
-eee eee
+РУЛЕВОЙ ШТОК............0c0n
+эээ ээ
 9
-STRIPE ....... 00... eee eee cence ee eaee
-SWINGARM ... 0.00...
+ПОЛОСКА....... 00... эээ ээ цеце ээээ
+ПОВОРОТНИК... 0,00...
 c cee cere ane
-SWITCHES
+ПЕРЕКЛЮЧАТЕЛИ
 .....0..
 002
-cece cece ena
-TAILLIGHT 2.00.0. cee cece eee cee ee eee
+Сесе Сесе Эна
+ЗАДНИЙ ФОНАР 2.00.0. си си си си си еее
 
 68
 104
@@ -2743,250 +2729,250 @@ TAILLIGHT 2.00.0. cee cece eee cee ee eee
 59
 116
 
-E8
-Ge
-H2
+Е8
+Ге
+Н2
 G4
-E3
+Е3
 G8
 
-GAM CHAIN ..0.... 0... eee cee eee
-CAMSHAFT
+ГАМ ЦЕПЬ ..0.... 0... эээ си эээ
+РАСПРЕДВАЛ
 ......0...
 00.
 cc cece eas
 
-BS
-BA
+БС
+бакалавр
 
-TENSIONER .... 0... e cece
-ee eae eee
-THERMOSTAT ... 00... cee eee cece eens
+НАТЯЖИТЕЛЬ .... 0... и так далее
+э-э-э-э-э-э
+ТЕРМОСТАТ ... 00... cee eee cece eens
 
 10
 
-B5
+Б5
 
 40
 
-ce
+CE
 
-ALTERNATOR
+ГЕНЕРАТОР
 2.0000...
-.c
-ccc cence eee
-LEFT CRANKCASE COVER e WATER
+.с
+ccc cence еее
+КРЫШКА КАРТЕРА ЛЕВАЯ И ВОДА
 
-BS
+БС
 
-gO
+иди
 |
-STARTER MOTOR . 2.0.0...
-cece cee eee
+СТАРТЕР МОТОР. 2.0.0...
+Сиси Си Эээ
 
-CANISTER (AC)
+КАНИСТРА (AC)
 .........
 000.
-eee eee ees 132
-CARBURETOR ASSY.........0 000000 c cues 44
-CARBURETOR COMPONENT ............ 48
+эээ-э-э-э-эс 132
+КАРБЮРАТОР В СБОРЕ.........0 000000 c кий 44
+КОМПОНЕНТ КАРБЮРАТОРА............ 48
 
-H4
-c10
-C12
+Н4
+с10
+С12
 
-TOOLS oo... ccc cece nce een eeeneaas 126
-TOP BRIDGE ...........
+ИНСТРУМЕНТЫ оо... ccc cece ence een eeeneaas 126
+ВЕРХНИЙ МОСТ............
 0...
-cece ees 66
+Сиси Эес 66
 
-OIL FILTER ¢ OIL PAN © OIL PUMP .......
+МАСЛЯНЫЙ ФИЛЬТР ¢ МАСЛЯНЫЙ ПОДДОН © МАСЛЯНЫЙ НАСОС .......
 
-B10
-B11
-Bi1
+Б10
+Б11
+Би1
 
 36
 
 H1
-E7
-C6
+Е7
+С6
 
-CYLINDER BLOCK ....0 00... ccc ccc e eee
-CRANKSHAFT ¢ PISTON ............-...
-TRANSMISSION . 2.0.0.0...
-ee cc eee eee
+БЛОК ЦИЛИНДРОВ ....0 00... ccc ccc e eee
+КОЛЕНВАЛ ¢ ПОРШЕНЬ ............-...
+ТРАНСМИССИЯ. 2.0.0.0...
+эээээээээээээ
 
-C1
-o<}
-C5
+С1
+о<}
+С5
 
-CARBURETOR UUNK
+КАРБЮРАТОР УУНК
 .....00
 22
-oe eee
-CLUTCH ... ooo
+оу эээ
+СЦЕПЛЕНИЕ... ооо
 ccc cect
-eaes
-CLUTCH MASTER CYLINDER ...........
+EAES
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ..........
 
 44
 14
 64
 
-C10
-B7
-E6
+С10
+Б7
+Е6
 
-TURN SIGNAL .................-005
-00s 114
-VALVE 200. ccc
-cece ener eeteee
+СИГНАЛ ПОВОРОТА...........-005
+00с 114
+КЛАПАН 200.ccc
+Cece Ener Eeeee
 8
-WATER PIPE
+ВОДЯНАЯ ТРУБА
 000.00.
-ce
-ee cee eee 40
+CE
+эээээээээээ 40
 
 G7
-B4
-ca
+Б4
+Калифорния
 
-GEARSHIFT DRUM ..................08,
-WATER PIPE e THERMOSTAT ...........
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ...............08,
+ВОДЯНАЯ ТРУБА и ТЕРМОСТАТ ...........
 
-C7
-cs
+С7
+CS
 
-CONTROL LEVER ............0.-0.00006.
-CRANKCASE COVER, L ................
+РЫЧАГ УПРАВЛЕНИЯ............0.-0,00006.
+КРЫШКА КАРТЕРА, Л ..............
 
 59
 20
 
-E3
-B10
+Е3
+Б10
 
-WATER PUMP
+ВОДЯНОЙ НАСОС
 1.00.00
 202...
 c ce eee en aee
-WHEEL, FR. wo. ee
-ce eee
+КОЛЕСО, фр. уо. эээ
+се эээ
 
 20
 78
 
-B10
-Fi
+Б10
+Фи
 
-GROSS SHAFT
+ВАЛОВЫЙ ВАЛ
 .......0.
 00...
-0c cece cence
-CARBURETOR ASSY. ¢ CARBURETOR
+0c все еще
+КАРБЮРАТОР В СБОРЕ. ¢ КАРБЮРАТОР
 
 cg
 
-CRANKCASE COVER, AL .....0...0.0....
-CRANKSHAFT ....... cnn
-ee eee tee nenes
+КРЫШКА КАРТЕРА, AL .....0...0,0....
+КОЛЕНВАЛ....... спн
+эээээ ти ненес
 
 13
 30
 
-Bé
-C3
+Бе
+С3
 
-WHEEL, RAR. 0...
-cee ee eee 82
-WIRE HARNESS ...........-.-00220r
-eee 117
+КОЛЕСО, РАР. 0...
+си-е-е-е-е 82
+ЖГУТ ПРОВОДОВ...........-.-00220р
+эээ 117
 
-F3
+Ф3
 G8
 
 42
 
 cg
 
-cc ccc eee enw neee
+cc ccc eee enw неее
 
-C10
+С10
 
-CROSS SHAFT ...
+КРЕСТОВОЙ ВАЛ...
 
-CARBURETOR COMPONENT ............
+КОМПОНЕНТ КАРБЮРАТОРА............
 
-LINK oo...
+ССЫЛКА ооо...
 
-C12
+С12
 
-GASKET KITA...
+КОМПЛЕКТ ПРОКЛАДОК...
 
-en eee
+эн эээ
 
-Di
+Ди
 
-CYLINDER ...000 0.
+ЦИЛИНДР ...000 0.
 
-.................0-.
+..............0-.
 
 ..............0.......0..
 
-HEADLIGHT ...........0.0.........008.
+ФАР...........0,0.........008.
 
 10
 8
 
-PAGE TITLE
+НАЗВАНИЕ СТРАНИЦЫ
 
-cee ee eae
+си-е-е-е-е
 
 61
 
-E4
+Е4
 
-D1
-E1
+Д1
+Е1
 
-CYLINDER BLOCK .....................
+БЛОК ЦИЛИНДРОВ...............
 
 26
 
-C1
+С1
 
-CYLINDER HEAD COVER ...............
-CYLINDER HEAD FR ww...
-eee.
+КРЫШКА ГОЛОВКИ ЦИЛИНДРА ..............
+ГОЛОВКА ЦИЛИНДРА FR ww...
+эээ.
 
 2
 3
 
-B1
-B1
+Б1
+Б1
 
-INSTRUMENTS ......00..........000005-
+ИНСТРУМЕНТЫ..........00..........000005-
 
-E2
+Е2
 
-CONTROL LEVER « SWITCHES * CABLES
-FRONT BRAKE MASTER ® CYLINDER ....
+РЫЧАГ УПРАВЛЕНИЯ « ПЕРЕКЛЮЧАТЕЛИ * КАБЕЛИ
+ПЕРЕДНИЙ ТОРМОЗНОЙ ГЛАВНЫЙ ЦИЛИНДР ....
 
-E3
+Е3
 
-CYUNDER HEAL, on... 8. settee anaes
+CYUNDER HEAL, на... 8. сидячий анас
 
 6
-ELECTRIC PARTS ............-...0...0- 117
-FENDER, FR... 2.20.
-ee eee eee
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ...........-...0...0- 117
+КРЫЛО, ПТ... 2.20.
+э-э-э-э-э
 70
-FENDER, AR. ..............0 0.00... 112
+ФЕНДЕР, АР. ..............0 0,00... 112
 
-B3
+Б3
 
-FINAL DRIVEN GEAR ...................
+ГЛАВНАЯ ВЕДУЩАЯ ПЕРЕДАЧА............
 
 84
 
@@ -2998,8 +2984,8 @@ F4
 
 G11
 
-FUEL TANK ..............0.....0-.0005
-FUEL VALVE ............0... 00.0.0. e ee
+ТОПЛИВНЫЙ БАК..............0.....0-.0005
+ТОПЛИВНЫЙ КЛАПАН............0...00.0.0. э-э-э
 
 87
 
@@ -3009,103 +2995,102 @@ F5
 
 F5
 
-GASKET KITA............0.0...........
+КОМПЛЕКТ ПРОКЛАДОК............0,0...........
 
 50
 
-D1
+Д1
 
-GASKET KITB
+КОМПЛЕКТ ПРОКЛАДОК
 
-GASKET KITB
+КОМПЛЕКТ ПРОКЛАДОК
 
-0.0.
+0,0.
 
-ec
+ЕС
 
-E4
+Е4
 
-CLUTCH MASTER CYLINDER ...........
-HANDLEBAR e TOP BRIDGE ............
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ..........
+РУЛЬ и ВЕРХНИЙ МОСТ ............
 
-E?
+Э?
 
-STEERING STEM e HORN ...............
+РУЛЕВОЙ РУЛЕВОЙ СИГНАЛ ..............
 
-E8
+Е8
 
-FRONT FENDER .....................-.
-
-ES
-
-FRONT SHOCK ABSORBER .............
+ПЕРЕДНЕЕ КРЫЛО............................-.
 
 ES
 
-FRONT BRAKE CALIPER .......... weeeee
+ПЕРЕДНИЙ АМОРТИЗАТОР............
 
-E12
+ES
 
-FRONT WHEEL .........0.0..2....0....
+ПЕРЕДНИЙ ТОРМОЗНОЙ СУППОРТ..........уееее
 
-F1
+Е12
 
-REAR BRAKE PANEL ...................
+ПЕРЕДНЕЕ КОЛЕСО......0.0..2....0....
 
-F2
+Ф1
 
-E6
+ЗАДНЯЯ ТОРМОЗНАЯ ПАНЕЛЬ ............
 
-REAR WHEEL ..................0.
+Ф2
+
+Е6
+
+ЗАДНЕЕ КОЛЕСО...............0.
 0000.
 
-F3
+Ф3
 
-FINAL DRIVEN GEAR ...................
+ГЛАВНАЯ ВЕДУЩАЯ ПЕРЕДАЧА............
 
 F4
 
-FUEL TANK © FUEL VALVE ..............
+ТОПЛИВНЫЙ БАК © ТОПЛИВНЫЙ КЛАПАН ..............
 
 F5
 
-SEAT .... 2. cece
-cece eeeeeee
-SIDE COVER .......0...00. 0.0.00. c nee
+СИДЕНЬЕ.... 2. cece
+Сесе ееееееБОКОВАЯ КРЫШКА .......0...00. 0.0.00. в девичестве
 
 F7
 
-BATTERY .......0 00000000... 0 ccc ee aee
+АККУМУЛЯТОР.......0 00000000... 0 ccc ee aee
 
 F9
 
 F8
 
-AIR CLEANER ...........0.........202.
-MUFFLER ...........00.. 0a
+ВОЗДУХООЧИСТИТЕЛЬ...........0.........202.
+ГЛУШИТЕЛЬ...........00..0а
 ...00.
-eeu
+ееу
 
 F10
 100
 
 F12
 
-BRAKE PEDAL « SHIFT PEDAL .......... 102
+ПЕДАЛЬ ТОРМОЗА « ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ .......... 102
 
-Gi
+Ги
 
-STEP .. 0...
+ШАГ .. 0...
 ccc cee n ee aee
-STAND ......0
-0. 00000. cece ce
+СТЕНД ......0
+0. 00000. се се
 ..0
-eeeee 106
-SWINGARM .....0..00.00 0.
+ээээ 106
+МАТЧИК .....0..00.00 0.
 00.0....
 .2000ee 108
-SHOCK ABSORBER ..0...00..00....0..... 11¢
-REAR FENDER © SPARK UNIT ........... 112
+АМОРТИЗАТОР ..0...00..00....0..... 11¢
+ЗАДНЕЕ КРЫЛО © Spark UNIT ........... 112
 
 G4
 
@@ -3113,131 +3098,131 @@ G4
 
 G7
 
-TURN SIGNAL... 020.
+СИГНАЛ ПОВОРОТА... 020.
 
-TAILLIGHT «2.0.00 cece
-ee eee 116
+ЗАДНИЙ ФОНАРЬ «2.0.00 в.в.
+эээээ 116
 
-WIRE HARNESS ¢ ELECTRIC PARTS ..... 117
+ЖГУТ ПРОВОДОВ ¢ ЭЛЕКТРИЧЕСКИЕ ЧАСТИ ..... 117
 
-RADIATOR ...... 000 ccc
-eee eee 120
+РАДИАТОР...... 000 куб.см
+эээээ 120
 
-XX
+ХХ
 
-© American Honaa Motor Co., Inc. 1993
+© American Honaa Motor Co., Inc., 1993 г.
 
 G2
 G3
 G5
 
 G6
-GB
+ГБ
 
 G8
 G10
 
-14MBOEM
+14МБОЭМ
 
 G8
-E9
+Е9
 G6
 
-.................0...4..
+..............0...4..
 
 51
 
-D1
+Д1
 
-GEARSHIFT DRUM .....................
+БАРАБАН ПЕРЕКЛЮЧЕНИЯ ПЕРЕДАЧ...........
 
 38
 
-C7
+С7
 
-HANDLEBAR .........
-0.0. ce cee
+РУЛЬ........
+0,0. ce cee
 ..
-ee
-HEADLIGHT .............0
+эээ
+ФАР...........0
 0.02 ce cee eee
 .
 
 66
 
-E7
+Е7
 
 54
 
-E1
+Е1
 
-HORAN ...0.0 2
+ХОРАН ...0,0 2
 
 68
 
-Es
+Эс
 
-INSTRUMENTS ........................
+ИНСТРУМЕНТЫ.........................
 56
-MUFFLER ..........
-0.000. ccc ee
+ГЛУШИТЕЛЬ..........
+0,000. ccc ее
 ....
-een 100
-OIL FILTER .....0. 00. eee
-eee
+ен 100
+МАСЛЯНЫЙ ФИЛЬТР .....0. 00. эээ
+эээ
 23
-CHIL PAN ..... 0.
+ЧИЛ ПАН ..... 0.
 ee cee aes
 23
 
-E2
-Fi2
+Е2
+Фи2
 
-cee eee
+си-и-и
 
-Bit
-B11
+Бит
+Б11
 
-OIL PUMP ......0000 0000000000000.
+МАСЛЯНЫЙ НАСОС ......0000 0000000000000.
 
 23
 
-B11
+Б11
 
-PISTON 20.0
-cee eee
+ПОРШЕНЬ 20,0
+си-и-и
 0.
-eae
+еаэ
 
 30
 
-C3
+С3
 
-PULSE ALTERNATOR ...............
+ИМПУЛЬСНЫЙ ГЕНЕРАТОР ..............
 .. 16
-RADIATOR ...00
-00... e cee ee eee ees 120
-SEAT ............ Lesan
-en ee ener eneeens
+РАДИАТОР ...00
+00... е сее еее еее 120
+СИДЕНЬЕ...........Лесан
+эн ее энер ээнинс
 90
-SHIFT PEDAL .........
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ ........
 0.00 .000
 .0.
 000, 102
-SHOCK ABSORBER ..........0.......... 110
-SHOCK ABSORBER, FR.
+АМОРТИЗАТОР..........0..........110
+АМОРТИЗАТОР, ФР.
 2...
 6.
-ee.
-SIDE COVER ..........
-0. ccc eee
+э-э.
+БОКОВАЯ КРЫШКА..........
+0. ccc эээ
 ...
-cecee
+Сиси
 
-Bs
+Бс
 G10
 F7
-G1
+Г1
 
 G5
 
@@ -3245,32 +3230,30 @@ G5
 92
 
 ES
-FB
+ФБ
 
-SPARK UNIT 2.0000
-ee ee
+БЛОК ИСКРЫ 2.0000
+эээ ээ
 00...
-eee 112
+эээ 112
 
 G6
 
-STAND ...0000.0..00-5 ccccececececeeee
+СТЕНД ...0000.0..00-5 ccccecececeeeee
 
 106
 
-TRANSMISSION
+ТРАНСМИССИЯ
 ........
 002.0
-ce ec eeevee
+ce ec ееее
 
 G3
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 год
 
 1
 
-GRID
+СЕТКА
 
-A11
-
-
+А11

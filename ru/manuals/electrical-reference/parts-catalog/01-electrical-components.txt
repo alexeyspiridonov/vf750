@@ -1,79 +1,79 @@
-HEADLIGHT
+ФАРА
 
-4 = VE7008'84
+4 = ВЭ7008'84
 
-5 = VF7008'85
+5 = ВФ7008'85
 
-v
+в
 
-Vv
-
-0
+Вв
 
 0
 
-F
+0
 
-ola
+Ф
 
-0 §Ol,
-s
-Ret
+ола
 
-No.
+0 §Ол,
+с
+Рет
 
-BLOCKNO.
+Нет.
 
-e
+БЛОКНО.
 
-a/c
+е
 
-F-1/4
+кондиционер
 
-5|Q|
+Ф-1/4
 
-DESCRIPTION
+5|В|
 
-14 BOLT, RECESSED, 5X12 wasecaesenee|
+ОПИСАНИЕ
 
-f-"
+14 БОЛТ, УСТРАИВАННЫЙ, 5X12 |
+
+е-"
 
 4 5|€]
 4
 
 5
 
-FRAME
+РАМКА
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-FROM
+ОТ
 
-TITLE
+НАЗВАНИЕ
 
-7v
+7в
 |
 
-AIR CLEANER
+ВОЗДУХООЧИСТИТЕЛЬ
 
-a
-A
+а
+А
 
-HONDA
+ХОНДА
 
-7TO | Q |PART NUMBER
+7ТО | Q |НОМЕР ДЕТАЛИ
 1
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-TACHOMETER ........
+ТАХОМЕТР........
 
 |{92301-05012-0A
 
-CODE
+КОД
 3022571
 
-15 BOLT, FLANGE, 6X35 ...ccesussceee|
+15 БОЛТ ФЛАНЕЦ, 6X35 ...ccesussceee|
 
 4
 
@@ -85,7 +85,7 @@ CODE
 
 0807354
 
-BOLT, FLANGE, 6X35 ..sesececsesee|
+БОЛТ, ФЛАНЕЦ, 6X35 ..sesececsesee|
 
 4
 
@@ -97,89 +97,89 @@ BOLT, FLANGE, 6X35 ..sesececsesee|
 
 3996105
 
-a
+а
 
 ....
 
 .............
 
-BATTERY ................. 95
-BRAKE CALIPER,
-FR ....... 76
-BRAKE MASTER, FR ....... 61
-BRAKE PANEL, AR.
+АККУМУЛЯТОР....95
+ТОРМОЗНОЙ СУППОРТ,
+ПТ ....... 76
+ТОРМОЗНОЙ МАСТЕР, ФР ....... 61
+ТОРМОЗНАЯ ПАНЕЛЬ, АР.
 80
-BRAKE PEDAL.............. 102
-CABLES 2.00.00... 00.008. 59
-CANISTER (AC) ............ 132
+ПЕДАЛЬ ТОРМОЗА........... 102
+КАБЕЛИ 2.00.00...00.008. 59
+КАНИСТРА (АС)...........132
 
-CLUTCH MASTER CYLINDER 64
-CONTROL LEVER .......... 59
-CYLINDER ................ 61
-ELECTRIC PARTS .......... 117
-FENDER, FR .............. 70
-FENDER, RR... 2... 12
-FINAL DRIVEN GEAR ....... 84
-FRAME ................... 123
-FUEL TANK ............... 87
-FUEL VALVE .............. 87
-eect eee eee
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ 64
+РЫЧАГ УПРАВЛЕНИЯ...........59
+ЦИЛИНДР..........61
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ..........117
+КРЫЛО, ФР .............. 70
+КРЫЛО, ЗАД... 2... 12
+ГЛАВНАЯ ВЕДУЩАЯ ПЕРЕДАЧА....... 84
+РАМА........................ 123
+ТОПЛИВНЫЙ БАК.............. 87
+ТОПЛИВНЫЙ КЛАПАН .............. 87
+эект эээ ээ
 
-oe”
+ой»
 
 F14MBOE01
 
-4 = VF700S'84
-5 = VF700S'85
+4 = ВФ700С'84
+5 = ВФ700С'85
 
-v
+в
 7
 
-v A
-71R
+в А
+71Р
 
 s§
 
-s
+с
 
-B
+Б
 
-BIC
+БИК
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-F-i[4
+Ф-я[4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-1 HEADLIGHT ASSY. (12V 60/55W)
+1 ФАРА В СБОРЕ. (12 В 60/55 Вт)
 
 4
 ....14
 
 0
 
-5{1E]|
+5{1Е]|
 
-Y
+Да
 
-SERIAL NUMBER |
+СЕРИЙНЫЙ НОМЕР |
 
-E
+Э
 
-FROM
+ОТ
 
-Q
+вопрос
 
-TO
+ТО
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 5
 
@@ -189,7 +189,7 @@ CODE
 
 1654367
 
-........sceeeuce
+........наблюдение
 
 4
 
@@ -201,7 +201,7 @@ CODE
 
 1670256
 
-3 HEADLIGHT UNIT
+3 ФАРА
 
 ...casececnccaecs
 
@@ -215,15 +215,15 @@ CODE
 
 1390517
 
-4 COVER, RUBBER
+4 КРЫШКА РЕЗИНОВАЯ
 
 ....sceceescnnvece
 
 0692178
 
-BULB, 12¥60/55W HG ....ccecccsee
+ЛАМПОЧКА, 12¥60/55 Вт HG ....ccecccсм.
 
-6 CASE, HEADLIGHT
+6 КОРПУС ФАРЫ
 
 4
 
@@ -266,7 +266,7 @@ BULB, 12¥60/55W HG ....ccecccsee
 
 1782291
 
-7 COLLAR, HEADLIGHT CASE ..........
+7 КОРПУС ФАРЫ ...........
 
 4
 
@@ -278,7 +278,7 @@ BULB, 12¥60/55W HG ....ccecccsee
 
 1715994
 
-8 BRACKET COMP., Li os causenscccece
+8 КОМПЛЕКТ КРОНШТЕЙНА, если это необходимо
 
 4
 
@@ -290,7 +290,7 @@ BULB, 12¥60/55W HG ....ccecccsee
 
 1716000
 
-9 BRACKET COMP., R. ...ccecnacccees
+9 КОМПЛЕКТ КРОНШТЕЙНА, П. ...ccecnacccess
 
 4
 
@@ -302,7 +302,7 @@ BULB, 12¥60/55W HG ....ccecccsee
 
 1716018
 
-10 STAY, Re HEADLIGHT .....ccceeeees
+10 STAY, Re ФАР .....ccceeeees
 
 4
 
@@ -314,7 +314,7 @@ BULB, 12¥60/55W HG ....ccecccsee
 
 1782358
 
-11 STAY, L. HEADLIGHT ........0c000e
+11 STAY, Л. ФАРА........0c000e
 
 4
 
@@ -326,7 +326,7 @@ BULB, 12¥60/55W HG ....ccecccsee
 
 1782366
 
-12 BOLT, FLANGE, 8X16 ....ccccccccee
+12 БОЛТ ФЛАНЕЦ, 8X16 ....ccccccccee
 
 4
 
@@ -338,7 +338,7 @@ BULB, 12¥60/55W HG ....ccecccsee
 
 1431188
 
-BOLT, SPECIAL FLANGE, 8X16 ......
+БОЛТ СПЕЦИАЛЬНЫЙ ФЛАНЕЦ, 8X16 ......
 
 4
 
@@ -350,7 +350,7 @@ BOLT, SPECIAL FLANGE, 8X16 ......
 
 1380948
 
-13 BOLT, SPECIAL FLANGE, 8X26 ......
+13 БОЛТ СПЕЦИАЛЬНОГО ФЛАНЕЦА, 8X26 ......
 
 4
 
@@ -362,7 +362,7 @@ BOLT, SPECIAL FLANGE, 8X16 ......
 
 0765651
 
-14 BOLT, SLOT, 5X12 ...ccceccencscee
+14 БОЛТ, СЛОТ, 5X12 ...cccecccencscee
 
 4
 
@@ -370,191 +370,190 @@ BOLT, SPECIAL FLANGE, 8X16 ......
 
 1
 
-|92300-05012-0A
+|92300-05012-0А
 
 4378108
 
-€ AMERICAN HONDA MOTOR CO, LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO, LTD. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E~2000008 TO 2005978
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2000008 ДО 2005978
 
-VF700S'84 FRAME NO.; RC220-EM000007 TO £M005012
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО £M005012
 
-VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
-VF700S'84 FRAME NO. ; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
+VF700S'84 № РАМЫ. ; RC221-EM000006 ДО EM001081
 
-E6
+Е6
 
-E3
-E4
+Е3
+Е4
 G8
-E9
+Е9
 G6
-FA
+ФА
 G11
 F5
-FS
+ФС
 
-SIDE COVER .............. 92
-SPARK UNIT .............. 112
-SPEEDOMETER ........... 56
-STAND .......0........... 106
-STEERING STEM .......... 68
+БОКОВАЯ КРЫШКА .............. 92
+БЛОК ИСКРЫ............................ 112
+СПИДОМЕТР...........56
+СТЕНД.......0...........106
+РУЛЕВАЯ ШТОКА..........68
 
-FB
+ФБ
 G6
-E2
+Е2
 G3
 ES
 
-E1
+Е1
 
 GS
 
-71 EO
+71 ЭО
 
-eee eect nents 104 G2
+эээ эект ненц 104 G2
 
-TOP BRIDGE ..............
+ВЕРХНИЙ МОСТ...............
 
-H2
+Н2
 G4
-E3
-GB
-Hi
+Е3
+ГБ
+Привет
 
-66 E7
+66 Е7
 
-TURN SIGNAL ............. 114 G7
-WHEEL FR...
+СИГНАЛ ПОВОРОТА...........114 G7
+КОЛЕСО ПЕР...
 
-WHEEL, RR.
+КОЛЕСО, РР.
 
-2.6...
+2,6...
 
-78 F1
+78 Ф1
 
-82 F3
+82 Ф3
 
-WIRE HARNESS ........... 117 G8
+ЖГУТ ПРОВОДОВ...........117 G8
 
-E1
+Е1
 
-€ AMERICAN HONDA MOTOR CO, LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO, LTD. 1993 год
 
-VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103668
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E~2100001 ДО 2103668
 
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E~2100001 ДО 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-E3
-Ha
+Е3
+Ха
 
-66 E7
+66 Е7
 
-STRIPE 22000. 128
-SWINGARM ............... 108
-SWITCHES ................ 59
-TAILLIGHT ..0.20000.0..0.. 116
-TOOLS
+ПОЛОСКА 22000. 128
+МАТЧИК............... 108ПЕРЕКЛЮЧАТЕЛИ .............. 59
+ЗАДНИЙ ФАР ..0.20000.0..0.. 116
+ИНСТРУМЕНТЫ
 20002
-Le
-eee.
+Ле
+эээ.
 126
 
-HONDA
+ХОНДА
 
-F2
-G1
+Ф2
+Г1
 
 ES
 F12
 G10
 F7
-G1
+Г1
 
-cee
+Сиэ
 
-FRAME
+РАМКА
 
-2 RING, HEADLIGHT
+2 КОЛЬЦО ФАРЫ
 
-5 BULB, HEADLIGHT (H4 JA12V60/55W)
+5 ЛАМПОЧКА ФАР (H4 JA12V60/55W)
 
 54
 
 5
 
-Q
+вопрос
 
-FS
+ФС
 
-E12
-£4
+Е12
+4 фунта стерлингов
 
-HEADLIGHT ............... 54
-HORN 2000002, 68
-MUFFLER 2.00 000020-0000.. 100
-RADIATOR ................ 120
-SEAT . 20020.
-ee
+ФАРА.......... 54
+ГОРН 2000002, 68
+ГЛУШИТЕЛЬ 2.00 000020-0000.. 100
+РАДИАТОР.................120
+СИДЕНЬЕ. 20020.
+эээ
 90
-SHIFT PEDAL .............. 102
-SHOCK ABSORBER ........ 110
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ .............. 102
+АМОРТИЗАТОР........110
 
-SHOCK ABSORBER, FR.
+АМОРТИЗАТОР, ФР.
 
-0 o|&
+0 о|&
 
-56 E2
-97 F10
+56 Е2
+97 Ф10
 
-GRID
+СЕТКА
 
-E1
+Е1
 
-SPEEDOMETER e TACHOMETER
+СПИДОМЕТР И ТАХОМЕТР
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-v Via
+v Через
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 7
 
-7/R
+7/Р
 
 0
 
-OO
+оо
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-0 SsOl],
+0 СсОл],
 
 8
 
-Ret.
+В отставке.
 
-BLOCK NO.
+БЛОК №.
 
-No.
+Нет.
 
-F-2/4
+Ф-2/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-9 COVER, SPEEDOMETER
+9 КРЫШКА СПИДОМЕТРА
 
 4
 
 .......e.0000|4
 
-COVER, SPEEDOMETER
+КРЫШКА СПИДОМЕТРА
 
-afc
+АФК
 
 5
 
@@ -562,17 +561,17 @@ afc
 
 ==
 
-ss
+сс
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO
+БЛОКИРОВАТЬ НЕТ
 
-DESCRIPTION
+ОПИСАНИЕ
 
-S
+С
 
 1781871
 
@@ -582,7 +581,7 @@ S
 
 1723329
 
-11 RUBBER, SPEEDOMETER
+11 РЕЗИНА, СПИДОМЕТР
 
 4
 
@@ -600,7 +599,7 @@ S
 
 1439124
 
-d
+д
 
 ==
 
@@ -610,7 +609,7 @@ d
 
 1723337
 
-...ccseeces. veel"
+...ccвидит. вель"
 
 5
 
@@ -632,7 +631,7 @@ d
 
 1781897
 
-COVER, TACHOMETER ..cccececescce|
+КРЫШКА ТАХОМЕТРА ..cccececescce|
 
 6
 
@@ -654,11 +653,11 @@ COVER, TACHOMETER ..cccececescce|
 
 .....-csaseee
 
-16 METER, TEMPERATURE & GEAR
+16 МЕТРОВ, ТЕМПЕРАТУРА И ШЕСТЕРНЯ
 
-Q
+вопрос
 
-FRAME
+РАМКА
 
 |37202-"B0-950
 
@@ -668,7 +667,7 @@ FRAME
 
 1781905
 
-POSITION ..ecccecncccussescses -—- 5
+ПОЛОЖЕНИЕ ..ecccecncccussesscses --- 5
 
 1
 
@@ -676,7 +675,7 @@ POSITION ..ecccecncccussescses -—- 5
 
 2094936
 
-POSITION ..ecccncccccecccsencs -- 5
+ПОЛОЖЕНИЕ ..ecccncccccecccsencs -- 5
 
 1
 
@@ -684,32 +683,32 @@ POSITION ..ecccncccccecccsencs -- 5
 
 2274728
 
-METER, TEMPERATURE
-& GEAR
+МЕТР, ТЕМПЕРАТУРА
+И МЕХАНИЗМ
 
-Y
+Да
 
-METER, TEMPERATURE
-& GEAR
+МЕТР, ТЕМПЕРАТУРА
+И МЕХАНИЗМ
 
-R
+Р
 
-F2144 55]/€]|Ip | FROM
-SERIAL NUMBER
-| ©F |PART NUMBER
-TO
+F2144 55]/€]|IP | ОТ
+СЕРИЙНЫЙ НОМЕР
+| ©F |НОМЕР ДЕТАЛИ
+ТО
 
-HONDA
-CODE
+ХОНДА
+КОД
 
-17 BOX X ASSY., 77 PILOT
-4 -PILOT wee eeererereeees
+17 КОРОБКА X В СБОРЕ, 77 ПИЛОТ
+4 - ПИЛОТ, пиеееееееее
 
 1 |37600-4B0-950
 
-20 COVER,
+20 КРЫШКА,
 
-2 BULB, WEDGE BASE 12V3W .......08.
+2 ЛАМПОЧКА, КЛИНОВЫЙ ЦОД 12V3W .......08.
 
 4
 
@@ -719,9 +718,9 @@ CODE
 
 |34908-MB0-003
 
-3 RUBBER, METER SETTING .......--«. 45
-4 WASHER ..cccececscecececececece a
-WASHER (METER) ...0.ese0e beseae -- 5
+3 РЕЗИНА, НАСТРОЙКА СЧЕТЧИКА .......--«. 45
+4 ШАЙБА ..cccececscecececececece a
+ШАЙБА (МЕТР) ...0.ese0e beseae -- 5
 
 1260611
 
@@ -745,10 +744,10 @@ WASHER (METER) ...0.ese0e beseae -- 5
 
 1975739
 
-5 SOCKET COMP. (A) ..escseceee veal
+5 РОЗЕТКА КОМП. (A) ..escceceee телятина
 
-02 CABLE, INNER «..seeeeesesererens 45
-23 SCREW, PAN, 2X6 -..seeesseneseres 45
+02 КАБЕЛЬ ВНУТРЕННИЙ «..seeeeesesererens 45
+23 ВИНТ КОВОРОДНЫЙ, 2X6 -..seeesseneseres 45
 
 1
 1
@@ -759,29 +758,29 @@ WASHER (METER) ...0.ese0e beseae -- 5
 1656856
 1060656
 
-LOVER
+ЛЮБОВНИК
 
-, sy
+, си
 
-CABLE ASSY.,
+КАБЕЛЬ В СБОРЕ,
 
-As
+Как
 
-SPEEDOMETER weeeerees
+СПИДОМЕТР
 
-As
+Как
 
 1
 
-SPEEDOMETER -.......
+СПИДОМЕТР -.......
 
-|37617-"B4-671
+|37617-"Б4-671
 
 4639173
 
 4
 
-o--
+о--
 
 1
 
@@ -789,7 +788,7 @@ o--
 
 1781855
 
-24 NUT, INSTRUMENT SETTING ...+.0.+. 4
+24 ГАЙКА НАСТРОЙКИ ПРИБОРА ...+.0.+. 4
 
 5
 
@@ -807,9 +806,9 @@ o--
 
 1951540
 
-25 O-RING, 6.8K1.9 ...0. seater veeel
+25 КОЛЬЦО УПЛОТНИТЕЛЬНОЕ, 6,8К1,9...0. местное сиденье
 
-a
+а
 
 5
 
@@ -829,9 +828,9 @@ a
 
 1781863
 
-O-RING, 6.8X1.9
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО, 6,8X1,9
 
-weeecesevers wore [ 4
+weeecesevers носили [ 4
 
 5
 
@@ -839,7 +838,7 @@ weeecesevers wore [ 4
 
 |91306-PJ4-000
 
-SOCKET COMP. (B) ....ecsceee eeeee]e~
+РОЗЕТКА КОМП. (B) ....ecsceee ээээ]э~
 
 2373447
 
@@ -851,10 +850,10 @@ SOCKET COMP. (B) ....ecsceee eeeee]e~
 
 1951565
 
-O-RING
-B,
-6.8X1.9
-wc
+УПЛОТНИТЕЛЬНОЕ КОЛЬЦО
+Б,
+6,8х1,9
+туалет
 cececccenecee|
 
 &
@@ -877,7 +876,7 @@ cececccenecee|
 
 1439082
 
-26 SCREW, PAN, 3X10 ..ccccccaccs seeel
+26 ВИНТ, КОВАР, 3X10 ..ccccccaccs см.
 
 4
 
@@ -889,11 +888,11 @@ cececccenecee|
 
 1089614
 
-6 SOCKET COMP. (B) ....cccseceseeee|
+6 РОЗЕТКА КОМП. (B) ....cccceceseeee|
 
-7 STAY ASSY., INSTRUMENT ..........
+7 СТОЙКА В СБОРЕ, ПРИБОР ..........
 
-STAY, METER
+ПРЕБЫВАНИЕ, МЕТР
 
 ..ccccececesess ee
 
@@ -903,15 +902,15 @@ STAY, METER
 
 1876762
 
-27 SCREW, PAN, 3X20 ....sscceeee ween}
+27 ВИНТ, СКОВОРОДА, 3X20 ....sscceeee ween}
 
 4
 
-8 SPEEDOMETER ASSY.
+8 СПИДОМЕТР В СБОРЕ.
 
 5
 
-..... seenseeeel
+.....видел-видел
 
 &
 
@@ -919,7 +918,7 @@ STAY, METER
 
 &
 
--m
+-м
 
 0056796
 
@@ -929,19 +928,19 @@ STAY, METER
 
 1723311
 
-SCREW, PAN, 3X20 .....ee0e. veeeet
+ВИНТ, СКОВОРОДА, 3Х20 .....ee0e. ооооо
 
 4
 
 5
 
-SPEEDOMETER ASSY.
+СПИДОМЕТР В СБОРЕ.
 
 ..cccsecceeece
 
 4
 
-193500-03020-0a
+193500-03020-0а
 
 --
 
@@ -955,7 +954,7 @@ SPEEDOMETER ASSY.
 
 1951573
 
-SCREW, PAN, 3X20 .cscscccseesenee]
+ВИНТ, СКОВОРОДА, 3X20 .cscccccseesenee]
 
 &
 
@@ -963,105 +962,103 @@ SCREW, PAN, 3X20 .cscscccseesenee]
 
 4
 
-|93500-03020-1A
+|93500-03020-1А
 
 1658769
 
-© AMERICAN HONDA MOTOR CO, LTD. 1993
+© АМЕРИКАНСКАЯ ХОНДА МОТОР КО, ЛТД. 1993 годVF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2000008 ДО 2005978
 
-VF700S'84 ENGINE NO.; RC22E~2000008 TO 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО £M005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
+VF7005'84 № РАМЫ. ; RC221-EM000006 ДО £M001081
 
-VF700S'84 FRAME NO.; RC220-EM000007 TO £M005012
-VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
-VF7005'84 FRAME NO. ; RC221-EM000006 TO £M001081
+Е2
 
-E2
+VF?00S'85 НОМЕР ДВИГАТЕЛЯ; RCZ22E~2100001 ДО 2103668
+VF700S'85 НОМЕР РАМЫ. ; RC220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 10 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 К FM 100863
 
-VF?00S'85 ENGINE NO.; RCZ22E~2100001 TO 2103668
-VF700S'85 FRAME NO. ; RC220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 10 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM 100863
+70 эквалайзеров
+ССО
+87 ФС
 
-70 EQ
-SOF
-87 FS
-
-MUFFLER
+ГЛУШИТЕЛЬ
 
 ,
 
-RADIATOR
+РАДИАТОР
 
-100 F12
+100 Ф12
 
-«dss
+«дсс
 
-. 120 G10
+. 120 Г10
 
-SHFT PEDAL... ..sdii¥“#w.. 102 G1
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ... ..sdii¥“#w.. 102 G1
 
-SHOCK ABSORBER _.
-SHOCK ABSORBER, FR.
+АМОРТИЗАТОР _.
+АМОРТИЗАТОР, ФР.
 
-110 GS
+110 ГС
 71 €9
 
-SPARK UNIT
+БЛОК ИСКРЫ
 
-112 G6
+112 Г6
 
-SIDE COVER
+БОКОВАЯ КРЫШКА
 
 .
 
-...._—i«.....
+...._—я«.....
 
-SPEEDOMETER
+СПИДОМЕТР
 
-STAND...
-STEERING STEM
+СТОЯТЬ...
+РУЛЕВОЙ ШТОК
 
-92 F8
+92 Ф8
 
-56 E2
+56 Е2
 
-106 G3
-. 68 EB
+106 Г3
+. 68 ЭБ
 
-STEP... ww. 104 G2
+ШАГ... ух. 104 Г2
 
-108 Ga
+108 млрд лет
 
-SWITCHES ..._—s—ai=iéadwi....... 59 E3
-TALLIGHT .__..
-116 GB
+ПЕРЕКЛЮЧАТЕЛИ ..._—s—ai=iéadwi....... 59 E3
+ТАЛЛАЙТ .__.
+116 ГБ
 
-TURN SIGNAL...
+СИГНАЛ ПОВОРОТА...
 
 126 1
-. 66 E7
+. 66 Е7
 
 114 G7
 
-WHEEL FRO...
+КОЛЕСО ПЕРЕД...
 
-78 F1
+78 Ф1
 
-WHEEL RR.
+КОЛЕСО РР.
 
-82 F3
+82 Ф3
 
-WIRE HARNESS
+ЖГУТ ПРОВОДОВ
 
 .....___... 117
 
-E
+Э
 
-SOCKET COMP. (A) ..... secaceueees w=
+РОЗЕТКА КОМП. (A) ..... secaceueeees w=
 
-64 E6
+64 Е6
 
-87 FS
+87 ФС
 
 1328954
 
@@ -1075,11 +1072,11 @@ SOCKET COMP. (A) ..... secaceueees w=
 
 |37237-SA5-004
 
-19 BOX ASSY., PILOT LOWER ....-..00. 4 5
+19 КОРОБКА ПИЛОТНАЯ НИЖНЯЯ В СБОРЕ....-..00. 4 5
 
-FUEL TANK
+ТОПЛИВНЫЙ БАК
 
-FUEL VALVE
+ТОПЛИВНЫЙ КЛАПАН
 
 +
 
@@ -1087,114 +1084,114 @@ FUEL VALVE
 
 .
 
-FINAL DRIVEN GEAR
+КОНЕЧНАЯ ВЕДУЩАЯ ПЕРЕДАЧА
 
 9439181
 
 5
 
-A
+А
 
-FENDER. FR.
+КРЫЛО. фр.
 
-|s76te-nae-s71
+|s76тэ-наэ-s71
 
 4
 
-UNDE tt eeeseeenees
+UNDE tt ееееееее
 
-$9 EB
+9 долларов США
 
-132 4a
+132 4а
 
-CYLINDER
-..—«sisc
-‘as ists.
-61 Ea
-ELECTRIC PARTS. .—_—-_—«ssdséCiw¥y.:‘117':«GB
+ЦИЛИНДР
+..—«сиск
+«как исты».
+61 шт.
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ. .—_—-_—«ssdséCiw¥y.:'117':«GB
 
 +
 
-BULB (12V3.4W) (158) ....ecescese
+ЛАМПОЧКА (12 В, 3,4 Вт) (158) ....удалить
 
 ..
 
-CLUTCH MASTER CYLINDER
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ
 
 4639165
 
-18 BOX ASSY., PILOT UPPER ....0..-0. 45
+18 КОРОБКА ПИЛОТНАЯ ВЕРХНЯЯ В СБОРЕ....0..-0. 45
 
-4102 Gi
+4102 Ги
 
-CANISTER (AC) .....
+КАНИСТРА (АС) .....
 
 1 137610-"B4~671
 
-vobuaes
+вобуэс
 
 1
 1
 
-61 Ea
+61 шт.
 
-80 Fe
+80 Фе
 
-vo...
+во...
 
-TOOLS .........
-TOP BRIDGE ...
+ИНСТРУМЕНТЫ ........
+ВЕРХНИЙ МОСТ...
 
-; roar eaecoos
+; рев
 
-TN
+ТН
 
-CABLES...
+КАБЕЛИ...
 
 2094944
 7101616
 
-nue oars oy ney Seteeeresess . ;
+nue весла ой ney Seteeeresse. ;
 
 2
 
-97 F10
+97 Ф10
 
-95 FO
-76 E12
+95 ФО
+76 Е12
 
-BRAKE PEDAL .
+ПЕДАЛЬ ТОРМОЗА.
 
 |37600-mB0-912
 |37600-"80-973
 
-BOX ASSY., PILOT ....secesecceece -- 5
-BOX ASSY.» PILOT eeeceeseceeeece 5
+КОРОБКА ПИЛОТНОГО В СБОРЕ ....seceseccece -- 5
+КОРОБКА В СБОРЕ.» ПИЛОТ еееееесеееееце 5
 
 5
 
-BRAKE MASTER, FA
+ТОРМОЗНОЙ МАСТЕР, ФА
 
 .
 
-FR...
+ПТ...
 
-BRAKE PANEL. AR.
+ТОРМОЗНАЯ ПАНЕЛЬ. АР.
 
-SWINGARM ___._.
+МАТЧИК ___.__.
 
 1084672
 
 4
 
-BATTERY ._.....
-BRAKE CALIPER.
+АККУМУЛЯТОР ._.......
+ТОРМОЗНОЙ СУППОРТ.
 
 1781913
 
 |34908-GA?-701
 
-1 BULB, WEDGE BASE (12V 3.4W) ......
+1 ЛАМПОЧКА, КЛИНОВЫЙ ЦОД (12 В, 3,4 Вт) ......
 
 56
 
@@ -1202,242 +1199,240 @@ BRAKE CALIPER.
 
 1
 
-CODE
+КОД
 
 4
 
-PEA
+ПЭА
 7
-7 1A
+7 1А
 
 —18
 
-IPART NUMBER
+НОМЕР ИДЕНТИФИКАЦИОННОЙ ДЕТАЛИ
 
-10 SOCKET COMP., ILLUMINATION ......
+10 РОЗЕТОК КОМП., ПОДСВЕТКА......
 
-POSITION .escececccccccececcs 4 -
+ПОЛОЖЕНИЕ .escececccccccececcs 4 -
 
-off
+выкл.
 
-Q
+вопрос
 
 1975767
 
-15 RUBBER, TACHOMETER
+15 РЕЗИНА, ТАХОМЕТР
 
-o
+о
 
-FROM
+ОТ
 
-HONDA
+ХОНДА
 
 |37202-"B0-951
 
-14 COVER, TACHOMETER
+14 КРЫШКА ТАХОМЕТРА
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-a
+а
 
 1
 
-TACHOMETER ASSY.
+ТАХОМЕТР В СБОРЕ.
 
-viv
+Вив
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
 4
 
-13 TACHOMETER ASSY.
+13 ТАХОМЕТР В СБОРЕ.
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-FRAME
+РАМКА
 
-TO
+ТО
 
-PAGE GRID
-56 E2
+СЕТКА СТРАНИЦ
+56 Е2
 
-AIR CLEANER
+ВОЗДУХООЧИСТИТЕЛЬ
 
-....cecccseee|
+....ceccccsee|
 
-12 KNOB, TRIPMETER ...ssecccessceced 4
+12 РУЧКА ТРИПМЕТРА ...ssecccesscecced 4
 
 F14MBOE02
 
 2
 
-TITLE
-TACHOMETER
+НАЗВАНИЕ
+ТАХОМЕТР
 
 ?y
 
-Ss
+сс
 
-€ AMERICAN HONDA MOTOR CO, LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO, LTD. 1993 год
 
-GRID
+СЕТКА
 
-E2
+Е2
 
 G8
 
-SPEEDOMETER e TACHOMETER
+СПИДОМЕТР И ТАХОМЕТР
 
-CONTROL LEVER e SWITCHES e CABLES
+РЫЧАГ УПРАВЛЕНИЯ e ПЕРЕКЛЮЧАТЕЛИ e КАБЕЛИ
 
-CONTENTS
-TITLE
+СОДЕРЖАНИЕ
+НАЗВАНИЕ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-TACHOMETER...
+ТАХОМЕТР...
 
-AIR CLEANER ..............
+ВОЗДУХООЧИСТИТЕЛЬ ..............
 
-BATTERY .................
-BRAKE CALIPER. FR...
+АККУМУЛЯТОР .................
+ТОРМОЗНОЙ СУППОРТ. ПТ...
 
-BRAKE MASTER. FR...
+ТОРМОЗНОЙ МАСТЕР. ПТ...
 
-56 E2
+56 Е2
 
-97 F10
-95 F9
-76 E12
+97 Ф10
+95 Ф9
+76 Е12
 
-61 E4
+61 Е4
 
-BRAKE PANEL.
-RR... 80
-BRAKE PEDAL .........._.. 102
-CABLES ..... .......
+ТОРМОЗНАЯ ПАНЕЛЬ.
+РР... 80
+ПЕДАЛЬ ТОРМОЗА............ 102
+КАБЕЛИ ..... .......
 59
-CANISTER (AC) . ........ 132
-CLUTCH MASTER CYLINDER 64
+КАНИСТРА (AC) . ........ 132
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ 64
 
-CONTROL LEVER
+РЫЧАГ УПРАВЛЕНИЯ
 
 ...
 
 _....
 
-Fe
-G1
+Фе
+Г1
 
-E3
-Ha
-£6
+Е3
+Ха
+6 фунтов стерлингов
 
 59 £3
 
-CYLINDER .......... .... +61 EF4
-ELECTRIC PARTS ........ 117 GB
+ЦИЛИНДР..............+61 EF4
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ........ 117 ГБ
 
-ne
+пе
 
-FENDER. FR...
+КРЫЛО. ПТ...
 
 36
 
-FENDER,AR
+КРЫЛО, АР
 
-70 E9
+70 Е9
 
-112 G6
+112 Г6
 
-FINAL DRIVEN GEAR .. .... B4 F4
-FRAME ........ 2... 123 Gt1
-FUEL TANK |.
-67 FS5
-FUEL VALVE .
-87 F5
+КОНЕЧНАЯ ВЕДУЩАЯ ПЕРЕДАЧА.. ....B4 F4
+РАМКА........2...123 Гт1
+ТОПЛИВНЫЙ БАК |.
+67 ФС5
+ТОПЛИВНЫЙ КЛАПАН.
+87 Ф5
 
-HANDLEBAR .
-HEADLIGHT ..
-HORN
-0 de,
+РУЛЬ.
+ФАРА..
+ГОРН
+0 де,
 
-MUFFLER.
+ГЛУШИТЕЛЬ.
 
-RADIATOR
-F 14MBOE02
-4 = VF700S'84
+РАДИАТОР
+Ф 14МБОЭ02
+4 = ВФ700С'84
 
-VV
+ВВ
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-F Fa
+Ф Фа
 0
 
-g
+г
 
-Ole
+Оле
 8
 
 4
 
-5]£1]
+5] £1]
 
-28 SCREW, OVAL, 4X8 ......esesceacee
+28 ВИНТ, ОВАЛЬНЫЙ, 4X8 ......выйти
 
-4
+429 ВИНТ ОВАЛЬНЫЙ 5X20 ....cecaccccces
 
-29 SCREW, OVAL, 5X20 ....cecaccccces
+Нет.
 
-No.
+ОПИСАНИЕ
 
-DESCRIPTION
+С
 
-C
+ВэВ
 
-VeV
+5 = ВФ700С'85
 
-5 = VF700S'85
+вопрос
 
-Q
-
-gia
+Джиа
 
 8
 
-F14MBOEGS
-4 = VF700S'84
+F14MBEGS
+4 = ВФ700С'84
 
-ae
+ае
 
-o
+о
 
-T
+Т
 
-FRAME
+РАМКА
 
-FROM
+ОТ
 
-a
+а
 
-TO
+ТО
 
 8
 
-8B
+8Б
 
-DESCRIPTION
+ОПИСАНИЕ
 
 4
 
 5]/&]
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 5
 
@@ -1447,7 +1442,7 @@ CODE
 
 0412338
 
-1 CABLE COMP. A, THROTTLE .........
+1 КАБЕЛЬНЫЙ КОМП. А, ДРОССЕЛЬ........
 
 4
 
@@ -1461,11 +1456,11 @@ CODE
 
 0768721
 
-2 CABLE COMP. B, THROTTLE .........
+2 КАБЕЛЬНЫХ КОМП. Б, ДРОССЕЛЬ........
 
 4
 
-30 SCREW, TAPPING, 3X10 ............
+30 ВИНТ НАРЕЗНОЙ РЕЗЬБЫ, 3X10...........
 
 4
 
@@ -1477,9 +1472,9 @@ CODE
 
 1018290
 
-3 CABLE COMP., CHOKE .........ec0e.
+3 КАБЕЛЬНЫЙ КОМПЛЕКТ, ДРОССЕЛЬ .......ec0e.
 
-31 NUT, HEX., 30M wcccccccccecesceee
+31 ГАЙКА, ШЕСТИГР., 30M wcccccccccecesceee
 
 4
 
@@ -1491,11 +1486,11 @@ CODE
 
 0166694
 
-4 LEVER, CHOKE
+4 РЫЧАГ, ДРОССЕЛЬ
 
-....ccscececacncces
+....cccececacncces
 
-32 NUT, HEX., OMM wc cccscscccecccce
+32 ГАЙКА ШЕСТИГР., OMM wc cccscscccecccce
 
 4
 
@@ -1517,7 +1512,7 @@ c cece cncccence
 
 194001-06200-05
 
-33 NUT, HEX., 3M oc cccccccscccceces
+33 ГАЙКА, ШЕСТИГР., 3M oc cccccccscccceces
 
 4
 
@@ -1525,39 +1520,39 @@ c cece cncccence
 
 1
 
-34 NUT CAP, 8M...
+34 ГАЙКА КОЛПАЧКА, 8M...
 
-NUT, HEX., OM...
+ГАЙКА, ШЕСТИГР., ОМ...
 
 35
 
-sc eecceeeees wee
+sc eecceeees крошечный
 
-Ole
+Оле
 
-No.
+Нет.
 
-FROM
+ОТ
 
-TO
+ТО
 
-FB
+ФБ
 
-STAND. 108 G3
+СТЕНД. 108 Г3
 
-a
+а
 
-STRIPE 0. 128 H2
+ПОЛОСКА 0. 128 H2
 
-68 EB
+68 ЭБ
 
-104 G2
+104 Г2
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-TAILLIGHT... ssiwi«ti«i«wi«*s 116 GB
+ЗАДНИЕ ФОНАРИ... ssiwi«ti«i«wi»*s 116 ГБ
 
 5
 
@@ -1577,7 +1572,7 @@ Lite-on
 
 1781392
 
-WHEEL FR bee e cee eee ees 78 a
+КОЛЕСО FR bee e cee eee ees 78 a
 
 4
 
@@ -1589,7 +1584,7 @@ WHEEL FR bee e cee eee ees 78 a
 
 1781400
 
-WIRE HARNESS ......._.. 117 G8
+ЖГУТ ПРОВОДОВ......._.. 117 G8
 
 4
 
@@ -1601,7 +1596,7 @@ WIRE HARNESS ......._.. 117 G8
 
 1669324
 
-LEVER, CHOKE .....cccuvccacccces
+РЫЧАГ, ДРОССЕЛЬ .....cccuvccacccces
 
 4
 
@@ -1615,7 +1610,7 @@ LEVER, CHOKE .....cccuvccacccces
 
 2043255
 
-5 BAND B1, WIRE ......cccccsuccccce
+5-ПОЛОСНЫЙ B1, ПРОВОД ......ccccsccccce
 
 4
 
@@ -1627,11 +1622,11 @@ LEVER, CHOKE .....cccuvccacccces
 
 0468819
 
-194002-03000-0s
+194002-03000-0с
 
 1458777
 
-6 SWITCH ASSY., STARTER/ENGINE STOP|
+6 ПЕРЕКЛЮЧАТЕЛЬ СТАРТЕР/ОСТАНОВКА ДВИГАТЕЛЯ В СБОРЕ |
 
 4
 
@@ -1639,23 +1634,23 @@ LEVER, CHOKE .....cccuvccacccces
 
 1
 
-|35130-"B3-670
+|35130-"Б3-670
 
 1743087
 
-TOOLS ..000 126 W1
+ИНСТРУМЕНТЫ ..000 126 W1
 
 [45
 
 1
 
-194021-08020-0s
+194021-08020-0с
 
 0169524
 
-SWITCH ASSY., STARTER/ENGINE STOP | 4
+ВЫКЛЮЧАТЕЛЬ В СБОРЕ СТАРТЕР/ОСТАНОВКА ДВИГАТЕЛЯ | 4
 
-—-
+---
 
 1
 
@@ -1671,7 +1666,7 @@ SWITCH ASSY., STARTER/ENGINE STOP | 4
 
 0059071
 
-SWITCH ASSY., STARTER/KILL
+ПЕРЕКЛЮЧАТЕЛЬ В СБОРЕ СТАРТЕР/KILL
 
 ......
 
@@ -1681,13 +1676,13 @@ SWITCH ASSY., STARTER/KILL
 
 1
 
-135130-"B0-910
+135130-"Б0-910
 
 1876713
 
-WASHER, PLAIN, OMM
+ШАЙБА ПЛАСТИЧНАЯ, OMM
 
-......0. voeeee
+......0. воееее
 
 45
 
@@ -1697,7 +1692,7 @@ WASHER, PLAIN, OMM
 
 3136074
 
-SWITCH ASSYH., STARTER/KILL
+ПЕРЕКЛЮЧАТЕЛЬ В СБОРЕ СТАРТЕР/KILL
 
 .....
 
@@ -1711,12 +1706,12 @@ SWITCH ASSYH., STARTER/KILL
 
 4025573
 
-veoaa nen os0
+веоаа нэн os0
 
-etna
+Этна
 
-scot s ne
-weo-3e'
+Скот с пе
+вео-3е'
 
 3797173
 
@@ -1726,7 +1721,7 @@ weo-3e'
 
 19410106800
 
-36 WASHER, SPRING, 34M .......ceeees 4
+36 ШАЙБА ПРУЖИННАЯ, 34M .......ceeees 4
 
 0345900
 
@@ -1736,9 +1731,9 @@ weo-3e'
 
 [94111-03800
 
-; SWITCH ASSY., STARTER/ENGINE STOP a 5
+; ВЫКЛЮЧАТЕЛЬ СТАРТЕР/ОСТАНОВ ДВИГАТЕЛЯ a 5
 
-37 WASHER, SPRING, OMM .....ccesee0014
+37 ШАЙБА ПРУЖИННАЯ, OMM .....ccesee0014
 
 0285668
 
@@ -1746,85 +1741,85 @@ weo-3e'
 
 4
 
-nitty ey im laut “seeere 4
+nitty ey im laut “seeere 4”
 
 194111-06000
 
 0058974
 
-€ AMERICAN HONDA MOTOR CO. LTD. 1993
+€ АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1993 год
 
-VF700S'84 FRAME NO. RC221-EM000006 TO EM001081
+VF700S'84 № РАМЫ. RC221-EM000006 ДО EM001081
 
 92
 
 .............
 
-STEP...
+ШАГ...
 
 ....-0.+-+0.
 
-VF700S'84 FRAME NO. ; RC220-EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E~2002575 TO 2006097
+VF700S'84 № РАМЫ. ; RC220-EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 ДО 2006097
 
 71 €9
 
-SIDE COVER
+БОКОВАЯ КРЫШКА
 
-STEERING STEM
+РУЛЕВОЙ ШТОК
 
-WASHER, PLAIN, OMY
+ШАЙБА ОБЫЧНАЯ, OMY
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
 
-SHOCK ABSORBER, FR.
+АМОРТИЗАТОР, ФР.
 
-T
+Т
 
-vy
+вы
 
-FRAME
+РАМКА
 
-120 G10
+120 Г10
 
-SEAT ..00000o lw,
-90 F7
-SHIFT PEDAL.............. 102 G1
-SHOCK ABSORBER ........ 110 G5
+СИДЕНЬЕ ..00000o лв,
+90 Ф7
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ .............. 102 G1
+АМОРТИЗАТОР........110 G5
 
-Q
+вопрос
 
-WASHER, PLAIN, 6M ....00 buccens 4
+ШАЙБА ПЛАСТИЧНАЯ, 6M ....00 буценов 4
 
 58
 
-c
+с
 
-E7
-£1
-EB
-Fi2
+Е7
+1 фунт стерлингов
+ЭБ
+Фи2
 
-SPAR UNNB
+СПАР УННБ
 
-Q
+вопрос
 
-g SIA
+г ООО
 
-Y
+Да
 
 66
 54
 68
-=... ddd... 100
+=... ддд... 100
 
-I
+я
 
-E3
+Е3
 
-SSY.,
+ССЫ.,
 
-SIGNAL
+СИГНАЛ
 
 «+++. .
 
@@ -1832,7 +1827,7 @@ SIGNAL
 
 ;
 
-8 PIPE, THROTTLE GRIP ....cccececes
+8 ТРУБКА, ДРОССЕЛЬНАЯ РУКОЯТКА ....cccececes
 
 4
 
@@ -1844,7 +1839,7 @@ SIGNAL
 
 0237586
 
-9 GRIP, R. HANDLEBAR ......-.eceece
+9 РУЧКА ПРАВОГО РУЛЯ ......-.eceece
 
 4
 
@@ -1856,7 +1851,7 @@ SIGNAL
 
 0483420
 
-10 GRIP, L. HANDLEBAR .....cecceuees
+10 РУЧКА, Л. РУЛЬ .....ceccuees
 
 4
 
@@ -1868,136 +1863,134 @@ SIGNAL
 
 0483438
 
-© AMERICAN HONDA MOTOR
-CO. LTD. 1993
+© АМЕРИКАНСКИЙ ХОНДА МОТОР
+ООО. 1993 год
 
-ie 7
+то есть 7
 
 59
 
-VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103668
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E~2100001 ДО 2103668
 
-VF700S'85 FRAME NO.; RC220-FM 100001 TO FM102800
-VF700S'8S ENGINE NO.; RC2Z2E-2100001 TO 2103285
-VF700S'8S FRAME NO.; RC221-FM100001 TO FM100863
+VF700S'85 НОМЕР РАМЫ; RC220-FM 100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'8S; RC2Z2E-2100001 К 2103285
+VF700S'8S № РАМЫ; RC221-FM100001 ДО FM100863
 
-GRID
+СЕТКА
 
-E3
+Е3
 
-SIDE COVER
+БОКОВАЯ КРЫШКА
 
-BATTERY
+АККУМУЛЯТОР
 
-CONTENTS
-TITLE
-TACHOMETER
+СОДЕРЖАНИЕ
+НАЗВАНИЕ
+ТАХОМЕТР
 
-PAGE GRID
-56 E2
+СЕТКА СТРАНИЦ
+56 Е2
 
-AIR CLEANER
+ВОЗДУХООЧИСТИТЕЛЬ
 
-97 FIO
+97 ФИО
 
-BATTERY
+АККУМУЛЯТОР
 
-95 FO
+95 ФОТОРМОЗНОЙ СУППОРТ, ПЕР.
+ТОРМОЗНОЙ МАСТЕР, ФР.
+ТОРМОЗНАЯ ПАНЕЛЬ, РА
+ПЕДАЛЬ ТОРМОЗА
 
-BRAKE CALIPER, FR
-BRAKE MASTER, FR.
-BRAKE PANEL, RA
-BRAKE PEDAL
+76 Эл2
+61 Е4
+80 Ф2
+102 Ги
 
-76 El2
-61 E4
-80 F2
-102 Gi
+КАБЕЛИ
 
-CABLES
+59 Е3
 
-59 E3
+КАНИСТРА (AC)
+132 Н4
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ 64 £6
 
-CANISTER (AC)
-132 H4
-CLUTCH MASTER CYLINDER 64 £6
+РЫЧАГ УПРАВЛЕНИЯ
 
-CONTROL LEVER
+Лаг
 
-Lag
+59 Е3
 
-59 E3
+ЦИЛИНДР
 
-CYLINDER
+61 шт.
 
-61 Ea
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ
 
-ELECTRIC PARTS
+117 ГБ
 
-117 GB
-
-FENDER, FR
+ФЕНДЕР, Франция
 
 70
 
-FENDER, AR.
+ФЕНДЕР, АР.
 
-112 G6
+112 Г6
 
-FINAL DRIVEN GEAR
+КОНЕЧНАЯ ВЕДУЩАЯ ПЕРЕДАЧА
 
-84 FA
+84 ФА
 
-FRAME
+РАМКА
 
-123 G11
+123 Г11
 
-FUEL TANK
+ТОПЛИВНЫЙ БАК
 
-87 F5
+87 Ф5
 
-FUEL VALVE
+ТОПЛИВНЫЙ КЛАПАН
 
-B7 FS
+Б7 ФС
 
-HANDLEBAR
+РУЛЬ
 
-66 E7
+66 Е7
 
-HEADLIGHT
-HOFIN
-MUFFLER
-RADIATOR
-SEAT
+ФАРА
+ХОФИН
+ГЛУШИТЕЛЬ
+РАДИАТОР
+СИДЕНЬЕ
 
-“CAUTION OR WARNING LABELS MUST BE ORDERED SEPARATELY WHEN APPLICABLE”
-4 = VF700S'84
+«ВНИМАТЕЛЬНЫЕ ИЛИ ПРЕДУПРЕЖДАЮЩИЕ ЭТИКЕТКИ ДОЛЖНЫ ЗАКАЗЫВАТЬСЯ ОТДЕЛЬНО, ЕСЛИ ПРИМЕНИМО»
+4 = ВФ700С'84
 
-VeV
+ВэВ
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-fp
+фп
 
-oia
+ия
 
 0
 
-Oje
+Одже
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-8B
+8Б
 
 8
 
-S
+С
 
-F-17/ 4 5 |
+Ф-17/ 4 5 |
 4
 
 5/€]
@@ -2005,74 +1998,74 @@ F-17/ 4 5 |
 F14MB0E 18
 4 = VF700S'B4
 
-iy
+я
 
-FRAME
+РАМКА
 
-| SERIAL NUMBER |
-FROM
+| СЕРИЙНЫЙ НОМЕР |
+ОТ
 
-TO
+ТО
 
-FR
+фр.
 
-HONDA
+ХОНДА
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
 8
 
-102 GI
+102 ГИ
 
-SHOCK ABSORBER
+АМОРТИЗАТОР
 
-110 G5
+110 Г5
 71
 
 .
 
-E9
+Е9
 
-92 FB
+92 ФБ
 
-SPARC UNIT
+БЛОК СПАРК
 
-112 G6
+112 Г6
 
-Q
+вопрос
 
-STAND
+СТЕНД
 
-STEERING STEM ©
+РУЛЕВОЙ ШТОК ©
 
-106 G3
+106 Г3
 
-B
+Б
 
-Y
-a
+Да
+а
 
-STEP
-STRIPE
+ШАГ
+ПОЛОСКА
 
-104 G2
-128 H2
+104 Г2
+128 Н2
 
 F18/ 4 5 |
 
-T
+Т
 
 6
 
@@ -2080,41 +2073,41 @@ T
 
 5]7€|
 
-FRAME
+РАМКА
 
-|_ SERIAL NUMBER | F
-FROM
+|_ СЕРИЙНЫЙ НОМЕР | Ф
+ОТ
 
-TO
+ТО
 
-CQ | PART NUMBER
+КК | НОМЕР ДЕТАЛИ
 
-HONDA
+ХОНДА
 
-swans
+лебеди
 
-CODE
+КОД
 
-TAILLIGHT
-TOOLS
+ЗАДНИЙ ФОНАРЬ
+ИНСТРУМЕНТЫ
 
-65 EB
+65 ЭБ
 
 .
 
 _
 
-Be eS
+Будь ES
 
 .
 
-116 GB
-126 H!1
+116 ГБ
+126 Ч!1
 
-31 FUSE, BLADE (10A) ..
-ccc
-c
-ae ceece --
+31 ПРЕДОХРАНИТЕЛЬ НОЖКОВЫЙ (10А)..
+ссс
+с
+ае сисе --
 
 5
 
@@ -2124,9 +2117,9 @@ ae ceece --
 
 1644228
 
-1 BATTERY ASSY. (YUASA) ....ccccees
+1 АККУМУЛЯТОРНАЯ БАТАРЕЯ В СБОРЕ. (ЮАСА) ....cccccees
 
-32 FUSE, BLADE (15A) . occ ccc cecceee ~~
+32 ПРЕДОХРАНИТЕЛЬ НОЖКОВЫЙ (15А) . occ ccc cecceee ~~
 
 4
 
@@ -2144,11 +2137,11 @@ ae ceece --
 
 |98200-31500
 
-Tonto
+Тонто
 
 1644244
 
-BATTERY ASSY. (YUASA) ..cccecener
+АККУМУЛЯТОРНАЯ БАТАРЕЯ В СБОРЕ. (ЮАСА) ..cccecener
 
 14
 
@@ -2162,9 +2155,9 @@ BATTERY ASSY. (YUASA) ..cccecener
 
 Weer on
 
-7s et
+7s и др.
 
-BATTERY ASSY. (YUASA) .....c.c00.
+АККУМУЛЯТОРНАЯ БАТАРЕЯ В СБОРЕ. (ЮАСА) .....cc00.
 
 4
 
@@ -2176,11 +2169,11 @@ BATTERY ASSY. (YUASA) .....c.c00.
 
 0742981
 
-WIRE HARNESS
+ЖГУТ ПРОВОДОВ
 
-117 GB
+117 ГБ
 
-BATTERY ASSY. (YUASA) ...ccce0e0014
+АККУМУЛЯТОРНАЯ БАТАРЕЯ В СБОРЕ. (ЮАСА) ...ccce0e0014
 
 5
 
@@ -2190,9 +2183,9 @@ BATTERY ASSY. (YUASA) ...ccce0e0014
 
 1550631
 
-BATTERY (12V14)
+АККУМУЛЯТОР (12В14)
 
-...ccacccceccsee|
+...ccaccceccsee|
 
 4
 
@@ -2204,7 +2197,7 @@ BATTERY (12V14)
 
 1053990
 
-BATTERY (12V14)
+АККУМУЛЯТОР (12В14)
 
 1288521
 
@@ -2216,7 +2209,7 @@ cc cccccccsceneee | 4
 
 [31500-461-772
 
-2 PLATE, BATTERY SETTING ......... 146
+2 ПАНЕЛЬ, НАСТРОЙКА АККУМУЛЯТОРА ...... 146
 
 5
 
@@ -2226,7 +2219,7 @@ cc cccccccsceneee | 4
 
 1246131
 
-3 BOLT, BATTERY SETTING .....cec. ~—1&
+3 БОЛТ, УСТАНОВКА АККУМУЛЯТОРНОЙ БАТАРЕИ .....cec. ~—1&
 
 5
 
@@ -2236,9 +2229,9 @@ cc cccccccsceneee | 4
 
 41246149
 
-4 RUBBER, BATTERY
+4 РЕЗИНА, АККУМУЛЯТОР
 
-wc ccc cccceeeeeee | 4
+туалет ccc cccceeeeeee | 4
 
 5
 
@@ -2248,7 +2241,7 @@ wc ccc cccceeeeeee | 4
 
 1246156
 
-5 CABLE, BATTERY STARTER .....0.00014
+5 КАБЕЛЬ АККУМУЛЯТОРНОГО СТАРТЕРА .....0,00014
 
 5
 
@@ -2258,22 +2251,22 @@ wc ccc cccceeeeeee | 4
 
 1246222
 
-& AMERICAN HONDA MOTOR CO. LTD 1993
+И АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD 1993 г.
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
 
-VF700S'84 FRAME NO.; RC220~EM000007 To EM005012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 НОМЕР РАМЫ; RC220~EM000007 - EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
 
-VF700S'84 FRAME NO.; RC221~EM000006 TO £M001081
+VF700S'84 НОМЕР РАМЫ; RC221~EM000006 ДО £M001081
 
-Fo
+Фо
 
-cers
+Серс
 
-tem eeen
+Тем не менее
 
-6 CABLE, STARTER MOTOR .....se0e0e0/4
+6 КАБЕЛЬ СТАРТЕРА .....se0e0e0/4
 
 5
 
@@ -2283,7 +2276,7 @@ tem eeen
 
 4781731
 
-? COVER, MAGNETIC SWITCH TERMINAL
+? КРЫШКА, КЛЕММА МАГНИТНОГО ПЕРЕКЛЮЧАТЕЛЯ
 
 .14
 
@@ -2295,7 +2288,7 @@ tem eeen
 
 1275734
 
-8 COVER, STARTING MOTOR TERMINAL ..14
+8 КРЫШКА КЛЕММЫ СТАРТЕРОВОГО ДВИГАТЕЛЯ ..14
 
 5
 
@@ -2305,7 +2298,7 @@ tem eeen
 
 0208652
 
-COVER, STARTING MOTOR TERMINAL
+КРЫШКА, КЛЕММА СТАРТЕРОВОГО ДВИГАТЕЛЯ
 
 ../4
 
@@ -2317,7 +2310,7 @@ COVER, STARTING MOTOR TERMINAL
 
 0177360
 
-9 COVER, MAGNETIC SWITCH TERMINAL
+9 КРЫШКА, КЛЕММА МАГНИТНОГО ПЕРЕКЛЮЧАТЕЛЯ
 
 .|
 
@@ -2337,34 +2330,34 @@ COVER, STARTING MOTOR TERMINAL
 
 1
 
-|32412-MB0~000
+|32412-МБ0~000
 
 1246263
 
-COVER, MAGNETIC SWITCH TERMINAL
+КРЫШКА, КЛЕММА МАГНИТНОГО ПЕРЕКЛЮЧАТЕЛЯ
 94
 
-€1
-EB
-Fi2
+1 евро
+ЭБ
+Фи2
 GI10
 F7
 
-Oj;E
+Ой;Э
 
-g giA
+г гиА
 
 ¥Y
-R
+Р
 
 .
 
-SHIFT PEDAL
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ
 
-SIDE COVER
+БОКОВАЯ КРЫШКА
 
-ae
-O
+ае
+О
 
 54
 68
@@ -2372,116 +2365,114 @@ O
 120
 90
 
-SHOCK ABSORBER, FR
+АМОРТИЗАТОР, ФРАНЦ.
 
-VV
+ВВ
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-Q
+вопрос
 
-s s|4
-Ret.
+с с | 4
+В отставке.
 
-F 14MBOE17
+Ф 14МБОЭ17
 
-£9
+9 фунтов стерлингов
 
 -
 
-* AMERICAN HONDA MOTOR CO. LTD. 1993
+* АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
-ve a
+у меня есть
 
-9s
+9 с
 
-VF700S'&5 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220-FM100001 TO FM102800
+VF700S'&5 НОМЕР ДВИГАТЕЛЯ; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220-FM100001 ДО FM102800
 
-VF700S'8S ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'8S; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-GRID
+СЕТКА
 
 F9
 
-REAR FENDER « SPARK UNIT
+ЗАДНЕЕ КРЫЛО « БЛОК ИСКРЫ
 
 =
 
 VF700S°
 
-Vv
+Вв
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-ar
+ар
 
 6
 
-Ole
+Оле
 
-Ss
+сс
 
-s
+с
 
 0
 
 16
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
-
-4
-
-FRAME
-SERIAL NUMBER
-
-5|E|
-
-FROM
-
-vi cccenscecncnencees
-
-16 CAP, SOCKET BOLT, 8MM .....cceeee
+БЛОК №.
 
 4
 
+РАМКА
+СЕРИЙНЫЙ НОМЕР
+
+5|Е|
+
+ОТ
+
+vi cccenscecncnencees16 КРЫШКА, БОЛТ С ТОРЦЕВОЙ ГОЛОВКОЙ, 8 ММ .....cceeee
+
 4
 
-17 BOLT, HEX., 6X16 v.eeseses veveees 4
+4
 
-4 = VF700S'84
+17 БОЛТ С ШЕСТИГР., 6X16 v.eeseses vveees 4
 
-VoeOV
+4 = ВФ700С'84
+
+ВоеОВ
 
 '
 
-F
+Ф
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 7
 
 0
 
 0
-Ret
+Рет
 
-BLOCK NO.
+БЛОК №.
 
-No.
+Нет.
 
-—em
+—эм
 
-F-26)4
+Ф-26)4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-| Q |PART NUMBER
+| Q |НОМЕР ДЕТАЛИ
 2
 
 §
@@ -2491,58 +2482,58 @@ DESCRIPTION
 |90187-MB0~-000
 |90506-634-000
 
-CODE
+КОД
 
-O|;E
+О|;Е
 
-Ss
+сс
 
-B
+Б
 
-alc
+алк
 
 1251230
 
-59 E3
+59 Е3
 
-CLUTCH MASTER CYLINDER
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ
 
 0954016
 
-CONTROL LEVER
-CYLINDER
+РЫЧАГ УПРАВЛЕНИЯ
+ЦИЛИНДР
 
 4
 
-51|E|
+51|Е|
 
-Q
+вопрос
 
-FROM
+ОТ
 
-TO
+ТО
 
 |92000-06016-0H
 
 0623801
 
-FENDER fd
+ФЕНДЕР ФД
 
 12 Ge
 
 2234896
 
-SRaMe
+СРаМе
 
-toa et
+тоа и др
 
-FUEL TANK
-FUEL
-TANK
+ТОПЛИВНЫЙ БАК
+ТОПЛИВО
+ТАНК
 
-117 GB
+117 ГБ
 
-BOLT, HEX., 6X16 ..seceeeceeacees
+БОЛТ С ШЕСТИГР., 6X16 ..seeeceeacees
 
 4
 
@@ -2552,7 +2543,7 @@ BOLT, HEX., 6X16 ..seceeeceeacees
 
 |92100-06016-0H
 
-18 SCREW, TAPPING, 4X12 ......eeseee
+18 ВИНТ НАРЕЗНОЙ РЕЗЬБЫ, 4X12 ......ееееее
 
 4
 
@@ -2564,7 +2555,7 @@ BOLT, HEX., 6X16 ..seceeeceeacees
 
 1251800
 
-19 BOLT, FLANGE, 6X10 .....cceeeaees
+19 БОЛТ ФЛАНЕЦ, 6X10 .....cceeeaees
 
 4
 
@@ -2579,11 +2570,11 @@ BOLT, HEX., 6X16 ..seceeeceeacees
 .
 034/952
 
-HANDLEBAR
-HAND!
-EBAF
+РУЛЬ
+РУКА!
+ЕБАФ
 
-BOLT, FLANGE, 6X10 .....eceeneacs
+БОЛТ, ФЛАНЕЦ, 6X10 .....eceeneacs
 
 4
 
@@ -2595,15 +2586,15 @@ BOLT, FLANGE, 6X10 .....eceeneacs
 
 2204709
 
-HORN
+ГОРН
 
-MUPCLER
+МУПКЛЕР
 
 68 £8
 100
-Ee?
+Э?
 
-20 BOLT, FLANGE, 8X25 .......ccnneee
+20 БОЛТ, ФЛАНЕЦ, 8X25 .......ccnneee
 
 4
 
@@ -2615,11 +2606,11 @@ Ee?
 
 0371997
 
-RADIATOR
+РАДИАТОР
 
-120 Gr0
+120 гр0
 
-BOLT, FLANGE, 8X25 ........eenees
+БОЛТ, ФЛАНЕЦ, 8X25 ........енее
 
 4
 
@@ -2631,13 +2622,13 @@ BOLT, FLANGE, 8X25 ........eenees
 
 1251909
 
-SHIFT PEDAL.
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ.
 
 2563252
 
-SHOCK ABSORBER
+АМОРТИЗАТОР
 
-BOLT, FLANGE, 8X25 ...s.eecseeees 4 5
+БОЛТ, ФЛАНЕЦ, 8X25 ...см.см. 4 5
 
 ~
 
@@ -2649,25 +2640,25 @@ BOLT, FLANGE, 8X25 ...s.eecseeees 4 5
 
 2 |95701~08025-08
 
-YN SEAR
+ЮН СИР
 
 87
 
-a7 FS
-Fs
+а7 ФС
+Фс
 
 .
 
-66 E7
+66 Е7
 
 66 7
 
 ==—s—*=«és02 GY
-110 G5
+110 Г5
 
-SHOCK ABSORBER. FR
+АМОРТИЗАТОР. фр.
 
-71 E9
+71 Е9
 92
 
 _.
@@ -2676,15 +2667,15 @@ _.
 
 ..
 
-STAND ... .
+СТОЯТЬ ... .
 
-a,
+а,
 
-STEP ..
+ШАГ..
 
 0.
 
-HONDA
+ХОНДА
 
 1
 
@@ -2692,9 +2683,9 @@ HONDA
 
 1724020
 
-2 SPARK UNIT
+2 ИСКРОВЫХ МОДУЛЯ
 
-...cccnscncccccccnecs
+...cccnsccccccccnecs
 
 4
 
@@ -2732,7 +2723,7 @@ HONDA
 
 -
 
-5 FENDER A, RR. wc ccesecnascucuens
+5 КРЫЛО А, ПРАВ. туалет
 
 4
 
@@ -2740,7 +2731,7 @@ HONDA
 
 1
 
-6 SPACER, RR. FENDER ........ccace5
+6 ПРОСТАВКА, ЗАДН. КРЫЛО ........ccace5
 
 4
 
@@ -2748,11 +2739,11 @@ HONDA
 
 2
 
-|80101-MBO-000
+|80101-МБО-000
 
 1250281
 
-7 FENDERB, RR. wcccsecncncccences ~[4
+7 ФЕНДЕРБ, РР. wcccsecncncccences ~[4
 
 5
 
@@ -2762,7 +2753,7 @@ HONDA
 
 1877158
 
-8 HOLDER, IGNITOR
+8 ДЕРЖАТЕЛЬ, ЗАЖИГАТЕЛЬ
 
 4
 
@@ -2774,7 +2765,7 @@ HONDA
 
 1310382
 
-9 PLATE, RR. FENDER ....cccacucecs
+9 ТАРЕЛКА, RR. КРЫЛО ....cccacucecs
 
 4
 
@@ -2786,7 +2777,7 @@ HONDA
 
 1250349
 
-10 CLAMP, CABLE
+10 ЗАЖИМ КАБЕЛЬНЫЙ
 
 .....ccesececcveces
 
@@ -2800,7 +2791,7 @@ HONDA
 
 0465351
 
-11 GRIP, R. SIDE .. cc cece ces ceceece
+11 РУЧКА, ПРАВАЯ СТОРОНА .. cc cece ces ceceece
 
 4
 
@@ -2812,7 +2803,7 @@ HONDA
 
 3595998
 
-GRIP, R. SIDE .. ce ceccceccccane
+ЗАХВАТ, ПРАВАЯ СТОРОНА .. ce ceccceccccane
 
 4
 
@@ -2824,7 +2815,7 @@ GRIP, R. SIDE .. ce ceccceccccane
 
 1782549
 
-12 GRIP, L. SIDE .. ce cccecasnes veneer
+12 GRIP, L. SIDE .. шпон ce cccecasnes
 
 &
 
@@ -2836,7 +2827,7 @@ GRIP, R. SIDE .. ce ceccceccccane
 
 3600178
 
-GRIP, L. SIDE ... ccc ecw ceccveans
+ЗАХВАТ, Л. СТОРОНА ... ccc ecw ceccveans
 
 4
 
@@ -2848,7 +2839,7 @@ GRIP, L. SIDE ... ccc ecw ceccveans
 
 1782556
 
-13 BRACKET, LICENSE PLATE ......0006
+13 КРОНШТЕЙН НОМЕРНОГО ЗНАКА ......0006
 
 4
 
@@ -2860,89 +2851,89 @@ GRIP, L. SIDE ... ccc ecw ceccveans
 
 1250554
 
-¢ AMERICAN HONDA MOTOR CO. LTD. 1993
+¢ АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
-Co,
+Ко,
 
-STRIPE.
+ПОЛОСКА.
 
-TAILLIGHT...
+ЗАДНИЙ ФОНАРЬ...
 
-TOOLS
+ИНСТРУМЕНТЫ
 
-56 E2
+56 Е2
 
-106 G3
+106 Г3
 
 _
 
-eee
+эээ
 
 «108
 
-Ga
+Га
 
-ee.
+э-э.
 
 1260
 
-66 ET
+66 восточноевропейское время
 
-WHEEL PRs] 3
+КОЛЕСО PR] 3
 
-WHEEL
-FR.
+КОЛЕСО
+фр.
 
 tsttiw“a“)yDNNW)NW)D.
 
-WIRE HARNESS...
+ЖГУТ ПРОВОДОВ...
 
-& AMERICAN HONDA MOTOR CO, LTD. 1993
+И АМЕРИКАНСКАЯ HONDA MOTOR CO, LTD. 1993 год
 
 ...
 
 113
 
-VF700S'85 ENGINE NO.3 RC22E~2100001 TO 2103668
+VF700S'85 ДВИГАТЕЛЬ №3 RC22E~2100001 ДО 2103668
 
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
-68 EB
-12B H2
+68 ЭБ
+12Б Н2
 
-. 104 G2
+. 104 Г2
 
-... . 116 GB
+... . 116 ГБ
 
-Soe
+Соэ
 
-TOP BRIDGE
+ВЕРХНИЙ МОСТ
 
 G6
 
-VF700S'85 FRAME NO.; RC220-FTM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E~2100001 TO 2103285
+VF700S'85 НОМЕР РАМЫ; RC220-FTM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E~2100001 ДО 2103285
 
-FB
+ФБ
 
-112 G6
+112 Г6
 
-SWINGARM
-...... ..s«««..,
-ewer
-oo
+МАТЧИК
+...... ..с«««..,
+кувшин
+оо
 
-CODE
+КОД
 
 --
 
-E4
+Е4
 
--~----- | 2.
+--~----- | 2.
 
-ELECTRIC PARTS
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ
 
-STEERING STEM... ._‘
+РУЛЕВОЙ ШТОК... ._’
 
 4
 
@@ -2950,9 +2941,9 @@ STEERING STEM... ._‘
 
 1263870
 
-SPEEDOMETER...
+СПИДОМЕТР...
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
 64 £6
 
@@ -2960,282 +2951,281 @@ SPEEDOMETER...
 
 |91456-MB0-000
 
-Y
+Да
 
-FRAME
+РАМКА
 
 132 14
 
 2
 
-T
+Т
 
-R
-Re
+Р
+Ре
 
-VF700S'84 FRAME NO.; RC220-EMC00007 70 EM00S012
-VF700S'84 ENGINE NO.; RC22E~2002575 10 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР РАМЫ; RC220-EMC00007 70 EM00S012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2002575 10 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-eo
+эо
 
 ;
 
-CANISTER (AC)
+КАНИСТРА (AC)
 
-Q
+вопрос
 
-5 | 6 |SERIAL NUMBER
+5 | 6 |СЕРИЙНЫЙ НОМЕР
 
-VF700$'84 ENGINE NO.; RC22E~2000008 TO 2005978
+VF700$'84 НОМЕР ДВИГАТЕЛЯ; RC22E~2000008 ДО 2005978
 
-76 E12
-61 E4
+76 Е12
+61 Е4
 
-ohace benar it
-CABLES
+охасе бенар это
+КАБЕЛИ
 
-SPARK UNIT
+БЛОК ИСКРЫ
 
-O]a
+О]а
 
 8
 
 |
 
-BRAKE CALIPER. FR
-BRAKE MASTER, FR
+ТОРМОЗНОЙ СУППОРТ. фр.ТОРМОЗНОЙ МАСТЕР, ФР.
 
-HONDA
+ХОНДА
 
-7IR
+7ИР
 
-......c.ececcece
+......c.ecccece
 
 112
 
 5
 
-BATTERY
+АККУМУЛЯТОР
 
-a
+а
 
 2
 
 56 £2
 
-97 Fi0
-95 F9
+97 Фи0
+95 Ф9
 
-SIDE COVER
+БОКОВАЯ КРЫШКА
 
-J. .ccsceeceseneeseees
+J.ccceeceseneeseees
 
-4 SUSPENSION, TURN SIGNAL RELAY
+4 ПОДВЕСКА, РЕЛЕ СИГНАЛОВ ПОВОРОТОВ
 
 -
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-AIR CLEANER
+ВОЗДУХООЧИСТИТЕЛЬ
 
-FIA
+ФИА
 
-1 SPARK UNIT
+1 ИСКРА
 
-3 RELAY COMP., TURN SIGNAL
-(TATEISHI) .....seececscncuees
+3 РЕЛЕ СИГНАЛА ПОВОРОТА
+(ТАТЕИСИ) .....посмотрите
 
 5
 
-To
+Чтобы
 
-CONTENTS
+СОДЕРЖАНИЕ
 
-TACHOMETER
+ТАХОМЕТР
 
-Y
+Да
 
-aie
-5 |O|
+да
+5 |О|
 
-14 BOLT, HEX. SOCKET, 8X50 ....04.00/4
+14 БОЛТ С ШЕСТИГР. РОЗЕТКА, 8X50....04.00/4
 
-TITLE
+НАЗВАНИЕ
 
 ;
 
 8
-F-26/4
+Ф-26/4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-15 WASHER, OMM
+15 ШАЙБА, ОММ
 
-O
+О
 
-Ol,
+Ол,
 
-GRID
+СЕТКА
 
 G6
 
-7B OF
+7Б ОФ
 
-117 G8
+117 Г8
 
-TURN SIGNAL
+СИГНАЛ ПОВОРОТА
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-v
+в
 
 ¢
 
-A
+А
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 7
 
 ;
 
-R
+Р
 
-CONTENTS
+СОДЕРЖАНИЕ
 
 ;
-TITLE
+НАЗВАНИЕ
 
 0
 
-a
+а
 
 _
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-Ss
+сс
 
-Ss
+сс
 
 8
 
-pic
+картинка
 
-F-27)4
+Ф-27)4
 
-DESCRIPTION
+ОПИСАНИЕ
 
-T2 TURN SIGNAL ASSY., R. RR. ce eeeeee
+T2 СИГНАЛ ПОВОРОТА В СБОРЕ, ЗАДН. дааааааа
 
-Ola
+Ола
 
 4
 
 5
 
-y
+й
 
-FRAME
+РАМКА
 
-p
+п
 
-5]E]
+5]Е]
 
-a)
+а)
 
-a
+а
 
-HONDA
+ХОНДА
 
-FROM
+ОТ
 
-Q | PART NUMBER
+вопрос | НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 1
 
-|33600-Ms 1-670
+|33600-мс 1-670
 
 1693720
 
 -
 
-5 = VF700S'85
+5 = ВФ700С'85
 
 7
 
-7IR
+7ИР
 
-A
+А
 
 5
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCKNO.
+БЛОКНО.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-F-27/4
+Ф-27/4
 
-s
+с
 
-Ss
+сс
 
-B
+Б
 
-g|Cc
+г|Кк
 
 4
 
 :
-Y
+Да
 
-FRAME
+РАМКА
 
 5 ||
 5
 
-1 TURN SIGNAL ASSY. ....ssssesecee
+1 СИГНАЛ ПОВОРОТА В СБОРЕ. ....сссссесекее
 
 4
 
 5
 
-TURN SIGNAL ASSY., R. FR. cccneaes
+СИГНАЛ ПОВОРОТА В СБОРЕ, П. ПЕР. ccneaes
 
 4
 
 §
 
-2 BASE, TURN SIGNAL .......ececeees
+2 БАЗА, СИГНАЛ ПОВОРОТА .......ececees
 
 4
 
-3 LENS, TURN SIGNAL ......cseeceees
+3 ЛИНЗА УКАЗАТЕЛЯ ПОВОРОТА ......cсмееееее
 
 4
 
-SERIAL NUMBER | R
+СЕРИЙНЫЙ НОМЕР | Р
 
-1E
+1Е
 
-FROM
+ОТ
 
-TO
+ТО
 
-Q i PART NUMBER
+Q и НОМЕР ДЕТАЛИ
 
-HONDA
+ХОНДА
 
 |33400-MB0-406
 
@@ -3271,7 +3261,7 @@ HONDA
 
 1260405
 
-5 SOCKET COMP., TURN SIGNAL .......
+5 РАЗЪЕМ КОМП., СИГНАЛ ПОВОРОТА.......
 
 4
 
@@ -3283,7 +3273,7 @@ HONDA
 
 3941408
 
-WIRE COMP., R. TURN SIGNAL .......
+ПРОВОД КОМП., ПРАВЫЙ СИГНАЛ ПОВОРОТА.......
 
 4
 
@@ -3293,7 +3283,7 @@ WIRE COMP., R. TURN SIGNAL .......
 
 |33405-MB1-671
 
-6 GASKET, LENS ...ccscecsacecscecs 45
+6 ПРОКЛАДКА ЛИНЗЫ ...ccscecsacecscecs 45
 
 1260413
 
@@ -3303,7 +3293,7 @@ WIRE COMP., R. TURN SIGNAL .......
 
 1260421
 
-7 HOLDER ..eccccssces secescseeene|
+7 ДЕРЖАТЕЛЬ ..eccccssces secesscseeene|
 
 5
 
@@ -3323,8 +3313,8 @@ WIRE COMP., R. TURN SIGNAL .......
 
 4
 
-8 TURN SIGNAL ASSY. ......cecseeeeed
-TURN SIGNAL ASSY., Le FR. w.seeeee) 4
+8 СИГНАЛ ПОВОРОТА В СБОРЕ. ......сесеееееед
+СИГНАЛ ПОВОРОТА В СБОРЕ, Le FR. у.смееее) 4
 
 5
 
@@ -3334,7 +3324,7 @@ TURN SIGNAL ASSY., Le FR. w.seeeee) 4
 
 1781756
 
-9 SOCKET COMP., TURNSIGNAL ......./4
+9 РОЗЕТКА УКАЗАТЕЛЯ ПОВОРОТА ......./4
 
 5
 
@@ -3344,7 +3334,7 @@ TURN SIGNAL ASSY., Le FR. w.seeeee) 4
 
 3941408
 
-WIRE COMP., L. TURN SIGNAL .......
+ПРОВОД КОМП., Л. УКАЗАТЕЛЯ ПОВОРОТА.......
 
 4
 
@@ -3356,7 +3346,7 @@ WIRE COMP., L. TURN SIGNAL .......
 
 1260454
 
-10 STAY, FR. TURN SIGNAL ......00...14
+10 ПРЕБЫВАНИЯ, ПТ. СИГНАЛ ПОВОРОТА ......00...14
 
 5
 
@@ -3366,7 +3356,7 @@ WIRE COMP., L. TURN SIGNAL .......
 
 1291376
 
-11 STAY, FR. TURN SIGNAL .....sceees
+11 ПРЕБЫВАНИЕ, ПТ. СИГНАЛ ПОВОРОТА .....видно
 
 4
 
@@ -3374,11 +3364,11 @@ WIRE COMP., L. TURN SIGNAL .......
 
 2
 
-133490-ME5-000
+133490-МЕ5-000
 
 1328434
 
-12 TURN SIGNAL ASSY., Ra FR. seseeaee
+12 СИГНАЛ ПОВОРОТА В СБОРЕ, Ra FR. сесиаи
 
 |
 
@@ -3386,35 +3376,35 @@ WIRE COMP., L. TURN SIGNAL .......
 
 1
 
-|33400-MJ 1-405
+|33400-МДж 1-405
 
 4118907
 
 114
 
-& AMERICAN HONDA MOTOR CO. LTD. 1993
+И АМЕРИКАНСКАЯ HONDA MOTOR CO. LTD. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 TO 2005978
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 ДО 2005978
 
-VF700S'84 FRAME NO. ; RC220~EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
+VF700S'84 № РАМЫ. ; RC220~EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
 
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
-CABLES
+КАБЕЛИ
 
-59 E3
+59 Е3
 
-E12
-£4
-F2
+Е12
+4 фунта стерлингов
+Ф2
 GI
 
 5
 
 1
 
-|33605~My 1-000
+|33605~Моя 1-000
 
 1781764
 
@@ -3422,11 +3412,11 @@ GI
 
 1
 
-133400-ms 1-405
+133400-мс 1-405
 
 4118907
 
-TURN SIGNAL ASSY., L. RR. ....ees
+СИГНАЛ ПОВОРОТА В СБОРЕ, Л. ЗАД. ....есть
 
 4
 
@@ -3434,11 +3424,11 @@ TURN SIGNAL ASSY., L. RR. ....ees
 
 1
 
-| 33650-MJ 1-670
+| 33650-МДж 1-670
 
 1693738
 
-15 WIRE COMP., L. TURN SIGNAL .......
+15 ПРОВОДОВ КОМП., Л. СИГНАЛ ПОВОРОТА.......
 
 4
 
@@ -3446,11 +3436,11 @@ TURN SIGNAL ASSY., L. RR. ....ees
 
 1
 
-133655-ms 1-000
+133655-мс 1-000
 
 1734508
 
-16 BRACKET, R. RR. TURN SIGNAL ......
+16 КРОНШТЕЙН, П.ЗАП. СИГНАЛ ПОВОРОТА......
 
 4
 
@@ -3462,7 +3452,7 @@ TURN SIGNAL ASSY., L. RR. ....ees
 
 1781772
 
-1? BRACKET, L. RR. TURN SIGNAL ......
+1? КРОНШТЕЙН, L.RR. СИГНАЛ ПОВОРОТА......
 
 4
 
@@ -3474,7 +3464,7 @@ TURN SIGNAL ASSY., L. RR. ....ees
 
 4781780
 
-18 BULB, TURN SIGNAL (12V 23W) ......
+18 ЛАМПОЧКА УКАЗАТЕЛЯ ПОВОРОТА (12В 23ВТ) ......
 
 4
 
@@ -3486,26 +3476,26 @@ TURN SIGNAL ASSY., L. RR. ....ees
 
 0145318
 
-HORN
+ГОРН
 
-66 E7
-Sa £1
-68 EB
+66 Е7
+Сб £ 1
+68 ЭБ
 
-MUFFLER
+ГЛУШИТЕЛЬ
 
-RADIATOR
-SEAT
+РАДИАТОР
+СИДЕНЬЕ
 
-100 Fi2
+100 Фи2
 
 -
 
 -<
 
-CYLINDER
+ЦИЛИНДР
 
-cece cece
+Сесе Сесе
 
 4
 
@@ -3527,7 +3517,7 @@ cece cece
 
 0881151
 
-21 SCREW, SPECIAL, 6X8 2... ccc ences
+21 ВИНТ СПЕЦИАЛЬНЫЙ, 6X8 2... см.
 
 4
 
@@ -3539,7 +3529,7 @@ cece cece
 
 1425274
 
-22 SCREW, TAPPING, 4X12 .....e.eceee
+22 ВИНТ НАРЕЗНОЙ РЕЗЬБЫ, 4X12 .....e.eceee
 
 4
 
@@ -3551,9 +3541,9 @@ cece cece
 
 0791277
 
-23 SCREW, TAPPING, 4X25
+23 ВИНТ НАРЕЗНОЙ РЕЗЬБЫ, 4X25
 
-2... cccceee
+2... CCCCCEEE
 
 45
 
@@ -3563,7 +3553,7 @@ cece cece
 
 1216209
 
-24 NUT, FLANGE, 12MM...
+24 ГАЙКА, ФЛАНЕЦ, 12 ММ...
 
 ce cece se ceee
 
@@ -3577,130 +3567,128 @@ ce cece se ceee
 
 5
 
-61 E4
+61 Е4
 
-ELECTRIC PARTS
-FENDER, FR
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ
+ФЕНДЕР, Франция
 
-117 G&
-70 ES
+117 г&
+70 ЭС
 
-FENDER. RR
+КРЫЛО. RR
 
 112
 
 G6
 
-FINAL DRIVEN GEAR
+КОНЕЧНАЯ ВЕДУЩАЯ ПЕРЕДАЧА
 
-84
+84Фа
 
-Fa
+РАМКА
 
-FRAME
+123 Гит
+Б7 Ф5
+87 ФС
 
-123 Git
-B7 F5
-87 FS
+ТОПЛИВНЫЙ БАК
+ТОПЛИВНЫЙ КЛАПАН
 
-FUEL TANK
-FUEL VALVE
+РУЛЬ
+ФАРА
 
-HANDLEBAR
-HEADLIGHT
+120 Гт0
+90 Ф7
 
-120 Gt0
-90 F7
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ
 
-SHIFT PEDAL
+102 ГИ
 
-102 GI
+АМОРТИЗАТОР
 
-SHOCK ABSORBER
+110 ГС
 
-110 GS
+АМОРТИЗАТОР. фр.
+БОКОВАЯ КРЫШКА
 
-SHOCK ABSORBER. FR
-SIDE COVER
+71 Е9
+92 ФБ
 
-71 E9
-92 FB
+БЛОК ИСКРЫ
 
-SPARK UNIT
+112 Г6
 
-112 G6
+СТЕНД
 
-STAND
+106 Г3
 
-106 G3
-
-SPEEDOMETER
+СПИДОМЕТР
 
 56 £2
 
-STEERING STEM
+РУЛЕВОЙ ШТОК
 
 68 €8
 
-STEP
+ШАГ
 
-104 G2
+104 Г2
 
-STRIPE
+ПОЛОСКА
 
-128 H2
+128 Н2
 
-SWINGARM
+МАТЧИК
 
-108 G4
+108 Г4
 
-TAILLIGHT
-TOOLS
+ЗАДНИЙ ФОНАРЬ
+ИНСТРУМЕНТЫ
 
-126 Hi
+126 Привет
 
-SWITCHES
+ПЕРЕКЛЮЧАТЕЛИ
 
 59 £3
 
-116 GB
+116 ГБ
 
-TOP BRIDGE
+ВЕРХНИЙ МОСТ
 
-6E
+6Е
 
-TURN SIGNAL
-WHEEL.
+СИГНАЛ ПОВОРОТА
+КОЛЕСО.
 
-78 F1
+78 Ф1
 
-FR
+фр.
 
 82
 
-F3
-117 G8
+Ф3
+117 Г8
 
-WIRE HARNESS
+ЖГУТ ПРОВОДОВ
 
-% AMERICAN HONDA MOTOR CO. LTD. 1993
+% АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
 118
 
-GRID
+СЕТКА
 
-E7
+Е7
 
 114 G7
 
-WHEEL RA
+КОЛЕСО РА
 
 G7
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'85 FRAME NO.; RC220~FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S'85 НОМЕР РАМЫ; RC220~FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 НОМЕР РАМЫ; RC221-FM100001 ДО FM100863
 
 76
 61
@@ -3711,252 +3699,252 @@ VF700S'85 FRAME NO.; RC221-FM100001 TO FM100863
 
 4061347
 
-4 REFLECTOR, TURN SIGNAL ..........
+4 ОТРАЖАТЕЛЬ СИГНАЛА ПОВОРОТА..........
 
-BRAKE MASTER. FR
-BRAKE PANEL. RR
-BRAKE PEDAL
+ТОРМОЗНОЙ МАСТЕР. фр.
+ТОРМОЗНАЯ ПАНЕЛЬ. RR
+ПЕДАЛЬ ТОРМОЗА
 
 4
 
-CODE
+КОД
 
 1
 ~
 
-BRAKE CALIPER, FR
+ТОРМОЗНОЙ СУППОРТ, ПЕР.
 
-14 TURN SIGNAL ASSY., R. FR. .eceeees
+14 СИГНАЛ ПОВОРОТА В СБОРЕ, П. ПЕР. .eceeees
 
 20 BOLT, SOCKET, 8X16 ..
-y
+й
 
-FIO
+ФИО
 
-95 FS
+95 ФС
 
-13 WIRE COMP., R. TURN SIGNAL .......
+13 ПРОВОД КОМП., ПРАВЫЙ СИГНАЛ ПОВОРОТА.......
 
-(STANLEY) ...cccccacnscnceners
+(СТЭНЛИ) ...ccccacnscenners
 
 ¥
 
 87
 
-BATTERY
+АККУМУЛЯТОР
 
-CANISTER (AC)
-132 Ha
-CLUTCH MASTER CYLINDER 64 E6
-CONTROL LEVER
-59 E3
+КАНИСТРА (AC)
+132 Га
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ 64 E6
+РЫЧАГ УПРАВЛЕНИЯ
+59 Е3
 
-19 BULB, TURN SIGNAL (12V23/8W)
+19 ЛАМПОЧКА, СИГНАЛ ПОВОРОТА (12V23/8W)
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-GRID
+СЕТКА
 
-56 E2
+56 Е2
 
-AIR CLEANER
+ВОЗДУХООЧИСТИТЕЛЬ
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-TO
+ТО
 
-PAGE
+СТРАНИЦА
 
-TACHOMETER
+ТАХОМЕТР
 
-T
+Т
 
 G7
 
-TAILLIGHT
+ЗАДНИЙ ФОНАРЬ
 
-WIRE HARNESS e ELECTRIC PARTS
+ЖГУТЫ ПРОВОДОВ и ЭЛЕКТРИЧЕСКИЕ ЧАСТИ
 
 *,.
 
-CONTENTS
-TITLE
+СОДЕРЖАНИЕ
+НАЗВАНИЕ
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-BATTERY
+АККУМУЛЯТОР
 
-95 FO
+95 ФО
 
-TACHOMETER
+ТАХОМЕТР
 
-TM
+ТМ
 
-56 E2
+56 Е2
 
-AIR CLEANER
+ВОЗДУХООЧИСТИТЕЛЬ
 
 97
 
-BRAKE CALIPER. FR
+ТОРМОЗНОЙ СУППОРТ. фр.
 
-we
+мы
 
-NN
+НН
 
-76 E12
-61 EA
+76 Е12
+61 шт.
 
-BRAKE MASTER. FR
-BRAKE PANEL. RR
-BRAKE PEDAL
+ТОРМОЗНОЙ МАСТЕР. фр.
+ТОРМОЗНАЯ ПАНЕЛЬ. RR
+ПЕДАЛЬ ТОРМОЗА
 
-ao F2
-102 G1
+АО F2
+102 Г1
 
-CANISTER (AC)
+КАНИСТРА (AC)
 
-132 HA
+132 ГА
 
-CABLES
+КАБЕЛИ
 
 }
 
-O
+О
 
-59 E3
+59 Е3
 
-CLUTCH MASTER CYLINDER
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ
 
-CONTROL LEVER
-CYLINDER
+РЫЧАГ УПРАВЛЕНИЯ
+ЦИЛИНДР
 
-my
+мой
 
 .
 
-I
+я
 
-a /K\
+/К\
 
-PANY
+ПАНИЯ
 
-FENDER. RR
+КРЫЛО. RR
 
-112 G6
+112 Г6
 
-FRAME
+РАМКА
 
-123 Gi
+123 Ги
 
 70 €9
 
-FINAL DRIVEN GEAR
+КОНЕЧНАЯ ВЕДУЩАЯ ПЕРЕДАЧА
 
-Ba Fa
+Ба Фа
 
-B? FS
+Б? ФС
 
-FUEL VALVE
+ТОПЛИВНЫЙ КЛАПАН
 
-87 FS
+87 ФС
 
-HANDLEBAR
-HEADLIGHT
-HORN
-MUFFLER
+РУЛЬ
+ФАРА
+ГОРН
+ГЛУШИТЕЛЬ
 
-66 E7
-54 E}
-68 E8
-100 F12
+66 Е7
+54 Е}
+68 Е8
+100 Ф12
 
-RADIATOR
+РАДИАТОР
 
-F 14MBOE28
-4 = VF700S'84
+Ф 14МБОЭ28
+4 = ВФ700С'84
 
-vv
+вв
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-Fe
+Фе
 0
 
--—~—
+--~—
 
-Ret.
+В отставке.
 
-No.
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-1 GASKET, SEAL...
+1 ПРОКЛАДКА, УПЛОТНЕНИЕ...
 
-F-28/4
+Ф-28/4
 
 ccc scecseesennee
 
-A
+А
 
-OjE
+Одже
 
 2
 
-Qa
+Ка
 
-B
+Б
 
-B
+Б
 
 4
 
-Cc
+Копия
 
 5 | 5]
-5|/E]
+5|/Е]
 
 F14MBOE29
-4 = VF700S'84
+4 = ВФ700С'84
 
-5 = VF700S'85
+5 = ВФ700С'85
 
-Q
+вопрос
 
 7
 
 0
 
-T
+Т
 
-Y
+Да
 
-SERIAL NUMBER| &
-TO
+СЕРИЙНЫЙ НОМЕР| &
+ТО
 
 8
 
-a
+а
 
 4
 
-5/E|
+5/Е|
 
-HONDA
+ХОНДА
 
-Ret.
+В отставке.
 
-BLOCK NO.
+БЛОК №.
 
-F-29/ 4 5 |
+Ф-29/ 4 5 |
 
-Q
+вопрос
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 2
 
@@ -3964,7 +3952,7 @@ CODE
 
 0845875
 
-1 CLIP, OVER FLOW TUBE
+1 ЗАЖИМ, НАД ТРУБКОЙ ПОТОКА
 
 ........000.
 
@@ -3972,9 +3960,9 @@ CODE
 
 5
 
-No.
+Нет.
 
-DESCRIPTION
+ОПИСАНИЕ
 
 6
 
@@ -3994,13 +3982,13 @@ DESCRIPTION
 
 1265016
 
-2 COIL COMP., IGNITION .....ccceuee
+2 КАТУШКА ЗАЖИГАНИЯ .....ccceuee
 
 4
 
 5
 
-3 WIRE COMP., TAILLIGHT ...........
+3-ПРОВОДНОЙ КОМПЛЕКТ, ЗАДНИЙ ФОНАР ............
 
 4
 
@@ -4012,13 +4000,13 @@ DESCRIPTION
 
 1265412
 
-3 COIL COMP., IGNITION ........005.
+3 КАТУШКА ЗАЖИГАНИЯ ........005.
 
 4
 
-4 BULB, TAILLIGHT (12V27/7W 2057HD) | 4
+4 ЛАМПОЧКИ ЗАДНЕГО ФОНА (12V27/7W 2057HD) | 4
 
-SIA
+СИА
 
 5
 
@@ -4028,7 +4016,7 @@ SIA
 
 1700301
 
-BULB, TAILLIGHT (12V 27/8W) ..... 4
+ЛАМПОЧКА ЗАДНЕГО ФАРА (12 В 27/8 Вт) ..... 4
 
 ;
 
@@ -4046,7 +4034,7 @@ BULB, TAILLIGHT (12V 27/8W) ..... 4
 
 4
 
-Sac
+Сак
 
 3
 
@@ -4054,10 +4042,10 @@ Sac
 
 0954016
 
-4 SPACER, IGNITION COIL .....ceecce
+4 ПРОСТАВКА, КАТУШКА ЗАЖИГАНИЯ .....ceecce
 
-6 BOLT, HEX., 6X16 se .sseseseserees 45
-BOLT, HEX.» 6X16 ...seesesesesees 45
+6 БОЛТ С ШЕСТИГР., 6X16 шт. sseseseserees 45
+БОЛТ ШЕСТИГРАННЫЙ.» 6X16 ...см.см.видит 45
 
 4
 
@@ -4072,83 +4060,83 @@ BOLT, HEX.» 6X16 ...seesesesesees 45
 0623801
 2234896
 
-5 CAP ASSY. 1, COILWIRE .......008. 4
-6 CAP ASSY. 2, COILWIRE .......000. 4
+5 КРЫШКА В СБОРЕ. 1, КАТУШКА .......008. 4
+6 КРЫШКА В СБОРЕ. 2, КАТУШКА .......000. 4
 
 5
-SIA
+СИА
 
-2 TAILLIGHT UNIT (12V 23/8W)
+2 ЗАДНИЕ ФОНАРИ (12 В 23/8 Вт)
 
-5 WASHER, GMM
+5 ШАЙБА, ГММ
 
-Lo.
-cece cece ce
+Ло.
+Сесе Сесе Сесе
 ..
-eeen
+ээээн
 
 4
 
 -
 
-Q
+вопрос
 
-wy
+почему
 
-IGNITION
+ЗАЖИГАНИЕ
 
-COIL COMP.» TGNITION
+КАТУШКА КОМП.» TGNITION
 
-1... cece cnese
+1... это не так
 
-CAP ASSY. 2, COIL WIRE .....ueee «14
+КРЫШКА В СБОРЕ. 2, ПРОВОД КАТУШКИ .....уее «14
 
-110 G5
+110 Г5
 
-T
+Т
 
-FRAME
+РАМКА
 
-FROM
+ОТ
 
-TO
+ТО
 
 {ac
 
 -
 
-Q
+вопрос
 
-Ne Be
-106 G3
+Не Бе
+106 Г3
 
-68 EB
+68 ЭБ
 
-HONDA
+ХОНДА
 
-TAILLIGHT
+ЗАДНИЙ ФОНАРЬ
 
 1323948
 
-Tune iGo
+Настройте iGo
 
 |30510-MA6-013
 
 1811173
 
-WHEEL aa
+КОЛЕСО аа
 
 2
 
 130510-MB0-702
 
-heroes
+герои
 
-WIRE HARNESS
+ЖГУТ ПРОВОДОВ
 
-‘tetomeo stk
+'тетомео стк
 
-sebosan
+себосан
 
 1
 
@@ -4158,9 +4146,7 @@ sebosan
 
 &
 
-|30520-B0-000
-
-1245984
+|30520-B0-0001245984
 
 2 |30751-ma0-950
 1 |30752-mB0-700
@@ -4178,11 +4164,11 @@ JAC
 
 1799006
 
-7? CAP ASSY. 4, COIL WIRE ........ ee
+7? КРЫШКА В СБОРЕ. 4, ПРОВОД КАТУШКИ........ее
 
 5
 
-]A
+]А
 
 41
 
@@ -4190,7 +4176,7 @@ JAC
 
 1876614
 
-CAP ASSY. 4, COIL WIRE ....ceeaese
+КРЫШКА В СБОРЕ. 4, ПРОВОД КАТУШКИ ....понятно
 
 5
 
@@ -4220,31 +4206,31 @@ JAC
 
 1781707
 
-0 ep
+0 эп.
 
-116 GB
+116 ГБ
 
-TOOLS
+ИНСТРУМЕНТЫ
 
 1
 
-126 Ht
+126 Вт
 
-eS
+ЭС
 
-bs
+бс
 
 _
 
-8 RECTIFIER ASSY., SILICON
+8 ВЫПРЯМИТЕЛЬ В СБОРЕ, КРЕМНИевый
 
-(STANLEY) ..cccvecneccencuccss
+(СТЭНЛИ) ..cccvecneccencuccss
 
 4
 
 5
 
-RECTIFIER ASSY., SILICON
+ВЫПРЯМИТЕЛЬ В СБОРЕ, КРЕМНИевый
 CSHINDENGEN) .....ccceceeseccs
 
 4
@@ -4253,44 +4239,44 @@ CSHINDENGEN) .....ccceceeseccs
 
 4
 
-ont
+онт
 
-9 HARNESS, WIRE
+9 ЖГУТ ПРОВОДОВ
 116
 
-¢ AMERICAN HONDA MOTOR CO. LTD. 1993
+¢ АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
-VF700S'84 ENGINE NO.; RC22E-2000008 To 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 TO EM005012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
-VF700S'84 FRAME NO.; RC221-EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 К 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 ДО EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S'84 НОМЕР РАМЫ; RC221-EM000006 ДО EM001081
 
 G8
 
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103668
-VF700S'B5 FRAME NO. RC220~FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF7005'85 FRAME NO.; RC221~FM100001 TO FM 100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103668
+VF700S'B5 НОМЕР РАМЫ. RC220~FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF7005'85 НОМЕР РАМЫ; RC221~FM100001 К FM 100863
 
-....cccceucacs wove}
+....ccceucacs плели}
 
 ~
 
-A
+А
 
-¢ AMERICAN HONDA MOTOR CO. LTD. 1993
+¢ АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД. 1993 год
 
 V7
 
-GRID
+СЕТКА
 
 G2
 
-128 H2
+128 Н2
 
-whens
+когда
 
-CODE
+КОД
 
 |19109-MB0-700
 
@@ -4298,115 +4284,115 @@ CODE
 
 104
 
-STRIPE
+ПОЛОСКА
 
 2
 
-AC
-A
+переменного тока
+А
 
-SPEEDOMETER
-STEP
+СПИДОМЕТР
+ШАГ
 
-|PART NUMBER
+|НОМЕР ДЕТАЛИ
 
 &9
 
-92 FB
+92 ФБ
 
-STEERING STEM
+РУЛЕВОЙ ШТОК
 
-R
+Р
 
-| SERIAL NUMBER | 2
+| СЕРИЙНЫЙ НОМЕР | 2
 
 71
 
 |
 
-STAND
+СТЕНД
 
-Y
+Да
 
-FRAME
+РАМКА
 
-FROM
+ОТ
 
-7(/R
+7(/р
 
-gia
+Джиа
 
-90 F7
-102 GI
+90 Ф7
+102 ГИ
 
-SHOCK ABSORBER
+АМОРТИЗАТОР
 
-SIDE COVER
+БОКОВАЯ КРЫШКА
 
-Ole
+Оле
 
-g
+г
 
-120 G10
+120 Г10
 
-SEAT.
-SHIFT PEDAL.
+СИДЕНЬЕ.
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ.
 
-SHOCK ABSORBER. FR
+АМОРТИЗАТОР. фр.
 
-Vv.
+Вв.
 
 59 £3
-61 E4
+61 Е4
 
-117 GB
+117 ГБ
 
-FUEL TANK
+ТОПЛИВНЫЙ БАК
 
-Pan
+Пан
 
-64 E6
+64 Е6
 
-ELECTRIC PARTS
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ
 
-FENDER, FR
+ФЕНДЕР, Франция
 
-“4
+«4
 
-F110
+Ф110
 
 G8
 
-117 G8
+117 Г8
 
-WIRE HARNESS e ELECTRIC PARTS
+ЖГУТЫ ПРОВОДОВ и ЭЛЕКТРИЧЕСКИЕ ЧАСТИ
 
-5 = VF?00S'88
+5 = ВФ?00С'88
 
-aap
+аап
 7
-7TR
+7ТР
 
-mit
+мит
 
-Ss
+сс
 
-Ret
-No.
+Рет
+Нет.
 
-BLOCK NO.
+БЛОК №.
 
 8
 
 F-29]4
 
-“of \
+«из \
 
-Q
+вопрос
 
-[PART NUMBER
+[НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 5
 
@@ -4426,10 +4412,10 @@ CODE
 
 0670729
 
-NUT, FLANGE, 6MM
-oo...
-ese
-eeeees lO
+ГАЙКА, ФЛАНЕЦ, 6ММ
+оо...
+это
+эээээ ло
 
 5
 
@@ -4465,31 +4451,31 @@ eeeees lO
 
 2204709
 
-21 GROMMET, AIR CLEANER CASE
+21 ВТУЛКА КОРПУСА ВОЗДУХООЧИСТИТЕЛЯ
 
 ..... wl4
 
 5
 
-SCREW, WASHER, 6X16
+ВИНТ, ШАЙБА, 6X16
 
 5
 
-..eseescece we[--
+..мы уходим[--
 
-27 FUSE B(1OA) ..ccccceesescecceces
+27 ПРЕДОХРАНИТЕЛЬ B(1OA) ..ccccceesescecceces
 
 4
 4
 
 5
--~-
+--~-
 
-TO
+ТО
 
 [AC
 
-HONDA
+ХОНДА
 
 1 |90672~SA0-003
 
@@ -4501,47 +4487,47 @@ HONDA
 
 0562793
 
-vVeV
+вВэВ
 
-5 © VF700S'85
+5 © ВФ700С'85
 
-fF Fla
+ФФ Флорида
 
-0 O/k
+0 О/к
 
-BLOCK NO.
+БЛОК №.
 
-DESCRIPTION
+ОПИСАНИЕ
 
-F-20914
+Ф-20914
 
 .....cccsssesneees
 
-s
+с
 
-S$
+сингапурских долларов
 
-ps
+пс
 
 ef{C
 
 4
 
 9
-v
+в
 
-FRAME
+РАМКА
 
-5 || SERIAL NUMBER | R
-57E
+5 || СЕРИЙНЫЙ НОМЕР | Р
+57Е
 
-FROM
+ОТ
 
-TO
+ТО
 
-Q | PART NUMBER
+вопрос | НОМЕР ДЕТАЛИ
 
-CODE
+КОД
 
 6
 
@@ -4551,7 +4537,7 @@ CODE
 
 |32100-MB0-960
 
-5|A
+5|А
 
 1
 
@@ -4559,9 +4545,9 @@ CODE
 
 1876655
 
-HARNESS, WERE
+ЖГУТ, БЫЛИ
 
-....c..cccscceeees
+....c..ccccceeees
 
 --
 
@@ -4569,11 +4555,11 @@ HARNESS, WERE
 
 1
 
-|32100-mB0~920
+|32100-мБ0~920
 
 1876663
 
-10 CASE, FUSE (10A) ...cseesesececs
+10 КОРПУС, ПРЕДОХРАНИТЕЛЬ (10А) ...cseesesececs
 
 4
 
@@ -4585,11 +4571,11 @@ HARNESS, WERE
 
 0935122
 
-11 CLIP, HARNESS
+11 ЗАЖИМ, ЖГУТ ПРОВОДОВ
 
 4
 
-.....eceseseseveee
+.....eceseseseseveee
 
 5
 
@@ -4607,11 +4593,11 @@ HARNESS, WERE
 
 0468819
 
-13 BRACKET, R. ELECTRIC PARTS ......
+13 КРОНШТЕЙН ПРАВЫЙ ЭЛЕКТРИЧЕСКОЙ ЧАСТИ......
 
 4
 
-SIA
+СИА
 
 1
 
@@ -4619,13 +4605,13 @@ SIA
 
 1789338
 
-BRACKET, R. ELECTRIC PARTS ......
+КРОНШТЕЙН ППРАВЫЙ ЭЛЕКТРИЧЕСКИЕ ЧАСТИ ......
 
 4
 
 5
 
-{AC
+{АС
 
 1
 
@@ -4633,7 +4619,7 @@ BRACKET, R. ELECTRIC PARTS ......
 
 1781921
 
-1 CLAMP, COIL WIRE ....... seaeaee 14
+1 ЗАЖИМ, ПРОВОД КАТУШКИ ....... seaeaee 14
 
 5
 
@@ -4645,9 +4631,9 @@ JAC
 
 1799055
 
-15 BRACKET, L. ELECTRIC PARTS ....0.
+15 КРОНШТЕЙН Л. ЭЛЕКТРИЧЕСКОЙ ЧАСТИ ....0.
 
-SIA
+СИА
 
 1
 
@@ -4655,15 +4641,15 @@ SIA
 
 1308873
 
-BRACKET, L. ELECTRIC PARTS ..... -14
+КРОНШТЕЙН Л. ЭЛЕКТРИЧЕСКОЙ ЧАСТИ ..... -14
 
-16 PROTECTOR, TUBE
+16 ЗАЩИТА ТРУБКИ
 
 ...ccccecesececs ~~
 
-17 CLIP, AIR VENT TUBE
+17 ЗАЖИМ, ВОЗДУШНО-ВЕНТИЛЯЦИОННАЯ ТРУБКА
 
-........ eevee
+........ иви
 
 5
 
@@ -4677,7 +4663,7 @@ BRACKET, L. ELECTRIC PARTS ..... -14
 
 5
 
-{AC
+{АС
 
 1
 
@@ -4715,7 +4701,7 @@ BRACKET, L. ELECTRIC PARTS ..... -14
 
 1308899
 
-20 LABEL, FAN MOTOR FUSE .....eee.05
+20 ЯРЛЫК, ПРЕДОХРАНИТЕЛЬ ДВИГАТЕЛЯ ВЕНТИЛЯТОРА .....eee.05
 
 4
 
@@ -4725,269 +4711,265 @@ BRACKET, L. ELECTRIC PARTS ..... -14
 
 |38216-MB0-960
 
-1809490
+180949018 КРЫШКА ППРАВ. ЭЛЕКТРИЧЕСКОЙ ЧАСТИ ...0,005
+19 КРЫШКА Л. ЭЛЕКТРИЧЕСКИЕ ЧАСТИ
 
-18 COVER, R. ELECTRIC PARTS ...0.005
-19 COVER, L. ELECTRIC PARTS
+переменный ток
 
-Ac
+¢ АМЕРИКАНСКАЯ ХОНДА МОТОР КО. ЛТД, 1963 г.
 
-¢ AMERICAN HONDA MOTOR CO. LTD 1963
-
-VF700S'84 ENGINE NO.; RC22E-2000008 To 2005978
-VF700S'84 FRAME NO.; RC220-EM000007 To EM005012
-VF700S'84 ENGINE NO.; RC22E-2002575 TO 2006097
-VF700S'B4 FRAME NO.; RC221~EM000006 TO EM001081
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2000008 К 2005978
+VF700S'84 НОМЕР РАМЫ; RC220-EM000007 К EM005012
+VF700S'84 НОМЕР ДВИГАТЕЛЯ; RC22E-2002575 ДО 2006097
+VF700S'B4 № РАМЫ; RC221~EM000006 ДО EM001081
 
 .
 
-95 F9
-76 E12
-61 E4
+95 Ф9
+76 Е12
+61 Е4
 
-BO F2
-102 G1
+БО Ф2
+102 Г1
 
-CABLES
+КАБЕЛИ
 
 59 £3
 
-CANISTER (AC)
+КАНИСТРА (AC)
 _ . 132 4
-CLUTCH MASTER CYLINDER 64 E6
+ГЛАВНЫЙ ЦИЛИНДР СЦЕПЛЕНИЯ 64 E6
 
-CONTROL LEVER
+РЫЧАГ УПРАВЛЕНИЯ
 
 59 £3
 
-ELECTRIC PARTS
-FENDER. FR.
+ЭЛЕКТРИЧЕСКИЕ ЧАСТИ
+КРЫЛО. фр.
 
-117 G8
+117 Г8
 70 €9
 
-CYLINDER
+ЦИЛИНДР
 
-61 E4
+61 Е4
 
-FENDER. RR
+КРЫЛО. RR
 
-112 G6
-84 F4
+112 Г6
+84 Ф4
 
-FINAL DRIVEN GEAR
+КОНЕЧНАЯ ВЕДУЩАЯ ПЕРЕДАЧА
 
-FRAME
+РАМКА
 
-123 G11
+123 Г11
 
-FUEL TANK
+ТОПЛИВНЫЙ БАК
 
-87 FS
+87 ФС
 
-FUEL VALVE
+ТОПЛИВНЫЙ КЛАПАН
 
-87 F5
+87 Ф5
 
-HANDLEBAR
+РУЛЬ
 
-66 E7
+66 Е7
 
-MUFFLER
-RADIATOR
+ГЛУШИТЕЛЬ
+РАДИАТОР
 
-100 Fi2
-120 G10
+100 Фи2
+120 Г10
 
-HEADLIGHT
-HORN
+ФАРА
+ГОРН
 
-SEAT _..
-SHIFT PEDAL .
+СИДЕНЬЕ _...
+ПЕДАЛЬ ПЕРЕКЛЮЧЕНИЯ .
 
-54 £1
-66 EB
+54 фунта стерлингов 1
+66 ЭБ
 
 ;
 
-90 F7
+90 Ф7
 
-SHOCK ABSORBER
+АМОРТИЗАТОР
 
-102 G1
-110 G5
+102 Г1
+110 Г5
 
-SHOCK ABSORBER FR
-SIDE COVER
-a
+АМОРТИЗАТОР FR
+БОКОВАЯ КРЫШКА
+а
 
 71 €9
-92 FB
+92 ФБ
 
-SPARK UNIT
+БЛОК ИСКРЫ
 
-112 G6
+112 Г6
 
-STAND
+СТЕНД
 
-106 G3
+106 Г3
 
-STEERING STEM
-STEP _.
-
-.
-
-TAILLIGHT .
+РУЛЕВОЙ ШТОК
+ШАГ _.
 
 .
 
-68 EB
-104 G2
+ЗАДНИЙ ФОНАРЬ.
+
+.
+
+68 ЭБ
+104 Г2
 
 128 2
-108 G4
-59 E3
-+16 GB
+108 Г4
+59 Е3
++16 ГБ
 
-126 H1
+126 Н1
 
-TOP BRIDGE
+ВЕРХНИЙ МОСТ
 
-66 E7
+66 Е7
 
-TURN SIGNAL
+СИГНАЛ ПОВОРОТА
 
 114 G7
 
-WHEEL, FR
+КОЛЕСО, FR
 
-78 F1
+78 Ф1
 
-WHEEL. RA.
+КОЛЕСО. РА.
 
-82 F3
+82 Ф3
 
-WIRE HARNESS
+ЖГУТ ПРОВОДОВ
 
 GS
 
-VF700S'85 ENGINE NO.; RC2ZE-2100001 TO 2103668
-VF700S'85 FRAME NO.; RCZ220-FM100001 TO FM102800
-VF700S'85 ENGINE NO.; RC22E-2100001 TO 2103285
-VF700S'85 FRAME NC.; RC221-FM100001 TO FM100863
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC2ZE-2100001 ТО 2103668
+VF700S'85 НОМЕР РАМЫ; RCZ220-FM100001 ДО FM102800
+НОМЕР ДВИГАТЕЛЯ VF700S'85; RC22E-2100001 К 2103285
+VF700S'85 РАМА НЗ; RC221-FM100001 ДО FM100863
 
-56 E2
+56 Е2
 
-._..
+._...
 
 TOOLS ..
 
 1799022
 
-12 BAND B1, WIRE ...cccccccesasscecs
+12 ПОЛОСКА B1, ПРОВОД ...cccccccesasscecs
 
-b
+б
 
-BATTERY .
-BRAKE CALIPER. FR.
-BRAKE MASTER, FR.
-BRAKE PANEL RAR
-BRAKE PEDAL
+БАТАРЕЯ.
+ТОРМОЗНОЙ СУППОРТ. фр.
+ТОРМОЗНОЙ МАСТЕР, ФР.
+ТОРМОЗНАЯ ПАНЕЛЬ РАР
+ПЕДАЛЬ ТОРМОЗА
 
-STRIPE
-SWINGARM
-SWITCHES
+ПОЛОСКА
+МАТЧИК
+ПЕРЕКЛЮЧАТЕЛИ
 
-HONDA
+ХОНДА
 
-....cccescsesecuce —~
+....cccesscesesecuce —~
 
-|AC
+|АС
 
-97 F10
+97 Ф10
 
-SPEEDOMETER
+СПИДОМЕТР
 
-HARNESS, WERE
+ЖГУТ, БЫЛИ
 
 118
 
-5TE
+5ТЕ
 
-BOLT, HEX., 6X20 ...eeeeeceaees 14
+БОЛТ С ШЕСТИГР., 6X20 ...eeeeeceaees 14
 
-BOLT, FLANGE, 6X10 .....esesecees
+БОЛТ, ФЛАНЕЦ, 6X10 .....esesecees
 
-4 = VF700S'84
+4 = ВФ700С'84
 
-FRAME
+РАМКА
 
-56 E2
+56 Е2
 
-AIR CLEANER
+ВОЗДУХООЧИСТИТЕЛЬ
 
-FROM
+ОТ
 
 4
 
-26 BOLT, FLANGE, 6X10 ..sesesecesees 4 5
+26 БОЛТ, ФЛАНЕЦ, 6X10 ..seseseseceses 4 5
 F14MB0E29
 
-v
+в
 
-a
+а
 
-DESCRIPTION
+ОПИСАНИЕ
 
 25
 
-aa
+аа
 
-Q HARNESS, WIRE
+Q ЖГУТ ПРОВОДОВ
 
-rae
+Рэй
 
-24 BOLT, HEX.) 6X20 wecsecsecceees LG S
+БОЛТ 24, ШЕСТИГР.) 6X20 wecsecceees LG S
 
 °
 
-No.
+Нет.
 
-Cc
+Копия
 
-23 STRAP, CABLE, 118MM (BLACK) .....[4 --
+23 РЕМЕНЬ КАБЕЛЬНЫЙ, 118ММ (ЧЕРНЫЙ) .....[4 --
 
-at A
+в А
 
-Ret.
+В отставке.
 
 8
 
-PAGE GRID
+СЕТКА СТРАНИЦ
 
-TACHOMETER
+ТАХОМЕТР
 
-SERIAL NUMBER
+СЕРИЙНЫЙ НОМЕР
 
-22 NUT, CAP, GMM .cccsceveseseserene|
+22 ГАЙКА, КОЛПАЧОК, GMM .cccsceveseseserene|
 
 ,
 
-Ss
+сс
 
 5
 
-TITLE
+НАЗВАНИЕ
 
 ;
 
-117 G8
+117 Г8
 
-© AMERICAN
-HONDA MOTOR CO, LTD. 1983
+© АМЕРИКАНСКИЙ
+ХОНДА МОТОР КО, ООО. 1983 год
 
-GRID
+СЕТКА
 
 G9
-
-
