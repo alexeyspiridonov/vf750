@@ -61,8 +61,8 @@ The old monolithic `howto.md` has been split into one instruction per file under
 ## Tuning
 
 - [Top end oil modification](top-end-oil-mod.md)
-- [Front end swap (modern USD forks)](front-end-swap-modern-usd-forks.md)
-- [EFI conversion](efi-conversion.md)
+- [Front end swap planning](../fork%20swap.md)
+- [EFI / ECU swap planning](../ecu%20swap.md)
 
 ## Fabrication And Custom Work
 
@@ -73,9 +73,8 @@ The old monolithic `howto.md` has been split into one instruction per file under
 
 ## Related Long-Form Notes
 
-- `fork swap.md`
-- `ecu swap.md`
+- [Fork swap planning](../fork%20swap.md)
+- [EFI / ECU swap planning](../ecu%20swap.md)
 - `top-end-oiling.md`
 - `problems.md`
 - `manuals/electrical-reference/`
-
