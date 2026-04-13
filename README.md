@@ -16,7 +16,7 @@ It collects service documentation, parts catalogs, research notes, and reference
 If you are starting work in this repository, use this order:
 
 1. Read `README.md` to understand the repo structure and available materials.
-2. Open `howto.md` for the most common maintenance, diagnostics, and modification tasks.
+2. Open `HowTo/README.md` for the most common maintenance, diagnostics, and modification tasks.
 3. Review `problems.md` for the known weak points of the VF750 / V45 platform.
 4. Use `manuals/electrical-reference/` first for wiring and charging diagnostics.
 5. Use `manuals/cdi-reference/` for spark units, timing, ignition diagnostics, and replacement paths.
@@ -36,7 +36,8 @@ manuals/
   cdi-reference/              standalone ignition / spark-unit package
 scripts/                      Python scripts for PDF processing
 images/                       reference images: stock, cafe-racer, Pinterest board downloads
-howto.md                      common maintenance / repair / modification tasks
+HowTo/                        one-file-per-task maintenance / repair / modification guides
+howto.md                      compatibility index that points to `HowTo/`
 problems.md                   common VF750 problems and fixes (English)
 top-end-oiling.md             standalone note on improving cylinder-head oil delivery
 ```
@@ -74,12 +75,12 @@ Each generated manual package contains a `manifest.json` with source mappings an
 | `sabre-cafe-racer-projects.md` | Curated list of real Sabre cafe racer builds with links and analysis (Perry, HackAWeek, Balkan Moto, K-Speed, etc.). |
 | `resources.md` | Forums, wikis, parts sources, Facebook groups, Reddit, and YouTube channels for the VF750 platform. |
 | `problems.md` | Common VF750 / V45 platform problems with symptoms, causes, and practical fixes. |
-| `howto.md` | Workshop-oriented how-to guide for common maintenance, diagnostics, repairs, and cafe racer conversion tasks. |
+| `HowTo/README.md` | Index for the split one-file-per-task how-to guides, including tuning and workshop procedures. |
 | `top-end-oiling.md` | Focused guide to improving oil delivery to the cylinder heads and reducing VF top-end wear risk. |
 
 ## Practical Guides
 
-- `howto.md` consolidates the most typical jobs for the platform: valve adjustment, cam inspection, top-end oil mod, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, and common cafe racer fabrication tasks.
+- `HowTo/README.md` indexes the platform's common jobs as separate files: valve adjustment, cam inspection, top-end oil mod, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, tuning tasks, and cafe racer fabrication tasks.
 - `problems.md` summarizes the recurring failure points of the VF750 family: cam wear, top-end oiling, cam chain tensioners, charging system, carburetors, CDI failures, Pro-Link wear, and related troubleshooting.
 - `top-end-oiling.md` expands the cylinder-head lubrication topic into a standalone practical note with baseline checks, external oil-feed guidance, and limits of the common oiling mod.
 
@@ -114,7 +115,7 @@ Current state:
 
 - source manuals have been processed into searchable, sectioned outputs;
 - research notes cover EFI, front-end swaps, project references, and community resources;
-- a practical service and modification guide has been added in `howto.md`;
+- a practical service and modification guide now lives in `HowTo/`, with `howto.md` retained as a compatibility index;
 - common VF750 issues have been consolidated in English in `problems.md`;
 - a standalone `top-end-oiling.md` note now covers practical cylinder-head oiling improvements;
 - image references are now organized into stock, custom, and Pinterest-derived sets;
