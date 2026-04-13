@@ -76,5 +76,5 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 - [Fork swap planning](../Tuning/fork%20swap.md)
 - [EFI / ECU swap planning](../Tuning/ecu%20swap.md)
 - [Top-end oiling guide](../Tuning/top-end-oiling.md)
-- `problems.md`
+- `../problems.md`
 - `../Manuals/electrical-reference/`
