@@ -41,8 +41,8 @@ Condensed from the repo's current working notes for the VF750 V45 family.
 
 ## Existing Repo Sources
 
-- `howto.md`
-- `problems.md`
-- `manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.pdf`
-- `manuals/haynes-manual/sections/04-fuel-and-exhaust-systems.pdf`
-- `manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf`
+- `../../../HowTo/README.md`
+- `../../../problems.md`
+- `../../haynes-manual/sections/01-tune-up-and-routine-maintenance.pdf`
+- `../../haynes-manual/sections/04-fuel-and-exhaust-systems.pdf`
+- `../../Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf`

@@ -1,6 +1,6 @@
 # Honda VF750 (V45) - HowTo Index
 
-The old monolithic `howto.md` has been split into one instruction per file under `HowTo/`.
+The workshop guide is split into one instruction per file under `HowTo/`.
 
 ## Routine Service
 
@@ -61,8 +61,8 @@ The old monolithic `howto.md` has been split into one instruction per file under
 ## Tuning
 
 - [Top end oil modification](top-end-oil-mod.md)
-- [Front end swap planning](../fork%20swap.md)
-- [EFI / ECU swap planning](../ecu%20swap.md)
+- [Front end swap planning](../Tuning/fork%20swap.md)
+- [EFI / ECU swap planning](../Tuning/ecu%20swap.md)
 
 ## Fabrication And Custom Work
 
@@ -73,8 +73,8 @@ The old monolithic `howto.md` has been split into one instruction per file under
 
 ## Related Long-Form Notes
 
-- [Fork swap planning](../fork%20swap.md)
-- [EFI / ECU swap planning](../ecu%20swap.md)
-- `top-end-oiling.md`
+- [Fork swap planning](../Tuning/fork%20swap.md)
+- [EFI / ECU swap planning](../Tuning/ecu%20swap.md)
+- [Top-end oiling guide](../Tuning/top-end-oiling.md)
 - `problems.md`
-- `manuals/electrical-reference/`
+- `../Manuals/electrical-reference/`

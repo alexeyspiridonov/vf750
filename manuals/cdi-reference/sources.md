@@ -10,7 +10,7 @@ Checked: 2026-04-12
 - `../electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.pdf`
 - `../electrical-reference/notes/common-issues.md`
 - `../electrical-reference/notes/internet-sources.md`
-- `../../howto.md`
+- `../../HowTo/README.md`
 - `../../problems.md`
 
 ## Web Sources

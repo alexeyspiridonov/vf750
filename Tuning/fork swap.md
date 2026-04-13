@@ -112,9 +112,9 @@ Status: strongest warning example.
 - those two changes together can alter rake, trail, and overall stance much more than people expect
 
 ### Local references
-- `manuals/haynes-manual/sections/06-frame-suspension-and-final-drive.pdf`
-- `manuals/haynes-manual/sections/07-brakes-wheels-and-tires.pdf`
-- `manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.txt`
+- `../Manuals/haynes-manual/sections/06-frame-suspension-and-final-drive.pdf`
+- `../Manuals/haynes-manual/sections/07-brakes-wheels-and-tires.pdf`
+- `../Manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.txt`
 
 ## Hard Constraints Found During Research
 

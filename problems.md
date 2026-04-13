@@ -72,7 +72,7 @@ This is the most well-known VF750 problem.
 - route oil from filter housing to heads
 - install a higher-output oil pump
 - use thicker oil such as 15W50 where appropriate
-- see `top-end-oiling.md` for a focused practical guide
+- see `Tuning/top-end-oiling.md` for a focused practical guide
 
 ## 4. Weak Charging System
 

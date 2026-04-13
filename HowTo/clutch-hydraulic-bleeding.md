@@ -34,5 +34,4 @@ Use DOT 4 fluid and protect painted parts before opening the reservoir. The clut
 - Install the diaphragm and cap before the final lever test.
 - The lever should feel firm and the clutch should disengage cleanly when selecting first gear.
 - Rinse off any spilled fluid immediately with water.
-- Related manual references: `manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.txt` and `manuals/haynes-manual/sections/02-engine-clutch-and-transmission.txt`
-
+- Related manual references: `../Manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.txt` and `../Manuals/haynes-manual/sections/02-engine-clutch-and-transmission.txt`

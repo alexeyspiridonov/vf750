@@ -1,85 +1,85 @@
 {
   "project_bike_context": "Honda Sabre cafe racer project. This package consolidates carburetor-related material for V45 Sabre work, but the repository mixes 1982 VF750S factory material, multi-year Haynes coverage, and an 84/85 VF700S parts fiche.",
   "sources": {
-    "haynes_manual": "manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
-    "shop_manual": "manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
-    "parts_catalog": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf"
+    "haynes_manual": "Manuals/haynes-manual/honda-vf700-750-1100-haynes-searchable.pdf",
+    "shop_manual": "Manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
+    "parts_catalog": "Manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf"
   },
   "outputs": [
     {
       "type": "copy",
-      "source": "manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.pdf",
-      "output": "manuals/carburetor-reference/manuals/01-haynes-tune-up-and-routine-maintenance.pdf"
+      "source": "Manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.pdf",
+      "output": "Manuals/carburetor-reference/Manuals/01-haynes-tune-up-and-routine-maintenance.pdf"
     },
     {
       "type": "copy",
-      "source": "manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.txt",
-      "output": "manuals/carburetor-reference/manuals/01-haynes-tune-up-and-routine-maintenance.txt"
+      "source": "Manuals/haynes-manual/sections/01-tune-up-and-routine-maintenance.txt",
+      "output": "Manuals/carburetor-reference/Manuals/01-haynes-tune-up-and-routine-maintenance.txt"
     },
     {
       "type": "copy",
-      "source": "manuals/haynes-manual/sections/04-fuel-and-exhaust-systems.pdf",
-      "output": "manuals/carburetor-reference/manuals/02-haynes-fuel-and-exhaust-systems.pdf"
+      "source": "Manuals/haynes-manual/sections/04-fuel-and-exhaust-systems.pdf",
+      "output": "Manuals/carburetor-reference/Manuals/02-haynes-fuel-and-exhaust-systems.pdf"
     },
     {
       "type": "copy",
-      "source": "manuals/haynes-manual/sections/04-fuel-and-exhaust-systems.txt",
-      "output": "manuals/carburetor-reference/manuals/02-haynes-fuel-and-exhaust-systems.txt"
+      "source": "Manuals/haynes-manual/sections/04-fuel-and-exhaust-systems.txt",
+      "output": "Manuals/carburetor-reference/Manuals/02-haynes-fuel-and-exhaust-systems.txt"
     },
     {
       "type": "extract",
-      "source": "manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
+      "source": "Manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
       "pages": "39-60",
-      "output_pdf": "manuals/carburetor-reference/manuals/03-shop-manual-maintenance.pdf",
-      "output_txt": "manuals/carburetor-reference/manuals/03-shop-manual-maintenance.txt",
+      "output_pdf": "Manuals/carburetor-reference/Manuals/03-shop-manual-maintenance.pdf",
+      "output_txt": "Manuals/carburetor-reference/Manuals/03-shop-manual-maintenance.txt",
       "note": "Factory maintenance chapter with spark plugs, valve clearance, carb synchronization, idle speed, choke, and air cleaner service."
     },
     {
       "type": "extract",
-      "source": "manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
+      "source": "Manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
       "pages": "61-82",
-      "output_pdf": "manuals/carburetor-reference/manuals/04-shop-manual-fuel-system.pdf",
-      "output_txt": "manuals/carburetor-reference/manuals/04-shop-manual-fuel-system.txt",
+      "output_pdf": "Manuals/carburetor-reference/Manuals/04-shop-manual-fuel-system.pdf",
+      "output_txt": "Manuals/carburetor-reference/Manuals/04-shop-manual-fuel-system.txt",
       "note": "Factory fuel-system chapter with carburetor removal, disassembly, float level, pilot screw, fuel tank, automatic fuel valve, and air cleaner details."
     },
     {
       "type": "extract",
-      "source": "manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
+      "source": "Manuals/Honda V 45 SABRE-VF750S 1982 Shop Manual.pdf",
       "pages": "365-371",
-      "output_pdf": "manuals/carburetor-reference/manuals/05-shop-manual-1983-addendum-carb-updates.pdf",
-      "output_txt": "manuals/carburetor-reference/manuals/05-shop-manual-1983-addendum-carb-updates.txt",
+      "output_pdf": "Manuals/carburetor-reference/Manuals/05-shop-manual-1983-addendum-carb-updates.pdf",
+      "output_txt": "Manuals/carburetor-reference/Manuals/05-shop-manual-1983-addendum-carb-updates.txt",
       "note": "1983 addendum pages that update lubrication, maintenance, air cleaner, and fuel-system details for the V45 Sabre/Magna family."
     },
     {
       "type": "extract",
-      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "source": "Manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
       "pages": "34-36",
-      "output_pdf": "manuals/carburetor-reference/parts-catalog/01-carburetor-assy-and-components.pdf",
-      "output_txt": "manuals/carburetor-reference/parts-catalog/01-carburetor-assy-and-components.txt",
+      "output_pdf": "Manuals/carburetor-reference/parts-catalog/01-carburetor-assy-and-components.pdf",
+      "output_txt": "Manuals/carburetor-reference/parts-catalog/01-carburetor-assy-and-components.txt",
       "note": "84/85 VF700S fiche pages for carburetor assembly, carburetor linkages, and carburetor component breakdown."
     },
     {
       "type": "extract",
-      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "source": "Manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
       "pages": "41-42",
-      "output_pdf": "manuals/carburetor-reference/parts-catalog/02-throttle-and-choke-cables.pdf",
-      "output_txt": "manuals/carburetor-reference/parts-catalog/02-throttle-and-choke-cables.txt",
+      "output_pdf": "Manuals/carburetor-reference/parts-catalog/02-throttle-and-choke-cables.pdf",
+      "output_txt": "Manuals/carburetor-reference/parts-catalog/02-throttle-and-choke-cables.txt",
       "note": "84/85 VF700S fiche pages covering the control levers and throttle/choke cable assemblies."
     },
     {
       "type": "extract",
-      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "source": "Manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
       "pages": "55-56",
-      "output_pdf": "manuals/carburetor-reference/parts-catalog/03-fuel-tank-and-fuel-valve.pdf",
-      "output_txt": "manuals/carburetor-reference/parts-catalog/03-fuel-tank-and-fuel-valve.txt",
+      "output_pdf": "Manuals/carburetor-reference/parts-catalog/03-fuel-tank-and-fuel-valve.pdf",
+      "output_txt": "Manuals/carburetor-reference/parts-catalog/03-fuel-tank-and-fuel-valve.txt",
       "note": "84/85 VF700S fiche pages for the fuel tank, manual fuel valve, hoses, and strainer pieces that feed the carb rack."
     },
     {
       "type": "extract",
-      "source": "manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
+      "source": "Manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.pdf",
       "pages": "59-60",
-      "output_pdf": "manuals/carburetor-reference/parts-catalog/04-air-cleaner.pdf",
-      "output_txt": "manuals/carburetor-reference/parts-catalog/04-air-cleaner.txt",
+      "output_pdf": "Manuals/carburetor-reference/parts-catalog/04-air-cleaner.pdf",
+      "output_txt": "Manuals/carburetor-reference/parts-catalog/04-air-cleaner.txt",
       "note": "84/85 VF700S fiche pages for the air cleaner case, element, ducting, breather tubes, and related hardware."
     }
   ],

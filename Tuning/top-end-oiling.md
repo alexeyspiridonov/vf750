@@ -17,8 +17,8 @@ Typical pattern:
 
 In this repository, the problem is already summarized in:
 
-- `problems.md`
-- `howto.md`
+- `../problems.md`
+- `../HowTo/README.md`
 
 ## First Improve The Baseline Before Modifying Anything
 
@@ -71,7 +71,7 @@ The practical goal is simple:
 The local Haynes text is useful here because it explicitly notes the external
 oil pipe hardware and the need for new sealing washers during reassembly:
 
-- `manuals/haynes-manual/sections/02-engine-clutch-and-transmission.txt`
+- `../Manuals/haynes-manual/sections/02-engine-clutch-and-transmission.txt`
 
 ## Other Ways To Help Top-End Lubrication
 
@@ -112,7 +112,7 @@ For the `1982 VF750S Sabre` project, the lowest-risk order is:
 
 ## Related Files
 
-- `howto.md`
-- `problems.md`
-- `resources.md`
-- `manuals/haynes-manual/sections/02-engine-clutch-and-transmission.txt`
+- `../HowTo/README.md`
+- `../problems.md`
+- `../resources.md`
+- `../Manuals/haynes-manual/sections/02-engine-clutch-and-transmission.txt`

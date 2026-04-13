@@ -18,40 +18,40 @@ If you are starting work in this repository, use this order:
 1. Read `README.md` to understand the repo structure and available materials.
 2. Open `HowTo/README.md` for the most common maintenance, diagnostics, and modification tasks.
 3. Review `problems.md` for the known weak points of the VF750 / V45 platform.
-4. Use `manuals/electrical-reference/` first for wiring and charging diagnostics.
-5. Use `manuals/cdi-reference/` for spark units, timing, ignition diagnostics, and replacement paths.
-6. Use `fork swap.md` if working on chassis and front-end conversion planning.
-7. Use `ecu swap.md` if researching EFI conversion paths.
-8. Use `sabre-cafe-racer-projects.md` and `images/` for design and build references.
+4. Use `Manuals/electrical-reference/` first for wiring and charging diagnostics.
+5. Use `Manuals/cdi-reference/` for spark units, timing, ignition diagnostics, and replacement paths.
+6. Use `Tuning/fork swap.md` if working on chassis and front-end conversion planning.
+7. Use `Tuning/ecu swap.md` if researching EFI conversion paths.
+8. Use `Tuning/sabre-cafe-racer-projects.md` and `Images/` for design and build references.
 9. Use `resources.md` when you need forums, OEM parts sources, or external documentation.
 
 ## Repository Structure
 
 ```
-manuals/
+Manuals/
   source PDFs                 original manual and parts-catalog PDFs
   haynes-manual/              Haynes service manual — OCR, searchable, split by section
   partslist-vf700s-sabre/     VF700S parts catalog — OCR, searchable, split by section
   electrical-reference/       electrical materials collected into one package
   cdi-reference/              standalone ignition / spark-unit package
-scripts/                      Python scripts for PDF processing
-images/                       reference images: stock, cafe-racer, Pinterest board downloads
+.scripts/                     Python scripts for PDF processing
+Images/                       reference images: stock, cafe-racer, Pinterest board downloads
+Tuning/                       tuning, swap, and project-reference notes
 HowTo/                        one-file-per-task maintenance / repair / modification guides
-howto.md                      compatibility index that points to `HowTo/`
 problems.md                   common VF750 problems and fixes (English)
-top-end-oiling.md             standalone note on improving cylinder-head oil delivery
+resources.md                  forums, OEM parts sources, and external documentation
 ```
 
 ## Documentation
 
 ### Source PDFs
 
-- [Honda VF700/750/1100 Haynes service manual](manuals/Honda%20VF700,750,1100%20v45,65%20Sabre%20And%20Magna%20V-Fours%2082-88%20Haynes%20Service%20Manual%20Eng%20By%20Mosue.pdf)
-- [VF700S Sabre parts list (1984–1985)](manuals/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf)
+- [Honda VF700/750/1100 Haynes service manual](Manuals/Honda%20VF700,750,1100%20v45,65%20Sabre%20And%20Magna%20V-Fours%2082-88%20Haynes%20Service%20Manual%20Eng%20By%20Mosue.pdf)
+- [VF700S Sabre parts list (1984–1985)](Manuals/partslist-vf700s-sabre_84-85_en-11082016-0807.pdf)
 
 ### Processed Output
 
-The source PDFs under `manuals/` have been converted into searchable PDFs with OCR text layers and split into sections:
+The source PDFs under `Manuals/` have been converted into searchable PDFs with OCR text layers and split into sections:
 
 - **Haynes manual** — 10 sections from front matter through electrical system and conversion factors.
 - **Parts catalog** — 5 sections: front matter, engine (B1), frame (E1), part number index, description index.
@@ -62,39 +62,39 @@ Each generated manual package contains a `manifest.json` with source mappings an
 
 ### Processing Scripts
 
-- `scripts/process_haynes_manual.py` — OCR and split the Haynes service manual.
-- `scripts/process_partslist.py` — OCR and split the parts catalog.
-- `scripts/build_electrical_reference.py` — assemble the electrical reference package.
+- `.scripts/process_haynes_manual.py` — OCR and split the Haynes service manual.
+- `.scripts/process_partslist.py` — OCR and split the parts catalog.
+- `.scripts/build_electrical_reference.py` — assemble the electrical reference package.
 
 ## Research Notes
 
 | File | Topic |
 |------|-------|
-| `fork swap.md` | Modern front-end conversion options for the VF750S / VF700S Sabre. Confirmed builds, donor parts, and warnings. |
-| `ecu swap.md` | EFI conversion research: throttle body options, ECU choices (Speeduino, Megasquirt, etc.), sensor requirements. |
-| `sabre-cafe-racer-projects.md` | Curated list of real Sabre cafe racer builds with links and analysis (Perry, HackAWeek, Balkan Moto, K-Speed, etc.). |
+| `Tuning/fork swap.md` | Modern front-end conversion options for the VF750S / VF700S Sabre. Confirmed builds, donor parts, and warnings. |
+| `Tuning/ecu swap.md` | EFI conversion research: throttle body options, ECU choices (Speeduino, Megasquirt, etc.), sensor requirements. |
+| `Tuning/sabre-cafe-racer-projects.md` | Curated list of real Sabre cafe racer builds with links and analysis (Perry, HackAWeek, Balkan Moto, K-Speed, etc.). |
 | `resources.md` | Forums, wikis, parts sources, Facebook groups, Reddit, and YouTube channels for the VF750 platform. |
 | `problems.md` | Common VF750 / V45 platform problems with symptoms, causes, and practical fixes. |
 | `HowTo/README.md` | Index for the split one-file-per-task how-to guides, including tuning and workshop procedures. |
-| `top-end-oiling.md` | Focused guide to improving oil delivery to the cylinder heads and reducing VF top-end wear risk. |
+| `Tuning/top-end-oiling.md` | Focused guide to improving oil delivery to the cylinder heads and reducing VF top-end wear risk. |
 
 ## Practical Guides
 
 - `HowTo/README.md` indexes the platform's common jobs as separate files: valve adjustment, cam inspection, top-end oil mod, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, tuning tasks, and cafe racer fabrication tasks.
 - `problems.md` summarizes the recurring failure points of the VF750 family: cam wear, top-end oiling, cam chain tensioners, charging system, carburetors, CDI failures, Pro-Link wear, and related troubleshooting.
-- `top-end-oiling.md` expands the cylinder-head lubrication topic into a standalone practical note with baseline checks, external oil-feed guidance, and limits of the common oiling mod.
+- `Tuning/top-end-oiling.md` expands the cylinder-head lubrication topic into a standalone practical note with baseline checks, external oil-feed guidance, and limits of the common oiling mod.
 
 ## Image References
 
-The `images/` folder now includes several reference groups:
+The `Images/` folder now includes several reference groups:
 
-- `images/stock/` — stock Sabre reference photos.
-- `images/cafe-racer/` — collected Sabre cafe racer build photos.
-- `images/pinterest/` — downloaded images from the `saber` Pinterest board for visual comparison and inspiration.
-- `images/build-process/` — internet-sourced build photos from Perry / Inazuma, Balkan Moto, and video references.
-- `images/repair-service/` — repair-oriented reference thumbnails for carb rebuild and tuning.
-- `images/README.md` — source index for the image folders.
-- root-level image files in `images/` — previously collected standalone references.
+- `Images/stock/` — stock Sabre reference photos.
+- `Images/cafe-racer/` — collected Sabre cafe racer build photos.
+- `Images/pinterest/` — downloaded images from the `saber` Pinterest board for visual comparison and inspiration.
+- `Images/build-process/` — internet-sourced build photos from Perry / Inazuma, Balkan Moto, and video references.
+- `Images/repair-service/` — repair-oriented reference thumbnails for carb rebuild and tuning.
+- `Images/README.md` — source index for the image folders.
+- root-level image files in `Images/` — previously collected standalone references.
 
 ## Key References
 
@@ -115,10 +115,10 @@ Current state:
 
 - source manuals have been processed into searchable, sectioned outputs;
 - research notes cover EFI, front-end swaps, project references, and community resources;
-- a practical service and modification guide now lives in `HowTo/`, with `howto.md` retained as a compatibility index;
+- a practical service and modification guide now lives in `HowTo/`;
 - common VF750 issues have been consolidated in English in `problems.md`;
-- a standalone `top-end-oiling.md` note now covers practical cylinder-head oiling improvements;
+- a standalone `Tuning/top-end-oiling.md` note now covers practical cylinder-head oiling improvements;
 - image references are now organized into stock, custom, and Pinterest-derived sets;
-- project markdown links were audited on 2026-04-12 and outdated internal `pdf/` and `output/` paths were corrected to the current `manuals/` layout.
+- project markdown links were audited on 2026-04-12 and outdated internal `pdf/` and `output/` paths were corrected to the current `Manuals/` layout.
 
 Note: some external sites, especially Reddit and Balkan Moto, may return anti-bot HTTP responses to automated checks while still opening normally in a browser.

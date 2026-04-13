@@ -26,13 +26,13 @@ These are the carburetor-related references already collected in the repository 
 
 ## Repo Text Sources
 
-- `resources.md`
-- `howto.md`
-- `problems.md`
+- `../../../resources.md`
+- `../../../HowTo/README.md`
+- `../../../problems.md`
 
 ## Best Local Manual Sources
 
-- `manuals/04-shop-manual-fuel-system.pdf`
-- `manuals/03-shop-manual-maintenance.pdf`
+- `../manuals/04-shop-manual-fuel-system.pdf`
+- `../manuals/03-shop-manual-maintenance.pdf`
 - `parts-catalog/01-carburetor-assy-and-components.pdf`
 - `parts-catalog/04-air-cleaner.pdf`
