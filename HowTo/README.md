@@ -12,6 +12,7 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 
 ## Diagnostics And Common Faults
 
+- [V4MuscleBike forum field notes](v4musclebike-forum-field-notes.md)
 - [Cam inspection](cam-inspection.md)
 - [Cam chain tensioner service](cam-chain-tensioner-service.md)
 - [Compression test](compression-test.md)

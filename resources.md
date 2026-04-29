@@ -1,11 +1,12 @@
 # VF750 Resources
 
-Checked: 2026-04-12
+Checked: 2026-04-29
 
 ## Main Forums
 
 - [V4 Honda BBS](https://www.v4hondabbs.com)
 - [V4 Muscle Bike](https://v4musclebike.com/forums/) — includes the 82-86 Magna/Sabre section
+- [V4MuscleBike 1st Gen Magna/Sabre section](https://v4musclebike.com/forums/1st-gen-honda-magna-and-sabre-1982-1986.4/) — primary source for field reports on V30/V42/V45/V65 Magna and Sabre repairs
 - [VFRworld VF750 tag](https://vfrworld.com/tags/vf750/)
 - [VF1000 forum](https://forum.vf1000.com)
 - [VF750 section on VF1000 forum](https://forum.vf1000.com/c/vf750/12)
@@ -13,6 +14,8 @@ Checked: 2026-04-12
 - [HondaShadow / Magna](https://www.hondashadow.net)
 
 V4MuscleBike is often recommended as the main resource for practical VF750/Sabre/Magna discussion.
+
+See also: [local V4MuscleBike forum field notes](HowTo/v4musclebike-forum-field-notes.md).
 
 ## Wiki and Data Sources
 
