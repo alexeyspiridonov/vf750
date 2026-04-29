@@ -28,7 +28,7 @@ Useful local references:
 - [Carburetor cleaning](../HowTo/carburetor-cleaning.md)
 - [Carburetor installation](../HowTo/carburetor-installation.md)
 - [Charging system test](../HowTo/charging-system-test.md)
-- [Cooling system service](../HowTo/cooling-system-service.md)
+- [Coolant flush and fill](../HowTo/coolant-flush-and-fill.md)
 
 ### Streetfighter stage
 
