@@ -1,186 +1,186 @@
-# CDI / Spark Unit: варианты замены
+# CDI / блоки зажигания: варианты замены
 
 Русское зеркало: `manuals/cdi-reference/03-cdi-replacement-options.md`
 
 Проверено: 2026-04-29
 
-## 0. V4MuscleBike update summary
+## 0. Что добавил свежий проход по V4MuscleBike
 
 Проход по V4MuscleBike от 2026-04-29 усиливает три мысли:
 
-- forum users often say `CDI`, но stock VF750S ignition лучше считать inductive / TCI-style system;
-- Ignitech TCIP4 — самый понятный programmable path для V45 Sabre, но он не отменяет диагностику pulse generators, fuel delivery, charging and wiring;
-- Rae-San имеет strong V65 support, но V65 success не доказывает VF750S plug-in.
+- участники форума часто пишут `CDI`, но штатное зажигание VF750S лучше считать индуктивной системой в стиле TCI;
+- Ignitech TCIP4 — самый понятный программируемый путь для V45 Sabre, но он не отменяет диагностику датчиков импульсов, подачи топлива, зарядки и проводки;
+- Rae-San имеет сильную поддержку среди владельцев V65, но успех на V65 не доказывает установку "в разъём" на VF750S.
 
 ## 1. Сначала правильно сопоставить систему
 
-Перед заказом считать код на существующем box/boxes и сравнить:
+Перед заказом считать код на существующем блоке или блоках и сравнить:
 
-- Honda part number;
-- supplier code on box;
-- connector style and pin count;
-- bike year and market.
+- номер детали Honda;
+- код производителя на корпусе;
+- тип разъёма и количество контактов;
+- год мотоцикла и рынок.
 
-Early V4 Honda ignition boxes легко купить неправильно, потому что sellers часто смешивают VF models.
+Блоки зажигания ранних Honda V4 легко купить неправильно, потому что продавцы часто смешивают модели VF.
 
-## 2. Option A: used OEM or NOS spark units
+## 2. Вариант A: б/у OEM или новые старые штатные блоки
 
 Лучше, если:
 
-- bike остается electrically stock;
-- хочется minimum wiring work;
-- нужно restore normal running.
+- мотоцикл остаётся электрически штатным;
+- хочется минимум работы с проводкой;
+- нужно восстановить нормальную работу.
 
 Плюсы:
 
-- lowest wiring risk;
-- stock curve;
-- easiest troubleshooting with factory manual.
+- минимальный риск по проводке;
+- штатная кривая зажигания;
+- самая простая диагностика по заводскому мануалу.
 
 Минусы:
 
-- age-related reliability unknown;
-- used boxes may already be heat-damaged;
-- listings mix different VF years/codes.
+- надёжность по возрасту неизвестна;
+- б/у блоки уже могут быть повреждены нагревом;
+- объявления смешивают разные годы и коды VF.
 
-Использовать только если exact box code совпадает.
+Использовать только если точный код блока совпадает.
 
-## 3. Option B: Carmo plug-and-play replacement boxes
+## 3. Вариант B: блоки Carmo "поставил и подключил"
 
-Current strong off-the-shelf option:
+Сейчас это сильный готовый вариант:
 
 - Carmo lists `VF750S / VF750 / VF700F / VF700C V45 Sabre` category and broader `VF700 / VF750 / V40 / V45 Magna / Sabre / Interceptor` modules in single-box and `2x` formats.
 
 Практический смысл:
 
-- stock was visible on `2026-04-12`;
-- listing marketed as `plug and play`;
-- Carmo publishes compatibility markings like `AKBZ`, `MB0`, `MB1`.
+- наличие в продаже было видно на `2026-04-12`;
+- карточка товара заявляет установку `plug and play`;
+- Carmo публикует маркировки совместимости вроде `AKBZ`, `MB0`, `MB1`.
 
 Вывод:
 
-- это low-friction modern replacement path for stock-style architecture;
-- still verify exact existing box code.
+- это современная замена с малым объёмом переделок для штатной архитектуры;
+- всё равно нужно сверить точный код существующего блока.
 
-## 4. Option C: Ignitech SPARKER TCI
+## 4. Вариант C: Ignitech SPARKER TCI
 
 Лучше, если:
 
-- stock boxes dead or unreliable;
-- нужен modern inductive ignition;
-- full map tuning не нужен.
+- штатные блоки умерли или ненадёжны;
+- нужно современное индуктивное зажигание;
+- полная настройка карты не нужна.
 
-Почему правильная family:
+Почему это правильное семейство:
 
-- Ignitech describes `SPARKER TCI` as inductive `battery, transistor, TCI` ignition for multi-cylinder carbureted bikes;
-- это ближе к stock VF750S principle, чем generic universal CDI.
+- Ignitech описывает `SPARKER TCI` как индуктивное зажигание `battery, transistor, TCI` для многоцилиндровых карбюраторных мотоциклов;
+- это ближе к штатному принципу VF750S, чем универсальный CDI без привязки к модели.
 
 Плюсы:
 
-- modern electronics;
-- designed for multi-cylinder carbureted motorcycles;
-- lower conceptual mismatch than forcing generic CDI.
+- современная электроника;
+- рассчитано на многоцилиндровые карбюраторные мотоциклы;
+- меньше концептуальных расхождений, чем при попытке поставить универсальный CDI.
 
 Минусы:
 
-- pickup compatibility and harness strategy still need confirmation.
+- совместимость датчиков импульсов и стратегия подключения жгута всё ещё требуют подтверждения.
 
-## 5. Option D: Ignitech TCIP4
+## 5. Вариант D: Ignitech TCIP4
 
 Лучше, если:
 
-- нужен programmable advance control;
-- есть готовность к wiring and laptop-based setup;
-- bike получает major changes: carb, exhaust, compression.
+- нужен программируемый контроль опережения;
+- есть готовность к работе с проводкой и настройке через ноутбук;
+- мотоцикл получает серьёзные изменения: карбы, выпуск, компрессию.
 
-Ignitech states `TCIP4` is:
+Ignitech описывает `TCIP4` как:
 
-- inductive programmable ignition;
-- intended for multi-cylinder carbureted bikes;
-- fully programmable for ignition timing;
-- configurable for different pickup systems and coils.
+- индуктивное программируемое зажигание;
+- блок для многоцилиндровых карбюраторных мотоциклов;
+- полностью программируемое управление углами зажигания;
+- возможность настройки под разные системы датчиков импульсов и катушек.
 
 Практические предупреждения:
 
-- first map should match stock checkpoints;
-- do not use timing changes to hide carburetion or charging faults;
-- keep changes conservative without repeatable road/dyno feedback.
+- первая карта должна совпадать со штатными контрольными точками;
+- не использовать изменение углов, чтобы скрывать проблемы карбюраторов или зарядки;
+- без повторяемой проверки на дороге или диностенде держать изменения консервативными.
 
-## 6. Option E: Rae-San PULSER TAI / VF-style ignition modules
+## 6. Вариант E: Rae-San PULSER TAI / модули зажигания под VF
 
 Лучше, если:
 
-- исследуется modern single-box replacement;
-- работа идет с V65 или другой explicitly supported VF application;
-- нужен vendor-supported module using OEM pickup strategy.
+- изучается современная замена одним блоком;
+- работа идёт с V65 или другой явно поддержанной моделью VF;
+- нужен модуль с поддержкой продавца, использующий штатную логику датчиков импульсов.
 
-Почему tracked:
+Почему отслеживаем:
 
-- V4MuscleBike V65 owners часто упоминают Rae-San;
-- `V65 CDI box` thread говорит, что несколько users switched;
-- Rae-San PULSER TAI description says it uses OEM inductive pickups and rotor on supported bikes.
+- владельцы V65 на V4MuscleBike часто упоминают Rae-San;
+- тема `V65 CDI box` говорит, что несколько пользователей перешли на этот вариант;
+- описание Rae-San PULSER TAI говорит об использовании штатных индуктивных датчиков и ротора на поддержанных мотоциклах.
 
 Ограничение для проекта:
 
-- do not assume V65 module is V45 VF750S module;
-- confirm exact VF750S / V45 Sabre application, connector strategy, coil compatibility, timing curve.
+- не считать, что модуль V65 автоматически является модулем V45 VF750S;
+- подтвердить точное применение для VF750S / V45 Sabre, стратегию разъёмов, совместимость катушек и кривую зажигания.
 
-## 7. Option F: capacitive aftermarket CDI
+## 7. Вариант F: ёмкостный нештатный CDI
 
-Обычно wrong first move.
+Обычно это неправильный первый шаг.
 
 Причина:
 
-- stock VF750S ignition is transistorized inductive;
+- штатное зажигание VF750S транзисторное индуктивное;
 - Ignitech documentation separates `TCI` from `CDI`;
-- cheap universal CDI из-за названия может не подходить.
+- дешёвый универсальный CDI может не подходить, несмотря на похожее название.
 
-Treat capacitive CDI as full custom conversion.
+Считать ёмкостный CDI полноценной кастомной конверсией.
 
-## 8. Decision tree
+## 8. Дерево решений
 
-### Lowest risk
+### Минимальный риск
 
-- exact-code OEM replacement or verified modern plug-and-play replacement.
+- штатный блок с точным совпадением кода или проверенная современная замена "поставил и подключил".
 
-### Best stock-plus solution
+### Лучшее решение "штатное плюс"
 
-- Carmo replacement modules.
+- сменные модули Carmo.
 
-### Best custom solution
+### Лучшее кастомное решение
 
-- Ignitech `TCIP4`, starting from stock-equivalent curve.
+- Ignitech `TCIP4`, начиная с кривой, эквивалентной штатной.
 
-### Best vendor-contact custom path
+### Лучший кастомный путь через продавца
 
-- Rae-San, only after confirming VF750S / V45 Sabre-specific solution.
+- Rae-San, только после подтверждения решения именно для VF750S / V45 Sabre.
 
-### Highest mistake risk
+### Самый высокий риск ошибки
 
-- generic unverified "CDI" boxes with no model-specific pickup and coil strategy.
+- универсальные непроверенные "CDI"-блоки без стратегии под датчики импульсов и катушки конкретной модели.
 
-## 9. Safe tuning starting point
+## 9. Безопасная стартовая точка настройки
 
-Если переходишь на programmable inductive ignition, сначала повтори stock service-manual checkpoints:
+Если переходишь на программируемое индуктивное зажигание, сначала повтори штатные контрольные точки из сервисного мануала:
 
-- idle около `10° BTDC`;
-- no meaningful advance before roughly `1,500 rpm`;
-- full advance около `37° BTDC` by `3,300 rpm`.
+- холостой ход около `10° BTDC`;
+- без заметного опережения примерно до `1,500 rpm`;
+- полное опережение около `37° BTDC` к `3,300 rpm`.
 
 Потом менять только одну вещь за раз и логировать:
 
-- rpm;
-- load / throttle;
-- detonation behavior;
-- hot restart behavior;
-- plug reading;
-- coolant temperature trend.
+- обороты;
+- нагрузку / положение газа;
+- признаки детонации;
+- поведение горячего запуска;
+- состояние свечей;
+- тренд температуры охлаждающей жидкости.
 
-Без дисциплины programmable box становится дорогим способом создать вторую неисправность.
+Без дисциплины программируемый блок становится дорогим способом создать вторую неисправность.
 
-## 10. V4MuscleBike threads before ordering
+## 10. Темы V4MuscleBike перед заказом
 
-- [Here we go again](https://v4musclebike.com/threads/here-we-go-again.46903/) — direct V45 Sabre Ignitech TCIP4 install and diagnostic caution thread.
-- [V65 CDI box](https://v4musclebike.com/forums/showthread.php?t=47554) — Rae-San V65 discussion and fuel-pump-control clarification.
-- [Ideal ignition setup on V65](https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/) — coil power, COP, Rae-San, OEM-style coils and TCI/CDI vocabulary.
-- [Ignitech replacement for Dyna 3000](https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/) — TCIP4 programming workflow, but later Magna, not first-gen Sabre.
+- [Here we go again](https://v4musclebike.com/threads/here-we-go-again.46903/) — прямая установка Ignitech TCIP4 на V45 Sabre и полезные диагностические предупреждения.
+- [V65 CDI box](https://v4musclebike.com/forums/showthread.php?t=47554) — обсуждение Rae-San на V65 и уточнение по управлению топливным насосом.
+- [Ideal ignition setup on V65](https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/) — питание катушек, COP, Rae-San, штатные катушки и словоупотребление TCI/CDI.
+- [Ignitech replacement for Dyna 3000](https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/) — порядок программирования TCIP4, но на более поздней Magna, не на first-gen Sabre.

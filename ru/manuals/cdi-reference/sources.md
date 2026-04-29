@@ -1,4 +1,4 @@
-# CDI / Spark Unit: источники
+# CDI / блоки зажигания: источники
 
 Русское зеркало: `manuals/cdi-reference/sources.md`
 
@@ -15,11 +15,11 @@
 - `../../../HowTo/README.md`
 - `../../../problems.md`
 
-## Web sources
+## Веб-источники
 
-### Primary product sources
+### Основные источники по продуктам
 
-- Ignitech product overview  
+- Обзор продуктов Ignitech
   https://www.ignitech.cz/en/vyrobky
 
 - Ignitech SPARKER TCI  
@@ -28,54 +28,54 @@
 - Ignitech TCIP4  
   https://www.ignitech.cz/en/vyrobky/tcip/tcip.htm
 
-- Ignitech manual list for TCI applications  
+- Список мануалов Ignitech для TCI-применений
   https://www.ignitech.cz/en/vyrobky/tci/mototci.htm
 
 - Ignitech DCCDIP4  
   https://www.ignitech.cz/en/vyrobky/dccdip4/dccdip4.htm
 
-- Carmo VF700 / VF750 replacement igniter  
+- Сменный блок зажигания Carmo для VF700 / VF750
   https://www.carmo.nl/index.php?cPath=4318_4321_492_4288_20_1112_259&language=en&main_page=product_info&products_id=1921
 
-- Carmo VF750S / VF750 / VF700F / VF700C V45 Sabre category  
+- Категория Carmo для VF750S / VF750 / VF700F / VF700C V45 Sabre
   https://www.carmo.nl/index.php?cPath=493_4686_1550_1764&language=en&main_page=index
 
-- Carmo VF700 / VF750 replacement igniter pair  
+- Пара сменных блоков зажигания Carmo для VF700 / VF750
   https://www.carmo.nl/index.php?main_page=product_info&products_id=1940
 
-- Rae-San PULSER TAI Ignition Module  
+- Модуль зажигания Rae-San PULSER TAI
   https://www.rae-san.com/rae-san-pulser-tai-ignition-module-2/
 
-### V4MuscleBike forum sources
+### Форумные источники V4MuscleBike
 
 - Here we go again  
   https://v4musclebike.com/threads/here-we-go-again.46903/  
-  Direct V45 Sabre thread with Ignitech TCIP4 installation, hot-failure diagnosis, pulse-generator warnings and fuel-system clarification.
+  Прямая тема по V45 Sabre с установкой Ignitech TCIP4, диагностикой горячего отказа, предупреждениями по датчикам импульсов и уточнениями по топливной системе.
 
 - V4spark.com  
   https://v4musclebike.com/forums/showthread.php?p=531158  
-  Useful for V4spark / Dualcam availability and alternate vendor names.
+  Полезно по доступности V4spark / Dualcam и альтернативным названиям продавцов.
 
 - V65 CDI box  
   https://v4musclebike.com/forums/showthread.php?t=47554  
-  Useful Rae-San V65 discussion and reminder that CDI boxes do not control fuel pump.
+  Полезное обсуждение Rae-San на V65 и напоминание, что CDI-блоки не управляют топливным насосом.
 
 - Ideal ignition setup on V65  
   https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/  
-  Useful system discussion of coil power, COP, Rae-San, plug caps and why the platform is not classic CDI.
+  Полезное системное обсуждение питания катушек, COP, Rae-San, свечных колпачков и того, почему платформа не является классическим CDI.
 
 - Ignitech replacement for Dyna 3000  
   https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/  
-  Later-Magna thread, useful for TCIP4 programming workflow and stock-like map discipline.
+  Тема по более поздней Magna, полезная по процессу программирования TCIP4 и дисциплине штатноподобной карты.
 
 - no spark at front cylinders  
   https://v4musclebike.com/showthread.php?t=5602  
-  Older diagnostic thread for two-cylinder / one-bank no-spark logic.
+  Старая диагностическая тема по логике отсутствия искры на двух цилиндрах / одном ряду.
 
-## Interpretation notes
+## Заметки по интерпретации
 
-- Local Honda / Haynes material is used for stock specs and timing checkpoints.
-- Ignitech is primary source for modern TCI vs CDI product distinction.
-- Carmo is primary source for current off-the-shelf replacement-module availability.
-- Rae-San is treated as vendor-contact path, not as assumed VF750S plug-in proof.
-- Forum material is useful for symptom patterns and owner experience, but not primary hardware compatibility source.
+- Локальные материалы Honda / Haynes используются для штатных спецификаций и контрольных точек зажигания.
+- Ignitech является основным источником по современному различию продуктов TCI и CDI.
+- Carmo является основным источником по текущей доступности готовых сменных модулей.
+- Rae-San рассматривается как путь через контакт с продавцом, а не как предполагаемое доказательство установки "в разъём" на VF750S.
+- Форумные материалы полезны по симптомам и опыту владельцев, но не являются основным источником совместимости железа.
