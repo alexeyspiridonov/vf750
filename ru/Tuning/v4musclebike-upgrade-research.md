@@ -89,17 +89,17 @@
 - Начинать с максимально живого донора. Плохой донор быстро превращается в parts bike.
 - Сначала безопасность, законный свет, тормоза, охлаждение и зарядка; потом финальная покраска и стиль.
 - До сварки хвостовой рамки проверять полный ход задней подвески и зазор до шины.
-- Современный switchgear реален, если работать по схеме и учитывать цветовую логику Honda.
+- Современные пульты управления реальны, если работать по схеме и учитывать цветовую логику Honda.
 - Не стирать всю идентичность Sabre. Лучшие комментарии на форуме хвалят проекты, где остался характер V4/Sabre.
 - Проводка, приборы, бачок охлаждения, батарея, задний свет, фара и прокладка тросов занимают не меньше времени, чем сиденье и хвост.
 
 Локальные статьи:
 
-- [Sabre cafe racer project references](sabre-cafe-racer-projects.md)
-- [Newbie's 1984 V65 Sabre build notes](newbies-84-v65-sabre-build.md)
-- [Rear subframe modification](../../HowTo/rear-subframe-modification.md)
-- [Seat and tail](../../HowTo/seat-and-tail.md)
-- [Wiring harness simplification](../../HowTo/wiring-harness-simplification.md)
+- [Референсы Sabre cafe racer](sabre-cafe-racer-projects.md)
+- [Заметки по сборке Newbie's 1984 V65 Sabre](newbies-84-v65-sabre-build.md)
+- [Модификация задней рамы](../HowTo/rear-subframe-modification.md)
+- [Сиденье и хвостовая часть](../HowTo/seat-and-tail.md)
+- [Упрощение жгута проводки](../HowTo/wiring-harness-simplification.md)
 
 ## Настройка карбюраторов
 

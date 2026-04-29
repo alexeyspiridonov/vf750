@@ -40,13 +40,13 @@
 
 Полезные ссылки:
 
-- [Снятие карбюраторов](../../HowTo/carburetor-removal.md)
-- [Диагностика отсутствия подачи топлива](../../HowTo/carburetor-no-fuel-delivery.md)
-- [Чистка карбюраторов](../../HowTo/carburetor-cleaning.md)
-- [Установка карбюраторов](../../HowTo/carburetor-installation.md)
-- [Синхронизация карбюраторов](../../HowTo/carburetor-synchronization.md)
+- [Снятие карбюраторов](carburetor-removal.md)
+- [Диагностика отсутствия подачи топлива](carburetor-no-fuel-delivery.md)
+- [Чистка карбюраторов](carburetor-cleaning.md)
+- [Установка карбюраторов](carburetor-installation.md)
+- [Синхронизация карбюраторов](carburetor-synchronization.md)
 - [Замена вакуумных диафрагм](../../HowTo/vacuum-diaphragm-replacement.md)
-- [Замена впускных патрубков](../../HowTo/intake-boot-replacement.md)
+- [Замена впускных патрубков](intake-boot-replacement.md)
 - [Справочник по карбюраторам](../../Manuals/carburetor-reference/README.md)
 
 Примеры с форумов:
@@ -73,10 +73,10 @@
 
 Полезные ссылки:
 
-- [Проверка системы зарядки](../../HowTo/charging-system-test.md)
-- [Улучшение регулятора/выпрямителя](../../HowTo/regulator-rectifier-upgrade.md)
-- [Ремонт разъёма генератора](../../HowTo/stator-connector-repair.md)
-- [Улучшение массы](../../HowTo/ground-wire-upgrade.md)
+- [Проверка системы зарядки](charging-system-test.md)
+- [Улучшение регулятора/выпрямителя](regulator-rectifier-upgrade.md)
+- [Ремонт разъёма генератора](stator-connector-repair.md)
+- [Улучшение массы](ground-wire-upgrade.md)
 - [Проверка и замена CDI/TCI](cdi-testing-and-replacement.md)
 - [Справочник по электрике](../../Manuals/electrical-reference/README.md)
 - [Справочник по CDI](../manuals/cdi-reference/README.md)
@@ -104,9 +104,9 @@
 
 Локальные ссылки:
 
-- [Регулировка клапанов](../../HowTo/valve-adjustment.md)
-- [Осмотр распредвалов](../../HowTo/cam-inspection.md)
-- [Обслуживание натяжителей цепей ГРМ](../../HowTo/cam-chain-tensioner-service.md)
+- [Регулировка клапанов](valve-adjustment.md)
+- [Осмотр распредвалов](cam-inspection.md)
+- [Обслуживание натяжителей цепей ГРМ](cam-chain-tensioner-service.md)
 - [Модификация подачи масла к верхней части двигателя](../../HowTo/top-end-oil-mod.md)
 - [Гайд по смазке верхней части двигателя](../Tuning/top-end-oiling.md)
 
@@ -133,10 +133,10 @@
 Локальные ссылки:
 
 - [Ремонт обгонной муфты стартера](../../HowTo/starter-clutch-rebuild.md)
-- [Проверка системы зарядки](../../HowTo/charging-system-test.md)
-- [Улучшение массы](../../HowTo/ground-wire-upgrade.md)
-- [Регулировка клапанов](../../HowTo/valve-adjustment.md)
-- [Проверка компрессии](../../HowTo/compression-test.md)
+- [Проверка системы зарядки](charging-system-test.md)
+- [Улучшение массы](ground-wire-upgrade.md)
+- [Регулировка клапанов](valve-adjustment.md)
+- [Проверка компрессии](compression-test.md)
 
 Примеры с форума:
 
@@ -181,7 +181,7 @@
 Локальные ссылки:
 
 - [Замена тормозных колодок](../../HowTo/brake-pad-replacement.md)
-- [Прокачка тормозной жидкости](../../HowTo/brake-fluid-flush.md)
+- [Прокачка тормозной жидкости](brake-fluid-flush.md)
 - [Прокачка гидравлики сцепления](../../HowTo/clutch-hydraulic-bleeding.md)
 - [Замена дисков сцепления](../../HowTo/clutch-plate-replacement.md)
 - [Переборка задней подвески Pro-Link](../../HowTo/pro-link-rear-suspension-rebuild.md)

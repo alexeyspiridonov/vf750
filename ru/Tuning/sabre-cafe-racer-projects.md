@@ -278,21 +278,21 @@
 - неудобный tank-to-seat transition;
 - shaft drive ограничивает выбор заднего колеса;
 - легко сделать низкий агрессивный мотоцикл, который плохо едет;
-- V4, radiator и cooling plumbing требуют аккуратности, иначе bike выглядит как случайный набор деталей;
-- дешевые universal lights, levers, controls и brackets могут стать safety problems, а не просто style compromise;
-- первая поездка — это shakedown: после heat/vibration cycles нужно перепроверить final-drive, brakes, suspension, steering, lighting и cooling fasteners.
+- V4, радиатор и магистрали охлаждения требуют аккуратности, иначе мотоцикл выглядит как случайный набор деталей;
+- дешевые универсальные фары, рычаги, органы управления и кронштейны могут стать проблемами безопасности, а не просто компромиссом по стилю;
+- первая поездка — это ходовое испытание: после циклов нагрева и вибрации нужно перепроверить редуктор, тормоза, подвеску, рулевую, свет и крепёж системы охлаждения.
 
 ## Лучшие локальные продолжения
 
-- [V4MuscleBike upgrade research map](v4musclebike-upgrade-research.md)
-- [Newbie's 1984 V65 Sabre build notes](newbies-84-v65-sabre-build.md)
-- [Fork swap planning](fork%20swap.md)
-- [Rear subframe modification](../../HowTo/rear-subframe-modification.md)
-- [Seat and tail](../../HowTo/seat-and-tail.md)
-- [Wiring harness simplification](../../HowTo/wiring-harness-simplification.md)
-- [Carburetor no-fuel delivery troubleshooting](../../HowTo/carburetor-no-fuel-delivery.md)
-- [Carburetor synchronization](../../HowTo/carburetor-synchronization.md)
-- [CDI / TCI testing and replacement](../HowTo/cdi-testing-and-replacement.md)
+- [Карта исследований V4MuscleBike по апгрейдам](v4musclebike-upgrade-research.md)
+- [Заметки по сборке Newbie's 1984 V65 Sabre](newbies-84-v65-sabre-build.md)
+- [Планирование замены вилки](fork%20swap.md)
+- [Модификация задней рамы](../HowTo/rear-subframe-modification.md)
+- [Сиденье и хвостовая часть](../HowTo/seat-and-tail.md)
+- [Упрощение жгута проводки](../HowTo/wiring-harness-simplification.md)
+- [Диагностика отсутствия подачи топлива](../HowTo/carburetor-no-fuel-delivery.md)
+- [Синхронизация карбюраторов](../HowTo/carburetor-synchronization.md)
+- [Проверка и замена CDI / TCI](../HowTo/cdi-testing-and-replacement.md)
 
 ## Шесть важнейших внешних ссылок
 
