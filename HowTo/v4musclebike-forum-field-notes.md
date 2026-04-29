@@ -32,6 +32,8 @@ Practical path:
 5. Clean all four carburetors as a set.
 6. Verify main jets and pilot jets are in the correct locations for the exact model.
 7. Bench sync, install, warm the engine, then vacuum sync.
+8. If one pipe blues and the plug is white while the bike still starts and rides well, treat it as a local lean condition until proven otherwise.
+9. After sync, idle-drop mixture adjustment is reasonable, but if the pilot screw cannot correct the heat issue, clean the carb passages.
 
 Repository references:
 
@@ -47,7 +49,7 @@ Repository references:
 Forum examples:
 
 - [Easy Peasy Carb Install](https://v4musclebike.com/threads/easy-peasy-carb-install.47492/)
-- [Carb tuning](https://v4musclebike.com/threads/carb-tuning.48630/)
+- [Carb tuning](https://v4musclebike.com/threads/carb-tuning.48630/) - `1984 V30` case: blue pipe and white plug on one cylinder; forum advice was to verify sync, use idle-drop only within its limited range, confirm with an IR thermometer, and clean the carb if adjustment does not help.
 - [main jet mix-up ?](https://v4musclebike.com/threads/main-jet-mix-up.39587/)
 - [V45 Sabre - Impossible(?) to reach sync screws?](https://v4musclebike.com/threads/v45-sabre-impossible-to-reach-sync-screws.48523/)
 - [Soften hardened carburetor boots](https://v4musclebike.com/threads/soften-hardened-carburetor-boots.17956/)

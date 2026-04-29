@@ -107,7 +107,7 @@ Related local notes:
 - [Idle drop question? (Sabre 1982)](https://v4musclebike.com/threads/idle-drop-question-sabre-1982.34932/) - detailed idle-drop procedure discussion for a 1982 Sabre; the sequence is valves, sync, then mixture.
 - [My carb syncing notes](https://v4musclebike.com/threads/my-carb-syncing-notes.33980/) - practical carb-sync notes: sync #2 before #4 because of linkage interaction, blip throttle after changes, vacuum-port locations, and DigiSync/manometer context.
 - [main jet mix-up ?](https://v4musclebike.com/threads/main-jet-mix-up.39587/) - 1983 V45 Sabre main jet, needle, and slide-spring position discussion. Key lesson: front/rear carb parts differ and must not be casually mixed.
-- [Carb tuning](https://v4musclebike.com/threads/carb-tuning.48630/) - lean/rich diagnosis thread using blue pipe, white plug, idle-drop limits, and the need for real carb cleaning if adjustment cannot correct the issue.
+- [Carb tuning](https://v4musclebike.com/threads/carb-tuning.48630/) - fresh `1984 V30` case: after a ride one pipe turned blue and the plug looked whitish, but the engine still started, idled, and pulled well. Practical takeaway: first confirm sync, then try idle-drop mixture adjustment; if the pilot screw's small range cannot correct the heat issue, look for partly plugged passages and clean/rebuild the carb.
 - [RPM does not drop to idle](https://v4musclebike.com/threads/rpm-does-not-drop-to-idle.46355/) - hanging idle, lean condition, vacuum leaks, pilot-circuit blockage, and airbox/plenum sealing discussion.
 - [Carb Adjustment](https://v4musclebike.com/threads/carb-adjustment.16652/) - 3rd-gen Magna performance/jetting thread. Not first-gen, but useful for general tuning process, cleaning, rejetting, needle shims, and avoiding rubber damage from carb cleaner.
 - [Ignitech ICM and jetting](https://v4musclebike.com/forums/showthread.php?t=40180) - 3rd-gen thread but valuable for the "one change at a time" rule, main-jet-first tuning, and the warning against airbox cutting with no repeatable data.
@@ -133,6 +133,7 @@ Related local notes:
 - Longer slide springs belong in the front carbs in the V45 Sabre discussion; the front carb angle makes spring position matter.
 - If pilot screws do not change idle behavior, suspect plugged pilot circuits, a dead cylinder, or a major air leak before chasing jet sizes.
 - A hanging idle usually means lean mixture, air leak, sticky linkage, or dirty pilot circuit.
+- A blue exhaust pipe and white plug on one cylinder are not cosmetic. Confirm temperature with an IR thermometer; if mixture adjustment does not help, stop riding and clean/check the carb.
 - Sync and mixture are different jobs. Equal pilot-screw turns do not replace vacuum synchronization.
 
 ### Performance jetting cautions

@@ -38,6 +38,8 @@ Results:
 - No fuel drains from any bowl: troubleshoot tank, petcock, vacuum fuel valve, fuel pump, relay, filter, and lines.
 - Only some bowls are dry: fuel is reaching the rack, but there may be a blocked rail/T-joint, stuck float valve, blocked float-valve seat filter, or blocked bowl vent.
 
+If the bowls are full but one pipe turns blue, the plug is white, and that cylinder is clearly hotter than the others, this is no longer a fuel-delivery-to-the-rack problem. Look for a cylinder-specific lean condition: a partly plugged pilot circuit, intake leak, incorrect pilot screw setting, diaphragm/slide fault, or incorrect carb assembly.
+
 ## Step 2: easy upstream checks
 
 Do these before removing the carburetors:
@@ -52,6 +54,24 @@ Do these before removing the carburetors:
 - Bowl drain screws closed after testing.
 
 One common field failure is very simple: the petcock was left off after tank or carb work.
+
+## If fuel is present but one cylinder runs lean
+
+Fresh V4MuscleBike field example on a `1984 V30`: the bike started easily, idled well, and pulled with good power, but after a ride the front-right pipe turned blue and the plug looked whitish. The forum response was: if cylinder synchronization is valid, an idle-drop mixture adjustment can be tried on the affected cylinder, but that adjustment only has a small correction range.
+
+Practical takeaways:
+
+- A blue pipe is a heat warning; do not leave it for later.
+- A white plug on one cylinder points to a lean condition or overheating on that cylinder.
+- An IR thermometer helps confirm which cylinder is hotter and whether the adjustment helped.
+- If idle-drop adjustment does not correct it, clean/rebuild the carb instead of chasing jet sizes.
+- A common cause is partly plugged carb passages, especially the pilot/low-throttle circuit.
+
+For the cleaning procedure, see [how to clear a plugged pilot circuit](carburetor-cleaning.md#how-to-clear-a-plugged-pilot-circuit).
+
+If the symptom appears more under load than at idle, check the [CV piston, needle, and diaphragm](carburetor-cleaning.md#checking-cv-pistons-needles-and-diaphragms).
+
+Source: [V4MuscleBike - Carb tuning](https://v4musclebike.com/threads/carb-tuning.48630/)
 
 ## V45 Sabre: automatic fuel valve check
 
@@ -196,4 +216,3 @@ Drain one bowl, close the screw, then apply normal fuel supply. Open the screw a
 - [Intake boot replacement](intake-boot-replacement.md)
 - [V4MuscleBike forum field notes](v4musclebike-forum-field-notes.md)
 - [Carburetor reference package](../Manuals/carburetor-reference/README.md)
-
