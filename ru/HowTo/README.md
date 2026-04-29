@@ -1,59 +1,58 @@
-# Honda VF750 / V45: HowTo индекс
 
-Русское зеркало: `HowTo/README.md`
+# Honda VF750 / V45: HowTo — русское зеркало
 
-Этот раздел содержит русские переводы ключевых workshop/how-to материалов. Полное английское дерево остается в `../../HowTo/`; русское зеркало будет расширяться по мере перевода отдельных статей.
+Это раздел с переводами ключевых инструкций по обслуживанию и ремонту. Полная англоязычная версия находится в `../../HowTo/`. Русская часть будет пополняться по мере перевода новых статей.
 
-## Переведенные статьи
+## Уже переведённые статьи
 
-- [CDI / TCI Spark Unit: диагностика и замена](cdi-testing-and-replacement.md)
-- [V4MuscleBike 1st Gen forum: полевые заметки](v4musclebike-forum-field-notes.md)
+- [CDI / TCI: диагностика и замена](cdi-testing-and-replacement.md)
+- [V4MuscleBike 1-го поколения: практические заметки](v4musclebike-forum-field-notes.md)
 
-## Основные английские HowTo, которые еще нужно перевести
+## Основные статьи, которые ещё предстоит перевести
 
-### Routine service
+### Регулярное обслуживание
 
-- [Valve adjustment](../../HowTo/valve-adjustment.md)
-- [Oil and filter change](../../HowTo/oil-and-filter-change.md)
-- [Spark plug service](../../HowTo/spark-plug-service.md)
-- [Coolant flush and fill](../../HowTo/coolant-flush-and-fill.md)
-- [Brake fluid flush](../../HowTo/brake-fluid-flush.md)
+- [Регулировка клапанов](../../HowTo/valve-adjustment.md)
+- [Замена масла и фильтра](../../HowTo/oil-and-filter-change.md)
+- [Обслуживание свечей зажигания](../../HowTo/spark-plug-service.md)
+- [Замена и доливка охлаждающей жидкости](../../HowTo/coolant-flush-and-fill.md)
+- [Прокачка тормозной жидкости](../../HowTo/brake-fluid-flush.md)
 
-### Diagnostics and common faults
+### Диагностика и типовые неисправности
 
-- [Cam inspection](../../HowTo/cam-inspection.md)
-- [Cam chain tensioner service](../../HowTo/cam-chain-tensioner-service.md)
-- [Compression test](../../HowTo/compression-test.md)
-- [Charging system test](../../HowTo/charging-system-test.md)
-- [Intake boot replacement](../../HowTo/intake-boot-replacement.md)
+- [Проверка распредвалов](../../HowTo/cam-inspection.md)
+- [Обслуживание натяжителя цепи ГРМ](../../HowTo/cam-chain-tensioner-service.md)
+- [Проверка компрессии](../../HowTo/compression-test.md)
+- [Проверка системы зарядки](../../HowTo/charging-system-test.md)
+- [Замена впускных патрубков](../../HowTo/intake-boot-replacement.md)
 
-### Fuel and carburetors
+### Топливная система и карбюраторы
 
-- [Carburetor removal](../../HowTo/carburetor-removal.md)
-- [Carburetor no-fuel delivery troubleshooting](../../HowTo/carburetor-no-fuel-delivery.md)
-- [Carburetor cleaning](../../HowTo/carburetor-cleaning.md)
-- [Carburetor installation](../../HowTo/carburetor-installation.md)
-- [Carburetor synchronization](../../HowTo/carburetor-synchronization.md)
-- [Vacuum diaphragm replacement](../../HowTo/vacuum-diaphragm-replacement.md)
+- [Снятие карбюраторов](../../HowTo/carburetor-removal.md)
+- [Диагностика отсутствия подачи топлива](../../HowTo/carburetor-no-fuel-delivery.md)
+- [Чистка карбюраторов](../../HowTo/carburetor-cleaning.md)
+- [Установка карбюраторов](../../HowTo/carburetor-installation.md)
+- [Синхронизация карбюраторов](../../HowTo/carburetor-synchronization.md)
+- [Замена вакуумных диафрагм](../../HowTo/vacuum-diaphragm-replacement.md)
 
-### Electrical
+### Электрика
 
-- [Regulator/rectifier upgrade](../../HowTo/regulator-rectifier-upgrade.md)
-- [Stator connector repair](../../HowTo/stator-connector-repair.md)
-- [Ground wire upgrade](../../HowTo/ground-wire-upgrade.md)
+- [Улучшение регулятора/выпрямителя](../../HowTo/regulator-rectifier-upgrade.md)
+- [Ремонт разъёма генератора](../../HowTo/stator-connector-repair.md)
+- [Улучшение массы](../../HowTo/ground-wire-upgrade.md)
 
-### Fabrication and custom work
+### Кастомизация и доработки
 
-- [Clip-on bars](../../HowTo/clip-on-bars.md)
-- [Rear subframe modification](../../HowTo/rear-subframe-modification.md)
-- [Seat and tail](../../HowTo/seat-and-tail.md)
-- [Wiring harness simplification](../../HowTo/wiring-harness-simplification.md)
+- [Установка клипонов](../../HowTo/clip-on-bars.md)
+- [Модификация задней рамы](../../HowTo/rear-subframe-modification.md)
+- [Сиденье и хвостовая часть](../../HowTo/seat-and-tail.md)
+- [Упрощение жгута проводки](../../HowTo/wiring-harness-simplification.md)
 
-## Связанные русские статьи
+## Другие полезные русские материалы
 
-- [Русский README проекта](../README.md)
-- [Ресурсы VF750](../resources.md)
+- [README проекта на русском](../README.md)
+- [Ресурсы по VF750](../resources.md)
 - [Типовые проблемы VF750 / V45](../problems.md)
-- [Sabre cafe racer project references](../Tuning/sabre-cafe-racer-projects.md)
-- [Fork swap planning](../Tuning/fork%20swap.md)
-- [EFI / ECU swap planning](../Tuning/ecu%20swap.md)
+- [Проекты Sabre cafe racer](../Tuning/sabre-cafe-racer-projects.md)
+- [Планирование замены вилки](../Tuning/fork%20swap.md)
+- [Планирование EFI / ECU swap](../Tuning/ecu%20swap.md)

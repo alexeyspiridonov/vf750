@@ -1,83 +1,84 @@
-# CDI / TCI Spark Unit: диагностика и замена
 
-Русское зеркало: `HowTo/cdi-testing-and-replacement.md`
+# CDI / TCI блок зажигания: диагностика и замена
 
-Проверено: 2026-04-29
+Русская версия: `HowTo/cdi-testing-and-replacement.md`
 
-## Scope
+Проверено: 29.04.2026
 
-- проект: 1982 Honda VF750S / V45 Sabre;
-- термин Honda manual: `spark unit`;
-- форумные термины: `CDI`, `igniter`, `black box`, `spark box`;
-- техническая заметка: stock VF750S system — battery-fed transistorized / inductive ignition, поэтому `TCI` точнее, чем classic capacitive-discharge `CDI`.
+## Охват
 
-## Короткий вывод
+- Мотоцикл: Honda VF750S / V45 Sabre 1982 года
+- В мануале Honda: «spark unit» (блок зажигания)
+- На форумах встречаются названия: CDI, igniter, «чёрный ящик», spark box
+- Техническая заметка: штатная система VF750S — транзисторное индуктивное зажигание с питанием от аккумулятора, поэтому корректнее называть её TCI, а не классическим CDI
 
-Не начинай с покупки random universal CDI box.
+## Краткий вывод
 
-Правильный путь:
+Не начинайте с покупки случайного универсального CDI-блока.
 
-1. проверить battery voltage, grounds, fuses и switch power;
-2. понять, проблема на всех цилиндрах или на одной wasted-spark паре;
-3. проверить pulse generators, coils, plug caps, HT leads и питание spark units;
-4. только потом менять spark units на exact OEM, verified plug-and-play replacements или properly configured programmable TCI.
+Правильная последовательность действий:
+
+1. Проверьте напряжение аккумулятора, массу, предохранители и питание зажигания.
+2. Определите, проблема на всех цилиндрах или только на одной паре (wasted-spark).
+3. Проверьте датчики импульсов, катушки зажигания, наконечники свечей, высоковольтные провода и питание блоков зажигания.
+4. Только после этого меняйте блоки зажигания на оригинальные, проверенные аналоги или правильно настроенные программируемые TCI.
 
 ## Безопасность
 
-- Держи fuel vapor away from spark testing.
-- Используй insulated spark tester или properly grounded spare plug.
-- Не крути стартер с loose plug leads рядом с баком или fuel bowls.
-- Не оставляй ignition powered надолго при stopped engine.
-- Снимай клемму battery перед depinning connectors или заменой ignition boxes.
+- Держите пары топлива подальше от проверки искры.
+- Используйте изолированный тестер искры или запасную свечу, надёжно заземлённую.
+- Не прокручивайте стартер с отсоединёнными высоковольтными проводами рядом с баком или поплавковыми камерами.
+- Не оставляйте зажигание включённым надолго при заглушённом двигателе.
+- Снимайте клемму аккумулятора перед разборкой разъёмов или заменой блоков зажигания.
 
 ## Как устроена система
 
-Early VF750S ignition:
+Раннее зажигание VF750S:
 
-- two pulse generator coils;
-- two spark units;
-- two ignition HT coils;
-- wasted-spark cylinder pairs;
-- no normal timing adjustment.
+- два датчика импульсов;
+- два блока зажигания;
+- две катушки зажигания;
+- цилиндры работают парами по принципу «wasted-spark» (искра на каждом обороте);
+- штатная регулировка угла опережения отсутствует.
 
-Stock timing checkpoints:
+Контрольные точки зажигания:
 
-- idle timing: около `10 degrees BTDC`;
-- advance begins after примерно `1,500 rpm`;
-- full advance: около `37 degrees BTDC` by `3,300 rpm`.
+- холостой ход: около 10° до ВМТ;
+- опережение начинается примерно с 1500 об/мин;
+- полный угол опережения: около 37° до ВМТ при 3300 об/мин.
 
-Pickup spec:
+Характеристики датчиков:
 
-- pulse generator nominal resistance: `480 ohms +/- 10%`;
-- Haynes range for 1982-1986 models: `450 to 550 ohms`.
+- номинальное сопротивление датчика импульсов: 480 Ом ±10%;
+- по Haynes для 1982–1986: 450–550 Ом.
 
-Перед depinning смотри wiring diagram:
+Перед разборкой разъёмов смотрите схему электропроводки:
 
 - `../../Manuals/electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.pdf`
 - `../manuals/cdi-reference/01-cdi-tech-and-timing.md`
 
-## Типовые patterns
+## Типовые неисправности
 
-### Нет искры на всех четырех цилиндрах
+### Нет искры на всех четырёх цилиндрах
 
-Сначала смотреть:
+Проверьте:
 
-- low battery voltage during cranking;
-- main fuse / starter-solenoid fuse;
-- ignition switch or kill switch;
-- missing switched 12 V feed to spark units or coils;
-- bad common ground;
-- connector corrosion.
+- низкое напряжение аккумулятора при запуске;
+- основной предохранитель или предохранитель стартера;
+- замок зажигания или аварийный выключатель;
+- отсутствие питания 12 В на блоках зажигания или катушках;
+- плохой общий контакт массы;
+- коррозию разъёмов.
 
-### Мертва одна пара цилиндров
+### Не работает одна пара цилиндров
 
-Смотреть:
+Проверьте:
 
-- one spark unit;
-- one pulse generator pair;
-- one ignition coil;
-- one plug-cap / HT-lead path;
-- bank-specific connector or harness damage.
+- соответствующий блок зажигания;
+- пару датчиков импульсов;
+- одну катушку зажигания;
+- цепь наконечника свечи/высоковольтного провода;
+- повреждение разъёма или жгута конкретного ряда цилиндров.
 
 Early 750 Sabre pairs:
 
