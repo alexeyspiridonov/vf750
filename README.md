@@ -73,6 +73,8 @@ Each generated manual package contains a `manifest.json` with source mappings an
 | `Tuning/fork swap.md` | Modern front-end conversion options for the VF750S / VF700S Sabre. Confirmed builds, donor parts, and warnings. |
 | `Tuning/ecu swap.md` | EFI conversion research: throttle body options, ECU choices (Speeduino, Megasquirt, etc.), sensor requirements. |
 | `Tuning/sabre-cafe-racer-projects.md` | Curated list of real Sabre cafe racer builds with links and analysis (Perry, HackAWeek, Balkan Moto, K-Speed, etc.). |
+| `Tuning/newbies-84-v65-sabre-build.md` | Detailed notes from Sugarkryptonite's V4MuscleBike 1984 V65 Sabre build thread, with a linked local photo archive. |
+| `Tuning/v4musclebike-upgrade-research.md` | V4MuscleBike map for CDI/TCI swaps, EFI, forks, cafe racer builds, and carb tuning threads. |
 | `resources.md` | Forums, wikis, parts sources, Facebook groups, Reddit, and YouTube channels for the VF750 platform. |
 | `problems.md` | Common VF750 / V45 platform problems with symptoms, causes, and practical fixes. |
 | `HowTo/README.md` | Index for the split one-file-per-task how-to guides, including tuning and workshop procedures. |
@@ -81,7 +83,7 @@ Each generated manual package contains a `manifest.json` with source mappings an
 
 ## Practical Guides
 
-- `HowTo/README.md` indexes the platform's common jobs as separate files: valve adjustment, cam inspection, top-end oil mod, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, tuning tasks, and cafe racer fabrication tasks.
+- `HowTo/README.md` indexes the platform's common jobs as separate files: valve adjustment, cam inspection, top-end oil mod, carb removal/installation, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, tuning tasks, and cafe racer fabrication tasks.
 - `problems.md` summarizes the recurring failure points of the VF750 family: cam wear, top-end oiling, cam chain tensioners, charging system, carburetors, CDI failures, Pro-Link wear, and related troubleshooting.
 - `HowTo/v4musclebike-forum-field-notes.md` turns the V4MuscleBike 1st Gen Magna/Sabre forum index into a field map of common topics, source threads, and matching local articles.
 - `Tuning/top-end-oiling.md` expands the cylinder-head lubrication topic into a standalone practical note with baseline checks, external oil-feed guidance, and limits of the common oiling mod.
@@ -93,7 +95,7 @@ The `Images/` folder now includes several reference groups:
 - `Images/stock/` — stock Sabre reference photos.
 - `Images/cafe-racer/` — collected Sabre cafe racer build photos.
 - `Images/pinterest/` — downloaded images from the `saber` Pinterest board for visual comparison and inspiration.
-- `Images/build-process/` — internet-sourced build photos from Perry / Inazuma, Balkan Moto, and video references.
+- `Images/build-process/` — internet-sourced build photos from Perry / Inazuma, Balkan Moto, video references, and the archived V4MuscleBike `Newbie's '84 V65 Sabre` build thread.
 - `Images/repair-service/` — repair-oriented reference thumbnails for carb rebuild and tuning.
 - `Images/README.md` — source index for the image folders.
 - root-level image files in `Images/` — previously collected standalone references.

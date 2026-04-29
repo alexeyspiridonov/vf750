@@ -63,6 +63,8 @@ This folder collects visual references for the `1982 Honda VF750S Sabre` project
 
 <a href="build-process/README.md">Open folder preview page</a>
 
+<a href="build-process/newbies-84-v65-sabre/README.md">Open Newbie's 1984 V65 Sabre build archive</a>
+
 <img src="build-process/balkan-finished-build.jpg" alt="balkan-finished-build" width="600">
 <img src="build-process/balkan-parts-bike.jpg" alt="balkan-parts-bike" width="600">
 <img src="build-process/balkan-project-bike-2.jpg" alt="balkan-project-bike-2" width="600">
@@ -73,6 +75,9 @@ This folder collects visual references for the `1982 Honda VF750S Sabre` project
 <img src="build-process/perry-inazuma-04.jpg" alt="perry-inazuma-04" width="600">
 <img src="build-process/perry-inazuma-05.jpg" alt="perry-inazuma-05" width="600">
 <img src="build-process/perry-inazuma-06.jpg" alt="perry-inazuma-06" width="600">
+<img src="build-process/newbies-84-v65-sabre/newbies-v65-sabre-001.jpg" alt="newbies-v65-sabre-001" width="600">
+<img src="build-process/newbies-84-v65-sabre/newbies-v65-sabre-220.jpg" alt="newbies-v65-sabre-220" width="600">
+<img src="build-process/newbies-84-v65-sabre/newbies-v65-sabre-444.jpg" alt="newbies-v65-sabre-444" width="600">
 
 ## Repair / Service
 

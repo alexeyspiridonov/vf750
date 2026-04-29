@@ -37,6 +37,7 @@ Repository references:
 
 - [Carburetor removal](carburetor-removal.md)
 - [Carburetor cleaning](carburetor-cleaning.md)
+- [Carburetor installation](carburetor-installation.md)
 - [Carburetor synchronization](carburetor-synchronization.md)
 - [Vacuum diaphragm replacement](vacuum-diaphragm-replacement.md)
 - [Intake boot replacement](intake-boot-replacement.md)
@@ -194,3 +195,5 @@ Forum examples:
 - The biggest gaps to consider next are detailed instrument-cluster diagnostics, fuel-pump relay diagnostics, rear shock interchange notes, and a dedicated hot-start troubleshooting flow.
 - For cafe-racer work, the forum is most useful for confirming stock routing, part interchange, and hidden model-year differences before fabrication starts.
 - Forum advice should be treated as field experience, then checked against the factory manual and the bike's exact model year.
+- For deeper upgrade-specific threads, see [V4MuscleBike upgrade research map](../Tuning/v4musclebike-upgrade-research.md).
+- For a full build-process example with downloaded local photos, see [Newbie's 1984 V65 Sabre build notes](../Tuning/newbies-84-v65-sabre-build.md) and the [local image archive](../images/build-process/newbies-84-v65-sabre/README.md).

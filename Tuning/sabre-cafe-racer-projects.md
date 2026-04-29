@@ -187,13 +187,19 @@ Model: 1984 V65 Sabre VF1100S
 - simplified wiring
 - custom tail light and brackets
 - full engine and frame rebuild
+- custom rear frame / seat hoop work
+- custom coolant overflow, side panels, battery box, and lighting mounts
+- carb, fuel-pump relay, charging, and cooling shakedown work
 
-#### Primary link
+#### Primary links
+- [V4MuscleBike build thread](https://v4musclebike.com/threads/newbies-84-v65-sabre.25947/)
 - [V4MuscleBike sale thread with build summary](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/#post-404196)
+- [Local build notes](newbies-84-v65-sabre-build.md)
+- [Local image archive](../images/build-process/newbies-84-v65-sabre/README.md)
 
 #### Note
 
-Not a direct VF750S / VF700S analogue, but still visually and conceptually useful.
+Not a direct VF750S / VF700S analogue, but still visually and conceptually useful. The full build thread is especially valuable for process: it shows wiring cleanup, R1 front-end fabrication, rear shock adaptation, carb/sync trouble, cheap-part failures, head-gasket/cooling trouble, and the need to re-check final-drive fasteners after road use.
 
 ## Search Results That Were Low Value
 

@@ -24,6 +24,7 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 
 - [Carburetor removal](carburetor-removal.md)
 - [Carburetor cleaning](carburetor-cleaning.md)
+- [Carburetor installation](carburetor-installation.md)
 - [Carburetor synchronization](carburetor-synchronization.md)
 - [Vacuum diaphragm replacement](vacuum-diaphragm-replacement.md)
 
