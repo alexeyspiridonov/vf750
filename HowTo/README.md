@@ -23,6 +23,7 @@ The workshop guide is split into one instruction per file under `HowTo/`.
 ## Fuel And Carburetors
 
 - [Carburetor removal](carburetor-removal.md)
+- [Carburetor no-fuel delivery troubleshooting](carburetor-no-fuel-delivery.md)
 - [Carburetor cleaning](carburetor-cleaning.md)
 - [Carburetor installation](carburetor-installation.md)
 - [Carburetor synchronization](carburetor-synchronization.md)

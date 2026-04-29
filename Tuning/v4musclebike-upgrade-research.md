@@ -147,6 +147,7 @@ Related local notes:
 Related local notes:
 
 - [Carburetor cleaning](../HowTo/carburetor-cleaning.md)
+- [Carburetor no-fuel delivery troubleshooting](../HowTo/carburetor-no-fuel-delivery.md)
 - [Carburetor installation](../HowTo/carburetor-installation.md)
 - [Carburetor synchronization](../HowTo/carburetor-synchronization.md)
 - [Carburetor reference package](../Manuals/carburetor-reference/README.md)

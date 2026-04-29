@@ -83,7 +83,7 @@ Each generated manual package contains a `manifest.json` with source mappings an
 
 ## Practical Guides
 
-- `HowTo/README.md` indexes the platform's common jobs as separate files: valve adjustment, cam inspection, top-end oil mod, carb removal/installation, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, tuning tasks, and cafe racer fabrication tasks.
+- `HowTo/README.md` indexes the platform's common jobs as separate files: valve adjustment, cam inspection, top-end oil mod, carb removal/installation, no-fuel carb troubleshooting, carb cleaning and sync, charging system checks, cooling service, clutch work, suspension service, shaft drive maintenance, brake service, tuning tasks, and cafe racer fabrication tasks.
 - `problems.md` summarizes the recurring failure points of the VF750 family: cam wear, top-end oiling, cam chain tensioners, charging system, carburetors, CDI failures, Pro-Link wear, and related troubleshooting.
 - `HowTo/v4musclebike-forum-field-notes.md` turns the V4MuscleBike 1st Gen Magna/Sabre forum index into a field map of common topics, source threads, and matching local articles.
 - `Tuning/top-end-oiling.md` expands the cylinder-head lubrication topic into a standalone practical note with baseline checks, external oil-feed guidance, and limits of the common oiling mod.
