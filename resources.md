@@ -102,6 +102,7 @@ The VF750 service manual is already included in this repository.
 ## VF750 Project Archives
 
 - [V4MuscleBike projects and customizing](https://www.v4musclebike.com/forums/projects-and-customizing.12/)
+- [V4MuscleBike media / photo archive](https://v4musclebike.com/media/) — forum media archive with member-uploaded build, repair, and reference photos
 - [VFRworld VF750 tag archive](https://vfrworld.com/tags/vf750/)
 - [VF1000 forum VF750 section](https://forum.vf1000.com/c/vf750/12)
 

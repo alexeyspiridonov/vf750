@@ -1,6 +1,14 @@
 # CDI / Spark Unit Replacement Options
 
-Checked: 2026-04-12
+Checked: 2026-04-29
+
+## 0. V4MuscleBike Update Summary
+
+The 2026-04-29 V4MuscleBike pass reinforces three points:
+
+- forum users often say `CDI`, but the stock VF750S family ignition is better treated as an inductive / TCI-style system;
+- Ignitech TCIP4 is the clearest programmable path found for a V45 Sabre, but it does not remove the need to test pulse generators, fuel delivery, charging, and wiring;
+- Rae-San has strong V65 forum support, but V65 success is not automatic VF750S plug-in proof.
 
 ## 1. First Recommendation: Match The Existing System Correctly
 
@@ -100,7 +108,31 @@ Practical warnings:
 - do not use timing changes to hide carburetion or charging faults;
 - keep all changes conservative unless you have repeatable road or dyno feedback.
 
-## 6. Option E: Capacitive Aftermarket CDI
+## 6. Option E: Rae-San PULSER TAI / VF-Style Ignition Modules
+
+Best use case:
+
+- you are researching a modern single-box replacement;
+- you are working on a V65 or another explicitly supported VF application;
+- you want a vendor-supported module using the OEM pickup strategy.
+
+Why it is now tracked:
+
+- V4MuscleBike V65 owners repeatedly mention Rae-San as a good direction for old spark-box trouble;
+- the `V65 CDI box` thread says several users have made the switch;
+- Rae-San's PULSER TAI description says it uses OEM inductive pickups and rotor on supported bikes and can be supplied as a plug-in replacement for the original ignition.
+
+Important limitation for this project:
+
+- do not assume the V65 module is a V45 VF750S module;
+- confirm the exact VF750S / V45 Sabre application, connector strategy, coil compatibility, and timing curve before buying.
+
+Practical read:
+
+- Rae-San is worth contacting if OEM-style boxes are unavailable or if you want a supported modern module;
+- treat the purchase as model-specific, not generic.
+
+## 7. Option F: Capacitive Aftermarket CDI
 
 This is usually the wrong first move for this bike.
 
@@ -114,7 +146,7 @@ Practical conclusion:
 - do not buy a cheap "universal CDI" just because the old box is casually called CDI online;
 - if you intentionally want a capacitive system, treat it as a full custom conversion, not a stock replacement.
 
-## 7. Recommended Decision Tree
+## 8. Recommended Decision Tree
 
 ### Lowest risk
 
@@ -128,11 +160,15 @@ Practical conclusion:
 
 - Ignitech `TCIP4`, starting from a stock-equivalent curve.
 
+### Best vendor-contact custom path
+
+- Rae-San, only after confirming a VF750S / V45 Sabre-specific solution.
+
 ### Highest mistake risk
 
 - generic unverified "CDI" boxes with no model-specific pickup and coil strategy.
 
-## 8. Safe Tuning Starting Point For A Programmable Box
+## 9. Safe Tuning Starting Point For A Programmable Box
 
 If you convert to a programmable inductive ignition, begin by reproducing the stock service-manual checkpoints:
 
@@ -150,3 +186,10 @@ Then make only one change at a time and log:
 - coolant temperature trend.
 
 Without that discipline, a programmable box becomes an expensive way to create a second fault.
+
+## 10. V4MuscleBike Threads To Read Before Ordering
+
+- [Here we go again](https://v4musclebike.com/threads/here-we-go-again.46903/) - direct V45 Sabre Ignitech TCIP4 install and diagnostic caution thread.
+- [V65 CDI box](https://v4musclebike.com/forums/showthread.php?t=47554) - Rae-San V65 discussion and fuel-pump-control clarification.
+- [Ideal ignition setup on V65](https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/) - coil power, COP, Rae-San, OEM-style coils, and TCI/CDI vocabulary discussion.
+- [Ignitech replacement for Dyna 3000](https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/) - TCIP4 programming workflow and stock-like map caution, but for a later Magna rather than first-gen Sabre.
