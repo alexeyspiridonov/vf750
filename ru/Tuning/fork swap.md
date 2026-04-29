@@ -1,106 +1,106 @@
-# Honda Sabre: свап современной вилки
+# Honda Sabre: установка современной передней вилки
 
-Русское зеркало: `Tuning/fork swap.md`
+Русская версия: `Tuning/fork swap.md`
 
-Собранные и проверенные заметки.
+Собраны и проверены практические заметки.
 
-Проверено: 2026-04-29
+Проверено: 29.04.2026
 
-## Scope
+## О чём статья
 
-- проект: 1982 Honda VF750S Sabre;
-- близкий локальный parts catalog: 1984-1985 VF700S Sabre;
-- фокус: замена штатного передка на более современный fork / triple / wheel / brake package;
-- обновлено с учетом V4MuscleBike fork-swap тем и build thread Sugarkryptonite V65 Sabre.
+- Мотоцикл: Honda VF750S Sabre 1982 года.
+- Ближайший аналог по каталогу деталей: VF700S Sabre 1984-1985.
+- Основная задача: замена штатного переднего узла на более современный комплект — вилка, траверсы, колесо и тормоза.
+- Материал обновлён по темам V4MuscleBike и проекту Sugarkryptonite V65 Sabre.
 
-## Короткий вывод
+## Краткий вывод
 
-Подтвержденного bolt-on modern fork kit для VF750S / VF700S Sabre не найдено.
+Готового комплекта “поставил и поехал” для VF750S/VF700S Sabre не найдено.
 
-Самое важное: front end — это система, а не две трубы вилки. При реальном свапе почти всегда затрагиваются stem, triples, bearings, wheel, axle, brakes, brake master cylinder, controls, cables, headlight, gauges, steering stops и wiring.
+Передняя часть мотоцикла — это целая система, а не просто два пера вилки. При реальной замене почти всегда затрагиваются рулевой шток, траверсы, подшипники, колесо, ось, тормоза, главный тормозной цилиндр, органы управления, тросы, фара, приборы, ограничители поворота и проводка.
 
-### Практический вывод
+### Практические рекомендации
 
-- если нужен настоящий modern USD conversion, планируй complete donor front end plus custom stem/triples/bearings/wheel/brake/cable work;
-- если цель — хорошо едущий мотоцикл без machining project, rebuilt stock front end или close-era Honda conventional front end ниже по риску;
-- V65/R1 swaps доказывают feasibility на уровне Sabre family, но не bolt-on compatibility для VF750S/V45;
-- улучшение штатной вилки через springs, emulators, seals, bushings, sag и brake service может быть разумнее, чем донорская sportbike вилка.
+- Если нужна современная перевёрнутая вилка (`USD`), планируй замену всего переднего узла и кастомную работу по рулевой, траверсам, подшипникам, колесу, тормозам и тросам.
+- Если цель — управляемый мотоцикл без сложной токарной/фрезерной работы, разумнее восстановить штатную вилку или искать близкую по эпохе вилку Honda.
+- Примеры V65/R1 показывают, что для семейства Sabre такие свапы возможны, но это не доказывает совместимость с VF750S/V45 без доработок.
+- Иногда лучший первый шаг — улучшить штатную вилку: новые пружины, эмуляторы клапанов, сальники, втулки, правильная просадка и обслуживание тормозов.
 
-## Главные подтвержденные проекты
+## Главные подтверждённые проекты
 
 ### 1. Perry / 1984 VF700S Sabre Cafe
 
-Статус: самый сильный прямой proof of concept для modern front-end conversion на Sabre.
+Статус: самый сильный прямой пример современной передней подвески на Sabre.
 
-#### Подтвержденные решения
+#### Подтверждённые решения
 
-- 2008 Suzuki GSX-R750 USD front end;
-- GSX-R750 Tokico front brakes;
-- GSX-R750 hand controls;
-- custom-machined CognitoMoto steering stem;
-- custom CognitoMoto triple trees;
-- custom CognitoMoto front hub;
-- 17x3.5 front wheel;
-- 120/70-17 front tire;
-- custom throttle cables;
-- custom stainless braided brake lines.
+- передний узел от Suzuki GSX-R750 2008 года;
+- тормоза GSX-R750 Tokico;
+- органы управления GSX-R750;
+- кастомный рулевой шток CognitoMoto;
+- кастомные траверсы CognitoMoto;
+- кастомная передняя ступица CognitoMoto;
+- переднее колесо `17x3.5`;
+- передняя шина `120/70-17`;
+- кастомные тросы газа;
+- армированные тормозные шланги.
 
 #### Почему важно
 
-- это не "forks only" swap;
-- пример показывает полный пакет: stem + triples + wheel/hub + brakes + controls + cables;
-- это типовой old-bike custom pattern: donor front end плюс custom parts, чтобы все реально встало и работало.
+- это не замена “только вилки”;
+- пример показывает полный пакет: шток, траверсы, колесо, ступица, тормоза, органы управления и тросы;
+- это типовой путь старого кастомного мотоцикла: взять донорский передний узел, а потом изготовить детали, чтобы он действительно работал.
 
 #### Источники
 
 - [CafeRacer.net thread](https://www.caferacer.net/threads/1984-honda-honda-vf700s-sabre-cafe.28714/)
 - [Inazuma Cafe](https://www.inazumacafe.com/2016/10/vf750-sabre-cafe.html)
 
-### 2. Sugarkryptonite / V65 Sabre appendix
+### 2. Sugarkryptonite / V65 Sabre
 
-Статус: полезный family-level proof, но не прямой V45 аналог.
+Статус: полезный пример по семейству Sabre, но не прямой аналог V45.
 
-#### Подтвержденные решения
+#### Подтверждённые решения
 
-- Yamaha R1 front end conversion;
-- new head bearings;
-- custom steering stem / bearing work;
-- custom lock nuts and triple-clamp work;
-- fork disassembly, seal service и spacer/extender planning;
-- custom headlight lower brackets;
-- clip-ons and sportbike-style controls;
-- brake master cylinder / lever troubleshooting after bore-size mismatch.
+- передний узел Yamaha R1;
+- новые подшипники рулевой;
+- кастомная работа по рулевому штоку и подшипникам;
+- кастомные гайки и работа с траверсами;
+- разборка вилки, обслуживание сальников и планирование проставок/удлинителей;
+- нижние крепления фары;
+- clip-ons и спортивные органы управления;
+- проблемы с главным тормозным цилиндром и рычагом из-за неподходящего диаметра поршня.
 
 #### Почему важно
 
-- показывает, что custom sportbike front-end swaps на Sabre family возможны;
-- подтверждает мысль: надо думать complete donor package, а не isolated fork tubes;
-- показывает hidden work после физической установки передка: headlight mounts, controls, brake hydraulics, fork sealing, bearing settling и road-test correction;
-- дает предупреждение по cheap levers и cheap headlight hardware.
+- показывает, что sportbike front-end swap на Sabre возможен;
+- подтверждает: думать нужно всем донорским узлом, а не отдельными перьями вилки;
+- показывает скрытую работу после физической установки: крепления фары, органы управления, гидравлика тормозов, обслуживание вилки, усадка подшипников и корректировки после поездок;
+- предупреждает против дешёвых рычагов и слабых универсальных креплений фары.
 
 #### Ограничение
 
-Это V65 Sabre, не VF750S project bike.
+Это V65 Sabre, а не VF750S/V45. Использовать как процессный пример, не как список bolt-on деталей.
 
 #### Источники
 
 - [V4MuscleBike full build thread](https://v4musclebike.com/threads/newbies-84-v65-sabre.25947/)
 - [V4MuscleBike sale/build thread](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/#post-404196)
-- [Локальные build notes](newbies-84-v65-sabre-build.md)
-- [Локальный image archive](../../Images/build-process/newbies-84-v65-sabre/README.md)
+- [Локальные заметки по сборке](newbies-84-v65-sabre-build.md)
+- [Локальный фотоархив](../../Images/build-process/newbies-84-v65-sabre/README.md)
 
 ### 3. K-Speed / Sabre Racer
 
-Статус: сильный design reference, но не modern USD conversion.
+Статус: сильный визуальный референс, но не пример современной USD-вилки.
 
-Подтвержденное решение:
+Подтверждённое решение:
 
-- штатные 37 mm telescopic TRAC forks были lowered, а не заменены на modern donor front end.
+- штатные 37-мм телескопические вилки TRAC были опущены, а не заменены на современный донорский узел.
 
 Почему важно:
 
-- Sabre можно визуально опустить и сделать агрессивным без полного modern fork swap;
-- полезно, если цель — stance, а не donor front-end conversion.
+- Sabre можно визуально сделать ниже и агрессивнее без полного свапа передка;
+- полезно, если главная цель — стойка и пропорции, а не современная подвеска.
 
 Источник:
 
@@ -108,19 +108,19 @@
 
 ### 4. Balkan Moto / V45 Sabre
 
-Статус: главный warning example.
+Статус: главный предупреждающий пример.
 
 Что произошло:
 
-- автор сначала укоротил front end через cut fork springs;
-- позже признал, что setup был unsafe и оставил около 1.5 inches travel;
-- на следующем, более хорошем donor bike вилки были rebuilt properly: progressive springs, fresh seals, preload caps, sag setup.
+- автор сначала укоротил передок, обрезав пружины вилки;
+- позже признал, что настройка была небезопасной и оставляла около 1.5 дюйма хода;
+- на более хорошем донорском мотоцикле вилки уже были восстановлены нормально: прогрессивные пружины, новые сальники, регулировка preload и просадки.
 
 Почему важно:
 
-- это самый понятный warning найденный в research;
-- не режь пружины как замену нормальному lowering / fork work;
-- ride height changes без geometry и damping/spring work быстро делают плохой мотоцикл.
+- это самый ясный пример “как не надо”;
+- обрезка пружин не заменяет нормальную работу с подвеской;
+- изменение высоты без расчёта геометрии, пружин и демпфирования быстро превращает мотоцикл в плохой и опасный.
 
 Источники:
 
@@ -131,15 +131,15 @@
 
 Локальные факты:
 
-- parts data показывает dual-disc front brake setup и 110/90-18 front tire;
-- Haynes содержит разделы по forks, steering stem, steering head bearings, TRAC/anti-dive, front wheel и front brakes;
-- ранний 750 использует stock air-assisted fork arrangement.
+- каталог деталей показывает два передних диска и переднюю шину `110/90-18`;
+- в Haynes есть отдельные разделы по вилке, рулевому штоку, подшипникам рулевой, TRAC/anti-dive, переднему колесу и тормозам;
+- ранний 750 использует штатную пневматически поджимаемую вилку.
 
 Почему это важно:
 
-- современные sportbike forks часто короче;
-- modern swaps часто переводят переднее колесо с 18-inch на 17-inch;
-- вместе эти изменения могут сильно изменить rake, trail и общий stance.
+- современные sportbike-вилки часто короче;
+- многие современные свапы переводят переднее колесо с 18 на 17 дюймов;
+- вместе эти изменения могут сильно изменить rake, trail и посадку мотоцикла.
 
 Локальные источники:
 
@@ -147,174 +147,174 @@
 - `../../Manuals/haynes-manual/sections/07-brakes-wheels-and-tires.pdf`
 - `../../Manuals/partslist-vf700s-sabre/partslist-vf700s-sabre-searchable.txt`
 
-## Жесткие ограничения
+## Жёсткие ограничения
 
-### 1. Forks-only swap — неправильная модель
+### 1. “Только вилки” — неправильная модель
 
-Реальный package обычно включает:
+Реальный передний узел обычно включает:
 
-- fork tubes / fork legs;
-- upper and lower triple clamps;
-- steering stem;
-- steering bearings;
-- axle;
-- wheel;
-- brake rotors;
-- calipers;
-- brake master cylinder;
-- brake lines;
-- controls and switchgear;
-- speedometer / sensor;
-- headlight and gauge mounts;
-- ignition switch mount;
-- steering stops;
-- cable and harness routing.
+- перья вилки;
+- верхнюю и нижнюю траверсы;
+- рулевой шток;
+- подшипники рулевой;
+- ось;
+- колесо;
+- тормозные диски;
+- суппорты;
+- главный тормозной цилиндр;
+- тормозные шланги;
+- органы управления и пульты;
+- спидометр или датчик скорости;
+- крепления фары и приборов;
+- крепление замка зажигания;
+- ограничители поворота;
+- маршрут тросов и проводки.
 
-### 2. Stem and bearing work решают проект
+### 2. Рулевой шток и подшипники решают проект
 
-Если donor triples не подходят к Sabre frame:
+Если донорские траверсы не подходят к раме Sabre:
 
-- нужен custom stem;
-- или machining / press work;
-- или bearing stack solution;
-- или custom triples.
+- нужен кастомный рулевой шток;
+- или прессовые/токарные работы;
+- или подбор подшипников и проставок;
+- или кастомные траверсы.
 
-Нельзя покупать вилку только по tube diameter.
+Нельзя покупать вилку только по диаметру пера.
 
-### 3. Brakes and controls являются частью свапа
+### 3. Тормоза и органы управления — часть свапа
 
-После donor front end нужно проверить:
+После установки донорского передка нужно проверить:
 
-- master cylinder bore;
-- caliper piston area;
-- lever travel and feel;
-- brake-light switch;
-- hose routing;
-- reservoir clearance;
-- throttle and switchgear routing.
+- диаметр поршня главного тормозного цилиндра;
+- суммарную площадь поршней суппортов;
+- ход и ощущение рычага;
+- выключатель стоп-сигнала;
+- маршрут тормозных шлангов;
+- зазор бачка тормозной жидкости;
+- маршрут тросов газа и проводки пультов.
 
-V65/R1 пример показывает: mismatched master cylinder / lever может сделать тормоза плохими даже если вилка физически стоит.
+Пример V65/R1 показывает: неподходящий главный цилиндр или рычаг могут испортить тормоза, даже если вилка физически установлена.
 
-### 4. Headlight, gauges and ignition становятся fabrication work
+### 4. Фара, приборы и замок зажигания становятся fabrication work
 
-На cafe/streetfighter Sabre после свапа почти всегда нужно заново решать:
+После cafe/streetfighter свапа почти всегда нужно заново решать:
 
-- headlight brackets;
-- gauge mount;
-- ignition switch location;
-- wire routing around steering stops;
-- brake hose and throttle cable clearance;
-- lock-to-lock interference.
+- крепления фары;
+- крепление приборов;
+- место замка зажигания;
+- проводку вокруг ограничителей поворота;
+- зазор тормозного шланга и тросов газа;
+- отсутствие касаний от упора до упора.
 
-Дешевые universal headlights/brackets — частый weak point.
+Дешёвые универсальные фары и кронштейны часто оказываются слабым местом.
 
 ## Варианты направления
 
-### Вариант A: full modern USD front end
+### Вариант A: современный перевёрнутый передок
 
-Лучше всего, если цель — радикальный modern cafe/streetfighter build.
+Лучше всего подходит, если цель — радикальный modern cafe/streetfighter build.
 
 Плюсы:
 
-- современная жесткость и тормоза;
-- широкий выбор donor parts;
+- современная жёсткость и тормоза;
+- широкий выбор донорских деталей;
 - сильный визуальный эффект.
 
 Минусы:
 
-- custom stem/triples почти неизбежны;
-- wheel/brake/speedo/headlight/controls превращаются в один большой проект;
-- легко испортить geometry;
+- кастомный шток или траверсы почти неизбежны;
+- колесо, тормоза, спидометр, фара и органы управления становятся одним большим проектом;
+- легко испортить геометрию;
 - дорого и долго.
 
-Рабочие reference paths:
+Рабочие ориентиры:
 
-- GSX-R route через Perry;
-- R1 route как V65 family-level reference.
+- путь GSX-R через проект Perry;
+- путь R1 как процессный пример V65.
 
-### Вариант B: close-era Honda conventional front end
+### Вариант B: близкая по эпохе обычная вилка Honda
 
-Лучше всего, если нужна lower-risk Honda-family логика.
+Лучший вариант, если нужен меньший риск и логика Honda-family.
 
 Что смотреть:
 
-- near-era VFR front end;
-- fork length;
-- tube diameter;
-- axle and wheel fit;
-- brake caliper and rotor compatibility;
-- steering stem and bearing stack.
+- передний узел VFR близких лет;
+- длину вилки;
+- диаметр перьев;
+- ось и посадку колеса;
+- совместимость суппортов и дисков;
+- рулевой шток и подшипники.
 
-V4MuscleBike V45/VFR thread полезен именно как reminder: даже если fork diameter близок, Sabre calipers may not swap, и весь VFR wheel/brake/front-end package может быть проще.
+Тема V4MuscleBike по V45/VFR полезна именно как напоминание: даже если диаметр вилки похож, суппорты Sabre могут не подойти, и полный VFR-пакет с колесом и тормозами может быть проще.
 
 Источник:
 
 - [Fork swap?](https://v4musclebike.com/forums/showthread.php?t=34228)
 
-### Вариант C: rebuild and upgrade stock front end
+### Вариант C: восстановить и улучшить штатный передок
 
-Лучше всего, если цель — ride quality, а не show-piece swap.
+Лучший вариант, если цель — качество езды, а не радикальный внешний вид.
 
 Что делать:
 
-- fresh fork seals;
-- bushings;
-- proper fork oil;
-- correct sag;
-- fork springs;
-- Race Tech / Gold Valve Emulator-style direction;
-- brake rebuild;
-- fresh lines and pads;
-- steering head bearing adjustment.
+- новые сальники вилки;
+- новые втулки;
+- правильное масло;
+- правильная просадка;
+- новые пружины;
+- эмуляторы клапанов в стиле Race Tech / Gold Valve;
+- переборка тормозов;
+- новые шланги и колодки;
+- регулировка подшипников рулевой.
 
-V4MuscleBike suspension discussions часто относятся к springs, emulators, seals, bushings, sag и brake service как к серьезной альтернативе donor-fork swaps.
+На V4MuscleBike пружины, эмуляторы, сальники, втулки, просадка и тормоза часто рассматриваются как серьёзная альтернатива донорской вилке.
 
 ## Что измерить до покупки деталей
 
-- stock fork length axle-to-top;
-- donor fork length axle-to-top;
-- fork tube diameter at triples;
-- triple clamp offset;
-- steering stem length;
-- bearing inner/outer diameters;
-- axle diameter;
-- wheel diameter and tire size;
-- brake rotor diameter and offset;
-- caliper mounting style;
-- master cylinder bore;
-- lock-to-lock clearance;
-- headlight/gauge/ignition clearance;
-- available height above lower triple;
-- brake hose, throttle cable and harness path;
-- full compression tire-to-frame clearance.
+- длина штатной вилки от оси до верха;
+- длина донорской вилки от оси до верха;
+- диаметр перьев в местах зажима траверс;
+- вылет траверс;
+- длина рулевого штока;
+- внутренний и внешний диаметры подшипников;
+- диаметр оси;
+- диаметр колеса и размер шины;
+- диаметр и вылет тормозных дисков;
+- крепление суппортов;
+- диаметр поршня главного тормозного цилиндра;
+- зазоры от упора до упора;
+- место для фары, приборов и замка зажигания;
+- высота над нижней траверсой;
+- маршрут тормозных шлангов, тросов газа и проводки;
+- зазор шины до рамы/радиатора при полном сжатии.
 
 ## Бюджет, который легко забыть
 
-Кроме fork legs и triples почти всегда нужны:
+Кроме перьев и траверс почти всегда нужны:
 
-- bearings and seals;
-- stem machining or custom stem;
-- wheel bearings/spacers;
-- brake lines;
-- master cylinder;
-- brake pads and fluid;
-- fork seal/bushing service;
-- possible fork spacer/extender work;
-- headlight brackets;
-- gauge mount;
-- ignition switch mount;
-- steering stops;
-- throttle cables;
-- switchgear wiring;
-- brake-light wiring;
-- bearing retorque and post-ride fastener shakedown.
+- подшипники и сальники;
+- токарные работы по штоку или кастомный шток;
+- подшипники и проставки колеса;
+- тормозные шланги;
+- главный тормозной цилиндр;
+- колодки и тормозная жидкость;
+- обслуживание сальников и втулок вилки;
+- возможные проставки или удлинители вилки;
+- кронштейны фары;
+- крепление приборов;
+- крепление замка зажигания;
+- ограничители поворота;
+- тросы газа;
+- проводка пультов;
+- проводка стоп-сигнала;
+- повторная протяжка подшипников и крепежа после первых поездок.
 
-## 2026-04-29 V4MuscleBike update summary
+## Обновление по V4MuscleBike от 29.04.2026
 
-- V4MuscleBike не дал bolt-on VF750S modern-fork recipe.
-- Самый близкий V45 direction — near-era VFR package, но с обязательными измерениями.
-- V65 R1 build полезен как process reference: кастомный передок тянет за собой brakes, controls, headlight, gauges и bearing shakedown.
-- Если цель — ездить лучше, сначала рассмотреть rebuilt stock fork + springs/emulators + brake service.
+- V4MuscleBike не дал готового bolt-on рецепта современной вилки для VF750S.
+- Самое близкое направление для V45 — передний узел VFR близких лет, но только после измерений.
+- V65/R1 build полезен как процессный пример: кастомный передок тянет за собой тормоза, органы управления, фару, приборы и повторную проверку подшипников.
+- Если цель — лучше ехать, сначала рассмотреть восстановление штатной вилки, пружины/эмуляторы и обслуживание тормозов.
 
 ## Лучшие источники
 

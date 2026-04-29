@@ -1,105 +1,105 @@
-# CDI / Spark Unit: диагностика и setup
+# CDI / Spark Unit: диагностика и настройка
 
 Русское зеркало: `manuals/cdi-reference/02-cdi-diagnostics-and-setup.md`
 
 ## 1. Главное правило
 
-Не начинай с обвинения spark units.
+Не начинайте с обвинения блоков зажигания.
 
-На этой платформе симптомы "bad CDI" часто вызывают:
+На этой платформе симптомы “умершего CDI” часто вызывают:
 
-- low battery voltage during cranking;
-- poor ground paths;
-- corroded connectors;
-- weak pulse generator output;
-- bad coil or HT path;
-- old kill-switch or ignition-switch contacts.
+- низкое напряжение аккумулятора при прокрутке стартером;
+- плохие массы;
+- окисленные разъёмы;
+- слабый сигнал датчиков импульсов;
+- неисправная катушка, свечной колпачок или высоковольтный провод;
+- старые контакты замка зажигания или аварийного выключателя.
 
-## 2. Common failure patterns
+## 2. Типовые сценарии
 
-### Падает один bank / одна пара
+### Пропадает одна пара цилиндров
 
-Смотреть:
+Сначала смотреть:
 
-- one spark unit;
-- pickup pair feeding that spark unit;
-- coil serving that bank;
-- bank-specific connector or harness damage.
+- один из блоков зажигания;
+- пару датчиков импульсов, которая кормит этот блок;
+- катушку этой пары цилиндров;
+- разъём или участок жгута именно этого ряда.
 
-### Misfire worse hot
+### Пропуски зажигания усиливаются на горячую
 
-Смотреть:
+Сначала смотреть:
 
-- spark unit breaking down with temperature;
-- pickup coil resistance drifting hot;
-- connector resistance rising with heat;
-- weak charging system causing low running voltage.
+- блок зажигания, который отказывает при нагреве;
+- датчик импульсов, у которого сопротивление уходит на горячую;
+- разъём, сопротивление которого растёт при нагреве;
+- слабую зарядку и низкое рабочее напряжение.
 
-### Tachometer ведет себя странно
+### Тахометр ведёт себя странно
 
-Локальные forum references связывают tach behavior с rear-bank ignition faults. Это полезная clue, но не proof.
+Форумные заметки связывают поведение тахометра с проблемами зажигания заднего ряда. Это полезная подсказка, но не доказательство. Всё равно нужно проверять питание, массу, датчики, катушки и блоки.
 
-## 3. Practical diagnostic order
+## 3. Практический порядок диагностики
 
-Перед покупкой parts:
+До покупки деталей:
 
-1. Confirm battery condition and cranking voltage.
-2. Confirm clean grounds from battery, frame, engine.
-3. Confirm switched ignition power reaches both spark units during cranking and running.
-4. Measure both pulse generators against spec.
-5. Check coil primary and secondary resistance.
-6. Inspect plug caps, HT leads and connectors.
-7. Check ignition timing with strobe.
-8. Only then condemn spark unit.
+1. Проверить аккумулятор и напряжение при прокрутке стартером.
+2. Проверить массы аккумулятора, рамы и двигателя.
+3. Убедиться, что питание зажигания приходит на оба блока и катушки во время запуска и работы.
+4. Измерить оба датчика импульсов по мануалу.
+5. Проверить первичное и вторичное сопротивление катушек.
+6. Осмотреть свечные колпачки, высоковольтные провода и разъёмы.
+7. Проверить угол зажигания стробоскопом.
+8. Только после этого считать блок зажигания виновным.
 
-## 4. Fast isolation logic
+## 4. Быстрая изоляция неисправности
 
-Если bike runs on only one bank:
+Если двигатель работает только на одной паре цилиндров:
 
-- identify whether `1-3` or `2-4` is dead;
-- compare pickup resistance bank-to-bank;
-- compare coil feed and spark output bank-to-bank;
-- if two spark units are same part number and connector format, swap them and see whether fault follows box.
+- определить, какая пара мертва: `1-3` или `2-4`;
+- сравнить сопротивление датчиков импульсов;
+- сравнить питание катушек и наличие искры по парам;
+- если оба блока одинаковые по номеру и разъёмам, поменять их местами и посмотреть, переедет ли неисправность.
 
-Если fault moves with box, box is prime suspect.
+Если неисправность переехала вместе с блоком, блок становится главным подозреваемым.
 
-## 5. Timing-light check
+## 5. Проверка стробоскопом
 
-Для stock-style system timing-light check — это реальный setup procedure.
+Для штатной системы проверка стробоскопом — это и есть основная процедура настройки.
 
-Target checkpoints:
+Контрольные точки:
 
-- `10° BTDC` at idle;
-- full advance at `37° BTDC` by `3,300 rpm`.
+- `10° до ВМТ` на холостом ходу;
+- полное опережение около `37° до ВМТ` к `3 300 об/мин`.
 
-Если timing unstable, late или asymmetric:
+Если угол нестабилен, запаздывает или отличается между парами цилиндров, проверять:
 
-- pulse generators;
-- spark units;
-- rotor / trigger condition;
-- harness voltage drop;
-- grounds.
+- датчики импульсов;
+- блоки зажигания;
+- ротор / задающий элемент;
+- падение напряжения в жгуте;
+- массы.
 
-## 6. Что означает setup
+## 6. Что означает “настройка” на штатной системе
 
-Для stock spark units setup — это не editing map. Это:
+Для штатных блоков это не редактирование карты. Это:
 
-- clean power and ground;
-- healthy pickups;
-- healthy coils;
-- correct static wiring;
-- timing marks verified with strobe.
+- чистое питание и масса;
+- исправные датчики импульсов;
+- исправные катушки;
+- правильная проводка;
+- проверка меток стробоскопом.
 
-Это baseline перед modern ignition conversion.
+Это базовая точка перед любой современной заменой зажигания.
 
-## 7. Перед любой replacement ignition
+## 7. Перед любой заменой зажигания
 
 Сначала:
 
-- fix charging issues;
-- clean all ignition connectors;
-- verify pickup resistance cold and hot if possible;
-- verify correct coils and plug caps;
-- get carbs and valve clearances right.
+- исправить проблемы зарядки;
+- почистить разъёмы зажигания;
+- проверить сопротивление датчиков импульсов на холодную и, если возможно, на горячую;
+- убедиться, что стоят правильные катушки и свечные колпачки;
+- привести в порядок карбюраторы и зазоры клапанов.
 
-Если engine mechanically или fuel-system sick, ignition box не исправит это tuning magic.
+Если двигатель механически болен или есть проблема с подачей топлива, новый блок зажигания это не исправит.

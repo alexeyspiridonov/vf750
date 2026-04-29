@@ -1,4 +1,3 @@
-
 # CDI / TCI блок зажигания: диагностика и замена
 
 Русская версия: `HowTo/cdi-testing-and-replacement.md`
@@ -7,52 +6,52 @@
 
 ## Охват
 
-- Мотоцикл: Honda VF750S / V45 Sabre 1982 года
-- В мануале Honda: «spark unit» (блок зажигания)
-- На форумах встречаются названия: CDI, igniter, «чёрный ящик», spark box
-- Техническая заметка: штатная система VF750S — транзисторное индуктивное зажигание с питанием от аккумулятора, поэтому корректнее называть её TCI, а не классическим CDI
+- Мотоцикл: Honda VF750S / V45 Sabre 1982 года.
+- В мануале Honda эти детали называются `spark unit`, то есть блоки зажигания.
+- На форумах встречаются названия: CDI, igniter, “чёрный ящик”, spark box.
+- Технически штатная система VF750S — транзисторное индуктивное зажигание с питанием от аккумулятора. Поэтому `TCI` точнее, чем классический capacitive CDI.
 
 ## Краткий вывод
 
 Не начинайте с покупки случайного универсального CDI-блока.
 
-Правильная последовательность действий:
+Правильная последовательность:
 
-1. Проверьте напряжение аккумулятора, массу, предохранители и питание зажигания.
-2. Определите, проблема на всех цилиндрах или только на одной паре (wasted-spark).
-3. Проверьте датчики импульсов, катушки зажигания, наконечники свечей, высоковольтные провода и питание блоков зажигания.
-4. Только после этого меняйте блоки зажигания на оригинальные, проверенные аналоги или правильно настроенные программируемые TCI.
+1. Проверить напряжение аккумулятора, массы, предохранители и питание зажигания.
+2. Понять, проблема на всех цилиндрах или только на одной паре.
+3. Проверить датчики импульсов, катушки, свечные колпачки, высоковольтные провода и питание блоков.
+4. Только после этого менять блоки зажигания на оригинальные, проверенные аналоги или правильно настроенный программируемый TCI.
 
 ## Безопасность
 
-- Держите пары топлива подальше от проверки искры.
+- Не проверяйте искру рядом с парами топлива.
 - Используйте изолированный тестер искры или запасную свечу, надёжно заземлённую.
-- Не прокручивайте стартер с отсоединёнными высоковольтными проводами рядом с баком или поплавковыми камерами.
-- Не оставляйте зажигание включённым надолго при заглушённом двигателе.
-- Снимайте клемму аккумулятора перед разборкой разъёмов или заменой блоков зажигания.
+- Не крутите стартер с болтающимися высоковольтными проводами возле бака или карбюраторов.
+- Не оставляйте зажигание надолго включённым при заглушённом двигателе.
+- Снимайте клемму аккумулятора перед разборкой разъёмов или заменой блоков.
 
 ## Как устроена система
 
-Раннее зажигание VF750S:
+Ранний VF750S использует:
 
 - два датчика импульсов;
 - два блока зажигания;
 - две катушки зажигания;
-- цилиндры работают парами по принципу «wasted-spark» (искра на каждом обороте);
-- штатная регулировка угла опережения отсутствует.
+- схему “wasted spark”, где катушка обслуживает пару цилиндров;
+- без штатной регулировки угла зажигания.
 
-Контрольные точки зажигания:
+Контрольные точки:
 
-- холостой ход: около 10° до ВМТ;
-- опережение начинается примерно с 1500 об/мин;
-- полный угол опережения: около 37° до ВМТ при 3300 об/мин.
+- холостой ход: около `10° до ВМТ`;
+- опережение начинается примерно с `1 500 об/мин`;
+- полный угол: около `37° до ВМТ` при `3 300 об/мин`.
 
-Характеристики датчиков:
+Датчики импульсов:
 
-- номинальное сопротивление датчика импульсов: 480 Ом ±10%;
-- по Haynes для 1982–1986: 450–550 Ом.
+- номинал около `480 Ом +/- 10%`;
+- диапазон Haynes для 1982-1986: `450-550 Ом`.
 
-Перед разборкой разъёмов смотрите схему электропроводки:
+Перед разборкой разъёмов используйте схему:
 
 - `../../Manuals/electrical-reference/manuals/04-wiring-diagram-1982-750-sabre.pdf`
 - `../manuals/cdi-reference/01-cdi-tech-and-timing.md`
@@ -63,11 +62,11 @@
 
 Проверьте:
 
-- низкое напряжение аккумулятора при запуске;
-- основной предохранитель или предохранитель стартера;
-- замок зажигания или аварийный выключатель;
-- отсутствие питания 12 В на блоках зажигания или катушках;
-- плохой общий контакт массы;
+- напряжение аккумулятора во время прокрутки;
+- основной предохранитель и предохранитель в зоне реле стартера;
+- замок зажигания и аварийный выключатель;
+- питание 12 В на блоках и катушках;
+- общий контакт массы;
 - коррозию разъёмов.
 
 ### Не работает одна пара цилиндров
@@ -76,286 +75,294 @@
 
 - соответствующий блок зажигания;
 - пару датчиков импульсов;
-- одну катушку зажигания;
-- цепь наконечника свечи/высоковольтного провода;
-- повреждение разъёма или жгута конкретного ряда цилиндров.
+- катушку этой пары;
+- свечные колпачки и высоковольтные провода;
+- разъём или участок жгута этого ряда.
 
-Early 750 Sabre pairs:
+Пары цилиндров раннего 750 Sabre:
 
-- cylinders `1 and 3`;
-- cylinders `2 and 4`.
+- `1 и 3`;
+- `2 и 4`.
 
-### Misfire или shutdown хуже на горячую
+### Пропуски или остановка усиливаются на горячую
 
 Подозревать:
 
-- pulse generator resistance drifting hot;
-- spark unit breaking down with heat/vibration;
-- connector resistance rising with heat;
-- weak charging voltage warm;
-- fuel starvation masquerading as ignition failure.
+- датчик импульсов, у которого сопротивление уходит на горячую;
+- блок зажигания, который отказывает при нагреве или вибрации;
+- разъём, сопротивление которого растёт при нагреве;
+- слабую зарядку на прогретом двигателе;
+- нехватку топлива, которая маскируется под проблему зажигания.
 
-V4MuscleBike `Here we go again` — хороший warning example: owner поставил Ignitech TCIP4, но диагностика все равно вернулась к pulse generators, fuel delivery и model-specific fuel-system logic.
+Тема V4MuscleBike `Here we go again` — хороший пример: владелец поставил Ignitech TCIP4, но диагностика всё равно вернулась к датчикам импульсов, подаче топлива и особенностям топливной системы.
 
-### Странное поведение tachometer
+### Странное поведение тахометра
 
-Форумные заметки связывают rear-bank ignition faults с tach behavior. Это clue, не proof. Все равно нужно проверять wiring, pickups, coils and spark units.
+Форумные заметки связывают тахометр с неисправностями зажигания заднего ряда. Это подсказка, не доказательство. Всё равно проверять проводку, датчики, катушки и блоки.
 
 ## Инструменты
 
-- fully charged battery;
-- multimeter;
-- spark tester или spare known-good plug;
-- timing light;
-- wiring diagram;
-- back-probe leads;
-- contact cleaner;
-- dielectric grease для reassembly, не как conductor;
-- notebook для cold/hot resistance readings.
+- полностью заряженный аккумулятор;
+- мультиметр;
+- тестер искры или заведомо исправная запасная свеча;
+- стробоскоп;
+- электрическая схема;
+- тонкие щупы или провода для проверки разъёмов;
+- очиститель контактов;
+- диэлектрическая смазка для защиты разъёмов после сборки;
+- блокнот для значений сопротивления на холодную и горячую.
 
 ## Диагностический порядок
 
-### 1. Battery and main power
+### 1. Аккумулятор и основное питание
 
-- charge battery fully;
-- measure voltage at rest;
-- measure voltage while cranking;
-- inspect main fuse and starter-solenoid area;
-- inspect ignition switch and kill switch.
+- полностью зарядить аккумулятор;
+- измерить напряжение в покое;
+- измерить напряжение при прокрутке стартером;
+- осмотреть главный предохранитель и реле стартера;
+- проверить замок зажигания и аварийный выключатель.
 
-Weak cranking voltage can look like bad ignition.
+Слабое напряжение при прокрутке легко выглядит как неисправность зажигания.
 
-### 2. Grounds and connectors
+### 2. Массы и разъёмы
 
 Проверить и почистить:
 
-- battery negative to engine;
-- battery negative to frame if present;
-- coil grounds / mounting;
-- spark-unit connectors;
-- pulse-generator connectors;
-- coil primary connectors;
-- prior-owner splices.
+- минус аккумулятора к двигателю;
+- минус аккумулятора к раме, если он есть;
+- крепление и массу катушек;
+- разъёмы блоков зажигания;
+- разъёмы датчиков импульсов;
+- первичные разъёмы катушек;
+- старые скрутки и ремонты предыдущих владельцев.
 
-### 3. Spark на всех цилиндрах
+### 3. Проверка искры на всех цилиндрах
 
 Одинаково проверить каждый цилиндр и записать:
 
-- no spark on all four;
-- weak spark on all four;
-- no spark on one pair;
-- intermittent spark after heat soak;
-- spark present but engine still does not fire.
+- нет искры на всех четырёх;
+- слабая искра на всех четырёх;
+- нет искры на одной паре;
+- искра пропадает после прогрева;
+- искра есть, но двигатель не запускается.
 
-### 4. Dead pair
+### 4. Если мертва одна пара
 
-Если мертвы два цилиндра, сравнить:
+Сравнить по парам:
 
-- spark output bank to bank;
-- coil primary feed;
-- coil resistance;
-- pulse generator resistance;
-- connector condition.
+- наличие искры;
+- питание катушки;
+- сопротивление катушки;
+- сопротивление датчика импульсов;
+- состояние разъёмов.
 
-### 5. Pulse generators cold
+### 5. Датчики импульсов на холодную
 
-Measure both pulse generator circuits:
+Измерить оба контура датчиков:
 
-- `450 to 550 ohms` Haynes range;
-- Honda reference около `480 ohms +/- 10%`.
+- рабочий диапазон Haynes: `450-550 Ом`;
+- ориентир Honda: около `480 Ом +/- 10%`.
 
-Continuity alone is not enough.
+Одна только “прозвонка” недостаточна.
 
-### 6. Pulse generators hot
+### 6. Датчики импульсов на горячую
 
-Если bike runs cold and dies hot:
+Если мотоцикл работает холодным и глохнет горячим:
 
-- прогреть до появления fault;
-- safely shut down;
-- сразу измерить pulse generators;
-- сравнить с cold values.
+- прогреть до появления неисправности;
+- безопасно заглушить;
+- сразу измерить датчики импульсов;
+- сравнить с холодными значениями.
 
-Pickup может быть нормальным cold и fail hot.
+Датчик может быть нормальным на холодную и отказывать после нагрева.
 
-### 7. Coils, plug caps, HT leads
+### 7. Катушки, колпачки и высоковольтные провода
 
-По manual проверить primary/secondary resistance.
+По мануалу проверить первичное и вторичное сопротивление.
 
-Осмотреть:
+Также осмотреть:
 
-- cracked plug caps;
-- loose HT leads;
-- corrosion at coil terminals;
-- wrong resistance caps;
-- old plugs masking spark quality.
+- трещины свечных колпачков;
+- неплотные высоковольтные провода;
+- коррозию на выводах катушек;
+- колпачки неправильного сопротивления;
+- старые свечи, которые искажают картину проверки искры.
 
-### 8. Power to spark units
+### 8. Питание блоков зажигания
 
-По wiring diagram проверить switched ignition power на spark units and coils during cranking and running.
+По схеме убедиться, что питание зажигания приходит на блоки и катушки во время запуска и работы двигателя.
 
-Проверять voltage drop, а не только open-circuit voltage.
+Проверяйте падение напряжения под нагрузкой, а не только напряжение на разъёме без нагрузки.
 
-### 9. Swap spark units only if compatible
+### 9. Перестановка блоков только при совместимости
 
-Если две stock boxes одинаковые по connector format and compatible:
+Если оба штатных блока одинаковые по номеру и разъёмам:
 
-- mark both boxes;
-- swap them;
-- проверить, follows fault the box.
+- пометить оба блока;
+- поменять их местами;
+- проверить, переедет ли неисправность за блоком.
 
-Если fault moves with box, box becomes prime suspect.
+Если неисправность переехала, блок становится главным подозреваемым.
 
-Не считать все year/model boxes interchangeable.
+Не считать блоки разных годов и моделей взаимозаменяемыми без проверки.
 
-### 10. Timing light
+### 10. Проверка стробоскопом
 
 После запуска проверить:
 
-- около `10 degrees BTDC` at idle;
-- smooth advance;
-- около `37 degrees BTDC` by `3,300 rpm`.
+- около `10° до ВМТ` на холостом ходу;
+- плавное увеличение опережения;
+- около `37° до ВМТ` к `3 300 об/мин`.
 
-Если timing unstable or wrong, диагностировать components. Stock system has no normal timing adjustment.
+Если угол нестабилен или неправильный, искать неисправный компонент. Штатная система не имеет обычной регулировки угла.
 
 ## Варианты замены
 
-### Option A: exact-code OEM or NOS spark units
+### Вариант A: OEM или NOS с точным кодом
 
-Лучше, если bike stays stock и можно match exact printed code and connector layout.
+Подходит, если мотоцикл остаётся штатным и можно совпасть по печатному коду, номеру и разъёму.
 
-Плюсы: stock curve, проще manual-based troubleshooting, минимум setup.  
-Минусы: used parts могут быть heat-damaged; listings часто смешивают VF years/models.
+Плюсы:
 
-### Option B: verified plug-and-play replacement modules
+- штатная кривая зажигания;
+- проще диагностировать по мануалу;
+- минимум настройки.
 
-Лучше, если нужен stock-style operation with newer electronics без map tuning.
+Минусы:
 
-CDI reference package отслеживает Carmo как current stock-style replacement path. Но нужно проверить exact box codes.
+- старые б/у блоки могут уже быть повреждены нагревом;
+- объявления часто смешивают разные годы и модели VF.
 
-См.: [CDI replacement options](../manuals/cdi-reference/03-cdi-replacement-options.md)
+### Вариант B: проверенные готовые замены
 
-### Option C: Ignitech SPARKER TCI
+Подходит, если нужна штатная логика работы, но с новой электроникой и без настройки карт.
 
-Хорошо, если нужен modern inductive replacement и system family должен совпадать со stock Honda TCI-style architecture.
+Справочник CDI отслеживает Carmo как актуальный вариант замены, но перед заказом нужно сверить коды своих блоков.
 
-Ignitech describes SPARKER TCI as inductive battery/transistor ignition for multi-cylinder carbureted motorcycles. Это правильнее, чем random capacitive CDI box.
+См.: [варианты замены блоков зажигания](../manuals/cdi-reference/03-cdi-replacement-options.md)
 
-### Option D: Ignitech TCIP4
+### Вариант C: Ignitech SPARKER TCI
 
-Хорошо, если нужен programmable timing и есть готовность к wiring/laptop setup.
+Подходит, если нужен современный индуктивный блок, близкий по принципу к штатной системе Honda.
 
-V4MuscleBike имеет прямой V45 Sabre пример: 1982 VF750S owner installed TCIP4. Bike starts and runs, но thread предупреждает: programmable ignition не отменяет диагностику pulse generators, fuel delivery, charging and wiring.
+Ignitech описывает SPARKER TCI как индуктивное батарейно-транзисторное зажигание для многoцилиндровых карбюраторных мотоциклов. Это правильнее, чем случайный универсальный CDI.
 
-First map rule:
+### Вариант D: Ignitech TCIP4
 
-- reproduce stock timing checkpoints;
-- confirm with timing light;
-- tune one change at a time.
+Подходит, если нужно программируемое опережение зажигания и есть готовность работать с проводкой и ноутбуком.
 
-### Option E: Rae-San
+На V4MuscleBike есть прямой пример V45 Sabre: владелец 1982 VF750S поставил TCIP4. Мотоцикл завёлся и работал, но тема хорошо предупреждает: программируемый блок не отменяет диагностику датчиков импульсов, топлива, зарядки и проводки.
 
-Best current evidence:
+Правило первой карты:
 
-- strong V65 forum support;
-- several users replace two V65 boxes with one Rae-San-style unit;
-- Rae-San PULSER TAI uses OEM inductive pickups and rotor on supported bikes.
+- сначала повторить штатные контрольные точки;
+- подтвердить их стробоскопом;
+- менять только одну вещь за раз.
+
+### Вариант E: Rae-San
+
+Что известно:
+
+- хорошие отзывы в темах по V65;
+- несколько владельцев меняли два V65-блока на один Rae-San-style модуль;
+- Rae-San PULSER TAI использует штатные индуктивные датчики и ротор на поддерживаемых моделях.
 
 Ограничение:
 
-- V65 evidence не значит V45 VF750S plug-in;
-- contact vendor and verify exact VF750S application.
+- опыт V65 не означает прямую совместимость с V45/VF750S;
+- перед покупкой нужно написать продавцу и подтвердить точное применение для VF750S.
 
-### Option F: generic capacitive CDI
+### Вариант F: универсальный ёмкостной CDI
 
 Обычно плохой первый ход.
 
 Причина:
 
-- stock VF750S is transistorized / inductive;
-- CDI coil requirements and wiring differ;
-- cheap universal CDI can create a new fault.
+- штатный VF750S использует транзисторное индуктивное зажигание;
+- у ёмкостного CDI другие требования к катушкам и проводке;
+- дешёвый универсальный блок может добавить новую неисправность.
 
-Capacitive CDI — только как full custom conversion.
+Ёмкостной CDI стоит рассматривать только как полноценную кастомную конверсию.
 
-## Installation checklist
+## Чеклист установки
 
 Перед заменой:
 
-- photograph every connector;
-- label original boxes;
-- record printed codes and connector colors;
-- clean harness connectors;
-- verify coil resistance and plug caps;
-- verify pulse generator resistance cold/hot;
-- verify charging voltage;
-- mount new module away from heat and water;
-- protect harness from seat-pan/rear-fender rub;
-- keep original boxes until road testing passed.
+- сфотографировать каждый разъём;
+- подписать старые блоки;
+- записать коды на корпусах и цвета разъёмов;
+- почистить разъёмы жгута;
+- проверить сопротивление катушек и свечных колпачков;
+- проверить датчики импульсов на холодную, а при необходимости и на горячую;
+- проверить зарядку;
+- закрепить новый блок вдали от воды и сильного нагрева;
+- защитить жгут от перетирания сиденьем и задним крылом;
+- оставить старые блоки до окончания дорожных проверок.
 
-## First-start checklist
+## Чеклист первого запуска
 
-1. Battery fully charged.
-2. Fuel system confirmed.
-3. Kill switch on.
-4. Connectors seated.
-5. Spark checked on all four cylinders.
-6. Engine started and warmed gently.
-7. Timing checked with strobe.
-8. Charging voltage checked.
-9. Short ride only.
-10. Hot restart tested.
-11. Module/connector temperature checked after ride.
+1. Аккумулятор полностью заряжен.
+2. Подача топлива проверена.
+3. Аварийный выключатель включён.
+4. Все разъёмы посажены.
+5. Искра проверена на всех четырёх цилиндрах.
+6. Двигатель запущен и мягко прогрет.
+7. Угол зажигания проверен стробоскопом.
+8. Напряжение зарядки проверено.
+9. Первая поездка короткая.
+10. Горячий перезапуск проверен.
+11. Температура блока и разъёмов проверена после поездки.
 
 ## Если проблема осталась
 
-### Still no spark
+### Всё ещё нет искры
 
 Вернуться к:
 
-- main fuse;
-- ignition switch;
-- kill switch;
-- coil feed;
-- spark-unit power;
-- pickup signal.
+- главному предохранителю;
+- замку зажигания;
+- аварийному выключателю;
+- питанию катушек;
+- питанию блоков зажигания;
+- сигналу датчиков импульсов.
 
-### One bank still dead
-
-Вернуться к:
-
-- pickup pair;
-- coil;
-- plug caps and HT leads;
-- spark-unit connector;
-- box compatibility.
-
-### Runs cold, fails hot
+### Всё ещё мертва одна пара
 
 Вернуться к:
 
-- pulse generators hot;
-- charging output hot;
-- connector voltage drop hot;
-- fuel delivery;
-- tank venting;
-- vacuum-operated fuel valve.
+- паре датчиков импульсов;
+- катушке;
+- свечным колпачкам и высоковольтным проводам;
+- разъёму блока;
+- совместимости блоков.
 
-### Runs, but badly
+### Работает холодным, глохнет горячим
 
-Не менять timing сразу. Проверить:
+Вернуться к:
 
-- valve clearances;
-- compression;
-- carb cleanliness;
-- carb synchronization;
-- intake leaks;
-- fuel flow.
+- датчикам импульсов на горячую;
+- зарядке на горячую;
+- падению напряжения в разъёмах;
+- подаче топлива;
+- вентиляции бака;
+- вакуумному топливному клапану.
+
+### Работает, но плохо
+
+Не менять сразу угол зажигания. Проверить:
+
+- зазоры клапанов;
+- компрессию;
+- чистоту карбюраторов;
+- синхронизацию карбюраторов;
+- подсос воздуха;
+- поток топлива.
 
 ## Лучшие источники
 
-- [CDI / Spark Unit tech and timing](../manuals/cdi-reference/01-cdi-tech-and-timing.md)
-- [CDI / Spark Unit diagnostics](../manuals/cdi-reference/02-cdi-diagnostics-and-setup.md)
-- [CDI / Spark Unit replacement options](../manuals/cdi-reference/03-cdi-replacement-options.md)
+- [Устройство и углы зажигания](../manuals/cdi-reference/01-cdi-tech-and-timing.md)
+- [Диагностика блоков зажигания](../manuals/cdi-reference/02-cdi-diagnostics-and-setup.md)
+- [Варианты замены блоков зажигания](../manuals/cdi-reference/03-cdi-replacement-options.md)
 - [V4MuscleBike - Here we go again](https://v4musclebike.com/threads/here-we-go-again.46903/)
 - [V4MuscleBike - V4spark.com](https://v4musclebike.com/forums/showthread.php?p=531158)
 - [V4MuscleBike - V65 CDI box](https://v4musclebike.com/forums/showthread.php?t=47554)

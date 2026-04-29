@@ -5,48 +5,60 @@
 
 ## Уже переведённые статьи
 
-- [CDI / TCI: диагностика и замена](cdi-testing-and-replacement.md)
-- [V4MuscleBike 1-го поколения: практические заметки](v4musclebike-forum-field-notes.md)
-
-## Основные статьи, которые ещё предстоит перевести
-
 ### Регулярное обслуживание
 
-- [Регулировка клапанов](../../HowTo/valve-adjustment.md)
-- [Замена масла и фильтра](../../HowTo/oil-and-filter-change.md)
-- [Обслуживание свечей зажигания](../../HowTo/spark-plug-service.md)
-- [Замена и доливка охлаждающей жидкости](../../HowTo/coolant-flush-and-fill.md)
-- [Прокачка тормозной жидкости](../../HowTo/brake-fluid-flush.md)
+- [Регулировка клапанов](valve-adjustment.md)
+- [Замена масла и фильтра](oil-and-filter-change.md)
+- [Обслуживание свечей зажигания](spark-plug-service.md)
+- [Замена и доливка охлаждающей жидкости](coolant-flush-and-fill.md)
+- [Прокачка тормозной жидкости](brake-fluid-flush.md)
 
 ### Диагностика и типовые неисправности
 
-- [Проверка распредвалов](../../HowTo/cam-inspection.md)
-- [Обслуживание натяжителя цепи ГРМ](../../HowTo/cam-chain-tensioner-service.md)
-- [Проверка компрессии](../../HowTo/compression-test.md)
-- [Проверка системы зарядки](../../HowTo/charging-system-test.md)
-- [Замена впускных патрубков](../../HowTo/intake-boot-replacement.md)
+- [V4MuscleBike 1-го поколения: практические заметки](v4musclebike-forum-field-notes.md)
+- [Проверка распредвалов](cam-inspection.md)
+- [Обслуживание натяжителя цепи ГРМ](cam-chain-tensioner-service.md)
+- [Проверка компрессии](compression-test.md)
+- [Проверка системы зарядки](charging-system-test.md)
+- [CDI / TCI: диагностика и замена](cdi-testing-and-replacement.md)
+- [Замена впускных патрубков](intake-boot-replacement.md)
 
 ### Топливная система и карбюраторы
 
-- [Снятие карбюраторов](../../HowTo/carburetor-removal.md)
-- [Диагностика отсутствия подачи топлива](../../HowTo/carburetor-no-fuel-delivery.md)
-- [Чистка карбюраторов](../../HowTo/carburetor-cleaning.md)
-- [Установка карбюраторов](../../HowTo/carburetor-installation.md)
-- [Синхронизация карбюраторов](../../HowTo/carburetor-synchronization.md)
-- [Замена вакуумных диафрагм](../../HowTo/vacuum-diaphragm-replacement.md)
+- [Снятие карбюраторов](carburetor-removal.md)
+- [Диагностика отсутствия подачи топлива](carburetor-no-fuel-delivery.md)
+- [Чистка карбюраторов](carburetor-cleaning.md)
+- [Установка карбюраторов](carburetor-installation.md)
+- [Синхронизация карбюраторов](carburetor-synchronization.md)
 
 ### Электрика
 
-- [Улучшение регулятора/выпрямителя](../../HowTo/regulator-rectifier-upgrade.md)
-- [Ремонт разъёма генератора](../../HowTo/stator-connector-repair.md)
-- [Улучшение массы](../../HowTo/ground-wire-upgrade.md)
+- [Улучшение регулятора/выпрямителя](regulator-rectifier-upgrade.md)
+- [Ремонт разъёма генератора](stator-connector-repair.md)
+- [Улучшение массы](ground-wire-upgrade.md)
 
 ### Кастомизация и доработки
 
-- [Установка клипонов](../../HowTo/clip-on-bars.md)
-- [Модификация задней рамы](../../HowTo/rear-subframe-modification.md)
-- [Сиденье и хвостовая часть](../../HowTo/seat-and-tail.md)
-- [Упрощение жгута проводки](../../HowTo/wiring-harness-simplification.md)
+- [Установка клипонов](clip-on-bars.md)
+- [Модификация задней рамы](rear-subframe-modification.md)
+- [Сиденье и хвостовая часть](seat-and-tail.md)
+- [Упрощение жгута проводки](wiring-harness-simplification.md)
+
+## Ещё не переведено
+
+- [Замена вакуумных диафрагм](../../HowTo/vacuum-diaphragm-replacement.md)
+- [Замена сальников вилки](../../HowTo/fork-seal-replacement.md)
+- [Замена масла в редукторе](../../HowTo/final-drive-oil-change.md)
+- [Обслуживание гидравлики сцепления](../../HowTo/clutch-hydraulic-bleeding.md)
+- [Замена дисков сцепления](../../HowTo/clutch-plate-replacement.md)
+- [Переборка обгонной муфты стартера](../../HowTo/starter-clutch-rebuild.md)
+- [Замена тормозных колодок](../../HowTo/brake-pad-replacement.md)
+- [Регулировка подшипников рулевой](../../HowTo/steering-head-bearing-adjustment.md)
+- [Переборка задней подвески Pro-Link](../../HowTo/pro-link-rear-suspension-rebuild.md)
+- [Смазка шлицов](../../HowTo/spline-lubrication.md)
+- [Ручной выключатель вентилятора](../../HowTo/fan-switch-manual-override.md)
+- [Замена термостата](../../HowTo/thermostat-replacement.md)
+- [Top-end oil mod](../../HowTo/top-end-oil-mod.md)
 
 ## Другие полезные русские материалы
 
@@ -56,3 +68,4 @@
 - [Проекты Sabre cafe racer](../Tuning/sabre-cafe-racer-projects.md)
 - [Планирование замены вилки](../Tuning/fork%20swap.md)
 - [Планирование EFI / ECU swap](../Tuning/ecu%20swap.md)
+- [Подача масла к верхней части двигателя](../Tuning/top-end-oiling.md)

@@ -1,99 +1,99 @@
-# V4MuscleBike: карта исследований по апгрейдам
+# V4MuscleBike: карта доработок и апгрейдов
 
-Русское зеркало: `Tuning/v4musclebike-upgrade-research.md`
+Русская версия: `Tuning/v4musclebike-upgrade-research.md`
 
-Проверено: 2026-04-29
+Проверено: 29.04.2026
 
-Scope: V4MuscleBike темы по alternative ignition/CDI/TCI, ECU/EFI conversion, fork swaps, cafe racer conversion и carb tuning. Форум большой, поэтому это high-signal map найденных полезных тем, а не полный архив всех упоминаний.
+Это обзор самых полезных тем V4MuscleBike по зажиганию, электронному впрыску, замене передней подвески, постройке cafe racer и настройке карбюраторов. Форум большой, поэтому здесь не полный архив, а практическая карта тем, которые стоит читать в первую очередь.
 
-## Короткий вывод для VF750S project
+## Краткие выводы для VF750S
 
-- Alternative ignition реально. Самый понятный programmable path на сайте — Ignitech TCIP4; Rae-San часто появляется в V65 CDI discussions. Перед покупкой нужно проверить exact V45/VF750S harness and pickup strategy.
-- EFI/ECU conversion возможен, но на V4MuscleBike нет сильного finished first-gen V45 Sabre recipe. Форум скорее советует clean, correctly tuned carbs, если проект не экспериментальный.
-- Fork swaps надо считать whole front-end swaps. Для V45 Sabre ближайшее low-drama направление — near-era VFR conventional forks. R1/GSX-R swaps уходят в custom stem/triple/wheel/brake territory.
-- Cafe racer builds на сайте полезны прежде всего как process and risk references: сначала road-legal function, потом visual cleanup.
-- Carb tuning — самая богатая зона знаний. Повторяющееся правило: valves first, carb sync second, idle-drop mixture last.
+- Альтернативное зажигание реально. Самый понятный программируемый вариант для V45 Sabre — Ignitech TCIP4. Rae-San часто обсуждают владельцы V65, но перед покупкой нужно проверять совместимость именно с V45/VF750S: разъёмы, датчики импульсов, катушки и карту зажигания.
+- Переход на электронный впрыск возможен, но на V4MuscleBike нет готового, подробно повторяемого рецепта для V45 Sabre. Для обычной езды форум чаще советует привести в порядок штатные карбюраторы.
+- Замена вилки — это замена всего передка: вилка, траверсы, рулевой шток, подшипники, колесо, ось, тормоза, органы управления, фара и проводка. Для V45 Sabre наиболее спокойное направление — близкая по эпохе Honda VFR. Вилки от R1/GSX-R требуют серьёзной кастомной работы.
+- Cafe racer проекты на форуме полезны прежде всего как примеры процесса: сначала механическая надёжность, тормоза, свет и охлаждение, потом внешний вид.
+- По карбюраторам информации больше всего. Повторяющееся правило: сначала клапаны, потом синхронизация карбюраторов, в конце регулировка смеси холостого хода.
 
-## Alternative CDI / TCI / ignition boxes
+## Зажигание: CDI / TCI / блоки зажигания
 
-Важная терминология: форум часто пишет `CDI`, но Honda V4 system лучше понимать как transistorized/inductive ignition. Box управляет coil primary switching and timing. Более сильная искра часто достигается не заменой box, а clean coil power and grounds.
+Важное словоупотребление: участники форума часто пишут `CDI`, но штатная система ранних Honda V4 технически ближе к индуктивному транзисторному зажиганию (`TCI`). Поэтому дешёвый “универсальный CDI” обычно не является прямой заменой штатных блоков.
 
 ### Найденные темы
 
-- [Here we go again](https://v4musclebike.com/threads/here-we-go-again.46903/) — владелец 1982 V45 Sabre ставит Ignitech TCIP4 из-за recurring igniter failures. Bike starts and runs, но дальнейшие intermittent symptoms ведут диагностику к fuel delivery, pulse generators или fuel-pump relay logic.
-- [V4spark.com](https://v4musclebike.com/forums/showthread.php?p=531158) — обсуждение 2025 года: Dualcam/V4spark production, вероятно, остановлен; упоминаются Rae-San и Ignitech.
-- [V65 CDI box](https://v4musclebike.com/forums/showthread.php?t=47554) — V65 discussion по замене двух spark boxes на Rae-San single-box solution; также уточняет, что fuel pump контролируется relay/pressure switch, не CDI boxes.
-- [Ideal ignition setup on V65](https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/) — системное обсуждение COP, relay-fed coil power, Rae-San, OEM/equivalent coils, plug caps и почему эти boxes не classic capacitive-discharge CDIs.
-- [Ignitech replacement for Dyna 3000](https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/) — 3rd-gen Magna thread, не first-gen, но полезен по TCIP4 programming, Dyna 3000-style curves, stock-like maps и DB9/software workflow.
-- [Ignitech ICM and jetting](https://v4musclebike.com/forums/showthread.php?t=40180) — 3rd-gen Magna thread, связывает programmable ignition и carb jetting. Полезен как warning: менять по одной переменной.
-- [no spark at front cylinders](https://v4musclebike.com/showthread.php?t=5602) — diagnostic thread по classic two-cylinder spark-loss pattern.
+- [Here we go again](https://v4musclebike.com/threads/here-we-go-again.46903/) — владелец 1982 V45 Sabre ставит Ignitech TCIP4 после повторяющихся подозрений на блоки зажигания. Мотоцикл заводится и работает, но дальнейшая диагностика всё равно уходит в подачу топлива, датчики импульсов и логику реле топливного насоса.
+- [V4spark.com](https://v4musclebike.com/forums/showthread.php?p=531158) — обсуждение 2025 года: производство Dualcam/V4spark, похоже, остановлено; как альтернативы упоминаются Rae-San и Ignitech.
+- [V65 CDI box](https://v4musclebike.com/forums/showthread.php?t=47554) — тема по V65 о замене двух блоков зажигания одним решением Rae-San. Также уточняется, что топливный насос управляется своим реле/датчиком давления, а не CDI-блоками.
+- [Ideal ignition setup on V65](https://v4musclebike.com/threads/ideal-ignition-setup-on-v65.45321/) — полезное системное обсуждение: питание катушек через реле, COP-катушки, Rae-San, штатные катушки, колпачки свечей и отличие TCI от классического CDI.
+- [Ignitech replacement for Dyna 3000](https://v4musclebike.com/threads/ignitech-replacement-for-dyna-3000.40044/) — тема по более поздней Magna, не по first-gen Sabre, но полезна по работе с TCIP4: программирование, базовые карты, кабель/разъём DB9 и осторожный подход к изменению углов.
+- [Ignitech ICM and jetting](https://v4musclebike.com/forums/showthread.php?t=40180) — тоже поздняя Magna, но хороший пример правила “менять одну переменную за раз”, особенно когда зажигание и карбюраторы трогают одновременно.
+- [no spark at front cylinders](https://v4musclebike.com/showthread.php?t=5602) — старая диагностическая тема по пропаданию искры на паре цилиндров.
 
 ### Практические выводы
 
-- Для repo основной service path: [CDI testing and replacement](../HowTo/cdi-testing-and-replacement.md) и [CDI replacement options](../manuals/cdi-reference/03-cdi-replacement-options.md).
-- Ignitech TCIP4 — самый интересный custom/programming route для V45 project, особенно если harness уже меняется.
-- Rae-San имеет strong V65 forum support, но V65 module нельзя автоматически считать V45 plug-in.
-- Programmable box сначала должен повторить stock timing checkpoints.
-- Если bike fails hot after ignition swap, test pulse generators hot и fuel-pump relay behavior до обвинения new box.
-- Для stronger spark relay-fed coil power and clean grounds могут быть важнее box swap.
+- Основной путь в этом репозитории: [диагностика и замена CDI/TCI](../HowTo/cdi-testing-and-replacement.md) и [варианты замены блоков зажигания](../manuals/cdi-reference/03-cdi-replacement-options.md).
+- Ignitech TCIP4 — самый интересный программируемый вариант для V45, особенно если жгут проводки уже переделывается.
+- Rae-San хорошо выглядит по отзывам владельцев V65, но это не доказывает прямую совместимость с V45.
+- Любой программируемый блок сначала должен повторить штатные контрольные углы зажигания. Только потом можно экспериментировать.
+- Если после замены блока мотоцикл глохнет на горячую, сначала проверить датчики импульсов на горячую, питание, массу и подачу топлива.
+- Для “более сильной искры” часто важнее чистое питание катушек через реле и хорошие массы, чем сама замена блока.
 
-## ECU / EFI / fuel injection conversion
+## Электронный впрыск / ECU / EFI
 
 ### Найденная тема
 
-- [Converting carbs to fuel injection](https://v4musclebike.com/threads/converting-carbs-to-fuel-injection.44405/) — direct V4MuscleBike thread от владельца 1983 VF750S. Тема подтверждает, что conversion возможен, но не дает finished repeatable V45 Sabre recipe.
+- [Converting carbs to fuel injection](https://v4musclebike.com/threads/converting-carbs-to-fuel-injection.44405/) — прямой вопрос владельца 1983 VF750S о переводе карбюраторного Sabre на впрыск. Тема подтверждает, что идея возможна, но не даёт готовой инструкции.
 
 ### Практические выводы
 
-- V4MuscleBike не дает сильный finished V45 Sabre EFI conversion guide.
-- Speeduino-style DIY EFI возможен, но это long project, not weekend upgrade.
-- Опытные участники считают clean, properly tuned carbs проще и надежнее для normal use.
-- EFI имеет смысл при experiment, turbo, altitude compensation или long-term parts independence.
-- Для practical rider build сначала rebuild and tune carb rack.
+- На V4MuscleBike нет сильного готового руководства по EFI именно для V45 Sabre.
+- Speeduino/Megasquirt-подход возможен, но это долгий инженерный проект, а не weekend upgrade.
+- Для обычной езды опытные участники чаще рекомендуют чистые, герметичные и правильно настроенные карбюраторы.
+- Впрыск имеет смысл, если проект экспериментальный: турбо, высота над уровнем моря, независимость от старых карбовых деталей или глубокая кастомизация.
+- Для практичного rider build сначала восстановить и настроить карбюраторы.
 
-Локально: [EFI / ECU swap planning](ecu%20swap.md).
+Локальная статья: [планирование EFI / ECU](ecu%20swap.md).
 
-## Fork swaps and suspension upgrades
+## Вилка и подвеска
 
 ### Найденные темы
 
-- [Fork swap?](https://v4musclebike.com/forums/showthread.php?t=34228) — V45 Sabre / VFR700 fork discussion. Близкие VFR forks могут совпадать по diameter/length, но Sabre brake calipers могут не встать; complete VFR wheel/brake/front-end package может быть проще.
-- [V65 fork swap](https://v4musclebike.com/forums/showthread.php?t=13645) — V65 discussion по stock fork replacement, anti-dive complaints, fork length/diameter constraints и идее springs/emulators instead of donor fork swap.
-- [GONE Custom cafe racer Honda V65 Sabre](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/) — V65 build/sale summary: Yamaha R1 front end, new head bearings, Blackbird rear shock, clip-ons, simplified wiring.
-- [Anybody has lowered the front suspension?](https://v4musclebike.com/threads/39121/) — lowering discussion; предупреждение, что sliding fork tubes changes handling.
-- [Magna Forks Upgrades](https://v4musclebike.com/forums/showthread.php?t=43709) — Race Tech springs, Gold Valve Emulators, Progressive springs, seals, bushings, preload, sag, fork oil.
-- [Fork Oil Type - MAGNA 1983 v45](https://v4musclebike.com/threads/fork-oil-type-magna-1983-v45.45044/) — oil/spring/preload discussion и reminder, что Magna and Sabre details differ.
-- [Progressive Springs?](https://v4musclebike.com/forums/showthread.php?t=32994) — first-gen Sabre spring discussion.
+- [Fork swap?](https://v4musclebike.com/forums/showthread.php?t=34228) — обсуждение V45 Sabre и вилки VFR700. Главная мысль: даже если диаметр и длина вилки близки, тормоза Sabre могут не подойти, поэтому иногда проще брать весь передний узел VFR с колесом и тормозами.
+- [V65 fork swap](https://v4musclebike.com/forums/showthread.php?t=13645) — тема по V65: претензии к anti-dive, ограничения по длине и диаметру вилки, а также идея, что новые пружины и эмуляторы могут быть разумнее донорской вилки.
+- [GONE Custom cafe racer Honda V65 Sabre](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/) — краткое описание V65 build: передок Yamaha R1, новые подшипники рулевой, задний амортизатор Blackbird, clip-ons и упрощённая проводка.
+- [Anybody has lowered the front suspension?](https://v4musclebike.com/threads/39121/) — предупреждение: простое опускание передка меняет управляемость и не всегда безопасно.
+- [Magna Forks Upgrades](https://v4musclebike.com/forums/showthread.php?t=43709) — Race Tech springs, Gold Valve Emulators, втулки, сальники, preload, sag и масло в вилке.
+- [Fork Oil Type - MAGNA 1983 v45](https://v4musclebike.com/threads/fork-oil-type-magna-1983-v45.45044/) — обсуждение масла, пружин и preload; полезно как напоминание, что Magna и Sabre отличаются.
+- [Progressive Springs?](https://v4musclebike.com/forums/showthread.php?t=32994) — first-gen Sabre: обсуждение прогрессивных пружин и бренда Progressive Suspension.
 
 ### Практические выводы
 
-- Для V45 Sabre ближайшее forum-supported направление — near-era VFR front end, но перед покупкой измерить fork length, tube diameter, axle, wheel, calipers, steering-stem fit.
-- Modern sportbike front end — custom fabrication project.
-- V65 R1 swaps доказывают концепцию на уровне семейства, не bolt-on compatibility для VF750S.
-- Если цель — лучше ехать, Race Tech/Progressive springs, Gold Valve Emulators, seals/bushings, sag and brake service могут быть лучше первого шага.
-- Не lowering ради stance без проверки trail, tire/frame clearance, brake-hose routing и full compression.
+- Ближайшее спокойное направление для V45 Sabre — передний узел Honda VFR близких лет, но всё нужно мерить: длину вилки, диаметр перьев, ось, колесо, тормоза, шток и подшипники.
+- Современный sportbike front end — это кастомный проект: шток, траверсы, подшипники, ограничители, колесо, тормоза, приборка, фара и органы управления.
+- Успешные V65/R1 проекты доказывают общую возможность, но не совместимость с VF750S “болт-в-болт”.
+- Если цель — улучшить езду, сначала рассмотреть пружины, эмуляторы клапанов, новые втулки/сальники, правильную просадку и обслуживание тормозов.
+- Не опускать передок только ради стойки без проверки trail, зазоров, хода подвески и маршрута тормозных шлангов.
 
-Локально: [Fork swap planning](fork%20swap.md).
+Локальная статья: [планирование замены вилки](fork%20swap.md).
 
 ## Cafe racer conversion
 
 ### Найденные темы
 
-- [1982-83 V45 Sabre Cafe Racer Build](https://v4musclebike.com/threads/1982-83-v45-sabre-cafe-racer-build.34759/) — Balkan Moto V45 Sabre build thread. Важное: переход на лучший donor, modern switchgear, wiring issues, road-legal function first, warning про rear tire/frame-hoop clearance.
-- [Newbie's '84 V65 Sabre](https://v4musclebike.com/threads/newbies-84-v65-sabre.25947/) — полный Sugarkryptonite V65 thread: streetfighter stage, R1 front-end fabrication, custom rear frame, Blackbird shock, engine paint, carb/sync, wiring cleanup, cooling trouble, shakedown fixes.
-- [GONE Custom cafe racer Honda V65 Sabre](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/) — summary того же V65 build: R1 front end, Blackbird shock, clip-ons, simplified wiring, custom headlight brackets, aftermarket speedometer, coolant reservoir, brakes, final-drive service.
-- [1984 v65 magna fork swap](https://v4musclebike.com/forums/showthread.php?t=8142) — не finished cafe build, но полезное planning discussion по spare Sabre/Magna parts.
+- [1982-83 V45 Sabre Cafe Racer Build](https://v4musclebike.com/threads/1982-83-v45-sabre-cafe-racer-build.34759/) — Balkan Moto V45 Sabre build thread. Важные детали: переход на более живой донор, современный switchgear, решение проблем проводки, приоритет дорожной пригодности и предупреждение о зазоре задней шины до хвостовой рамки.
+- [Newbie's '84 V65 Sabre](https://v4musclebike.com/threads/newbies-84-v65-sabre.25947/) — полный build thread Sugarkryptonite: streetfighter stage, передок R1, задняя рама, амортизатор Blackbird, покраска двигателя, карбы, синхронизация, проводка, охлаждение и post-build fixes.
+- [GONE Custom cafe racer Honda V65 Sabre](https://v4musclebike.com/threads/custom-cafe-racer-honda-v65-sabre.35922/) — краткое резюме того же V65 build: передок R1, Blackbird shock, clip-ons, упрощённая проводка, custom headlight brackets, электронный спидометр, бачок охлаждения, тормоза и обслуживание final drive.
+- [1984 v65 magna fork swap](https://v4musclebike.com/forums/showthread.php?t=8142) — не готовый cafe build, но полезное раннее обсуждение вариантов bobber, cafe racer, drag bike и streetfighter из Sabre/Magna деталей.
 
 ### Практические выводы
 
-- Начинать с лучшего mechanical donor; плохой donor быстро становится parts bike.
-- Сначала safety and road legal, потом final paint and styling.
-- Проверить full rear-suspension compression до welding rear hoop/tail.
-- Modern switchgear feasible, если работать от wiring diagram and Honda color conventions.
-- Не стирать всю оригинальную идентичность; лучшие комментарии ценили сохраненный Sabre/V4 character.
-- Wiring, gauges, cooling bottle, battery, rear light, headlight brackets and cable routing занимают не меньше времени, чем seat/tail.
+- Начинать с максимально живого донора. Плохой донор быстро превращается в parts bike.
+- Сначала безопасность, законный свет, тормоза, охлаждение и зарядка; потом финальная покраска и стиль.
+- До сварки хвостовой рамки проверять полный ход задней подвески и зазор до шины.
+- Современный switchgear реален, если работать по схеме и учитывать цветовую логику Honda.
+- Не стирать всю идентичность Sabre. Лучшие комментарии на форуме хвалят проекты, где остался характер V4/Sabre.
+- Проводка, приборы, бачок охлаждения, батарея, задний свет, фара и прокладка тросов занимают не меньше времени, чем сиденье и хвост.
 
-Локальные заметки:
+Локальные статьи:
 
 - [Sabre cafe racer project references](sabre-cafe-racer-projects.md)
 - [Newbie's 1984 V65 Sabre build notes](newbies-84-v65-sabre-build.md)
@@ -101,45 +101,45 @@ Scope: V4MuscleBike темы по alternative ignition/CDI/TCI, ECU/EFI conversi
 - [Seat and tail](../../HowTo/seat-and-tail.md)
 - [Wiring harness simplification](../../HowTo/wiring-harness-simplification.md)
 
-## Carburetor tuning
+## Настройка карбюраторов
 
 ### Найденные темы
 
-- [Carb adjustment... How to adjust](https://v4musclebike.com/threads/carb-adjustment-how-to-adjust.48433/) — current practical V45 thread: pilot screws, sync tools, `2.75 turns` baseline, idle около 1100 rpm warm, fuel-pump relay warning.
-- [Idle drop question? Sabre 1982](https://v4musclebike.com/threads/idle-drop-question-sabre-1982.34932/) — sequence: valves, sync, then mixture.
-- [My carb syncing notes](https://v4musclebike.com/threads/my-carb-syncing-notes.33980/) — sync #2 before #4, blip throttle, vacuum-port locations.
-- [main jet mix-up?](https://v4musclebike.com/threads/main-jet-mix-up.39587/) — 1983 V45 Sabre main jet / needle / slide-spring discussion; front/rear carb parts differ.
-- [Carb tuning](https://v4musclebike.com/threads/carb-tuning.48630/) — lean/rich diagnosis, blue pipe, white plug, idle-drop limits.
-- [RPM does not drop to idle](https://v4musclebike.com/threads/rpm-does-not-drop-to-idle.46355/) — hanging idle, lean condition, vacuum leaks, pilot blockage, airbox/plenum sealing.
-- [Carb Adjustment](https://v4musclebike.com/threads/carb-adjustment.16652/) — 3rd-gen Magna thread, полезен по cleaning, rejetting, needle shims.
-- [Ignitech ICM and jetting](https://v4musclebike.com/forums/showthread.php?t=40180) — one change at a time, main-jet-first tuning, warning against airbox cutting.
-- [How to access the carb sync/adjustment screws](https://v4musclebike.com/threads/how-to-access-the-carb-sync-adjustment-screws.29033/) — access/tooling discussion.
+- [Carb adjustment... How to adjust](https://v4musclebike.com/threads/carb-adjustment-how-to-adjust.48433/) — практическая тема по V45: винты качества, инструменты синхронизации, стартовая установка около `2.75` оборота, тёплый холостой ход около 1100 об/мин и предупреждение по реле топливного насоса.
+- [Idle drop question? Sabre 1982](https://v4musclebike.com/threads/idle-drop-question-sabre-1982.34932/) — порядок: клапаны, синхронизация, потом смесь.
+- [My carb syncing notes](https://v4musclebike.com/threads/my-carb-syncing-notes.33980/) — практические заметки по синхронизации, влиянию тяг и доступу к вакуумным портам.
+- [main jet mix-up?](https://v4musclebike.com/threads/main-jet-mix-up.39587/) — 1983 V45 Sabre: главные жиклёры, иглы и пружины заслонок; передние и задние карбы не всегда одинаковы.
+- [Carb tuning](https://v4musclebike.com/threads/carb-tuning.48630/) — диагностика бедной/богатой смеси, цвет свечей, синий выпуск, забитые каналы холостого хода.
+- [RPM does not drop to idle](https://v4musclebike.com/threads/rpm-does-not-drop-to-idle.46355/) — зависание оборотов, бедная смесь, подсос воздуха, грязный пилотный контур и герметичность airbox/plenum.
+- [Carb Adjustment](https://v4musclebike.com/threads/carb-adjustment.16652/) — тема по поздней Magna, полезна общим подходом к чистке, жиклёрам и подкладкам под иглы.
+- [Ignitech ICM and jetting](https://v4musclebike.com/forums/showthread.php?t=40180) — полезна правилом “одна переменная за раз” и предупреждением против необратимого распила airbox.
+- [How to access the carb sync/adjustment screws](https://v4musclebike.com/threads/how-to-access-the-carb-sync-adjustment-screws.29033/) — доступ к винтам синхронизации и регулировки.
 
 ### Порядок настройки
 
-1. Set valve clearances.
-2. Confirm spark on all four cylinders.
-3. Confirm fuel pump/filter/petcock/lines не restrict flow.
-4. Confirm intake boots and vacuum caps seal.
-5. Clean carbs deeply enough.
-6. Bench sync before installation.
-7. Warm bike and vacuum sync rack.
-8. Set pilot screws to model-specific baseline.
-9. Use idle-drop or exhaust-gas method for final pilot mixture.
-10. Только потом jets, needles, shims, airbox, exhaust.
+1. Отрегулировать клапаны.
+2. Убедиться, что искра есть на всех четырёх цилиндрах.
+3. Проверить, что бак, фильтр, кран, насос и шланги не ограничивают поток топлива.
+4. Проверить впускные патрубки и вакуумные заглушки.
+5. Вычистить карбы так, чтобы контур холостого хода реагировал на регулировку.
+6. Сделать предварительную синхронизацию на столе.
+7. Прогреть двигатель и сделать вакуумную синхронизацию.
+8. Поставить винты качества в базовое положение для конкретной модели.
+9. Настроить смесь холостого хода методом падения оборотов или по газоанализатору.
+10. Только после этого трогать главные жиклёры, иглы, подкладки, airbox или выпуск.
 
-### First-gen V45/Sabre-specific notes
+### Заметки по first-gen V45/Sabre
 
-- Форум часто указывает около `2.75 turns out` как common initial pilot-screw baseline, но нужно проверять exact model/year manual.
-- В 1983 V45 Sabre обсуждении front/rear carb parts differ. Не считать все четыре carbs одинаковыми.
-- Longer slide springs belong in front carbs в V45 Sabre discussion.
-- Если pilot screws не меняют idle behavior, подозревать plugged pilot circuits, dead cylinder или major air leak.
-- Hanging idle обычно lean mixture, air leak, sticky linkage или dirty pilot circuit.
-- Sync and mixture — разные работы.
+- На форуме часто встречается стартовое значение около `2.75` оборота, но нужно сверяться с годом и моделью.
+- На 1983 V45 Sabre передние и задние карбы отличаются по некоторым деталям. Не считать все четыре одинаковыми.
+- В обсуждении V45 Sabre длинные пружины заслонок относятся к передним карбам.
+- Если винты качества не влияют на холостой ход, сначала искать забитый пилотный контур, мёртвый цилиндр или крупный подсос воздуха.
+- Зависание оборотов обычно связано с бедной смесью, подсосом воздуха, заедающей тягой или грязным контуром холостого хода.
+- Синхронизация и смесь — разные работы.
 
 ## Что исследовать дальше
 
-- Confirm exact VF750S/V45 Ignitech ordering details: connector, adapter, base map, pickup settings, coil dwell, ready map.
-- Собрать отдельную V45 carb-tuning article с jet tables.
-- Добавить front-end measurement worksheet.
-- Разбить cafe racer work на safety gates: suspension travel, brake function, lighting legality, wiring reliability, cooling clearance.
+- Точные детали заказа Ignitech для VF750S/V45: разъёмы, адаптер, базовая карта, настройки датчиков, dwell катушек.
+- Отдельная статья по настройке карбюраторов V45 с таблицами жиклёров.
+- Таблица измерений штатного VF750S и возможного донорского передка.
+- Разделить cafe racer работы на safety gates: ход подвески, тормоза, законность света, надёжность проводки и зазоры охлаждения.

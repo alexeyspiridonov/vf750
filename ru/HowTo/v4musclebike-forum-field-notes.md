@@ -89,28 +89,28 @@
 - [V 65 pulse generators](https://v4musclebike.com/threads/v-65-pulse-generators.48529/)
 - [Coil on Plug mistake - polarity, it matters](https://v4musclebike.com/threads/coil-on-plug-cop-mistake-polarity-it-matters.48524/)
 
-### Valve adjustment, top-end noise, cam chains and oiling
+### Регулировка клапанов, шум сверху двигателя, цепи ГРМ и смазка
 
-Forum titles часто повторяют rattles under load, valve-versus-cam-chain diagnosis, Dean oil mod, rocker-arm interchange, hot hesitation and Honda valve-adjusting bulletin.
+В названиях тем постоянно повторяются стуки под нагрузкой, попытки отличить шум клапанов от шума цепей ГРМ, вопросы по Dean oil mod, взаимозаменяемости рокеров, провалам на горячую и заводскому бюллетеню Honda по регулировке клапанов.
 
-Практический путь:
+Практический алгоритм:
 
-1. Cold valve adjustment before tuning around noise.
-2. Use two-feeler-gauge method where applicable.
-3. Be gentle with adjuster locknuts.
-4. Inspect cam lobes, rocker pads and oiling condition while covers are off.
-5. Separate cam-chain noise from valve lash noise by rpm, load and location.
-6. Oiling mod рассматривать только после baseline oil pressure, maintenance and cam condition.
+1. Сначала отрегулируйте клапаны на холодном двигателе, а не пытайтесь “настроить вокруг” шума.
+2. Где уместно, используйте метод с двумя щупами.
+3. Аккуратно затягивайте контргайки регулировочных винтов.
+4. Пока крышки сняты, осмотрите кулачки распредвалов, рабочие поверхности рокеров и следы нормальной подачи масла.
+5. Отделяйте шум цепи ГРМ от клапанного шума по оборотам, нагрузке и месту звука.
+6. Масляный мод рассматривайте только после проверки базового давления масла, обслуживания и состояния распредвалов.
 
 Локальные ссылки:
 
-- [Valve adjustment](../../HowTo/valve-adjustment.md)
-- [Cam inspection](../../HowTo/cam-inspection.md)
-- [Cam chain tensioner service](../../HowTo/cam-chain-tensioner-service.md)
-- [Top end oil modification](../../HowTo/top-end-oil-mod.md)
-- [Top-end oiling guide](../Tuning/top-end-oiling.md)
+- [Регулировка клапанов](../../HowTo/valve-adjustment.md)
+- [Осмотр распредвалов](../../HowTo/cam-inspection.md)
+- [Обслуживание натяжителей цепей ГРМ](../../HowTo/cam-chain-tensioner-service.md)
+- [Модификация подачи масла к верхней части двигателя](../../HowTo/top-end-oil-mod.md)
+- [Гайд по смазке верхней части двигателя](../Tuning/top-end-oiling.md)
 
-Forum examples:
+Примеры с форума:
 
 - [Honda Valve Adjusting Bulletin](https://v4musclebike.com/forums/showthread.php?t=46260)
 - [Question about the Dean oil mod](https://v4musclebike.com/threads/question-about-the-dean-oil-mod.48586/)
@@ -118,77 +118,77 @@ Forum examples:
 - [Valves, or cam chains ? Damn noises !](https://v4musclebike.com/threads/valves-or-cam-chains-damn-noises.42359/)
 - [Are the V65 Magna and V65 Sabre rocker arms the same?](https://v4musclebike.com/threads/are-the-v65-magna-and-v65-sabre-rocker-arms-the-same.24735/)
 
-### Hot start, no start and weak starter
+### Горячий запуск, отказ запуска и слабый стартер
 
-Hot-start complaints пересекаются с charging, starter current draw, ground condition, ignition heat soak, carb richness and valve clearance.
+Жалобы на горячий запуск часто пересекаются с зарядкой, большим током стартера, плохой массой, перегревом компонентов зажигания, богатой смесью и зазорами клапанов.
 
-Практический путь:
+Практический алгоритм:
 
-1. Confirm battery voltage under cranking.
-2. Clean main ground and starter cable ends.
-3. Check charging output before replacing starter.
-4. Verify valve clearances if hard to start hot.
-5. Check mixture and choke/enrichment after electrical baseline is proven.
+1. Проверяйте напряжение аккумулятора именно во время прокрутки стартером.
+2. Очистите главную массу и концы силового кабеля стартера.
+3. Проверьте зарядку до замены стартера.
+4. Если мотор плохо заводится на горячую, проверьте зазоры клапанов.
+5. Смесь и работу подсоса проверяйте уже после того, как электрика приведена в порядок.
 
 Локальные ссылки:
 
-- [Starter clutch rebuild](../../HowTo/starter-clutch-rebuild.md)
-- [Charging system test](../../HowTo/charging-system-test.md)
-- [Ground wire upgrade](../../HowTo/ground-wire-upgrade.md)
-- [Valve adjustment](../../HowTo/valve-adjustment.md)
-- [Compression test](../../HowTo/compression-test.md)
+- [Ремонт обгонной муфты стартера](../../HowTo/starter-clutch-rebuild.md)
+- [Проверка системы зарядки](../../HowTo/charging-system-test.md)
+- [Улучшение массы](../../HowTo/ground-wire-upgrade.md)
+- [Регулировка клапанов](../../HowTo/valve-adjustment.md)
+- [Проверка компрессии](../../HowTo/compression-test.md)
 
-Forum examples:
+Примеры с форума:
 
 - [Hard to start when Hot](https://v4musclebike.com/threads/hard-to-start-when-hot.41814/)
 - [Starter won't turn motor](https://v4musclebike.com/threads/starter-wont-turn-motor.48527/)
 - [Ignition issue at cold start](https://v4musclebike.com/threads/ignition-issue-at-cold-start.47741/)
 
-### Shaft drive and final drive leaks
+### Кардан и течи редуктора
 
-Recurring questions: gear oil out vent, axle-side bearing/seal service, spline play, drive noises near left foot.
+Повторяющиеся вопросы: масло из сапуна редуктора, подшипник и сальник со стороны оси, люфт шлицов и шумы со стороны левой ноги.
 
-Практический путь:
+Практический алгоритм:
 
-1. Confirm final-drive oil level and do not overfill.
-2. Check vent before assuming seal failed.
-3. Inspect axle-side seal and bearing if oil exits near axle bore.
-4. Grease splines during rear wheel removal.
-5. Investigate left-foot squeal/clunking before long rides.
+1. Проверьте уровень масла в редукторе и не переливайте.
+2. Сначала проверьте сапун, а не сразу обвиняйте сальник.
+3. Если масло выходит возле отверстия оси, осмотрите сальник и подшипник с этой стороны.
+4. Смазывайте шлицы при снятии заднего колеса.
+5. Скрип или стук возле левой ноги выясняйте до дальних поездок.
 
 Локальные ссылки:
 
-- [Spline lubrication](../../HowTo/spline-lubrication.md)
-- [Final drive oil change](../../HowTo/final-drive-oil-change.md)
+- [Смазка шлицов](../../HowTo/spline-lubrication.md)
+- [Замена масла в редукторе](../../HowTo/final-drive-oil-change.md)
 
-Forum examples:
+Примеры с форума:
 
 - [Gear Oil Leaking Out Final Drive Vent](https://v4musclebike.com/threads/gear-oil-leaking-out-final-drive-vent.47994/)
 - [Final Drive Axle Bearing and Seal Replacement](https://v4musclebike.com/threads/final-drive-axle-bearing-and-seal-replacement.48015/)
 - [Squeal Near Left Foot](https://v4musclebike.com/threads/squeal-near-left-foot.48609/)
 
-### Brakes, suspension and chassis interchange
+### Тормоза, подвеска и совместимость деталей
 
-Recent index includes rear-brake adjustment, brake rotors, caliper hanger removal, rear shock questions, V65 second gear, handlebar swaps and missing body/accessory parts.
+В свежих темах встречаются регулировка заднего тормоза, тормозные диски, снятие кронштейна суппорта, задние амортизаторы, проблема второй передачи V65, замена руля и поиск недостающих деталей облицовки/аксессуаров.
 
-Практический путь:
+Практический алгоритм:
 
-1. Use model-specific parts diagrams before assuming interchange.
-2. Treat brake work as system: master cylinder, hoses, calipers, pads, rotors, rear drum linkage.
-3. For rear shock swaps compare eye-to-eye length, bushing width, spring rate and reservoir clearance.
-4. For transmission complaints verify clutch hydraulics and shift linkage before assuming gearbox failure.
+1. Перед предположениями о совместимости смотрите схемы деталей именно вашей модели.
+2. Тормоза проверяйте как систему: главный цилиндр, шланги, суппорты, колодки, диски и тяги заднего барабана.
+3. При подборе заднего амортизатора сравнивайте длину по центрам, ширину втулок, жёсткость пружины и зазоры бачка.
+4. При жалобах на коробку сначала проверяйте гидравлику сцепления и механизм переключения, а не сразу разбирайте двигатель.
 
 Локальные ссылки:
 
-- [Brake pad replacement](../../HowTo/brake-pad-replacement.md)
-- [Brake fluid flush](../../HowTo/brake-fluid-flush.md)
-- [Clutch hydraulic bleeding](../../HowTo/clutch-hydraulic-bleeding.md)
-- [Clutch plate replacement](../../HowTo/clutch-plate-replacement.md)
-- [Pro-Link rear suspension rebuild](../../HowTo/pro-link-rear-suspension-rebuild.md)
-- [Steering head bearing adjustment](../../HowTo/steering-head-bearing-adjustment.md)
-- [Fork swap planning](../Tuning/fork%20swap.md)
+- [Замена тормозных колодок](../../HowTo/brake-pad-replacement.md)
+- [Прокачка тормозной жидкости](../../HowTo/brake-fluid-flush.md)
+- [Прокачка гидравлики сцепления](../../HowTo/clutch-hydraulic-bleeding.md)
+- [Замена дисков сцепления](../../HowTo/clutch-plate-replacement.md)
+- [Переборка задней подвески Pro-Link](../../HowTo/pro-link-rear-suspension-rebuild.md)
+- [Регулировка подшипников рулевой](../../HowTo/steering-head-bearing-adjustment.md)
+- [Планирование замены вилки](../Tuning/fork%20swap.md)
 
-Forum examples:
+Примеры с форума:
 
 - [Rear brake adjustment difficult](https://v4musclebike.com/threads/rear-brake-adjustment-difficult.48558/)
 - [Brake rotors](https://v4musclebike.com/threads/brake-rotors.48167/)
@@ -198,9 +198,9 @@ Forum examples:
 
 ## Выводы для проекта
 
-- Repo уже покрывает самые частые forum problems: carbs, charging, CDI, valves, cam inspection, oiling, cooling, clutch, brakes, Pro-Link and final drive.
-- Следующие gaps: instrument-cluster diagnostics, fuel-pump relay diagnostics, rear shock interchange, hot-start troubleshooting flow.
-- Для cafe racer forum полезен stock routing, part interchange and hidden model-year differences before fabrication.
-- Forum advice — это field experience; сверять с factory manual и exact model year.
-- По upgrades см. [V4MuscleBike upgrade research map](../Tuning/v4musclebike-upgrade-research.md).
-- Полный build-process example: [Newbie's 1984 V65 Sabre build notes](../Tuning/newbies-84-v65-sabre-build.md) и [local image archive](../../Images/build-process/newbies-84-v65-sabre/README.md).
+- Репозиторий уже покрывает самые частые форумные проблемы: карбюраторы, зарядку, CDI/TCI, клапаны, осмотр распредвалов, смазку, охлаждение, сцепление, тормоза, Pro-Link и редуктор.
+- Следующие пробелы: диагностика приборной панели, реле топливного насоса, совместимость задних амортизаторов и отдельный алгоритм поиска причин плохого горячего запуска.
+- Для cafe racer работ форум полезен тем, что показывает штатную прокладку проводки, совместимость деталей и скрытые отличия по годам до начала сварки и резки.
+- Советы форума — это полевой опыт. Их нужно сверять с заводским мануалом и точным годом/моделью мотоцикла.
+- По апгрейдам см. [карту исследований V4MuscleBike](../Tuning/v4musclebike-upgrade-research.md).
+- Полный пример процесса сборки: [заметки по Newbie's 1984 V65 Sabre](../Tuning/newbies-84-v65-sabre-build.md) и [локальный фотоархив](../../Images/build-process/newbies-84-v65-sabre/README.md).
